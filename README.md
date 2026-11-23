@@ -1,2 +1,2 @@
 # Obsidian_Berufsschule
-1
+Vault für das Lernen zur AP1 Fachinformatiker für AE mithilfe von KI Notebooks.
