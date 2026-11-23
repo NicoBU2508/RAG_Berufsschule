@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "validated_on": "2026-07-13",
+  "status": "pass",
+  "checks_passed": 42,
+  "checks_failed": 0,
+  "checks": [
+    {
+      "name": "36 nicht-private PDFs erfasst",
+      "status": "pass"
+    },
+    {
+      "name": "902 nicht-private PDF-Seiten erfasst",
+      "status": "pass"
+    },
+    {
+      "name": "33 aktive PDFs visuell geprüft",
+      "status": "pass"
+    },
+    {
+      "name": "805 aktive Seiten visuell geprüft",
+      "status": "pass"
+    },
+    {
+      "name": "jede aktive Audit-Seite eindeutig",
+      "status": "pass"
+    },
+    {
+      "name": "3 PDF-Dubletten nachgewiesen",
+      "status": "pass"
+    },
+    {
+      "name": "97 Dublettenseiten nachgewiesen",
+      "status": "pass"
+    },
+    {
+      "name": "private PDF ungelesen",
+      "status": "pass"
+    },
+    {
+      "name": "kanonische Seitenbilanz 805",
+      "status": "pass",
+      "details": "{\"evidence\"=>713, \"support_only\"=>3, \"excluded\"=>89}"
+    },
+    {
+      "name": "713 direkte Evidenzseiten",
+      "status": "pass",
+      "details": "{\"evidence\"=>713, \"support_only\"=>3, \"excluded\"=>89}"
+    },
+    {
+      "name": "3 Support-Seiten",
+      "status": "pass",
+      "details": "{\"evidence\"=>713, \"support_only\"=>3, \"excluded\"=>89}"
+    },
+    {
+      "name": "89 ausgeschlossene aktive Seiten",
+      "status": "pass",
+      "details": "{\"evidence\"=>713, \"support_only\"=>3, \"excluded\"=>89}"
+    },
+    {
+      "name": "Ausschlüsse tragen keine Themen",
+      "status": "pass"
+    },
+    {
+      "name": "jede zugelassene Seite hat Thema",
+      "status": "pass"
+    },
+    {
+      "name": "Audit und Mapping deckungsgleich",
+      "status": "pass"
+    },
+    {
+      "name": "101 kanonische Themen",
+      "status": "pass"
+    },
+    {
+      "name": "3 OCR-Korrekturen registriert",
+      "status": "pass"
+    },
+    {
+      "name": "7 sensible Seiten abstrahiert",
+      "status": "pass"
+    },
+    {
+      "name": "Risikoanalyse nur Wittmann S.48–57",
+      "status": "pass",
+      "details": "[\"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=48\", \"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=49\", \"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=50\", \"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=51\", \"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=52\", \"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=53\", \"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=54\", \"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=55\", \"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=56\", \"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=57\"]"
+    },
+    {
+      "name": "Schutzbedarf enthält Wittmann S.17–23",
+      "status": "pass",
+      "details": "[\"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=17\", \"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=18\", \"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=19\", \"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=20\", \"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=21\", \"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=22\", \"02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=23\"]"
+    },
+    {
+      "name": "alle und nur kanonische Themendateien vorhanden",
+      "status": "pass"
+    },
+    {
+      "name": "alle Themendateien visuell markiert",
+      "status": "pass"
+    },
+    {
+      "name": "Themenindex enthält 101 Ziele",
+      "status": "pass"
+    },
+    {
+      "name": "33 Quellen vollständig und exakt umgebaut",
+      "status": "pass",
+      "details": ""
+    },
+    {
+      "name": "AE-OCR-Anhänge lokal integriert",
+      "status": "pass"
+    },
+    {
+      "name": "BGWP-OCR eindeutig seitenbezogen",
+      "status": "pass"
+    },
+    {
+      "name": "Netzplan-OCR nur lokal integriert",
+      "status": "pass"
+    },
+    {
+      "name": "keine globalen OCR-Anhänge in Quellen",
+      "status": "pass"
+    },
+    {
+      "name": "sensible Unterrichts-Rohdaten nicht indexierbar",
+      "status": "pass"
+    },
+    {
+      "name": "7 datenschutzsichere Seitenzusammenfassungen",
+      "status": "pass"
+    },
+    {
+      "name": "keine widersprüchlichen OCR-Hinweise auf sensibler S.17",
+      "status": "pass"
+    },
+    {
+      "name": "Copilot-Dateiallowlist und Sicherheitsmodus gehärtet",
+      "status": "pass",
+      "details": "Ist: 134; Soll: 134"
+    },
+    {
+      "name": "Manifest: 101 geprüfte Themen primär",
+      "status": "pass"
+    },
+    {
+      "name": "Manifest: alte Themen ausgeschlossen",
+      "status": "pass"
+    },
+    {
+      "name": "Manifest: alle Lernmodule ausgeschlossen",
+      "status": "pass"
+    },
+    {
+      "name": "Manifest: Privatbereich ausgeschlossen",
+      "status": "pass"
+    },
+    {
+      "name": "Manifest: 30 aktive und 3 ausgeschlossene Quellen",
+      "status": "pass"
+    },
+    {
+      "name": "Manifest: Belegreihenfolge Quelle vor PDF",
+      "status": "pass"
+    },
+    {
+      "name": "Manifest: PDF-Dubletten immer ausgeschlossen",
+      "status": "pass"
+    },
+    {
+      "name": "Manifest: keine unbekannte Datei",
+      "status": "pass"
+    },
+    {
+      "name": "Quellenmatrix nur mit geprüften Themen",
+      "status": "pass"
+    },
+    {
+      "name": "alle nicht-privaten lokalen Referenzen auflösbar",
+      "status": "pass",
+      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-07-13\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>543, \"wiki_links\"=>21957, \"local_markdown_links\"=>8739, \"unresolved\"=>0, \"failures\"=>[]}"
+    }
+  ]
+}

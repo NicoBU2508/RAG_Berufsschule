@@ -1,0 +1,13 @@
+# Local operating system and Obsidian state
+.DS_Store
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Contains account identifiers and credential settings
+.obsidian/plugins/copilot/data.json
+
+# Personal grades; keep copies of this private material off the remote
+**/Privat_Noten_nicht_fuer_KI/
+
+# The initialized checkout lives here; this outer folder is the project root.
+/Obsidian_Berufsschule/

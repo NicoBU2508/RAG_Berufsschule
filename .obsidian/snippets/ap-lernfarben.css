@@ -1,0 +1,20 @@
+/* AP-Lernhelfer Farben: Callouts und klare Lernbereiche */
+.markdown-preview-view h1, .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-1 {
+  border-bottom: 3px solid var(--interactive-accent);
+  padding-bottom: .25rem;
+}
+.callout[data-callout="ap1"] { --callout-color: 35, 131, 226; --callout-icon: lucide-target; }
+.callout[data-callout="ap2"] { --callout-color: 126, 87, 194; --callout-icon: lucide-rocket; }
+.callout[data-callout="quelle"] { --callout-color: 47, 158, 68; --callout-icon: lucide-file-text; }
+.callout[data-callout="referenz"] { --callout-color: 245, 124, 0; --callout-icon: lucide-link; }
+.callout[data-callout="ocr"] { --callout-color: 214, 48, 49; --callout-icon: lucide-eye; }
+.callout[data-callout="altklausur"] { --callout-color: 0, 137, 123; --callout-icon: lucide-clipboard-check; }
+.markdown-preview-view table { width: 100%; }
+.markdown-preview-view code { white-space: pre-wrap; }
+
+/* Neue Themenordner: Lernfarben */
+.callout[data-callout="summary"] { --callout-color: 35, 131, 226; --callout-icon: lucide-list-checks; }
+.callout[data-callout="lernziel"] { --callout-color: 126, 87, 194; --callout-icon: lucide-crosshair; }
+.callout[data-callout="merke"] { --callout-color: 245, 124, 0; --callout-icon: lucide-lightbulb; }
+.callout[data-callout="info"] { --callout-color: 0, 137, 123; --callout-icon: lucide-info; }
+.themenordner h2 { border-left: 4px solid var(--interactive-accent); padding-left: .5rem; }

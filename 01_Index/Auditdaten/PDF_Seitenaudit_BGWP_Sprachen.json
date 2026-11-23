@@ -1,0 +1,603 @@
+{
+  "schema_version": "1.0",
+  "audit_scope": {
+    "source_roots": [
+      "02_Faecher/BGWP_Betriebswirtschaft/Quellen",
+      "02_Faecher/Deutsch/Quellen",
+      "02_Faecher/Englisch/Quellen"
+    ],
+    "excluded_root": "98_Archiv_nicht_lernen",
+    "worklist": "01_Index/PDF_Seitenaudit_Worklist.json",
+    "method": "Every PDF page was rendered in contact sheets and visually inspected at original detail; ranges below are exhaustive and non-overlapping.",
+    "mapping_delta_semantics": "For each page/range, exact module removals equal the PDF current_modules minus that range's recommended_modules; exact additions equal recommended_modules minus current_modules. mapping_issues additionally state cluster-level module and topic corrections.",
+    "auditor_note": "No vault file was edited. Output is a read-only audit artifact in /private/tmp."
+  },
+  "pdfs": [
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/BGWP.pdf",
+      "total_pages": 54,
+      "contact_sheets_checked": 14,
+      "current_modules": [
+        "Aufgaben Übungen und Lösungen",
+        "Betrieb und Unternehmen",
+        "Betriebswirtschaft BGWP",
+        "Geschäftsbrief Anfrage Angebot",
+        "Kaufvertrag und Rechtsgeschäfte",
+        "Materialwirtschaft und Beschaffung",
+        "Personalwirtschaft",
+        "Produktionsfaktoren",
+        "Unternehmen und betriebliche Funktionen"
+      ],
+      "current_curated_topics": [
+        "Geschäftsbrief",
+        "Betrieb und Unternehmen",
+        "Betriebswirtschaft BGWP"
+      ],
+      "ranges": [
+        {"start_page":1,"end_page":1,"primary_topic":"Betriebliche Funktionsbereiche","secondary_topics":["Unternehmensfunktionen"],"content_type":"theorie","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Unternehmen und betriebliche Funktionen"]},
+        {"start_page":2,"end_page":2,"primary_topic":"Betriebliche Funktionsbereiche","secondary_topics":["Unternehmensfunktionen"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Unternehmen und betriebliche Funktionen","Aufgaben Übungen und Lösungen"]},
+        {"start_page":3,"end_page":3,"primary_topic":"Produktionsfaktoren","secondary_topics":["elementare und dispositive Faktoren"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Produktionsfaktoren","Aufgaben Übungen und Lösungen"]},
+        {"start_page":4,"end_page":4,"primary_topic":"Unternehmensziele","secondary_topics":["Zielbildung"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensziele","Aufgaben Übungen und Lösungen"]},
+        {"start_page":5,"end_page":5,"primary_topic":"Unternehmensziele","secondary_topics":["SMART-Formel"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensziele"]},
+        {"start_page":6,"end_page":6,"primary_topic":"SMART-Ziele","secondary_topics":["Unternehmensziele"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensziele","Aufgaben Übungen und Lösungen"]},
+        {"start_page":7,"end_page":7,"primary_topic":"Zielarten","secondary_topics":["Sachziele","Formalziele","soziale Ziele"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensziele"]},
+        {"start_page":8,"end_page":8,"primary_topic":"Zielarten","secondary_topics":["Sachziele","Formalziele","soziale Ziele"],"content_type":"loesung","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensziele","Aufgaben Übungen und Lösungen"]},
+        {"start_page":9,"end_page":10,"primary_topic":"Zielarten","secondary_topics":["Unternehmensziele"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensziele","Aufgaben Übungen und Lösungen"]},
+        {"start_page":11,"end_page":11,"primary_topic":"Zielbeziehungen","secondary_topics":["komplementär","konkurrierend","indifferent"],"content_type":"loesung","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensziele","Aufgaben Übungen und Lösungen"]},
+        {"start_page":12,"end_page":12,"primary_topic":"Zielbeziehungen","secondary_topics":["Unternehmensziele"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensziele","Aufgaben Übungen und Lösungen"]},
+        {"start_page":13,"end_page":13,"primary_topic":"Wirtschaftssektoren","secondary_topics":["primär","sekundär","tertiär"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Wirtschaftssektoren"]},
+        {"start_page":14,"end_page":15,"primary_topic":"Wirtschaftssektoren","secondary_topics":["Strukturwandel"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Wirtschaftssektoren","Aufgaben Übungen und Lösungen"]},
+        {"start_page":16,"end_page":16,"primary_topic":"Ökonomisches Prinzip","secondary_topics":["Minimalprinzip","Maximalprinzip","Optimumprinzip"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Wirtschaftlichkeit und Rechnungswesen"]},
+        {"start_page":17,"end_page":18,"primary_topic":"Ökonomisches Prinzip","secondary_topics":["Minimalprinzip","Maximalprinzip"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Wirtschaftlichkeit und Rechnungswesen","Aufgaben Übungen und Lösungen"]},
+        {"start_page":19,"end_page":20,"primary_topic":"Arbeitsteilung","secondary_topics":["betriebliche Arbeitsteilung","volkswirtschaftliche Arbeitsteilung"],"content_type":"theorie","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Betrieb und Unternehmen"]},
+        {"start_page":21,"end_page":21,"primary_topic":"Arbeitsteilung","secondary_topics":["Vor- und Nachteile"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Betrieb und Unternehmen","Aufgaben Übungen und Lösungen"]},
+        {"start_page":22,"end_page":24,"primary_topic":"Wirtschaftskreislauf","secondary_topics":["Marktbegriff","einfacher Wirtschaftskreislauf","erweiterter Wirtschaftskreislauf"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Marktumfeld und Marktformen"]},
+        {"start_page":25,"end_page":25,"primary_topic":"Wirtschaftskreislauf","secondary_topics":["Geld- und Güterströme"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Marktumfeld und Marktformen","Aufgaben Übungen und Lösungen"]},
+        {"start_page":26,"end_page":26,"primary_topic":"Marktarten","secondary_topics":["Gütermärkte","Faktormärkte","offene und geschlossene Märkte"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Marktumfeld und Marktformen","Aufgaben Übungen und Lösungen"]},
+        {"start_page":27,"end_page":27,"primary_topic":"E-Commerce-Marktbeziehungen","secondary_topics":["B2B","B2C","C2C"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Marktumfeld und Marktformen"]},
+        {"start_page":28,"end_page":28,"primary_topic":"Vollkommener Markt","secondary_topics":["Marktbedingungen"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Marktumfeld und Marktformen","Aufgaben Übungen und Lösungen"]},
+        {"start_page":29,"end_page":30,"primary_topic":"Marktformen","secondary_topics":["Monopol","Oligopol","Polypol"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Marktumfeld und Marktformen"]},
+        {"start_page":31,"end_page":31,"primary_topic":"Angebot und Nachfrage","secondary_topics":["Bestimmungsfaktoren"],"content_type":"loesung","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Marktumfeld und Marktformen","Aufgaben Übungen und Lösungen"]},
+        {"start_page":32,"end_page":33,"primary_topic":"Marktgleichgewicht","secondary_topics":["Gleichgewichtspreis","Preisfunktionen"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Marktumfeld und Marktformen","Aufgaben Übungen und Lösungen"]},
+        {"start_page":34,"end_page":34,"primary_topic":"Marktgleichgewicht","secondary_topics":["Preis-Mengen-Diagramm"],"content_type":"loesung","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Marktumfeld und Marktformen","Aufgaben Übungen und Lösungen"]},
+        {"start_page":35,"end_page":35,"primary_topic":"Marktgleichgewicht","secondary_topics":["Preisfunktionen"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Marktumfeld und Marktformen","Aufgaben Übungen und Lösungen"]},
+        {"start_page":36,"end_page":37,"primary_topic":"Marktgleichgewicht","secondary_topics":["Preisfunktionen","Preis-Mengen-Diagramm"],"content_type":"loesung","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Marktumfeld und Marktformen","Aufgaben Übungen und Lösungen"]},
+        {"start_page":38,"end_page":39,"primary_topic":"Kaufmannseigenschaft","secondary_topics":["HGB","Kaufmannsarten"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensrecht Handelsregister Vollmachten"]},
+        {"start_page":40,"end_page":40,"primary_topic":"Kaufmannsarten","secondary_topics":["HGB"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensrecht Handelsregister Vollmachten","Aufgaben Übungen und Lösungen"]},
+        {"start_page":41,"end_page":41,"primary_topic":"Firma und Firmengrundsätze","secondary_topics":["Firmenwahrheit","Firmenklarheit","Firmenausschließlichkeit"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensrecht Handelsregister Vollmachten"]},
+        {"start_page":42,"end_page":42,"primary_topic":"Firma und Firmengrundsätze","secondary_topics":["Firmenbildung"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensrecht Handelsregister Vollmachten","Aufgaben Übungen und Lösungen"]},
+        {"start_page":43,"end_page":44,"primary_topic":"Handelsregister","secondary_topics":["HGB §15","Publizitätswirkung"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensrecht Handelsregister Vollmachten"]},
+        {"start_page":45,"end_page":45,"primary_topic":"Handelsregister","secondary_topics":["HGB §15","Publizitätswirkung"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensrecht Handelsregister Vollmachten","Aufgaben Übungen und Lösungen"]},
+        {"start_page":46,"end_page":47,"primary_topic":"Vollmachten","secondary_topics":["Prokura","Handlungsvollmacht"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensrecht Handelsregister Vollmachten"]},
+        {"start_page":48,"end_page":50,"primary_topic":"Vollmachten","secondary_topics":["Prokura","Handlungsvollmacht","Prüfungsvorbereitung"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"medium","recommended_modules":["Unternehmensrecht Handelsregister Vollmachten","Aufgaben Übungen und Lösungen"]},
+        {"start_page":51,"end_page":52,"primary_topic":"Kommanditgesellschaft","secondary_topics":["Rechtsformen","Komplementär","Kommanditist"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Rechtsformen"]},
+        {"start_page":53,"end_page":53,"primary_topic":"Kommanditgesellschaft","secondary_topics":["Rechtsformen"],"content_type":"formular","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Rechtsformen","Aufgaben Übungen und Lösungen"]},
+        {"start_page":54,"end_page":54,"primary_topic":"Kommanditgesellschaft","secondary_topics":["Auflösungsgründe"],"content_type":"fragment","source_text_match":"ok","mapping_status":"mixed","confidence":"medium","recommended_modules":["Rechtsformen"]}
+      ]
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf",
+      "total_pages": 44,
+      "contact_sheets_checked": 11,
+      "current_modules": [
+        "Aufgaben Übungen und Lösungen",
+        "Betrieb und Unternehmen",
+        "Betriebswirtschaft BGWP",
+        "Organisation im Betrieb",
+        "Personalwirtschaft",
+        "Produktionsfaktoren",
+        "Projektplanung und Netzplanmethode",
+        "Unternehmen und betriebliche Funktionen",
+        "Wirtschaftlichkeit und Rechnungswesen"
+      ],
+      "current_curated_topics": ["Betrieb und Unternehmen","Betriebswirtschaft BGWP"],
+      "ranges": [
+        {"start_page":1,"end_page":1,"primary_topic":"Organisation im Betrieb","secondary_topics":["Aufbauorganisation","Ablauforganisation"],"content_type":"theorie","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Organisation im Betrieb"]},
+        {"start_page":2,"end_page":2,"primary_topic":"Organisation im Betrieb","secondary_topics":["Grundbegriffe"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Organisation im Betrieb","Aufgaben Übungen und Lösungen"]},
+        {"start_page":3,"end_page":6,"primary_topic":"Aufbauorganisation","secondary_topics":["Aufgabenanalyse","Aufgabensynthese","Stellen","Abteilungen"],"content_type":"theorie","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Organisation im Betrieb"]},
+        {"start_page":7,"end_page":8,"primary_topic":"Aufbauorganisation","secondary_topics":["Stellenbildung","Leitungssysteme"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Organisation im Betrieb","Organigramm und Liniensysteme","Aufgaben Übungen und Lösungen"]},
+        {"start_page":9,"end_page":12,"primary_topic":"Leitungssysteme","secondary_topics":["Einliniensystem","Stabliniensystem","Mehrliniensystem","Matrixorganisation"],"content_type":"loesung","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Organisation im Betrieb","Organigramm und Liniensysteme","Aufgaben Übungen und Lösungen"]},
+        {"start_page":13,"end_page":14,"primary_topic":"Ablauforganisation","secondary_topics":["Arbeitsablauf","Ablaufdiagramm","Entscheidungstabelle"],"content_type":"theorie","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Organisation im Betrieb"]},
+        {"start_page":15,"end_page":15,"primary_topic":"Entscheidungstabellen","secondary_topics":["Ablauforganisation"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Organisation im Betrieb","Aufgaben Übungen und Lösungen"]},
+        {"start_page":16,"end_page":16,"primary_topic":"Leerseite","secondary_topics":[],"content_type":"leer","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":[]},
+        {"start_page":17,"end_page":17,"primary_topic":"Planungsinstrumente","secondary_topics":["Entscheidungstabelle","Gantt-Diagramm"],"content_type":"theorie","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Organisation im Betrieb","Projektplanung und Netzplanmethode"]},
+        {"start_page":18,"end_page":18,"primary_topic":"Gantt-Diagramm","secondary_topics":["Einsatz","Vor- und Nachteile"],"content_type":"loesung","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Projektplanung und Netzplanmethode","Aufgaben Übungen und Lösungen"]},
+        {"start_page":19,"end_page":19,"primary_topic":"Planungsinstrumente","secondary_topics":["Datenflussplan","Kommunikationsdiagramm","Netzplan"],"content_type":"theorie","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Organisation im Betrieb","Projektplanung und Netzplanmethode"]},
+        {"start_page":20,"end_page":20,"primary_topic":"Ablauforganisation","secondary_topics":["Titelfolie"],"content_type":"fragment","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Organisation im Betrieb"]},
+        {"start_page":21,"end_page":30,"primary_topic":"Ablauforganisation","secondary_topics":["Ablaufdiagramm","Entscheidungstabelle","Gantt-Diagramm","Datenflussplan","Netzplan"],"content_type":"theorie","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Organisation im Betrieb","Projektplanung und Netzplanmethode"]},
+        {"start_page":31,"end_page":36,"primary_topic":"Ablauforganisation","secondary_topics":["Entscheidungstabelle","Datenflussplan","Kommunikationsdiagramm"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Organisation im Betrieb","Aufgaben Übungen und Lösungen"]},
+        {"start_page":37,"end_page":38,"primary_topic":"Netzplantechnik","secondary_topics":["Vorgänge","Ereignisse","kritischer Weg"],"content_type":"theorie","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Projektplanung und Netzplanmethode"]},
+        {"start_page":39,"end_page":41,"primary_topic":"Netzplantechnik","secondary_topics":["Vorwärtsrechnung","Rückwärtsrechnung","Pufferzeiten"],"content_type":"loesung","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Projektplanung und Netzplanmethode","Aufgaben Übungen und Lösungen"]},
+        {"start_page":42,"end_page":42,"primary_topic":"Netzplantechnik","secondary_topics":["kritischer Weg"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Projektplanung und Netzplanmethode","Aufgaben Übungen und Lösungen"]},
+        {"start_page":43,"end_page":43,"primary_topic":"Netzplantechnik","secondary_topics":["kritischer Weg","Pufferzeiten"],"content_type":"loesung","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Projektplanung und Netzplanmethode","Aufgaben Übungen und Lösungen"]},
+        {"start_page":44,"end_page":44,"primary_topic":"Netzplantechnik","secondary_topics":["Terminplanung"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Projektplanung und Netzplanmethode","Aufgaben Übungen und Lösungen"]}
+      ]
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf",
+      "total_pages": 7,
+      "contact_sheets_checked": 2,
+      "current_modules": [
+        "Aufgaben Übungen und Lösungen",
+        "Betriebswirtschaft BGWP",
+        "Materialwirtschaft und Beschaffung",
+        "Organisation im Betrieb",
+        "Personalwirtschaft",
+        "Produktionsfaktoren",
+        "Projektplanung und Netzplanmethode",
+        "Unternehmen und betriebliche Funktionen",
+        "Wirtschaftlichkeit und Rechnungswesen"
+      ],
+      "current_curated_topics": ["Betriebswirtschaft BGWP"],
+      "ranges": [
+        {"start_page":1,"end_page":1,"primary_topic":"Organisation im Betrieb","secondary_topics":["Aufbauorganisation","Aufgabenanalyse","Aufgabensynthese"],"content_type":"theorie","source_text_match":"partial","mapping_status":"overbroad","confidence":"medium","recommended_modules":["Organisation im Betrieb"]},
+        {"start_page":2,"end_page":2,"primary_topic":"Leitungssysteme","secondary_topics":["Einlinie","Stablinie","Mehrlinie"],"content_type":"theorie","source_text_match":"partial","mapping_status":"mixed","confidence":"medium","recommended_modules":["Organisation im Betrieb","Organigramm und Liniensysteme"]},
+        {"start_page":3,"end_page":3,"primary_topic":"Ablauforganisation","secondary_topics":["Matrixorganisation","Entscheidungstabelle"],"content_type":"theorie","source_text_match":"partial","mapping_status":"overbroad","confidence":"medium","recommended_modules":["Organisation im Betrieb"]},
+        {"start_page":4,"end_page":4,"primary_topic":"Planungsinstrumente","secondary_topics":["Entscheidungstabelle","Gantt-Diagramm","Netzplan","Datenflussplan"],"content_type":"theorie","source_text_match":"partial","mapping_status":"overbroad","confidence":"medium","recommended_modules":["Organisation im Betrieb","Projektplanung und Netzplanmethode"]},
+        {"start_page":5,"end_page":5,"primary_topic":"Unternehmensfunktionen und Produktionsfaktoren","secondary_topics":["betriebliche Funktionsbereiche","elementare Faktoren","dispositive Faktoren"],"content_type":"theorie","source_text_match":"partial","mapping_status":"overbroad","confidence":"medium","recommended_modules":["Unternehmen und betriebliche Funktionen","Produktionsfaktoren"]},
+        {"start_page":6,"end_page":6,"primary_topic":"Betriebswirtschaftliche Grundlagen","secondary_topics":["Produktionsfaktoren","Unternehmensziele","Wirtschaftssektoren","ökonomisches Prinzip","Arbeitsteilung"],"content_type":"theorie","source_text_match":"partial","mapping_status":"mixed","confidence":"medium","recommended_modules":["Produktionsfaktoren","Unternehmensziele","Wirtschaftssektoren","Wirtschaftlichkeit und Rechnungswesen","Betrieb und Unternehmen"]},
+        {"start_page":7,"end_page":7,"primary_topic":"Marktumfeld und Marktformen","secondary_topics":["Arbeitsteilung","Marktarten","Monopol","Oligopol","Polypol","Wirtschaftskreislauf"],"content_type":"theorie","source_text_match":"missing","mapping_status":"mixed","confidence":"high","recommended_modules":["Marktumfeld und Marktformen","Betrieb und Unternehmen"]}
+      ]
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/Deutsch.pdf",
+      "total_pages": 46,
+      "contact_sheets_checked": 12,
+      "current_modules": ["Geschäftsbrief Anfrage Angebot","Kommunikation Modelle"],
+      "current_curated_topics": ["Geschäftsbrief"],
+      "ranges": [
+        {"start_page":1,"end_page":1,"primary_topic":"Geschäftsbrief","secondary_topics":["DIN 5008","Anfrage"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Geschäftsbrief Anfrage Angebot","Aufgaben Übungen und Lösungen"]},
+        {"start_page":2,"end_page":3,"primary_topic":"Geschäftsbrief","secondary_topics":["DIN 5008","Briefaufbau","Anfrage"],"content_type":"beispiel","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Geschäftsbrief Anfrage Angebot"]},
+        {"start_page":4,"end_page":4,"primary_topic":"Geschäftsbrief","secondary_topics":["Anfrage","DIN 5008"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Geschäftsbrief Anfrage Angebot","Aufgaben Übungen und Lösungen"]},
+        {"start_page":5,"end_page":5,"primary_topic":"Geschäftsbrief","secondary_topics":["Anfrage","Angebot","DIN 5008"],"content_type":"theorie","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Geschäftsbrief Anfrage Angebot"]},
+        {"start_page":6,"end_page":7,"primary_topic":"Unternehmensleitbild und Corporate Identity","secondary_topics":["Leitbild","Corporate Design","Corporate Communication","Corporate Behaviour"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensleitbild Corporate Identity"]},
+        {"start_page":8,"end_page":8,"primary_topic":"Corporate Identity","secondary_topics":["Corporate Design","Corporate Communication","Corporate Behaviour"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensleitbild Corporate Identity","Aufgaben Übungen und Lösungen"]},
+        {"start_page":9,"end_page":9,"primary_topic":"Unternehmensleitbild","secondary_topics":["Leitbildentwicklung"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Unternehmensleitbild Corporate Identity"]},
+        {"start_page":10,"end_page":11,"primary_topic":"Projektmanagement","secondary_topics":["Projektmerkmale","Projektrollen","Projektorganisation"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Projektmanagement Lastenheft Pflichtenheft"]},
+        {"start_page":12,"end_page":13,"primary_topic":"Projektmanagement","secondary_topics":["Projektrollen","Projektorganisation"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Projektmanagement Lastenheft Pflichtenheft","Aufgaben Übungen und Lösungen"]},
+        {"start_page":14,"end_page":14,"primary_topic":"Prüfungsstoffübersicht","secondary_topics":["Geschäftsbrief","Corporate Identity","Projektmanagement"],"content_type":"fragment","source_text_match":"ok","mapping_status":"mixed","confidence":"medium","recommended_modules":["Geschäftsbrief Anfrage Angebot","Unternehmensleitbild Corporate Identity","Projektmanagement Lastenheft Pflichtenheft"]},
+        {"start_page":15,"end_page":16,"primary_topic":"Projektphasen","secondary_topics":["Stationsübersicht","Projektlebenszyklus"],"content_type":"index","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Projektmanagement Lastenheft Pflichtenheft"]},
+        {"start_page":17,"end_page":17,"primary_topic":"Projektinitiierung","secondary_topics":["Projektidee","Projektauftrag"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Projektmanagement Lastenheft Pflichtenheft"]},
+        {"start_page":18,"end_page":19,"primary_topic":"Projektinitiierung","secondary_topics":["Projektidee","Projektziele"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Projektmanagement Lastenheft Pflichtenheft","Aufgaben Übungen und Lösungen"]},
+        {"start_page":20,"end_page":21,"primary_topic":"Projektziele und Kick-off","secondary_topics":["SMART-Ziele","Projektstart"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Projektmanagement Lastenheft Pflichtenheft"]},
+        {"start_page":22,"end_page":23,"primary_topic":"Projektziele und Kick-off","secondary_topics":["SMART-Ziele","Projektstart"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Projektmanagement Lastenheft Pflichtenheft","Aufgaben Übungen und Lösungen"]},
+        {"start_page":24,"end_page":24,"primary_topic":"Lastenheft","secondary_topics":["Anforderungen","Auftraggeber"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Projektmanagement Lastenheft Pflichtenheft"]},
+        {"start_page":25,"end_page":25,"primary_topic":"Lastenheft","secondary_topics":["Anforderungsspezifikation"],"content_type":"beispiel","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Projektmanagement Lastenheft Pflichtenheft"]},
+        {"start_page":26,"end_page":27,"primary_topic":"Pflichtenheft","secondary_topics":["Umsetzungsspezifikation","Auftragnehmer"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Projektmanagement Lastenheft Pflichtenheft"]},
+        {"start_page":28,"end_page":29,"primary_topic":"Pflichtenheft","secondary_topics":["Systemanforderungen","Umsetzungsspezifikation"],"content_type":"beispiel","source_text_match":"ok","mapping_status":"mixed","confidence":"medium","recommended_modules":["Projektmanagement Lastenheft Pflichtenheft"]},
+        {"start_page":30,"end_page":30,"primary_topic":"Pflichtenheft","secondary_topics":["Musterlösung"],"content_type":"loesung","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Projektmanagement Lastenheft Pflichtenheft","Aufgaben Übungen und Lösungen"]},
+        {"start_page":31,"end_page":31,"primary_topic":"Anforderungsermittlung","secondary_topics":["Kundeninterview","Ist-Analyse"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Projektmanagement Lastenheft Pflichtenheft"]},
+        {"start_page":32,"end_page":35,"primary_topic":"Anforderungsermittlung und Pflichtenheft","secondary_topics":["Kundeninterview","Ist-Netzwerk","Soll-Anforderungen","Implementierung"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Projektmanagement Lastenheft Pflichtenheft","Aufgaben Übungen und Lösungen"]},
+        {"start_page":36,"end_page":37,"primary_topic":"Verbale und nonverbale Kommunikation","secondary_topics":["Kommunikationsgrundlagen","Watzlawick"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Kommunikation Modelle","Aufgaben Übungen und Lösungen"]},
+        {"start_page":38,"end_page":40,"primary_topic":"Kommunikationsmodelle","secondary_topics":["Sender-Empfänger-Modell","Vier-Seiten-Modell"],"content_type":"theorie","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Kommunikation Modelle"]},
+        {"start_page":41,"end_page":41,"primary_topic":"Vier-Seiten-Modell","secondary_topics":["Sachinhalt","Selbstoffenbarung","Beziehung","Appell"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Kommunikation Modelle","Aufgaben Übungen und Lösungen"]},
+        {"start_page":42,"end_page":42,"primary_topic":"Vier-Seiten-Modell","secondary_topics":["Kommunikationsquadrat"],"content_type":"beispiel","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Kommunikation Modelle"]},
+        {"start_page":43,"end_page":44,"primary_topic":"Vier-Seiten-Modell","secondary_topics":["Kommunikationsquadrat"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Kommunikation Modelle","Aufgaben Übungen und Lösungen"]},
+        {"start_page":45,"end_page":45,"primary_topic":"Eisbergmodell","secondary_topics":["Sach- und Beziehungsebene"],"content_type":"theorie","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Kommunikation Modelle"]},
+        {"start_page":46,"end_page":46,"primary_topic":"Eisbergmodell","secondary_topics":["Sach- und Beziehungsebene"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Kommunikation Modelle","Aufgaben Übungen und Lösungen"]}
+      ]
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Regelsammlung.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf",
+      "total_pages": 10,
+      "contact_sheets_checked": 3,
+      "current_modules": ["Rechtschreibung Gross und Klein","Rechtschreibung und Grammatik","Sprachtraining und Grammatik"],
+      "current_curated_topics": ["Rechtschreibung und Grammatik"],
+      "ranges": [
+        {"start_page":1,"end_page":1,"primary_topic":"Groß- und Kleinschreibung","secondary_topics":["Nominalisierung","Eigennamen"],"content_type":"theorie","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Rechtschreibung Gross und Klein"]},
+        {"start_page":2,"end_page":3,"primary_topic":"Groß- und Kleinschreibung","secondary_topics":["Nominalisierung","Eigennamen"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Rechtschreibung Gross und Klein","Aufgaben Übungen und Lösungen"]},
+        {"start_page":4,"end_page":4,"primary_topic":"Das oder Dass","secondary_topics":["Relativpronomen","Konjunktion"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Das oder Dass"]},
+        {"start_page":5,"end_page":5,"primary_topic":"Das oder Dass","secondary_topics":["Relativpronomen","Konjunktion"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Das oder Dass","Aufgaben Übungen und Lösungen"]},
+        {"start_page":6,"end_page":6,"primary_topic":"Kommasetzung","secondary_topics":["Satzreihen","Nebensätze","Infinitivgruppen"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Kommasetzung"]},
+        {"start_page":7,"end_page":7,"primary_topic":"Kommasetzung","secondary_topics":["Satzreihen","Nebensätze","Infinitivgruppen"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Kommasetzung","Aufgaben Übungen und Lösungen"]},
+        {"start_page":8,"end_page":8,"primary_topic":"Fremdwörter","secondary_topics":["griechische Wortstämme"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Fremdwörter"]},
+        {"start_page":9,"end_page":10,"primary_topic":"Fremdwörter","secondary_topics":["griechische Wortstämme"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Fremdwörter","Aufgaben Übungen und Lösungen"]}
+      ]
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Station_1.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/Station 1.pdf",
+      "total_pages": 2,
+      "contact_sheets_checked": 1,
+      "current_modules": ["Rechtschreibung Gross und Klein","Rechtschreibung und Grammatik","Sprachtraining und Grammatik"],
+      "current_curated_topics": ["Rechtschreibung und Grammatik"],
+      "ranges": [
+        {"start_page":1,"end_page":2,"primary_topic":"Groß- und Kleinschreibung","secondary_topics":["Stationenarbeit","Nominalisierung","Eigennamen"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["Rechtschreibung Gross und Klein","Aufgaben Übungen und Lösungen"]}
+      ]
+    },
+    {
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/Englisch.pdf",
+      "total_pages": 49,
+      "contact_sheets_checked": 13,
+      "current_modules": ["IT Jobs and Roles","Useful Phrases and Grammar"],
+      "current_curated_topics": [],
+      "ranges": [
+        {"start_page":1,"end_page":1,"primary_topic":"Unrelated personal photograph","secondary_topics":["child image","non-learning content"],"content_type":"fragment","source_text_match":"missing","mapping_status":"overbroad","confidence":"high","recommended_modules":[]},
+        {"start_page":2,"end_page":2,"primary_topic":"IT Jobs and Roles","secondary_topics":["job descriptions"],"content_type":"theorie","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["IT Jobs and Roles"]},
+        {"start_page":3,"end_page":3,"primary_topic":"IT Jobs and Roles","secondary_topics":["responsibilities","skills"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["IT Jobs and Roles","Aufgaben Übungen und Lösungen"]},
+        {"start_page":4,"end_page":4,"primary_topic":"Applying for a Position","secondary_topics":["job advertisement","application vocabulary"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Applying for a Position","IT Jobs and Roles","Aufgaben Übungen und Lösungen"]},
+        {"start_page":5,"end_page":5,"primary_topic":"IT Jobs and Roles","secondary_topics":["job vocabulary"],"content_type":"loesung","source_text_match":"ok","mapping_status":"overbroad","confidence":"high","recommended_modules":["IT Jobs and Roles","Aufgaben Übungen und Lösungen"]},
+        {"start_page":6,"end_page":8,"primary_topic":"Introducing a Company","secondary_topics":["company profile","company tour","useful phrases"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Introducing a Company","Useful Phrases and Grammar","Aufgaben Übungen und Lösungen"]},
+        {"start_page":9,"end_page":9,"primary_topic":"Sparse personal greeting","secondary_topics":["handwriting","non-learning fragment"],"content_type":"fragment","source_text_match":"ok","mapping_status":"overbroad","confidence":"medium","recommended_modules":[]},
+        {"start_page":10,"end_page":13,"primary_topic":"Introducing a Company","secondary_topics":["company profile","workplace vocabulary","company description"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"medium","recommended_modules":["Introducing a Company","Useful Phrases and Grammar","Aufgaben Übungen und Lösungen"]},
+        {"start_page":14,"end_page":15,"primary_topic":"Company Websites and Web Design","secondary_topics":["website language","company presentation"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Company Websites and Web Design","Introducing a Company","Aufgaben Übungen und Lösungen"]},
+        {"start_page":16,"end_page":16,"primary_topic":"Introducing a Company","secondary_topics":["company profile"],"content_type":"loesung","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Introducing a Company","Aufgaben Übungen und Lösungen"]},
+        {"start_page":17,"end_page":21,"primary_topic":"Company Structure and Departments","secondary_topics":["departments","responsibilities","organisational chart"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Company Structure and Departments","Aufgaben Übungen und Lösungen"]},
+        {"start_page":22,"end_page":22,"primary_topic":"Company Structure and Departments","secondary_topics":["flat hierarchy","vertical hierarchy","mediation"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"medium","recommended_modules":["Company Structure and Departments","Business Communication English","Aufgaben Übungen und Lösungen"]},
+        {"start_page":23,"end_page":23,"primary_topic":"Company Structure and Departments","secondary_topics":["flat hierarchy","vertical hierarchy","mediation"],"content_type":"loesung","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Company Structure and Departments","Business Communication English","Aufgaben Übungen und Lösungen"]},
+        {"start_page":24,"end_page":24,"primary_topic":"Business Correspondence","secondary_topics":["formal and informal style","orders","complaints"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Business Communication English","Ordering Technical Products"]},
+        {"start_page":25,"end_page":25,"primary_topic":"Orders and Complaints","secondary_topics":["business vocabulary"],"content_type":"beispiel","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Business Communication English","Ordering Technical Products"]},
+        {"start_page":26,"end_page":26,"primary_topic":"Complaint Email","secondary_topics":["reply email","business correspondence"],"content_type":"aufgabe","source_text_match":"partial","mapping_status":"mixed","confidence":"medium","recommended_modules":["Business Communication English","Ordering Technical Products","Aufgaben Übungen und Lösungen"]},
+        {"start_page":27,"end_page":30,"primary_topic":"Ordering Technical Products","secondary_topics":["product description","order confirmation","email communication","subject lines"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Ordering Technical Products","Business Communication English","Aufgaben Übungen und Lösungen"]},
+        {"start_page":31,"end_page":34,"primary_topic":"Making Phone Calls and Voicemail","secondary_topics":["telephone phrases","taking messages","voicemail"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Making Phone Calls and Voicemail","Useful Phrases and Grammar","Aufgaben Übungen und Lösungen"]},
+        {"start_page":35,"end_page":37,"primary_topic":"Business and IT Vocabulary Recap","secondary_topics":["orders","departments","IT jobs","telephone vocabulary"],"content_type":"index","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["IT Vocabulary and Hardware","IT Jobs and Roles","Business Communication English","Making Phone Calls and Voicemail"]},
+        {"start_page":38,"end_page":40,"primary_topic":"IT Vocabulary and Hardware","secondary_topics":["PC safety","hardware installation","PC assembly"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"medium","recommended_modules":["IT Vocabulary and Hardware","Aufgaben Übungen und Lösungen"]},
+        {"start_page":41,"end_page":41,"primary_topic":"IT Vocabulary and Hardware","secondary_topics":["PC assembly","translation"],"content_type":"loesung","source_text_match":"ok","mapping_status":"mixed","confidence":"medium","recommended_modules":["IT Vocabulary and Hardware","Aufgaben Übungen und Lösungen"]},
+        {"start_page":42,"end_page":44,"primary_topic":"Promoting Products and Trade Fairs","secondary_topics":["product brochure","trade fair conversation","follow-up email"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"high","recommended_modules":["Business Communication English","Introducing a Company","Aufgaben Übungen und Lösungen"]},
+        {"start_page":45,"end_page":45,"primary_topic":"Listening Comprehension","secondary_topics":["Apple Watch","product technology"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"medium","recommended_modules":["Reading Comprehension and Case Studies","Aufgaben Übungen und Lösungen"]},
+        {"start_page":46,"end_page":47,"primary_topic":"Reading Comprehension","secondary_topics":["smart glasses","wearable technology"],"content_type":"theorie","source_text_match":"ok","mapping_status":"mixed","confidence":"medium","recommended_modules":["Reading Comprehension and Case Studies"]},
+        {"start_page":48,"end_page":49,"primary_topic":"Reading Comprehension","secondary_topics":["smart glasses","wearable technology"],"content_type":"aufgabe","source_text_match":"ok","mapping_status":"mixed","confidence":"medium","recommended_modules":["Reading Comprehension and Case Studies","Aufgaben Übungen und Lösungen"]}
+      ]
+    }
+  ],
+  "page_overrides": [
+    {"source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md","page":50,"override":"Low-resolution photographed exam-preparation page; topic is Prokura/Handlungsvollmacht, not a generic business-letter page."},
+    {"source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md","page":54,"override":"Only the continuation label 'Auflösungsgründe' is present; classify as fragment of the KG section."},
+    {"source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md","page":16,"override":"Visually blank except recurring header/footer; classify as leer and remove all learning-module links."},
+    {"source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md","page":20,"override":"Title-only slide 'Ablauforganisation'; classify as fragment, not a substantive theory page."},
+    {"source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP.md","page":7,"override":"Visual content is a genuine continuation on Arbeitsteilung, Marktarten, Marktformen and Wirtschaftskreislauf; local page OCR is missing although a matching OCR appendix exists later in the note."},
+    {"source_note":"02_Faecher/Deutsch/Quellen/Deutsch.md","page":14,"override":"Photographed exam-scope note covering Geschäftsbrief, Corporate Identity and Projektmanagement; keep as a mixed fragment."},
+    {"source_note":"02_Faecher/Englisch/Quellen/Englisch.md","page":1,"override":"Unrelated full-page photograph of a child; no educational module. Remove from active learning material or quarantine with restricted access because it is personal imagery."},
+    {"source_note":"02_Faecher/Englisch/Quellen/Englisch.md","page":9,"override":"Sparse handwritten personal greeting; no stable learning topic and no canonical-topic candidate."},
+    {"source_note":"02_Faecher/Englisch/Quellen/Englisch.md","page":23,"override":"Handwritten solution to the flat-versus-vertical hierarchy mediation task on page 22; not a Restseiten page."},
+    {"source_note":"02_Faecher/Englisch/Quellen/Englisch.md","page":26,"override":"Complaint/reply-email exercise; OCR is partially garbled, but visual topic and page order are unambiguous."},
+    {"source_note":"02_Faecher/Englisch/Quellen/Englisch.md","page":41,"override":"Handwritten English solution/translation for the PC-assembly instruction on page 40."},
+    {"source_note":"02_Faecher/Englisch/Quellen/Englisch.md","page":45,"override":"Apple Watch listening-comprehension task; not a generic Restseiten page."}
+  ],
+  "mapping_issues": [
+    {
+      "source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pages":"1-3,19-21",
+      "problem":"File-wide module assignment is overbroad; these pages have exact existing modules.",
+      "remove_modules":["Geschäftsbrief Anfrage Angebot","Kaufvertrag und Rechtsgeschäfte","Materialwirtschaft und Beschaffung","Personalwirtschaft"],
+      "add_modules":[],
+      "remove_topics":["Geschäftsbrief"],
+      "add_topics":[]
+    },
+    {
+      "source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pages":"4-12",
+      "problem":"Unternehmensziele cluster is missing and unrelated file-wide modules are attached.",
+      "remove_modules":["Geschäftsbrief Anfrage Angebot","Kaufvertrag und Rechtsgeschäfte","Materialwirtschaft und Beschaffung","Personalwirtschaft","Produktionsfaktoren","Unternehmen und betriebliche Funktionen"],
+      "add_modules":["Unternehmensziele"],
+      "remove_topics":["Geschäftsbrief"],
+      "add_topics":["Unternehmensziele"]
+    },
+    {
+      "source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pages":"13-18",
+      "problem":"Wirtschaftssektoren and ökonomisches Prinzip are missing from the current mapping.",
+      "remove_modules":["Geschäftsbrief Anfrage Angebot","Kaufvertrag und Rechtsgeschäfte","Materialwirtschaft und Beschaffung","Personalwirtschaft"],
+      "add_modules":["Wirtschaftssektoren","Wirtschaftlichkeit und Rechnungswesen"],
+      "remove_topics":["Geschäftsbrief"],
+      "add_topics":["Wirtschaftssektoren","Wirtschaftlichkeit und Rechnungswesen"]
+    },
+    {
+      "source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pages":"22-37",
+      "problem":"Coherent market/wirtschaftskreislauf cluster is absent; Geschäftsbrief/Kaufvertrag/Personal mappings are false positives.",
+      "remove_modules":["Geschäftsbrief Anfrage Angebot","Kaufvertrag und Rechtsgeschäfte","Materialwirtschaft und Beschaffung","Personalwirtschaft","Produktionsfaktoren","Unternehmen und betriebliche Funktionen"],
+      "add_modules":["Marktumfeld und Marktformen"],
+      "remove_topics":["Geschäftsbrief","Betrieb und Unternehmen"],
+      "add_topics":["Marktumfeld und Marktformen"]
+    },
+    {
+      "source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pages":"38-50",
+      "problem":"Kaufmann, Firma, Handelsregister and Vollmachten require the specific corporate-law module.",
+      "remove_modules":["Geschäftsbrief Anfrage Angebot","Kaufvertrag und Rechtsgeschäfte","Materialwirtschaft und Beschaffung","Personalwirtschaft","Produktionsfaktoren","Unternehmen und betriebliche Funktionen"],
+      "add_modules":["Unternehmensrecht Handelsregister Vollmachten"],
+      "remove_topics":["Geschäftsbrief","Betrieb und Unternehmen"],
+      "add_topics":["Unternehmensrecht Handelsregister Vollmachten"]
+    },
+    {
+      "source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pages":"51-54",
+      "problem":"KG pages are legal-form content, not Kaufvertrag or Geschäftsbrief.",
+      "remove_modules":["Geschäftsbrief Anfrage Angebot","Kaufvertrag und Rechtsgeschäfte","Materialwirtschaft und Beschaffung","Personalwirtschaft","Produktionsfaktoren","Unternehmen und betriebliche Funktionen"],
+      "add_modules":["Rechtsformen"],
+      "remove_topics":["Geschäftsbrief","Betrieb und Unternehmen"],
+      "add_topics":["Rechtsformen"]
+    },
+    {
+      "source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md",
+      "pages":"1-6,13-15,17-36",
+      "problem":"Organisation pages are correctly represented only by Organisation im Betrieb (plus task/project modules where applicable); six unrelated file-wide modules must be removed.",
+      "remove_modules":["Betrieb und Unternehmen","Personalwirtschaft","Produktionsfaktoren","Unternehmen und betriebliche Funktionen","Wirtschaftlichkeit und Rechnungswesen"],
+      "add_modules":[],
+      "remove_topics":[],
+      "add_topics":["Organisation im Betrieb"]
+    },
+    {
+      "source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md",
+      "pages":"16",
+      "problem":"Visually blank page must have no learning mapping.",
+      "remove_modules":["Aufgaben Übungen und Lösungen","Betrieb und Unternehmen","Betriebswirtschaft BGWP","Organisation im Betrieb","Personalwirtschaft","Produktionsfaktoren","Projektplanung und Netzplanmethode","Unternehmen und betriebliche Funktionen","Wirtschaftlichkeit und Rechnungswesen"],
+      "add_modules":[],
+      "remove_topics":["Betrieb und Unternehmen","Betriebswirtschaft BGWP"],
+      "add_topics":[]
+    },
+    {
+      "source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md",
+      "pages":"7-12",
+      "problem":"Line-system/organigram content is missing from the current mapping.",
+      "remove_modules":["Betrieb und Unternehmen","Personalwirtschaft","Produktionsfaktoren","Unternehmen und betriebliche Funktionen","Wirtschaftlichkeit und Rechnungswesen"],
+      "add_modules":["Organigramm und Liniensysteme"],
+      "remove_topics":[],
+      "add_topics":["Organisation im Betrieb"]
+    },
+    {
+      "source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md",
+      "pages":"37-44",
+      "problem":"Netzplan pages need only the existing project-planning module plus exercise links; other file-wide modules are false positives.",
+      "remove_modules":["Betrieb und Unternehmen","Organisation im Betrieb","Personalwirtschaft","Produktionsfaktoren","Unternehmen und betriebliche Funktionen","Wirtschaftlichkeit und Rechnungswesen"],
+      "add_modules":[],
+      "remove_topics":["Betrieb und Unternehmen"],
+      "add_topics":["Projektplanung und Netzplanmethode"]
+    },
+    {
+      "source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP.md",
+      "pages":"1-4",
+      "problem":"Summary pages form a real organisation cluster; page 2 also lacks the line-system module.",
+      "remove_modules":["Materialwirtschaft und Beschaffung","Personalwirtschaft","Produktionsfaktoren","Unternehmen und betriebliche Funktionen","Wirtschaftlichkeit und Rechnungswesen"],
+      "add_modules":["Organigramm und Liniensysteme"],
+      "remove_topics":[],
+      "add_topics":["Organisation im Betrieb"]
+    },
+    {
+      "source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP.md",
+      "pages":"5-7",
+      "problem":"The final summary pages need exact business-foundation and market modules; broad procurement/personnel links are false.",
+      "remove_modules":["Materialwirtschaft und Beschaffung","Personalwirtschaft"],
+      "add_modules":["Unternehmensziele","Wirtschaftssektoren","Betrieb und Unternehmen","Marktumfeld und Marktformen"],
+      "remove_topics":[],
+      "add_topics":["Unternehmensziele","Marktumfeld und Marktformen"]
+    },
+    {
+      "source_note":"02_Faecher/Deutsch/Quellen/Deutsch.md",
+      "pages":"1-5",
+      "problem":"Geschäftsbrief mapping is correct, but Kommunikation Modelle is unrelated; task pages also need the exercise module.",
+      "remove_modules":["Kommunikation Modelle"],
+      "add_modules":["Aufgaben Übungen und Lösungen"],
+      "remove_topics":[],
+      "add_topics":[]
+    },
+    {
+      "source_note":"02_Faecher/Deutsch/Quellen/Deutsch.md",
+      "pages":"6-9",
+      "problem":"Corporate Identity cluster is absent and both current file-wide modules are unrelated.",
+      "remove_modules":["Geschäftsbrief Anfrage Angebot","Kommunikation Modelle"],
+      "add_modules":["Unternehmensleitbild Corporate Identity","Aufgaben Übungen und Lösungen"],
+      "remove_topics":["Geschäftsbrief"],
+      "add_topics":["Unternehmensleitbild Corporate Identity"]
+    },
+    {
+      "source_note":"02_Faecher/Deutsch/Quellen/Deutsch.md",
+      "pages":"10-35",
+      "problem":"Large project-management/Lastenheft/Pflichtenheft cluster is missing; current Geschäftsbrief and communication mappings are false except Geschäftsbrief as a secondary topic on page 14.",
+      "remove_modules":["Geschäftsbrief Anfrage Angebot","Kommunikation Modelle"],
+      "add_modules":["Projektmanagement Lastenheft Pflichtenheft","Aufgaben Übungen und Lösungen"],
+      "remove_topics":["Geschäftsbrief"],
+      "add_topics":["Projektmanagement Lastenheft Pflichtenheft"],
+      "exception":"Page 14 retains Geschäftsbrief Anfrage Angebot/Geschäftsbrief as one secondary exam-scope topic."
+    },
+    {
+      "source_note":"02_Faecher/Deutsch/Quellen/Deutsch.md",
+      "pages":"36-46",
+      "problem":"Communication mapping is correct; file-wide Geschäftsbrief is unrelated and task pages need the exercise module.",
+      "remove_modules":["Geschäftsbrief Anfrage Angebot"],
+      "add_modules":["Aufgaben Übungen und Lösungen"],
+      "remove_topics":["Geschäftsbrief"],
+      "add_topics":["Kommunikation Modelle"]
+    },
+    {
+      "source_note":"02_Faecher/Deutsch/Quellen/Regelsammlung.md",
+      "pages":"1-3",
+      "problem":"Three overlapping spelling modules duplicate the same material; use the specific Groß/Klein module and exercise module only.",
+      "remove_modules":["Rechtschreibung und Grammatik","Sprachtraining und Grammatik"],
+      "add_modules":["Aufgaben Übungen und Lösungen"],
+      "remove_topics":[],
+      "add_topics":["Rechtschreibung Gross und Klein"]
+    },
+    {
+      "source_note":"02_Faecher/Deutsch/Quellen/Regelsammlung.md",
+      "pages":"4-10",
+      "problem":"Generic duplicate spelling modules hide three exact clusters: das/dass, commas and foreign words.",
+      "remove_modules":["Rechtschreibung Gross und Klein","Rechtschreibung und Grammatik","Sprachtraining und Grammatik"],
+      "add_modules":["Das oder Dass","Kommasetzung","Fremdwörter","Aufgaben Übungen und Lösungen"],
+      "remove_topics":[],
+      "add_topics":["Das oder Dass","Kommasetzung","Fremdwörter"]
+    },
+    {
+      "source_note":"02_Faecher/Deutsch/Quellen/Station_1.md",
+      "pages":"1-2",
+      "problem":"Duplicate generic spelling modules should be removed; this is specifically Groß/Klein station work.",
+      "remove_modules":["Rechtschreibung und Grammatik","Sprachtraining und Grammatik"],
+      "add_modules":["Aufgaben Übungen und Lösungen"],
+      "remove_topics":[],
+      "add_topics":["Rechtschreibung Gross und Klein"]
+    },
+    {
+      "source_note":"02_Faecher/Englisch/Quellen/Englisch.md",
+      "pages":"1,9",
+      "problem":"Non-learning personal image/greeting fragments must not inherit file-wide learning modules.",
+      "remove_modules":["IT Jobs and Roles","Useful Phrases and Grammar"],
+      "add_modules":[],
+      "remove_topics":[],
+      "add_topics":[],
+      "security_note":"Page 1 contains a child photograph; remove or access-restrict it instead of indexing it as study content."
+    },
+    {
+      "source_note":"02_Faecher/Englisch/Quellen/Englisch.md",
+      "pages":"2-5",
+      "problem":"IT Jobs is relevant, but page 4 requires Applying for a Position and task pages require the exercise module; Useful Phrases is not file-wide.",
+      "remove_modules":["Useful Phrases and Grammar"],
+      "add_modules":["Applying for a Position","Aufgaben Übungen und Lösungen"],
+      "remove_topics":[],
+      "add_topics":["Englisch IT Jobs","Applying for a Position"]
+    },
+    {
+      "source_note":"02_Faecher/Englisch/Quellen/Englisch.md",
+      "pages":"6-16",
+      "problem":"Company-introduction and website cluster is missing from the current mapping.",
+      "remove_modules":["IT Jobs and Roles"],
+      "add_modules":["Introducing a Company","Company Websites and Web Design","Aufgaben Übungen und Lösungen"],
+      "remove_topics":[],
+      "add_topics":["Introducing a Company","Company Websites and Web Design"]
+    },
+    {
+      "source_note":"02_Faecher/Englisch/Quellen/Englisch.md",
+      "pages":"17-23",
+      "problem":"Company structure/departments cluster is absent. Page 23 is the solution to page 22, not a Restseiten page.",
+      "remove_modules":["IT Jobs and Roles","Useful Phrases and Grammar","Restseiten Originalbelege"],
+      "add_modules":["Company Structure and Departments","Business Communication English","Aufgaben Übungen und Lösungen"],
+      "remove_topics":[],
+      "add_topics":["Company Structure and Departments"]
+    },
+    {
+      "source_note":"02_Faecher/Englisch/Quellen/Englisch.md",
+      "pages":"24-30",
+      "problem":"Ordering/complaint/email cluster requires business-communication modules. Page 26 is not Restseiten.",
+      "remove_modules":["IT Jobs and Roles","Useful Phrases and Grammar","Restseiten Originalbelege"],
+      "add_modules":["Business Communication English","Ordering Technical Products","Aufgaben Übungen und Lösungen"],
+      "remove_topics":[],
+      "add_topics":["Business Communication English","Ordering Technical Products"]
+    },
+    {
+      "source_note":"02_Faecher/Englisch/Quellen/Englisch.md",
+      "pages":"31-34",
+      "problem":"Telephone cluster is missing; Useful Phrases can remain only as a secondary module.",
+      "remove_modules":["IT Jobs and Roles"],
+      "add_modules":["Making Phone Calls and Voicemail","Aufgaben Übungen und Lösungen"],
+      "remove_topics":[],
+      "add_topics":["Making Phone Calls and Voicemail"]
+    },
+    {
+      "source_note":"02_Faecher/Englisch/Quellen/Englisch.md",
+      "pages":"35-41",
+      "problem":"Vocabulary/hardware cluster requires IT Vocabulary and Hardware; generic Useful Phrases is not the main mapping.",
+      "remove_modules":["Useful Phrases and Grammar"],
+      "add_modules":["IT Vocabulary and Hardware","Business Communication English","Making Phone Calls and Voicemail","Aufgaben Übungen und Lösungen"],
+      "remove_topics":[],
+      "add_topics":["IT Vocabulary and Hardware"]
+    },
+    {
+      "source_note":"02_Faecher/Englisch/Quellen/Englisch.md",
+      "pages":"42-44",
+      "problem":"Promotion/trade-fair/follow-up-email cluster requires business communication and company-introduction modules.",
+      "remove_modules":["IT Jobs and Roles","Useful Phrases and Grammar"],
+      "add_modules":["Business Communication English","Introducing a Company","Aufgaben Übungen und Lösungen"],
+      "remove_topics":[],
+      "add_topics":["Business Communication English"]
+    },
+    {
+      "source_note":"02_Faecher/Englisch/Quellen/Englisch.md",
+      "pages":"45-49",
+      "problem":"Listening/reading comprehension cluster is missing. Page 45 is not Restseiten.",
+      "remove_modules":["IT Jobs and Roles","Useful Phrases and Grammar","Restseiten Originalbelege"],
+      "add_modules":["Reading Comprehension and Case Studies","Aufgaben Übungen und Lösungen"],
+      "remove_topics":[],
+      "add_topics":["Listening Comprehension","Reading Comprehension and Case Studies"]
+    }
+  ],
+  "text_issues": [
+    {
+      "source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP.md",
+      "pages":"1-6",
+      "status":"partial",
+      "problem":"OCR preserves the main wording but loses scan layout, diagrams and some short labels.",
+      "recommended_action":"Keep page images linked and regenerate OCR with layout-aware/manual correction before using exact quotations."
+    },
+    {
+      "source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP.md",
+      "pages":"7",
+      "status":"missing",
+      "problem":"The local Seite-7 source-text block is absent/placeholder. A visually matching OCR block exists later as a global appendix.",
+      "recommended_action":"Move or copy the verified OCR Seite 7 appendix into the local page-7 section, then regenerate the worklist."
+    },
+    {
+      "source_note":"02_Faecher/Englisch/Quellen/Englisch.md",
+      "pages":"1",
+      "status":"missing",
+      "problem":"Placeholder source text does not describe the unrelated child photograph.",
+      "recommended_action":"Do not OCR/index personal imagery as study material; remove it from the active PDF or quarantine it with restricted access."
+    },
+    {
+      "source_note":"02_Faecher/Englisch/Quellen/Englisch.md",
+      "pages":"26",
+      "status":"partial",
+      "problem":"Main complaint/reply-email content is present, but OCR contains substantial recognition artifacts.",
+      "recommended_action":"Re-OCR at page level and manually correct names, line breaks and business-email wording."
+    }
+  ],
+  "canonical_topic_candidates": [
+    {"topic":"Unternehmensziele","evidence":["BGWP.md pages 4-12","ZusammenfassungBGWP.md page 6"],"reason":"Nine consecutive full pages plus a summary page form a stable theory/exercise cluster."},
+    {"topic":"Marktumfeld und Marktformen","evidence":["BGWP.md pages 22-37","ZusammenfassungBGWP.md page 7"],"reason":"Sixteen consecutive pages cover Wirtschaftskreislauf, market categories/forms and equilibrium, with an independent summary."},
+    {"topic":"Unternehmensrecht Handelsregister Vollmachten","evidence":["BGWP.md pages 38-50"],"reason":"Thirteen consecutive pages cover Kaufmann, Firma, Handelsregister, Prokura and Handlungsvollmacht."},
+    {"topic":"Organisation im Betrieb","evidence":["Bgwp_schredl.md pages 1-36","ZusammenfassungBGWP.md pages 1-4"],"reason":"Large coherent cluster with a separate compact summary; includes Aufbau- and Ablauforganisation."},
+    {"topic":"Projektmanagement Lastenheft Pflichtenheft","evidence":["Deutsch.md pages 10-35"],"reason":"Twenty-six consecutive pages cover project roles/phases, requirements, Lastenheft and Pflichtenheft."},
+    {"topic":"Unternehmensleitbild Corporate Identity","evidence":["Deutsch.md pages 6-9"],"reason":"Four consecutive substantive pages form a complete theory/exercise unit."},
+    {"topic":"Introducing a Company","evidence":["Englisch.md pages 6-13 and 16"],"reason":"Repeated company-profile, workplace-vocabulary and presentation material forms a stable English cluster."},
+    {"topic":"Company Structure and Departments","evidence":["Englisch.md pages 17-23"],"reason":"Seven consecutive pages cover departments, responsibilities, organisational charts and hierarchy."},
+    {"topic":"Business Communication English","evidence":["Englisch.md pages 24-30 and 42-44"],"reason":"Multiple substantive sequences cover orders, complaints, email style, promotion and trade-fair follow-up."},
+    {"topic":"Making Phone Calls and Voicemail","evidence":["Englisch.md pages 31-34","Englisch.md pages 35-37 as recap"],"reason":"A dedicated four-page exercise sequence is reinforced by later vocabulary recap."},
+    {"topic":"IT Vocabulary and Hardware","evidence":["Englisch.md pages 35-41"],"reason":"Seven-page vocabulary/safety/installation/assembly sequence, including tasks and solution."},
+    {"topic":"Reading Comprehension and Case Studies","evidence":["Englisch.md pages 45-49"],"reason":"Five consecutive listening/reading pages on wearable technologies form a real comprehension unit."}
+  ],
+  "coverage": {
+    "expected_pdfs": 7,
+    "audited_pdfs": 7,
+    "expected_pages": 212,
+    "audited_pages": 212,
+    "expected_contact_sheets": 56,
+    "checked_contact_sheets": 56,
+    "range_validation": {
+      "machine_checked": true,
+      "method": "jq expanded every inclusive start_page/end_page range into (source_note,page) keys and compared each PDF with 1..total_pages.",
+      "each_expected_page_exactly_once": true,
+      "gaps": [],
+      "overlaps": [],
+      "out_of_bounds": [],
+      "expanded_page_count": 212,
+      "unique_source_page_keys": 212,
+      "per_pdf": [
+        {"source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md","expected":54,"expanded":54,"unique":54,"gaps":[],"overlaps":[]},
+        {"source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md","expected":44,"expanded":44,"unique":44,"gaps":[],"overlaps":[]},
+        {"source_note":"02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP.md","expected":7,"expanded":7,"unique":7,"gaps":[],"overlaps":[]},
+        {"source_note":"02_Faecher/Deutsch/Quellen/Deutsch.md","expected":46,"expanded":46,"unique":46,"gaps":[],"overlaps":[]},
+        {"source_note":"02_Faecher/Deutsch/Quellen/Regelsammlung.md","expected":10,"expanded":10,"unique":10,"gaps":[],"overlaps":[]},
+        {"source_note":"02_Faecher/Deutsch/Quellen/Station_1.md","expected":2,"expanded":2,"unique":2,"gaps":[],"overlaps":[]},
+        {"source_note":"02_Faecher/Englisch/Quellen/Englisch.md","expected":49,"expanded":49,"unique":49,"gaps":[],"overlaps":[]}
+      ]
+    },
+    "source_text_match_page_counts": {
+      "ok": 203,
+      "partial": 7,
+      "wrong_page": 0,
+      "missing": 2,
+      "ocr_error": 0
+    },
+    "mapping_status_page_counts": {
+      "correct": 0,
+      "overbroad": 73,
+      "missing": 0,
+      "mixed": 139
+    }
+  }
+}
