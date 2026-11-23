@@ -13,7 +13,7 @@ tags:
 
 # Quellenmatrix
 
-Diese Matrix wird direkt aus den **33 seitenweise auditierten Quellnotizen** und ihren korrigierten Referenztabellen erzeugt. Jeder Themenlink muss auf `03_Themen/Visuell_geprueft/` zeigen; der Generator bricht bei alten Lernordner- oder Legacy-Themenlinks ab. Zwei technisch ausgeschlossene Quellnotizen besitzen bewusst keine Themenzuordnung.
+Diese Matrix wird direkt aus den **33 seitenweise auditierten Quellnotizen** und ihren korrigierten Referenztabellen erzeugt. Jeder Themenlink muss auf `03_Themen/Visuell_geprueft/` zeigen; der Generator bricht bei alten Lernordner- oder Legacy-Themenlinks ab. 3 technisch ausgeschlossene Quellnotiz(en) besitzen bewusst keine Themenzuordnung.
 
 - Generator: `ruby 01_Index/Tools/build_quellenmatrix.rb`
 - Stand: **2026-07-13**

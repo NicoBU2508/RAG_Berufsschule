@@ -2,17 +2,28 @@
 
 require "json"
 require "pathname"
+require_relative "lib/vault_support"
 
-AUDIT_DATE = "2026-07-13"
-ROOT = Pathname.new(__dir__).join("../..").cleanpath.realpath
+ROOT = VaultSupport::ROOT
 JSON_OUTPUT = ROOT.join("01_Index/KI_Dateiinventar.json")
 MARKDOWN_OUTPUT = ROOT.join("01_Index/KI_Quellenmanifest.md")
-PRIVATE_PREFIX = "98_Archiv_nicht_lernen/Privat_Noten_nicht_fuer_KI/"
-DUPLICATE_PDFS_NFC = [
-  "99_Originale/Berufsschule/AE/Anwendugse.pdf",
-  "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf",
-  "99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf"
-].map { |path| path.unicode_normalize(:nfc) }.freeze
+DUPLICATES_PATH = ROOT.join("01_Index/Auditdaten/PDF_Duplikatnachweis.json")
+PRIVATE_PREFIX = VaultSupport::PRIVATE_PREFIX
+
+def load_duplicate_pdfs_nfc
+  if DUPLICATES_PATH.file?
+    data = VaultSupport.read_json(DUPLICATES_PATH)
+    return data.fetch("pairs", []).map { |pair| VaultSupport.nfc(pair.fetch("duplicate_pdf")) }
+  end
+
+  [
+    "99_Originale/Berufsschule/AE/Anwendugse.pdf",
+    "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf",
+    "99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf"
+  ].map { |path| VaultSupport.nfc(path) }
+end
+
+DUPLICATE_PDFS_NFC = load_duplicate_pdfs_nfc.freeze
 
 class FrontmatterReader
   MAX_LINES = 200
@@ -44,13 +55,15 @@ class FileClassifier
   Classification = Struct.new(:role, :ai_use, :reason)
 
   def classify(path, metadata)
-    return item("project_metadata", "excluded", "Projekt- und Auditmetadaten; kein fachlicher Lernbeleg") if path == "manifest.json"
+    return item("project_metadata", "excluded", "Projekt-, Git- und Auditmetadaten; kein fachlicher Lernbeleg") if %w[manifest.json .gitignore README.md].include?(path)
     return item("private_or_archive", "excluded", "Archiv, Duplikat oder ausdrücklich nicht für KI") if path.start_with?("98_Archiv_nicht_lernen/")
+    return item("import_inbox", "excluded", "Posteingang für neue GoodNotes-PDFs; bis zum visuellen Audit ausgeschlossen") if path.start_with?("00_Posteingang_GoodNotes/")
+    return item("agent_customization", "operational", "Projekt-spezifische Agent-Anweisungen und Skills") if path.start_with?(".agents/")
     return item("obsidian_configuration", "excluded", "Lokale Konfiguration oder Plugin-Code") if path.start_with?(".obsidian/")
     return item("copilot_prompt", "excluded", "Arbeitsanweisung, kein Lernwissen") if path.start_with?("copilot/")
     return item("template", "excluded", "Unausgefüllter Platzhalter") if path.start_with?("05_Templates/")
     return item("topic_alias", "excluded", "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt") if path.start_with?("03_Themen/Weiterleitungen/")
-    return item("duplicate_pdf", "excluded", "Vollständig gerendert und visuell pixelidentisch mit einer aktiven kanonischen PDF") if DUPLICATE_PDFS_NFC.include?(path.unicode_normalize(:nfc))
+    return item("duplicate_pdf", "excluded", "Vollständig gerendert und visuell pixelidentisch mit einer aktiven kanonischen PDF") if DUPLICATE_PDFS_NFC.include?(VaultSupport.nfc(path))
     return item("original_pdf", "verify_only", "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen") if path.start_with?("99_Originale/") && File.extname(path).downcase == ".pdf"
     return item("excluded_source_note", "excluded", "Quellnotiz ist als visuell unbrauchbar oder exakt doppelt technisch ausgeschlossen") if metadata["ki_exclude"] == "true"
     return item("source_note", "primary", "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten") if path.match?(%r{\A02_Faecher/[^/]+/Quellen/[^/]+\.md\z})
@@ -63,6 +76,8 @@ class FileClassifier
     return item("topic_hub", "navigation", "Verweisknoten ohne eigene Quelle") if metadata["typ"] == "themen_hub"
     return item("generated_vault_index", "navigation", "Großer Generierungsstand; nur zum Auffinden") if path == "00_Vault_Index_Vollständig.md"
     return item("entrypoint", "primary", "Kanonischer Einstieg und Quellenregeln") if path == "00_START.md" || path == "00_KI_QUELLENSTART.md"
+    return item("workflow_guide", "navigation", "Leitfaden zur Integration neuer GoodNotes-Mitschriften") if path == "00_WORKFLOW_NEUE_MITSCHRIFTEN.md"
+    return item("working_note", "excluded", "Lokale Tagesnotiz oder Canvas; kein kanonischer KI-Beleg") if path.match?(/\A\d{4}-\d{2}-\d{2}\.md\z/) || File.extname(path).downcase == ".canvas"
     return item("flashcard_index", "excluded", "Nicht gleichwertig visuell geprüfte Wiederholungsschicht") if path.start_with?("05_Karteikarten/")
     return item("exam_archive", "excluded", "Nicht gleichwertig visuell geprüfte Altklausurstruktur") if path.start_with?("06_Altklausuren/")
     return item("navigation_index", "navigation", "Fach- oder Gesamtübersicht") if path.start_with?("07_Lernordner/")
@@ -84,6 +99,11 @@ class ManifestBuilder
     "01_Index/KI_Dateiinventar.json",
     "01_Index/KI_Quellenmanifest.md"
   ].freeze
+  IGNORED_PREFIXES = [
+    ".git/",
+    "Obsidian_Berufsschule/",
+    ".import_review/"
+  ].freeze
 
   def initialize(root, reader: FrontmatterReader.new, classifier: FileClassifier.new)
     @root = root
@@ -92,10 +112,11 @@ class ManifestBuilder
   end
 
   def build
+    audit_date = VaultSupport.latest_audit_date
     files = paths.map { |path| record(path) }
     {
       "schema_version" => 2,
-      "audit_date" => AUDIT_DATE,
+      "audit_date" => audit_date,
       "privacy" => "Private Dateien wurden nur nach Existenz, Pfad, Typ und Größe inventarisiert; ihr Inhalt wurde nicht gelesen.",
       "retrieval_order" => ["curated_topic", "source_note", "original_pdf"],
       "evidence_order" => ["source_note", "original_pdf"],
@@ -111,7 +132,7 @@ class ManifestBuilder
     Dir.chdir(@root) do
       Dir.glob("**/*", File::FNM_DOTMATCH)
         .select { |path| File.file?(path) }
-        .reject { |path| path.start_with?(".git/") }
+        .reject { |path| IGNORED_PREFIXES.any? { |prefix| path.start_with?(prefix) } || File.basename(path) == ".DS_Store" }
         .sort
     end
   end
@@ -160,10 +181,16 @@ class ManifestBuilder
         "purpose" => "Hohe Präzision und wenig Duplikate"
       },
       "full" => {
-        "add" => ["quality_or_navigation", "navigation_index"],
+        "add" => ["quality_or_navigation", "navigation_index", "workflow_guide"],
         "purpose" => "Diagnose und Navigation; keine zusätzlichen fachlichen Belege"
       },
-      "always_exclude" => ["project_metadata", "private_or_archive", "obsidian_configuration", "copilot_prompt", "template", "topic_alias", "duplicate_pdf", "legacy_topic", "generated_learning_index", "generated_learning_module", "unverified_exam_material", "flashcard_index", "exam_archive", "excluded_source_note", "unclassified"]
+      "always_exclude" => [
+        "project_metadata", "private_or_archive", "import_inbox", "working_note",
+        "obsidian_configuration", "copilot_prompt", "template", "topic_alias",
+        "duplicate_pdf", "legacy_topic", "generated_learning_index",
+        "generated_learning_module", "unverified_exam_material", "flashcard_index",
+        "exam_archive", "excluded_source_note", "unclassified"
+      ]
     }
   end
 end
@@ -175,13 +202,14 @@ class ManifestWriter
   end
 
   def write(manifest)
-    File.write(@json_output, JSON.pretty_generate(manifest) + "\n")
-    File.write(@markdown_output, markdown(manifest))
+    VaultSupport.write_json_if_changed(@json_output, manifest)
+    VaultSupport.write_if_changed(@markdown_output, markdown(manifest))
   end
 
   private
 
   def markdown(manifest)
+    audit_date = manifest.fetch("audit_date")
     totals = manifest.fetch("totals")
     role_rows = totals.fetch("by_role").map { |role, count| "| `#{role}` | #{count} |" }.join("\n")
     use_rows = totals.fetch("by_ai_use").map { |use, count| "| `#{use}` | #{count} |" }.join("\n")
@@ -190,7 +218,7 @@ class ManifestWriter
       id: vault.ki.quellenmanifest
       typ: ki_quellenmanifest
       status: generiert
-      stand: #{AUDIT_DATE}
+      stand: #{audit_date}
       ki_prioritaet: 1
       tags:
         - ki_quelle
@@ -208,7 +236,7 @@ class ManifestWriter
       ## Abdeckung
 
       - Dateien insgesamt: **#{totals.fetch("files")}**
-      - Stand: **#{AUDIT_DATE}**
+      - Stand: **#{audit_date}**
       - Generator: `ruby 01_Index/Tools/build_ki_manifest.rb`
 
       | KI-Nutzung | Dateien |
@@ -225,7 +253,7 @@ class ManifestWriter
 
       **Diagnose:** Zusätzlich Qualitäts- und Navigationsdateien durchsuchen. Dadurch entstehen keine weiteren fachlichen Belege.
 
-      **Immer ausschließen:** Archiv/Privatbereich, `.obsidian`, Copilot-Prompts, Templates, alte Themen, generierte Lernmodule, ungeprüfte Prüfungsschichten und Quellnotizen mit `ki_exclude: true`.
+      **Immer ausschließen:** Archiv/Privatbereich, Posteingang (`00_Posteingang_GoodNotes/`), `.obsidian`, Copilot-Prompts, Templates, alte Themen, generierte Lernmodule, ungeprüfte Prüfungsschichten und Quellnotizen mit `ki_exclude: true`.
 
       ## Quellenpriorität
 

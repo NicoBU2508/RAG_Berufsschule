@@ -20,7 +20,7 @@ Alle **33 aktiven nichtprivaten PDFs mit 805 Seiten** wurden vollständig visuel
 
 ## Methode
 
-Jede Seite wurde über vollständig gerenderte Kontaktbögen bei Originaldetail gesichtet. Sichtinhalt, lokaler Quelltext, bisherige Modulreferenzen und kuratierte Themen wurden seitenweise verglichen. Das maschinenlesbare Ergebnis mit einer Zeile pro aktiver PDF-Seite steht in [[01_Index/PDF_Seitenaudit.json|PDF_Seitenaudit.json]].
+Jede Seite wurde über vollständig gerenderte Kontaktbögen oder Einzelseiten bei Originaldetail gesichtet. Sichtinhalt, lokaler Quelltext, bisherige Modulreferenzen und kuratierte Themen wurden seitenweise verglichen. Das maschinenlesbare Ergebnis mit einer Zeile pro aktiver PDF-Seite steht in [[01_Index/PDF_Seitenaudit.json|PDF_Seitenaudit.json]].
 
 ## Gesamtbefund vor der Korrektur
 

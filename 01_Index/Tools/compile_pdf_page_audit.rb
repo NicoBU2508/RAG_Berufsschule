@@ -3,15 +3,16 @@
 require "date"
 require "json"
 require "pathname"
+require_relative "lib/vault_support"
 
-ROOT = Pathname.new(__dir__).join("../..").cleanpath.realpath
+ROOT = VaultSupport::ROOT
 WORKLIST = ROOT.join("01_Index/PDF_Seitenaudit_Worklist.json")
 DUPLICATES = ROOT.join("01_Index/Auditdaten/PDF_Duplikatnachweis.json")
 JSON_OUTPUT = ROOT.join("01_Index/PDF_Seitenaudit.json")
 MARKDOWN_OUTPUT = ROOT.join("01_Index/PDF_Seitenaudit.md")
-AUDIT_DATE = "2026-07-13"
+BASE_AUDIT_DATE = VaultSupport::BASE_AUDIT_DATE
 
-REPORT_CANDIDATES = [
+BASE_REPORT_CANDIDATES = [
   [ROOT.join("01_Index/Auditdaten/PDF_Seitenaudit_Root.json")],
   [ROOT.join("01_Index/Auditdaten/PDF_Seitenaudit_AE_Allgemein.json"), Pathname.new("/private/tmp/pdf_deep_audit_ae.json")],
   [ROOT.join("01_Index/Auditdaten/PDF_Seitenaudit_BGWP_Sprachen.json"), Pathname.new("/private/tmp/pdf_deep_audit_bgwp_sprachen.json")],
@@ -44,12 +45,13 @@ end
 
 class ReportLocator
   def locate(candidate_groups)
-    candidate_groups.map do |candidates|
+    base_paths = candidate_groups.map do |candidates|
       path = candidates.find(&:file?)
       raise "audit report missing; tried: #{candidates.join(', ')}" unless path
 
       path
     end
+    base_paths + VaultSupport.import_report_paths
   end
 end
 
@@ -57,6 +59,10 @@ class ReportReader
   FIELDS = %w[
     primary_topic secondary_topics content_type source_text_match mapping_status
     confidence recommended_modules recommended_topics issues
+  ].freeze
+
+  OPTIONAL_FIELDS = %w[
+    audit_date exclusion_reason support_only sensitive ocr_verified replaces_existing
   ].freeze
 
   def read(path)
@@ -91,7 +97,7 @@ class ReportReader
         end
       end
     end
-    { "records" => records, "findings" => root_findings(data, path) }
+    { "records" => records, "findings" => root_findings(data, path), "topic_categories" => {} }
   end
 
   def read_agent_report(data, path)
@@ -116,7 +122,7 @@ class ReportReader
         end
       end
     end
-    { "records" => records, "findings" => agent_findings(data, path) }
+    { "records" => records, "findings" => agent_findings(data, path), "topic_categories" => {} }
   end
 
   def read_flat_range_report(data, path)
@@ -131,28 +137,47 @@ class ReportReader
         ))
       end
     end
-    { "records" => records, "findings" => generic_findings(data, path) }
+    { "records" => records, "findings" => generic_findings(data, path), "topic_categories" => {} }
   end
 
   def read_page_report(data, path)
+    is_import = VaultSupport.import_report?(path)
+    default_replaces = data["replaces_existing"] == true
     records = {}
     data.fetch("pages").each do |page|
+      if is_import
+        problems = VaultSupport.import_page_problems(page)
+        raise "Ungültiger Import-Audit (#{relative_or_absolute(path)}):\n  - #{problems.join("\n  - ")}" unless problems.empty?
+      end
       key = NormalizedKey.page(page.fetch("source_note"), page.fetch("page"))
-      add(records, key, audit_fields(page.fetch("audit")).merge(
+      fields = audit_fields(page.fetch("audit"))
+      fields["replaces_existing"] = true if default_replaces && !fields.key?("replaces_existing")
+      add(records, key, fields.merge(
         "pdf_path" => page.fetch("pdf_path"),
         "source_note" => page.fetch("source_note"),
         "report" => relative_or_absolute(path)
       ))
     end
-    { "records" => records, "findings" => generic_findings(data, path) }
+    {
+      "records" => records,
+      "findings" => generic_findings(data, path),
+      "topic_categories" => data.fetch("topic_categories", {})
+    }
   end
 
   def audit_fields(range)
-    FIELDS.each_with_object({}) do |field, result|
+    base = FIELDS.each_with_object({}) do |field, result|
       value = range[field]
       value = [] if %w[secondary_topics recommended_modules recommended_topics issues].include?(field) && value.nil?
       result[field] = value
     end
+    OPTIONAL_FIELDS.each do |field|
+      value = range[field]
+      next if value.nil? || (value.is_a?(String) && value.strip.empty?)
+
+      base[field] = value
+    end
+    base
   end
 
   def add(records, key, value)
@@ -212,8 +237,7 @@ class AuditCompiler
   end
 
   def compile
-    by_source = report_records_by_source
-    by_pdf = report_records_by_pdf
+    by_source, by_pdf, active_records = build_indexes
     used = Hash.new(0)
     pages = @worklist.fetch("pages").map do |page|
       source_key = NormalizedKey.page(page.fetch("source_note"), page.fetch("page"))
@@ -224,14 +248,19 @@ class AuditCompiler
       used[audit.object_id] += 1
       final_page(page, audit)
     end
-    extra = all_report_records.reject { |record| used[record.object_id] == 1 }
+    extra = active_records.reject { |record| used[record.object_id] == 1 }
     raise "unused or multiply used report records: #{extra.length}" unless extra.empty?
 
-    {
+    audit_date = ([BASE_AUDIT_DATE] + pages.map { |page| page.dig("audit", "audit_date") }.compact).max
+    topic_categories = @reports.each_with_object({}) do |report, merged|
+      report.fetch("topic_categories", {}).each { |topic, category| merged[topic] = category }
+    end
+
+    result = {
       "schema_version" => 2,
-      "audit_date" => AUDIT_DATE,
-      "scope" => "Alle 805 aktiven, nichtprivaten PDF-Seiten wurden visuell geprüft; private Inhalte blieben ungelesen.",
-      "method" => "Jede aktive PDF-Seite wurde über vollständig gerenderte Kontaktbögen bei Originaldetail visuell geprüft und mit Quelltext sowie bestehenden Modul-/Themenlinks verglichen.",
+      "audit_date" => audit_date,
+      "scope" => "Alle #{pages.length} aktiven, nichtprivaten PDF-Seiten wurden visuell geprüft; private Inhalte blieben ungelesen.",
+      "method" => "Jede aktive PDF-Seite wurde über vollständig gerenderte Kontaktbögen oder Einzelseiten bei Originaldetail visuell geprüft und mit Quelltext sowie bestehenden Modul-/Themenlinks verglichen.",
       "privacy" => "Der private Notenordner wurde nur als ausgeschlossener Pfad inventarisiert und nicht geöffnet.",
       "totals" => totals(pages),
       "duplicate_evidence" => @duplicate_data,
@@ -239,30 +268,42 @@ class AuditCompiler
       "report_findings" => @reports.map { |report| report.fetch("findings") },
       "pages" => pages
     }
+    result["topic_categories"] = topic_categories unless topic_categories.empty?
+    result
   end
 
   private
 
-  def report_records_by_source
-    index = {}
-    all_report_records.each do |record|
-      next unless record["source_note"]
+  def build_indexes
+    by_source = {}
+    by_pdf = {}
+    active = {}
 
-      key = NormalizedKey.page(record["source_note"], record.fetch("page"))
-      raise "duplicate source key across reports: #{key.inspect}" if index.key?(key)
-      index[key] = record
-    end
-    index
-  end
-
-  def report_records_by_pdf
-    index = {}
     all_report_records.each do |record|
-      key = [NormalizedKey.text(record.fetch("pdf_path")), record.fetch("page")]
-      raise "duplicate PDF key across reports: #{key.inspect}" if index.key?(key)
-      index[key] = record
+      pdf_key = [NormalizedKey.text(record.fetch("pdf_path")), record.fetch("page")]
+      source_key = record["source_note"] ? NormalizedKey.page(record["source_note"], record.fetch("page")) : nil
+      replaces = record["replaces_existing"] == true
+
+      if source_key && by_source.key?(source_key) && !replaces
+        raise "duplicate source key across reports: #{source_key.inspect}"
+      end
+      if by_pdf.key?(pdf_key) && !replaces
+        raise "duplicate PDF key across reports: #{pdf_key.inspect}"
+      end
+
+      if replaces
+        old_source = source_key ? by_source[source_key] : nil
+        old_pdf = by_pdf[pdf_key]
+        active.delete(old_source.object_id) if old_source
+        active.delete(old_pdf.object_id) if old_pdf
+      end
+
+      by_source[source_key] = record if source_key
+      by_pdf[pdf_key] = record
+      active[record.object_id] = record
     end
-    index
+
+    [by_source, by_pdf, active.values]
   end
 
   def all_report_records
@@ -275,6 +316,7 @@ class AuditCompiler
   end
 
   def final_page(page, audit)
+    audit_payload = audit.slice(*ReportReader::FIELDS, *ReportReader::OPTIONAL_FIELDS).merge("visual_checked" => true)
     {
       "id" => page.fetch("id"),
       "subject" => page["subject"],
@@ -285,13 +327,14 @@ class AuditCompiler
       "source_section_chars" => page.fetch("source_section_chars"),
       "previous_modules" => page.fetch("current_modules").map { |item| item.fetch("title") },
       "previous_curated_topics" => page.fetch("current_curated_topics").map { |item| item.fetch("title") },
-      "audit" => audit.slice(*ReportReader::FIELDS).merge("visual_checked" => true)
+      "audit" => audit_payload
     }
   end
 
   def totals(pages)
     audits = pages.map { |page| page.fetch("audit") }
     duplicate_totals = @duplicate_data.fetch("totals")
+    private_pdfs = Dir.glob(ROOT.join(VaultSupport::PRIVATE_PREFIX, "**/*.pdf").to_s).length
     {
       "active_pdfs" => pages.map { |page| page.fetch("pdf_path") }.uniq.length,
       "active_pages" => pages.length,
@@ -299,7 +342,7 @@ class AuditCompiler
       "visually_identical_duplicate_pages" => duplicate_totals.fetch("duplicate_pages"),
       "nonprivate_pdfs_accounted_for" => pages.map { |page| page.fetch("pdf_path") }.uniq.length + duplicate_totals.fetch("duplicate_pdfs"),
       "nonprivate_pages_accounted_for" => pages.length + duplicate_totals.fetch("duplicate_pages"),
-      "private_pdfs_unread" => 1,
+      "private_pdfs_unread" => private_pdfs,
       "source_text_match" => count(audits, "source_text_match"),
       "mapping_status_before_correction" => count(audits, "mapping_status"),
       "content_type" => count(audits, "content_type"),
@@ -329,18 +372,19 @@ end
 class MarkdownWriter
   def render(audit)
     totals = audit.fetch("totals")
+    audit_date = audit.fetch("audit_date")
     rows = audit.fetch("documents").map do |document|
       text = compact_counts(document.fetch("source_text_match"))
       mappings = compact_counts(document.fetch("mapping_status_before_correction"))
       "| [[#{document.fetch('source_note').delete_suffix('.md')}|#{File.basename(document.fetch('source_note'), '.md')}]] | #{document.fetch('subject')} | #{document.fetch('pages')} | #{text} | #{mappings} |"
     end.join("\n")
-    <<~MARKDOWN
+    markdown = <<~MARKDOWN
       ---
       id: vault.audit.pdf-seiten
       typ: visueller_pdf_seitenaudit
       status: vollständig
-      stand: #{AUDIT_DATE}
-      reviewed_on: #{AUDIT_DATE}
+      stand: #{audit_date}
+      reviewed_on: #{audit_date}
       ki_prioritaet: 1
       tags:
         - ki_quelle
@@ -357,7 +401,7 @@ class MarkdownWriter
 
       ## Methode
 
-      Jede Seite wurde über vollständig gerenderte Kontaktbögen bei Originaldetail gesichtet. Sichtinhalt, lokaler Quelltext, bisherige Modulreferenzen und kuratierte Themen wurden seitenweise verglichen. Das maschinenlesbare Ergebnis mit einer Zeile pro aktiver PDF-Seite steht in [[01_Index/PDF_Seitenaudit.json|PDF_Seitenaudit.json]].
+      Jede Seite wurde über vollständig gerenderte Kontaktbögen oder Einzelseiten bei Originaldetail gesichtet. Sichtinhalt, lokaler Quelltext, bisherige Modulreferenzen und kuratierte Themen wurden seitenweise verglichen. Das maschinenlesbare Ergebnis mit einer Zeile pro aktiver PDF-Seite steht in [[01_Index/PDF_Seitenaudit.json|PDF_Seitenaudit.json]].
 
       ## Gesamtbefund vor der Korrektur
 
@@ -376,6 +420,11 @@ class MarkdownWriter
 
       Der Audit bestätigt die semantische Zuordnung, ersetzt aber keine Originalquelle. Für Zahlen, Formeln, Tabellen, Rechtsnormen, Handschrift und OCR-unsichere Stellen immer die verlinkte PDF-Seite öffnen.
     MARKDOWN
+    if VaultSupport::MAPPING_PATH.file?
+      mapping_totals = VaultSupport.read_json(VaultSupport::MAPPING_PATH).fetch("totals")
+      markdown = VaultSupport.with_canonical_section(markdown, mapping_totals)
+    end
+    markdown
   end
 
   private
@@ -385,11 +434,11 @@ class MarkdownWriter
   end
 end
 
-paths = ReportLocator.new.locate(REPORT_CANDIDATES)
+paths = ReportLocator.new.locate(BASE_REPORT_CANDIDATES)
 reports = paths.map { |path| ReportReader.new.read(path) }
 worklist = JSON.parse(File.read(WORKLIST, encoding: "UTF-8"))
 duplicate_data = JSON.parse(File.read(DUPLICATES, encoding: "UTF-8"))
 audit = AuditCompiler.new(worklist, reports, duplicate_data).compile
-File.write(JSON_OUTPUT, JSON.pretty_generate(audit) + "\n")
-File.write(MARKDOWN_OUTPUT, MarkdownWriter.new.render(audit))
+VaultSupport.write_json_if_changed(JSON_OUTPUT, audit)
+VaultSupport.write_if_changed(MARKDOWN_OUTPUT, MarkdownWriter.new.render(audit))
 puts "Wrote #{JSON_OUTPUT.relative_path_from(ROOT)} and #{MARKDOWN_OUTPUT.relative_path_from(ROOT)} (#{audit.dig('totals', 'active_pages')} active pages)."

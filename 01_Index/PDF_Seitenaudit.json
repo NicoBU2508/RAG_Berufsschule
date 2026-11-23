@@ -2,7 +2,7 @@
   "schema_version": 2,
   "audit_date": "2026-07-13",
   "scope": "Alle 805 aktiven, nichtprivaten PDF-Seiten wurden visuell geprüft; private Inhalte blieben ungelesen.",
-  "method": "Jede aktive PDF-Seite wurde über vollständig gerenderte Kontaktbögen bei Originaldetail visuell geprüft und mit Quelltext sowie bestehenden Modul-/Themenlinks verglichen.",
+  "method": "Jede aktive PDF-Seite wurde über vollständig gerenderte Kontaktbögen oder Einzelseiten bei Originaldetail visuell geprüft und mit Quelltext sowie bestehenden Modul-/Themenlinks verglichen.",
   "privacy": "Der private Notenordner wurde nur als ausgeschlossener Pfad inventarisiert und nicht geöffnet.",
   "totals": {
     "active_pdfs": 33,
@@ -9923,8 +9923,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
       "pdf_path": "99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf",
       "page": 37,
-      "source_text_status": "weak",
-      "source_section_chars": 533,
+      "source_text_status": "text",
+      "source_section_chars": 255,
       "previous_modules": [
         "Arrays und Sammlungen",
         "Schleifen",
@@ -12100,8 +12100,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics.md",
       "pdf_path": "99_Originale/Basics/JAVA/Java Basics.pdf",
       "page": 1,
-      "source_text_status": "ocr",
-      "source_section_chars": 536,
+      "source_text_status": "text",
+      "source_section_chars": 252,
       "previous_modules": [
         "Restseiten Originalbelege"
       ],
@@ -12273,7 +12273,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 1,
       "source_text_status": "text",
-      "source_section_chars": 2887,
+      "source_section_chars": 239,
       "previous_modules": [
         "EVA Prinzip",
         "Java Grundlagen und IDE",
@@ -12319,7 +12319,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 2,
       "source_text_status": "text",
-      "source_section_chars": 3448,
+      "source_section_chars": 239,
       "previous_modules": [
         "EVA Prinzip",
         "Java Grundlagen und IDE",
@@ -14493,7 +14493,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 1,
       "source_text_status": "text",
-      "source_section_chars": 2887,
+      "source_section_chars": 239,
       "previous_modules": [
         "EVA Prinzip",
         "Java Grundlagen und IDE",
@@ -14539,7 +14539,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 2,
       "source_text_status": "text",
-      "source_section_chars": 3448,
+      "source_section_chars": 239,
       "previous_modules": [
         "EVA Prinzip",
         "Java Grundlagen und IDE",
@@ -17225,7 +17225,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf",
       "page": 4,
       "source_text_status": "ocr",
-      "source_section_chars": 618,
+      "source_section_chars": 2625,
       "previous_modules": [
         "Algorithmus und Programmablauf",
         "Java Grundlagen und IDE",
@@ -17358,7 +17358,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf",
       "page": 3,
       "source_text_status": "ocr",
-      "source_section_chars": 614,
+      "source_section_chars": 1197,
       "previous_modules": [
         "Algorithmus und Programmablauf",
         "Java Grundlagen und IDE",
@@ -17446,8 +17446,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md",
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Stößl.pdf",
       "page": 2,
-      "source_text_status": "ocr",
-      "source_section_chars": 542,
+      "source_text_status": "text",
+      "source_section_chars": 210,
       "previous_modules": [
         "Restseiten Originalbelege"
       ],
@@ -17741,8 +17741,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki.md",
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 1,
-      "source_text_status": "ocr",
-      "source_section_chars": 538,
+      "source_text_status": "text",
+      "source_section_chars": 252,
       "previous_modules": [
         "Unternehmenswiki Projektaufgaben"
       ],
@@ -17776,8 +17776,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki.md",
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 2,
-      "source_text_status": "ocr",
-      "source_section_chars": 538,
+      "source_text_status": "text",
+      "source_section_chars": 210,
       "previous_modules": [
         "Unternehmenswiki Projektaufgaben"
       ],
@@ -17812,7 +17812,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 3,
       "source_text_status": "text",
-      "source_section_chars": 2795,
+      "source_section_chars": 239,
       "previous_modules": [
         "EVA Prinzip",
         "Java Grundlagen und IDE",
@@ -17858,7 +17858,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 4,
       "source_text_status": "text",
-      "source_section_chars": 2306,
+      "source_section_chars": 260,
       "previous_modules": [
         "Java Grundlagen und IDE",
         "Klassen Objekte Attribute",
@@ -17910,7 +17910,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 5,
       "source_text_status": "text",
-      "source_section_chars": 2430,
+      "source_section_chars": 260,
       "previous_modules": [
         "EVA Prinzip",
         "Java Grundlagen und IDE",
@@ -17965,7 +17965,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 6,
       "source_text_status": "text",
-      "source_section_chars": 2288,
+      "source_section_chars": 260,
       "previous_modules": [
         "EVA Prinzip",
         "Java Grundlagen und IDE",
@@ -18019,7 +18019,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 7,
       "source_text_status": "text",
-      "source_section_chars": 1744,
+      "source_section_chars": 260,
       "previous_modules": [
         "Java Grundlagen und IDE",
         "Programm und Software",
@@ -18071,7 +18071,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 8,
       "source_text_status": "text",
-      "source_section_chars": 1275,
+      "source_section_chars": 260,
       "previous_modules": [
         "Java Grundlagen und IDE",
         "Programm und Software",
@@ -18123,7 +18123,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 9,
       "source_text_status": "text",
-      "source_section_chars": 646,
+      "source_section_chars": 260,
       "previous_modules": [
         "Java Grundlagen und IDE",
         "Unternehmenswiki Projektaufgaben",
@@ -18168,7 +18168,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 10,
       "source_text_status": "text",
-      "source_section_chars": 1128,
+      "source_section_chars": 260,
       "previous_modules": [
         "Java Grundlagen und IDE",
         "Klassen Objekte Attribute",
@@ -18217,7 +18217,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 11,
       "source_text_status": "text",
-      "source_section_chars": 752,
+      "source_section_chars": 260,
       "previous_modules": [
         "Programm und Software",
         "Scanner Random Benutzereingaben",
@@ -18262,7 +18262,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 12,
       "source_text_status": "text",
-      "source_section_chars": 1483,
+      "source_section_chars": 260,
       "previous_modules": [
         "EVA Prinzip",
         "Java Grundlagen und IDE",
@@ -18309,7 +18309,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 13,
       "source_text_status": "text",
-      "source_section_chars": 790,
+      "source_section_chars": 260,
       "previous_modules": [
         "Programm und Software",
         "Unternehmenswiki Projektaufgaben",
@@ -18353,7 +18353,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 14,
       "source_text_status": "text",
-      "source_section_chars": 556,
+      "source_section_chars": 260,
       "previous_modules": [
         "Java Grundlagen und IDE",
         "Klassen Objekte Attribute",
@@ -18400,7 +18400,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 15,
       "source_text_status": "text",
-      "source_section_chars": 597,
+      "source_section_chars": 260,
       "previous_modules": [
         "Java Grundlagen und IDE",
         "Programm und Software",
@@ -18445,7 +18445,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 16,
       "source_text_status": "text",
-      "source_section_chars": 1634,
+      "source_section_chars": 260,
       "previous_modules": [
         "Java Grundlagen und IDE",
         "Klassen Objekte Attribute",
@@ -18497,7 +18497,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 17,
       "source_text_status": "text",
-      "source_section_chars": 2350,
+      "source_section_chars": 260,
       "previous_modules": [
         "Java Grundlagen und IDE",
         "Klassen Objekte Attribute",
@@ -18543,7 +18543,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 18,
       "source_text_status": "text",
-      "source_section_chars": 1615,
+      "source_section_chars": 260,
       "previous_modules": [
         "Java Grundlagen und IDE",
         "Methoden Parameter Rückgabewerte",
@@ -18591,7 +18591,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 19,
       "source_text_status": "text",
-      "source_section_chars": 1310,
+      "source_section_chars": 260,
       "previous_modules": [
         "Java Grundlagen und IDE",
         "Klassen Objekte Attribute",
@@ -18637,7 +18637,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
       "page": 20,
       "source_text_status": "text",
-      "source_section_chars": 2799,
+      "source_section_chars": 239,
       "previous_modules": [
         "EVA Prinzip",
         "Java Grundlagen und IDE",
@@ -22350,8 +22350,8 @@
       "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
       "pdf_path": "99_Originale/Berufsschule/BGWP/BGWP.pdf",
       "page": 54,
-      "source_text_status": "weak",
-      "source_section_chars": 384,
+      "source_text_status": "text",
+      "source_section_chars": 255,
       "previous_modules": [
         "Aufgaben Übungen und Lösungen"
       ],
@@ -23066,7 +23066,7 @@
       "pdf_path": "99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf",
       "page": 16,
       "source_text_status": "text",
-      "source_section_chars": 525,
+      "source_section_chars": 210,
       "previous_modules": [
         "Angebotsvergleich und Bezugskalkulation",
         "Betrieb und Unternehmen",
@@ -23226,8 +23226,8 @@
       "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md",
       "pdf_path": "99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf",
       "page": 20,
-      "source_text_status": "weak",
-      "source_section_chars": 418,
+      "source_text_status": "text",
+      "source_section_chars": 255,
       "previous_modules": [
         "Betrieb und Unternehmen",
         "Organisation im Betrieb",
@@ -24516,7 +24516,7 @@
       "pdf_path": "99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf",
       "page": 7,
       "source_text_status": "ocr",
-      "source_section_chars": 621,
+      "source_section_chars": 1700,
       "previous_modules": [
         "Angebotsvergleich und Bezugskalkulation",
         "Aufgaben Übungen und Lösungen",
@@ -25123,7 +25123,7 @@
       "pdf_path": "99_Originale/Berufsschule/Deutsch/Deutsch.pdf",
       "page": 15,
       "source_text_status": "text",
-      "source_section_chars": 1667,
+      "source_section_chars": 1882,
       "previous_modules": [
         "Geschäftsbrief Anfrage Angebot",
         "Projektmanagement Lastenheft Pflichtenheft"
@@ -25160,7 +25160,7 @@
       "pdf_path": "99_Originale/Berufsschule/Deutsch/Deutsch.pdf",
       "page": 16,
       "source_text_status": "text",
-      "source_section_chars": 1241,
+      "source_section_chars": 1456,
       "previous_modules": [
         "Geschäftsbrief Anfrage Angebot",
         "Projektmanagement Lastenheft Pflichtenheft"
@@ -26807,8 +26807,8 @@
       "source_note": "02_Faecher/Englisch/Quellen/Englisch.md",
       "pdf_path": "99_Originale/Berufsschule/Englisch/Englisch.pdf",
       "page": 1,
-      "source_text_status": "ocr",
-      "source_section_chars": 554,
+      "source_text_status": "text",
+      "source_section_chars": 252,
       "previous_modules": [
         "IT Jobs and Roles",
         "Useful Phrases and Grammar"
@@ -27140,8 +27140,8 @@
       "source_note": "02_Faecher/Englisch/Quellen/Englisch.md",
       "pdf_path": "99_Originale/Berufsschule/Englisch/Englisch.pdf",
       "page": 9,
-      "source_text_status": "weak",
-      "source_section_chars": 448,
+      "source_text_status": "text",
+      "source_section_chars": 252,
       "previous_modules": [
         "IT Jobs and Roles",
         "Useful Phrases and Grammar"
@@ -28197,7 +28197,7 @@
       "pdf_path": "99_Originale/Berufsschule/Englisch/Englisch.pdf",
       "page": 35,
       "source_text_status": "text",
-      "source_section_chars": 1491,
+      "source_section_chars": 1706,
       "previous_modules": [
         "Business Communication English",
         "Company Structure and Departments",
@@ -28242,7 +28242,7 @@
       "pdf_path": "99_Originale/Berufsschule/Englisch/Englisch.pdf",
       "page": 36,
       "source_text_status": "text",
-      "source_section_chars": 1787,
+      "source_section_chars": 2002,
       "previous_modules": [
         "Business Communication English",
         "Company Structure and Departments",
@@ -28290,7 +28290,7 @@
       "pdf_path": "99_Originale/Berufsschule/Englisch/Englisch.pdf",
       "page": 37,
       "source_text_status": "text",
-      "source_section_chars": 2146,
+      "source_section_chars": 2361,
       "previous_modules": [
         "Applying for a Position",
         "Aufgaben Übungen und Lösungen",
@@ -28764,7 +28764,7 @@
       "pdf_path": "99_Originale/Berufsschule/Englisch/Englisch.pdf",
       "page": 49,
       "source_text_status": "text",
-      "source_section_chars": 1026,
+      "source_section_chars": 1025,
       "previous_modules": [
         "Aufgaben Übungen und Lösungen",
         "Reading Comprehension and Case Studies"
@@ -29007,7 +29007,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1 (1).pdf",
       "page": 1,
       "source_text_status": "text",
-      "source_section_chars": 1059,
+      "source_section_chars": 236,
       "previous_modules": [
         "Hochverfügbarkeit und Redundanz",
         "IT Sicherheit Grundlagen",
@@ -29047,7 +29047,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 1,
       "source_text_status": "text",
-      "source_section_chars": 714,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Malware und Angriffe"
@@ -29088,7 +29088,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 2,
       "source_text_status": "text",
-      "source_section_chars": 531,
+      "source_section_chars": 297,
       "previous_modules": [
         "Computergrundbegriffe",
         "IT Sicherheit Grundlagen",
@@ -29131,7 +29131,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 3,
       "source_text_status": "text",
-      "source_section_chars": 570,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Kryptografie Verschlüsselung Hash Signatur",
@@ -29173,7 +29173,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 4,
       "source_text_status": "text",
-      "source_section_chars": 580,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Kryptografie Verschlüsselung Hash Signatur",
@@ -29215,7 +29215,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 5,
       "source_text_status": "text",
-      "source_section_chars": 650,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Malware und Angriffe"
@@ -29256,7 +29256,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 6,
       "source_text_status": "text",
-      "source_section_chars": 691,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Malware und Angriffe",
@@ -29299,7 +29299,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 7,
       "source_text_status": "text",
-      "source_section_chars": 566,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Malware und Angriffe"
@@ -29339,8 +29339,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 8,
-      "source_text_status": "weak",
-      "source_section_chars": 465,
+      "source_text_status": "text",
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Sicherheitsprozess PDCA und ISMS",
@@ -29380,7 +29380,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 9,
       "source_text_status": "text",
-      "source_section_chars": 1027,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Sicherheitsmanagement und Maßnahmen",
@@ -29422,7 +29422,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 10,
       "source_text_status": "text",
-      "source_section_chars": 699,
+      "source_section_chars": 297,
       "previous_modules": [
         "Datenschutz und Rollen",
         "IT Sicherheit Grundlagen"
@@ -29461,7 +29461,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 11,
       "source_text_status": "text",
-      "source_section_chars": 1153,
+      "source_section_chars": 297,
       "previous_modules": [
         "Backup und Datensicherung",
         "Datenschutz und Rollen",
@@ -29501,8 +29501,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 12,
-      "source_text_status": "weak",
-      "source_section_chars": 513,
+      "source_text_status": "text",
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Kryptografie Verschlüsselung Hash Signatur"
@@ -29541,7 +29541,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 13,
       "source_text_status": "text",
-      "source_section_chars": 746,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Kryptografie Verschlüsselung Hash Signatur"
@@ -29581,7 +29581,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 14,
       "source_text_status": "text",
-      "source_section_chars": 956,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Kryptografie Verschlüsselung Hash Signatur"
@@ -29621,7 +29621,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 15,
       "source_text_status": "text",
-      "source_section_chars": 948,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Kryptografie Verschlüsselung Hash Signatur"
@@ -29661,7 +29661,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 16,
       "source_text_status": "text",
-      "source_section_chars": 690,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Kryptografie Verschlüsselung Hash Signatur"
@@ -29701,7 +29701,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 17,
       "source_text_status": "text",
-      "source_section_chars": 528,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Kryptografie Verschlüsselung Hash Signatur"
@@ -29742,7 +29742,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 18,
       "source_text_status": "text",
-      "source_section_chars": 796,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Kryptografie Verschlüsselung Hash Signatur"
@@ -29783,7 +29783,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 19,
       "source_text_status": "text",
-      "source_section_chars": 688,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Kryptografie Verschlüsselung Hash Signatur"
@@ -29824,7 +29824,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 20,
       "source_text_status": "text",
-      "source_section_chars": 544,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Sicherheitsmanagement und Maßnahmen"
@@ -29863,7 +29863,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 21,
       "source_text_status": "text",
-      "source_section_chars": 627,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen"
       ],
@@ -29901,7 +29901,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 22,
       "source_text_status": "text",
-      "source_section_chars": 655,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen"
       ],
@@ -29939,7 +29939,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 23,
       "source_text_status": "text",
-      "source_section_chars": 555,
+      "source_section_chars": 297,
       "previous_modules": [
         "Backup und Datensicherung",
         "IT Sicherheit Grundlagen"
@@ -29978,7 +29978,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 24,
       "source_text_status": "text",
-      "source_section_chars": 677,
+      "source_section_chars": 297,
       "previous_modules": [
         "Backup und Datensicherung",
         "IT Sicherheit Grundlagen"
@@ -30017,7 +30017,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 25,
       "source_text_status": "text",
-      "source_section_chars": 647,
+      "source_section_chars": 297,
       "previous_modules": [
         "Hochverfügbarkeit und Redundanz",
         "IT Sicherheit Grundlagen"
@@ -30057,7 +30057,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 26,
       "source_text_status": "text",
-      "source_section_chars": 780,
+      "source_section_chars": 297,
       "previous_modules": [
         "Datenschutz und Rollen",
         "IT Sicherheit Grundlagen"
@@ -30096,7 +30096,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 27,
       "source_text_status": "text",
-      "source_section_chars": 681,
+      "source_section_chars": 297,
       "previous_modules": [
         "Computergrundbegriffe",
         "IT Sicherheit Grundlagen",
@@ -30137,7 +30137,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 28,
       "source_text_status": "text",
-      "source_section_chars": 784,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Kryptografie Verschlüsselung Hash Signatur"
@@ -30177,7 +30177,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 29,
       "source_text_status": "text",
-      "source_section_chars": 720,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Kryptografie Verschlüsselung Hash Signatur"
@@ -30217,7 +30217,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 30,
       "source_text_status": "text",
-      "source_section_chars": 565,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen"
       ],
@@ -30255,7 +30255,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 31,
       "source_text_status": "text",
-      "source_section_chars": 623,
+      "source_section_chars": 297,
       "previous_modules": [
         "Computergrundbegriffe",
         "IT Sicherheit Grundlagen"
@@ -30294,7 +30294,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 32,
       "source_text_status": "text",
-      "source_section_chars": 745,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen"
       ],
@@ -30333,7 +30333,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 33,
       "source_text_status": "text",
-      "source_section_chars": 656,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Netzplan und Netzwerktechnik"
@@ -30373,7 +30373,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
       "page": 34,
       "source_text_status": "text",
-      "source_section_chars": 631,
+      "source_section_chars": 297,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Netzplan und Netzwerktechnik"
@@ -30412,7 +30412,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf",
       "page": 1,
       "source_text_status": "text",
-      "source_section_chars": 3599,
+      "source_section_chars": 249,
       "previous_modules": [
         "Hochverfügbarkeit und Redundanz",
         "IT Sicherheit Grundlagen",
@@ -30457,8 +30457,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Lernziele.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf",
       "page": 2,
-      "source_text_status": "weak",
-      "source_section_chars": 452,
+      "source_text_status": "text",
+      "source_section_chars": 249,
       "previous_modules": [
         "IT Sicherheit Grundlagen"
       ],
@@ -30659,8 +30659,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf",
       "page": 5,
-      "source_text_status": "ocr",
-      "source_section_chars": 637,
+      "source_text_status": "text",
+      "source_section_chars": 210,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Netzplan und Netzwerktechnik"
@@ -30697,8 +30697,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf",
       "page": 6,
-      "source_text_status": "ocr",
-      "source_section_chars": 637,
+      "source_text_status": "text",
+      "source_section_chars": 210,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Netzplan und Netzwerktechnik"
@@ -30735,8 +30735,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf",
       "page": 7,
-      "source_text_status": "ocr",
-      "source_section_chars": 637,
+      "source_text_status": "text",
+      "source_section_chars": 210,
       "previous_modules": [
         "Aufgaben Übungen und Lösungen",
         "Computergrundbegriffe",
@@ -31401,7 +31401,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 16,
       "source_text_status": "text",
-      "source_section_chars": 689,
+      "source_section_chars": 239,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Kryptografie Verschlüsselung Hash Signatur"
@@ -31437,7 +31437,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 1,
       "source_text_status": "text",
-      "source_section_chars": 6628,
+      "source_section_chars": 239,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Netzplan und Netzwerktechnik",
@@ -31479,7 +31479,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 2,
       "source_text_status": "text",
-      "source_section_chars": 1208,
+      "source_section_chars": 239,
       "previous_modules": [
         "IT Sicherheit Grundlagen",
         "Sicherheitsmanagement und Maßnahmen"
@@ -34001,7 +34001,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 63,
       "source_text_status": "text",
-      "source_section_chars": 853,
+      "source_section_chars": 261,
       "previous_modules": [
         "IT Sicherheit Grundlagen"
       ],
@@ -34040,8 +34040,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 64,
-      "source_text_status": "ocr",
-      "source_section_chars": 2738,
+      "source_text_status": "text",
+      "source_section_chars": 261,
       "previous_modules": [
         "IT Sicherheit Grundlagen"
       ],
@@ -34079,8 +34079,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 65,
-      "source_text_status": "ocr",
-      "source_section_chars": 2648,
+      "source_text_status": "text",
+      "source_section_chars": 261,
       "previous_modules": [
         "IT Sicherheit Grundlagen"
       ],
@@ -34118,8 +34118,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 66,
-      "source_text_status": "ocr",
-      "source_section_chars": 2008,
+      "source_text_status": "text",
+      "source_section_chars": 261,
       "previous_modules": [
         "IT Sicherheit Grundlagen"
       ],
@@ -34157,8 +34157,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 67,
-      "source_text_status": "ocr",
-      "source_section_chars": 1325,
+      "source_text_status": "text",
+      "source_section_chars": 261,
       "previous_modules": [
         "IT Sicherheit Grundlagen"
       ],
@@ -34421,8 +34421,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 7,
-      "source_text_status": "ocr",
-      "source_section_chars": 858,
+      "source_text_status": "text",
+      "source_section_chars": 210,
       "previous_modules": [
         "Elektrotechnik Grundlagen Mathematik"
       ],
@@ -37087,8 +37087,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 77,
-      "source_text_status": "ocr",
-      "source_section_chars": 869,
+      "source_text_status": "text",
+      "source_section_chars": 210,
       "previous_modules": [
         "Aufgaben Übungen und Lösungen",
         "Elektrotechnik Grundlagen Mathematik"
@@ -37603,8 +37603,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf",
       "page": 1,
-      "source_text_status": "ocr",
-      "source_section_chars": 615,
+      "source_text_status": "text",
+      "source_section_chars": 210,
       "previous_modules": [
         "Elektrotechnik Grundlagen Mathematik"
       ],
@@ -37916,8 +37916,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf",
       "page": 1,
-      "source_text_status": "ocr",
-      "source_section_chars": 558,
+      "source_text_status": "text",
+      "source_section_chars": 210,
       "previous_modules": [
         "Restseiten Originalbelege"
       ],
@@ -38094,8 +38094,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf",
       "page": 6,
-      "source_text_status": "ocr",
-      "source_section_chars": 558,
+      "source_text_status": "text",
+      "source_section_chars": 210,
       "previous_modules": [
         "Restseiten Originalbelege"
       ],
@@ -39088,8 +39088,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/Stößl/Skript.pdf",
       "page": 17,
-      "source_text_status": "ocr",
-      "source_section_chars": 1660,
+      "source_text_status": "text",
+      "source_section_chars": 1075,
       "previous_modules": [
         "Geschäftsbrief Anfrage Angebot"
       ],
@@ -39162,7 +39162,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/Stößl/Skript.pdf",
       "page": 19,
       "source_text_status": "text",
-      "source_section_chars": 1957,
+      "source_section_chars": 1074,
       "previous_modules": [
         "Beschaffung Angebot und Kalkulation",
         "Betrieb und Unternehmen",
@@ -39275,7 +39275,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/Stößl/Skript.pdf",
       "page": 22,
       "source_text_status": "text",
-      "source_section_chars": 2232,
+      "source_section_chars": 1120,
       "previous_modules": [
         "Beschaffung Angebot und Kalkulation",
         "Betriebswirtschaft BGWP"
@@ -39312,7 +39312,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/Stößl/Skript.pdf",
       "page": 23,
       "source_text_status": "text",
-      "source_section_chars": 2098,
+      "source_section_chars": 1120,
       "previous_modules": [
         "Beschaffung Angebot und Kalkulation",
         "Betriebswirtschaft BGWP"
@@ -39349,7 +39349,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/Stößl/Skript.pdf",
       "page": 24,
       "source_text_status": "text",
-      "source_section_chars": 2074,
+      "source_section_chars": 1120,
       "previous_modules": [
         "Beschaffung Angebot und Kalkulation",
         "Betriebswirtschaft BGWP"
@@ -39534,7 +39534,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/Stößl/Skript.pdf",
       "page": 29,
       "source_text_status": "text",
-      "source_section_chars": 1802,
+      "source_section_chars": 1114,
       "previous_modules": [
         "Betrieb und Unternehmen"
       ],
@@ -39963,8 +39963,8 @@
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
       "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
       "page": 1,
-      "source_text_status": "ocr",
-      "source_section_chars": 519,
+      "source_text_status": "text",
+      "source_section_chars": 252,
       "previous_modules": [
         "Restseiten Originalbelege"
       ],
@@ -40577,8 +40577,8 @@
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
       "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
       "page": 16,
-      "source_text_status": "weak",
-      "source_section_chars": 386,
+      "source_text_status": "text",
+      "source_section_chars": 255,
       "previous_modules": [
         "Elterngeld und Elternzeit"
       ],
@@ -41383,8 +41383,8 @@
       "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
       "pdf_path": "99_Originale/Berufsschule/Religion/Reli Notizen.pdf",
       "page": 1,
-      "source_text_status": "ocr",
-      "source_section_chars": 570,
+      "source_text_status": "text",
+      "source_section_chars": 252,
       "previous_modules": [
         "Restseiten Originalbelege"
       ],
@@ -41421,7 +41421,7 @@
       "pdf_path": "99_Originale/Berufsschule/Religion/Reli Notizen.pdf",
       "page": 2,
       "source_text_status": "text",
-      "source_section_chars": 1034,
+      "source_section_chars": 1191,
       "previous_modules": [
         "Freiheit und Selbstbestimmung",
         "Religion Ethik und Menschenbild",
@@ -41623,8 +41623,8 @@
       "source_note": "02_Faecher/Vertretung/Quellen/Untitled.md",
       "pdf_path": "99_Originale/Berufsschule/Vertretung/Untitled.pdf",
       "page": 1,
-      "source_text_status": "ocr",
-      "source_section_chars": 560,
+      "source_text_status": "text",
+      "source_section_chars": 252,
       "previous_modules": [
         "Restseiten Originalbelege"
       ],

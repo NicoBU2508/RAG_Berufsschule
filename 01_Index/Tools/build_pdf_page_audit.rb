@@ -4,10 +4,11 @@ require "date"
 require "json"
 require "pathname"
 require "yaml"
+require_relative "lib/vault_support"
 
-ROOT = Pathname.new(__dir__).join("../..").cleanpath.realpath
+ROOT = VaultSupport::ROOT
 OUTPUT = ROOT.join("01_Index/PDF_Seitenaudit_Worklist.json")
-PRIVATE_PREFIX = "98_Archiv_nicht_lernen/Privat_Noten_nicht_fuer_KI/"
+PRIVATE_PREFIX = VaultSupport::PRIVATE_PREFIX
 
 class MarkdownMetadata
   def self.read(text)
@@ -96,7 +97,7 @@ class ReferenceIndex
 
   def curated_topics
     paths = Dir.glob(@root.join("03_Themen/**/*.md").to_s)
-      .reject { |path| path.include?("/Weiterleitungen/") }
+      .reject { |path| path.include?("/Weiterleitungen/") || path.include?("/Visuell_geprueft/") }
       .reject { |path| File.basename(path) == "00_Kuratierte_Themen.md" }
     build(paths, role: "topic", title_key: "thema")
   end
@@ -191,5 +192,5 @@ class AuditWorklistBuilder
 end
 
 worklist = AuditWorklistBuilder.new(ROOT).build
-File.write(OUTPUT, JSON.pretty_generate(worklist) + "\n")
+VaultSupport.write_json_if_changed(OUTPUT, worklist)
 puts "Wrote #{OUTPUT.relative_path_from(ROOT)} (#{worklist.dig('totals', 'pages')} pages)."

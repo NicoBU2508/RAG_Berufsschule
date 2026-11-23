@@ -3,9 +3,9 @@
 require "date"
 require "pathname"
 require "yaml"
+require_relative "lib/vault_support"
 
-AUDIT_DATE = "2026-07-13"
-ROOT = Pathname.new(__dir__).join("../..").cleanpath.realpath
+ROOT = VaultSupport::ROOT
 OUTPUT = ROOT.join("01_Index/Quellenmatrix.md")
 
 SourceRecord = Struct.new(:path, :label, :subject, :pages, :text_status, :topic_links, keyword_init: true)
@@ -55,8 +55,10 @@ class SourceMatrixBuilder
     records = source_paths.map { |path| @reader.read(path, @root) }
     invalid_links = records.flat_map(&:topic_links).reject { |link| link.start_with?("[[03_Themen/Visuell_geprueft/") }
     raise "Nicht-kanonische Themenlinks in Quellen: #{invalid_links.join(', ')}" unless invalid_links.empty?
+
+    excluded_count = records.count { |record| record.topic_links.empty? }
     rows = records.sort_by { |record| [record.subject, record.label] }.map { |record| row(record) }.join("\n")
-    [records.length, document(rows)]
+    [records.length, document(rows, records.length, excluded_count)]
   end
 
   private
@@ -70,14 +72,15 @@ class SourceMatrixBuilder
     "| [[#{record.path}\\|#{record.label}]] | #{record.subject} | #{record.pages} | #{record.text_status} | #{topics} |"
   end
 
-  def document(rows)
+  def document(rows, total_count, excluded_count)
+    audit_date = VaultSupport.latest_audit_date
     <<~MARKDOWN
       ---
       id: vault.index.quellenmatrix
       typ: quellenmatrix
       status: generiert_aus_aktiven_quellnotizen
-      stand: #{AUDIT_DATE}
-      reviewed_on: #{AUDIT_DATE}
+      stand: #{audit_date}
+      reviewed_on: #{audit_date}
       rag_include: false
       tags:
         - index
@@ -87,10 +90,10 @@ class SourceMatrixBuilder
 
       # Quellenmatrix
 
-      Diese Matrix wird direkt aus den **33 seitenweise auditierten Quellnotizen** und ihren korrigierten Referenztabellen erzeugt. Jeder Themenlink muss auf `03_Themen/Visuell_geprueft/` zeigen; der Generator bricht bei alten Lernordner- oder Legacy-Themenlinks ab. Zwei technisch ausgeschlossene Quellnotizen besitzen bewusst keine Themenzuordnung.
+      Diese Matrix wird direkt aus den **#{total_count} seitenweise auditierten Quellnotizen** und ihren korrigierten Referenztabellen erzeugt. Jeder Themenlink muss auf `03_Themen/Visuell_geprueft/` zeigen; der Generator bricht bei alten Lernordner- oder Legacy-Themenlinks ab. #{excluded_count} technisch ausgeschlossene Quellnotiz(en) besitzen bewusst keine Themenzuordnung.
 
       - Generator: `ruby 01_Index/Tools/build_quellenmatrix.rb`
-      - Stand: **#{AUDIT_DATE}**
+      - Stand: **#{audit_date}**
       - Fachlicher Beleg: Quellnotiz und konkrete PDF-Seite; die Themenseite dient nur der Einordnung.
 
       | Quelle | Fach | Seiten | Textstatus | Referenzierte Themen |
@@ -101,5 +104,5 @@ class SourceMatrixBuilder
 end
 
 count, content = SourceMatrixBuilder.new(ROOT).build
-File.write(OUTPUT, content)
+VaultSupport.write_if_changed(OUTPUT, content)
 puts "Wrote #{OUTPUT.relative_path_from(ROOT)} (#{count} source notes)."

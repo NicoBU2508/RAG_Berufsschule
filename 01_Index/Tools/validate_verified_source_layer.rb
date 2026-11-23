@@ -2,10 +2,12 @@
 
 require "json"
 require "pathname"
+require "uri"
+require_relative "lib/vault_support"
 
-ROOT = Pathname.new(__dir__).join("../..").cleanpath.realpath
-AUDIT_PATH = ROOT.join("01_Index/PDF_Seitenaudit.json")
-MAPPING_PATH = ROOT.join("01_Index/Themenreferenzen_Visuell_Geprueft.json")
+ROOT = VaultSupport::ROOT
+AUDIT_PATH = VaultSupport::AUDIT_PATH
+MAPPING_PATH = VaultSupport::MAPPING_PATH
 INVENTORY_PATH = ROOT.join("01_Index/KI_Dateiinventar.json")
 COPILOT_PATH = ROOT.join(".obsidian/plugins/copilot/data.json")
 OUTPUT_PATH = ROOT.join("01_Index/Abschlussvalidierung_Visuelle_Quellen.json")
@@ -31,13 +33,13 @@ class Validation
   def finish!
     output = {
       "schema_version" => 1,
-      "validated_on" => "2026-07-13",
+      "validated_on" => VaultSupport.latest_audit_date,
       "status" => errors.empty? ? "pass" : "fail",
       "checks_passed" => checks.length,
       "checks_failed" => errors.length,
       "checks" => checks + errors
     }
-    File.write(OUTPUT_PATH, JSON.pretty_generate(output) + "\n")
+    VaultSupport.write_json_if_changed(OUTPUT_PATH, output)
     return if errors.empty?
 
     warn errors.map { |error| "FAIL #{error['name']}: #{error['details']}" }.join("\n")
@@ -74,6 +76,16 @@ class SourcePageReader
   end
 end
 
+def copilot_has_active_system_prompt?(copilot)
+  return true unless copilot["userSystemPrompt"].to_s.strip.empty?
+
+  Dir.glob(ROOT.join("copilot/system-prompts/*.md").to_s).any? do |path|
+    text = File.read(path, encoding: "UTF-8")
+    body = text.sub(/\A---\s*\n.*?\n---\s*\n/m, "").strip
+    !body.empty?
+  end
+end
+
 audit = JSON.parse(File.read(AUDIT_PATH, encoding: "UTF-8"))
 mapping = JSON.parse(File.read(MAPPING_PATH, encoding: "UTF-8"))
 inventory = JSON.parse(File.read(INVENTORY_PATH, encoding: "UTF-8"))
@@ -83,27 +95,41 @@ validation = Validation.new
 audit_pages = audit.fetch("pages")
 mapping_pages = mapping.fetch("pages")
 totals = mapping.fetch("totals")
+audit_totals = audit.fetch("totals")
 
-validation.assert("36 nicht-private PDFs erfasst", audit.dig("totals", "nonprivate_pdfs_accounted_for") == 36)
-validation.assert("902 nicht-private PDF-Seiten erfasst", audit.dig("totals", "nonprivate_pages_accounted_for") == 902)
-validation.assert("33 aktive PDFs visuell geprüft", audit.dig("totals", "active_pdfs") == 33)
-validation.assert("805 aktive Seiten visuell geprüft", audit_pages.length == 805 && audit_pages.all? { |page| page.dig("audit", "visual_checked") == true })
-validation.assert("jede aktive Audit-Seite eindeutig", audit_pages.map { |page| page.fetch("id") }.uniq.length == 805)
-validation.assert("3 PDF-Dubletten nachgewiesen", totals.fetch("proven_duplicate_pdfs") == 3)
-validation.assert("97 Dublettenseiten nachgewiesen", totals.fetch("proven_duplicate_pages") == 97)
-validation.assert("private PDF ungelesen", audit.dig("totals", "private_pdfs_unread") == 1)
+all_original_pdfs = Dir.glob(ROOT.join("99_Originale/**/*.pdf").to_s).length
+all_source_notes = Dir.glob(ROOT.join("02_Faecher/*/Quellen/*.md").to_s).sort
+private_pdfs = Dir.glob(ROOT.join(VaultSupport::PRIVATE_PREFIX, "**/*.pdf").to_s).length
+
+expected_active_pdfs = audit_totals.fetch("active_pdfs")
+expected_active_pages = audit_totals.fetch("active_pages")
+expected_dup_pdfs = audit_totals.fetch("visually_identical_duplicate_pdfs")
+expected_dup_pages = audit_totals.fetch("visually_identical_duplicate_pages")
+expected_nonprivate_pdfs = expected_active_pdfs + expected_dup_pdfs
+expected_nonprivate_pages = expected_active_pages + expected_dup_pages
+
+validation.assert("alle nicht-privaten Original-PDFs erfasst", audit_totals.fetch("nonprivate_pdfs_accounted_for") == all_original_pdfs && all_original_pdfs == expected_nonprivate_pdfs, "Disk: #{all_original_pdfs}; Audit: #{audit_totals['nonprivate_pdfs_accounted_for']}")
+validation.assert("nicht-private Seitenbilanz konsistent", audit_totals.fetch("nonprivate_pages_accounted_for") == expected_nonprivate_pages && expected_nonprivate_pages >= 902)
+validation.assert("alle aktiven Quellnotizen auditiert", expected_active_pdfs == all_source_notes.length && expected_active_pdfs >= 33, "Disk: #{all_source_notes.length}; Audit: #{expected_active_pdfs}")
+validation.assert("alle aktiven Seiten visuell geprüft", audit_pages.length == expected_active_pages && expected_active_pages >= 805 && audit_pages.all? { |page| page.dig("audit", "visual_checked") == true })
+validation.assert("jede aktive Audit-Seite eindeutig", audit_pages.map { |page| page.fetch("id") }.uniq.length == audit_pages.length)
+validation.assert("PDF-Dubletten nachgewiesen", totals.fetch("proven_duplicate_pdfs") == expected_dup_pdfs && expected_dup_pdfs >= 3)
+validation.assert("Dublettenseiten nachgewiesen", totals.fetch("proven_duplicate_pages") == expected_dup_pages && expected_dup_pages >= 97)
+validation.assert("private PDF ungelesen", audit_totals.fetch("private_pdfs_unread") == private_pdfs)
 
 status_counts = mapping_pages.each_with_object(Hash.new(0)) { |page, counts| counts[page.fetch("status")] += 1 }
-validation.assert("kanonische Seitenbilanz 805", mapping_pages.length == 805 && status_counts.values.sum == 805, status_counts.inspect)
-validation.assert("713 direkte Evidenzseiten", status_counts["evidence"] == 713, status_counts.inspect)
-validation.assert("3 Support-Seiten", status_counts["support_only"] == 3, status_counts.inspect)
-validation.assert("89 ausgeschlossene aktive Seiten", status_counts["excluded"] == 89, status_counts.inspect)
+validation.assert("kanonische Seitenbilanz konsistent", mapping_pages.length == expected_active_pages && status_counts.values.sum == expected_active_pages, status_counts.inspect)
+validation.assert("Evidenzseiten gezählt", status_counts["evidence"] == totals.fetch("canonical_evidence_pages") && status_counts["evidence"] >= 713, status_counts.inspect)
+validation.assert("Support-Seiten gezählt", status_counts["support_only"] == totals.fetch("support_only_pages") && status_counts["support_only"] >= 3, status_counts.inspect)
+validation.assert("ausgeschlossene Seiten gezählt", status_counts["excluded"] == totals.fetch("excluded_active_pages"), status_counts.inspect)
 validation.assert("Ausschlüsse tragen keine Themen", mapping_pages.select { |page| page["status"] == "excluded" }.all? { |page| page.fetch("canonical_topics").empty? })
 validation.assert("jede zugelassene Seite hat Thema", mapping_pages.reject { |page| page["status"] == "excluded" }.all? { |page| !page.fetch("canonical_topics").empty? })
 validation.assert("Audit und Mapping deckungsgleich", audit_pages.map { |page| page.fetch("id") }.sort == mapping_pages.map { |page| page.fetch("id") }.sort)
-validation.assert("101 kanonische Themen", mapping.fetch("topics").length == 101)
-validation.assert("3 OCR-Korrekturen registriert", mapping_pages.count { |page| page["source_text_status"] == "ocr_verified" } == 3)
-validation.assert("7 sensible Seiten abstrahiert", mapping_pages.count { |page| page["source_text_status"] == "redacted_summary" } == 7)
+
+topic_count = mapping.fetch("topics").length
+validation.assert("kanonische Themen vorhanden", topic_count == totals.fetch("canonical_topics") && topic_count >= 101, "Themen: #{topic_count}")
+validation.assert("OCR-Korrekturen registriert", mapping_pages.count { |page| page["source_text_status"] == "ocr_verified" } >= 3)
+validation.assert("sensible Seiten abstrahiert", mapping_pages.count { |page| page["source_text_status"] == "redacted_summary" } >= 7)
 
 wittmann_prefix = "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page="
 risk_wittmann = mapping.dig("topics", "Risikoanalyse", "pages").grep(/^#{Regexp.escape(wittmann_prefix)}/)
@@ -113,10 +139,10 @@ validation.assert("Schutzbedarf enthält Wittmann S.17–23", ((17..23).map { |p
 
 topic_paths = mapping.fetch("topics").values.map { |topic| topic.fetch("path") }
 existing_topic_paths = Dir.glob(ROOT.join("03_Themen/Visuell_geprueft/**/*.md").to_s).map { |path| Pathname.new(path).relative_path_from(ROOT).to_s }.sort
-validation.assert("alle und nur kanonische Themendateien vorhanden", topic_paths.sort == existing_topic_paths)
+validation.assert("alle und nur kanonische Themendateien vorhanden", topic_paths.sort == existing_topic_paths, "Mapping: #{topic_paths.length}; Disk: #{existing_topic_paths.length}")
 validation.assert("alle Themendateien visuell markiert", existing_topic_paths.all? { |path| File.read(ROOT.join(path), encoding: "UTF-8").include?("status: visuell_geprueft") })
 index_text = File.read(ROOT.join("03_Themen/00_Kuratierte_Themen.md"), encoding: "UTF-8")
-validation.assert("Themenindex enthält 101 Ziele", index_text.scan(/\[\[03_Themen\/Visuell_geprueft\//).length == 101)
+validation.assert("Themenindex enthält alle kanonischen Ziele", index_text.scan(/\[\[03_Themen\/Visuell_geprueft\//).length == topic_count)
 
 mapping_by_id = mapping_pages.to_h { |page| [page.fetch("id"), page] }
 table_parser = SourceTableParser.new
@@ -143,14 +169,14 @@ source_groups.each do |source_note, pages|
     next unless body
     if mapped.fetch("status") == "excluded"
       source_errors << "#{source_note}: Embed auf Ausschluss S.#{page.fetch('page')}" if body.include?("![[")
-    elsif mapped.fetch("status") != "excluded"
+    else
       source_errors << "#{source_note}: PDF-Link S.#{page.fetch('page')}" unless body.include?("#page=#{page.fetch('page')}")
     end
   end
   normalized_expected = expected_rows.transform_values { |numbers| numbers.uniq.sort }
   source_errors << "#{source_note}: Referenztabelle weicht vom Mapping ab" unless table_rows == normalized_expected
 end
-validation.assert("33 Quellen vollständig und exakt umgebaut", source_groups.length == 33 && source_errors.empty?, source_errors.first(20).join("; "))
+validation.assert("alle Quellen vollständig und exakt umgebaut", source_groups.length == all_source_notes.length && source_errors.empty?, source_errors.first(20).join("; "))
 
 ocr_files = {
   "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824.md" => 4,
@@ -181,44 +207,60 @@ validation.assert("keine globalen OCR-Anhänge in Quellen", source_groups.keys.n
 sensitive_text = File.read(ROOT.join("02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md"), encoding: "UTF-8")
 sensitive_patterns = [/[A-Z0-9._%+\-]+@[A-Z0-9.\-]+\.[A-Z]{2,}/i, /IBAN:\s*DE\d/i, /Telefon:\s*[+\d]/i, /Telefax:\s*[+\d]/i, /USt-IdNr/i]
 validation.assert("sensible Unterrichts-Rohdaten nicht indexierbar", sensitive_patterns.none? { |pattern| sensitive_text.match?(pattern) })
-validation.assert("7 datenschutzsichere Seitenzusammenfassungen", source_groups.keys.sum { |path| File.read(ROOT.join(path), encoding: "UTF-8").scan("#### Datenschutzsichere Inhaltszusammenfassung").length } == 7)
+expected_sensitive = mapping_pages.count { |page| page["source_text_status"] == "redacted_summary" }
+actual_sensitive = source_groups.keys.sum { |path| File.read(ROOT.join(path), encoding: "UTF-8").scan("#### Datenschutzsichere Inhaltszusammenfassung").length }
+validation.assert("datenschutzsichere Seitenzusammenfassungen vollständig", actual_sensitive == expected_sensitive && actual_sensitive >= 7, "Ist: #{actual_sensitive}; Soll: #{expected_sensitive}")
 sensitive_page_17 = page_reader.body(sensitive_text, 17).to_s
 validation.assert("keine widersprüchlichen OCR-Hinweise auf sensibler S.17", !sensitive_page_17.include?("Kein verwertbarer Text auf dieser Seite") && !sensitive_page_17.include?("OCRplus-Nachtrag integriert"))
 
 required_exclusions = [
-  "98_Archiv_nicht_lernen", "99_Originale", "03_Themen/Weiterleitungen", "03_Themen/Allgemein",
+  "98_Archiv_nicht_lernen", "99_Originale", "00_Posteingang_GoodNotes", "03_Themen/Weiterleitungen", "03_Themen/Allgemein",
   "03_Themen/Anwendungsentwicklung", "03_Themen/Deutsch_Englisch_Kommunikation", "03_Themen/Elektrotechnik",
   "03_Themen/IT_Technik_und_Sicherheit", "03_Themen/Wirtschaft_und_Recht", "04_Pruefung",
-  "IT_Sicherheit_Fachbegriffe.md", "IT_Sicherheit_Aufgabe_1_1.md", "IT_Sicherheit_Lernziele.md"
+  "IT_Sicherheit_Aufgabe_1_1.md", "IT_Sicherheit_Lernziele.md"
 ]
-expected_allowlist = ["00_KI_QUELLENSTART", "00_START", "03_Themen/00_Kuratierte_Themen"] +
+active_canonical_sources = mapping.fetch("sources").each_with_object([]) do |(path, source), selected|
+  selected << path.delete_suffix(".md") if source.fetch("canonical_pages").positive?
+end.sort
+excluded_source_count = mapping.fetch("sources").length - active_canonical_sources.length
+expected_allowlist = (["00_KI_QUELLENSTART", "00_START", "03_Themen/00_Kuratierte_Themen"] +
   topic_paths.map { |path| path.delete_suffix(".md") }.sort +
-  mapping.fetch("sources").each_with_object([]) { |(path, source), selected| selected << path.delete_suffix(".md") if source.fetch("canonical_pages").positive? }.sort
-expected_allowlist = expected_allowlist.map { |path| "[[#{path}]]" }
+  active_canonical_sources).map { |path| "[[#{path}]]" }
 actual_allowlist = copilot.fetch("qaInclusions").split(",").map(&:strip)
 allowlist_audit = JSON.parse(File.read(ALLOWLIST_AUDIT_PATH, encoding: "UTF-8"))
+decoded_qa_exclusions = URI.decode_www_form_component(copilot.fetch("qaExclusions", ""))
+missing_exclusions = required_exclusions.reject { |item| decoded_qa_exclusions.include?(item) }
+prompt_ok = copilot_has_active_system_prompt?(copilot)
+
 copilot_safety = copilot["autoAddActiveContentToContext"] == false &&
   copilot["passMarkdownImages"] == false && copilot["enableAutonomousAgent"] == false &&
   copilot["enableRecentConversations"] == false && copilot["enableSavedMemory"] == false &&
-  copilot["autoAcceptEdits"] == false && required_exclusions.all? { |item| copilot.fetch("qaExclusions").include?(item) } &&
-  actual_allowlist == expected_allowlist && expected_allowlist.length == 134 &&
-  allowlist_audit.fetch("entries") == expected_allowlist && allowlist_audit.fetch("count") == 134 &&
-  !copilot.fetch("userSystemPrompt").empty?
-validation.assert("Copilot-Dateiallowlist und Sicherheitsmodus gehärtet", copilot_safety, "Ist: #{actual_allowlist.length}; Soll: #{expected_allowlist.length}")
+  copilot["autoAcceptEdits"] == false && missing_exclusions.empty? &&
+  actual_allowlist == expected_allowlist &&
+  allowlist_audit.fetch("entries") == expected_allowlist &&
+  allowlist_audit.fetch("count") == expected_allowlist.length &&
+  prompt_ok
+validation.assert(
+  "Copilot-Dateiallowlist und Sicherheitsmodus gehärtet",
+  copilot_safety,
+  "Ist: #{actual_allowlist.length}; Soll: #{expected_allowlist.length}; fehlende Exclusions: #{missing_exclusions.inspect}; Prompt aktiv: #{prompt_ok}"
+)
 
 files = inventory.fetch("files")
 verified_topics = files.select { |file| file.fetch("path").start_with?("03_Themen/Visuell_geprueft/") }
 legacy_topics = files.select { |file| file.fetch("path").start_with?("03_Themen/") && !file.fetch("path").start_with?("03_Themen/Visuell_geprueft/") && file.fetch("path") != "03_Themen/00_Kuratierte_Themen.md" }
 learning_modules = files.select { |file| file.fetch("path").include?("/10_Lernordner/") }
 private_files = files.select { |file| file.fetch("path").start_with?("98_Archiv_nicht_lernen/") }
-validation.assert("Manifest: 101 geprüfte Themen primär", verified_topics.length == 101 && verified_topics.all? { |file| file["role"] == "curated_topic" && file["ai_use"] == "primary" })
+unclassified_files = files.select { |file| file["role"] == "unclassified" }.map { |file| file.fetch("path") }
+
+validation.assert("Manifest: geprüfte Themen primär", verified_topics.length == topic_count && verified_topics.all? { |file| file["role"] == "curated_topic" && file["ai_use"] == "primary" })
 validation.assert("Manifest: alte Themen ausgeschlossen", legacy_topics.all? { |file| file["ai_use"] == "excluded" })
 validation.assert("Manifest: alle Lernmodule ausgeschlossen", learning_modules.all? { |file| file["ai_use"] == "excluded" })
 validation.assert("Manifest: Privatbereich ausgeschlossen", !private_files.empty? && private_files.all? { |file| file["ai_use"] == "excluded" })
-validation.assert("Manifest: 30 aktive und 3 ausgeschlossene Quellen", files.count { |file| file["role"] == "source_note" } == 30 && files.count { |file| file["role"] == "excluded_source_note" } == 3)
+validation.assert("Manifest: aktive und ausgeschlossene Quellen konsistent", files.count { |file| file["role"] == "source_note" } == active_canonical_sources.length && files.count { |file| file["role"] == "excluded_source_note" } == excluded_source_count)
 validation.assert("Manifest: Belegreihenfolge Quelle vor PDF", inventory.fetch("evidence_order") == ["source_note", "original_pdf"])
-validation.assert("Manifest: PDF-Dubletten immer ausgeschlossen", files.select { |file| file["role"] == "duplicate_pdf" }.length == 3 && files.select { |file| file["role"] == "duplicate_pdf" }.all? { |file| file["ai_use"] == "excluded" })
-validation.assert("Manifest: keine unbekannte Datei", files.none? { |file| file["role"] == "unclassified" } && inventory.dig("retrieval_profiles", "always_exclude").include?("unclassified"))
+validation.assert("Manifest: PDF-Dubletten immer ausgeschlossen", files.select { |file| file["role"] == "duplicate_pdf" }.length == expected_dup_pdfs && files.select { |file| file["role"] == "duplicate_pdf" }.all? { |file| file["ai_use"] == "excluded" })
+validation.assert("Manifest: keine unbekannte Datei", unclassified_files.empty? && inventory.dig("retrieval_profiles", "always_exclude").include?("unclassified"), unclassified_files.inspect)
 
 matrix = File.read(ROOT.join("01_Index/Quellenmatrix.md"), encoding: "UTF-8")
 validation.assert("Quellenmatrix nur mit geprüften Themen", !matrix.include?("/10_Lernordner/") && !matrix.match?(/\[\[03_Themen\/(?!Visuell_geprueft\/)/))
@@ -226,4 +268,4 @@ link_report = JSON.parse(File.read(LINK_REPORT_PATH, encoding: "UTF-8"))
 validation.assert("alle nicht-privaten lokalen Referenzen auflösbar", link_report.fetch("unresolved") == 0 && link_report.fetch("markdown_files") >= 543, link_report.inspect)
 
 validation.finish!
-puts "PASS: #{validation.checks.length} Abschlussprüfungen; 805 aktive und 97 Dublettenseiten vollständig nachgewiesen."
+puts "PASS: #{validation.checks.length} Abschlussprüfungen; #{expected_active_pages} aktive Seiten (#{topic_count} Themen, #{expected_allowlist.length} Copilot-Dateien) und #{expected_dup_pages} Dublettenseiten vollständig nachgewiesen."

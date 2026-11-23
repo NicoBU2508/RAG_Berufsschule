@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "description": "Explizite Kategorie-Zuordnungen für kanonische Themen unter 03_Themen/Visuell_geprueft/. Neue Themen aus GoodNotes-Importen werden hier oder im jeweiligen Import-Audit unter topic_categories eingetragen.",
+  "valid_categories": [
+    "Anwendungsentwicklung",
+    "Deutsch_Englisch_Kommunikation",
+    "Elektrotechnik",
+    "IT_Technik_und_Sicherheit",
+    "Religion_Ethik",
+    "Wirtschaft_und_Recht"
+  ],
+  "topics": {
+  }
+}

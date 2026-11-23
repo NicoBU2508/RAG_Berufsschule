@@ -6,19 +6,21 @@
   "checks_failed": 0,
   "checks": [
     {
-      "name": "36 nicht-private PDFs erfasst",
+      "name": "alle nicht-privaten Original-PDFs erfasst",
+      "status": "pass",
+      "details": "Disk: 36; Audit: 36"
+    },
+    {
+      "name": "nicht-private Seitenbilanz konsistent",
       "status": "pass"
     },
     {
-      "name": "902 nicht-private PDF-Seiten erfasst",
-      "status": "pass"
+      "name": "alle aktiven Quellnotizen auditiert",
+      "status": "pass",
+      "details": "Disk: 33; Audit: 33"
     },
     {
-      "name": "33 aktive PDFs visuell geprüft",
-      "status": "pass"
-    },
-    {
-      "name": "805 aktive Seiten visuell geprüft",
+      "name": "alle aktiven Seiten visuell geprüft",
       "status": "pass"
     },
     {
@@ -26,11 +28,11 @@
       "status": "pass"
     },
     {
-      "name": "3 PDF-Dubletten nachgewiesen",
+      "name": "PDF-Dubletten nachgewiesen",
       "status": "pass"
     },
     {
-      "name": "97 Dublettenseiten nachgewiesen",
+      "name": "Dublettenseiten nachgewiesen",
       "status": "pass"
     },
     {
@@ -38,22 +40,22 @@
       "status": "pass"
     },
     {
-      "name": "kanonische Seitenbilanz 805",
+      "name": "kanonische Seitenbilanz konsistent",
       "status": "pass",
       "details": "{\"evidence\"=>713, \"support_only\"=>3, \"excluded\"=>89}"
     },
     {
-      "name": "713 direkte Evidenzseiten",
+      "name": "Evidenzseiten gezählt",
       "status": "pass",
       "details": "{\"evidence\"=>713, \"support_only\"=>3, \"excluded\"=>89}"
     },
     {
-      "name": "3 Support-Seiten",
+      "name": "Support-Seiten gezählt",
       "status": "pass",
       "details": "{\"evidence\"=>713, \"support_only\"=>3, \"excluded\"=>89}"
     },
     {
-      "name": "89 ausgeschlossene aktive Seiten",
+      "name": "ausgeschlossene Seiten gezählt",
       "status": "pass",
       "details": "{\"evidence\"=>713, \"support_only\"=>3, \"excluded\"=>89}"
     },
@@ -70,15 +72,16 @@
       "status": "pass"
     },
     {
-      "name": "101 kanonische Themen",
+      "name": "kanonische Themen vorhanden",
+      "status": "pass",
+      "details": "Themen: 101"
+    },
+    {
+      "name": "OCR-Korrekturen registriert",
       "status": "pass"
     },
     {
-      "name": "3 OCR-Korrekturen registriert",
-      "status": "pass"
-    },
-    {
-      "name": "7 sensible Seiten abstrahiert",
+      "name": "sensible Seiten abstrahiert",
       "status": "pass"
     },
     {
@@ -93,18 +96,19 @@
     },
     {
       "name": "alle und nur kanonische Themendateien vorhanden",
-      "status": "pass"
+      "status": "pass",
+      "details": "Mapping: 101; Disk: 101"
     },
     {
       "name": "alle Themendateien visuell markiert",
       "status": "pass"
     },
     {
-      "name": "Themenindex enthält 101 Ziele",
+      "name": "Themenindex enthält alle kanonischen Ziele",
       "status": "pass"
     },
     {
-      "name": "33 Quellen vollständig und exakt umgebaut",
+      "name": "alle Quellen vollständig und exakt umgebaut",
       "status": "pass",
       "details": ""
     },
@@ -129,8 +133,9 @@
       "status": "pass"
     },
     {
-      "name": "7 datenschutzsichere Seitenzusammenfassungen",
-      "status": "pass"
+      "name": "datenschutzsichere Seitenzusammenfassungen vollständig",
+      "status": "pass",
+      "details": "Ist: 7; Soll: 7"
     },
     {
       "name": "keine widersprüchlichen OCR-Hinweise auf sensibler S.17",
@@ -139,10 +144,10 @@
     {
       "name": "Copilot-Dateiallowlist und Sicherheitsmodus gehärtet",
       "status": "pass",
-      "details": "Ist: 134; Soll: 134"
+      "details": "Ist: 134; Soll: 134; fehlende Exclusions: []; Prompt aktiv: true"
     },
     {
-      "name": "Manifest: 101 geprüfte Themen primär",
+      "name": "Manifest: geprüfte Themen primär",
       "status": "pass"
     },
     {
@@ -158,7 +163,7 @@
       "status": "pass"
     },
     {
-      "name": "Manifest: 30 aktive und 3 ausgeschlossene Quellen",
+      "name": "Manifest: aktive und ausgeschlossene Quellen konsistent",
       "status": "pass"
     },
     {
@@ -171,7 +176,8 @@
     },
     {
       "name": "Manifest: keine unbekannte Datei",
-      "status": "pass"
+      "status": "pass",
+      "details": "[]"
     },
     {
       "name": "Quellenmatrix nur mit geprüften Themen",
@@ -180,7 +186,7 @@
     {
       "name": "alle nicht-privaten lokalen Referenzen auflösbar",
       "status": "pass",
-      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-07-13\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>543, \"wiki_links\"=>21957, \"local_markdown_links\"=>8739, \"unresolved\"=>0, \"failures\"=>[]}"
+      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-07-13\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>549, \"wiki_links\"=>21963, \"local_markdown_links\"=>8739, \"unresolved\"=>0, \"failures\"=>[]}"
     }
   ]
 }

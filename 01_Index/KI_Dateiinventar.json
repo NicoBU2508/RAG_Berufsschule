@@ -27,13 +27,16 @@
     "full": {
       "add": [
         "quality_or_navigation",
-        "navigation_index"
+        "navigation_index",
+        "workflow_guide"
       ],
       "purpose": "Diagnose und Navigation; keine zusätzlichen fachlichen Belege"
     },
     "always_exclude": [
       "project_metadata",
       "private_or_archive",
+      "import_inbox",
+      "working_note",
       "obsidian_configuration",
       "copilot_prompt",
       "template",
@@ -50,18 +53,21 @@
     ]
   },
   "totals": {
-    "files": 619,
+    "files": 631,
     "by_extension": {
+      "canvas": 1,
       "css": 2,
       "js": 2,
-      "json": 23,
-      "md": 544,
+      "json": 24,
+      "md": 550,
+      "none": 1,
       "pdf": 37,
-      "rb": 9,
-      "swift": 2
+      "rb": 11,
+      "swift": 3
     },
     "by_role": {
-      "copilot_prompt": 15,
+      "agent_customization": 1,
+      "copilot_prompt": 16,
       "curated_topic": 101,
       "duplicate_pdf": 3,
       "entrypoint": 2,
@@ -71,30 +77,49 @@
       "generated_learning_index": 9,
       "generated_learning_module": 129,
       "generated_vault_index": 1,
+      "import_inbox": 1,
       "legacy_topic": 30,
-      "maintenance_tool": 11,
+      "maintenance_tool": 14,
       "navigation_index": 10,
       "obsidian_configuration": 14,
       "original_pdf": 33,
       "private_or_archive": 5,
-      "project_metadata": 1,
-      "quality_or_navigation": 35,
+      "project_metadata": 3,
+      "quality_or_navigation": 36,
       "source_note": 30,
       "subject_index": 18,
       "template": 3,
       "topic_alias": 146,
       "topic_index": 1,
-      "unverified_exam_material": 17
+      "unverified_exam_material": 17,
+      "workflow_guide": 1,
+      "working_note": 2
     },
     "by_ai_use": {
-      "excluded": 377,
-      "navigation": 65,
-      "operational": 11,
+      "excluded": 383,
+      "navigation": 67,
+      "operational": 15,
       "primary": 133,
       "verify_only": 33
     }
   },
   "files": [
+    {
+      "path": ".agents/skills/goodnotes-import/SKILL.md",
+      "extension": "md",
+      "bytes": 7459,
+      "role": "agent_customization",
+      "ai_use": "operational",
+      "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
+    },
+    {
+      "path": ".gitignore",
+      "extension": "none",
+      "bytes": 409,
+      "role": "project_metadata",
+      "ai_use": "excluded",
+      "reason": "Projekt-, Git- und Auditmetadaten; kein fachlicher Lernbeleg"
+    },
     {
       "path": ".obsidian/app.json",
       "extension": "json",
@@ -130,7 +155,7 @@
     {
       "path": ".obsidian/graph.json",
       "extension": "json",
-      "bytes": 511,
+      "bytes": 510,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -162,7 +187,7 @@
     {
       "path": ".obsidian/plugins/copilot/data.json",
       "extension": "json",
-      "bytes": 23604,
+      "bytes": 23264,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -202,7 +227,7 @@
     {
       "path": ".obsidian/workspace.json",
       "extension": "json",
-      "bytes": 8032,
+      "bytes": 8264,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -210,7 +235,7 @@
     {
       "path": "00_KI_QUELLENSTART.md",
       "extension": "md",
-      "bytes": 5179,
+      "bytes": 5265,
       "role": "entrypoint",
       "ai_use": "primary",
       "reason": "Kanonischer Einstieg und Quellenregeln",
@@ -218,9 +243,19 @@
       "status": "aktiv"
     },
     {
+      "path": "00_Posteingang_GoodNotes/README.md",
+      "extension": "md",
+      "bytes": 1018,
+      "role": "import_inbox",
+      "ai_use": "excluded",
+      "reason": "Posteingang für neue GoodNotes-PDFs; bis zum visuellen Audit ausgeschlossen",
+      "typ": "posteingang",
+      "status": "aktiv"
+    },
+    {
       "path": "00_START.md",
       "extension": "md",
-      "bytes": 2789,
+      "bytes": 2865,
       "role": "entrypoint",
       "ai_use": "primary",
       "reason": "Kanonischer Einstieg und Quellenregeln",
@@ -238,6 +273,16 @@
       "status": "generiert_nur_navigation"
     },
     {
+      "path": "00_WORKFLOW_NEUE_MITSCHRIFTEN.md",
+      "extension": "md",
+      "bytes": 5972,
+      "role": "workflow_guide",
+      "ai_use": "navigation",
+      "reason": "Leitfaden zur Integration neuer GoodNotes-Mitschriften",
+      "typ": "workflow",
+      "status": "aktiv"
+    },
+    {
       "path": "01_Index/00_Gesamtindex.md",
       "extension": "md",
       "bytes": 1583,
@@ -250,7 +295,7 @@
     {
       "path": "01_Index/Abschlussvalidierung_Visuelle_Quellen.json",
       "extension": "json",
-      "bytes": 5925,
+      "bytes": 6239,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -464,7 +509,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit.json",
       "extension": "json",
-      "bytes": 1292059,
+      "bytes": 1292074,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -472,7 +517,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit.md",
       "extension": "md",
-      "bytes": 7706,
+      "bytes": 7724,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -482,7 +527,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit_Worklist.json",
       "extension": "json",
-      "bytes": 2830798,
+      "bytes": 2782203,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -508,7 +553,7 @@
     {
       "path": "01_Index/Quellenmatrix.md",
       "extension": "md",
-      "bytes": 26633,
+      "bytes": 26632,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -536,6 +581,14 @@
       "status": "semantisch-geprueft"
     },
     {
+      "path": "01_Index/Themen_Kategorien.json",
+      "extension": "json",
+      "bytes": 470,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
       "path": "01_Index/Themenreferenzen_Visuell_Geprueft.json",
       "extension": "json",
       "bytes": 364380,
@@ -556,7 +609,7 @@
     {
       "path": "01_Index/Tools/build_copilot_allowlist.rb",
       "extension": "rb",
-      "bytes": 1878,
+      "bytes": 2888,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -564,7 +617,7 @@
     {
       "path": "01_Index/Tools/build_ki_manifest.rb",
       "extension": "rb",
-      "bytes": 11255,
+      "bytes": 12631,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -572,7 +625,7 @@
     {
       "path": "01_Index/Tools/build_pdf_page_audit.rb",
       "extension": "rb",
-      "bytes": 6389,
+      "bytes": 6400,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -580,7 +633,7 @@
     {
       "path": "01_Index/Tools/build_quellenmatrix.rb",
       "extension": "rb",
-      "bytes": 3558,
+      "bytes": 3763,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -588,7 +641,7 @@
     {
       "path": "01_Index/Tools/build_verified_topics.rb",
       "extension": "rb",
-      "bytes": 39700,
+      "bytes": 42379,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -596,7 +649,31 @@
     {
       "path": "01_Index/Tools/compile_pdf_page_audit.rb",
       "extension": "rb",
-      "bytes": 15367,
+      "bytes": 17656,
+      "role": "maintenance_tool",
+      "ai_use": "operational",
+      "reason": "Lokales Prüf- oder Wartungswerkzeug"
+    },
+    {
+      "path": "01_Index/Tools/goodnotes_pdf_tool.swift",
+      "extension": "swift",
+      "bytes": 6965,
+      "role": "maintenance_tool",
+      "ai_use": "operational",
+      "reason": "Lokales Prüf- oder Wartungswerkzeug"
+    },
+    {
+      "path": "01_Index/Tools/import_goodnotes.rb",
+      "extension": "rb",
+      "bytes": 30041,
+      "role": "maintenance_tool",
+      "ai_use": "operational",
+      "reason": "Lokales Prüf- oder Wartungswerkzeug"
+    },
+    {
+      "path": "01_Index/Tools/lib/vault_support.rb",
+      "extension": "rb",
+      "bytes": 5537,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -628,7 +705,7 @@
     {
       "path": "01_Index/Tools/validate_nonprivate_links.rb",
       "extension": "rb",
-      "bytes": 3898,
+      "bytes": 4051,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -636,7 +713,7 @@
     {
       "path": "01_Index/Tools/validate_verified_source_layer.rb",
       "extension": "rb",
-      "bytes": 14995,
+      "bytes": 17763,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -5875,7 +5952,7 @@
     {
       "path": "05_Templates/Quelle_Template.md",
       "extension": "md",
-      "bytes": 274,
+      "bytes": 1590,
       "role": "template",
       "ai_use": "excluded",
       "reason": "Unausgefüllter Platzhalter",
@@ -5999,6 +6076,14 @@
       "reason": "Fach- oder Gesamtübersicht",
       "typ": "globaler_fach_lernordner",
       "fach": "Vertretung"
+    },
+    {
+      "path": "2026-11-23.md",
+      "extension": "md",
+      "bytes": 0,
+      "role": "working_note",
+      "ai_use": "excluded",
+      "reason": "Lokale Tagesnotiz oder Canvas; kein kanonischer KI-Beleg"
     },
     {
       "path": "98_Archiv_nicht_lernen/Privat_Noten_nicht_fuer_KI/Noten.pdf",
@@ -6335,6 +6420,22 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
+      "path": "README.md",
+      "extension": "md",
+      "bytes": 106,
+      "role": "project_metadata",
+      "ai_use": "excluded",
+      "reason": "Projekt-, Git- und Auditmetadaten; kein fachlicher Lernbeleg"
+    },
+    {
+      "path": "Unbenannt.canvas",
+      "extension": "canvas",
+      "bytes": 2,
+      "role": "working_note",
+      "ai_use": "excluded",
+      "reason": "Lokale Tagesnotiz oder Canvas; kein kanonischer KI-Beleg"
+    },
+    {
       "path": "copilot/copilot-custom-prompts/Clip Web Page.md",
       "extension": "md",
       "bytes": 1393,
@@ -6455,12 +6556,20 @@
       "reason": "Arbeitsanweisung, kein Lernwissen"
     },
     {
+      "path": "copilot/system-prompts/Migrated Custom System Prompt.md",
+      "extension": "md",
+      "bytes": 642,
+      "role": "copilot_prompt",
+      "ai_use": "excluded",
+      "reason": "Arbeitsanweisung, kein Lernwissen"
+    },
+    {
       "path": "manifest.json",
       "extension": "json",
       "bytes": 1598,
       "role": "project_metadata",
       "ai_use": "excluded",
-      "reason": "Projekt- und Auditmetadaten; kein fachlicher Lernbeleg"
+      "reason": "Projekt-, Git- und Auditmetadaten; kein fachlicher Lernbeleg"
     }
   ]
 }

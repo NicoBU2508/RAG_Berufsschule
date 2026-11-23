@@ -21,6 +21,7 @@ stand: 2026-07-13
 
 ## Wichtige Bereiche
 
+- [[00_WORKFLOW_NEUE_MITSCHRIFTEN|Neue GoodNotes-Mitschriften integrieren]]
 - [[00_KI_QUELLENSTART|KI-/GPT-Quellenstart]]
 - [[03_Themen/00_Kuratierte_Themen|101 visuell geprüfte Themen]]
 - [[01_Index/KI_Quellenqualitaet|Ergebnis der vollständigen PDF- und Quellenprüfung]]

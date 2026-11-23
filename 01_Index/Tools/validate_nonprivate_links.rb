@@ -3,10 +3,17 @@
 require "json"
 require "pathname"
 require "uri"
+require_relative "lib/vault_support"
 
-ROOT = Pathname.new(__dir__).join("../..").cleanpath.realpath
-PRIVATE_PREFIX = "98_Archiv_nicht_lernen/Privat_Noten_nicht_fuer_KI/"
+ROOT = VaultSupport::ROOT
+PRIVATE_PREFIX = VaultSupport::PRIVATE_PREFIX
 OUTPUT = ROOT.join("01_Index/Linkvalidierung_Nichtprivat.json")
+IGNORED_PREFIXES = [
+  PRIVATE_PREFIX,
+  ".git/",
+  "Obsidian_Berufsschule/",
+  ".import_review/"
+].freeze
 
 class FileIndex
   def initialize(paths)
@@ -63,7 +70,7 @@ end
 all_paths = Dir.chdir(ROOT) do
   Dir.glob("**/*", File::FNM_DOTMATCH)
     .select { |path| File.file?(path) }
-    .reject { |path| path.start_with?(PRIVATE_PREFIX, ".git/") }
+    .reject { |path| IGNORED_PREFIXES.any? { |prefix| path.start_with?(prefix) } || File.basename(path) == ".DS_Store" }
 end
 index = FileIndex.new(all_paths)
 markdown_paths = all_paths.select { |path| File.extname(path).downcase == ".md" }
@@ -89,7 +96,7 @@ end
 
 report = {
   "schema_version" => 1,
-  "validated_on" => "2026-07-13",
+  "validated_on" => VaultSupport.latest_audit_date,
   "scope" => "Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen",
   "markdown_files" => markdown_paths.length,
   "wiki_links" => counts["wiki_links"],
@@ -97,7 +104,7 @@ report = {
   "unresolved" => unresolved.length,
   "failures" => unresolved
 }
-File.write(OUTPUT, JSON.pretty_generate(report) + "\n")
+VaultSupport.write_json_if_changed(OUTPUT, report)
 
 if unresolved.empty?
   puts "PASS: #{markdown_paths.length} nicht-private Markdown-Dateien, #{counts['wiki_links']} Wiki- und #{counts['markdown_links']} lokale Markdown-Links auflösbar."

@@ -19,21 +19,22 @@ Dieses Manifest klassifiziert jede Projektdatei nach ihrer Rolle für GPT-, RAG-
 
 ## Abdeckung
 
-- Dateien insgesamt: **619**
+- Dateien insgesamt: **631**
 - Stand: **2026-07-13**
 - Generator: `ruby 01_Index/Tools/build_ki_manifest.rb`
 
 | KI-Nutzung | Dateien |
 |---|---:|
-| `excluded` | 377 |
-| `navigation` | 65 |
-| `operational` | 11 |
+| `excluded` | 383 |
+| `navigation` | 67 |
+| `operational` | 15 |
 | `primary` | 133 |
 | `verify_only` | 33 |
 
 | Rolle | Dateien |
 |---|---:|
-| `copilot_prompt` | 15 |
+| `agent_customization` | 1 |
+| `copilot_prompt` | 16 |
 | `curated_topic` | 101 |
 | `duplicate_pdf` | 3 |
 | `entrypoint` | 2 |
@@ -43,20 +44,23 @@ Dieses Manifest klassifiziert jede Projektdatei nach ihrer Rolle für GPT-, RAG-
 | `generated_learning_index` | 9 |
 | `generated_learning_module` | 129 |
 | `generated_vault_index` | 1 |
+| `import_inbox` | 1 |
 | `legacy_topic` | 30 |
-| `maintenance_tool` | 11 |
+| `maintenance_tool` | 14 |
 | `navigation_index` | 10 |
 | `obsidian_configuration` | 14 |
 | `original_pdf` | 33 |
 | `private_or_archive` | 5 |
-| `project_metadata` | 1 |
-| `quality_or_navigation` | 35 |
+| `project_metadata` | 3 |
+| `quality_or_navigation` | 36 |
 | `source_note` | 30 |
 | `subject_index` | 18 |
 | `template` | 3 |
 | `topic_alias` | 146 |
 | `topic_index` | 1 |
 | `unverified_exam_material` | 17 |
+| `workflow_guide` | 1 |
+| `working_note` | 2 |
 
 ## Retrieval-Profile
 
@@ -64,7 +68,7 @@ Dieses Manifest klassifiziert jede Projektdatei nach ihrer Rolle für GPT-, RAG-
 
 **Diagnose:** Zusätzlich Qualitäts- und Navigationsdateien durchsuchen. Dadurch entstehen keine weiteren fachlichen Belege.
 
-**Immer ausschließen:** Archiv/Privatbereich, `.obsidian`, Copilot-Prompts, Templates, alte Themen, generierte Lernmodule, ungeprüfte Prüfungsschichten und Quellnotizen mit `ki_exclude: true`.
+**Immer ausschließen:** Archiv/Privatbereich, Posteingang (`00_Posteingang_GoodNotes/`), `.obsidian`, Copilot-Prompts, Templates, alte Themen, generierte Lernmodule, ungeprüfte Prüfungsschichten und Quellnotizen mit `ki_exclude: true`.
 
 ## Quellenpriorität
 
