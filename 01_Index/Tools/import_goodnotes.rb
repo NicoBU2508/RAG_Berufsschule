@@ -10,8 +10,8 @@
 #   ruby 01_Index/Tools/import_goodnotes.rb apply [--clean-review]
 #   ruby 01_Index/Tools/import_goodnotes.rb topics
 #
-# Temporäre Render-Bilder und das kompilierte Swift-Werkzeug liegen unter
-# /tmp/ap_lernhelfer_import/, damit iCloud Drive und Git unbelastet bleiben.
+# Temporäre Render-Bilder, Fingerprint-Cache und das kompilierte Swift-Werkzeug
+# liegen unter /tmp/ap_lernhelfer_import/, damit iCloud Drive und Git unbelastet bleiben.
 
 require "date"
 require "digest"
@@ -32,9 +32,11 @@ WORK_TMP = Pathname.new("/tmp/ap_lernhelfer_import")
 BINARY_PATH = WORK_TMP.join("bin/goodnotes_pdf_tool")
 MODCACHE_PATH = WORK_TMP.join("modcache")
 REVIEW_ROOT = WORK_TMP.join("review")
+FP_CACHE_PATH = WORK_TMP.join("original_fingerprints.json")
 MANIFEST_PATH = ROOT.join("manifest.json")
+DUPLICATES_PATH = ROOT.join("01_Index/Auditdaten/PDF_Duplikatnachweis.json")
 
-PRIVACY_FILENAME_PATTERN = /(noten|zeugnis|privat|gehalt|kontoauszug|passwort|pin|tan)/i
+PRIVACY_PATH_PATTERN = /(^|[\/_\-\s.])(noten|zeugnis|zeugnisse|privat|gehalt|kontoauszug|passwort|pin|tan)([\/_\-\s.]|$)/i
 
 FACH_CONFIG = {
   "AE_Anwendungsentwicklung" => {
@@ -145,6 +147,51 @@ module PdfTool
   end
 end
 
+module VisualMatch
+  # Toleranz für winzige GoodNotes-Neuexport-Drift (Kompression/Antialiasing),
+  # erkennt aber bereits kleine handschriftliche Ergänzungen als Änderung.
+  MAX_MEAN_DIFF = 1.5
+  PIXEL_CHANGE_THRESHOLD = 12
+  MAX_CHANGED_PIXELS = 2
+
+  module_function
+
+  def same_page?(fp_a, fp_b)
+    return false if fp_a.nil? || fp_b.nil? || fp_a.empty? || fp_b.empty?
+    return true if fp_a == fp_b
+    return false unless fp_a.length == fp_b.length
+
+    bytes_a = [fp_a].pack("H*").bytes
+    bytes_b = [fp_b].pack("H*").bytes
+    total_diff = 0
+    changed_pixels = 0
+
+    bytes_a.each_with_index do |val_a, idx|
+      diff = (val_a - bytes_b[idx]).abs
+      total_diff += diff
+      changed_pixels += 1 if diff > PIXEL_CHANGE_THRESHOLD
+      return false if changed_pixels > MAX_CHANGED_PIXELS
+    end
+
+    (total_diff.to_f / bytes_a.length) <= MAX_MEAN_DIFF
+  end
+
+  def changed_prefix_pages(old_prints, new_prints)
+    limit = [old_prints.length, new_prints.length].min
+    (0...limit).each_with_object([]) do |idx, changed|
+      changed << (idx + 1) unless same_page?(old_prints[idx], new_prints[idx])
+    end
+  end
+
+  def overlap_ratio(old_prints, new_prints)
+    limit = [old_prints.length, new_prints.length].min
+    return 0.0 if limit.zero?
+
+    matches = (0...limit).count { |idx| same_page?(old_prints[idx], new_prints[idx]) }
+    matches.to_f / limit
+  end
+end
+
 module Helpers
   module_function
 
@@ -159,6 +206,24 @@ module Helpers
     return match.first if match
 
     abort "Unbekanntes Fach '#{input}'. Erlaubt: #{FACH_CONFIG.keys.join(', ')} (oder Kürzel wie ae, bgwp, itt, pug, deutsch, englisch, religion)."
+  end
+
+  def infer_fach_from_path(rel_or_abs_path)
+    segments = VaultSupport.nfc(rel_or_abs_path.to_s).split("/").map(&:downcase)
+    return "AE_Anwendungsentwicklung" if segments.any? { |s| s.match?(/\A(ae|aeup|java|anwendungsentwicklung)\z/) || s.include?("anwendungsentwicklung") }
+    return "BGWP_Betriebswirtschaft" if segments.any? { |s| s.include?("bgwp") || s.include?("betriebswirtschaft") || s == "bwl" }
+    return "ITT_IT_Technik" if segments.any? { |s| s.match?(/\Aitt\b/) || s.include?("it sicherheit") || s.include?("elektro") || s.include?("netzwerk") || s == "otma" }
+    return "Deutsch" if segments.any? { |s| s == "deutsch" }
+    return "Englisch" if segments.any? { |s| s == "englisch" || s == "english" }
+    return "PuG_Politik_und_Gesellschaft" if segments.any? { |s| s == "pug" || s.include?("politik") }
+    return "Religion" if segments.any? { |s| s == "religion" || s == "reli" || s == "ethik" }
+    return "Vertretung" if segments.any? { |s| s == "vertretung" }
+
+    nil
+  end
+
+  def privacy_flagged?(path_str)
+    VaultSupport.nfc(path_str.to_s).match?(PRIVACY_PATH_PATTERN)
   end
 
   def sanitize_note_name(raw)
@@ -204,6 +269,15 @@ module Helpers
     end
   end
 
+  def known_duplicate_map_nfc
+    return {} unless DUPLICATES_PATH.file?
+
+    data = VaultSupport.read_json(DUPLICATES_PATH)
+    data.fetch("pairs", []).each_with_object({}) do |pair, map|
+      map[VaultSupport.nfc(pair.fetch("duplicate_pdf"))] = pair.fetch("canonical_pdf")
+    end
+  end
+
   def sha256(path)
     Digest::SHA256.file(path).hexdigest
   end
@@ -222,6 +296,53 @@ module Helpers
   end
 end
 
+class OriginalFingerprintStore
+  def initialize
+    @cache = load_cache
+    @dirty = false
+  end
+
+  def load_all(originals)
+    entries = originals.map do |abs_path|
+      rel = VaultSupport.relative(abs_path)
+      stat = File.stat(abs_path)
+      cached = @cache[rel]
+      if cached && cached["size"] == stat.size && cached["mtime"] == stat.mtime.to_i
+        cached.merge("pdf" => rel)
+      else
+        fp = PdfTool.run("fingerprint", abs_path)
+        record = {
+          "size" => stat.size,
+          "mtime" => stat.mtime.to_i,
+          "sha256" => Helpers.sha256(abs_path),
+          "page_count" => fp.fetch("page_count"),
+          "fingerprints" => fp.fetch("fingerprints")
+        }
+        @cache[rel] = record
+        @dirty = true
+        record.merge("pdf" => rel)
+      end
+    end
+    save_cache if @dirty
+    entries
+  end
+
+  private
+
+  def load_cache
+    return {} unless FP_CACHE_PATH.file?
+
+    JSON.parse(File.read(FP_CACHE_PATH, encoding: "UTF-8"))
+  rescue JSON::ParserError
+    {}
+  end
+
+  def save_cache
+    FileUtils.mkdir_p(FP_CACHE_PATH.dirname)
+    File.write(FP_CACHE_PATH, JSON.pretty_generate(@cache) + "\n")
+  end
+end
+
 class Scanner
   def run(target = nil)
     pdfs = locate_pdfs(target)
@@ -231,15 +352,22 @@ class Scanner
     end
 
     originals = Dir.glob(ORIGINALS_DIR.join("**/*.pdf").to_s).sort
-    original_hashes = originals.each_with_object({}) { |path, map| map[Helpers.sha256(path)] = VaultSupport.relative(path) }
-    original_by_name = originals.group_by { |path| VaultSupport.nfc(File.basename(path)).downcase }
+    original_records = OriginalFingerprintStore.new.load_all(originals)
+    original_by_sha = original_records.each_with_object({}) { |rec, map| map[rec.fetch("sha256")] = rec }
     source_map = Helpers.source_by_pdf_nfc
+    duplicate_map = Helpers.known_duplicate_map_nfc
 
     results = pdfs.map do |pdf|
-      analyze_pdf(pdf, original_hashes, original_by_name, source_map)
+      analyze_pdf(pdf, original_records, original_by_sha, source_map, duplicate_map)
     end
 
-    puts JSON.pretty_generate({ "inbox" => INBOX_DIR.relative_path_from(ROOT).to_s, "candidates" => results })
+    summary = results.each_with_object(Hash.new(0)) { |item, counts| counts[item.fetch("status")] += 1 }.sort.to_h
+    puts JSON.pretty_generate({
+      "inbox" => INBOX_DIR.relative_path_from(ROOT).to_s,
+      "total" => results.length,
+      "summary" => summary,
+      "candidates" => results
+    })
   end
 
   private
@@ -257,58 +385,171 @@ class Scanner
     Dir.glob(INBOX_DIR.join("**/*.pdf").to_s).sort.map { |item| Pathname.new(item) }
   end
 
-  def analyze_pdf(pdf, original_hashes, original_by_name, source_map)
-    digest = Helpers.sha256(pdf)
-    info = PdfTool.run("info", pdf)
-    pages = info.fetch("page_count")
-    entry = {
-      "file" => pdf.to_s.start_with?(ROOT.to_s) ? VaultSupport.relative(pdf) : pdf.to_s,
-      "basename" => pdf.basename.to_s,
-      "pages" => pages,
-      "privacy_warning" => pdf.basename.to_s.match?(PRIVACY_FILENAME_PATTERN)
-    }
+  def display_path(pdf)
+    pdf.to_s.start_with?(ROOT.to_s) ? VaultSupport.relative(pdf) : pdf.to_s
+  end
 
-    if original_hashes.key?(digest)
-      existing_pdf = original_hashes[digest]
-      return entry.merge(
+  def relative_inside_inbox(pdf)
+    return pdf.relative_path_from(INBOX_DIR).to_s if pdf.to_s.start_with?(INBOX_DIR.to_s)
+
+    pdf.basename.to_s
+  end
+
+  def analyze_pdf(pdf, original_records, original_by_sha, source_map, duplicate_map)
+    rel_display = display_path(pdf)
+    rel_in_inbox = relative_inside_inbox(pdf)
+
+    # Datenschutz-Stopp VOR dem Öffnen/Rendern der PDF!
+    if Helpers.privacy_flagged?(rel_in_inbox)
+      return {
+        "file" => rel_display,
+        "basename" => pdf.basename.to_s,
+        "privacy_warning" => true,
+        "status" => "SKIP_PRIVATE",
+        "reason" => "Ordner- oder Dateiname deutet auf private/sensible Daten hin – PDF wurde nicht geöffnet oder gerendert."
+      }
+    end
+
+    digest = Helpers.sha256(pdf)
+    if original_by_sha.key?(digest)
+      matched = original_by_sha.fetch(digest)
+      existing_pdf = matched.fetch("pdf")
+      canonical_pdf = duplicate_map[VaultSupport.nfc(existing_pdf)] || existing_pdf
+      return {
+        "file" => rel_display,
+        "basename" => pdf.basename.to_s,
+        "pages" => matched.fetch("page_count"),
+        "privacy_warning" => false,
         "status" => "DUPLICATE_EXACT",
         "matches_pdf" => existing_pdf,
-        "matches_source_note" => source_map.dig(VaultSupport.nfc(existing_pdf), :source_note)
-      )
+        "canonical_pdf" => canonical_pdf,
+        "matches_source_note" => source_map.dig(VaultSupport.nfc(canonical_pdf), :source_note)
+      }
     end
 
-    same_name = original_by_name[VaultSupport.nfc(pdf.basename.to_s).downcase] || []
-    if same_name.length == 1
-      existing_abs = same_name.first
-      existing_rel = VaultSupport.relative(existing_abs)
-      old_fp = PdfTool.run("fingerprint", existing_abs)
-      new_fp = PdfTool.run("fingerprint", pdf)
-      old_prints = old_fp.fetch("fingerprints")
-      new_prints = new_fp.fetch("fingerprints")
-      old_count = old_prints.length
+    new_fp = PdfTool.run("fingerprint", pdf)
+    new_prints = new_fp.fetch("fingerprints")
+    pages = new_fp.fetch("page_count")
 
-      if pages > old_count && new_prints[0...old_count] == old_prints
-        return entry.merge(
-          "status" => "EXTENDED_NOTEBOOK",
-          "existing_pdf" => existing_rel,
-          "existing_source_note" => source_map.dig(VaultSupport.nfc(existing_rel), :source_note),
-          "existing_pages" => old_count,
-          "new_pages_from" => old_count + 1,
-          "new_pages_count" => pages - old_count
-        )
+    # 1. Visuelle Übereinstimmung gegen ALLE Originale suchen (erkennt auch
+    #    frische GoodNotes-Neuexporte mit anderem Zeitstempel, Unterordner und Umbenennungen!)
+    best_match = find_best_visual_match(rel_in_inbox, pdf.basename.to_s, new_prints, original_records)
+
+    if best_match
+      rec = best_match[:record]
+      existing_pdf = rec.fetch("pdf")
+      canonical_pdf = duplicate_map[VaultSupport.nfc(existing_pdf)] || existing_pdf
+      source_note = source_map.dig(VaultSupport.nfc(canonical_pdf), :source_note)
+      old_prints = rec.fetch("fingerprints")
+      old_count = old_prints.length
+      changed = VisualMatch.changed_prefix_pages(old_prints, new_prints)
+
+      if pages == old_count && changed.empty?
+        return {
+          "file" => rel_display,
+          "basename" => pdf.basename.to_s,
+          "pages" => pages,
+          "privacy_warning" => false,
+          "status" => "DUPLICATE_VISUAL",
+          "match_type" => best_match[:reason],
+          "matches_pdf" => existing_pdf,
+          "canonical_pdf" => canonical_pdf,
+          "matches_source_note" => source_note
+        }
       end
 
-      changed = (0...[old_count, pages].min).select { |idx| old_prints[idx] != new_prints[idx] }.map { |idx| idx + 1 }
-      return entry.merge(
+      if pages > old_count && changed.empty?
+        return {
+          "file" => rel_display,
+          "basename" => pdf.basename.to_s,
+          "pages" => pages,
+          "privacy_warning" => false,
+          "status" => "EXTENDED_NOTEBOOK",
+          "match_type" => best_match[:reason],
+          "existing_pdf" => canonical_pdf,
+          "existing_source_note" => source_note,
+          "existing_pages" => old_count,
+          "new_pages_from" => old_count + 1,
+          "new_pages_count" => pages - old_count,
+          "suggested_command" => source_note ? "ruby 01_Index/Tools/import_goodnotes.rb prepare \"#{rel_display}\" --update-existing \"#{source_note}\" --move" : nil
+        }.compact
+      end
+
+      result = {
+        "file" => rel_display,
+        "basename" => pdf.basename.to_s,
+        "pages" => pages,
+        "privacy_warning" => false,
         "status" => "MODIFIED_EXISTING",
-        "existing_pdf" => existing_rel,
-        "existing_source_note" => source_map.dig(VaultSupport.nfc(existing_rel), :source_note),
+        "match_type" => best_match[:reason],
+        "existing_pdf" => canonical_pdf,
+        "existing_source_note" => source_note,
         "existing_pages" => old_count,
         "changed_prefix_pages" => changed
-      )
+      }
+      if pages > old_count
+        result["new_pages_from"] = old_count + 1
+        result["new_pages_count"] = pages - old_count
+      end
+      return result
     end
 
-    entry.merge("status" => "NEW")
+    suggested_fach = Helpers.infer_fach_from_path(rel_in_inbox)
+    entry = {
+      "file" => rel_display,
+      "basename" => pdf.basename.to_s,
+      "pages" => pages,
+      "privacy_warning" => false,
+      "status" => "NEW"
+    }
+    if suggested_fach
+      entry["suggested_fach"] = suggested_fach
+      entry["suggested_command"] = "ruby 01_Index/Tools/import_goodnotes.rb prepare \"#{rel_display}\" --fach #{suggested_fach} --move"
+    end
+    entry
+  end
+
+  def find_best_visual_match(rel_in_inbox, basename, new_prints, original_records)
+    rel_norm = VaultSupport.nfc(rel_in_inbox).downcase
+    base_norm = VaultSupport.nfc(basename).downcase
+
+    # Kandidaten nach Priorität: exakter Pfad-Suffix, gleicher Dateiname, dann visueller Vollvergleich
+    scored = original_records.map do |rec|
+      old_prints = rec.fetch("fingerprints")
+      next nil if old_prints.empty? || new_prints.empty?
+
+      rec_norm = VaultSupport.nfc(rec.fetch("pdf")).downcase
+      rec_base = VaultSupport.nfc(File.basename(rec.fetch("pdf"))).downcase
+      path_suffix_match = rec_norm.end_with?("/#{rel_norm}") || rec_norm == "99_originale/#{rel_norm}"
+      name_match = rec_base == base_norm
+
+      # Schnellfilter für nicht-namensgleiche Dateien: Seite 1 (oder Seite 2 bei neuem Deckblatt) prüfen
+      unless path_suffix_match || name_match
+        first_hit = VisualMatch.same_page?(old_prints[0], new_prints[0]) ||
+          (old_prints.length > 1 && new_prints.length > 1 && VisualMatch.same_page?(old_prints[1], new_prints[1]))
+        next nil unless first_hit
+      end
+
+      overlap = VisualMatch.overlap_ratio(old_prints, new_prints)
+      next nil unless path_suffix_match || name_match || overlap >= 0.6
+
+      score = overlap * 100.0
+      score += 10.0 if path_suffix_match
+      score += 5.0 if name_match
+      score += 2.0 if old_prints.length == new_prints.length
+
+      reason = if path_suffix_match
+                 "path_and_visual"
+               elsif name_match
+                 "filename_and_visual"
+               else
+                 "visual_content_match"
+               end
+
+      { record: rec, overlap: overlap, score: score, reason: reason }
+    end.compact
+
+    scored.max_by { |item| item[:score] }
   end
 end
 
@@ -337,13 +578,15 @@ class Preparer
     input_pdf = Helpers.resolve_input_path(remaining.first)
     abort "Keine PDF-Datei: #{input_pdf}" unless input_pdf.extname.downcase == ".pdf"
 
-    if !options[:allow_sensitive_name] && input_pdf.basename.to_s.match?(PRIVACY_FILENAME_PATTERN)
-      abort "Datenschutz-Stopp: Dateiname '#{input_pdf.basename}' wirkt privat/sensibel. Niemals Noten oder private Daten in den KI-Vault importieren! Falls es sicherer Unterrichtsstoff ist, mit --allow-sensitive-name erneut aufrufen."
+    rel_for_privacy = input_pdf.to_s.start_with?(INBOX_DIR.to_s) ? input_pdf.relative_path_from(INBOX_DIR).to_s : input_pdf.basename.to_s
+    if !options[:allow_sensitive_name] && Helpers.privacy_flagged?(rel_for_privacy)
+      abort "Datenschutz-Stopp: Pfad '#{rel_for_privacy}' wirkt privat/sensibel. Niemals Noten oder private Daten in den KI-Vault importieren! Falls es sicherer Unterrichtsstoff ist, mit --allow-sensitive-name erneut aufrufen."
     end
 
     if options[:update_existing]
       prepare_update(input_pdf, options)
     else
+      options[:fach] ||= Helpers.infer_fach_from_path(rel_for_privacy)
       abort "Bitte --fach angeben (oder --update-existing für ein bestehendes GoodNotes-Notizbuch)." unless options[:fach]
       prepare_new(input_pdf, options)
     end
@@ -435,7 +678,7 @@ class Preparer
     if dest_abs.file? && dest_abs.realpath != input_pdf.realpath && !options[:replaces_existing] && start_page == old_page_count + 1
       old_fp = PdfTool.run("fingerprint", dest_abs).fetch("fingerprints")
       new_fp = PdfTool.run("fingerprint", input_pdf).fetch("fingerprints")
-      changed = (0...old_fp.length).select { |idx| old_fp[idx] != new_fp[idx] }.map { |idx| idx + 1 }
+      changed = VisualMatch.changed_prefix_pages(old_fp, new_fp)
       unless changed.empty?
         warn "WARNUNG: Frühere Seiten #{VaultSupport.compact_ranges(changed)} weichen visuell vom bisherigen Original ab! Prüfe diese Seiten ggf. ebenfalls mit --from-page #{changed.first} --replaces-existing."
       end

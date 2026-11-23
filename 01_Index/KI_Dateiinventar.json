@@ -107,7 +107,7 @@
     {
       "path": ".agents/skills/goodnotes-import/SKILL.md",
       "extension": "md",
-      "bytes": 7459,
+      "bytes": 7806,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -227,7 +227,7 @@
     {
       "path": ".obsidian/workspace.json",
       "extension": "json",
-      "bytes": 8264,
+      "bytes": 8447,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -275,7 +275,7 @@
     {
       "path": "00_WORKFLOW_NEUE_MITSCHRIFTEN.md",
       "extension": "md",
-      "bytes": 5972,
+      "bytes": 6594,
       "role": "workflow_guide",
       "ai_use": "navigation",
       "reason": "Leitfaden zur Integration neuer GoodNotes-Mitschriften",
@@ -665,7 +665,7 @@
     {
       "path": "01_Index/Tools/import_goodnotes.rb",
       "extension": "rb",
-      "bytes": 30041,
+      "bytes": 38748,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"

@@ -31,11 +31,12 @@ Falls der Nutzer die PDF direkt im Chat angehängt hat, den genauen Pfad nutzen 
 ruby 01_Index/Tools/import_goodnotes.rb scan
 ```
 
-Prüfe den gemeldeten Status je PDF:
-- **`DUPLICATE_EXACT`**: Bereits exakt vorhanden → nicht erneut importieren, Nutzer kurz informieren (und Datei aus `00_Posteingang_GoodNotes/` nach Rücksprache/Abschluss entfernen).
+Prüfe den gemeldeten Status je PDF (funktioniert auch bei einem kompletten GoodNotes-Ordner-Neuexport):
+- **`SKIP_PRIVATE`**: Pfad oder Dateiname wirkt privat (z. B. `Noten/`) → PDF wurde gar nicht geöffnet; niemals importieren, Nutzer kurz darauf hinweisen.
+- **`DUPLICATE_EXACT` / `DUPLICATE_VISUAL`**: Bereits exakt oder visuell unverändert vorhanden (auch bei frischem GoodNotes-Neuexport mit neuem Zeitstempel oder umbenannter Datei) → nicht erneut importieren, überspringen.
 - **`EXTENDED_NOTEBOOK`**: Bestehendes GoodNotes-Notizbuch mit neu angehängten Seiten → in Schritt 2 `--update-existing <existing_source_note>` verwenden!
 - **`MODIFIED_EXISTING`**: Frühere Seiten haben sich verändert → prüfen, welche Seiten neu bewertet werden müssen (`--update-existing ... --from-page <N> --replaces-existing`).
-- **`NEW`**: Neue Quelle → zielführendes Fach bestimmen (`ae`, `bgwp`, `itt`, `deutsch`, `englisch`, `pug`, `religion`, `allgemein`, `vertretung`). Ist das Fach unklar, erst 1–2 Seiten ansehen oder kurz nachfragen.
+- **`NEW`**: Neue Quelle → vorgeschlagenes `suggested_fach` (aus der Ordnerstruktur) prüfen oder Fach anhand der ersten Seiten bestimmen (`ae`, `bgwp`, `itt`, `deutsch`, `englisch`, `pug`, `religion`, `allgemein`, `vertretung`). Ist das Fach unklar, erst 1–2 Seiten ansehen oder kurz nachfragen.
 
 ### Schritt 2: Import vorbereiten (`prepare`)
 

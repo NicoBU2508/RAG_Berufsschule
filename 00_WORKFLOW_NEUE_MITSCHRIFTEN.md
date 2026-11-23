@@ -29,9 +29,12 @@ Diese Anleitung beschreibt, wie neue oder erweiterte **GoodNotes-PDFs** sauber i
 
 ## 2. Was bei der Integration passiert
 
-1. **Prüfung auf Duplikate & Notizbuch-Erweiterungen (`scan`):**
-   - Exakte Kopien bereits vorhandener PDFs werden erkannt und nicht doppelt angelegt.
-   - Hast du ein **bestehendes GoodNotes-Notizbuch weitergeschrieben** (z. B. `BGWP.pdf` hat jetzt 62 statt 54 Seiten), erkennt das Tool die unveränderten Seiten 1–54 automatisch und verarbeitet gezielt nur die neuen Seiten 55–62.
+1. **Prüfung auf Duplikate, Neuexporte & Notizbuch-Erweiterungen (`scan`):**
+   - Du kannst einzelne PDFs **oder deinen kompletten GoodNotes-Ordner** (mit allen Unterordnern) in `00_Posteingang_GoodNotes/` ablegen.
+   - Unveränderte alte PDFs werden per SHA-256 (`DUPLICATE_EXACT`) **und** per visuellem Seiten-Fingerprint (`DUPLICATE_VISUAL`) gegen alle Originale erkannt und übersprungen – selbst wenn GoodNotes neue Export-Zeitstempel gesetzt oder eine Datei umbenannt wurde.
+   - Hast du ein **bestehendes GoodNotes-Notizbuch weitergeschrieben** (z. B. `BGWP.pdf` hat jetzt 62 statt 54 Seiten), erkennt das Tool die unveränderten Seiten 1–54 automatisch (`EXTENDED_NOTEBOOK`) und verarbeitet gezielt nur die neuen Seiten 55–62.
+   - Ordner oder Dateien mit privaten Hinweisen im Pfad (z. B. `Noten/`, `Zeugnis`) werden als `SKIP_PRIVATE` gar nicht erst geöffnet.
+   - Neue Dateien in bekannten Fach-Unterordnern (`AE/`, `BGWP/`, `ITT/`, `Deutsch/`, …) erhalten automatisch einen Fachvorschlag.
 2. **Aufbereitung (`prepare`):**
    - Die Original-PDF wird sauber unter `99_Originale/Berufsschule/<Fach>/` abgelegt.
    - Unter `02_Faecher/<Fach>/Quellen/` wird die kanonische Quellnotiz mit `### Seite N`, exakten PDF-Links (`#page=N`), PDF-Einbettungen und extrahiertem Text angelegt bzw. erweitert.
