@@ -12,7 +12,7 @@ tags:
   - quelle
   - itt_it_technik
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-24"
 kanonische_referenzen: true
 kanonische_themen: 5
 seiten_mit_kanonischem_thema: 5
@@ -20,7 +20,7 @@ ki_exclude_seiten: [1,2]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
 textstatus: "eingeschränkt: visuell geprüft (ocr_verified=5)"
-textzeichen: 4724
+textzeichen: 5702
 ---
 # 📄 Mitschriften Abde
 > [!quelle] Quellenstatus
@@ -35,7 +35,7 @@ textzeichen: 4724
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Backup und Datensicherung\|Backup und Datensicherung]] | Prüfungsrahmen der Quelle | 4 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Hochverfügbarkeit und Redundanz\|Hochverfügbarkeit und Redundanz]] | Prüfungsrahmen der Quelle | 3–5 | Visuell bestätigt auf 3 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Hochverfügbarkeit und Redundanz\|Hochverfügbarkeit und Redundanz]] | Prüfungsrahmen der Quelle | 3–5, 7 | Visuell bestätigt auf 4 Seite(n); bei 4 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IT-Sicherheit Grundlagen\|IT-Sicherheit Grundlagen]] | Prüfungsrahmen der Quelle | 5 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/RAID-Systeme\|RAID-Systeme]] | Prüfungsrahmen der Quelle | 3–7 | Visuell bestätigt auf 5 Seite(n); bei 5 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/SI- und IEC-Dateneinheiten\|SI- und IEC-Dateneinheiten]] | Prüfungsrahmen der Quelle | 6–7 | Visuell bestätigt auf 2 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
@@ -119,23 +119,29 @@ MERKE: Ein RAID ist kein Backup!
 > ![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=5]]
 
 > [!ocr] Visuell transkribiert
-> Text und Inhalte aus der visuellen Seitenprüfung verifiziert und ergänzt.
+> Text und Inhalte aus der visuellen Seitenprüfung verifiziert und ergänzt (Arbeitsblatt ohne ausgefüllte Lösungen).
 
 #### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-1.2 Übungsaufgaben (Kunde ZoF-GmbH – IT-Datensicherheitskonzept)
+FU-IT | RAID | Seite 5
+1.2 Übungsaufgaben
+
+Für unseren Kunden - die ZoF-GmbH - soll ein neues IT-Datensicherheitskonzept erstellen.
+
 Aufgabe 5: Nenne zwei Risiken, vor denen Daten geschützt werden sollten, um die Datensicherheit zu gewährleisten.
-- Datenverlust durch Festplattenausfall
-- Datendiebstahl durch Angreifer
 
-Szenario NAS: Nettokapazität 12 TiByte; Diskussion RAID 10 oder RAID 5 mit jeweils 4 Festplatten (verfügbar: 4, 6 oder 8 TiByte).
-Aufgabe 6: Höchstens gleichzeitig ausfallende Festplatten ohne Datenverlust (Disk 1 bis 4):
-- RAID 10: 2 Platten, Beispiel: Disk 1 + Disk 3 (aus unterschiedlichen Spiegelpaaren)
-- RAID 5: 1 Platte, Beispiel: Disk 1
+Die Daten der ZoF-GmbH sollen auf einem NAS abgelegt werden. Es wird diskutiert, ein RAID 10 oder RAID 5 mit jeweils vier Festplatten einzurichten (siehe Abbildungen).
+Das NAS soll eine Nettokapazität von 12 TiByte bieten. Es stehen Festplatten mit 4, 6 oder 8 TiByte Kapazität zur Verfügung.
 
-Aufgabe 7: Funktion einer Hot-Spare-Festplatte:
-Eine Reservefestplatte, die eingebaut und betriebsbereit ist und im Normalbetrieb ungenutzt bleibt. Bei Ausfall einer Platte springt sie automatisch ein.
+Abbildungen:
+- RAID 10 (4 Festplatten: Disk 1 bis Disk 4): Striping über zwei Spiegelpaare – Disk 1 (A, C, E) gespiegelt auf Disk 2 (A, C, E); Disk 3 (B, D, F) gespiegelt auf Disk 4 (B, D, F).
+- RAID 5 (4 Festplatten: Disk 1 bis Disk 4): Striping mit verteilter Parität – Zeile 1: A, B, C, P(ABC); Zeile 2: D, E, P(DEF), F; Zeile 3: G, P(GHI), H, I; Zeile 4: P(JKL), J, K, L.
+
+Aufgabe 6: Nenne für RAID 10 und für RAID 5 jeweils anhand eines Beispiels Festplatten (Disk 1 bis 4), die höchstens gleichzeitig ausfallen können, ohne dass ein Datenverlust eintritt.
+Tabelle (unausgefüllt): Spalten „Ausgefallene Disks ohne Datenverlust“ und „Beispiel“ für die Zeilen „RAID 10“ und „RAID 5“.
+
+Aufgabe 7: Das NAS soll mit einer Hot-Spare-Festplatte betrieben werden. Erläutere die Funktion einer Hot-Spare-Festplatte.
 ```
 
 ### Seite 6
@@ -148,14 +154,24 @@ Eine Reservefestplatte, die eingebaut und betriebsbereit ist und im Normalbetrie
 > ![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=6]]
 
 > [!ocr] Visuell transkribiert
-> Text und Inhalte aus der visuellen Seitenprüfung verifiziert und ergänzt.
+> Text und Inhalte aus der visuellen Seitenprüfung verifiziert und ergänzt (Arbeitsblatt ohne ausgefüllte Lösungen).
 
 #### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Aufgabe 8: Ermittlung für NAS (12 TiByte Nettokapazität, 4 HDDs) mit RAID 10 vs. RAID 5:
-- RAID 10: Kapazität pro Festplatte = 6 TiByte | Anzahl HDD = 4 | Bruttokapazität = 24 TiByte | Nettokapazität = 12 TiByte | Speichereffizienz (Netto/Brutto) = 50 %
-- RAID 5:  Kapazität pro Festplatte = 4 TiByte | Anzahl HDD = 4 | Bruttokapazität = 16 TiByte | Nettokapazität = 12 TiByte | Speichereffizienz (Netto/Brutto) = 75 %
+FU-IT | RAID | Seite 6
+
+Aufgabe 8: Ermittle für ein NAS mit RAID Level 10 und ein NAS mit RAID Level 5 jeweils:
+- die Kapazität pro Festplatte
+- die Bruttokapazität
+- die Speichereffizienz des NAS.
+Trage die ermittelten Werte in folgende Tabelle ein. Die Rechenwege sind anzugeben.
+
+Tabelle (unausgefüllt):
+Spalten: RAID Level | Kapazität pro Festplatte in TiByte | Anzahl HDD | Bruttokapazität NAS in TiByte | Nettokapazität NAS in TiByte | Speichereffizienz* NAS in %
+- RAID Level 10: Anzahl HDD = 4 (übrige Felder leer)
+- RAID Level 5: Anzahl HDD = 4 (übrige Felder leer)
+* Verhältnis Netto- zu Bruttokapazität
 ```
 
 ### Seite 7
@@ -168,28 +184,24 @@ Aufgabe 8: Ermittlung für NAS (12 TiByte Nettokapazität, 4 HDDs) mit RAID 10 v
 > ![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=7]]
 
 > [!ocr] Visuell transkribiert
-> Text und Inhalte aus der visuellen Seitenprüfung verifiziert und ergänzt.
+> Text und Inhalte aus der visuellen Seitenprüfung verifiziert und ergänzt (Arbeitsblatt ohne ausgefüllte Lösungen).
 
 #### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Szenario Rusticus GmbH (Digitalisierungsinitiative):
-Zwei Storage Arrays mit je max. 16 Festplatten zu je 4 TiB.
-Speicherbedarf: Datenbank 10 TiB + Nutzdaten 6 TiB + Puffer 10 TiB = 26 TiB.
-Architektur: RAID 6 mit Hot-Spare-Festplatte.
+FU-IT | RAID | Seite 7
 
-Aufgabe 9: Benötigte Festplatten:
-Gesamtspeicherbedarf: 10 TiB + 6 TiB + 10 TiB = 26 TiB
-Anzahl benötigter Datenplatten: 26 TiB / 4 TiB = 6,5 -> aufgerundet 7 Datenplatten
-Gesamtzahl Festplatten: 7 (Daten) + 2 (RAID-6-Parität) + 1 (Hot-Spare) = 10 Festplatten.
+Bei der Rusticus GmbH soll im Zuge der Digitalisierungsinitiative im Winter 2022 ein neuer Datenbankserver aufgebaut werden, da mit einem erhöhten Datenaufkommen zu rechnen ist. Als Datenspeicherlösung stehen zwei Storage Arrays mit je maximal sechzehn Festplatten zu je 4 TiB zur Verfügung.
 
-Archivsystem: 60 GiB/Monat Dokumentendaten, Komprimierungsrate 70 % (Restgröße 30 %), 2 TiB reservierter Speicher, Zeitraum 10 Jahre.
-Aufgabe 10: Speicherplatz für 10 Jahre:
-60 GiB * 12 * 10 = 7200 GiB (unkomprimiert)
-7200 GiB * 0,3 = 2160 GiB = 2,16 TiB (Hinweis: binär exakt 2160 / 1024 = 2,109 TiB; im Rechenweg dezimal genähert 2,16 TiB).
+Die Datenbank ist 10 TiB groß. Zusätzlich werden 6 TiB für Nutzdaten und 10 TiB als Puffer benötigt. Um die geforderte Verfügbarkeit sicherzustellen, entscheidest du dich unter anderem zur Nutzung von RAID 6 mit Hot-Spare-Festplatte.
 
-Aufgabe 11: Wie lange reicht der reservierte Speicher (2 TiB, auf ganze Jahre abgerundet):
-2,16 TiB / 10 Jahre = 0,216 TiB pro Jahr
-2 TiB / 0,216 TiB/Jahr = 9,25 Jahre -> abgerundet 9 Jahre.
+Aufgabe 9: Berechne, wie viele Festplatten benötigt werden, um den Speicherbedarf zu decken und die Architekturanforderungen zu erfüllen.
+
+Einige Zulieferer erstellen weiterhin Lieferscheine, Angebote und Rechnungen in Papierform. Diese sollen digital archiviert werden.
+Pro Monat werden 60 GiB Dokumentendaten erzeugt. Diese werden mit einer Komprimierungsrate von 70 % gepackt und auf ein Archivsystem kopiert, auf dem 2 TiB Speicher für die Daten reserviert ist. Dort sollen Sie für zehn Jahre gespeichert werden.
+
+Aufgabe 10: Berechne den Speicherplatz, der für die Speicherung der Daten für 10 Jahre benötigt wird.
+
+Aufgabe 11: Berechne, wie lange der reservierte Speicher reicht. Runde auf ganze Jahre ab.
 ```
 

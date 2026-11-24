@@ -14,11 +14,11 @@ tags:
 
 ## Ergebnis
 
-- **55 nicht-private PDFs / 1453 Seiten** vollständig berücksichtigt.
-- **52 aktive PDFs / 1356 Seiten** seitenweise visuell geprüft.
+- **56 nicht-private PDFs / 1486 Seiten** vollständig berücksichtigt.
+- **53 aktive PDFs / 1389 Seiten** seitenweise visuell geprüft.
 - **3 inaktive PDFs / 97 Seiten** als pixelidentische Dubletten nachgewiesen.
-- **137 kanonische Themen** mit exakten Seitenbelegen erzeugt.
-- **1226 Evidenzseiten**, **11 nur unterstützende Fragmentseiten**, **119 ausgeschlossene aktive Seiten**.
+- **139 kanonische Themen** mit exakten Seitenbelegen erzeugt.
+- **1251 Evidenzseiten**, **11 nur unterstützende Fragmentseiten**, **127 ausgeschlossene aktive Seiten**.
 - Der private Notenbereich und seine PDF wurden nicht geöffnet, gerendert, geOCRt oder inhaltlich inventarisiert.
 
 ## Ausschlussgründe
@@ -31,12 +31,20 @@ tags:
 | Exaktes seiteninternes Duplikat von Seite 9 (identischer Lesetext) | 1 |
 | Export visuell nicht belastbar: sichtbar sind nur Überschriften; Definitionen liegen außerhalb der sichtbaren Seitenfläche | 34 |
 | Fachfremder Urheberrechts-Einschub; Datenschutz und externe QR-Ziele nicht freigegeben | 3 |
+| Leere GoodNotes-Karopapierseite ohne fachlichen Inhalt | 1 |
+| Nahezu unausgefüllte Arbeitsblatt-Vorlage (Seite 4/4, nur kurze handschriftliche Notiz bei Aufgabe 11); die vollständig ausgefüllte Version inkl. dieser Notiz befindet sich auf Seite 37. | 1 |
 | Nur Index- und Lernhinweisseiten ohne eigenständigen fachlichen Lerninhalt | 2 |
 | Personenbezogenes oder persönliches Bild/Fragment ohne Lernbezug | 7 |
 | Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation | 27 |
 | Reine Titel- oder Dekorationsfolie (Wortwolke IDE) ohne eigenständigen Lerninhalt | 1 |
+| Unausgefüllte Arbeitsblatt-Vorlage (Seite 1/4); die vollständig ausgefüllte Version befindet sich auf Seite 34. | 1 |
+| Unausgefüllte Arbeitsblatt-Vorlage (Seite 2/4); die vollständig ausgefüllte Version befindet sich auf Seite 35. | 1 |
+| Unausgefüllte Arbeitsblatt-Vorlage (Seite 3/4); die vollständig ausgefüllte Version befindet sich auf Seite 36. | 1 |
 | Unausgefüllte Arbeitsvorlage ohne eigenen Lerninhalt | 1 |
 | Unausgefüllte Aufgaben-/Vorlagenseite ohne fachliche Lösung | 1 |
+| Unausgefüllte Schreibvorlage (leere E-Mail-Maske und Zeilen 1–17 zu Übung 2 ohne Lerninhalt) | 1 |
+| Unausgefüllte Schreibvorlage (leere liniierte Zeilen 18–39 zu Übung 2 ohne Lerninhalt) | 1 |
+| Unausgefüllte Schreibvorlage (leere liniierte Zeilen 40–58 zu Übung 2 ohne Lerninhalt) | 1 |
 | Unbearbeitetes Duplikat der ausgefüllten Arbeitsblattseite S.79 | 1 |
 | Unbearbeitetes Duplikat der ausgefüllten Arbeitsblattseite S.80 | 1 |
 | Unbearbeitetes Duplikat der ausgefüllten Arbeitsblattseite S.81 | 1 |
@@ -59,12 +67,13 @@ tags:
 | `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md` | 2 |
 | `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki.md` | 1–20 |
 | `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md` | 54, 56 |
+| `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Unbenannt_Einzelseite.md` | 1 |
 | `02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md` | 16, 20 |
-| `02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md` | 1–2, 6 |
+| `02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md` | 1–2, 6, 42–44 |
 | `02_Faecher/Englisch/Quellen/Englisch.md` | 1, 9 |
 | `02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md` | 3, 13–14 |
 | `02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften.md` | 1–2 |
-| `02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md` | 12, 26 |
+| `02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md` | 12, 26, 30–33 |
 | `02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md` | 14, 16 |
 | `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1_1.md` | 1 |
 | `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md` | 1–34 |
@@ -90,7 +99,7 @@ tags:
 | Elektrotechnik | 15 |
 | IT Technik und Sicherheit | 29 |
 | Religion Ethik | 6 |
-| Wirtschaft und Recht | 35 |
+| Wirtschaft und Recht | 37 |
 
 ## Technische Schutzwirkung
 

@@ -1,0 +1,209 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md (Seiten 30–37)",
+  "replaces_existing": false,
+  "topic_categories": {
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "page": 30,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [
+          "Unsichtbarer fehlerhafter weißer Vorlagentext in der PDF-Textschicht; visuell leere Arbeitsblatt-Vorlage."
+        ],
+        "exclusion_reason": "Unausgefüllte Arbeitsblatt-Vorlage (Seite 1/4); die vollständig ausgefüllte Version befindet sich auf Seite 34.",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "page": 31,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [
+          "Unsichtbarer weißer Vorlagentext zu SMTP/POP3/IMAP4 in der PDF-Textschicht; visuell leere Arbeitsblatt-Vorlage."
+        ],
+        "exclusion_reason": "Unausgefüllte Arbeitsblatt-Vorlage (Seite 2/4); die vollständig ausgefüllte Version befindet sich auf Seite 35.",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "page": 32,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Unausgefüllte Arbeitsblatt-Vorlage (Seite 3/4); die vollständig ausgefüllte Version befindet sich auf Seite 36.",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "page": 33,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Nahezu unausgefüllte Arbeitsblatt-Vorlage (Seite 4/4, nur kurze handschriftliche Notiz bei Aufgabe 11); die vollständig ausgefüllte Version inkl. dieser Notiz befindet sich auf Seite 37.",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "page": 34,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "OSI-Schichtenmodell",
+        "secondary_topics": [
+          "Netzwerktechnik und Netzplan"
+        ],
+        "recommended_topics": [
+          "OSI-Schichtenmodell",
+          "Netzwerktechnik und Netzplan"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Unsichtbarer fehlerhafter weißer Vorlagentext in der PDF-Textschicht wurde durch saubere visuelle Transkription bereinigt."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "page": 35,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "OSI-Schichtenmodell",
+        "secondary_topics": [
+          "Netzwerktechnik und Netzplan"
+        ],
+        "recommended_topics": [
+          "OSI-Schichtenmodell",
+          "Netzwerktechnik und Netzplan"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Verborgener Vorlagentext entfernt und Schichten- sowie Webserver-Protocol-Stack-Grafik strukturiert transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "page": 36,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "OSI-Schichtenmodell",
+        "secondary_topics": [
+          "Netzwerktechnik und Netzplan"
+        ],
+        "recommended_topics": [
+          "OSI-Schichtenmodell",
+          "Netzwerktechnik und Netzplan"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "DHCP-Sequenzdiagramm (DORA) und E-Mail-Schaubild (MUA/MTA/MDA, SMTP/POP) strukturiert aus Sichtprüfung transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "page": 37,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "OSI-Schichtenmodell",
+        "secondary_topics": [
+          "Netzwerktechnik und Netzplan"
+        ],
+        "recommended_topics": [
+          "OSI-Schichtenmodell",
+          "Netzwerktechnik und Netzplan"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Notiz und getippte Lösungen sauber den Aufgaben 9–12 zugeordnet."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

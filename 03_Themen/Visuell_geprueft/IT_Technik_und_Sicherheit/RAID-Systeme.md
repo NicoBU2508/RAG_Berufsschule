@@ -2,8 +2,8 @@
 id: vault.thema.visuell.raid.systeme
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-23
-reviewed_on: 2026-11-23
+stand: 2026-11-24
+reviewed_on: 2026-11-24
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften\|FU_IT_2LJ_Abded_Mitschriften]] | [3–7](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=3>) | aufgabe, loesung, theorie | 5 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften\|FU_IT_2LJ_Abded_Mitschriften]] | [3–7](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=3>) | aufgabe, theorie | 5 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

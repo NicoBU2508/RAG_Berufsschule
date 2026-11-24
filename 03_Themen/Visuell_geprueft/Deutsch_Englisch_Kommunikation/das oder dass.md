@@ -10,7 +10,7 @@ canonical_evidence: false
 thema: "das oder dass"
 kategorie: Deutsch_Englisch_Kommunikation
 quellen: 2
-seiten: 13
+seiten: 12
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript\|Deutsch_2LJ_Skript]] | [15–23, 25, 39](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=15>) | aufgabe, fragment, loesung, theorie | 2 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript\|Deutsch_2LJ_Skript]] | [15–23, 25](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=15>) | aufgabe, fragment, loesung, theorie | 2 Seite(n): OCR/Original prüfen |
 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [4–5](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4>) | aufgabe, theorie | Text für Zitate geeignet |
 
 ## Belegregel für GPT

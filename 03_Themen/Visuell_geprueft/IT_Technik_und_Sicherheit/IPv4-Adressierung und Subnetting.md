@@ -10,7 +10,7 @@ canonical_evidence: false
 thema: "IPv4-Adressierung und Subnetting"
 kategorie: IT_Technik_und_Sicherheit
 quellen: 3
-seiten: 20
+seiten: 22
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung\|FU_IT_2LJ_Zielske_IPv4_Wiederholung]] | [1–13](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=1>) | aufgabe, beispiel, theorie | 7 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung\|FU_IT_2LJ_Zielske_IPv4_Wiederholung]] | [1–15](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=1>) | aufgabe, beispiel, loesung, theorie | 9 Seite(n): OCR/Original prüfen |
 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift\|IT_Tech_2LJ_Liebscher_Mitschrift]] | [18](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf#page=18>) | theorie | 1 Seite(n): OCR/Original prüfen |
 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [7–12](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7>) | aufgabe, loesung | 6 Seite(n): OCR/Original prüfen |
 

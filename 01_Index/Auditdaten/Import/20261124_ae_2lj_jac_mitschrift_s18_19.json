@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md (Seiten 18–19)",
+  "replaces_existing": false,
+  "topic_categories": {
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 18,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "UML-Diagramme"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 19,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "UML-Diagramme"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung.md (Seiten 14–15)",
+  "replaces_existing": false,
+  "topic_categories": {
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf",
+      "page": 14,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "IPv4-Adressierung und Subnetting",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "IPv4-Adressierung und Subnetting"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf",
+      "page": 15,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "IPv4-Adressierung und Subnetting",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "IPv4-Adressierung und Subnetting"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

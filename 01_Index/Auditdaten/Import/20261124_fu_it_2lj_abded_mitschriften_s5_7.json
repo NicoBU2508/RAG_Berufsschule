@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften.md (Seiten 5–7)",
+  "replaces_existing": true,
+  "topic_categories": {
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "RAID-Systeme",
+        "secondary_topics": [
+          "Hochverfügbarkeit und Redundanz",
+          "IT-Sicherheit Grundlagen"
+        ],
+        "recommended_topics": [
+          "RAID-Systeme",
+          "Hochverfügbarkeit und Redundanz",
+          "IT-Sicherheit Grundlagen"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "RAID-Systeme",
+        "secondary_topics": [
+          "SI- und IEC-Dateneinheiten"
+        ],
+        "recommended_topics": [
+          "RAID-Systeme",
+          "SI- und IEC-Dateneinheiten"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf",
+      "page": 7,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "RAID-Systeme",
+        "secondary_topics": [
+          "SI- und IEC-Dateneinheiten",
+          "Hochverfügbarkeit und Redundanz"
+        ],
+        "recommended_topics": [
+          "RAID-Systeme",
+          "SI- und IEC-Dateneinheiten",
+          "Hochverfügbarkeit und Redundanz"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

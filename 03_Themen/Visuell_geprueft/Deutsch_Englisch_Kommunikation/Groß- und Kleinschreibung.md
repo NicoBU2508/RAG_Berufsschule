@@ -10,7 +10,7 @@ canonical_evidence: false
 thema: "Groß- und Kleinschreibung"
 kategorie: Deutsch_Englisch_Kommunikation
 quellen: 3
-seiten: 12
+seiten: 11
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript\|Deutsch_2LJ_Skript]] | [17, 22–23, 26–28, 39](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=17>) | aufgabe, loesung, theorie | Text für Zitate geeignet |
+| [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript\|Deutsch_2LJ_Skript]] | [17, 22–23, 26–28](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=17>) | aufgabe, loesung, theorie | Text für Zitate geeignet |
 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [1–3](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1>) | aufgabe, theorie | Text für Zitate geeignet |
 | [[02_Faecher/Deutsch/Quellen/Station_1\|Station_1]] | [1–2](<99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=1>) | aufgabe | Text für Zitate geeignet |
 

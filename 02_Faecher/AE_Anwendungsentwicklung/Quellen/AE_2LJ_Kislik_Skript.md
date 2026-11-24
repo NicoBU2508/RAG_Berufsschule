@@ -3,7 +3,7 @@ typ: quelle
 fach: "AE_Anwendungsentwicklung"
 fach_anzeige: "AE Anwendungsentwicklung"
 original_pfad: "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf"
-seiten: 57
+seiten: 61
 pruefung: "AP1, AP2"
 cssclasses:
   - lernquelle
@@ -12,23 +12,23 @@ tags:
   - quelle
   - ae_anwendungsentwicklung
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-24"
 kanonische_referenzen: true
 kanonische_themen: 5
-seiten_mit_kanonischem_thema: 55
+seiten_mit_kanonischem_thema: 59
 ki_exclude_seiten: [1,2]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 ki_sensitive_seiten: [23,25,38,39,40,52]
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=42, ocr_verified=7, redacted_summary=6)"
-textzeichen: 44428
+textstatus: "gemischt: visuell geprüft (ok=44, ocr_verified=9, redacted_summary=6)"
+textzeichen: 48385
 ---
 # 📄 AE Kislik
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/AE_Anwendungsentwicklung/AE_Anwendungsentwicklung|AE Anwendungsentwicklung]]
 > - **Original-PDF:** [AE_Kislik.pdf](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf>)
-> - **Seiten:** 57
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=42, ocr_verified=7, redacted_summary=6)
+> - **Seiten:** 61
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=44, ocr_verified=9, redacted_summary=6)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -36,7 +36,7 @@ textzeichen: 44428
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankgrundlagen und Datenbankentwicklung\|Datenbankgrundlagen und Datenbankentwicklung]] | Prüfungsrahmen der Quelle | 3–8, 12 | Visuell bestätigt auf 7 Seite(n). |
-| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell\|Datenbankmodellierung und ER-Modell]] | Prüfungsrahmen der Quelle | 6–7, 10–22 | Visuell bestätigt auf 15 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell\|Datenbankmodellierung und ER-Modell]] | Prüfungsrahmen der Quelle | 6–7, 10–22, 58–61 | Visuell bestätigt auf 19 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/SQL-Aggregatfunktionen und Gruppierung\|SQL-Aggregatfunktionen und Gruppierung]] | Prüfungsrahmen der Quelle | 33–37, 48–51 | Visuell bestätigt auf 9 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/SQL-Datenmanipulation INSERT UPDATE DELETE\|SQL-Datenmanipulation INSERT UPDATE DELETE]] | Prüfungsrahmen der Quelle | 23, 38–41, 52–57 | Visuell bestätigt auf 11 Seite(n); bei 6 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/SQL-Grundlagen und SELECT-Abfragen\|SQL-Grundlagen und SELECT-Abfragen]] | Prüfungsrahmen der Quelle | 9, 22–32, 42–47 | Visuell bestätigt auf 18 Seite(n); bei 5 Seite(n) OCR/Original für exakte Zitate prüfen. |
@@ -2113,3 +2113,172 @@ WHERE YEAR(kaufdatum) <= 2016-2;
 ￼
 ```
 
+### Seite 58
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [AE_Kislik.pdf Seite 58](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=58>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=58]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=58]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Fachbereich IT Klasse: Datum:
+Datenmodellierung mit ER-Diagrammen
+Das ER-Diagramm zur Datenmodellierung
+Das Entity-Relationship-Diagramm (kurz auch ER-Modell oder ERM genannt) dient primär der Beschreibung
+von Daten in einem Anwendungsbereich und ihren gegenseitigen Beziehungen. Man beschreibt also mit Hil-
+fe eines ER-Modells einen Ausschnitt aus der realen Welt. Da das ER-Modell bestimmten Regeln unterliegt und
+leicht verständlich ist, dient es zur Konzeptionierung von Datenbanken. Außerdem stellt es eine gute Kom-
+munikationsbasis zwischen Entwicklern und Kunden (bzw. anderen beteiligten Parteien) dar.
+Folgende Elemente sind in einem ER-Diagramm enthalten:
+• Entität und Entitätsmenge
+Jedes Objekt, das durch einen Datensatz abgebildet werden soll, nennt man Entität. Eine Entität kann
+− ein Individuum (z.B. der Schüler Meier)
+− ein reales Objekt (z.B. der Raum mit der Nr. 112)
+− ein abstraktes Konzept (z.B. der Kurs Informatik)
+− ein Ereignis (z.B. eine mündliche Prüfung) sein.
+Die Zusammenfassung gleicher Entitäten nennt man Entitätsmenge. Zur grafischen Darstellung von En-
+titätsmengen werden Rechtecke verwendet:
+• Attribut
+Die Eigenschaften einer Entitätsmenge nennt man Attribute. Im folgenden Beispiel sind „Artikel-ID“,
+„Artikelbeschreibung“ und „Artikelart“ Attribute der Entitätsmenge „Artikel“. Im ER-Diagramm werden Attri-
+bute als Ovale dargestellt:
+• Beziehungen
+Beziehungen bestehen im Bereich der verschiedenen Entitätsmengen und können ebenfalls Attribute besit-
+zen. Eine Beziehung ist die Verbindung (bzw. Wechselwirkung) zwischen mindestens zwei Entitätsmengen.
+Beziehungstypen werden durch Rauten gekennzeichnet:
+￼
+Artikel
+￼
+Mitarbeiter
+￼
+Bestellung
+￼
+besitzt
+￼
+Artikel
+￼
+Artikel-
+Beschrei-
+bung
+￼
+Artikel-
+ID
+￼
+Artikel-
+art
+```
+
+### Seite 59
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [AE_Kislik.pdf Seite 59](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=59>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=59]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=59]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Fachbereich IT Klasse: Datum:
+• Kardinalitäten
+Die Kardinalität zwischen dem Entitätstyp 1 und dem Entitätstyp 2 gibt an, wie viele Entitäten des En-
+titätstyps 2 höchstens mit einer Entität des Entitätstyps 1 in Beziehung stehen.
+Für die Datenstrukturierung interessieren nicht die genauen Zahlen, sondern nur die Typen: Höchstens eine
+Entität (1) bzw. mehrere Entitäten (n oder m).
+Da der Beziehungstyp wechselseitig ist, wird die Kardinalität durch zwei Angaben vollständig beschrie-
+ben.
+Beispiele hierfür sind die …
+• 1:1-Beziehung:
+￼
+Ein Schüler erhält höchstens ein Jahreszeugnis. Zu einem Jahreszeugnis gehört höchstens ein Schüler.
+• 1:n-Beziehung:
+￼
+Ein Schüler erhält mehrere Hefter. Ein Hefter gehört höchstens einem Schüler.
+• n:m-Beziehung:
+￼
+Ein Schüler nutzt mehrere Schul-PCs. Ein Schul-PC wird von mehreren Schülern benutzt.
+```
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+> [!ocr] Visuell transkribiert
+> Eingebettete ER-Diagramm-Abbildungen für die 1:1-, 1:n- und n:m-Kardinalitäten ergänzt.
+
+```text
+ER-Diagramm-Beispiele zu Kardinalitäten (Chen-Notation):
+- 1:1-Beziehung: [Schüler] — 1 — <erhält> — 1 — [Jahreszeugnis]
+- 1:n-Beziehung: [Schüler] — 1 — <besitzt> — n — [Hefter]
+- n:m-Beziehung: [Schüler] — n — <startet> — m — [Schul-PC]
+```
+
+### Seite 60
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [AE_Kislik.pdf Seite 60](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=60>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=60]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=60]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Beispiel für ein ER-Diagramm:
+In einer IT-Firma gibt es eine Vielzahl an Projekten. Jedes Projekt wird
+von einer Mitarbeiterin bzw. von einem Mitarbeiter geleitet. Eine Mit-
+arbeiterin / ein Mitarbeiter kann auch mehreren Projekten vorstehen.
+Von der Mitarbeiterin, vom Mitarbeiter wird der Name, vom Projekt
+der Name, das Datum und das Budget erfasst.
+Erstelle das zugehörige ER-Modell!
+Lösung:
+Mitarbeite ↑ leitet "Project
+ㅣ
+@ BudsetO
+```
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+> [!ocr] Visuell transkribiert
+> Handschriftlich gezeichnetes ER-Diagramm der Lösung sauber transkribiert.
+
+```text
+Lösung (handschriftliches ER-Diagramm in Chen-Notation):
+- Entitätsmenge (Rechteck): Mitarbeiter
+  - Attribut (Oval): Name
+- Beziehung (Raute): leitet
+  - Kardinalität: 1 (bei Mitarbeiter) : n (bei Project) -> 1:n-Beziehung
+  - Struktur: [Mitarbeiter] — 1 — <leitet> — n — [Project]
+- Entitätsmenge (Rechteck): Project
+  - Attribute (Ovale): Name, Datum, Budget
+```
+
+### Seite 61
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [AE_Kislik.pdf Seite 61](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=61>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=61]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=61]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Wie stellt man es nun dar, wenn z.B. ein Lehrer einen anderen Lehrer vertritt?
+Wir haben hier eine Beziehung in der gleichen Entitätsmenge. Da in der Regel
+aber ein Lehrer nicht nur einen einzigen anderen Lehrer vertreten kann,
+sondern mehrere andere Lehrer, ist es hier eine m:n-Beziehung!
+￼
+Lehrer
+￼
+vertritt
+￼
+m
+￼
+n
+```

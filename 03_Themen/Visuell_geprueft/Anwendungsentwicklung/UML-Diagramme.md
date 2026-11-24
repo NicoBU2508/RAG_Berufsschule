@@ -2,15 +2,15 @@
 id: vault.thema.visuell.uml.diagramme
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-23
-reviewed_on: 2026-11-23
+stand: 2026-11-24
+reviewed_on: 2026-11-24
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "UML-Diagramme"
 kategorie: Anwendungsentwicklung
 quellen: 2
-seiten: 18
+seiten: 20
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift\|AE_2LJ_Jac_Mitschrift]] | [1–17](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=1>) | aufgabe, beispiel, fragment, loesung, theorie | 17 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift\|AE_2LJ_Jac_Mitschrift]] | [1–19](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=1>) | aufgabe, beispiel, fragment, loesung, theorie | 19 Seite(n): OCR/Original prüfen |
 | [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT\|Grundausbildung_IT]] | [4](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=4>) | theorie | 1 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT

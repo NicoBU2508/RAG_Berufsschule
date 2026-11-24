@@ -111,6 +111,7 @@ PIPELINE_SCRIPTS = %w[
   build_copilot_allowlist.rb
   build_quellenmatrix.rb
   build_ki_manifest.rb
+  sync_karteikarten.rb
   validate_nonprivate_links.rb
   validate_verified_source_layer.rb
 ].freeze

@@ -3,7 +3,7 @@ typ: quelle
 fach: "BGWP_Betriebswirtschaft"
 fach_anzeige: "BGWP Betriebswirtschaft"
 original_pfad: "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf"
-seiten: 22
+seiten: 30
 pruefung: "AP1, WiSo"
 cssclasses:
   - lernquelle
@@ -12,27 +12,28 @@ tags:
   - quelle
   - bgwp_betriebswirtschaft
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-24"
 kanonische_referenzen: true
-kanonische_themen: 3
-seiten_mit_kanonischem_thema: 22
+kanonische_themen: 4
+seiten_mit_kanonischem_thema: 30
 ki_support_seiten: [2,21]
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=7, ocr_verified=15)"
-textzeichen: 24241
+textstatus: "gemischt: visuell geprüft (ok=11, ocr_verified=19)"
+textzeichen: 38870
 ---
 # 📄 BGWP mitschickt
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/BGWP_Betriebswirtschaft/BGWP_Betriebswirtschaft|BGWP Betriebswirtschaft]]
 > - **Original-PDF:** [BGWP mitschickt.pdf](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf>)
-> - **Seiten:** 22
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=7, ocr_verified=15)
+> - **Seiten:** 30
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=11, ocr_verified=19)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
 
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Business Process Model and Notation BPMN\|Business Process Model and Notation BPMN]] | Prüfungsrahmen der Quelle | 23–30 | Visuell bestätigt auf 8 Seite(n); bei 4 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Ereignisgesteuerte Prozessketten EPK\|Ereignisgesteuerte Prozessketten EPK]] | Prüfungsrahmen der Quelle | 7–22 | Visuell bestätigt auf 16 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 9 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Organisation im Betrieb\|Organisation im Betrieb]] | Prüfungsrahmen der Quelle | 1 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Prozessmanagement und Geschäftsprozesse\|Prozessmanagement und Geschäftsprozesse]] | Prüfungsrahmen der Quelle | 1–7 | Visuell bestätigt auf 7 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 6 Seite(n) OCR/Original für exakte Zitate prüfen. |
@@ -880,27 +881,414 @@ Fortsetzung der eEPK von Seite 20 (Endereignisse beider Zweige):
 > ![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=22]]
 
 > [!ocr] Visuell transkribiert
-> Eingebettetes unvollständiges eEPK-Vorlagendiagramm zu Aufgabe 2 (S. 19) aus Sichtprüfung vollständig transkribiert.
+> Handschriftlich vervollständigte eEPK zu Aufgabe 2 (JIKU IT-Solutions – Archivierung eingehender Dokumente, vgl. Seite 19) aus Sichtprüfung transkribiert.
 
 #### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
 BGWP LF 6 – 1.5 Übung: Darstellung von Geschäftsprozessen
-Zu Aufgabe 2 (eEPK-Vorlage zum Vervollständigen, vgl. Aufgabenstellung Seite 19):
+Zu Aufgabe 2 (JIKU IT-Solutions – Archivierung eingehender Dokumente, vgl. Seite 19):
 
-Vorgegebener Startbereich:
-- Startereignis: Dokument ist eingegangen
-- -> Konnektor: XOR (Zusammenführung für Wiederholungsschleife)
-- -> Funktion: Dokument scannen und abspeichern
-  - Organisationseinheit: Posteingang
-  - Informationsobjekt (Eingang -> Funktion): Dokument
-- -> [leeres Ereignis-Sechseck]
-- -> [leeres Funktions-Rechteck]
-- -> [leerer Konnektor mit Verzweigung in 2 Zweige: links leeres Ereignis -> weiterer leerer Konnektor mit 2 Ausgängen; rechts leeres Ereignis]
-
-Vorgegebene Endereignisse unten (3 parallele Ausgänge):
-- digitales Dokument ist weitergeleitet
-- Papierdokument ist archiviert
-- Papierdokument ist vernichtet
+1. Ereignis (gedruckt): Dokument ist eingegangen
+   -> XOR-Zusammenführung (gedruckt; hier mündet auch der Rücksprung bei „Fehler“)
+   -> Funktion (gedruckt): Dokument scannen und abspeichern
+      - Organisationseinheit (links): Posteingang
+      - Informationsobjekt (rechts): Dokument
+2. -> Ereignis (handschriftlich): Dokument ist gescannt
+   -> Funktion (handschriftlich): Dokument prüfen
+   -> Verzweigung (handschriftlich als inklusives ODER „v“ gezeichnet; fachlich exklusives ODER / XOR):
+      - Zweig 1 (rechts): Ereignis „Fehler“ -> Rücksprung-Pfeil zurück zur XOR-Zusammenführung vor „Dokument scannen und abspeichern“
+      - Zweig 2 (links): Ereignis „kein Fehler“
+        -> UND-Aufspaltung (∧):
+           - Linker Zweig:
+             Funktion „Empfänger ermitteln“
+             -> Ereignis „E. ist ermittelt“ (Empfänger ist ermittelt)
+             -> Funktion „wird weitergel.“ (PDF-Datei wird weitergeleitet)
+             -> Endereignis (gedruckt): digitales Dokument ist weitergeleitet
+           - Rechter Zweig:
+             Funktion „Art ermitteln“
+             -> XOR-Aufspaltung (xor):
+                - Zweig A: Ereignis „Vertrag“ -> Funktion „wird archiviert“ -> Endereignis (gedruckt): Papierdokument ist archiviert
+                - Zweig B: Ereignis „Sonstiges“ -> Funktion „wird vernichtet“ -> Endereignis (gedruckt): Papierdokument ist vernichtet
 ```
 
+### Seite 23
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP mitschickt.pdf Seite 23](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=23>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=23]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=23]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 6
+1.6 Business Process Model and Notation
+(BPMN)
+Klasse:
+Datum:
+1
+BPMN – Business Process Model and Notation
+BPMN, die Abkürzung für Business Process Model and Notation, ist eine äußerst nützliche grafi-
+sche Modellierungssprache, die speziell für die Darstellung von Geschäftsprozessen entwi-
+ckelt wurde. Mit BPMN können komplexe Prozesse in übersichtlichen Diagrammen dargestellt
+werden, die nicht nur von Softwaretechnikern, sondern auch von Nicht-Softwaretechnikern
+leicht verstanden werden können. Diese Diagramme spielen eine entscheidende Rolle bei
+der Förderung des Verständnisses von Geschäftsprozessen und dienen als Brücke zwischen
+den fachlichen Konzepten und den ausführbaren Modellen.
+Aber warum ist BPMN so wichtig und warum sollte man es verwenden? Hier sind einige
+Gründe:
+1. Einheitliche Sprache für Geschäftsprozesse: BPMN bietet eine gemeinsame und stan-
+dardisierte Sprache, die in der Geschäftswelt weit verbreitet ist. Dies ermöglicht eine
+klare und konsistente Kommunikation über Prozesse innerhalb einer Organisation.
+2. Förderung gemeinsamen Prozessverständnisses: BPMN trägt dazu bei, ein gemeinsa-
+mes Verständnis für Prozesse zu schaffen, sowohl innerhalb einer Organisation (zwi-
+schen Abteilungen, Gruppen und Teams) als auch über organisatorische Grenzen hin-
+weg (zwischen Unternehmen und Abteilungen). Dies verbessert die Zusammenarbeit
+und die Fähigkeit, Prozesse zu optimieren.
+3. Brücke zwischen Fachbereichen und IT: BPMN bietet eine Schnittstelle zwischen den
+Fachbereichen und der IT. Durch die visuelle Darstellung von Prozessen können Fach-
+experten und IT-Profis leichter kommunizieren und sicherstellen, dass die technische
+Umsetzung den fachlichen Anforderungen entspricht.
+4. Standardisierte Verwendung: BPMN ist ein weit verbreiteter Standard, der von vielen
+Anbietern unterstützt wird. Es gibt eine große Auswahl an BPMN-Modellierungstools,
+von kostengünstigen Optionen bis hin zu hochspezialisierten Lösungen. Dies ermöglicht
+es Organisationen, das für sie passende Tool auszuwählen.
+5. Ausbildung und Ressourcen: Es stehen umfangreiche Schulungs- und Lernressourcen
+zur Verfügung, die es Einzelpersonen und Organisationen ermöglichen, BPMN effektiv
+zu erlernen und anzuwenden. Dies umfasst Schulungsmaterialien, Bücher, Online-Kurse
+und Schulungen von Experten.
+Die Bestandteile von BPMN umfassen:
+• Grafische Notation: BPMN verwendet eine Reihe von Symbolen und Diagrammele-
+menten, um Prozesse grafisch darzustellen.
+• Nicht-grafisch dargestellte Inhalte: Neben den visuellen Elementen können auch
+nicht-grafische Informationen wie Attribute oder Metadaten in BPMN-Diagrammen
+festgehalten werden.
+• Beschreibung der Elemente und der Beziehungen: Jedes BPMN-Element hat eine klare
+Definition und Beziehungen zwischen den Elementen werden genau beschrieben, um
+die Prozesslogik zu verdeutlichen.
+```
+
+### Seite 24
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP mitschickt.pdf Seite 24](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=24>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=24]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=24]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 6
+1.6 Business Process Model and Notation
+(BPMN)
+Klasse:
+Datum:
+2
+Die Grundelemente in BPMN-Diagrammen
+Ereignisse (Events) Jedes BPMN-Diagramm beginnt und endet mit einem Ereignis. Ereig-
+nisse können auch in der Mitte eines Prozesses auftreten und ein Sym-
+bol beinhalten, dass die Art des Ereignisses darstellt. Kreise symbolisie-
+ren Start-, Zwischen- und Endereignisse.
+Aktivitäten (Activites): Aktivitäten werden mithilfe von abgerundeten Rechtecken wie-
+dergegeben. Sie werden im Format „Substantiv + Verb“ beschrif-
+tet, um eine Aktivität darzustellen.
+Aktivitäten zeigen Aufgaben oder Teilprozesse.
+Gateways Gateways spalten Prozessflüsse auf und vereinen sie wieder miteinander.
+Sie werden in Form eines Diamanten dargestellt und können mit Symbo-
+len versehen sein, die die Bedingungen für das Aufspalten und Wieder-
+vereinen der Prozessflüsse genauer beschreiben.
+Verbindungen (Sequence Flows) Verbindungen geben die Fließrichtung von einem Element
+im BPMN-Diagramm zum nächsten an. Verschiedene Linien-
+strukturen verdeutlichen den Unterschied zwischen einem
+Aktivitätenfluss und einem Nachrichtenfluss.
+Pools und Lanes BPMN-Pools werden in unterschiedliche Verantwor-
+tungsbereiche (Lanes) unterteilt. Pools und Verant-
+wortungsbereiche werden verwendet, um zu veran-
+schaulichen, welche Gruppen oder Einzelpersonen
+für einen bestimmten Prozessabschnitt verantwortlich
+sind.
+Jedes BPMN-Diagramm muss mindestens einen Pool
+mit einem Verantwortungsbereich umfassen.
+Artefakte (Artifact) Mithilfe von Artefakten lassen sich einem BPMN-Diagramm zusätzliche In-
+formationen hinzufügen. Dazu zählen Anmerkungen, Gruppen und Date-
+nobjekte.
+￼
+￼
+￼
+￼
+￼
+￼
+```
+
+### Seite 25
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP mitschickt.pdf Seite 25](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=25>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=25]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=25]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 6
+1.6 Business Process Model and Notation
+(BPMN)
+Klasse:
+Datum:
+3
+Das Zeichnen von BPMN-Diagrammen
+Wir starten mit einem Startereignis. Start- und Endereignis lassen sich gut anhand der Dicke
+ihrer Umrandung unterscheiden. Die standardmäßige Notation für Ereignisse sieht eine dünne
+Umrandung für Startereignisse, eine dicke Umrandung für Endereignisse und eine doppelte,
+kreisförmige Umrandung für Zwischenereignisse vor.
+Fügen wir als Nächstes eine Aktivität hinzu und geben ihr einen Namen im Format „Substan-
+tiv + Verb“ (wie unten dargestellt).
+Jedes BPMN-Diagramm muss über mindestens einen Pool mit einem Verantwortungsbereich
+verfügen. Ergänzen wir also einen.
+Voilà! Schon haben Sie ein vollständiges BPMN-Diagramm. Es ist selbstverständlich noch sehr
+vereinfacht. Gehen wir deshalb noch etwas mehr ins Detail.
+￼
+￼
+￼
+Bestellung
+eingegangen
+Bestellung
+eingegangen
+Bestellung
+eingegangen
+```
+
+### Seite 26
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP mitschickt.pdf Seite 26](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=26>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=26]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=26]]
+
+> [!ocr] Visuell transkribiert
+> Eingebettete BPMN-Symbolgrafiken (Aktivitäten, Ereignisse, Gateways, Datenobjekte) aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+BGWP LF 6 – 1.6 Business Process Model and Notation (BPMN) (Seite 4)
+
+Beispiele für Aktivitäten (abgerundete Rechtecke mit Symbol oben links):
+- Service (Zahnräder-Symbol: automatisierte System-/Service-Aktivität)
+- User (Personen-Symbol: Benutzeraufgabe mit IT-Unterstützung)
+- Manual (Hand-Symbol: manuelle Aufgabe ohne IT-System)
+- Script (Skript-Symbol: automatisiert ausgeführtes Skript)
+
+Beispiele für Ereignisse (Kreise):
+- Basis-Ereignisse: Start (dünner Kreis), Intermediate Start (doppelter Kreis), End (dicker Kreis)
+- Nachrichten-Ereignisse (Briefumschlag): Message Start (dünner Kreis, weißer Briefumschlag), Intermediate Message (doppelter Kreis, schwarzer Briefumschlag), Message End (dicker Kreis, schwarzer Briefumschlag)
+- Zeit-Ereignisse (Uhr): Timer Start (dünner Kreis mit Uhr), Intermediate Timer (doppelter Kreis mit Uhr)
+- Abbruch-Ereignis: Terminate (dicker Kreis mit ausgefülltem schwarzem Innenkreis)
+
+Beispiele für Gateway (Raute / Diamant):
+- Exclusive (X): exklusives ODER (XOR)
+- Message (Briefumschlag im Kreis): nachrichtenbasiertes Gateway
+- Timer (Uhr im Kreis): zeitbasiertes Gateway
+- Parallel (+): parallele Aufspaltung/Zusammenführung (UND)
+- Escalation (Pfeil/Dach im Kreis): Eskalations-Gateway
+- Conditional (Dokument-/Listensymbol im Kreis): bedingtes Gateway
+
+Beispiele für Datenobjekte (Dokumentensymbol mit geknickter Ecke):
+- Data Input (weißer Pfeil oben links)
+- Data Output (schwarzer Pfeil oben links)
+```
+
+### Seite 27
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP mitschickt.pdf Seite 27](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=27>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=27]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=27]]
+
+> [!ocr] Visuell transkribiert
+> Gedruckter Text sowie eingebettete BPMN-Beispieldiagramme (Beispiel 1 Urlaubsantrag und Beispiel 2 Kundenbestellung/Bestellprozess inkl. Element-Beschriftung) aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+BGWP LF 6 – 1.6 Business Process Model and Notation (BPMN) (Seite 5)
+
+Beispiel 1 – Urlaubsantrag
+1. Der Mitarbeiter stellt einen Urlaubsantrag (Start-Ereignis).
+2. Der Antrag wird vom Vorgesetzten geprüft (Aktivität).
+3. Entscheidung durch ein Gateway:
+   i. Wenn genehmigt: Benachrichtigung an Mitarbeiter senden.
+   ii. Wenn abgelehnt: Ablehnungsgrund wird an Mitarbeiter gesendet.
+4. Prozess endet (End-Ereignis).
+
+BPMN-Diagramm zu Beispiel 1 (Pool mit 2 Lanes: Mitarbeiter, Vorgesetzter):
+- Lane Mitarbeiter: Startereignis „Urlaubsantrag ist gestellt“ -> Wechsel in Lane Vorgesetzter
+- Lane Vorgesetzter: Aktivität „Antrag prüfen“ -> XOR-Gateway (X):
+  - Zweig „Antrag abgelehnt“ -> Lane Mitarbeiter: Sende-Aktivität (schwarzer Briefumschlag) „Ablehnung an Mitarbeiter senden“
+  - Zweig „Antrag genehmigt“ -> Lane Mitarbeiter: Sende-Aktivität (schwarzer Briefumschlag) „Genehmigung senden“
+- Lane Mitarbeiter: XOR-Zusammenführung (X) -> Endereignis „Antrag ist bearbeitet“
+
+Beispiel 2 – Kundenbestellung, Produktion und Versand bis zur Rechnungserstellung:
+BPMN-Diagramm (Pool „Organisation X“ bzw. „Bestellprozess“ mit 3 Lanes: Verkauf, Finanzen, Warenlager):
+- Lane Verkauf: Startereignis „Bestellung eingegangen“ -> Task „Bestellung erfassen“ (unten: „Bestellung entgegennehmen“) mit Datenobjekt „Kundendaten“ -> Wechsel in Lane Finanzen
+- Lane Finanzen: Task „Kreditwürdigkeit prüfen“ -> XOR-Gateway „Kreditwürdig?“:
+  - Nein -> Lane Verkauf: Endereignis „Bestellung fehlgeschlagen“
+  - Ja -> Lane Warenlager: Task „Bestellung durchführen“ (unten mit Teilprozess-Plus-Symbol [+]) -> XOR-Gateway „Auf Lager?“:
+    - Nein -> Lane Verkauf: Endereignis „Bestellung fehlgeschlagen“
+    - Ja -> Lane Finanzen: Task „Rechnung verschicken“ -> Endereignis „Bestellung abgeschlossen“
+
+Beschriftung der BPMN-Bestandteile in der unteren Grafik:
+- Pool (Bestellprozess), Lane (Verkauf / Finanzen / Warenlager), Startereignis (Event), Task (Aufgabe, Aktivität), Gateway (Verzweigung), Sequenzfluss, Endereignis (Event)
+```
+
+### Seite 28
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP mitschickt.pdf Seite 28](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=28>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=28]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=28]]
+
+> [!ocr] Visuell transkribiert
+> Gedruckte BPMN-Übungsaufgaben (Aufgabe 1 und 2) sowie handschriftliche Einträge/Lösungsansatz aus Sichtprüfung transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+BGWP LF 6 – 1.6 Business Process Model and Notation (BPMN)
+BPMN – Übungsaufgaben
+
+Aufgabe 1: Lies Seite 1 im Infotext und notiere einige Vorteile der BPMN.
+Handschriftliche Antworten:
+• Einheitliche Sprache
+• Standardisierte Verwendung
+• Ausbildung und Ressourcen
+
+Aufgabe 2: Sieh dir Seite 2 – 5 des Infotextes an und erstelle ein BPMN-Diagramm zu folgendem Onboarding-Prozess.
+Prozessbeschreibung:
+- Die Personalabteilung sendet dem neuen Mitarbeiter eine Begrüßungsmail mit Informationen zum ersten Arbeitstag.
+- Anschließend werden folgende Schritte parallel durchlaufen:
+  o Die IT-Abteilung erstellt ein IT-Ticket, richtet Laptop und Zugänge ein.
+  o Am ersten Arbeitstag wird der neue Mitarbeiter durch die Teamleitung begrüßt.
+- Danach führt die Personalabteilung eine kurze Einführungsveranstaltung durch.
+- Sobald der Mitarbeiter alle Stationen durchlaufen hat, ist der Onboarding-Prozess abgeschlossen.
+
+Hinweise zur Modellierung:
+- Verwenden Sie mindestens drei Lanes: Personalabteilung, IT-Abteilung, Teamleitung.
+- Modellieren Sie den Ablauf logisch mit Start- und Endereignis, Aufgaben und Gateways (wenn sinnvoll).
+- Verwenden Sie Nachrichtenflüsse zwischen Lanes, wenn Informationen oder Aufgaben übergeben werden.
+
+Handschriftlicher Lösungsansatz (unvollständig begonnener Pool mit 3 Lanes: IT, Teamleitung, Personalabteilung):
+- Lane Personalabteilung: Startereignis „Mail gesendet“ -> Pfeile nach oben zu Lane Teamleitung und Lane IT
+- Lane Teamleitung: Aktivität „Begrüßung“
+- Lane IT: Aktivität „Erstellt Ticket“ -> Ereignis „Ticket erstellt“ -> Aktivität „richtet Laptop ein“
+(Paralleles Gateway, Einführungsveranstaltung und Endereignis noch nicht ergänzt.)
+```
+
+### Seite 29
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP mitschickt.pdf Seite 29](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=29>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=29]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=29]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 6
+1.6 Business Process Model and Notation
+(BPMN)
+Klasse:
+Datum:
+Aufgabe 3:
+Die Sensofood-Logistik GmbH arbeitet bislang weitgehend analog. Relevantes Wissen ist vor
+allem in den Köpfen der erfahrenen Mitarbeiter vorhanden. Es ist nicht greifbar. Ein Beispiel
+aus dem Logistikprozess soll dies verdeutlichen:
+Wenn LKW-Fahrer auf Fahrten Probleme bekommen, sind sie weitgehend auf sich selbst ge-
+stellt. Sie müssen eigenständig eine -Lösung finden. Es kommt vor, dass LKWs liegenbleiben
+oder gar Ware auf dem Transport zum Kunden verdirbt. Im Nachhinein stellt sich oft heraus,
+dass die Probleme vermeidbar gewesen wären.
+Zukünftig soll ein Monitoring und Control System zum Einsatz kommen.
+Es wurde bereits ein BPMN 2.0 Diagramm begonnen, um die Funktionsweise des Monitoring
+und Control Systems zu visualisieren. Es basiert auf folgender Prozessbeschreibung:
+• Tritt eine Störung auf, versucht das Monitoring und Control System zunächst eine
+Selbstentstörung durchzuführen.
+• Ist diese erfolgreich, wird der Vorfallszähler für den ursächlichen Fehler um 1 erhöht.
+Die Störung ist behoben und der Prozess endet.
+• Ist die Selbstentstörung nicht erfolgreich, wird der Fahrer über die Störung informiert.
+• Dieser versucht daraufhin, den Fehler zu identifizieren.
+• Ist der Fehler bekannt (known error), wird vom System der Vorfallszähler um 1 erhöht.
+Das System schlägt einen Workaround vor (vorläufige Problemlösung). Der Fahrer setzt
+den Workaround um und behebt so die Störung.
+• Ist der Fehler unbekannt (unkown error), muss der Fahrer für den Fehler einen Work-
+around suchen. Danach muss er Fehler/ Workaround in der Known-Error-Datenbank
+dokumentieren und den Workaround umsetzen. Das System speichert die Dokumen-
+tation in der Known-Error-Datenbank. Ist beides erledigt, endet der Prozess.
+Vervollständigen Sie folgendes Diagramm, indem Sie die fehlenden Aktivitäten eintragen.
+￼
+￼
+￼
+￼
+```
+
+### Seite 30
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP mitschickt.pdf Seite 30](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=30>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=30]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=30]]
+
+> [!ocr] Visuell transkribiert
+> Querformatige BPMN-2.0-Diagrammvorlage (Lückendiagramm) zu Aufgabe 3 (Sensofood-Logistik GmbH, vgl. Seite 29) aus Sichtprüfung transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+BGWP LF 6 – 1.6 Business Process Model and Notation (BPMN)
+Diagrammvorlage zu Aufgabe 3 (Sensofood-Logistik GmbH – Monitoring und Control System, vgl. Seite 29; unausgefüllte Lücken):
+
+Pool 1: Monitoring und Control System
+- Startereignis: „Störung aufgetreten“
+- -> Service-Task (Zahnräder): „Selbstentstörung durchführen“
+- -> XOR-Gateway (X):
+  - Zweig „Entstörung erfolgreich“:
+    -> Script-Task (Skript): „Vorfallszähler um 1 erhöhen“
+    -> Endereignis: „Störung behoben“
+  - Zweig „Entstörung nicht erfolgreich“:
+    -> [Lücke: Service-Task] -> Übergang zu Pool 2 (Zwischenereignis „Fahrer informiert“)
+- Fortsetzung aus Pool 2 („known error“):
+  -> [Lücke: Script-Task] -> [Lücke: Service-Task] -> Übergang zurück zu Pool 2 (XOR-Zusammenführung vor Manual-Task)
+- Fortsetzung aus Pool 2 („unknown error“, paralleler Dokumentationszweig):
+  -> [Lücke: Script-Task] -> Endereignis: „Störung behoben“
+
+Pool 2: Lkw-Fahrer
+- Zwischenereignis: „Fahrer informiert“
+- -> [Lücke: User-Task]
+- -> XOR-Gateway (X):
+  - Zweig „known error“ -> Übergang zu Pool 1 ([Lücke: Script-Task])
+  - Zweig „unknown error“:
+    -> [Lücke: User-Task]
+    -> Parallel-Gateway (+):
+       - Zweig 1 -> XOR-Zusammenführung (mit Rückfluss aus Pool 1 „known error“) -> [Lücke: Manual-Task] -> Endereignis: „Störung behoben“
+       - Zweig 2 -> [Lücke: Service-Task] -> Übergang zu Pool 1 ([Lücke: Script-Task] -> Endereignis „Störung behoben“)
+```

@@ -8,7 +8,7 @@
     {
       "name": "alle nicht-privaten Original-PDFs erfasst",
       "status": "pass",
-      "details": "Disk: 55; Audit: 55"
+      "details": "Disk: 56; Audit: 56"
     },
     {
       "name": "nicht-private Seitenbilanz konsistent",
@@ -17,7 +17,7 @@
     {
       "name": "alle aktiven Quellnotizen auditiert",
       "status": "pass",
-      "details": "Disk: 52; Audit: 52"
+      "details": "Disk: 53; Audit: 53"
     },
     {
       "name": "alle aktiven Seiten visuell geprüft",
@@ -42,22 +42,22 @@
     {
       "name": "kanonische Seitenbilanz konsistent",
       "status": "pass",
-      "details": "{\"evidence\"=>1226, \"support_only\"=>11, \"excluded\"=>119}"
+      "details": "{\"evidence\"=>1251, \"support_only\"=>11, \"excluded\"=>127}"
     },
     {
       "name": "Evidenzseiten gezählt",
       "status": "pass",
-      "details": "{\"evidence\"=>1226, \"support_only\"=>11, \"excluded\"=>119}"
+      "details": "{\"evidence\"=>1251, \"support_only\"=>11, \"excluded\"=>127}"
     },
     {
       "name": "Support-Seiten gezählt",
       "status": "pass",
-      "details": "{\"evidence\"=>1226, \"support_only\"=>11, \"excluded\"=>119}"
+      "details": "{\"evidence\"=>1251, \"support_only\"=>11, \"excluded\"=>127}"
     },
     {
       "name": "ausgeschlossene Seiten gezählt",
       "status": "pass",
-      "details": "{\"evidence\"=>1226, \"support_only\"=>11, \"excluded\"=>119}"
+      "details": "{\"evidence\"=>1251, \"support_only\"=>11, \"excluded\"=>127}"
     },
     {
       "name": "Ausschlüsse tragen keine Themen",
@@ -74,7 +74,7 @@
     {
       "name": "kanonische Themen vorhanden",
       "status": "pass",
-      "details": "Themen: 137"
+      "details": "Themen: 139"
     },
     {
       "name": "OCR-Korrekturen registriert",
@@ -97,7 +97,7 @@
     {
       "name": "alle und nur kanonische Themendateien vorhanden",
       "status": "pass",
-      "details": "Mapping: 137; Disk: 137"
+      "details": "Mapping: 139; Disk: 139"
     },
     {
       "name": "alle Themendateien visuell markiert",
@@ -144,7 +144,7 @@
     {
       "name": "Copilot-Dateiallowlist und Sicherheitsmodus gehärtet",
       "status": "pass",
-      "details": "Ist: 189; Soll: 189; fehlende Exclusions: []; Prompt aktiv: true"
+      "details": "Ist: 191; Soll: 191; fehlende Exclusions: []; Prompt aktiv: true"
     },
     {
       "name": "Manifest: geprüfte Themen primär",
@@ -186,7 +186,7 @@
     {
       "name": "alle nicht-privaten lokalen Referenzen auflösbar",
       "status": "pass",
-      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-11-24\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>610, \"wiki_links\"=>23491, \"local_markdown_links\"=>9418, \"unresolved\"=>0, \"failures\"=>[]}"
+      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-11-24\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>752, \"wiki_links\"=>24559, \"local_markdown_links\"=>9447, \"unresolved\"=>0, \"failures\"=>[]}"
     }
   ]
 }

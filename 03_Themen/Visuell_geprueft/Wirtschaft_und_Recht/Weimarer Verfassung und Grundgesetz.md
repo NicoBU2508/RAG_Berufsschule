@@ -2,8 +2,8 @@
 id: vault.thema.visuell.weimarer.verfassung.und.grundgesetz
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-23
-reviewed_on: 2026-11-23
+stand: 2026-11-24
+reviewed_on: 2026-11-24
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift\|PuG_2LJ_Mitschrift]] | [9, 11–14](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=9>) | aufgabe, loesung, theorie | 4 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift\|PuG_2LJ_Mitschrift]] | [9, 11–14](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=9>) | loesung, theorie | 4 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

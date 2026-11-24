@@ -195,6 +195,36 @@ Verwenden, sobald der Nutzer **eine Anschlussfrage zu einem bereits laufenden Th
 
 ---
 
+## Layout 8: Interaktiver Karteikarten-Modus (Vorderseite → Rückseite & Bewertung)
+
+Verwenden im **Karteikarten-Modus (Modus 7)**. **Immer genau 1 Karte pro Zug**, niemals die Rückseite vorab spoilern!
+
+**Schritt A – Vorderseite zeigen:**
+
+```markdown
+## 🗂️ Karte <N>/<Gesamt> · <Thema> *(Typ: <Definition | Abgrenzung | Anwendung | Prüfungsfalle>)*
+
+**<Klare, atomare Frage von der Vorderseite>**
+
+*Antworte kurz aus dem Kopf — oder schreib **„zeigen“** zum Aufdecken.*
+```
+
+**Schritt B – Nach Nutzerantwort (Rückseite + Bewertung):**
+
+```markdown
+## ✅ Rückseite · Karte <N>/<Gesamt>
+
+- 🟢 **Deine Antwort:** <Kurzes, präzises Feedback: was stimmt / was fehlte>
+- 🔵 **Musterantwort:** <Exakte Rückseite der Karteikarte>
+
+**Wie sicher warst du?** `1` 🔴 Nochmal · `2` 🟡 Schwer · `3` 🟢 Gut · `4` ⚡ Leicht *(oder direkt „weiter“)*
+
+---
+**Quellen:** **<Fach (Lehrjahr)>** · `<Dateiname.pdf>` · **S. <X> (von <N> Seiten)**
+```
+
+---
+
 ## Regeln für visuell perfekte & token-sparende Antworten (Checkliste)
 
 1. **Größere Schriftwirkung & klare Hierarchie:** Immer `#` (Haupttitel) und `##` (Sektionen) statt kleiner `###`/`####`-Überschriften verwenden; wichtige Begriffe in größeren Texten konsequent **fett** hervorheben.

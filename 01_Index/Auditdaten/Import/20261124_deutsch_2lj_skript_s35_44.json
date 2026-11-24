@@ -1,0 +1,241 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md (Seiten 35–44)",
+  "replaces_existing": true,
+  "topic_categories": {
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 35,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "Geschäftsmail"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Einträge in Tabelle 4.3 (Anrede) mit OCR-Fehler ('gechte') und AAAA-Platzhaltern im Rohtext; visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 36,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "Geschäftsmail"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 37,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "Geschäftsmail"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Einträge in Tabelle 4.7 (Grußformel) sowie eingebettetes Strukturschema (Anrede bis Grußformel mit Leerzeilen) im Rohtext unvollständig; visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 38,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "Geschäftsmail"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Enthält realistische dienstliche Lehrkraft-E-Mail-Adresse (bs1in.de) in Übung 1a; als sensitive markiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": true,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 39,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "Geschäftsmail"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Einträge im E-Mail-Kopf (An/Cc/Bcc/Betreff/Anrede) im Rohtext fehlerhaft erkannt; visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 40,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "Geschäftsmail"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 41,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "Geschäftsmail"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 42,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "leer",
+        "source_text_match": "ok",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Unausgefüllte Schreibvorlage (leere E-Mail-Maske und Zeilen 1–17 zu Übung 2 ohne Lerninhalt)",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 43,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "leer",
+        "source_text_match": "ok",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Unausgefüllte Schreibvorlage (leere liniierte Zeilen 18–39 zu Übung 2 ohne Lerninhalt)",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 44,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "leer",
+        "source_text_match": "ok",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Unausgefüllte Schreibvorlage (leere liniierte Zeilen 40–58 zu Übung 2 ohne Lerninhalt)",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    }
+  ]
+}

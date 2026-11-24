@@ -2,15 +2,15 @@
 id: vault.thema.visuell.geschaftsmail
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-23
-reviewed_on: 2026-11-23
+stand: 2026-11-24
+reviewed_on: 2026-11-24
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Geschäftsmail"
 kategorie: Deutsch_Englisch_Kommunikation
 quellen: 1
-seiten: 12
+seiten: 13
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript\|Deutsch_2LJ_Skript]] | [29–40](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=29>) | aufgabe, beispiel, theorie | 8 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript\|Deutsch_2LJ_Skript]] | [29–41](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=29>) | aufgabe, beispiel, theorie | 10 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

@@ -3,7 +3,7 @@ typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
 original_pfad: "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf"
-seiten: 29
+seiten: 37
 pruefung: "AP1, AP2"
 cssclasses:
   - lernquelle
@@ -12,23 +12,23 @@ tags:
   - quelle
   - itt_it_technik
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-24"
 kanonische_referenzen: true
 kanonische_themen: 6
-seiten_mit_kanonischem_thema: 27
-ki_exclude_seiten: [12,26]
+seiten_mit_kanonischem_thema: 31
+ki_exclude_seiten: [12,26,30,31,32,33]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 ki_support_seiten: [14]
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=10, ocr_verified=15, partial=2)"
-textzeichen: 22390
+textstatus: "gemischt: visuell geprüft (ok=10, ocr_verified=19, partial=2)"
+textzeichen: 29015
 ---
 # 📄 Einf Funktsw OSI 23-3
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
 > - **Original-PDF:** [Einf Funktsw OSI 23-3.pdf](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf>)
-> - **Seiten:** 29
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=10, ocr_verified=15, partial=2)
+> - **Seiten:** 37
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=10, ocr_verified=19, partial=2)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -37,8 +37,8 @@ textzeichen: 22390
 |---|---|---:|---|
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Binärzahlen\|Binärzahlen]] | Prüfungsrahmen der Quelle | 27 | Visuell bestätigt auf 1 Seite(n). |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Hexadezimalsystem\|Hexadezimalsystem]] | Prüfungsrahmen der Quelle | 27 | Visuell bestätigt auf 1 Seite(n). |
-| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Netzwerktechnik und Netzplan\|Netzwerktechnik und Netzplan]] | Prüfungsrahmen der Quelle | 1, 3–11, 13, 15–16, 19, 22, 24–25, 28 | Visuell bestätigt auf 18 Seite(n); bei 12 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/OSI-Schichtenmodell\|OSI-Schichtenmodell]] | Prüfungsrahmen der Quelle | 1, 3–6, 10–11, 13–25, 28–29 | Visuell bestätigt auf 22 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 14 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Netzwerktechnik und Netzplan\|Netzwerktechnik und Netzplan]] | Prüfungsrahmen der Quelle | 1, 3–11, 13, 15–16, 19, 22, 24–25, 28, 34–37 | Visuell bestätigt auf 22 Seite(n); bei 16 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/OSI-Schichtenmodell\|OSI-Schichtenmodell]] | Prüfungsrahmen der Quelle | 1, 3–6, 10–11, 13–25, 28–29, 34–37 | Visuell bestätigt auf 26 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 18 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/SI- und IEC-Dateneinheiten\|SI- und IEC-Dateneinheiten]] | Prüfungsrahmen der Quelle | 6–9 | Visuell bestätigt auf 4 Seite(n); bei 4 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Zeichencodierung und ASCII\|Zeichencodierung und ASCII]] | Prüfungsrahmen der Quelle | 2, 27 | Visuell bestätigt auf 2 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
@@ -917,3 +917,169 @@ Encapsulation, Header, Trailer, SDU und PDU durch entsprechende Beschriftung.
 ￼
 ```
 
+### Seite 30
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Unausgefüllte Arbeitsblatt-Vorlage (Seite 1/4); die vollständig ausgefüllte Version befindet sich auf Seite 34.. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 31
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Unausgefüllte Arbeitsblatt-Vorlage (Seite 2/4); die vollständig ausgefüllte Version befindet sich auf Seite 35.. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 32
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Unausgefüllte Arbeitsblatt-Vorlage (Seite 3/4); die vollständig ausgefüllte Version befindet sich auf Seite 36.. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 33
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Nahezu unausgefüllte Arbeitsblatt-Vorlage (Seite 4/4, nur kurze handschriftliche Notiz bei Aufgabe 11); die vollständig ausgefüllte Version inkl. dieser Notiz befindet sich auf Seite 37.. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 34
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Einf Funktsw OSI 23-3.pdf Seite 34](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=34>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=34]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=34]]
+
+> [!ocr] Visuell transkribiert
+> Text und Inhalte aus der visuellen Seitenprüfung verifiziert und bereinigt (verborgener weißer Vorlagentext entfernt, Fragen und Antworten sauber zugeordnet).
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Staatliche Berufsschule 1 Ingolstadt – Elektrotechnik/IT (24.11.2026, otma, Seite 1/4)
+Fach: ITS – Anwendungsschicht (engl. Application Layer)
+
+1. Erklären Sie kurz den Begriff Client-Server bezogen auf Netzwerkkommunikation!
+Ein Client (Dienstnehmer) sendet über ein Netzwerk Anfragen (Requests) an einen Server (Dienstgeber). Der Server verarbeitet diese Anfragen, stellt Dienste oder Ressourcen (z. B. Webseiten, Dateien, Datenbanken) bereit und sendet die Antwort (Response) zurück.
+
+2. Was versteht man unter einem Windows Dienst und wie heißt er unter Linux?
+Ein Windows-Dienst ist ein im Hintergrund laufendes Programm ohne Benutzeroberfläche, das automatisch beim Systemstart oder bei Bedarf gestartet wird und System- bzw. Netzwerkfunktionen bereitstellt. Unter Linux heißt ein solcher Hintergrunddienst Daemon (z. B. sshd, httpd).
+
+3. Erklären Sie kurz die Aufgabe eines…
+- DNS-Servers (und die folgenden Record-Typen: A, AAA, NS, CNAME und MS):
+  Löst lesbare Domainnamen (z. B. www.beispiel.de) in IP-Adressen auf und umgekehrt (Domain Name System).
+  • A-Record: Ordnet einem Domainnamen eine IPv4-Adresse zu.
+  • AAAA-Record (im Blatt: AAA): Ordnet einem Domainnamen eine IPv6-Adresse zu.
+  • NS-Record (Name Server): Benennt den zuständigen autoritativen DNS-Server für eine Domain.
+  • CNAME-Record (Canonical Name): Definiert einen Alias, der auf einen anderen Domainnamen verweist.
+  • MX-Record (Mail Exchange, im Blatt: MS): Legt den zuständigen Mailserver (inkl. Priorität) für den E-Mail-Empfang einer Domain fest.
+- DHCP-Servers:
+  Weist Clients im Netzwerk automatisch und dynamisch Netzwerkkonfigurationen zu (IP-Adresse, Subnetzmaske, Standardgateway und DNS-Server).
+- ssh-Servers:
+  Ermöglicht verschlüsselten, sicheren Fernzugriff (Remote-Login/Konsole) sowie sichere Datenübertragung über unsichere Netzwerke (Standardport TCP 22).
+```
+
+### Seite 35
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Einf Funktsw OSI 23-3.pdf Seite 35](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=35>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=35]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=35]]
+
+> [!ocr] Visuell transkribiert
+> Text und Inhalte aus der visuellen Seitenprüfung verifiziert und bereinigt (verborgener Vorlagentext entfernt, Schichten- und Protocol-Stack-Grafik strukturiert übertragen).
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Staatliche Berufsschule 1 Ingolstadt – Elektrotechnik/IT (24.11.2026, otma, Seite 2/4)
+Anwendungsschicht (engl. Application Layer)
+
+4. Weisen Sie den drei Schichten zugehörige Protokolle zu!
+- Schichten 5–7 (Protokolle der Anwendungsschicht): HTTP, HTTPS, DNS, DHCP, SMTP, POP3, IMAP4, FTP, SFTP, SSH, SMB/CIFS
+- Schicht 4 (Protokolle der Transportschicht): TCP, UDP
+- Schicht 3 (Protokolle der Netzwerkschicht): IP (IPv4, IPv6), ICMP, IPSec, ARP
+
+5. Erklären Sie kurz die Aufgabe folgender Protokolle:
+- SMTP: Simple Mail Transfer Protocol – dient zum Versenden von E-Mails vom Client zum Mailserver sowie zur Weiterleitung zwischen Mailservern (Standardport TCP 25 / 587).
+- POP3: Post Office Protocol v3 – dient zum Abrufen von E-Mails vom Mailserver; Nachrichten werden standardmäßig lokal heruntergeladen und auf dem Server gelöscht (TCP 110 / 995).
+- IMAP4: Internet Message Access Protocol v4 – verwaltet E-Mails direkt auf dem Mailserver; Ordner und Lesestatus werden über mehrere Endgeräte synchronisiert (TCP 143 / 993).
+
+6. Ergänzen Sie den Protocol Stack inkl. Portnummer für den links dargestellten Server (Webserver):
+- Anwendungsschicht: HTTP (Port 80) / HTTPS (Port 443)
+- Transportschicht: TCP
+- Internetschicht / Netzwerkschicht: IP (IPv4 / IPv6)
+- Netzzugangsschicht: Ethernet (IEEE 802.3)
+```
+
+### Seite 36
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Einf Funktsw OSI 23-3.pdf Seite 36](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=36>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=36]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=36]]
+
+> [!ocr] Visuell transkribiert
+> Text und Schaubilder (DHCP-Sequenzdiagramm und E-Mail-Architektur) aus der visuellen Seitenprüfung strukturiert übertragen.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Staatliche Berufsschule 1 Ingolstadt – Elektrotechnik/IT (24.11.2026, otma, Seite 3/4)
+Anwendungsschicht (engl. Application Layer)
+
+7. Zeichnen Sie den DHCP-Prozess (und Nachrichtenart?), der beim Einschalten eines Client-PCs abläuft!
+Sequenzdiagramm (DHCP-Client ↔ DHCP-Server):
+1. DHCP-Client → DHCP-Server: DHCPDISCOVER (Broadcast – Suche nach DHCP-Server)
+2. DHCP-Server → DHCP-Client: DHCPOFFER (Unicast / Broadcast – IP-Angebot)
+3. DHCP-Client → DHCP-Server: DHCPREQUEST (Broadcast – Annahme des Angebots)
+4. DHCP-Server → DHCP-Client: DHCPACK (Unicast / Broadcast – Bestätigung & Lease)
+
+8. Schreiben Sie die folgenden Abkürzungen aus und erklären Sie kurz deren Bedeutung und tragen Sie die Begriffe in das untere Schaubild ein:
+- MUA: Mail User Agent – E-Mail-Client (z. B. Outlook, Thunderbird, Webmail), mit dem der Benutzer E-Mails verfasst, versendet und liest.
+- MDA: Mail Delivery Agent – nimmt empfangene E-Mails vom MTA entgegen und stellt sie in das jeweilige Benutzerpostfach (Mailbox) zu.
+- MTA: Mail Transfer Agent – Mailserver-Dienst, der E-Mails entgegennimmt und über SMTP an den Ziel-Mailserver weiterleitet.
+
+Schaubild „E-mail Server - MDA“:
+- Sender-Client: MUA → (Send E-mail via SMTP) → Ausgangs-Mailserver: MTA
+- Ausgangs-Mailserver (MTA) → (Forward E-mail via SMTP) → Ziel-Mailserver: MTA + MDA
+- Ziel-Mailserver (MTA / MDA) → (Deliver E-mail via POP) → Empfänger-Client (Recipient): MUA
+Hinweis im Schaubild: „SMTP is used to forward e-mail. POP is used to deliver e-mail.“
+```
+
+### Seite 37
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Einf Funktsw OSI 23-3.pdf Seite 37](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=37>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=37]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=37]]
+
+> [!ocr] Visuell transkribiert
+> Text und Handschrift aus der visuellen Seitenprüfung verifiziert und als zusammengehörige Fragen und Antworten strukturiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Staatliche Berufsschule 1 Ingolstadt – Elektrotechnik/IT (24.11.2026, otma, Seite 4/4)
+Anwendungsschicht (engl. Application Layer)
+
+9. Erläutern Sie wofür und wie der Befehl nslookup verwendet wird!
+nslookup (Name Server Lookup) ist ein Kommandozeilen-Tool zur Abfrage von DNS-Servern und zur Diagnose von DNS-Problemen. Es löst Domainnamen in IP-Adressen auf (und umgekehrt). Verwendung in der Konsole: z. B. „nslookup www.beispiel.de“ oder gezielt nach Record-Typen mit „nslookup -type=MX beispiel.de“.
+
+10. Wofür wird SMB / CIFS verwendet und was bedeuten die Abkürzungen?
+SMB (Server Message Block) und CIFS (Common Internet File System, ältere SMB-Version) sind Netzwerkprotokolle für die Datei-, Ordner- und Druckerfreigabe im lokalen Netzwerk. Sie ermöglichen in Windows-Netzwerken sowie unter Linux (über Samba) den gemeinsamen Zugriff auf Netzwerkressourcen.
+
+11. Was ist SFTP(S)?
+- Handschriftliche Notiz: File Transfer Protocol überträgt Daten über IT-Netzwerke
+- Lösung: SFTP (SSH File Transfer Protocol) überträgt Dateien verschlüsselt über SSH (Port 22); FTPS nutzt FTP mit TLS/SSL.
+
+12. Welche Verbesserungen hat HTTP/2 eingeführt?
+• Binäres Protokoll: Daten werden binär statt als Klartext übertragen (schnelleres, fehlerfreieres Parsen).
+• Multiplexing: Mehrere Anfragen und Antworten laufen gleichzeitig über eine einzige TCP-Verbindung (beseitigt das Head-of-Line-Blocking auf HTTP-Ebene).
+• Header-Komprimierung (HPACK): Komprimiert wiederkehrende HTTP-Header und reduziert den Daten-Overhead.
+• Server Push: Der Server kann benötigte Ressourcen (z. B. CSS, JavaScript) proaktiv an den Client senden, noch bevor dieser sie explizit anfordert.
+• Stream-Priorisierung: Clients können festlegen, welche Ressourcen vorrangig übertragen werden sollen.
+• Höhere Geschwindigkeit & geringere Latenz: Durch weniger Verbindungsaufbauten und parallele Streams laden Webseiten deutlich schneller (in der Praxis meist kombiniert mit TLS/HTTPS).
+```

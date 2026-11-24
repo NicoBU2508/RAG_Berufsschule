@@ -3,7 +3,7 @@ typ: quelle
 fach: "PuG_Politik_und_Gesellschaft"
 fach_anzeige: "PuG Politik und Gesellschaft"
 original_pfad: "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf"
-seiten: 14
+seiten: 18
 pruefung: "AP1, WiSo"
 cssclasses:
   - lernquelle
@@ -12,27 +12,28 @@ tags:
   - quelle
   - pug_politik_und_gesellschaft
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-24"
 kanonische_referenzen: true
-kanonische_themen: 2
-seiten_mit_kanonischem_thema: 14
+kanonische_themen: 3
+seiten_mit_kanonischem_thema: 18
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=3, ocr_verified=11)"
-textzeichen: 20967
+textstatus: "gemischt: visuell geprüft (ok=5, ocr_verified=13)"
+textzeichen: 26450
 ---
 # 📄 PUG Mitschrift
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/PuG_Politik_und_Gesellschaft/PuG_Politik_und_Gesellschaft|PuG Politik und Gesellschaft]]
 > - **Original-PDF:** [PUG_Mitschrift.pdf](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf>)
-> - **Seiten:** 14
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=3, ocr_verified=11)
+> - **Seiten:** 18
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=5, ocr_verified=13)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
 
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
-| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte\|Grundgesetz Staatsprinzipien und Grundrechte]] | Prüfungsrahmen der Quelle | 1–10, 12–13 | Visuell bestätigt auf 12 Seite(n); bei 9 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte\|Grundgesetz Staatsprinzipien und Grundrechte]] | Prüfungsrahmen der Quelle | 1–10, 12–13, 15 | Visuell bestätigt auf 13 Seite(n); bei 10 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur\|Totalitäre Systeme und Diktatur]] | Prüfungsrahmen der Quelle | 14–18 | Visuell bestätigt auf 5 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Weimarer Verfassung und Grundgesetz\|Weimarer Verfassung und Grundgesetz]] | Prüfungsrahmen der Quelle | 9, 11–14 | Visuell bestätigt auf 5 Seite(n); bei 4 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
@@ -556,24 +557,210 @@ In der Weimarer Verfassung wurde es übersehen, für eine Einklagbarkeit der Gru
 > ![[99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=14]]
 
 > [!ocr] Visuell transkribiert
-> Handschriftlich ergänzte Zeitleiste (1933) aus Sichtprüfung den jeweiligen historischen Daten zugeordnet.
+> Handschriftliche Einträge zur Machtergreifung Adolf Hitlers aus Sichtprüfung bereinigt und den jeweiligen Stichpunkten zugeordnet.
 
 #### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
 PUG 11.1 – Staatsziele und Staatsordnung – Grundgesetz vs. Weimarer Verfassung
-… und ihre Folgen: Die Machtergreifung Adolf Hitlers (Arbeitsblatt, teilweise ausgefüllt)
+… und ihre Folgen
+Die Machtergreifung Adolf Hitlers
 
-- 30. Januar 1933: Reichskanzler ernannt
-- 01. Februar 1933: Neuwahlen Parlament
-- 04. Februar 1933: Pressefreiheit eingeschränkt
-- Schikane gegen: Gegner der NSDAP
-- 28. Februar 1933: (nicht ausgefüllt)
-- Propaganda: „Nur Hitler kann DE schützen“
-- Ermächtigungsgesetz: (nicht ausgefüllt) -> Beginn der Diktatur Hitler
-- Ab April 1933: Reichsstatthalter eingesetzt
-- Verbot anderer Parteien: (nicht ausgefüllt)
+- 30. Januar 1933: Hitler zum Reichskanzler ernannt
+- 01. Februar 1933: Notverordnung: Auflösung des Parlaments durch den Reichspräsidenten Paul von Hindenburg -> Neuwahlen
+- 04. Februar 1933: Einschränken von Presse- und Versammlungsfreiheit
+- Schikane gegen Gegner der NSDAP
+- 28. Februar 1933: Reichstagsbrandverordnung: Grundrechte werden außer Kraft gesetzt
+- Propaganda: Nur Hitler kann DE schützen
+- Ermächtigungsgesetz: Regierung kann ohne Parlament Gesetze erlassen -> Beginn der Diktatur Hitler
+- Länderparlamente werden aufgelöst
+- Ab April 1933: Verhaftung (politischer) Gegner in KZs
+- Verbot anderer Parteien: Einparteienstaat (Verbot aller anderen Parteien + Verbot von Partei-Neugründungen)
 
-Hinweis auf Lernvideo: Errichtung der NS-Diktatur | Nationalsozialismus | musstewissen Geschichte
+Die Infos zur Machtergreifung Adolf Hitlers gibt's im Video: Errichtung der NS-Diktatur | Nationalsozialismus | musstewissen Geschichte
+https://www.youtube.com/watch?v=CB7kYw60M1M
 ```
 
+### Seite 15
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [PUG_Mitschrift.pdf Seite 15](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=15>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=15]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=15]]
+
+> [!ocr] Visuell transkribiert
+> Eingebettete Grundgesetz-Kärtchen (Art. 1–5, 9 GG) und handschriftliche Punkte zur NS-Diktatur aus Sichtprüfung vollständig transkribiert und gegenübergestellt.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+PUG 11.1 – Staatsziele und Staatsordnung – Wertgebundenheit im GG
+Totalitäre Systeme – die Diktatur am Beispiel des nationalsozialistischen Dritten Reichs (1933 – 1945)
+
+Demokratie vs. Diktatur
+
+Demokratie (Grundrechte im GG):
+- Artikel 1: Schutz der Menschenwürde
+- Artikel 2: Freiheit der Person
+- Artikel 3: Gleichheit vor dem Gesetz
+- Artikel 4: Glaubens- und Gewissensfreiheit
+- Artikel 5: Freie Meinungsäußerung
+- Artikel 9: Vereinigungsfreiheit
+
+Machterwerb und Herrschaftsausübung (Demokratie):
+- Freie Wahlen
+- Volkssouveränität
+- Gewaltenteilung
+
+Diktatur (NS-Drittes Reich 1933–1945):
+- Ausgrenzung und Verfolgung von Juden, politischen Gegnern usw.
+- Kennzeichnungspflicht für Juden
+- Bestrafung bei Meinungsäußerung gegen Regime
+- Euthanasie: Ermordung kranker und behinderter Menschen
+- eigenes Reichsministerium für Propaganda
+- unmenschliche Lebens- und Arbeitsbedingungen in KZs (Vernichtungs- und/oder Arbeitslager)
+
+Machterwerb und Herrschaftsausübung (Diktatur):
+- seit 1933: keine regelmäßigen, geheimen und unabhängigen Wahlen
+- eine Person (= Diktatur) hat uneingeschränkte Macht -> Führer Adolf Hitler
+```
+
+### Seite 16
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [PUG_Mitschrift.pdf Seite 16](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=16>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=16]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=16]]
+
+> [!ocr] Visuell transkribiert
+> Handschriftliche Lückentext-Einträge zur DDR und Antworten zu Michael Gartenschläger aus Sichtprüfung bereinigt und zugeordnet.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+PUG 11.1 – Staatsziele und Staatsordnung – totalitäre Systeme
+Möchtest Du tauschen? – Jugend in der DDR –
+Wie geht es jungen Leuten in totalitären Staaten?
+
+1. Was weißt Du über die DDR?
+DDR = Deutsche Demokratische Republik
+Entstanden 1949 aus der sowjetischen Besatzungszone.
+Herrschende Partei: SED
+Herrschende Ideologie: Kommunismus / Sozialismus
+- Einwohnerzahlen (Mio.): 1949: 18,8 | 1961: 17,1 | 1989: 16,4
+- Volksaufstand am 17. Juni 1953
+- Mauerbau am 13.8.1961
+- Aus dem „Arbeiterparadies“ sind ca. 3,8 Mio. geflüchtet. Dabei starben ca. min. 140 („Mauertote“).
+
+Die Deutsche Demokratische Republik verstand sich formal als sozialistische Volksdemokratie, in der die politische Macht jedoch de facto von der Sozialistischen Einheitspartei Deutschlands (SED) ausgeübt wurde. Andere Parteien existierten nur formal und waren in der Nationalen Front mit der SED zusammengeschlossen, wodurch ein pluralistisches System nur auf dem Papier bestand.
+Gewaltenteilung gab es nicht; staatliche Organe wie Volkskammer, Ministerrat und Staatsrat waren eng mit der SED verbunden, sodass man von einer Parteidiktatur sprechen kann.
+
+2. Das kurze Leben des Michael Gartenschläger
+a) Wie alt war Michael, als er Probleme mit dem DDR-Staat bekam? 17 J.
+b) Welches Hobby war der Grund dafür? Rock'n Roll
+c) Warum war der 14.8.1961 ein einschneidendes Datum in Michaels Leben? Einstellen des Betriebes vom Rock'n'Roll Club
+d) Was haben Michael und seine Freunde getan, um ihrem Ärger Luft zu machen und Veränderungen zu erreichen? Parolen verbreitet und Brandstiftung an einer Scheune
+e) Wie lautete das Gerichtsurteil dafür? (offen / nicht ausgefüllt)
+```
+
+### Seite 17
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [PUG_Mitschrift.pdf Seite 17](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=17>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=17]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=17]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+PUG
+11.1
+Staatsziele und Staatsordnung – totalitäre
+Systeme
+Klasse:
+Datum:
+3. Fluchtversuche aus der DDR – Mut, Verzweiflung und Freiheit
+1. Die Ballonflucht (1979)
+• Wer? Die Familien Strelzyk und Wetzel.
+• Wie? Sie nähten heimlich einen
+Heißluftballon aus über 1.200 m² Stoff.
+• Ergebnis: Nach einem gescheiterten
+Versuch gelang ihnen am 16. September 1979 die Flucht nach Bayern.
+2. Peter Fechter (1962)
+• Wer? Der 18-jährige Maurer Peter Fechter.
+• Wie? Er wollte mit einem Freund über die
+Berliner Mauer fliehen.
+• Ergebnis: DDR-Grenzsoldaten schossen auf ihn.
+Er verblutete im Todesstreifen, ohne Hilfe zu
+erhalten.
+• Bedeutung: Sein Tod löste weltweit Empörung
+aus und machte die Brutalität des
+Grenzregimes sichtbar.
+3. Wolfgang Engels (1963)
+• Wer? Wolfgang Engels, Soldat der Nationalen
+Volksarmee.
+• Wie? Er entwendete einen Schützenpanzer
+und rammte die Berliner Mauer.
+• Ergebnis: Er wurde angeschossen, konnte aber
+mit Hilfe von West-Berlinern gerettet werden.
+￼
+￼
+￼
+￼
+```
+
+### Seite 18
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [PUG_Mitschrift.pdf Seite 18](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=18>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=18]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=18]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+PUG
+11.1
+Staatsziele und Staatsordnung – totalitäre
+Systeme
+Klasse:
+Datum:
+4. Peter Döbler (1971)
+• Wer? Peter Döbler, ein Leistungsschwimmer.
+• Wie? Er schwamm über 45 Kilometer durch die
+Ostsee nach Schleswig-Holstein.
+• Ergebnis: Nach mehr als 20 Stunden erreichte er
+erschöpft die Bundesrepublik.
+5. Michael Gartenschläger (1976) – Rückkehr an die Grenze
+• Wer? Michael Gartenschläger, ehemaliger DDR-Häftling.
+• Was geschah? Nach seiner Freilassung in den Westen kehrte er heimlich
+an die Grenze zurück und baute zwei Selbstschussanlagen (SM-70) ab,
+um ihre Existenz zu beweisen.
+• Ergebnis: Bei einem weiteren
+Versuch wurde er 1976 von einem Stasi-
+Spezialkommando erschossen.
+• Besonderheit: Er wollte nicht
+fliehen, sondern die Welt über die
+Grenzanlagen informieren.
+Zwischen 1949 und 1989 versuchten viele Menschen, aus der DDR in die
+Bundesrepublik Deutschland zu fliehen. Die Gründe waren unterschiedlich:
+fehlende Freiheit, politische Verfolgung, Reiseverbote oder der Wunsch nach
+einem selbstbestimmten Leben.
+Die Flucht war lebensgefährlich. Die Grenze war mit Zäunen, Minen,
+Wachtürmen, Grenzsoldaten und später sogar Selbstschussanlagen gesichert.
+Viele Menschen wurden bei Fluchtversuchen verletzt oder getötet.
+Aufgaben:
+1. Warum waren viele Menschen bereit, bei einer Flucht aus der DDR ihr
+Leben zu riskieren?
+2. Welche Geschichte beeindruckt dich am meisten? Begründe!
+￼
+￼
+```

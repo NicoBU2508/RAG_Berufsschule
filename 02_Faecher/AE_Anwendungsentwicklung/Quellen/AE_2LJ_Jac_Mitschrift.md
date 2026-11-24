@@ -3,7 +3,7 @@ typ: quelle
 fach: "AE_Anwendungsentwicklung"
 fach_anzeige: "AE Anwendungsentwicklung"
 original_pfad: "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf"
-seiten: 17
+seiten: 19
 pruefung: "AP1, AP2"
 cssclasses:
   - lernquelle
@@ -12,21 +12,21 @@ tags:
   - quelle
   - ae_anwendungsentwicklung
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-24"
 kanonische_referenzen: true
 kanonische_themen: 4
-seiten_mit_kanonischem_thema: 17
+seiten_mit_kanonischem_thema: 19
 ki_support_seiten: [9]
 lernstatus: "aktiv"
-textstatus: "eingeschränkt: visuell geprüft (ocr_verified=17)"
-textzeichen: 25640
+textstatus: "eingeschränkt: visuell geprüft (ocr_verified=19)"
+textzeichen: 28567
 ---
 # 📄 AE jac Mitschrift
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/AE_Anwendungsentwicklung/AE_Anwendungsentwicklung|AE Anwendungsentwicklung]]
 > - **Original-PDF:** [AE_jac_Mitschrift.pdf](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf>)
-> - **Seiten:** 17
-> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=17)
+> - **Seiten:** 19
+> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=19)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -36,7 +36,7 @@ textzeichen: 25640
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Methoden Parameter und Rückgabewerte\|Methoden, Parameter und Rückgabewerte]] | Prüfungsrahmen der Quelle | 3 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Objektorientierung\|Objektorientierung]] | Prüfungsrahmen der Quelle | 1–4, 10–11 | Visuell bestätigt auf 6 Seite(n); bei 6 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwarelebenszyklus und Vorgehensmodelle\|Softwarelebenszyklus und Vorgehensmodelle]] | Prüfungsrahmen der Quelle | 1 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/UML-Diagramme\|UML-Diagramme]] | Prüfungsrahmen der Quelle | 1–17 | Visuell bestätigt auf 17 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 17 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/UML-Diagramme\|UML-Diagramme]] | Prüfungsrahmen der Quelle | 1–19 | Visuell bestätigt auf 19 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 19 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
 
@@ -794,3 +794,97 @@ Handschriftliches UML-Zustandsdiagramm (Rahmen: Lichtmaschine / Ampelschaltung):
 - Rot --(/Sekunden = 45)--> Zustand „Grün“
 ```
 
+### Seite 18
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [AE_jac_Mitschrift.pdf Seite 18](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=18>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=18]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=18]]
+
+> [!ocr] Visuell transkribiert
+> Der folgende Text wurde bei der visuellen Seitenprüfung direkt aus der gerenderten PDF-Seite erfasst. Die eingebettete Originalseite bleibt die verbindliche Referenz.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+UML: Übung (IT => 9_6_AE_UML__Zustands_D_UE_Fehler_sus=> Schueler, Seite 1)
+
+1 Zustandsdiagramm Fallbeispiel
+Das folgende Beispiel enthält häufige Fehler, die bei Zustandsdiagrammen gemacht werden.
+Die Fehler sind mit den Buchstaben A-I bezeichnet.
+
+Fehlerhaftes Zustandsdiagramm „sm Geldautomat“ mit markierten Fehlerstellen A–I:
+- A: Zwei Startzustände (Start -> Ruhe oben und ein zweiter Start-Pseudozustand links neben Kartenauswurf).
+- B: Endzustand „Ende“ hat eine ausgehende Transition (Ende -> Kartenauswurf).
+- C: Eine Transition zeigt in den linken Startzustand hinein (von Kartenauswurf zurück in Start).
+- D: Die ausgehende Transition vom oberen Startzustand zu „Ruhe“ besitzt eine Bedingung/Guard ([eingeschaltet]).
+- E: Zustand „Karteneinzug“ (entry / Karte einziehen; exit / Einzug bestaetigen) hat keine ausgehende Transition (kein Ausgang).
+- F: Bei der Entscheidung (Raute) nach „PIN eingegeben / versuch++“ überlappen sich die Guards links ([PIN falsch && versuch >= 3] -> Karteneinzug) und rechts ([PIN falsch] -> zurück zu PIN-Eingabe); außerdem [PIN korrekt] -> Betragauswahl.
+- G: Aus dem Zustand „Betragauswahl“ (entry / Auswahl anzeigen) führen zwei Transitionen mit dem identischen Ereignis „Abbruch“ heraus (einmal zu Kartenauswurf, einmal zu Karteneinzug).
+- H: Am Zustand „Kartenentnahme“ (entry / Karte auswerfen) ist links ein eckiges Kästchen mit Pfeil als fehlerhaftes/unbenanntes Übergangs- bzw. Zustandssymbol angebracht.
+- I: Am einfachen Zustand „Auszahlung“ (do / Betrag auszahlen) ist ein Eintrittspunkt-Symbol (kleiner leerer Kreis am Rand) für die Transition „Karte entnommen“ angebracht.
+
+Weitere Elemente im Diagramm:
+- Ruhe --(Aus-Schalter betaetigt)--> Ende
+- Ruhe --(Karte eingefuehrt)--> Unterzustandsautomatenzustand „Kartenpruefung : Pruefung“ -> Kreuzung:
+  - [else] -> Kartenauswurf (do / Karte auswerfen) --(Karte entnommen)--> Ruhe
+  - [Pruefung bestanden] / versuch=0 -> PIN-Eingabe (entry / Eingabemaske anzeigen)
+- PIN-Eingabe --(Abbruch)--> Kartenauswurf
+- Betragauswahl --(Betrag ausgewaehlt / Betrag abbuchen)--> Kartenentnahme
+- Auszahlung -> Ruhe
+
+1.1 Aufgabe
+Beschreiben Sie stichpunktartig, welcher Fehler jeweils gemacht wurde.
+```
+
+### Seite 19
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [AE_jac_Mitschrift.pdf Seite 19](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=19>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=19]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=19]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+↭
+↭
+↭
+↭
+↭
+↭
+↭
+↭
+↭
+↭
+Nur 1 Startpunkt
+das Ende einen ausgang hat
+geht in Start
+darf keine Bedingung haben auf Startzustand
+Kein Ausgang
+links wird nie benutzt weil wen Falsch immer
+ins Rechte
+Aus dem gleichen Zustand dürfen keine gleichen Bedingungen
+raus
+```
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+UML: Übung (IT => 9_6_AE_UML__Zustands_D_UE_Fehler_sus=> Schueler, Seite 2)
+
+Handschriftliche Lösungen zur Fehleranalyse im Zustandsdiagramm „sm Geldautomat“ (A–I):
+- A: Nur 1 Startpunkt
+- B: das Ende einen ausgang hat
+- C: geht in Start
+- D: darf keine Bedingung haben auf Startzustand
+- E: Kein Ausgang
+- F: links wird nie benutzt weil wen Falsch immer ins Rechte
+- G: Aus dem gleichen Zustand dürfen keine gleichen Bedingungen raus
+- H: (nicht ausgefüllt)
+- I: (nicht ausgefüllt)
+```

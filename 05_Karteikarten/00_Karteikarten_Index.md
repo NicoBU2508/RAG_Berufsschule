@@ -1,187 +1,192 @@
 ---
 typ: karteikarten_index
+stand: 2026-11-24
+rag_include: false
+canonical_evidence: false
 ---
-# Karteikarten Index
+# 🗂️ Karteikarten Index
 
-> [!tip] Hinweis
-> Karteikarten werden aus Themen und später aus Altklausurfehlern gebildet. Format ist bewusst schlicht, damit es mit Obsidian/Anki-Workflows kompatibel bleibt.
+> [!tip] Single Source of Truth
+> Alle Karteikarten unter `05_Karteikarten/` basieren ausschließlich auf den **visuell geprüften Themen** (`03_Themen/Visuell_geprueft/`). Sie funktionieren direkt mit **Obsidian Spaced Repetition**, dem **Antigravity Karteikarten-Modus** sowie per Export mit **Anki** und **NotebookLM**.
 
-## Manuelle Startpunkte
+## Überblick (Stand 2026-11-24)
 
-Diese Liste ist nur Navigation, keine Karteikartenquelle. Lernkarten stehen in den verlinkten Lernmodulen und müssen dort auf konkrete Originalquellen zeigen.
+- **Aktive Decks:** **139** von **139** kanonischen Themen (**860** Karten gesamt)
+- **Aktuell:** 139 · **Update nötig (neue PDF-Seiten):** 0 · **Noch ohne Deck:** 0
 
-- [[EVA Prinzip]]
-- [[Algorithmus]]
-- [[Java Grundlagen]]
-- [[IT Sicherheit]]
-- [[Netzwerkgrundlagen]]
-- [[Betriebswirtschaft BGWP]]
-- [[02_Faecher/Deutsch/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot|Geschäftsbrief]]
+### Schnellbefehle
 
-## Projektweite Kartenquellen
+```bash
+ruby 01_Index/Tools/sync_karteikarten.rb status --pending
+ruby 01_Index/Tools/sync_karteikarten.rb export-anki
+ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm
+```
 
-<!-- BEGIN AUTO_KARTEIKARTEN_INDEX -->
+## Aktive Karteikarten-Decks
 
-> [!info] Automatisch gepflegt
-> Diese Liste verweist nur auf Lernmodule, deren Karteikarten aus konkreten Originalquellen/OCR-Auszügen gebildet wurden. Stand: 2026-06-19.
+### Anwendungsentwicklung
 
-- Module mit quellenbasierten Karten: **104**
-- Module ohne Karten wegen fehlender/zu schwacher Quelle: **25**
-- Quellenbasierte Karten gesamt: **683**
+- [[05_Karteikarten/Anwendungsentwicklung/Algorithmus|Algorithmus]] — **7 Karten** (25 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Arrays und Datenstrukturen|Arrays und Datenstrukturen]] — **6 Karten** (25 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Barrierefreies Arbeiten und digitale Barrierefreiheit|Barrierefreies Arbeiten und digitale Barrierefreiheit]] — **6 Karten** (5 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Datenbankgrundlagen und Datenbankentwicklung|Datenbankgrundlagen und Datenbankentwicklung]] — **6 Karten** (18 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell|Datenbankmodellierung und ER-Modell]] — **10 Karten** (34 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Datenherkunft und Informationsbeschaffung|Datenherkunft und Informationsbeschaffung]] — **4 Karten** (2 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Entwicklungswerkzeuge und Debugging|Entwicklungswerkzeuge und Debugging]] — **6 Karten** (76 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/EVA-Prinzip|EVA-Prinzip]] — **5 Karten** (5 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Java-Grundlagen|Java-Grundlagen]] — **6 Karten** (75 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Methoden Parameter und Rückgabewerte|Methoden, Parameter und Rückgabewerte]] — **7 Karten** (39 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Objektorientierung|Objektorientierung]] — **7 Karten** (59 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Operatoren und Bedingungen|Operatoren und Bedingungen]] — **7 Karten** (58 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Power Apps und Power Automate|Power Apps und Power Automate]] — **4 Karten** (2 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Programm und Software|Programm und Software]] — **6 Karten** (13 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Programmablaufdarstellungen|Programmablaufdarstellungen]] — **6 Karten** (20 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Programmiersprachen und Übersetzer|Programmiersprachen und Übersetzer]] — **6 Karten** (35 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Python-Grundlagen|Python-Grundlagen]] — **6 Karten** (34 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Rekursion und Iteration|Rekursion und Iteration]] — **5 Karten** (4 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Schleifen|Schleifen]] — **7 Karten** (30 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Softwareanpassung und Dokumentation|Softwareanpassung und Dokumentation]] — **6 Karten** (9 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Softwarelebenszyklus und Vorgehensmodelle|Softwarelebenszyklus und Vorgehensmodelle]] — **6 Karten** (15 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Softwarequalität und Wartbarkeit|Softwarequalität und Wartbarkeit]] — **6 Karten** (8 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Softwaretest und Testverfahren|Softwaretest und Testverfahren]] — **7 Karten** (6 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/SQL-Aggregatfunktionen und Gruppierung|SQL-Aggregatfunktionen und Gruppierung]] — **7 Karten** (14 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/SQL-Datenmanipulation INSERT UPDATE DELETE|SQL-Datenmanipulation INSERT UPDATE DELETE]] — **6 Karten** (16 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/SQL-Grundlagen und SELECT-Abfragen|SQL-Grundlagen und SELECT-Abfragen]] — **7 Karten** (33 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Suchalgorithmen|Suchalgorithmen]] — **4 Karten** (2 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/UML-Diagramme|UML-Diagramme]] — **9 Karten** (20 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Unternehmenswiki|Unternehmenswiki]] — **6 Karten** (197 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Variablen und Datentypen|Variablen und Datentypen]] — **6 Karten** (82 Quellseiten · 🟢 aktuell)
 
-### AE Anwendungsentwicklung
+### IT-Technik und Sicherheit
 
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Algorithmus und Programmablauf/00_Algorithmus und Programmablauf.md#🗂️ Karteikarten|Algorithmus und Programmablauf]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Arrays und Sammlungen/00_Arrays und Sammlungen.md#🗂️ Karteikarten|Arrays und Sammlungen]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md#🗂️ Karteikarten|Aufgaben Übungen und Lösungen]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Dokumentation Installation und Anpassung/00_Dokumentation Installation und Anpassung.md#🗂️ Karteikarten|Dokumentation Installation und Anpassung]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/EVA Prinzip/00_EVA Prinzip.md#🗂️ Karteikarten|EVA Prinzip]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Java Grundlagen und IDE/00_Java Grundlagen und IDE.md#🗂️ Karteikarten|Java Grundlagen und IDE]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Klassen Objekte Attribute/00_Klassen Objekte Attribute.md#🗂️ Karteikarten|Klassen Objekte Attribute]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Methoden Parameter Rueckgabewerte/00_Methoden Parameter Rueckgabewerte.md#🗂️ Karteikarten|Methoden Parameter Rückgabewerte]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Operatoren und Bedingungen/00_Operatoren und Bedingungen.md#🗂️ Karteikarten|Operatoren und Bedingungen]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Programm und Software/00_Programm und Software.md#🗂️ Karteikarten|Programm und Software]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Programmiersprachen und Uebersetzer/00_Programmiersprachen und Uebersetzer.md#🗂️ Karteikarten|Programmiersprachen und Übersetzer]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Scanner Random Benutzereingaben/00_Scanner Random Benutzereingaben.md#🗂️ Karteikarten|Scanner Random Benutzereingaben]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Schleifen/00_Schleifen.md#🗂️ Karteikarten|Schleifen]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Softwareentwicklung Vorgehensmodelle Scrum V-Modell/00_Softwareentwicklung Vorgehensmodelle Scrum V-Modell.md#🗂️ Karteikarten|Softwareentwicklung Vorgehensmodelle Scrum V-Modell]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Softwarequalitaet Wartbarkeit Usability/00_Softwarequalitaet Wartbarkeit Usability.md#🗂️ Karteikarten|Softwarequalität Wartbarkeit Usability]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Syntax und Code-Struktur/00_Syntax und Code-Struktur.md#🗂️ Karteikarten|Syntax und Code-Struktur]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Unternehmenswiki/00_Unternehmenswiki.md#🗂️ Karteikarten|Unternehmenswiki]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Unternehmenswiki Projektaufgaben/00_Unternehmenswiki Projektaufgaben.md#🗂️ Karteikarten|Unternehmenswiki Projektaufgaben]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Variablen und Datentypen/00_Variablen und Datentypen.md#🗂️ Karteikarten|Variablen und Datentypen]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Werkzeuge Debugging und IDE/00_Werkzeuge Debugging und IDE.md#🗂️ Karteikarten|Werkzeuge Debugging und IDE]]
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Backup und Datensicherung|Backup und Datensicherung]] — **7 Karten** (9 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Binärzahlen|Binärzahlen]] — **6 Karten** (7 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/BSI-Modellierung|BSI-Modellierung]] — **7 Karten** (24 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Computergrundbegriffe|Computergrundbegriffe]] — **4 Karten** (2 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Cyberphysische Systeme und Automatisierungspyramide|Cyberphysische Systeme und Automatisierungspyramide]] — **7 Karten** (18 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Datenschutz und Rollen|Datenschutz und Rollen]] — **6 Karten** (5 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Digitaltechnik und Logikschaltungen|Digitaltechnik und Logikschaltungen]] — **6 Karten** (9 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Exchange- und Outlook-Sicherheit|Exchange- und Outlook-Sicherheit]] — **6 Karten** (3 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Hexadezimalsystem|Hexadezimalsystem]] — **6 Karten** (3 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Hochverfügbarkeit und Redundanz|Hochverfügbarkeit und Redundanz]] — **8 Karten** (14 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting|IPv4-Adressierung und Subnetting]] — **10 Karten** (22 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/IT-Sicherheit Grundlagen|IT-Sicherheit Grundlagen]] — **6 Karten** (11 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Kryptografie Hash und Signatur|Kryptografie, Hash und Signatur]] — **7 Karten** (20 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Künstliche Intelligenz und Prompting|Künstliche Intelligenz und Prompting]] — **4 Karten** (1 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Malware und Angriffe|Malware und Angriffe]] — **7 Karten** (21 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Mobile Sicherheit|Mobile Sicherheit]] — **6 Karten** (3 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Netzwerktechnik und Netzplan|Netzwerktechnik und Netzplan]] — **11 Karten** (40 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Node-RED und IoT-Flows|Node-RED und IoT-Flows]] — **5 Karten** (3 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/OSI-Schichtenmodell|OSI-Schichtenmodell]] — **11 Karten** (28 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Physische Sicherheit und Infrastruktur|Physische Sicherheit und Infrastruktur]] — **7 Karten** (20 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/RAID-Systeme|RAID-Systeme]] — **7 Karten** (5 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Risikoanalyse|Risikoanalyse]] — **6 Karten** (10 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Schutzbedarfsfeststellung|Schutzbedarfsfeststellung]] — **7 Karten** (8 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/SI- und IEC-Dateneinheiten|SI- und IEC-Dateneinheiten]] — **6 Karten** (8 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Sicherheitsmanagement und ISMS|Sicherheitsmanagement und ISMS]] — **6 Karten** (8 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Sicherheitsmanagement und Maßnahmen|Sicherheitsmanagement und Maßnahmen]] — **6 Karten** (9 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Strukturanalyse und Informationsverbund|Strukturanalyse und Informationsverbund]] — **7 Karten** (12 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Umsetzungsplanung|Umsetzungsplanung]] — **6 Karten** (4 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Zeichencodierung und ASCII|Zeichencodierung und ASCII]] — **6 Karten** (4 Quellseiten · 🟢 aktuell)
 
-### Allgemein Berufsschule
+### Wirtschaft und Recht
 
-- [[02_Faecher/Allgemein_Berufsschule/10_Lernordner/IT Sicherheit Ueberblick/00_IT Sicherheit Ueberblick.md#🗂️ Karteikarten|IT Sicherheit Überblick]]
-- [[02_Faecher/Allgemein_Berufsschule/10_Lernordner/Ransomware und Malware/00_Ransomware und Malware.md#🗂️ Karteikarten|Ransomware und Malware]]
+- [[05_Karteikarten/Wirtschaft_und_Recht/Angebotsvergleich und Nutzwertanalyse|Angebotsvergleich und Nutzwertanalyse]] — **6 Karten** (21 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Ausbildungsvertrag und BBiG|Ausbildungsvertrag und BBiG]] — **6 Karten** (5 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Beschaffungsquellen und Stammdaten|Beschaffungsquellen und Stammdaten]] — **6 Karten** (8 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Besitz Eigentum und Rechtssubjekte|Besitz, Eigentum und Rechtssubjekte]] — **6 Karten** (3 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Betrieb und Unternehmen|Betrieb und Unternehmen]] — **7 Karten** (8 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Betriebsrat und Betriebsverfassung|Betriebsrat und Betriebsverfassung]] — **6 Karten** (5 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Bezugskalkulation und Verkaufskalkulation|Bezugskalkulation und Verkaufskalkulation]] — **6 Karten** (14 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Bundesurlaubsgesetz|Bundesurlaubsgesetz]] — **6 Karten** (3 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Business Process Model and Notation BPMN|Business Process Model and Notation BPMN]] — **6 Karten** (8 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Deckungsbeitrag und Gewinnschwelle|Deckungsbeitrag und Gewinnschwelle]] — **7 Karten** (7 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Direkter und indirekter Vertrieb|Direkter und indirekter Vertrieb]] — **4 Karten** (2 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Ereignisgesteuerte Prozessketten EPK|Ereignisgesteuerte Prozessketten EPK]] — **6 Karten** (16 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Gemeinnützige Organisationen|Gemeinnützige Organisationen]] — **6 Karten** (4 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte|Grundgesetz Staatsprinzipien und Grundrechte]] — **9 Karten** (13 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Jugendarbeitsschutz|Jugendarbeitsschutz]] — **6 Karten** (4 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Kaufvertrag und Geschäftsfähigkeit|Kaufvertrag und Geschäftsfähigkeit]] — **7 Karten** (12 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Kündigung und Arbeitsrecht|Kündigung und Arbeitsrecht]] — **7 Karten** (12 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Lohn- und Gehaltsabrechnung|Lohn- und Gehaltsabrechnung]] — **6 Karten** (6 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Marktumfeld und Marktformen|Marktumfeld und Marktformen]] — **6 Karten** (19 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Mutterschutz|Mutterschutz]] — **5 Karten** (3 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Organisation im Betrieb|Organisation im Betrieb]] — **7 Karten** (39 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Personalwirtschaft und Personalentwicklung|Personalwirtschaft und Personalentwicklung]] — **6 Karten** (3 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Produktionsfaktoren|Produktionsfaktoren]] — **6 Karten** (3 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Projektplanung und Netzplanmethode|Projektplanung und Netzplanmethode]] — **6 Karten** (23 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Prozessmanagement und Geschäftsprozesse|Prozessmanagement und Geschäftsprozesse]] — **7 Karten** (7 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Rechtsformen|Rechtsformen]] — **6 Karten** (19 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Schwerbehinderung|Schwerbehinderung]] — **6 Karten** (3 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Sozialversicherung|Sozialversicherung]] — **6 Karten** (10 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Tarifvertrag und Koalitionsrecht|Tarifvertrag und Koalitionsrecht]] — **7 Karten** (4 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur|Totalitäre Systeme und Diktatur]] — **5 Karten** (5 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Unternehmensrecht Handelsregister Vollmachten|Unternehmensrecht Handelsregister Vollmachten]] — **7 Karten** (13 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Unternehmensziele|Unternehmensziele]] — **6 Karten** (10 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Urheberrecht|Urheberrecht]] — **6 Karten** (7 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Weimarer Verfassung und Grundgesetz|Weimarer Verfassung und Grundgesetz]] — **6 Karten** (5 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Wettbewerbsrecht und Unternehmenszusammenschlüsse|Wettbewerbsrecht und Unternehmenszusammenschlüsse]] — **7 Karten** (9 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Wirtschaftlichkeit und Rechnungswesen|Wirtschaftlichkeit und Rechnungswesen]] — **7 Karten** (7 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Wirtschaftssektoren|Wirtschaftssektoren]] — **5 Karten** (4 Quellseiten · 🟢 aktuell)
 
-### BGWP Betriebswirtschaft
+### Elektrotechnik
 
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Angebotsvergleich und Bezugskalkulation/00_Angebotsvergleich und Bezugskalkulation.md#🗂️ Karteikarten|Angebotsvergleich und Bezugskalkulation]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md#🗂️ Karteikarten|Aufgaben Übungen und Lösungen]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen.md#🗂️ Karteikarten|Betrieb und Unternehmen]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Betriebswirtschaft BGWP/00_Betriebswirtschaft BGWP.md#🗂️ Karteikarten|Betriebswirtschaft BGWP]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot.md#🗂️ Karteikarten|Geschäftsbrief Anfrage Angebot]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Kaufvertrag und Rechtsgeschaefte/00_Kaufvertrag und Rechtsgeschaefte.md#🗂️ Karteikarten|Kaufvertrag und Rechtsgeschäfte]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Marktumfeld und Marktformen/00_Marktumfeld und Marktformen.md#🗂️ Karteikarten|Marktumfeld und Marktformen]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Materialwirtschaft und Beschaffung/00_Materialwirtschaft und Beschaffung.md#🗂️ Karteikarten|Materialwirtschaft und Beschaffung]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Organigramm und Liniensysteme/00_Organigramm und Liniensysteme.md#🗂️ Karteikarten|Organigramm und Liniensysteme]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Organisation im Betrieb/00_Organisation im Betrieb.md#🗂️ Karteikarten|Organisation im Betrieb]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Personalwirtschaft/00_Personalwirtschaft.md#🗂️ Karteikarten|Personalwirtschaft]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Produktionsfaktoren/00_Produktionsfaktoren.md#🗂️ Karteikarten|Produktionsfaktoren]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Projektplanung und Netzplanmethode/00_Projektplanung und Netzplanmethode.md#🗂️ Karteikarten|Projektplanung und Netzplanmethode]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Rechtsformen/00_Rechtsformen.md#🗂️ Karteikarten|Rechtsformen]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Unternehmen und betriebliche Funktionen/00_Unternehmen und betriebliche Funktionen.md#🗂️ Karteikarten|Unternehmen und betriebliche Funktionen]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Unternehmensrecht Handelsregister Vollmachten/00_Unternehmensrecht Handelsregister Vollmachten.md#🗂️ Karteikarten|Unternehmensrecht Handelsregister Vollmachten]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Unternehmensziele/00_Unternehmensziele.md#🗂️ Karteikarten|Unternehmensziele]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Wirtschaftlichkeit und Rechnungswesen/00_Wirtschaftlichkeit und Rechnungswesen.md#🗂️ Karteikarten|Wirtschaftlichkeit und Rechnungswesen]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Wirtschaftssektoren/00_Wirtschaftssektoren.md#🗂️ Karteikarten|Wirtschaftssektoren]]
+- [[05_Karteikarten/Elektrotechnik/Elektrische Arbeit und Energiekosten|Elektrische Arbeit und Energiekosten]] — **6 Karten** (13 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Elektrotechnik/Elektrische Ladung|Elektrische Ladung]] — **6 Karten** (6 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Elektrotechnik/Elektrische Leistung|Elektrische Leistung]] — **7 Karten** (18 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Elektrotechnik/Elektrische Sicherheit und Erste Hilfe|Elektrische Sicherheit und Erste Hilfe]] — **6 Karten** (3 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Elektrotechnik/Elektrischer Strom und Messtechnik|Elektrischer Strom und Messtechnik]] — **6 Karten** (5 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Elektrotechnik/Elektrotechnik-Rechenmethoden|Elektrotechnik-Rechenmethoden]] — **6 Karten** (13 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Elektrotechnik/Gefahren des elektrischen Stroms|Gefahren des elektrischen Stroms]] — **6 Karten** (10 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Elektrotechnik/Netzteil|Netzteil]] — **6 Karten** (7 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Elektrotechnik/Netzteil-Wirkungsgrad und 80 PLUS|Netzteil-Wirkungsgrad und 80 PLUS]] — **6 Karten** (15 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand|Ohmsches Gesetz und Leiterwiderstand]] — **6 Karten** (10 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen|Reihen-, Parallel- und Gruppenschaltungen]] — **6 Karten** (14 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Elektrotechnik/SI-Vorsätze und Einheitenumrechnung|SI-Vorsätze und Einheitenumrechnung]] — **6 Karten** (3 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Elektrotechnik/Spannung Strom und Widerstand|Spannung, Strom und Widerstand]] — **6 Karten** (8 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Elektrotechnik/USV-Anlagen|USV-Anlagen]] — **7 Karten** (11 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Elektrotechnik/Verstärkung Dämpfung und Pegelrechnung|Verstärkung Dämpfung und Pegelrechnung]] — **7 Karten** (6 Quellseiten · 🟢 aktuell)
 
-### Deutsch
+### Deutsch, Englisch und Kommunikation
 
-- [[02_Faecher/Deutsch/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md#🗂️ Karteikarten|Aufgaben Übungen und Lösungen]]
-- [[02_Faecher/Deutsch/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen.md#🗂️ Karteikarten|Betrieb und Unternehmen]]
-- [[02_Faecher/Deutsch/10_Lernordner/Das oder Dass/00_Das oder Dass.md#🗂️ Karteikarten|Das oder Dass]]
-- [[02_Faecher/Deutsch/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot.md#🗂️ Karteikarten|Geschäftsbrief Anfrage Angebot]]
-- [[02_Faecher/Deutsch/10_Lernordner/Kommasetzung/00_Kommasetzung.md#🗂️ Karteikarten|Kommasetzung]]
-- [[02_Faecher/Deutsch/10_Lernordner/Kommunikation Modelle/00_Kommunikation Modelle.md#🗂️ Karteikarten|Kommunikation Modelle]]
-- [[02_Faecher/Deutsch/10_Lernordner/Projektmanagement Lastenheft Pflichtenheft/00_Projektmanagement Lastenheft Pflichtenheft.md#🗂️ Karteikarten|Projektmanagement Lastenheft Pflichtenheft]]
-- [[02_Faecher/Deutsch/10_Lernordner/Rechtschreibung Gross und Klein/00_Rechtschreibung Gross und Klein.md#🗂️ Karteikarten|Rechtschreibung Gross und Klein]]
-- [[02_Faecher/Deutsch/10_Lernordner/Rechtschreibung und Grammatik/00_Rechtschreibung und Grammatik.md#🗂️ Karteikarten|Rechtschreibung und Grammatik]]
-- [[02_Faecher/Deutsch/10_Lernordner/Sprachtraining und Grammatik/00_Sprachtraining und Grammatik.md#🗂️ Karteikarten|Sprachtraining und Grammatik]]
-- [[02_Faecher/Deutsch/10_Lernordner/Unternehmensleitbild Corporate Identity/00_Unternehmensleitbild Corporate Identity.md#🗂️ Karteikarten|Unternehmensleitbild Corporate Identity]]
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Applying for a Position|Applying for a Position]] — **4 Karten** (1 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Arbeitszeugnis|Arbeitszeugnis]] — **7 Karten** (11 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Business Communication English|Business Communication English]] — **7 Karten** (18 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Company Structure and Departments|Company Structure and Departments]] — **6 Karten** (7 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Company Websites and Web Design|Company Websites and Web Design]] — **4 Karten** (2 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/das oder dass|das oder dass]] — **6 Karten** (12 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Fremdwörter|Fremdwörter]] — **5 Karten** (3 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Geschäftsbrief|Geschäftsbrief]] — **6 Karten** (12 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Geschäftsmail|Geschäftsmail]] — **6 Karten** (13 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Groß- und Kleinschreibung|Groß- und Kleinschreibung]] — **6 Karten** (11 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Introducing a Company|Introducing a Company]] — **6 Karten** (13 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/IT Jobs and Roles|IT Jobs and Roles]] — **6 Karten** (7 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/IT Vocabulary and Hardware|IT Vocabulary and Hardware]] — **6 Karten** (9 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Kommasetzung|Kommasetzung]] — **6 Karten** (8 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Kommunikation Modelle|Kommunikation Modelle]] — **7 Karten** (11 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Making Phone Calls and Voicemail|Making Phone Calls and Voicemail]] — **6 Karten** (7 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Ordering Technical Products|Ordering Technical Products]] — **6 Karten** (7 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Projektmanagement Lastenheft Pflichtenheft|Projektmanagement Lastenheft Pflichtenheft]] — **7 Karten** (26 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Reading Comprehension and Case Studies|Reading Comprehension and Case Studies]] — **6 Karten** (11 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/S-Schreibung|S-Schreibung]] — **4 Karten** (2 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Unternehmensleitbild Corporate Identity|Unternehmensleitbild Corporate Identity]] — **6 Karten** (5 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Useful Phrases and Grammar|Useful Phrases and Grammar]] — **6 Karten** (13 Quellseiten · 🟢 aktuell)
 
-### Englisch
+### Religion und Ethik
 
-- [[02_Faecher/Englisch/10_Lernordner/Applying for a Position/00_Applying for a Position.md#🗂️ Karteikarten|Applying for a Position]]
-- [[02_Faecher/Englisch/10_Lernordner/Englisch IT Jobs/00_Englisch IT Jobs.md#🗂️ Karteikarten|Englisch IT Jobs]]
-- [[02_Faecher/Englisch/10_Lernordner/IT Jobs and Roles/00_IT Jobs and Roles.md#🗂️ Karteikarten|IT Jobs and Roles]]
-- [[02_Faecher/Englisch/10_Lernordner/IT Vocabulary and Hardware/00_IT Vocabulary and Hardware.md#🗂️ Karteikarten|IT Vocabulary and Hardware]]
-- [[02_Faecher/Englisch/10_Lernordner/Making Phone Calls and Voicemail/00_Making Phone Calls and Voicemail.md#🗂️ Karteikarten|Making Phone Calls and Voicemail]]
+- [[05_Karteikarten/Religion_Ethik/Freiheit und Selbstbestimmung|Freiheit und Selbstbestimmung]] — **6 Karten** (3 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Religion_Ethik/Gewissen und Verantwortung|Gewissen und Verantwortung]] — **7 Karten** (14 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Religion_Ethik/Karwoche und Kirchenjahr|Karwoche und Kirchenjahr]] — **4 Karten** (1 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Religion_Ethik/Nelson Mandela und Vorbilder|Nelson Mandela und Vorbilder]] — **3 Karten** (1 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Religion_Ethik/Religion Ethik und Menschenbild|Religion Ethik und Menschenbild]] — **3 Karten** (1 Quellseiten · 🟢 aktuell)
+- [[05_Karteikarten/Religion_Ethik/Symbole und Glaube|Symbole und Glaube]] — **4 Karten** (2 Quellseiten · 🟢 aktuell)
 
-### ITT IT-Technik
+## Noch ohne Karteikarten-Deck (0)
 
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md#🗂️ Karteikarten|Aufgaben Übungen und Lösungen]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Backup und Datensicherung/00_Backup und Datensicherung.md#🗂️ Karteikarten|Backup und Datensicherung]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Begriffe Computerwelt Gitterraetsel/00_Begriffe Computerwelt Gitterraetsel.md#🗂️ Karteikarten|Begriffe Computerwelt Gitterraetsel]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Beschaffung Angebot und Kalkulation/00_Beschaffung Angebot und Kalkulation.md#🗂️ Karteikarten|Beschaffung Angebot und Kalkulation]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen.md#🗂️ Karteikarten|Betrieb und Unternehmen]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Betriebswirtschaft BGWP/00_Betriebswirtschaft BGWP.md#🗂️ Karteikarten|Betriebswirtschaft BGWP]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Computergrundbegriffe/00_Computergrundbegriffe.md#🗂️ Karteikarten|Computergrundbegriffe]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Datenschutz und Rollen/00_Datenschutz und Rollen.md#🗂️ Karteikarten|Datenschutz und Rollen]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Elektrische Ladung/00_Elektrische Ladung.md#🗂️ Karteikarten|Elektrische Ladung]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Elektrische Leistung und Netzteil/00_Elektrische Leistung und Netzteil.md#🗂️ Karteikarten|Elektrische Leistung und Netzteil]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Elektrotechnik Aufgaben und Loesungen/00_Elektrotechnik Aufgaben und Loesungen.md#🗂️ Karteikarten|Elektrotechnik Aufgaben und Lösungen]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Elektrotechnik Grundlagen Mathematik/00_Elektrotechnik Grundlagen Mathematik.md#🗂️ Karteikarten|Elektrotechnik Grundlagen Mathematik]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot.md#🗂️ Karteikarten|Geschäftsbrief Anfrage Angebot]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Hochverfuegbarkeit und Redundanz/00_Hochverfuegbarkeit und Redundanz.md#🗂️ Karteikarten|Hochverfügbarkeit und Redundanz]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/IPv4 Subnetting und Binaerzahlen/00_IPv4 Subnetting und Binaerzahlen.md#🗂️ Karteikarten|IPv4 Subnetting und Binaerzahlen]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/IT Sicherheit Grundlagen/00_IT Sicherheit Grundlagen.md#🗂️ Karteikarten|IT Sicherheit Grundlagen]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Kryptografie Verschluesselung Hash Signatur/00_Kryptografie Verschluesselung Hash Signatur.md#🗂️ Karteikarten|Kryptografie Verschlüsselung Hash Signatur]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Malware und Angriffe/00_Malware und Angriffe.md#🗂️ Karteikarten|Malware und Angriffe]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Netzplan und Netzwerktechnik/00_Netzplan und Netzwerktechnik.md#🗂️ Karteikarten|Netzplan und Netzwerktechnik]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Netzteil/00_Netzteil.md#🗂️ Karteikarten|Netzteil]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Recht Kaufvertrag Geschaeftsfaehigkeit/00_Recht Kaufvertrag Geschaeftsfaehigkeit.md#🗂️ Karteikarten|Recht Kaufvertrag Geschäftsfähigkeit]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Risikoanalyse/00_Risikoanalyse.md#🗂️ Karteikarten|Risikoanalyse]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Risikoanalyse und Schutzbedarf/00_Risikoanalyse und Schutzbedarf.md#🗂️ Karteikarten|Risikoanalyse und Schutzbedarf]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Sicherheitsmanagement und Massnahmen/00_Sicherheitsmanagement und Massnahmen.md#🗂️ Karteikarten|Sicherheitsmanagement und Maßnahmen]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Sicherheitsprozess PDCA/00_Sicherheitsprozess PDCA.md#🗂️ Karteikarten|Sicherheitsprozess PDCA]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Sicherheitsprozess PDCA und ISMS/00_Sicherheitsprozess PDCA und ISMS.md#🗂️ Karteikarten|Sicherheitsprozess PDCA und ISMS]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Spannung Strom Widerstand/00_Spannung Strom Widerstand.md#🗂️ Karteikarten|Spannung Strom Widerstand]]
+> [!note] Schrittweiser Aufbau
+> Neue Decks entstehen gezielt nach Prüfungsrelevanz (AP1/AP2) oder direkt im **Antigravity Karteikarten-Modus** aus den jeweiligen visuell geprüften Themen.
 
-### PuG Politik und Gesellschaft
+## Historische Lernordner-Karten (Archiv)
 
-- [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md#🗂️ Karteikarten|Aufgaben Übungen und Lösungen]]
-- [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Ausbildung und Beruf/00_Ausbildung und Beruf.md#🗂️ Karteikarten|Ausbildung und Beruf]]
-- [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Ausbildungsvertrag und BBiG/00_Ausbildungsvertrag und BBiG.md#🗂️ Karteikarten|Ausbildungsvertrag und BBiG]]
-- [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen.md#🗂️ Karteikarten|Betrieb und Unternehmen]]
-- [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Betriebsrat und Betriebsverfassung/00_Betriebsrat und Betriebsverfassung.md#🗂️ Karteikarten|Betriebsrat und Betriebsverfassung]]
-- [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Bundesurlaubsgesetz/00_Bundesurlaubsgesetz.md#🗂️ Karteikarten|Bundesurlaubsgesetz]]
-- [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Elterngeld und Elternzeit/00_Elterngeld und Elternzeit.md#🗂️ Karteikarten|Elterngeld und Elternzeit]]
-- [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Jugendarbeitsschutz/00_Jugendarbeitsschutz.md#🗂️ Karteikarten|Jugendarbeitsschutz]]
-- [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Kuendigung und Arbeitsrecht/00_Kuendigung und Arbeitsrecht.md#🗂️ Karteikarten|Kündigung und Arbeitsrecht]]
-- [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Mutterschutz/00_Mutterschutz.md#🗂️ Karteikarten|Mutterschutz]]
-- [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Recht und Vertraege/00_Recht und Vertraege.md#🗂️ Karteikarten|Recht und Verträge]]
-- [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Schwerbehinderung/00_Schwerbehinderung.md#🗂️ Karteikarten|Schwerbehinderung]]
-- [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Tarifvertrag und Koalitionsrecht/00_Tarifvertrag und Koalitionsrecht.md#🗂️ Karteikarten|Tarifvertrag und Koalitionsrecht]]
-
-### Religion
-
-- [[02_Faecher/Religion/10_Lernordner/Freiheit und Selbstbestimmung/00_Freiheit und Selbstbestimmung.md#🗂️ Karteikarten|Freiheit und Selbstbestimmung]]
-- [[02_Faecher/Religion/10_Lernordner/Gewissen und Verantwortung/00_Gewissen und Verantwortung.md#🗂️ Karteikarten|Gewissen und Verantwortung]]
-- [[02_Faecher/Religion/10_Lernordner/Karwoche und Kirchenjahr/00_Karwoche und Kirchenjahr.md#🗂️ Karteikarten|Karwoche und Kirchenjahr]]
-- [[02_Faecher/Religion/10_Lernordner/Paulus und christliche Freiheit/00_Paulus und christliche Freiheit.md#🗂️ Karteikarten|Paulus und christliche Freiheit]]
-- [[02_Faecher/Religion/10_Lernordner/Religion Ethik und Menschenbild/00_Religion Ethik und Menschenbild.md#🗂️ Karteikarten|Religion Ethik und Menschenbild]]
-- [[02_Faecher/Religion/10_Lernordner/Symbole und Glaube/00_Symbole und Glaube.md#🗂️ Karteikarten|Symbole und Glaube]]
-
-### Ohne quellenbasierte Karten
-
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Netzplan und Netzwerktechnik/00_Netzplan und Netzwerktechnik.md|Netzplan und Netzwerktechnik]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md|Restseiten Originalbelege]]
-- [[02_Faecher/Allgemein_Berufsschule/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md|Aufgaben Übungen und Lösungen]]
-- [[02_Faecher/Allgemein_Berufsschule/10_Lernordner/Hochverfuegbarkeit und Redundanz/00_Hochverfuegbarkeit und Redundanz.md|Hochverfügbarkeit und Redundanz]]
-- [[02_Faecher/Allgemein_Berufsschule/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md|Restseiten Originalbelege]]
-- [[02_Faecher/Deutsch/10_Lernordner/Ausbildung und Beruf/00_Ausbildung und Beruf.md|Ausbildung und Beruf]]
-- [[02_Faecher/Deutsch/10_Lernordner/Fremdwoerter/00_Fremdwoerter.md|Fremdwörter]]
-- [[02_Faecher/Englisch/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md|Aufgaben Übungen und Lösungen]]
-- [[02_Faecher/Englisch/10_Lernordner/Business Communication English/00_Business Communication English.md|Business Communication English]]
-- [[02_Faecher/Englisch/10_Lernordner/Company Structure and Departments/00_Company Structure and Departments.md|Company Structure and Departments]]
-- [[02_Faecher/Englisch/10_Lernordner/Company Websites and Web Design/00_Company Websites and Web Design.md|Company Websites and Web Design]]
-- [[02_Faecher/Englisch/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot.md|Geschäftsbrief Anfrage Angebot]]
-- [[02_Faecher/Englisch/10_Lernordner/Introducing a Company/00_Introducing a Company.md|Introducing a Company]]
-- [[02_Faecher/Englisch/10_Lernordner/Ordering Technical Products/00_Ordering Technical Products.md|Ordering Technical Products]]
-- [[02_Faecher/Englisch/10_Lernordner/Reading Comprehension and Case Studies/00_Reading Comprehension and Case Studies.md|Reading Comprehension and Case Studies]]
-- [[02_Faecher/Englisch/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md|Restseiten Originalbelege]]
-- [[02_Faecher/Englisch/10_Lernordner/Useful Phrases and Grammar/00_Useful Phrases and Grammar.md|Useful Phrases and Grammar]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md|Restseiten Originalbelege]]
-- [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md|Restseiten Originalbelege]]
-- [[02_Faecher/Religion/10_Lernordner/Nelson Mandela und Vorbilder/00_Nelson Mandela und Vorbilder.md|Nelson Mandela und Vorbilder]]
-- [[02_Faecher/Religion/10_Lernordner/Recht und Vertraege/00_Recht und Vertraege.md|Recht und Verträge]]
-- [[02_Faecher/Religion/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md|Restseiten Originalbelege]]
-- [[02_Faecher/Vertretung/10_Lernordner/Einheiten Umrechnen/00_Einheiten Umrechnen.md|Einheiten Umrechnen]]
-- [[02_Faecher/Vertretung/10_Lernordner/Elektrotechnik Rechenuebungen/00_Elektrotechnik Rechenuebungen.md|Elektrotechnik Rechenübungen]]
-- [[02_Faecher/Vertretung/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md|Restseiten Originalbelege]]
-
-<!-- END AUTO_KARTEIKARTEN_INDEX -->
+> [!warning] Nicht mehr gepflegt
+> Die früheren automatisch erzeugten Karten in den `10_Lernordner/`-Dateien (Stand 2026-06-19) beruhen auf ungeprüften Keyword-Zuordnungen und werden nicht mehr aktiv verwendet.

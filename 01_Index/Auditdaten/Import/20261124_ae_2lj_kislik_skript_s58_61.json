@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md (Seiten 58–61)",
+  "replaces_existing": false,
+  "topic_categories": {
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
+      "page": 58,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Datenbankmodellierung und ER-Modell",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Datenbankmodellierung und ER-Modell"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
+      "page": 59,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Datenbankmodellierung und ER-Modell",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Datenbankmodellierung und ER-Modell"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+          "Eingebettete ER-Diagramm-Abbildungen (1:1, 1:n, n:m) fehlten in der Textschicht und wurden visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
+      "page": 60,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Datenbankmodellierung und ER-Modell",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Datenbankmodellierung und ER-Modell"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche ER-Diagramm-Lösung (Mitarbeiter–leitet–Project, 1:n, Attribute) war in der Textschicht fehlerhaft und wurde visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
+      "page": 61,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Datenbankmodellierung und ER-Modell",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Datenbankmodellierung und ER-Modell"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    }
+  ]
+}

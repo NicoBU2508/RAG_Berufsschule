@@ -2,8 +2,8 @@
   "schema_version": 1,
   "scope": "Alle aktiven, nichtprivaten Quell-PDFs; private Inhalte werden nicht gelesen.",
   "totals": {
-    "source_notes": 52,
-    "pages": 1356,
+    "source_notes": 53,
+    "pages": 1389,
     "pages_with_modules": 802,
     "pages_with_curated_topics": 310
   },
@@ -7287,6 +7287,72 @@
       }
     },
     {
+      "page": 18,
+      "source_section_chars": 2860,
+      "source_text": "UML: Übung (IT => 9_6_AE_UML__Zustands_D_UE_Fehler_sus=> Schueler, Seite 1)\n\n1 Zustandsdiagramm Fallbeispiel\nDas folgende Beispiel enthält häufige Fehler, die bei Zustandsdiagrammen gemacht werden.\nDie Fehler sind mit den Buchstaben A-I bezeichnet.\n\nFehlerhaftes Zustandsdiagramm „sm Geldautomat“ mit markierten Fehlerstellen A–I:\n- A: Zwei Startzustände (Start -> Ruhe oben und ein zweiter Start-Pseudozustand links neben Kartenauswurf).\n- B: Endzustand „Ende“ hat eine ausgehende Transition (Ende -> Kartenauswurf).\n- C: Eine Transition zeigt in den linken Startzustand hinein (von Kartenauswurf zurück in Start).\n- D: Die ausgehende Transition vom oberen Startzustand zu „Ruhe“ besitzt eine Bedingung/Guard ([eingeschaltet]).\n- E: Zustand „Karteneinzug“ (entry / Karte einziehen; exit / Einzug bestaetigen) hat keine ausgehende Transition (kein Ausgang).\n- F: Bei der Entscheidung (Raute) nach „PIN eingegeben / versuch++“ überlappen sich die Guards links ([PIN falsch && versuch >= 3] -> Karteneinzug) und rechts ([PIN falsch] -> zurück zu PIN-Eingabe); außerdem [PIN korrekt] -> Betragauswahl.\n- G: Aus dem Zustand „Betragauswahl“ (entry / Auswahl anzeigen) führen zwei Transitionen mit dem identischen Ereignis „Abbruch“ heraus (einmal zu Kartenauswurf, einmal zu Karteneinzug).\n- H: Am Zustand „Kartenentnahme“ (entry / Karte auswerfen) ist links ein eckiges Kästchen mit Pfeil als fehlerhaftes/unbenanntes Übergangs- bzw. Zustandssymbol angebracht.\n- I: Am einfachen Zustand „Auszahlung“ (do / Betrag auszahlen) ist ein Eintrittspunkt-Symbol (kleiner leerer Kreis am Rand) für die Transition „Karte entnommen“ angebracht.\n\nWeitere Elemente im Diagramm:\n- Ruhe --(Aus-Schalter betaetigt)--> Ende\n- Ruhe --(Karte eingefuehrt)--> Unterzustandsautomatenzustand „Kartenpruefung : Pruefung“ -> Kreuzung:\n  - [else] -> Kartenauswurf (do / Karte auswerfen) --(Karte entnommen)--> Ruhe\n  - [Pruefung bestanden] / versuch=0 -> PIN-Eingabe (entry / Eingabemaske anzeigen)\n- PIN-Eingabe --(Abbruch)--> Kartenauswurf\n- Betragauswahl --(Betrag ausgewaehlt / Betrag abbuchen)--> Kartenentnahme\n- Auszahlung -> Ruhe\n\n1.1 Aufgabe\nBeschreiben Sie stichpunktartig, welcher Fehler jeweils gemacht wurde.",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=18",
+      "subject": "AE_Anwendungsentwicklung",
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 19,
+      "source_section_chars": 1266,
+      "source_text": "↭\n↭\n↭\n↭\n↭\n↭\n↭\n↭\n↭\n↭\nNur 1 Startpunkt\ndas Ende einen ausgang hat\ngeht in Start\ndarf keine Bedingung haben auf Startzustand\nKein Ausgang\nlinks wird nie benutzt weil wen Falsch immer\nins Rechte\nAus dem gleichen Zustand dürfen keine gleichen Bedingungen\nraus\n\nUML: Übung (IT => 9_6_AE_UML__Zustands_D_UE_Fehler_sus=> Schueler, Seite 2)\n\nHandschriftliche Lösungen zur Fehleranalyse im Zustandsdiagramm „sm Geldautomat“ (A–I):\n- A: Nur 1 Startpunkt\n- B: das Ende einen ausgang hat\n- C: geht in Start\n- D: darf keine Bedingung haben auf Startzustand\n- E: Kein Ausgang\n- F: links wird nie benutzt weil wen Falsch immer ins Rechte\n- G: Aus dem gleichen Zustand dürfen keine gleichen Bedingungen raus\n- H: (nicht ausgefüllt)\n- I: (nicht ausgefüllt)",
+      "source_text_status": "text",
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=19",
+      "subject": "AE_Anwendungsentwicklung",
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
       "page": 1,
       "source_section_chars": 1961,
       "source_text": "… da war doch noch was: Wissenswertes aus den ersten 9 Seiten des Wikis von LF 1\n• Datenchaos durch isolierte Datenhaltung für unterschiedliche Anwendungen: Warum\nkann diese Mehrfachspeicherung nicht mehr zu widerspruchsfreien Daten führen?\n• Warum wird bei einer Excel-Datenbank mit steigender Anzahl an Datensätzen die\n„Performance“ schlechter (langsamere Zugriffszeiten und Probleme mit der verfüg-\nbaren Speicherkapazität)?\n• Was macht da ein Datenbanksystem anders?\n• Was versteht man unter einer Entität?\n• Eine Entitätsmenge oder ein Entitätstyp ist …\n• Ein anderer Name für Relation ist … . Daraus erklärt sich auch der Begriff „Relationales\nDatenbanksystem“.\n• Unter einem Tupel versteht man … . Eine andere Bezeichnung für Tupel ist … .\n• Die Eigenschaften eines Entitätstyps (z.B. die Eigenschaft „Name“ des Entitätstyps\n„Kunde“) nennt man … . Sie haben einen Datentyp und bilden die Spaltenüber-\nschriften der Tabelle.\n• Die Entwicklung einer Datenbank läuft in mehren Phasen ab. Welche sind das?\n• Beschreibe die erste Phase der Datenbankentwicklung!\n• Beschreibe die zweite Phase der Datenbankentwicklung!\n• Beschreibe die dritte Phase der Datenbankentwicklung!\n• Beschreibe die vierte und letzte Phase der Datenbankentwicklung!\n• Was unterscheidet die vierte Phase von den drei anderen Phasen?\n• SQL – für was steht diese Abkürzung und was bedeutet dies auf Deutsch?\n• In welche vier Befehlsgruppen ist SQL aufgeteilt (Lang- und Kurzname)?",
@@ -10658,6 +10724,138 @@
       "source_text": "Seite 16 von 16\n1_5_3 Daten mit SQL verwalten - Daten löschen - Aufgaben\nDatenbank fahrschule\n1. Susanne Cramer soll gelöscht werden.\nAktualisieren Sie die Tabelle fahrschueler per SQL-Befehl.\nDELETE FROM fahrschueler\nWHERE nachname = \"Cramer\" AND vorname = \"Susanne\";\nDatenbank fahrradvermietung\n*1. Es sollen alle Fahrräder gelöscht werden, deren Anschaffungswert unter 100 € liegt, sowie\nalle Kinderfahrräder (unabhängig vom Anschaffungswert).\nAktualisieren Sie die Tabelle fahrraeder per SQL-Befehl.\nDiese Datensätze sind von der Löschung betroffen:\nDELETE FROM fahrraeder\nWHERE anschaffungswert < 100 OR fahrradart = \"Kinderrad\";\n*2. Es sollen alle Fahrräder gelöscht werden, die älter als 2 Jahre sind (Bezugsjahr 2016).\nKontrollieren Sie vor dem Löschen mit Hilfe einer SELECT-Anweisung, welche Datensätze\nbetroffen sind.\nDieser Datensatz ist von der Löschung betroffen:\nAktualisieren Sie die Tabelle fahrraeder per SQL-Befehl\nSELECT *\nFROM fahrraeder\nWHERE YEAR(kaufdatum) <= 2016-2;\nDELETE FROM fahrraeder\nWHERE YEAR(kaufdatum) <= 2016-2;\n￼\n￼",
       "source_text_status": "text",
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=57",
+      "subject": "AE_Anwendungsentwicklung",
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 58,
+      "source_section_chars": 2189,
+      "source_text": "Fachbereich IT Klasse: Datum:\nDatenmodellierung mit ER-Diagrammen\nDas ER-Diagramm zur Datenmodellierung\nDas Entity-Relationship-Diagramm (kurz auch ER-Modell oder ERM genannt) dient primär der Beschreibung\nvon Daten in einem Anwendungsbereich und ihren gegenseitigen Beziehungen. Man beschreibt also mit Hil-\nfe eines ER-Modells einen Ausschnitt aus der realen Welt. Da das ER-Modell bestimmten Regeln unterliegt und\nleicht verständlich ist, dient es zur Konzeptionierung von Datenbanken. Außerdem stellt es eine gute Kom-\nmunikationsbasis zwischen Entwicklern und Kunden (bzw. anderen beteiligten Parteien) dar.\nFolgende Elemente sind in einem ER-Diagramm enthalten:\n• Entität und Entitätsmenge\nJedes Objekt, das durch einen Datensatz abgebildet werden soll, nennt man Entität. Eine Entität kann\n− ein Individuum (z.B. der Schüler Meier)\n− ein reales Objekt (z.B. der Raum mit der Nr. 112)\n− ein abstraktes Konzept (z.B. der Kurs Informatik)\n− ein Ereignis (z.B. eine mündliche Prüfung) sein.\nDie Zusammenfassung gleicher Entitäten nennt man Entitätsmenge. Zur grafischen Darstellung von En-\ntitätsmengen werden Rechtecke verwendet:\n• Attribut\nDie Eigenschaften einer Entitätsmenge nennt man Attribute. Im folgenden Beispiel sind „Artikel-ID“,\n„Artikelbeschreibung“ und „Artikelart“ Attribute der Entitätsmenge „Artikel“. Im ER-Diagramm werden Attri-\nbute als Ovale dargestellt:\n• Beziehungen\nBeziehungen bestehen im Bereich der verschiedenen Entitätsmengen und können ebenfalls Attribute besit-\nzen. Eine Beziehung ist die Verbindung (bzw. Wechselwirkung) zwischen mindestens zwei Entitätsmengen.\nBeziehungstypen werden durch Rauten gekennzeichnet:\n￼\nArtikel\n￼\nMitarbeiter\n￼\nBestellung\n￼\nbesitzt\n￼\nArtikel\n￼\nArtikel-\nBeschrei-\nbung\n￼\nArtikel-\nID\n￼\nArtikel-\nart",
+      "source_text_status": "text",
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=58",
+      "subject": "AE_Anwendungsentwicklung",
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 59,
+      "source_section_chars": 1710,
+      "source_text": "Fachbereich IT Klasse: Datum:\n• Kardinalitäten\nDie Kardinalität zwischen dem Entitätstyp 1 und dem Entitätstyp 2 gibt an, wie viele Entitäten des En-\ntitätstyps 2 höchstens mit einer Entität des Entitätstyps 1 in Beziehung stehen.\nFür die Datenstrukturierung interessieren nicht die genauen Zahlen, sondern nur die Typen: Höchstens eine\nEntität (1) bzw. mehrere Entitäten (n oder m).\nDa der Beziehungstyp wechselseitig ist, wird die Kardinalität durch zwei Angaben vollständig beschrie-\nben.\nBeispiele hierfür sind die …\n• 1:1-Beziehung:\n￼\nEin Schüler erhält höchstens ein Jahreszeugnis. Zu einem Jahreszeugnis gehört höchstens ein Schüler.\n• 1:n-Beziehung:\n￼\nEin Schüler erhält mehrere Hefter. Ein Hefter gehört höchstens einem Schüler.\n• n:m-Beziehung:\n￼\nEin Schüler nutzt mehrere Schul-PCs. Ein Schul-PC wird von mehreren Schülern benutzt.\n\nER-Diagramm-Beispiele zu Kardinalitäten (Chen-Notation):\n- 1:1-Beziehung: [Schüler] — 1 — <erhält> — 1 — [Jahreszeugnis]\n- 1:n-Beziehung: [Schüler] — 1 — <besitzt> — n — [Hefter]\n- n:m-Beziehung: [Schüler] — n — <startet> — m — [Schul-PC]",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=59",
+      "subject": "AE_Anwendungsentwicklung",
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 60,
+      "source_section_chars": 1413,
+      "source_text": "Beispiel für ein ER-Diagramm:\nIn einer IT-Firma gibt es eine Vielzahl an Projekten. Jedes Projekt wird\nvon einer Mitarbeiterin bzw. von einem Mitarbeiter geleitet. Eine Mit-\narbeiterin / ein Mitarbeiter kann auch mehreren Projekten vorstehen.\nVon der Mitarbeiterin, vom Mitarbeiter wird der Name, vom Projekt\nder Name, das Datum und das Budget erfasst.\nErstelle das zugehörige ER-Modell!\nLösung:\nMitarbeite ↑ leitet \"Project\nㅣ\n@ BudsetO\n\nLösung (handschriftliches ER-Diagramm in Chen-Notation):\n- Entitätsmenge (Rechteck): Mitarbeiter\n  - Attribut (Oval): Name\n- Beziehung (Raute): leitet\n  - Kardinalität: 1 (bei Mitarbeiter) : n (bei Project) -> 1:n-Beziehung\n  - Struktur: [Mitarbeiter] — 1 — <leitet> — n — [Project]\n- Entitätsmenge (Rechteck): Project\n  - Attribute (Ovale): Name, Datum, Budget",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=60",
+      "subject": "AE_Anwendungsentwicklung",
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 61,
+      "source_section_chars": 744,
+      "source_text": "Wie stellt man es nun dar, wenn z.B. ein Lehrer einen anderen Lehrer vertritt?\nWir haben hier eine Beziehung in der gleichen Entitätsmenge. Da in der Regel\naber ein Lehrer nicht nur einen einzigen anderen Lehrer vertreten kann,\nsondern mehrere andere Lehrer, ist es hier eine m:n-Beziehung!\n￼\nLehrer\n￼\nvertritt\n￼\nm\n￼\nn",
+      "source_text_status": "text",
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=61",
       "subject": "AE_Anwendungsentwicklung",
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
@@ -29901,13 +30099,310 @@
     },
     {
       "page": 22,
-      "source_section_chars": 1380,
-      "source_text": "BGWP LF 6 – 1.5 Übung: Darstellung von Geschäftsprozessen\nZu Aufgabe 2 (eEPK-Vorlage zum Vervollständigen, vgl. Aufgabenstellung Seite 19):\n\nVorgegebener Startbereich:\n- Startereignis: Dokument ist eingegangen\n- -> Konnektor: XOR (Zusammenführung für Wiederholungsschleife)\n- -> Funktion: Dokument scannen und abspeichern\n  - Organisationseinheit: Posteingang\n  - Informationsobjekt (Eingang -> Funktion): Dokument\n- -> [leeres Ereignis-Sechseck]\n- -> [leeres Funktions-Rechteck]\n- -> [leerer Konnektor mit Verzweigung in 2 Zweige: links leeres Ereignis -> weiterer leerer Konnektor mit 2 Ausgängen; rechts leeres Ereignis]\n\nVorgegebene Endereignisse unten (3 parallele Ausgänge):\n- digitales Dokument ist weitergeleitet\n- Papierdokument ist archiviert\n- Papierdokument ist vernichtet",
+      "source_section_chars": 2157,
+      "source_text": "BGWP LF 6 – 1.5 Übung: Darstellung von Geschäftsprozessen\nZu Aufgabe 2 (JIKU IT-Solutions – Archivierung eingehender Dokumente, vgl. Seite 19):\n\n1. Ereignis (gedruckt): Dokument ist eingegangen\n   -> XOR-Zusammenführung (gedruckt; hier mündet auch der Rücksprung bei „Fehler“)\n   -> Funktion (gedruckt): Dokument scannen und abspeichern\n      - Organisationseinheit (links): Posteingang\n      - Informationsobjekt (rechts): Dokument\n2. -> Ereignis (handschriftlich): Dokument ist gescannt\n   -> Funktion (handschriftlich): Dokument prüfen\n   -> Verzweigung (handschriftlich als inklusives ODER „v“ gezeichnet; fachlich exklusives ODER / XOR):\n      - Zweig 1 (rechts): Ereignis „Fehler“ -> Rücksprung-Pfeil zurück zur XOR-Zusammenführung vor „Dokument scannen und abspeichern“\n      - Zweig 2 (links): Ereignis „kein Fehler“\n        -> UND-Aufspaltung (∧):\n           - Linker Zweig:\n             Funktion „Empfänger ermitteln“\n             -> Ereignis „E. ist ermittelt“ (Empfänger ist ermittelt)\n             -> Funktion „wird weitergel.“ (PDF-Datei wird weitergeleitet)\n             -> Endereignis (gedruckt): digitales Dokument ist weitergeleitet\n           - Rechter Zweig:\n             Funktion „Art ermitteln“\n             -> XOR-Aufspaltung (xor):\n                - Zweig A: Ereignis „Vertrag“ -> Funktion „wird archiviert“ -> Endereignis (gedruckt): Papierdokument ist archiviert\n                - Zweig B: Ereignis „Sonstiges“ -> Funktion „wird vernichtet“ -> Endereignis (gedruckt): Papierdokument ist vernichtet",
       "source_text_status": "ocr",
       "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=22",
       "subject": "BGWP_Betriebswirtschaft",
       "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
       "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 23,
+      "source_section_chars": 3281,
+      "source_text": "BGWP\nLF 6\n1.6 Business Process Model and Notation\n(BPMN)\nKlasse:\nDatum:\n1\nBPMN – Business Process Model and Notation\nBPMN, die Abkürzung für Business Process Model and Notation, ist eine äußerst nützliche grafi-\nsche Modellierungssprache, die speziell für die Darstellung von Geschäftsprozessen entwi-\nckelt wurde. Mit BPMN können komplexe Prozesse in übersichtlichen Diagrammen dargestellt\nwerden, die nicht nur von Softwaretechnikern, sondern auch von Nicht-Softwaretechnikern\nleicht verstanden werden können. Diese Diagramme spielen eine entscheidende Rolle bei\nder Förderung des Verständnisses von Geschäftsprozessen und dienen als Brücke zwischen\nden fachlichen Konzepten und den ausführbaren Modellen.\nAber warum ist BPMN so wichtig und warum sollte man es verwenden? Hier sind einige\nGründe:\n1. Einheitliche Sprache für Geschäftsprozesse: BPMN bietet eine gemeinsame und stan-\ndardisierte Sprache, die in der Geschäftswelt weit verbreitet ist. Dies ermöglicht eine\nklare und konsistente Kommunikation über Prozesse innerhalb einer Organisation.\n2. Förderung gemeinsamen Prozessverständnisses: BPMN trägt dazu bei, ein gemeinsa-\nmes Verständnis für Prozesse zu schaffen, sowohl innerhalb einer Organisation (zwi-\nschen Abteilungen, Gruppen und Teams) als auch über organisatorische Grenzen hin-\nweg (zwischen Unternehmen und Abteilungen). Dies verbessert die Zusammenarbeit\nund die Fähigkeit, Prozesse zu optimieren.\n3. Brücke zwischen Fachbereichen und IT: BPMN bietet eine Schnittstelle zwischen den\nFachbereichen und der IT. Durch die visuelle Darstellung von Prozessen können Fach-\nexperten und IT-Profis leichter kommunizieren und sicherstellen, dass die technische\nUmsetzung den fachlichen Anforderungen entspricht.\n4. Standardisierte Verwendung: BPMN ist ein weit verbreiteter Standard, der von vielen\nAnbietern unterstützt wird. Es gibt eine große Auswahl an BPMN-Modellierungstools,\nvon kostengünstigen Optionen bis hin zu hochspezialisierten Lösungen. Dies ermöglicht\nes Organisationen, das für sie passende Tool auszuwählen.\n5. Ausbildung und Ressourcen: Es stehen umfangreiche Schulungs- und Lernressourcen\nzur Verfügung, die es Einzelpersonen und Organisationen ermöglichen, BPMN effektiv\nzu erlernen und anzuwenden. Dies umfasst Schulungsmaterialien, Bücher, Online-Kurse\nund Schulungen von Experten.\nDie Bestandteile von BPMN umfassen:\n• Grafische Notation: BPMN verwendet eine Reihe von Symbolen und Diagrammele-\nmenten, um Prozesse grafisch darzustellen.\n• Nicht-grafisch dargestellte Inhalte: Neben den visuellen Elementen können auch\nnicht-grafische Informationen wie Attribute oder Metadaten in BPMN-Diagrammen\nfestgehalten werden.\n• Beschreibung der Elemente und der Beziehungen: Jedes BPMN-Element hat eine klare\nDefinition und Beziehungen zwischen den Elementen werden genau beschrieben, um\ndie Prozesslogik zu verdeutlichen.",
+      "source_text_status": "text",
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=23",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 24,
+      "source_section_chars": 2093,
+      "source_text": "BGWP\nLF 6\n1.6 Business Process Model and Notation\n(BPMN)\nKlasse:\nDatum:\n2\nDie Grundelemente in BPMN-Diagrammen\nEreignisse (Events) Jedes BPMN-Diagramm beginnt und endet mit einem Ereignis. Ereig-\nnisse können auch in der Mitte eines Prozesses auftreten und ein Sym-\nbol beinhalten, dass die Art des Ereignisses darstellt. Kreise symbolisie-\nren Start-, Zwischen- und Endereignisse.\nAktivitäten (Activites): Aktivitäten werden mithilfe von abgerundeten Rechtecken wie-\ndergegeben. Sie werden im Format „Substantiv + Verb“ beschrif-\ntet, um eine Aktivität darzustellen.\nAktivitäten zeigen Aufgaben oder Teilprozesse.\nGateways Gateways spalten Prozessflüsse auf und vereinen sie wieder miteinander.\nSie werden in Form eines Diamanten dargestellt und können mit Symbo-\nlen versehen sein, die die Bedingungen für das Aufspalten und Wieder-\nvereinen der Prozessflüsse genauer beschreiben.\nVerbindungen (Sequence Flows) Verbindungen geben die Fließrichtung von einem Element\nim BPMN-Diagramm zum nächsten an. Verschiedene Linien-\nstrukturen verdeutlichen den Unterschied zwischen einem\nAktivitätenfluss und einem Nachrichtenfluss.\nPools und Lanes BPMN-Pools werden in unterschiedliche Verantwor-\ntungsbereiche (Lanes) unterteilt. Pools und Verant-\nwortungsbereiche werden verwendet, um zu veran-\nschaulichen, welche Gruppen oder Einzelpersonen\nfür einen bestimmten Prozessabschnitt verantwortlich\nsind.\nJedes BPMN-Diagramm muss mindestens einen Pool\nmit einem Verantwortungsbereich umfassen.\nArtefakte (Artifact) Mithilfe von Artefakten lassen sich einem BPMN-Diagramm zusätzliche In-\nformationen hinzufügen. Dazu zählen Anmerkungen, Gruppen und Date-\nnobjekte.\n￼\n￼\n￼\n￼\n￼\n￼",
+      "source_text_status": "text",
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=24",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 25,
+      "source_section_chars": 1329,
+      "source_text": "BGWP\nLF 6\n1.6 Business Process Model and Notation\n(BPMN)\nKlasse:\nDatum:\n3\nDas Zeichnen von BPMN-Diagrammen\nWir starten mit einem Startereignis. Start- und Endereignis lassen sich gut anhand der Dicke\nihrer Umrandung unterscheiden. Die standardmäßige Notation für Ereignisse sieht eine dünne\nUmrandung für Startereignisse, eine dicke Umrandung für Endereignisse und eine doppelte,\nkreisförmige Umrandung für Zwischenereignisse vor.\nFügen wir als Nächstes eine Aktivität hinzu und geben ihr einen Namen im Format „Substan-\ntiv + Verb“ (wie unten dargestellt).\nJedes BPMN-Diagramm muss über mindestens einen Pool mit einem Verantwortungsbereich\nverfügen. Ergänzen wir also einen.\nVoilà! Schon haben Sie ein vollständiges BPMN-Diagramm. Es ist selbstverständlich noch sehr\nvereinfacht. Gehen wir deshalb noch etwas mehr ins Detail.\n￼\n￼\n￼\nBestellung\neingegangen\nBestellung\neingegangen\nBestellung\neingegangen",
+      "source_text_status": "text",
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=25",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 26,
+      "source_section_chars": 2058,
+      "source_text": "BGWP LF 6 – 1.6 Business Process Model and Notation (BPMN) (Seite 4)\n\nBeispiele für Aktivitäten (abgerundete Rechtecke mit Symbol oben links):\n- Service (Zahnräder-Symbol: automatisierte System-/Service-Aktivität)\n- User (Personen-Symbol: Benutzeraufgabe mit IT-Unterstützung)\n- Manual (Hand-Symbol: manuelle Aufgabe ohne IT-System)\n- Script (Skript-Symbol: automatisiert ausgeführtes Skript)\n\nBeispiele für Ereignisse (Kreise):\n- Basis-Ereignisse: Start (dünner Kreis), Intermediate Start (doppelter Kreis), End (dicker Kreis)\n- Nachrichten-Ereignisse (Briefumschlag): Message Start (dünner Kreis, weißer Briefumschlag), Intermediate Message (doppelter Kreis, schwarzer Briefumschlag), Message End (dicker Kreis, schwarzer Briefumschlag)\n- Zeit-Ereignisse (Uhr): Timer Start (dünner Kreis mit Uhr), Intermediate Timer (doppelter Kreis mit Uhr)\n- Abbruch-Ereignis: Terminate (dicker Kreis mit ausgefülltem schwarzem Innenkreis)\n\nBeispiele für Gateway (Raute / Diamant):\n- Exclusive (X): exklusives ODER (XOR)\n- Message (Briefumschlag im Kreis): nachrichtenbasiertes Gateway\n- Timer (Uhr im Kreis): zeitbasiertes Gateway\n- Parallel (+): parallele Aufspaltung/Zusammenführung (UND)\n- Escalation (Pfeil/Dach im Kreis): Eskalations-Gateway\n- Conditional (Dokument-/Listensymbol im Kreis): bedingtes Gateway\n\nBeispiele für Datenobjekte (Dokumentensymbol mit geknickter Ecke):\n- Data Input (weißer Pfeil oben links)\n- Data Output (schwarzer Pfeil oben links)",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=26",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 27,
+      "source_section_chars": 2694,
+      "source_text": "BGWP LF 6 – 1.6 Business Process Model and Notation (BPMN) (Seite 5)\n\nBeispiel 1 – Urlaubsantrag\n1. Der Mitarbeiter stellt einen Urlaubsantrag (Start-Ereignis).\n2. Der Antrag wird vom Vorgesetzten geprüft (Aktivität).\n3. Entscheidung durch ein Gateway:\n   i. Wenn genehmigt: Benachrichtigung an Mitarbeiter senden.\n   ii. Wenn abgelehnt: Ablehnungsgrund wird an Mitarbeiter gesendet.\n4. Prozess endet (End-Ereignis).\n\nBPMN-Diagramm zu Beispiel 1 (Pool mit 2 Lanes: Mitarbeiter, Vorgesetzter):\n- Lane Mitarbeiter: Startereignis „Urlaubsantrag ist gestellt“ -> Wechsel in Lane Vorgesetzter\n- Lane Vorgesetzter: Aktivität „Antrag prüfen“ -> XOR-Gateway (X):\n  - Zweig „Antrag abgelehnt“ -> Lane Mitarbeiter: Sende-Aktivität (schwarzer Briefumschlag) „Ablehnung an Mitarbeiter senden“\n  - Zweig „Antrag genehmigt“ -> Lane Mitarbeiter: Sende-Aktivität (schwarzer Briefumschlag) „Genehmigung senden“\n- Lane Mitarbeiter: XOR-Zusammenführung (X) -> Endereignis „Antrag ist bearbeitet“\n\nBeispiel 2 – Kundenbestellung, Produktion und Versand bis zur Rechnungserstellung:\nBPMN-Diagramm (Pool „Organisation X“ bzw. „Bestellprozess“ mit 3 Lanes: Verkauf, Finanzen, Warenlager):\n- Lane Verkauf: Startereignis „Bestellung eingegangen“ -> Task „Bestellung erfassen“ (unten: „Bestellung entgegennehmen“) mit Datenobjekt „Kundendaten“ -> Wechsel in Lane Finanzen\n- Lane Finanzen: Task „Kreditwürdigkeit prüfen“ -> XOR-Gateway „Kreditwürdig?“:\n  - Nein -> Lane Verkauf: Endereignis „Bestellung fehlgeschlagen“\n  - Ja -> Lane Warenlager: Task „Bestellung durchführen“ (unten mit Teilprozess-Plus-Symbol [+]) -> XOR-Gateway „Auf Lager?“:\n    - Nein -> Lane Verkauf: Endereignis „Bestellung fehlgeschlagen“\n    - Ja -> Lane Finanzen: Task „Rechnung verschicken“ -> Endereignis „Bestellung abgeschlossen“\n\nBeschriftung der BPMN-Bestandteile in der unteren Grafik:\n- Pool (Bestellprozess), Lane (Verkauf / Finanzen / Warenlager), Startereignis (Event), Task (Aufgabe, Aktivität), Gateway (Verzweigung), Sequenzfluss, Endereignis (Event)",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=27",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 28,
+      "source_section_chars": 2286,
+      "source_text": "BGWP LF 6 – 1.6 Business Process Model and Notation (BPMN)\nBPMN – Übungsaufgaben\n\nAufgabe 1: Lies Seite 1 im Infotext und notiere einige Vorteile der BPMN.\nHandschriftliche Antworten:\n• Einheitliche Sprache\n• Standardisierte Verwendung\n• Ausbildung und Ressourcen\n\nAufgabe 2: Sieh dir Seite 2 – 5 des Infotextes an und erstelle ein BPMN-Diagramm zu folgendem Onboarding-Prozess.\nProzessbeschreibung:\n- Die Personalabteilung sendet dem neuen Mitarbeiter eine Begrüßungsmail mit Informationen zum ersten Arbeitstag.\n- Anschließend werden folgende Schritte parallel durchlaufen:\n  o Die IT-Abteilung erstellt ein IT-Ticket, richtet Laptop und Zugänge ein.\n  o Am ersten Arbeitstag wird der neue Mitarbeiter durch die Teamleitung begrüßt.\n- Danach führt die Personalabteilung eine kurze Einführungsveranstaltung durch.\n- Sobald der Mitarbeiter alle Stationen durchlaufen hat, ist der Onboarding-Prozess abgeschlossen.\n\nHinweise zur Modellierung:\n- Verwenden Sie mindestens drei Lanes: Personalabteilung, IT-Abteilung, Teamleitung.\n- Modellieren Sie den Ablauf logisch mit Start- und Endereignis, Aufgaben und Gateways (wenn sinnvoll).\n- Verwenden Sie Nachrichtenflüsse zwischen Lanes, wenn Informationen oder Aufgaben übergeben werden.\n\nHandschriftlicher Lösungsansatz (unvollständig begonnener Pool mit 3 Lanes: IT, Teamleitung, Personalabteilung):\n- Lane Personalabteilung: Startereignis „Mail gesendet“ -> Pfeile nach oben zu Lane Teamleitung und Lane IT\n- Lane Teamleitung: Aktivität „Begrüßung“\n- Lane IT: Aktivität „Erstellt Ticket“ -> Ereignis „Ticket erstellt“ -> Aktivität „richtet Laptop ein“\n(Paralleles Gateway, Einführungsveranstaltung und Endereignis noch nicht ergänzt.)",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=28",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 29,
+      "source_section_chars": 2328,
+      "source_text": "BGWP\nLF 6\n1.6 Business Process Model and Notation\n(BPMN)\nKlasse:\nDatum:\nAufgabe 3:\nDie Sensofood-Logistik GmbH arbeitet bislang weitgehend analog. Relevantes Wissen ist vor\nallem in den Köpfen der erfahrenen Mitarbeiter vorhanden. Es ist nicht greifbar. Ein Beispiel\naus dem Logistikprozess soll dies verdeutlichen:\nWenn LKW-Fahrer auf Fahrten Probleme bekommen, sind sie weitgehend auf sich selbst ge-\nstellt. Sie müssen eigenständig eine -Lösung finden. Es kommt vor, dass LKWs liegenbleiben\noder gar Ware auf dem Transport zum Kunden verdirbt. Im Nachhinein stellt sich oft heraus,\ndass die Probleme vermeidbar gewesen wären.\nZukünftig soll ein Monitoring und Control System zum Einsatz kommen.\nEs wurde bereits ein BPMN 2.0 Diagramm begonnen, um die Funktionsweise des Monitoring\nund Control Systems zu visualisieren. Es basiert auf folgender Prozessbeschreibung:\n• Tritt eine Störung auf, versucht das Monitoring und Control System zunächst eine\nSelbstentstörung durchzuführen.\n• Ist diese erfolgreich, wird der Vorfallszähler für den ursächlichen Fehler um 1 erhöht.\nDie Störung ist behoben und der Prozess endet.\n• Ist die Selbstentstörung nicht erfolgreich, wird der Fahrer über die Störung informiert.\n• Dieser versucht daraufhin, den Fehler zu identifizieren.\n• Ist der Fehler bekannt (known error), wird vom System der Vorfallszähler um 1 erhöht.\nDas System schlägt einen Workaround vor (vorläufige Problemlösung). Der Fahrer setzt\nden Workaround um und behebt so die Störung.\n• Ist der Fehler unbekannt (unkown error), muss der Fahrer für den Fehler einen Work-\naround suchen. Danach muss er Fehler/ Workaround in der Known-Error-Datenbank\ndokumentieren und den Workaround umsetzen. Das System speichert die Dokumen-\ntation in der Known-Error-Datenbank. Ist beides erledigt, endet der Prozess.\nVervollständigen Sie folgendes Diagramm, indem Sie die fehlenden Aktivitäten eintragen.\n￼\n￼\n￼\n￼",
+      "source_text_status": "text",
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=29",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 30,
+      "source_section_chars": 2042,
+      "source_text": "BGWP LF 6 – 1.6 Business Process Model and Notation (BPMN)\nDiagrammvorlage zu Aufgabe 3 (Sensofood-Logistik GmbH – Monitoring und Control System, vgl. Seite 29; unausgefüllte Lücken):\n\nPool 1: Monitoring und Control System\n- Startereignis: „Störung aufgetreten“\n- -> Service-Task (Zahnräder): „Selbstentstörung durchführen“\n- -> XOR-Gateway (X):\n  - Zweig „Entstörung erfolgreich“:\n    -> Script-Task (Skript): „Vorfallszähler um 1 erhöhen“\n    -> Endereignis: „Störung behoben“\n  - Zweig „Entstörung nicht erfolgreich“:\n    -> [Lücke: Service-Task] -> Übergang zu Pool 2 (Zwischenereignis „Fahrer informiert“)\n- Fortsetzung aus Pool 2 („known error“):\n  -> [Lücke: Script-Task] -> [Lücke: Service-Task] -> Übergang zurück zu Pool 2 (XOR-Zusammenführung vor Manual-Task)\n- Fortsetzung aus Pool 2 („unknown error“, paralleler Dokumentationszweig):\n  -> [Lücke: Script-Task] -> Endereignis: „Störung behoben“\n\nPool 2: Lkw-Fahrer\n- Zwischenereignis: „Fahrer informiert“\n- -> [Lücke: User-Task]\n- -> XOR-Gateway (X):\n  - Zweig „known error“ -> Übergang zu Pool 1 ([Lücke: Script-Task])\n  - Zweig „unknown error“:\n    -> [Lücke: User-Task]\n    -> Parallel-Gateway (+):\n       - Zweig 1 -> XOR-Zusammenführung (mit Rückfluss aus Pool 1 „known error“) -> [Lücke: Manual-Task] -> Endereignis: „Störung behoben“\n       - Zweig 2 -> [Lücke: Service-Task] -> Übergang zu Pool 1 ([Lücke: Script-Task] -> Endereignis „Störung behoben“)",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=30",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 1,
+      "source_section_chars": 626,
+      "source_text": "> - PDF-Seite: [Unbenannt.pdf Seite 1](<99_Originale/Berufsschule/BGWP/2_LJ/Unbenannt.pdf#page=1>) > - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/2_LJ/Unbenannt.pdf#page=1]]` > Vermutlich Handschrift, Scan oder leere Seite. Bei der visuellen Prüfung entweder verifizierte Transkription ergänzen oder die Seite als leer/ausgeschlossen markieren. #### Extrahierter Originaltext für Suche und KI ```text ```",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Unbenannt_Einzelseite#page=1",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Unbenannt_Einzelseite.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/Unbenannt.pdf",
       "current_modules": [
 
       ],
@@ -36336,8 +36831,8 @@
     },
     {
       "page": 35,
-      "source_section_chars": 1860,
-      "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\n7\n4.3 Anrede\nDie eigentliche Textnachricht beginnt mit der Begrüßung des Empfängers. Welche\nAnrede gewählt wird, hängt stark von der Beziehung bzw. dem Bekanntheitsgrad\nzwischen Sender und Empfänger ab. Nachstehende Varianten der Anrede betrachten\nausschließlich den geschäftlichen Kontext.\nBekanntheitsgrad Anrede\nEmpfänger namentlich unbekannt,\nErstkontakt\nEmpfänger namentlich bekannt,\nErstkontakt\nRespektvolles bekanntes Verhältnis\nRespektvolles sehr bekanntes\nVerhältnis, nach mehrmaligem\nKontakt\nZusätzliche Hinweise:\n• Nach der Anrede wird stets ein Komma gesetzt! Anschließend erfolgt eine Leerzeile.\nNach der Leerzeile schreibt man klein weiter!\n• Werden im Adressfeld „An“ mehrere Hauptempfänger angegeben, so müssen diese\nbei der Anrede berücksichtigt werden. Möchte man die Adressaten namentlich\nansprechen, so sollte man die hierarchische Ordnung nach Dienstgrad\nberücksichtigen. Zum Beispiel wird zuerst der Schulleiter, dann der Klassenleiter\naufgeführt: „Sehr geehrter Herr Gauder, sehr geehrter Herr Wild,“. Bei\ngleichgestellten Personen werden i.d.R. Frauen vor Männern und ältere vor jüngeren\nPersonen genannt, sofern ein deutlicher Altersunterschied vorliegt.\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA",
+      "source_section_chars": 2366,
+      "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\n7\n4.3 Anrede\nDie eigentliche Textnachricht beginnt mit der Begrüßung des Empfängers. Welche\nAnrede gewählt wird, hängt stark von der Beziehung bzw. dem Bekanntheitsgrad\nzwischen Sender und Empfänger ab. Nachstehende Varianten der Anrede betrachten\nausschließlich den geschäftlichen Kontext.\nBekanntheitsgrad Anrede\nEmpfänger namentlich unbekannt,\nErstkontakt\nEmpfänger namentlich bekannt,\nErstkontakt\nRespektvolles bekanntes Verhältnis\nRespektvolles sehr bekanntes\nVerhältnis, nach mehrmaligem\nKontakt\nZusätzliche Hinweise:\n• Nach der Anrede wird stets ein Komma gesetzt! Anschließend erfolgt eine Leerzeile.\nNach der Leerzeile schreibt man klein weiter!\n• Werden im Adressfeld „An“ mehrere Hauptempfänger angegeben, so müssen diese\nbei der Anrede berücksichtigt werden. Möchte man die Adressaten namentlich\nansprechen, so sollte man die hierarchische Ordnung nach Dienstgrad\nberücksichtigen. Zum Beispiel wird zuerst der Schulleiter, dann der Klassenleiter\naufgeführt: „Sehr geehrter Herr Gauder, sehr geehrter Herr Wild,“. Bei\ngleichgestellten Personen werden i.d.R. Frauen vor Männern und ältere vor jüngeren\nPersonen genannt, sofern ein deutlicher Altersunterschied vorliegt.\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\nSehr geehrte Damen und Herren\nSehr gechte Frau\n\nHandschriftliche Einträge in Tabelle 4.3 Anrede (Bekanntheitsgrad -> Anrede):\n- Empfänger namentlich unbekannt, Erstkontakt: Sehr geehrte Damen und Herren\n- Empfänger namentlich bekannt, Erstkontakt: Sehr geehrte Frau [unvollständig notiert]\n- Respektvolles bekanntes Verhältnis: (unausgefüllt)\n- Respektvolles sehr bekanntes Verhältnis, nach mehrmaligem Kontakt: (unausgefüllt)",
       "source_text_status": "text",
       "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=35",
       "subject": "Deutsch",
@@ -36402,8 +36897,8 @@
     },
     {
       "page": 37,
-      "source_section_chars": 2117,
-      "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\n9\nNachricht beim Empfänger vorgestellt und Ihm sein Anliegen mitgeteilt. Man\nunterscheidet an dieser Stelle deshalb nur noch den Erst- und den Folgekontakt.\n(Hinweis: Im Gegensatz zur Anrede, wird nach der Grußformel kein Komma gesetzt!)\nBekanntheitsgrad Grußformel\nErstkontakt\nFolgekontakt\nAbschließende Hinweise:\nEgal ob als Anfrage, Bestellung, Bewerbung oder Beschwerde, meist möchte man mit\neiner E-Mail eine mehr oder weniger bekannte und häufig auch ranghöhere Person zu\neinem bestimmten Verhalten bewegen. Im Gegensatz zur privaten Kommunikation\nbeinhaltet die geschäftliche Mail demnach meist ein bestimmtes Machtgefälle. Um\ndieses Gefälle zu würdigen, sollte der Empfänger merken, dass die E-Mail mit großer\nSorgfalt verfasst wurde. Beachte deshalb noch folgende Gesichtspunkte:\nVermeide unbedingt Rechtsschreib-, Grammatik- oder Satzbaufehler!\nVermeide Fehler in der Kommasetzung (Wenn du dir unsicher bist, versuche\nkürzere Sätze, ohne Nebensatz zu formulieren!)\nHalte die unter Abschnitt 4 besprochene Struktur ein und achte auf Leerzeilen\nzwischen den Abschnitten!\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\n￼\n\nVisuelles Aufbauschema einer Geschäftsmail (Grafik am Seitenende):\nAnrede,\n[Leerzeile]\nEinleitung (klein weiter)\n[Leerzeile]\nHauptteil 1\n[Leerzeile]\nHauptteil 2\n[Leerzeile]\nHauptteil X\n[Leerzeile]\nSchluss\n[Leerzeile]\nGrußformel",
+      "source_section_chars": 2358,
+      "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\n9\nNachricht beim Empfänger vorgestellt und Ihm sein Anliegen mitgeteilt. Man\nunterscheidet an dieser Stelle deshalb nur noch den Erst- und den Folgekontakt.\n(Hinweis: Im Gegensatz zur Anrede, wird nach der Grußformel kein Komma gesetzt!)\nBekanntheitsgrad Grußformel\nErstkontakt\nFolgekontakt\nAbschließende Hinweise:\nEgal ob als Anfrage, Bestellung, Bewerbung oder Beschwerde, meist möchte man mit\neiner E-Mail eine mehr oder weniger bekannte und häufig auch ranghöhere Person zu\neinem bestimmten Verhalten bewegen. Im Gegensatz zur privaten Kommunikation\nbeinhaltet die geschäftliche Mail demnach meist ein bestimmtes Machtgefälle. Um\ndieses Gefälle zu würdigen, sollte der Empfänger merken, dass die E-Mail mit großer\nSorgfalt verfasst wurde. Beachte deshalb noch folgende Gesichtspunkte:\nVermeide unbedingt Rechtsschreib-, Grammatik- oder Satzbaufehler!\nVermeide Fehler in der Kommasetzung (Wenn du dir unsicher bist, versuche\nkürzere Sätze, ohne Nebensatz zu formulieren!)\nHalte die unter Abschnitt 4 besprochene Struktur ein und achte auf Leerzeilen\nzwischen den Abschnitten!\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAA\n￼\nMit freundlichen Grüßen\nMit netten Grüßen\n,\nBeste Grüße\n\nHandschriftliche Einträge in Tabelle 4.7 Verabschiedung/Grußformel (Bekanntheitsgrad -> Grußformel):\n- Erstkontakt: Mit freundlichen Grüßen\n- Folgekontakt: Mit netten Grüßen, Beste Grüße\n\nVisuelles Strukturschema am Seitenende (Aufbau mit Leerzeilen):\nAnrede,\n[Leerzeile]\nEinleitung (klein weiter)\n[Leerzeile]\nHauptteil 1\n[Leerzeile]\nHauptteil 2\n[Leerzeile]\nHauptteil X\n[Leerzeile]\nSchluss\n[Leerzeile]\nGrußformel",
       "source_text_status": "text",
       "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=37",
       "subject": "Deutsch",
@@ -36435,8 +36930,8 @@
     },
     {
       "page": 38,
-      "source_section_chars": 911,
-      "source_text": "> - PDF-Seite: [Skript_Deutsch.pdf Seite 38](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=38>) > - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=38]]` #### Datenschutzsichere Inhaltszusammenfassung > Personen-, Firmen-, Kontakt-, Bank-, Register- und vergleichbare Identifikationsdaten sowie problematische unkontextualisierte Formulierungen werden nicht an KI-Systeme weitergegeben. Für Zahlen oder Layout ist die lokale Originalseite maßgeblich. - Visuell bestätigtes Hauptthema: **Geschäftsmail** - Kanonische Themen: **Geschäftsmail** - Ergänzende Einordnung: Formatierung, Umgangssprache, Übung Geschäftsmail - Inhaltstyp: aufgabe",
+      "source_section_chars": 2140,
+      "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\n10\nVermeide Umgangssprache und versuche dich gewählt auszudrücken!\nDeine Formatierung wird auch an den Empfänger übertragen. Achte also auf die\nVerwendung einer schlichten serifenlosen Schriftart (z.B. Aptos, Arial, Verdana,\nTahoma), schwarzer Schriftfarbe, einer einheitlichen Schriftgröße und einen\nangemessenen Zeilenabstand (1,15 oder 1,33)!\nPrüfe deine E-Mail stets gründlich, bevor du sie abschickst!\nAchte darauf, dass dein Email nicht offensichtlich mit KI erstellt wurde (siehe\nIndizien für KI-basierte Texterstellung)\nÜbung 1:\nAuf der Folgeseite findest du eine E-Mail an deinen Chef.\na) Die Nachricht soll an die Mailadresse deines Chefs chef@bestefirma.de gesendet\nwerden. Herrn Wild michael.wild@bs1in.de möchtest du auch informieren. Das soll\njedoch niemand wissen. Außerdem möchtest du deinen Ausbilder\nausbilder@bestefirma.de von der Kontaktaufnahme mit dem Chef in Kenntnis setzen.\nTrage die E-Mailadressen in die betreffenden Adresszeilen ein.\nb) Formuliere einen geeigneten Betreff für die Nachricht und trage diesen in die\nBetreffzeile ein.\nc) Wähle eine geeignete Anrede für deine Nachricht und füge diese in die entsprechende\nZeile ein.\nd) Wähle eine geeignete Grußformel für deine Nachricht und füge diese in die\nentsprechende Zeile ein.\ne) Markiere alle Zeilennummern, für die Zeilen, an denen du Leerzeilen einfügen\nwürdest. Füge mit einem senkrechten Strich „|“ ggf. auch passende Zeilenumbrüche\nein.\nf) Markiere und verbessere Textstellen, an denen Umgangssprache verwendet wurde.\ng) Prüfe die Mail abschließend auf Grammatik, Rechtschreibung sowie Kommasetzung\nund markiere die entsprechenden Stellen bzw. verbessere diese.",
       "source_text_status": "text",
       "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=38",
       "subject": "Deutsch",
@@ -36468,8 +36963,8 @@
     },
     {
       "page": 39,
-      "source_section_chars": 1771,
-      "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\n11\n1\n2\n3 ich hoffe, es geht Ihnen gut. Ich möchte mal kurz mit Ihnen über etwas sprechen, das mir\n4 sehr am Herzen liegt. Nach reiflicher Überlegung und intensiver Auseinandersetzung mit\n5 meinen bisherigen Erfarungen und Leistungen in der Ausbildung würde ich gerne die\n6 Möglichkeit einer Verkürzung meiner Lehrzeit in Betrachd ziehen. Ich bin überzeugt, das ich\n7 durch meine engagierte Mitarbeit sowie die bereits erworbenen Kenntnisse und Fähigkeiten in\n8 der Lage bin, die Ausbildungsinhalte in einem verkürzten Zeitraum zu checken. Hier sind ein par\n9 Punkte, die meine bitte unterstützen: In den vergangenen Monaten habe ich echt nur positive\n10 Rückmeldungen von meinen Ausbilder und meinen Berufsschullehrkräften bekommen,\n11 und konnte meine Aufgaben immer erfolgreich und eigenverantwortlich erledigen. Durch meine\n12 vorherigen Jobs bringe ich bereits relevante Kentnisse mit, die mir helfen, die\n13 Ausbildungsinhalte schneller zu erfassen und anzuwenden. Eine Verkürzung der Lehrzeit\n14 würde es mir ermöglichen, schneller Verantwortung zu übernehmen und einen wertvollen\n15 Beitrag zum Unternehmen zu leisten. Eine frühere Abschlusprüfung könnte mir zudem helfen,\n16 schneller in eine Position zu gelangen, in der ich meine Fähigkeiten voll ausspielen kann, was ja\n￼",
+      "source_section_chars": 2347,
+      "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\n11\n1\n2\n3 ich hoffe, es geht Ihnen gut. Ich möchte mal kurz mit Ihnen über etwas sprechen, das mir\n4 sehr am Herzen liegt. Nach reiflicher Überlegung und intensiver Auseinandersetzung mit\n5 meinen bisherigen Erfarungen und Leistungen in der Ausbildung würde ich gerne die\n6 Möglichkeit einer Verkürzung meiner Lehrzeit in Betrachd ziehen. Ich bin überzeugt, das ich\n7 durch meine engagierte Mitarbeit sowie die bereits erworbenen Kenntnisse und Fähigkeiten in\n8 der Lage bin, die Ausbildungsinhalte in einem verkürzten Zeitraum zu checken. Hier sind ein par\n9 Punkte, die meine bitte unterstützen: In den vergangenen Monaten habe ich echt nur positive\n10 Rückmeldungen von meinen Ausbilder und meinen Berufsschullehrkräften bekommen,\n11 und konnte meine Aufgaben immer erfolgreich und eigenverantwortlich erledigen. Durch meine\n12 vorherigen Jobs bringe ich bereits relevante Kentnisse mit, die mir helfen, die\n13 Ausbildungsinhalte schneller zu erfassen und anzuwenden. Eine Verkürzung der Lehrzeit\n14 würde es mir ermöglichen, schneller Verantwortung zu übernehmen und einen wertvollen\n15 Beitrag zum Unternehmen zu leisten. Eine frühere Abschlusprüfung könnte mir zudem helfen,\n16 schneller in eine Position zu gelangen, in der ich meine Fähigkeiten voll ausspielen kann, was ja\n￼\nchefcbost fina\n,\nde\nmichael wird\nausbilde be\nTerminanfrage: Verkürzung Lehrzeit\nSehr geehrter Her\n...\n\nHandschriftliche Einträge im E-Mail-Kopf und in Zeile 1 (Übung 1):\n- An: chef@beste-firma.de\n- Cc: michael.wild (Hinweis: laut Aufgabenstellung auf Seite 38 eigentlich Bcc für Herrn Wild und Cc für den Ausbilder)\n- Bcc: ausbilde@be [handschriftlich abgekürzt/unvollständig notiert]\n- Betreff: Terminanfrage: Verkürzung Lehrzeit\n- Zeile 1 (Anrede): Sehr geehrter Herr ...\n- Zeile 2: (Leerzeile)",
       "source_text_status": "text",
       "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=39",
       "subject": "Deutsch",
@@ -36505,6 +37000,138 @@
       "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\n12\n17 auch im Interese des Unternehmens wäre. Ich wäre Ihnen echt dankbar wenn wir einen\n18 Termin für ein persönliches Gespräch vereinbaren könnten um diese Möglichkeit näher zu\n19 besprechen.\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30",
       "source_text_status": "text",
       "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=40",
+      "subject": "Deutsch",
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 41,
+      "source_section_chars": 1767,
+      "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\nÜbung 2: Schulaufgabenvorbereitung\nDu schreibst eine E-Mail an deine Hausverwaltung (hausverwaltung@ingolstadt.de), in\nder du dich über den während der Feiertage (24.12.24 09:00 Uhr bis 26.12.24 15:00 Uhr)\nvorgefallenen Heizungsdefekt beschweren möchtest. Auch dem Hausmeister, Herr\nSchulz, mit dem du dich bereits mehrmals im Treppenhaus unterhalten hast, möchtest\ndu in Kopie Bescheid geben (hausmeister@ingolstadt.de). Als „geheime“ Kopie schickst\ndu die E-Mail zudem an deinen Anwalt (detlef@immerrecht.de).\nDer Heizungsdefekt führte dazu, dass die Wohnräume nicht ausreichend beheizt werden\nkonnten, weshalb du auf die Nutzung eines Heizlüfters ausweichen musstest. Du hast\ndich am 24.12.24 im Zeitraum von 09:00 Uhr bis 19:00 Uhr insgesamt 14-mal bei der\nServicehotline der Hausverwaltung telefonisch gemeldet, konntest allerdings\nniemanden erreichen. Du möchtest darauf hinweisen, dass dies inakzeptabel ist, da\ngemäß Mietvertrag eine 24h-Hotline zugesichert wird. Ferner möchtest du eine\nEntschädigung für deine durch den Heizlüfter entstandenen Energiekosten. Die\nHausverwaltung soll sich bis spätestens 10.02.25 schriftlich bei dir melden. Andernfalls\nsiehst du dich gezwungen, rechtliche Schritte einzuleiten. Für weitere Rückfragen stehst\ndu jederzeit zur Verfügung.",
+      "source_text_status": "text",
+      "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=41",
+      "subject": "Deutsch",
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 42,
+      "source_section_chars": 534,
+      "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\n2\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n￼",
+      "source_text_status": "text",
+      "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=42",
+      "subject": "Deutsch",
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 43,
+      "source_section_chars": 556,
+      "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\n3\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39",
+      "source_text_status": "text",
+      "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=43",
+      "subject": "Deutsch",
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 44,
+      "source_section_chars": 546,
+      "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\n4\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58",
+      "source_text_status": "text",
+      "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=44",
       "subject": "Deutsch",
       "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
       "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
@@ -40299,8 +40926,8 @@
     },
     {
       "page": 5,
-      "source_section_chars": 1390,
-      "source_text": "1.2 Übungsaufgaben (Kunde ZoF-GmbH – IT-Datensicherheitskonzept)\nAufgabe 5: Nenne zwei Risiken, vor denen Daten geschützt werden sollten, um die Datensicherheit zu gewährleisten.\n- Datenverlust durch Festplattenausfall\n- Datendiebstahl durch Angreifer\n\nSzenario NAS: Nettokapazität 12 TiByte; Diskussion RAID 10 oder RAID 5 mit jeweils 4 Festplatten (verfügbar: 4, 6 oder 8 TiByte).\nAufgabe 6: Höchstens gleichzeitig ausfallende Festplatten ohne Datenverlust (Disk 1 bis 4):\n- RAID 10: 2 Platten, Beispiel: Disk 1 + Disk 3 (aus unterschiedlichen Spiegelpaaren)\n- RAID 5: 1 Platte, Beispiel: Disk 1\n\nAufgabe 7: Funktion einer Hot-Spare-Festplatte:\nEine Reservefestplatte, die eingebaut und betriebsbereit ist und im Normalbetrieb ungenutzt bleibt. Bei Ausfall einer Platte springt sie automatisch ein.",
+      "source_section_chars": 1984,
+      "source_text": "FU-IT | RAID | Seite 5\n1.2 Übungsaufgaben\n\nFür unseren Kunden - die ZoF-GmbH - soll ein neues IT-Datensicherheitskonzept erstellen.\n\nAufgabe 5: Nenne zwei Risiken, vor denen Daten geschützt werden sollten, um die Datensicherheit zu gewährleisten.\n\nDie Daten der ZoF-GmbH sollen auf einem NAS abgelegt werden. Es wird diskutiert, ein RAID 10 oder RAID 5 mit jeweils vier Festplatten einzurichten (siehe Abbildungen).\nDas NAS soll eine Nettokapazität von 12 TiByte bieten. Es stehen Festplatten mit 4, 6 oder 8 TiByte Kapazität zur Verfügung.\n\nAbbildungen:\n- RAID 10 (4 Festplatten: Disk 1 bis Disk 4): Striping über zwei Spiegelpaare – Disk 1 (A, C, E) gespiegelt auf Disk 2 (A, C, E); Disk 3 (B, D, F) gespiegelt auf Disk 4 (B, D, F).\n- RAID 5 (4 Festplatten: Disk 1 bis Disk 4): Striping mit verteilter Parität – Zeile 1: A, B, C, P(ABC); Zeile 2: D, E, P(DEF), F; Zeile 3: G, P(GHI), H, I; Zeile 4: P(JKL), J, K, L.\n\nAufgabe 6: Nenne für RAID 10 und für RAID 5 jeweils anhand eines Beispiels Festplatten (Disk 1 bis 4), die höchstens gleichzeitig ausfallen können, ohne dass ein Datenverlust eintritt.\nTabelle (unausgefüllt): Spalten „Ausgefallene Disks ohne Datenverlust“ und „Beispiel“ für die Zeilen „RAID 10“ und „RAID 5“.\n\nAufgabe 7: Das NAS soll mit einer Hot-Spare-Festplatte betrieben werden. Erläutere die Funktion einer Hot-Spare-Festplatte.",
       "source_text_status": "ocr",
       "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften#page=5",
       "subject": "ITT_IT_Technik",
@@ -40332,8 +40959,8 @@
     },
     {
       "page": 6,
-      "source_section_chars": 1008,
-      "source_text": "Aufgabe 8: Ermittlung für NAS (12 TiByte Nettokapazität, 4 HDDs) mit RAID 10 vs. RAID 5:\n- RAID 10: Kapazität pro Festplatte = 6 TiByte | Anzahl HDD = 4 | Bruttokapazität = 24 TiByte | Nettokapazität = 12 TiByte | Speichereffizienz (Netto/Brutto) = 50 %\n- RAID 5:  Kapazität pro Festplatte = 4 TiByte | Anzahl HDD = 4 | Bruttokapazität = 16 TiByte | Nettokapazität = 12 TiByte | Speichereffizienz (Netto/Brutto) = 75 %",
+      "source_section_chars": 1244,
+      "source_text": "FU-IT | RAID | Seite 6\n\nAufgabe 8: Ermittle für ein NAS mit RAID Level 10 und ein NAS mit RAID Level 5 jeweils:\n- die Kapazität pro Festplatte\n- die Bruttokapazität\n- die Speichereffizienz des NAS.\nTrage die ermittelten Werte in folgende Tabelle ein. Die Rechenwege sind anzugeben.\n\nTabelle (unausgefüllt):\nSpalten: RAID Level | Kapazität pro Festplatte in TiByte | Anzahl HDD | Bruttokapazität NAS in TiByte | Nettokapazität NAS in TiByte | Speichereffizienz* NAS in %\n- RAID Level 10: Anzahl HDD = 4 (übrige Felder leer)\n- RAID Level 5: Anzahl HDD = 4 (übrige Felder leer)\n* Verhältnis Netto- zu Bruttokapazität",
       "source_text_status": "ocr",
       "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften#page=6",
       "subject": "ITT_IT_Technik",
@@ -40365,8 +40992,8 @@
     },
     {
       "page": 7,
-      "source_section_chars": 1623,
-      "source_text": "Szenario Rusticus GmbH (Digitalisierungsinitiative):\nZwei Storage Arrays mit je max. 16 Festplatten zu je 4 TiB.\nSpeicherbedarf: Datenbank 10 TiB + Nutzdaten 6 TiB + Puffer 10 TiB = 26 TiB.\nArchitektur: RAID 6 mit Hot-Spare-Festplatte.\n\nAufgabe 9: Benötigte Festplatten:\nGesamtspeicherbedarf: 10 TiB + 6 TiB + 10 TiB = 26 TiB\nAnzahl benötigter Datenplatten: 26 TiB / 4 TiB = 6,5 -> aufgerundet 7 Datenplatten\nGesamtzahl Festplatten: 7 (Daten) + 2 (RAID-6-Parität) + 1 (Hot-Spare) = 10 Festplatten.\n\nArchivsystem: 60 GiB/Monat Dokumentendaten, Komprimierungsrate 70 % (Restgröße 30 %), 2 TiB reservierter Speicher, Zeitraum 10 Jahre.\nAufgabe 10: Speicherplatz für 10 Jahre:\n60 GiB * 12 * 10 = 7200 GiB (unkomprimiert)\n7200 GiB * 0,3 = 2160 GiB = 2,16 TiB (Hinweis: binär exakt 2160 / 1024 = 2,109 TiB; im Rechenweg dezimal genähert 2,16 TiB).\n\nAufgabe 11: Wie lange reicht der reservierte Speicher (2 TiB, auf ganze Jahre abgerundet):\n2,16 TiB / 10 Jahre = 0,216 TiB pro Jahr\n2 TiB / 0,216 TiB/Jahr = 9,25 Jahre -> abgerundet 9 Jahre.",
+      "source_section_chars": 1894,
+      "source_text": "FU-IT | RAID | Seite 7\n\nBei der Rusticus GmbH soll im Zuge der Digitalisierungsinitiative im Winter 2022 ein neuer Datenbankserver aufgebaut werden, da mit einem erhöhten Datenaufkommen zu rechnen ist. Als Datenspeicherlösung stehen zwei Storage Arrays mit je maximal sechzehn Festplatten zu je 4 TiB zur Verfügung.\n\nDie Datenbank ist 10 TiB groß. Zusätzlich werden 6 TiB für Nutzdaten und 10 TiB als Puffer benötigt. Um die geforderte Verfügbarkeit sicherzustellen, entscheidest du dich unter anderem zur Nutzung von RAID 6 mit Hot-Spare-Festplatte.\n\nAufgabe 9: Berechne, wie viele Festplatten benötigt werden, um den Speicherbedarf zu decken und die Architekturanforderungen zu erfüllen.\n\nEinige Zulieferer erstellen weiterhin Lieferscheine, Angebote und Rechnungen in Papierform. Diese sollen digital archiviert werden.\nPro Monat werden 60 GiB Dokumentendaten erzeugt. Diese werden mit einer Komprimierungsrate von 70 % gepackt und auf ein Archivsystem kopiert, auf dem 2 TiB Speicher für die Daten reserviert ist. Dort sollen Sie für zehn Jahre gespeichert werden.\n\nAufgabe 10: Berechne den Speicherplatz, der für die Speicherung der Daten für 10 Jahre benötigt wird.\n\nAufgabe 11: Berechne, wie lange der reservierte Speicher reicht. Runde auf ganze Jahre ab.",
       "source_text_status": "ocr",
       "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften#page=7",
       "subject": "ITT_IT_Technik",
@@ -41354,6 +41981,270 @@
       }
     },
     {
+      "page": 30,
+      "source_section_chars": 1873,
+      "source_text": "Staatliche Berufsschule 1 Ingolstadt Elektrotechnik/IT\nName: Seite 1 / 4 Datum:\n24.11.2026 otma 1\nFach: ITS Anwendungsschicht (engl. Application Layer) Klasse:\n1. Erklären Sie kurz den Begriff Client-Server bezogen auf Netzwerkkommunikation!\nDer Client sendet eine Anforderung an einen Serr. Der\nver bearbeitet diese Anfrage und sende die Informati\n_\nnen an d\n_ ___\n2. Was versteht man unter einem Windows Dienst und wie heißt er unter Linux?\nDer Client sendet eine Anforderung an einen Serr. Der\nDer Client sendet eine Anforderung an einen Serr. Der\nDer Client sendet eine Anforderung an einen Serr. Der\n3. Erklären Sie kurz die Aufgabe eines…\nDNS-Servers (und die folgenden Record-Typen: A, AAA, NS, CNAME und MS):\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nDHCP-Servers: Er vergibt IP- Adresse\n_ __\nund Sunetz\n_\nmas k\n_\nts\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nssh-Servers: . Domain Name Server – er stellt\n__\ndie IP\n_\nresse\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer",
+      "source_text_status": "text",
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=30",
+      "subject": "ITT_IT_Technik",
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 31,
+      "source_section_chars": 1128,
+      "source_text": "Staatliche Berufsschule 1 Ingolstadt Elektrotechnik/IT\nName: Seite 2 / 4 Datum:\n24.11.2026 otma 2\n4. Weisen Sie den drei Schichten zugehörige Protokolle zu!\n5. Erklären Sie kurz die Aufgabe folgender Protokolle:\nSMTP: Simple Mail Transfer Protocol – Übertragung von eMails\nan den Server. eMails werden am Server gespeichert .\nPOP3: Post Office Protocol – Zum Downloaden von Emails vom\nServer. eMails werden auf dem Server gelöscht. .\nIMAP4: Internet Message Access Protocol – eMails werden vom\nServer abgerufen. eMails bleiben am Server erhalten. .\n6. Ergänzen Sie den Protocol Stack inkl. Portnummer für den links dargestellten Server.\n5-7\n4\n3\n￼\n￼\n￼",
+      "source_text_status": "text",
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=31",
+      "subject": "ITT_IT_Technik",
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 32,
+      "source_section_chars": 1327,
+      "source_text": "Staatliche Berufsschule 1 Ingolstadt Elektrotechnik/IT\nName: Seite 3 / 4 Datum:\n24.11.2026 otma 3\n7. Zeichnen Sie den DHCP-Prozess (und Nachrichtenart?), der beim Einschalten eines Client-PCs abläuft!\n8. Scheiben Sie die folgenden Abkürzungen aus und erklären Sie kurz deren Bedeutung und tragen Sie die\nBegriffe in das untere Schaubild ein.\nMUA _______________________________________________________________________________\n____________________________________________________________________________________\nMDA _______________________________________________________________________________\n____________________________________________________________________________________\nMTA_______________________________________________________________________________\n____________________________________________________________________________________\n￼",
+      "source_text_status": "text",
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=32",
+      "subject": "ITT_IT_Technik",
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 33,
+      "source_section_chars": 2539,
+      "source_text": "Staatliche Berufsschule 1 Ingolstadt Elektrotechnik/IT\nName: Seite 4 / 4 Datum:\n24.11.2026 otma 4\n9. Erläutern Sie wofür und wie der Befehl nslookup verwendet wird!\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n10. Wofür wird SMB / CIFS verwendet und was bedeuten die Abkürzungen?\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n11. Was ist SFTP(S)?\n____________________________________________________________________________________\n____________________________________________________________________________________\n12. Welche Verbesserungen hat HTTP/2 eingeführt?\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\nFile Transfer Protocol überträgt Daten über IT-Netzwerke",
+      "source_text_status": "text",
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=33",
+      "subject": "ITT_IT_Technik",
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 34,
+      "source_section_chars": 2550,
+      "source_text": "Staatliche Berufsschule 1 Ingolstadt – Elektrotechnik/IT (24.11.2026, otma, Seite 1/4)\nFach: ITS – Anwendungsschicht (engl. Application Layer)\n\n1. Erklären Sie kurz den Begriff Client-Server bezogen auf Netzwerkkommunikation!\nEin Client (Dienstnehmer) sendet über ein Netzwerk Anfragen (Requests) an einen Server (Dienstgeber). Der Server verarbeitet diese Anfragen, stellt Dienste oder Ressourcen (z. B. Webseiten, Dateien, Datenbanken) bereit und sendet die Antwort (Response) zurück.\n\n2. Was versteht man unter einem Windows Dienst und wie heißt er unter Linux?\nEin Windows-Dienst ist ein im Hintergrund laufendes Programm ohne Benutzeroberfläche, das automatisch beim Systemstart oder bei Bedarf gestartet wird und System- bzw. Netzwerkfunktionen bereitstellt. Unter Linux heißt ein solcher Hintergrunddienst Daemon (z. B. sshd, httpd).\n\n3. Erklären Sie kurz die Aufgabe eines…\n- DNS-Servers (und die folgenden Record-Typen: A, AAA, NS, CNAME und MS):\n  Löst lesbare Domainnamen (z. B. www.beispiel.de) in IP-Adressen auf und umgekehrt (Domain Name System).\n  • A-Record: Ordnet einem Domainnamen eine IPv4-Adresse zu.\n  • AAAA-Record (im Blatt: AAA): Ordnet einem Domainnamen eine IPv6-Adresse zu.\n  • NS-Record (Name Server): Benennt den zuständigen autoritativen DNS-Server für eine Domain.\n  • CNAME-Record (Canonical Name): Definiert einen Alias, der auf einen anderen Domainnamen verweist.\n  • MX-Record (Mail Exchange, im Blatt: MS): Legt den zuständigen Mailserver (inkl. Priorität) für den E-Mail-Empfang einer Domain fest.\n- DHCP-Servers:\n  Weist Clients im Netzwerk automatisch und dynamisch Netzwerkkonfigurationen zu (IP-Adresse, Subnetzmaske, Standardgateway und DNS-Server).\n- ssh-Servers:\n  Ermöglicht verschlüsselten, sicheren Fernzugriff (Remote-Login/Konsole) sowie sichere Datenübertragung über unsichere Netzwerke (Standardport TCP 22).",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=34",
+      "subject": "ITT_IT_Technik",
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 35,
+      "source_section_chars": 2012,
+      "source_text": "Staatliche Berufsschule 1 Ingolstadt – Elektrotechnik/IT (24.11.2026, otma, Seite 2/4)\nAnwendungsschicht (engl. Application Layer)\n\n4. Weisen Sie den drei Schichten zugehörige Protokolle zu!\n- Schichten 5–7 (Protokolle der Anwendungsschicht): HTTP, HTTPS, DNS, DHCP, SMTP, POP3, IMAP4, FTP, SFTP, SSH, SMB/CIFS\n- Schicht 4 (Protokolle der Transportschicht): TCP, UDP\n- Schicht 3 (Protokolle der Netzwerkschicht): IP (IPv4, IPv6), ICMP, IPSec, ARP\n\n5. Erklären Sie kurz die Aufgabe folgender Protokolle:\n- SMTP: Simple Mail Transfer Protocol – dient zum Versenden von E-Mails vom Client zum Mailserver sowie zur Weiterleitung zwischen Mailservern (Standardport TCP 25 / 587).\n- POP3: Post Office Protocol v3 – dient zum Abrufen von E-Mails vom Mailserver; Nachrichten werden standardmäßig lokal heruntergeladen und auf dem Server gelöscht (TCP 110 / 995).\n- IMAP4: Internet Message Access Protocol v4 – verwaltet E-Mails direkt auf dem Mailserver; Ordner und Lesestatus werden über mehrere Endgeräte synchronisiert (TCP 143 / 993).\n\n6. Ergänzen Sie den Protocol Stack inkl. Portnummer für den links dargestellten Server (Webserver):\n- Anwendungsschicht: HTTP (Port 80) / HTTPS (Port 443)\n- Transportschicht: TCP\n- Internetschicht / Netzwerkschicht: IP (IPv4 / IPv6)\n- Netzzugangsschicht: Ethernet (IEEE 802.3)",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=35",
+      "subject": "ITT_IT_Technik",
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 36,
+      "source_section_chars": 2159,
+      "source_text": "Staatliche Berufsschule 1 Ingolstadt – Elektrotechnik/IT (24.11.2026, otma, Seite 3/4)\nAnwendungsschicht (engl. Application Layer)\n\n7. Zeichnen Sie den DHCP-Prozess (und Nachrichtenart?), der beim Einschalten eines Client-PCs abläuft!\nSequenzdiagramm (DHCP-Client ↔ DHCP-Server):\n1. DHCP-Client → DHCP-Server: DHCPDISCOVER (Broadcast – Suche nach DHCP-Server)\n2. DHCP-Server → DHCP-Client: DHCPOFFER (Unicast / Broadcast – IP-Angebot)\n3. DHCP-Client → DHCP-Server: DHCPREQUEST (Broadcast – Annahme des Angebots)\n4. DHCP-Server → DHCP-Client: DHCPACK (Unicast / Broadcast – Bestätigung & Lease)\n\n8. Schreiben Sie die folgenden Abkürzungen aus und erklären Sie kurz deren Bedeutung und tragen Sie die Begriffe in das untere Schaubild ein:\n- MUA: Mail User Agent – E-Mail-Client (z. B. Outlook, Thunderbird, Webmail), mit dem der Benutzer E-Mails verfasst, versendet und liest.\n- MDA: Mail Delivery Agent – nimmt empfangene E-Mails vom MTA entgegen und stellt sie in das jeweilige Benutzerpostfach (Mailbox) zu.\n- MTA: Mail Transfer Agent – Mailserver-Dienst, der E-Mails entgegennimmt und über SMTP an den Ziel-Mailserver weiterleitet.\n\nSchaubild „E-mail Server - MDA“:\n- Sender-Client: MUA → (Send E-mail via SMTP) → Ausgangs-Mailserver: MTA\n- Ausgangs-Mailserver (MTA) → (Forward E-mail via SMTP) → Ziel-Mailserver: MTA + MDA\n- Ziel-Mailserver (MTA / MDA) → (Deliver E-mail via POP) → Empfänger-Client (Recipient): MUA\nHinweis im Schaubild: „SMTP is used to forward e-mail. POP is used to deliver e-mail.“",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=36",
+      "subject": "ITT_IT_Technik",
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 37,
+      "source_section_chars": 2605,
+      "source_text": "Staatliche Berufsschule 1 Ingolstadt – Elektrotechnik/IT (24.11.2026, otma, Seite 4/4)\nAnwendungsschicht (engl. Application Layer)\n\n9. Erläutern Sie wofür und wie der Befehl nslookup verwendet wird!\nnslookup (Name Server Lookup) ist ein Kommandozeilen-Tool zur Abfrage von DNS-Servern und zur Diagnose von DNS-Problemen. Es löst Domainnamen in IP-Adressen auf (und umgekehrt). Verwendung in der Konsole: z. B. „nslookup www.beispiel.de“ oder gezielt nach Record-Typen mit „nslookup -type=MX beispiel.de“.\n\n10. Wofür wird SMB / CIFS verwendet und was bedeuten die Abkürzungen?\nSMB (Server Message Block) und CIFS (Common Internet File System, ältere SMB-Version) sind Netzwerkprotokolle für die Datei-, Ordner- und Druckerfreigabe im lokalen Netzwerk. Sie ermöglichen in Windows-Netzwerken sowie unter Linux (über Samba) den gemeinsamen Zugriff auf Netzwerkressourcen.\n\n11. Was ist SFTP(S)?\n- Handschriftliche Notiz: File Transfer Protocol überträgt Daten über IT-Netzwerke\n- Lösung: SFTP (SSH File Transfer Protocol) überträgt Dateien verschlüsselt über SSH (Port 22); FTPS nutzt FTP mit TLS/SSL.\n\n12. Welche Verbesserungen hat HTTP/2 eingeführt?\n• Binäres Protokoll: Daten werden binär statt als Klartext übertragen (schnelleres, fehlerfreieres Parsen).\n• Multiplexing: Mehrere Anfragen und Antworten laufen gleichzeitig über eine einzige TCP-Verbindung (beseitigt das Head-of-Line-Blocking auf HTTP-Ebene).\n• Header-Komprimierung (HPACK): Komprimiert wiederkehrende HTTP-Header und reduziert den Daten-Overhead.\n• Server Push: Der Server kann benötigte Ressourcen (z. B. CSS, JavaScript) proaktiv an den Client senden, noch bevor dieser sie explizit anfordert.\n• Stream-Priorisierung: Clients können festlegen, welche Ressourcen vorrangig übertragen werden sollen.\n• Höhere Geschwindigkeit & geringere Latenz: Durch weniger Verbindungsaufbauten und parallele Streams laden Webseiten deutlich schneller (in der Praxis meist kombiniert mit TLS/HTTPS).",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=37",
+      "subject": "ITT_IT_Technik",
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
       "page": 1,
       "source_section_chars": 1736,
       "source_text": "OSI-Schicht3 – IPv4 IT-Systeme\nName Klasse Datum\nSeite 1\n1 IPv4\n1.1 Schreibweise\n- 32-stellige Binärzahl\n- 4 Oktette zu je 8 Bit\n- Ein Oktett als dezimale Zahl dargestellt\nÜbung: Umwandeln dezimal – binär\n192.168.10.10:\n____________________________________________________\nÜbung: Umwandeln binär – dezimal\n00001010.00000000.00100010.00011011:\n___________________________________\n1.2 Subnetzmaske\nEine IPv4-Adresse besteht aus 2 Teilen, dem Netz- und dem Hostteil.\nDie Bits, die im Netzadressteil enthalten sind, müssen bei allen Geräten, die im gleichen Netzwerk\nbeheimatet sind, identisch sein. Die Bits innerhalb des Hostadressteils müssen im jeweiligen Netz\neinzigartig sein, um einen speziellen Host im Netzwerk zu identifizieren.\nSubnetzmaske und Präfixlänge\nDie Subnetzmaske kann in dezimaler Notation und als Präfixlänge (Anzahl der Bits in der Subnetz-\nmaske die auf 1 gesetzt sind) angegeben werden.\nÜbung: Geben Sie für die nachfolgenden Subnetzmasken die Präfixlängen an.\n255.255.192.0\n____________________\n192.0.0.0\n____________________\n240.0.0.0 ____________________ 255.255.224.0\n____________________\n￼\n￼\n11000000. 10101000.\n00001010\n10\n.\n0\n.\n39\n.\n27\nAnzahl Teilnehmer:\n2-\n2= 25 G Anzahl Bits\nim Hostteil\nBroadcast\nu.\nNetzadresse\n118 2\nµ ig",
@@ -41755,6 +42646,72 @@
       "source_text": "Seite 10\nDas letzte Netz 172.31.0.0 / 16 soll jetzt weiter unterteilt werden – also mit VLSM (d.h. dass ver-\nschiedene Subnetzmasken innerhalb eines Netzes vorkommen). Als Anforderung soll gelten, dass\ndie neu entstehenden Subnetze mindestens 150 Teilnehmer adressieren können.\nVervollständigen Sie die nachfolgende Tabelle!\nSubnetz 1 Subnetz 2 Subnetz 3 Subnetz 4 Letztes Sub-\nnetz\nNetzadresse\n1.Hostadresse\nLetzte Hostadresse\nBroadcast-Adresse\nAnzahl der neuen\nSubnetze\nAnzahl der Teil-\nnehmer pro Sub-\nnetz\nNeue Subnetz-\nmaske\nb) Unterteilen Sie wieder das letzte Subnetz – diesmal mit der Subnetzmaske /30.\n• Wie viele neue Subnetze entstehen dabei? ______________________________\n• Geben Sie die Netzadresse, die 1. und die letzte Hostadresse sowie die Broadcast-\nAdresse des ersten und letzten Subnetzes an!\nSubnetz 1 Letztes Subnetz\nNetzadresse\n1.Hostadresse\nLetzte Hostadresse\nBroadcast-Adresse\n• Erläutern Sie, warum es keinen Sinn macht, eine Subnetzmaske /31 zu verwenden.\n___________________________________________________________________\n___________________________________________________________________",
       "source_text_status": "text",
       "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=13",
+      "subject": "ITT_IT_Technik",
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 14,
+      "source_section_chars": 3641,
+      "source_text": "OSI-Schicht3 – IPv4 IT-Systeme\nName Klasse Datum\nSeite 1\n1.1 Bestimmung der Netzadresse\nWenn eine IPv4-Adresse einem Gerät zugewiesen wurde, verwendet das Gerät die Subnetz-\nmaske um zu bestimmen, zu welcher Netzwerkadresse das Gerät gehört. Die Netzwerkad-\nresse ist die Adresse, die alle Geräte in einem gleichen Netzwerk darstellt.\nUm die Netzadresse zu bestimmen, wird eine UND-Verknüpfung von IP-Adresse und Sub-\nnetzmaske durchgeführt.\n1.2 Übungen\nÜbung: Bestimmen Sie die Netz- und Broadcastadressen, so wie die Präfixlänge.\nIP-Adresse: 192.168.112.99 IP-Adresse: 192.168.13.158\nSubnetzmaske: 255.255.192.0 /_______ Subnetzmaske: 255.255.255.224 /_____\nNetzadresse: ______________________ Netzadresse: ______________________\nBroadcastadresse: __________________ Broadcastadresse: _________________\nAnzahl Hosts:\n______________________\nAnzahl Hosts: ____________________\nIP-Adresse: 172.30.126.11 IP-Adresse: 10.98.212.34\nSubnetzmaske: 255.255.192.0 /______ Subnetzmaske: 255.248.0.0 /_______\nNetzadresse: ______________________ Netzadresse: ____________________\nBroadcastadresse: __________________ Broadcastadresse: _________________\nAnzahl Hosts: ______________________ Anzahl Hosts: _____________________\nIP-Adresse: 10.199.14.12\nSubnetzmaske: 255.240.0.0 /_________\nNetzadresse: ______________________\nBroadcastadresse: __________________\nAnzahl Hosts: ______________________\nM8 ㄻ\n192\n,\n168.64.0 152.168.13.128\n152\n.168.127\n.\n258 192\n.\n768.73\n.\n153\n16\n.\n38L ㉚\n18 3\n172\n,\n30\n. 6G\n.\n0 10. 96.0.0\n72,30.727 .255 10 .\n103.255.252\n76\n.\n382 529\n,\n2& 6\n조\n10\n.\n1g2\n.\n\nOSI-Schicht3 – IPv4 | IT-Systeme (Seite 1)\n\n1.1 Bestimmung der Netzadresse\nWenn eine IPv4-Adresse einem Gerät zugewiesen wurde, verwendet das Gerät die Subnetzmaske, um zu bestimmen, zu welcher Netzwerkadresse das Gerät gehört. Die Netzwerkadresse ist die Adresse, die alle Geräte in einem gleichen Netzwerk darstellt.\nUm die Netzadresse zu bestimmen, wird eine UND-Verknüpfung von IP-Adresse und Subnetzmaske durchgeführt.\n\n1.2 Übungen\nÜbung: Bestimmen Sie die Netz- und Broadcastadressen, sowie die Präfixlänge.\n\nAufgabe 1:\n- IP-Adresse: 192.168.112.99\n- Subnetzmaske: 255.255.192.0 / 18\n- Netzadresse: 192.168.64.0\n- Broadcastadresse: 192.168.127.255\n- Anzahl Hosts: 16.382\n\nAufgabe 2:\n- IP-Adresse: 192.168.13.158\n- Subnetzmaske: 255.255.255.224 / 27\n- Netzadresse: 192.168.13.128\n- Broadcastadresse: 192.168.13.159\n- Anzahl Hosts: 30\n\nAufgabe 3:\n- IP-Adresse: 172.30.126.11\n- Subnetzmaske: 255.255.192.0 / 18\n- Netzadresse: 172.30.64.0\n- Broadcastadresse: 172.30.127.255\n- Anzahl Hosts: 16.382\n\nAufgabe 4:\n- IP-Adresse: 10.98.212.34\n- Subnetzmaske: 255.248.0.0 / 13\n- Netzadresse: 10.96.0.0\n- Broadcastadresse: 10.103.255.255\n- Anzahl Hosts: 524.286\n\nAufgabe 5 (handschriftlich angefangen, unvollständig):\n- IP-Adresse: 10.199.14.12\n- Subnetzmaske: 255.240.0.0 / 12\n- Netzadresse: 10.192. (unvollständig)\n- Broadcastadresse: (leer)\n- Anzahl Hosts: (leer)",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=14",
+      "subject": "ITT_IT_Technik",
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 15,
+      "source_section_chars": 2644,
+      "source_text": "OSI-Schicht3 – IPv4 | IT-Systeme (Seite 1 – vollständige Musterlösung & Kurzanleitung)\n\n1.1 Bestimmung der Netzadresse\nWenn eine IPv4-Adresse einem Gerät zugewiesen wurde, verwendet das Gerät die Subnetzmaske, um zu bestimmen, zu welcher Netzwerkadresse das Gerät gehört. Die Netzwerkadresse ist die Adresse, die alle Geräte in einem gleichen Netzwerk darstellt.\nUm die Netzadresse zu bestimmen, wird eine UND-Verknüpfung von IP-Adresse und Subnetzmaske durchgeführt.\n\n1.2 Übungen\nÜbung: Bestimmen Sie die Netz- und Broadcastadressen, sowie die Präfixlänge.\n\nAufgabe 1:\n- IP-Adresse: 192.168.112.99\n- Subnetzmaske: 255.255.192.0 / 18\n- Netzadresse: 192.168.64.0\n- Broadcastadresse: 192.168.127.255\n- Anzahl Hosts: 16.382\n\nAufgabe 2:\n- IP-Adresse: 192.168.13.158\n- Subnetzmaske: 255.255.255.224 / 27\n- Netzadresse: 192.168.13.128\n- Broadcastadresse: 192.168.13.159\n- Anzahl Hosts: 30\n\nAufgabe 3:\n- IP-Adresse: 172.30.126.11\n- Subnetzmaske: 255.255.192.0 / 18\n- Netzadresse: 172.30.64.0\n- Broadcastadresse: 172.30.127.255\n- Anzahl Hosts: 16.382\n\nAufgabe 4:\n- IP-Adresse: 10.98.212.34\n- Subnetzmaske: 255.248.0.0 / 13\n- Netzadresse: 10.96.0.0\n- Broadcastadresse: 10.103.255.255\n- Anzahl Hosts: 524.286\n\nAufgabe 5:\n- IP-Adresse: 10.199.14.12\n- Subnetzmaske: 255.240.0.0 / 12\n- Netzadresse: 10.192.0.0\n- Broadcastadresse: 10.207.255.255\n- Anzahl Hosts: 1.048.574\n\nKurzanleitung (So geht's einfach):\n1. Präfixlänge (/x):\n   Alle 1-Bits der Subnetzmaske zählen.\n   Merke: 255 = 8 Bits. Rest aus Tabelle:\n   128=1, 192=2, 224=3, 240=4, 248=5.\n2. Blockgröße (Schrittweite):\n   Im Oktett, das nicht 255 oder 0 ist:\n   256 - Maskenwert = Schrittweite.\n   (Bsp. 256 - 192 = 64 -> 0, 64, 128, 192)\n3. Netzadresse:\n   Das größte Vielfache der Schrittweite <= IP-Oktett. Oktette dahinter = 0.\n4. Broadcastadresse:\n   Nächstes Netz minus 1 im selben Oktett. Oktette dahinter = 255.\n5. Anzahl Hosts:\n   Formel: 2^(32 - Präfix) - 2\n   (-2 für Netz- und Broadcastadresse).",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=15",
       "subject": "ITT_IT_Technik",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf",
@@ -60574,10 +61531,142 @@
     },
     {
       "page": 14,
-      "source_section_chars": 1258,
-      "source_text": "PUG 11.1 – Staatsziele und Staatsordnung – Grundgesetz vs. Weimarer Verfassung\n… und ihre Folgen: Die Machtergreifung Adolf Hitlers (Arbeitsblatt, teilweise ausgefüllt)\n\n- 30. Januar 1933: Reichskanzler ernannt\n- 01. Februar 1933: Neuwahlen Parlament\n- 04. Februar 1933: Pressefreiheit eingeschränkt\n- Schikane gegen: Gegner der NSDAP\n- 28. Februar 1933: (nicht ausgefüllt)\n- Propaganda: „Nur Hitler kann DE schützen“\n- Ermächtigungsgesetz: (nicht ausgefüllt) -> Beginn der Diktatur Hitler\n- Ab April 1933: Reichsstatthalter eingesetzt\n- Verbot anderer Parteien: (nicht ausgefüllt)\n\nHinweis auf Lernvideo: Errichtung der NS-Diktatur | Nationalsozialismus | musstewissen Geschichte",
+      "source_section_chars": 1622,
+      "source_text": "PUG 11.1 – Staatsziele und Staatsordnung – Grundgesetz vs. Weimarer Verfassung\n… und ihre Folgen\nDie Machtergreifung Adolf Hitlers\n\n- 30. Januar 1933: Hitler zum Reichskanzler ernannt\n- 01. Februar 1933: Notverordnung: Auflösung des Parlaments durch den Reichspräsidenten Paul von Hindenburg -> Neuwahlen\n- 04. Februar 1933: Einschränken von Presse- und Versammlungsfreiheit\n- Schikane gegen Gegner der NSDAP\n- 28. Februar 1933: Reichstagsbrandverordnung: Grundrechte werden außer Kraft gesetzt\n- Propaganda: Nur Hitler kann DE schützen\n- Ermächtigungsgesetz: Regierung kann ohne Parlament Gesetze erlassen -> Beginn der Diktatur Hitler\n- Länderparlamente werden aufgelöst\n- Ab April 1933: Verhaftung (politischer) Gegner in KZs\n- Verbot anderer Parteien: Einparteienstaat (Verbot aller anderen Parteien + Verbot von Partei-Neugründungen)\n\nDie Infos zur Machtergreifung Adolf Hitlers gibt's im Video: Errichtung der NS-Diktatur | Nationalsozialismus | musstewissen Geschichte\nhttps://www.youtube.com/watch?v=CB7kYw60M1M",
       "source_text_status": "ocr",
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=14",
+      "subject": "PuG_Politik_und_Gesellschaft",
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 15,
+      "source_section_chars": 1758,
+      "source_text": "PUG 11.1 – Staatsziele und Staatsordnung – Wertgebundenheit im GG\nTotalitäre Systeme – die Diktatur am Beispiel des nationalsozialistischen Dritten Reichs (1933 – 1945)\n\nDemokratie vs. Diktatur\n\nDemokratie (Grundrechte im GG):\n- Artikel 1: Schutz der Menschenwürde\n- Artikel 2: Freiheit der Person\n- Artikel 3: Gleichheit vor dem Gesetz\n- Artikel 4: Glaubens- und Gewissensfreiheit\n- Artikel 5: Freie Meinungsäußerung\n- Artikel 9: Vereinigungsfreiheit\n\nMachterwerb und Herrschaftsausübung (Demokratie):\n- Freie Wahlen\n- Volkssouveränität\n- Gewaltenteilung\n\nDiktatur (NS-Drittes Reich 1933–1945):\n- Ausgrenzung und Verfolgung von Juden, politischen Gegnern usw.\n- Kennzeichnungspflicht für Juden\n- Bestrafung bei Meinungsäußerung gegen Regime\n- Euthanasie: Ermordung kranker und behinderter Menschen\n- eigenes Reichsministerium für Propaganda\n- unmenschliche Lebens- und Arbeitsbedingungen in KZs (Vernichtungs- und/oder Arbeitslager)\n\nMachterwerb und Herrschaftsausübung (Diktatur):\n- seit 1933: keine regelmäßigen, geheimen und unabhängigen Wahlen\n- eine Person (= Diktatur) hat uneingeschränkte Macht -> Führer Adolf Hitler",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=15",
+      "subject": "PuG_Politik_und_Gesellschaft",
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 16,
+      "source_section_chars": 2243,
+      "source_text": "PUG 11.1 – Staatsziele und Staatsordnung – totalitäre Systeme\nMöchtest Du tauschen? – Jugend in der DDR –\nWie geht es jungen Leuten in totalitären Staaten?\n\n1. Was weißt Du über die DDR?\nDDR = Deutsche Demokratische Republik\nEntstanden 1949 aus der sowjetischen Besatzungszone.\nHerrschende Partei: SED\nHerrschende Ideologie: Kommunismus / Sozialismus\n- Einwohnerzahlen (Mio.): 1949: 18,8 | 1961: 17,1 | 1989: 16,4\n- Volksaufstand am 17. Juni 1953\n- Mauerbau am 13.8.1961\n- Aus dem „Arbeiterparadies“ sind ca. 3,8 Mio. geflüchtet. Dabei starben ca. min. 140 („Mauertote“).\n\nDie Deutsche Demokratische Republik verstand sich formal als sozialistische Volksdemokratie, in der die politische Macht jedoch de facto von der Sozialistischen Einheitspartei Deutschlands (SED) ausgeübt wurde. Andere Parteien existierten nur formal und waren in der Nationalen Front mit der SED zusammengeschlossen, wodurch ein pluralistisches System nur auf dem Papier bestand.\nGewaltenteilung gab es nicht; staatliche Organe wie Volkskammer, Ministerrat und Staatsrat waren eng mit der SED verbunden, sodass man von einer Parteidiktatur sprechen kann.\n\n2. Das kurze Leben des Michael Gartenschläger\na) Wie alt war Michael, als er Probleme mit dem DDR-Staat bekam? 17 J.\nb) Welches Hobby war der Grund dafür? Rock'n Roll\nc) Warum war der 14.8.1961 ein einschneidendes Datum in Michaels Leben? Einstellen des Betriebes vom Rock'n'Roll Club\nd) Was haben Michael und seine Freunde getan, um ihrem Ärger Luft zu machen und Veränderungen zu erreichen? Parolen verbreitet und Brandstiftung an einer Scheune\ne) Wie lautete das Gerichtsurteil dafür? (offen / nicht ausgefüllt)",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=16",
+      "subject": "PuG_Politik_und_Gesellschaft",
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 17,
+      "source_section_chars": 1402,
+      "source_text": "PUG\n11.1\nStaatsziele und Staatsordnung – totalitäre\nSysteme\nKlasse:\nDatum:\n3. Fluchtversuche aus der DDR – Mut, Verzweiflung und Freiheit\n1. Die Ballonflucht (1979)\n• Wer? Die Familien Strelzyk und Wetzel.\n• Wie? Sie nähten heimlich einen\nHeißluftballon aus über 1.200 m² Stoff.\n• Ergebnis: Nach einem gescheiterten\nVersuch gelang ihnen am 16. September 1979 die Flucht nach Bayern.\n2. Peter Fechter (1962)\n• Wer? Der 18-jährige Maurer Peter Fechter.\n• Wie? Er wollte mit einem Freund über die\nBerliner Mauer fliehen.\n• Ergebnis: DDR-Grenzsoldaten schossen auf ihn.\nEr verblutete im Todesstreifen, ohne Hilfe zu\nerhalten.\n• Bedeutung: Sein Tod löste weltweit Empörung\naus und machte die Brutalität des\nGrenzregimes sichtbar.\n3. Wolfgang Engels (1963)\n• Wer? Wolfgang Engels, Soldat der Nationalen\nVolksarmee.\n• Wie? Er entwendete einen Schützenpanzer\nund rammte die Berliner Mauer.\n• Ergebnis: Er wurde angeschossen, konnte aber\nmit Hilfe von West-Berlinern gerettet werden.\n￼\n￼\n￼\n￼",
+      "source_text_status": "text",
+      "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=17",
+      "subject": "PuG_Politik_und_Gesellschaft",
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 18,
+      "source_section_chars": 1813,
+      "source_text": "PUG\n11.1\nStaatsziele und Staatsordnung – totalitäre\nSysteme\nKlasse:\nDatum:\n4. Peter Döbler (1971)\n• Wer? Peter Döbler, ein Leistungsschwimmer.\n• Wie? Er schwamm über 45 Kilometer durch die\nOstsee nach Schleswig-Holstein.\n• Ergebnis: Nach mehr als 20 Stunden erreichte er\nerschöpft die Bundesrepublik.\n5. Michael Gartenschläger (1976) – Rückkehr an die Grenze\n• Wer? Michael Gartenschläger, ehemaliger DDR-Häftling.\n• Was geschah? Nach seiner Freilassung in den Westen kehrte er heimlich\nan die Grenze zurück und baute zwei Selbstschussanlagen (SM-70) ab,\num ihre Existenz zu beweisen.\n• Ergebnis: Bei einem weiteren\nVersuch wurde er 1976 von einem Stasi-\nSpezialkommando erschossen.\n• Besonderheit: Er wollte nicht\nfliehen, sondern die Welt über die\nGrenzanlagen informieren.\nZwischen 1949 und 1989 versuchten viele Menschen, aus der DDR in die\nBundesrepublik Deutschland zu fliehen. Die Gründe waren unterschiedlich:\nfehlende Freiheit, politische Verfolgung, Reiseverbote oder der Wunsch nach\neinem selbstbestimmten Leben.\nDie Flucht war lebensgefährlich. Die Grenze war mit Zäunen, Minen,\nWachtürmen, Grenzsoldaten und später sogar Selbstschussanlagen gesichert.\nViele Menschen wurden bei Fluchtversuchen verletzt oder getötet.\nAufgaben:\n1. Warum waren viele Menschen bereit, bei einer Flucht aus der DDR ihr\nLeben zu riskieren?\n2. Welche Geschichte beeindruckt dich am meisten? Begründe!\n￼\n￼",
+      "source_text_status": "text",
+      "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=18",
       "subject": "PuG_Politik_und_Gesellschaft",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
       "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",

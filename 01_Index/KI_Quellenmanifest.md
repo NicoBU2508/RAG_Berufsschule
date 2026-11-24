@@ -19,40 +19,40 @@ Dieses Manifest klassifiziert jede Projektdatei nach ihrer Rolle für GPT-, RAG-
 
 ## Abdeckung
 
-- Dateien insgesamt: **744**
+- Dateien insgesamt: **896**
 - Stand: **2026-11-24**
 - Generator: `ruby 01_Index/Tools/build_ki_manifest.rb`
 
 | KI-Nutzung | Dateien |
 |---|---:|
-| `excluded` | 384 |
-| `navigation` | 97 |
-| `operational` | 23 |
-| `primary` | 188 |
-| `verify_only` | 52 |
+| `excluded` | 522 |
+| `navigation` | 107 |
+| `operational` | 24 |
+| `primary` | 190 |
+| `verify_only` | 53 |
 
 | Rolle | Dateien |
 |---|---:|
 | `agent_customization` | 8 |
 | `copilot_prompt` | 17 |
-| `curated_topic` | 137 |
+| `curated_topic` | 139 |
 | `duplicate_pdf` | 3 |
 | `entrypoint` | 2 |
 | `exam_archive` | 1 |
-| `excluded_source_note` | 3 |
-| `flashcard_index` | 1 |
+| `excluded_source_note` | 4 |
+| `flashcard_index` | 138 |
 | `generated_learning_index` | 9 |
 | `generated_learning_module` | 129 |
 | `generated_vault_index` | 1 |
 | `import_inbox` | 1 |
 | `legacy_topic` | 30 |
-| `maintenance_tool` | 15 |
+| `maintenance_tool` | 16 |
 | `navigation_index` | 10 |
 | `obsidian_configuration` | 14 |
-| `original_pdf` | 52 |
+| `original_pdf` | 53 |
 | `private_or_archive` | 5 |
 | `project_metadata` | 3 |
-| `quality_or_navigation` | 66 |
+| `quality_or_navigation` | 76 |
 | `source_note` | 49 |
 | `subject_index` | 18 |
 | `template` | 3 |

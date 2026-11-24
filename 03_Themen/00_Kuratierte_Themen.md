@@ -17,7 +17,7 @@ tags:
 
 # Visuell geprüfte Themen
 
-Dieser Index enthält **137 kanonische Themen**. Jede Zuordnung beruht auf der Sichtprüfung der konkreten PDF-Seite. Themenseiten navigieren; Quellnotiz und Original-PDF belegen.
+Dieser Index enthält **139 kanonische Themen**. Jede Zuordnung beruht auf der Sichtprüfung der konkreten PDF-Seite. Themenseiten navigieren; Quellnotiz und Original-PDF belegen.
 
 ## Anwendungsentwicklung
 
@@ -146,6 +146,7 @@ Dieser Index enthält **137 kanonische Themen**. Jede Zuordnung beruht auf der S
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Betriebsrat und Betriebsverfassung|Betriebsrat und Betriebsverfassung]]
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Bezugskalkulation und Verkaufskalkulation|Bezugskalkulation und Verkaufskalkulation]]
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Bundesurlaubsgesetz|Bundesurlaubsgesetz]]
+- [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Business Process Model and Notation BPMN|Business Process Model and Notation BPMN]]
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Deckungsbeitrag und Gewinnschwelle|Deckungsbeitrag und Gewinnschwelle]]
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Direkter und indirekter Vertrieb|Direkter und indirekter Vertrieb]]
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Ereignisgesteuerte Prozessketten EPK|Ereignisgesteuerte Prozessketten EPK]]
@@ -166,6 +167,7 @@ Dieser Index enthält **137 kanonische Themen**. Jede Zuordnung beruht auf der S
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Schwerbehinderung|Schwerbehinderung]]
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Sozialversicherung|Sozialversicherung]]
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Tarifvertrag und Koalitionsrecht|Tarifvertrag und Koalitionsrecht]]
+- [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur|Totalitäre Systeme und Diktatur]]
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Unternehmensrecht Handelsregister Vollmachten|Unternehmensrecht Handelsregister Vollmachten]]
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Unternehmensziele|Unternehmensziele]]
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Urheberrecht|Urheberrecht]]

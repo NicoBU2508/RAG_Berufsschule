@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Unbenannt_Einzelseite.md (Seiten 1–1)",
+  "replaces_existing": false,
+  "topic_categories": {
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Unbenannt_Einzelseite.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/Unbenannt.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "leer",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Leere GoodNotes-Karopapierseite ohne fachlichen Inhalt",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    }
+  ]
+}

@@ -2,15 +2,15 @@
 id: vault.thema.visuell.grundgesetz.staatsprinzipien.und.grundrechte
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-23
-reviewed_on: 2026-11-23
+stand: 2026-11-24
+reviewed_on: 2026-11-24
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Grundgesetz Staatsprinzipien und Grundrechte"
 kategorie: Wirtschaft_und_Recht
 quellen: 1
-seiten: 12
+seiten: 13
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift\|PuG_2LJ_Mitschrift]] | [1–10, 12–13](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=1>) | aufgabe, loesung, theorie | 9 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift\|PuG_2LJ_Mitschrift]] | [1–10, 12–13, 15](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=1>) | aufgabe, loesung, theorie | 10 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

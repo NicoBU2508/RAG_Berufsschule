@@ -3,7 +3,7 @@ typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
 original_pfad: "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf"
-seiten: 13
+seiten: 15
 pruefung: "AP1, AP2"
 cssclasses:
   - lernquelle
@@ -12,20 +12,20 @@ tags:
   - quelle
   - itt_it_technik
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-24"
 kanonische_referenzen: true
 kanonische_themen: 4
-seiten_mit_kanonischem_thema: 13
+seiten_mit_kanonischem_thema: 15
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=6, partial=7)"
-textzeichen: 14975
+textstatus: "gemischt: visuell geprüft (ok=6, ocr_verified=2, partial=7)"
+textzeichen: 19856
 ---
 # 📄 00 IPv4 Wiederholung
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
 > - **Original-PDF:** [00_IPv4_Wiederholung.pdf](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf>)
-> - **Seiten:** 13
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=6, partial=7)
+> - **Seiten:** 15
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=6, ocr_verified=2, partial=7)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -33,7 +33,7 @@ textzeichen: 14975
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Binärzahlen\|Binärzahlen]] | Prüfungsrahmen der Quelle | 1 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting\|IPv4-Adressierung und Subnetting]] | Prüfungsrahmen der Quelle | 1–13 | Visuell bestätigt auf 13 Seite(n); bei 7 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting\|IPv4-Adressierung und Subnetting]] | Prüfungsrahmen der Quelle | 1–15 | Visuell bestätigt auf 15 Seite(n); bei 9 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Netzwerktechnik und Netzplan\|Netzwerktechnik und Netzplan]] | Prüfungsrahmen der Quelle | 5 | Visuell bestätigt auf 1 Seite(n). |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/OSI-Schichtenmodell\|OSI-Schichtenmodell]] | Prüfungsrahmen der Quelle | 1 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
@@ -1006,3 +1006,206 @@ ___________________________________________________________________
 ___________________________________________________________________
 ```
 
+### Seite 14
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [00_IPv4_Wiederholung.pdf Seite 14](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=14>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=14]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=14]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+OSI-Schicht3 – IPv4 IT-Systeme
+Name Klasse Datum
+Seite 1
+1.1 Bestimmung der Netzadresse
+Wenn eine IPv4-Adresse einem Gerät zugewiesen wurde, verwendet das Gerät die Subnetz-
+maske um zu bestimmen, zu welcher Netzwerkadresse das Gerät gehört. Die Netzwerkad-
+resse ist die Adresse, die alle Geräte in einem gleichen Netzwerk darstellt.
+Um die Netzadresse zu bestimmen, wird eine UND-Verknüpfung von IP-Adresse und Sub-
+netzmaske durchgeführt.
+1.2 Übungen
+Übung: Bestimmen Sie die Netz- und Broadcastadressen, so wie die Präfixlänge.
+IP-Adresse: 192.168.112.99 IP-Adresse: 192.168.13.158
+Subnetzmaske: 255.255.192.0 /_______ Subnetzmaske: 255.255.255.224 /_____
+Netzadresse: ______________________ Netzadresse: ______________________
+Broadcastadresse: __________________ Broadcastadresse: _________________
+Anzahl Hosts:
+______________________
+Anzahl Hosts: ____________________
+IP-Adresse: 172.30.126.11 IP-Adresse: 10.98.212.34
+Subnetzmaske: 255.255.192.0 /______ Subnetzmaske: 255.248.0.0 /_______
+Netzadresse: ______________________ Netzadresse: ____________________
+Broadcastadresse: __________________ Broadcastadresse: _________________
+Anzahl Hosts: ______________________ Anzahl Hosts: _____________________
+IP-Adresse: 10.199.14.12
+Subnetzmaske: 255.240.0.0 /_________
+Netzadresse: ______________________
+Broadcastadresse: __________________
+Anzahl Hosts: ______________________
+M8 ㄻ
+192
+,
+168.64.0 152.168.13.128
+152
+.168.127
+.
+258 192
+.
+768.73
+.
+153
+16
+.
+38L ㉚
+18 3
+172
+,
+30
+. 6G
+.
+0 10. 96.0.0
+72,30.727 .255 10 .
+103.255.252
+76
+.
+382 529
+,
+2& 6
+조
+10
+.
+1g2
+.
+```
+
+> [!ocr] Visuell transkribiert
+> Handschriftliche Übungslösungen auf Seite 14 wurden bei der Sichtprüfung vollständig und korrekt transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+OSI-Schicht3 – IPv4 | IT-Systeme (Seite 1)
+
+1.1 Bestimmung der Netzadresse
+Wenn eine IPv4-Adresse einem Gerät zugewiesen wurde, verwendet das Gerät die Subnetzmaske, um zu bestimmen, zu welcher Netzwerkadresse das Gerät gehört. Die Netzwerkadresse ist die Adresse, die alle Geräte in einem gleichen Netzwerk darstellt.
+Um die Netzadresse zu bestimmen, wird eine UND-Verknüpfung von IP-Adresse und Subnetzmaske durchgeführt.
+
+1.2 Übungen
+Übung: Bestimmen Sie die Netz- und Broadcastadressen, sowie die Präfixlänge.
+
+Aufgabe 1:
+- IP-Adresse: 192.168.112.99
+- Subnetzmaske: 255.255.192.0 / 18
+- Netzadresse: 192.168.64.0
+- Broadcastadresse: 192.168.127.255
+- Anzahl Hosts: 16.382
+
+Aufgabe 2:
+- IP-Adresse: 192.168.13.158
+- Subnetzmaske: 255.255.255.224 / 27
+- Netzadresse: 192.168.13.128
+- Broadcastadresse: 192.168.13.159
+- Anzahl Hosts: 30
+
+Aufgabe 3:
+- IP-Adresse: 172.30.126.11
+- Subnetzmaske: 255.255.192.0 / 18
+- Netzadresse: 172.30.64.0
+- Broadcastadresse: 172.30.127.255
+- Anzahl Hosts: 16.382
+
+Aufgabe 4:
+- IP-Adresse: 10.98.212.34
+- Subnetzmaske: 255.248.0.0 / 13
+- Netzadresse: 10.96.0.0
+- Broadcastadresse: 10.103.255.255
+- Anzahl Hosts: 524.286
+
+Aufgabe 5 (handschriftlich angefangen, unvollständig):
+- IP-Adresse: 10.199.14.12
+- Subnetzmaske: 255.240.0.0 / 12
+- Netzadresse: 10.192. (unvollständig)
+- Broadcastadresse: (leer)
+- Anzahl Hosts: (leer)
+```
+
+### Seite 15
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [00_IPv4_Wiederholung.pdf Seite 15](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=15>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=15]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=15]]
+
+> [!ocr] Visuell transkribiert
+> Die Seite enthielt keine Textschicht (Bildseite); sämtliche Aufgabenlösungen und die Kurzanleitung wurden bei der Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+OSI-Schicht3 – IPv4 | IT-Systeme (Seite 1 – vollständige Musterlösung & Kurzanleitung)
+
+1.1 Bestimmung der Netzadresse
+Wenn eine IPv4-Adresse einem Gerät zugewiesen wurde, verwendet das Gerät die Subnetzmaske, um zu bestimmen, zu welcher Netzwerkadresse das Gerät gehört. Die Netzwerkadresse ist die Adresse, die alle Geräte in einem gleichen Netzwerk darstellt.
+Um die Netzadresse zu bestimmen, wird eine UND-Verknüpfung von IP-Adresse und Subnetzmaske durchgeführt.
+
+1.2 Übungen
+Übung: Bestimmen Sie die Netz- und Broadcastadressen, sowie die Präfixlänge.
+
+Aufgabe 1:
+- IP-Adresse: 192.168.112.99
+- Subnetzmaske: 255.255.192.0 / 18
+- Netzadresse: 192.168.64.0
+- Broadcastadresse: 192.168.127.255
+- Anzahl Hosts: 16.382
+
+Aufgabe 2:
+- IP-Adresse: 192.168.13.158
+- Subnetzmaske: 255.255.255.224 / 27
+- Netzadresse: 192.168.13.128
+- Broadcastadresse: 192.168.13.159
+- Anzahl Hosts: 30
+
+Aufgabe 3:
+- IP-Adresse: 172.30.126.11
+- Subnetzmaske: 255.255.192.0 / 18
+- Netzadresse: 172.30.64.0
+- Broadcastadresse: 172.30.127.255
+- Anzahl Hosts: 16.382
+
+Aufgabe 4:
+- IP-Adresse: 10.98.212.34
+- Subnetzmaske: 255.248.0.0 / 13
+- Netzadresse: 10.96.0.0
+- Broadcastadresse: 10.103.255.255
+- Anzahl Hosts: 524.286
+
+Aufgabe 5:
+- IP-Adresse: 10.199.14.12
+- Subnetzmaske: 255.240.0.0 / 12
+- Netzadresse: 10.192.0.0
+- Broadcastadresse: 10.207.255.255
+- Anzahl Hosts: 1.048.574
+
+Kurzanleitung (So geht's einfach):
+1. Präfixlänge (/x):
+   Alle 1-Bits der Subnetzmaske zählen.
+   Merke: 255 = 8 Bits. Rest aus Tabelle:
+   128=1, 192=2, 224=3, 240=4, 248=5.
+2. Blockgröße (Schrittweite):
+   Im Oktett, das nicht 255 oder 0 ist:
+   256 - Maskenwert = Schrittweite.
+   (Bsp. 256 - 192 = 64 -> 0, 64, 128, 192)
+3. Netzadresse:
+   Das größte Vielfache der Schrittweite <= IP-Oktett. Oktette dahinter = 0.
+4. Broadcastadresse:
+   Nächstes Netz minus 1 im selben Oktett. Oktette dahinter = 255.
+5. Anzahl Hosts:
+   Formel: 2^(32 - Präfix) - 2
+   (-2 für Netz- und Broadcastadresse).
+```

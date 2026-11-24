@@ -4,12 +4,12 @@
   "basis": "01_Index/PDF_Seitenaudit.json",
   "privacy": "Der private Notenbereich wurde nicht gelesen. Personenbilder in aktiven Quellen wurden aus indexierbaren Seitenblöcken entfernt.",
   "totals": {
-    "audited_active_pdfs": 52,
-    "audited_active_pages": 1356,
-    "canonical_topics": 137,
-    "canonical_evidence_pages": 1226,
+    "audited_active_pdfs": 53,
+    "audited_active_pages": 1389,
+    "canonical_topics": 139,
+    "canonical_evidence_pages": 1251,
     "support_only_pages": 11,
-    "excluded_active_pages": 119,
+    "excluded_active_pages": 127,
     "proven_duplicate_pdfs": 3,
     "proven_duplicate_pages": 97
   },
@@ -67,8 +67,8 @@
       ]
     },
     "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md": {
-      "pages": 17,
-      "canonical_pages": 17,
+      "pages": 19,
+      "canonical_pages": 19,
       "excluded_pages": [
 
       ],
@@ -116,8 +116,8 @@
       ]
     },
     "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md": {
-      "pages": 57,
-      "canonical_pages": 55,
+      "pages": 61,
+      "canonical_pages": 59,
       "excluded_pages": [
         1,
         2
@@ -348,8 +348,8 @@
       ]
     },
     "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md": {
-      "pages": 22,
-      "canonical_pages": 22,
+      "pages": 30,
+      "canonical_pages": 30,
       "excluded_pages": [
 
       ],
@@ -358,9 +358,23 @@
         21
       ],
       "topics": [
+        "Business Process Model and Notation BPMN",
         "Ereignisgesteuerte Prozessketten EPK",
         "Organisation im Betrieb",
         "Prozessmanagement und Geschäftsprozesse"
+      ]
+    },
+    "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Unbenannt_Einzelseite.md": {
+      "pages": 1,
+      "canonical_pages": 0,
+      "excluded_pages": [
+        1
+      ],
+      "support_only_pages": [
+
+      ],
+      "topics": [
+
       ]
     },
     "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md": {
@@ -415,12 +429,15 @@
       ]
     },
     "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md": {
-      "pages": 40,
-      "canonical_pages": 37,
+      "pages": 44,
+      "canonical_pages": 38,
       "excluded_pages": [
         1,
         2,
-        6
+        6,
+        42,
+        43,
+        44
       ],
       "support_only_pages": [
         21
@@ -542,11 +559,15 @@
       ]
     },
     "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md": {
-      "pages": 29,
-      "canonical_pages": 27,
+      "pages": 37,
+      "canonical_pages": 31,
       "excluded_pages": [
         12,
-        26
+        26,
+        30,
+        31,
+        32,
+        33
       ],
       "support_only_pages": [
         14
@@ -561,8 +582,8 @@
       ]
     },
     "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung.md": {
-      "pages": 13,
-      "canonical_pages": 13,
+      "pages": 15,
+      "canonical_pages": 15,
       "excluded_pages": [
 
       ],
@@ -957,8 +978,8 @@
       ]
     },
     "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md": {
-      "pages": 14,
-      "canonical_pages": 14,
+      "pages": 18,
+      "canonical_pages": 18,
       "excluded_pages": [
 
       ],
@@ -967,6 +988,7 @@
       ],
       "topics": [
         "Grundgesetz Staatsprinzipien und Grundrechte",
+        "Totalitäre Systeme und Diktatur",
         "Weimarer Verfassung und Grundgesetz"
       ]
     },
@@ -1337,6 +1359,20 @@
         "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=6"
       ]
     },
+    "Business Process Model and Notation BPMN": {
+      "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Business Process Model and Notation BPMN.md",
+      "category": "Wirtschaft_und_Recht",
+      "pages": [
+        "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=23",
+        "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=24",
+        "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=25",
+        "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=26",
+        "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=27",
+        "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=28",
+        "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=29",
+        "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=30"
+      ]
+    },
     "Company Structure and Departments": {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Company Structure and Departments.md",
       "category": "Deutsch_Englisch_Kommunikation",
@@ -1446,7 +1482,11 @@
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=20",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=21",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=22",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=58",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=59",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=6",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=60",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=61",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=7"
       ]
     },
@@ -1800,7 +1840,8 @@
         "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=37",
         "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=38",
         "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=39",
-        "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=40"
+        "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=40",
+        "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=41"
       ]
     },
     "Gewissen und Verantwortung": {
@@ -1833,7 +1874,6 @@
         "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=26",
         "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=27",
         "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=28",
-        "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=39",
         "02_Faecher/Deutsch/Quellen/Regelsammlung#page=1",
         "02_Faecher/Deutsch/Quellen/Regelsammlung#page=2",
         "02_Faecher/Deutsch/Quellen/Regelsammlung#page=3",
@@ -1849,6 +1889,7 @@
         "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=10",
         "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=12",
         "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=13",
+        "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=15",
         "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=2",
         "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=3",
         "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=4",
@@ -1877,6 +1918,7 @@
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften#page=3",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften#page=4",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften#page=5",
+        "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften#page=7",
         "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1#page=2",
         "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1#page=3",
         "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=1",
@@ -1896,6 +1938,8 @@
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=11",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=12",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=13",
+        "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=14",
+        "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=15",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=2",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=3",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=4",
@@ -2103,8 +2147,6 @@
         "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=21",
         "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=22",
         "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=23",
-        "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=39",
-        "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=40",
         "02_Faecher/Deutsch/Quellen/Regelsammlung#page=6",
         "02_Faecher/Deutsch/Quellen/Regelsammlung#page=7"
       ]
@@ -2374,6 +2416,10 @@
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=25",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=28",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=3",
+        "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=34",
+        "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=35",
+        "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=36",
+        "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=37",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=4",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=5",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=6",
@@ -2432,6 +2478,10 @@
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=28",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=29",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=3",
+        "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=34",
+        "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=35",
+        "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=36",
+        "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=37",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=4",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=5",
         "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=6",
@@ -3336,6 +3386,17 @@
         "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=31"
       ]
     },
+    "Totalitäre Systeme und Diktatur": {
+      "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur.md",
+      "category": "Wirtschaft_und_Recht",
+      "pages": [
+        "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=14",
+        "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=15",
+        "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=16",
+        "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=17",
+        "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=18"
+      ]
+    },
     "UML-Diagramme": {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/UML-Diagramme.md",
       "category": "Anwendungsentwicklung",
@@ -3349,6 +3410,8 @@
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=15",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=16",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=17",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=18",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=19",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=2",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=3",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=4",
@@ -3841,7 +3904,6 @@
         "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=22",
         "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=23",
         "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=25",
-        "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=39",
         "02_Faecher/Deutsch/Quellen/Regelsammlung#page=4",
         "02_Faecher/Deutsch/Quellen/Regelsammlung#page=5"
       ]
@@ -5254,6 +5316,24 @@
       "quote_safe": false
     },
     {
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=18",
+      "status": "evidence",
+      "canonical_topics": [
+        "UML-Diagramme"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=19",
+      "status": "evidence",
+      "canonical_topics": [
+        "UML-Diagramme"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_LF1_Wiederholung#page=1",
       "status": "evidence",
       "canonical_topics": [
@@ -6194,6 +6274,42 @@
       "status": "evidence",
       "canonical_topics": [
         "SQL-Datenmanipulation INSERT UPDATE DELETE"
+      ],
+      "source_text_status": "ok",
+      "quote_safe": true
+    },
+    {
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=58",
+      "status": "evidence",
+      "canonical_topics": [
+        "Datenbankmodellierung und ER-Modell"
+      ],
+      "source_text_status": "ok",
+      "quote_safe": true
+    },
+    {
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=59",
+      "status": "evidence",
+      "canonical_topics": [
+        "Datenbankmodellierung und ER-Modell"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=60",
+      "status": "evidence",
+      "canonical_topics": [
+        "Datenbankmodellierung und ER-Modell"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=61",
+      "status": "evidence",
+      "canonical_topics": [
+        "Datenbankmodellierung und ER-Modell"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -9741,6 +9857,88 @@
       "quote_safe": false
     },
     {
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=23",
+      "status": "evidence",
+      "canonical_topics": [
+        "Business Process Model and Notation BPMN"
+      ],
+      "source_text_status": "ok",
+      "quote_safe": true
+    },
+    {
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=24",
+      "status": "evidence",
+      "canonical_topics": [
+        "Business Process Model and Notation BPMN"
+      ],
+      "source_text_status": "ok",
+      "quote_safe": true
+    },
+    {
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=25",
+      "status": "evidence",
+      "canonical_topics": [
+        "Business Process Model and Notation BPMN"
+      ],
+      "source_text_status": "ok",
+      "quote_safe": true
+    },
+    {
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=26",
+      "status": "evidence",
+      "canonical_topics": [
+        "Business Process Model and Notation BPMN"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=27",
+      "status": "evidence",
+      "canonical_topics": [
+        "Business Process Model and Notation BPMN"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=28",
+      "status": "evidence",
+      "canonical_topics": [
+        "Business Process Model and Notation BPMN"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=29",
+      "status": "evidence",
+      "canonical_topics": [
+        "Business Process Model and Notation BPMN"
+      ],
+      "source_text_status": "ok",
+      "quote_safe": true
+    },
+    {
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=30",
+      "status": "evidence",
+      "canonical_topics": [
+        "Business Process Model and Notation BPMN"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Unbenannt_Einzelseite#page=1",
+      "status": "excluded",
+      "canonical_topics": [
+
+      ],
+      "source_text_status": "ok",
+      "quote_safe": false,
+      "exclusion_reason": "Leere GoodNotes-Karopapierseite ohne fachlichen Inhalt"
+    },
+    {
       "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=1",
       "status": "evidence",
       "canonical_topics": [
@@ -10978,8 +11176,8 @@
       "canonical_topics": [
         "Geschäftsmail"
       ],
-      "source_text_status": "ok",
-      "quote_safe": true
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
     },
     {
       "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=36",
@@ -11012,23 +11210,58 @@
       "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=39",
       "status": "evidence",
       "canonical_topics": [
-        "Geschäftsmail",
-        "Groß- und Kleinschreibung",
-        "Kommasetzung",
-        "das oder dass"
+        "Geschäftsmail"
       ],
-      "source_text_status": "ok",
-      "quote_safe": true
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
     },
     {
       "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=40",
       "status": "evidence",
       "canonical_topics": [
-        "Geschäftsmail",
-        "Kommasetzung"
+        "Geschäftsmail"
       ],
       "source_text_status": "ok",
       "quote_safe": true
+    },
+    {
+      "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=41",
+      "status": "evidence",
+      "canonical_topics": [
+        "Geschäftsmail"
+      ],
+      "source_text_status": "ok",
+      "quote_safe": true
+    },
+    {
+      "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=42",
+      "status": "excluded",
+      "canonical_topics": [
+
+      ],
+      "source_text_status": "ok",
+      "quote_safe": false,
+      "exclusion_reason": "Unausgefüllte Schreibvorlage (leere E-Mail-Maske und Zeilen 1–17 zu Übung 2 ohne Lerninhalt)"
+    },
+    {
+      "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=43",
+      "status": "excluded",
+      "canonical_topics": [
+
+      ],
+      "source_text_status": "ok",
+      "quote_safe": false,
+      "exclusion_reason": "Unausgefüllte Schreibvorlage (leere liniierte Zeilen 18–39 zu Übung 2 ohne Lerninhalt)"
+    },
+    {
+      "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=44",
+      "status": "excluded",
+      "canonical_topics": [
+
+      ],
+      "source_text_status": "ok",
+      "quote_safe": false,
+      "exclusion_reason": "Unausgefüllte Schreibvorlage (leere liniierte Zeilen 40–58 zu Übung 2 ohne Lerninhalt)"
     },
     {
       "id": "02_Faecher/Deutsch/Quellen/Regelsammlung#page=1",
@@ -11824,6 +12057,7 @@
       "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften#page=7",
       "status": "evidence",
       "canonical_topics": [
+        "Hochverfügbarkeit und Redundanz",
         "RAID-Systeme",
         "SI- und IEC-Dateneinheiten"
       ],
@@ -12115,6 +12349,86 @@
       "quote_safe": true
     },
     {
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=30",
+      "status": "excluded",
+      "canonical_topics": [
+
+      ],
+      "source_text_status": "partial",
+      "quote_safe": false,
+      "exclusion_reason": "Unausgefüllte Arbeitsblatt-Vorlage (Seite 1/4); die vollständig ausgefüllte Version befindet sich auf Seite 34."
+    },
+    {
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=31",
+      "status": "excluded",
+      "canonical_topics": [
+
+      ],
+      "source_text_status": "partial",
+      "quote_safe": false,
+      "exclusion_reason": "Unausgefüllte Arbeitsblatt-Vorlage (Seite 2/4); die vollständig ausgefüllte Version befindet sich auf Seite 35."
+    },
+    {
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=32",
+      "status": "excluded",
+      "canonical_topics": [
+
+      ],
+      "source_text_status": "ok",
+      "quote_safe": false,
+      "exclusion_reason": "Unausgefüllte Arbeitsblatt-Vorlage (Seite 3/4); die vollständig ausgefüllte Version befindet sich auf Seite 36."
+    },
+    {
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=33",
+      "status": "excluded",
+      "canonical_topics": [
+
+      ],
+      "source_text_status": "ok",
+      "quote_safe": false,
+      "exclusion_reason": "Nahezu unausgefüllte Arbeitsblatt-Vorlage (Seite 4/4, nur kurze handschriftliche Notiz bei Aufgabe 11); die vollständig ausgefüllte Version inkl. dieser Notiz befindet sich auf Seite 37."
+    },
+    {
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=34",
+      "status": "evidence",
+      "canonical_topics": [
+        "Netzwerktechnik und Netzplan",
+        "OSI-Schichtenmodell"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=35",
+      "status": "evidence",
+      "canonical_topics": [
+        "Netzwerktechnik und Netzplan",
+        "OSI-Schichtenmodell"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=36",
+      "status": "evidence",
+      "canonical_topics": [
+        "Netzwerktechnik und Netzplan",
+        "OSI-Schichtenmodell"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=37",
+      "status": "evidence",
+      "canonical_topics": [
+        "Netzwerktechnik und Netzplan",
+        "OSI-Schichtenmodell"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=1",
       "status": "evidence",
       "canonical_topics": [
@@ -12233,6 +12547,24 @@
       ],
       "source_text_status": "ok",
       "quote_safe": true
+    },
+    {
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=14",
+      "status": "evidence",
+      "canonical_topics": [
+        "IPv4-Adressierung und Subnetting"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=15",
+      "status": "evidence",
+      "canonical_topics": [
+        "IPv4-Adressierung und Subnetting"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
     },
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT#page=1",
@@ -16208,10 +16540,48 @@
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=14",
       "status": "evidence",
       "canonical_topics": [
+        "Totalitäre Systeme und Diktatur",
         "Weimarer Verfassung und Grundgesetz"
       ],
       "source_text_status": "ocr_verified",
       "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=15",
+      "status": "evidence",
+      "canonical_topics": [
+        "Grundgesetz Staatsprinzipien und Grundrechte",
+        "Totalitäre Systeme und Diktatur"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=16",
+      "status": "evidence",
+      "canonical_topics": [
+        "Totalitäre Systeme und Diktatur"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=17",
+      "status": "evidence",
+      "canonical_topics": [
+        "Totalitäre Systeme und Diktatur"
+      ],
+      "source_text_status": "ok",
+      "quote_safe": true
+    },
+    {
+      "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=18",
+      "status": "evidence",
+      "canonical_topics": [
+        "Totalitäre Systeme und Diktatur"
+      ],
+      "source_text_status": "ok",
+      "quote_safe": true
     },
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=1",

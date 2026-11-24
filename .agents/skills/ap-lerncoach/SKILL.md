@@ -128,7 +128,39 @@ Erkenne aus der Nutzeranfrage automatisch, ob ein **neues Thema** oder nur eine 
 | **3. Active-Recall-Quiz** | „Frag mich ab“, Prüfungscheck | 1 Frage nach der anderen (nicht 10 auf einmal!), steigend nach Bloom (Erinnern → Verstehen → Anwenden → Begründen), inkl. Sicherheits-Rating & formativem Feedback |
 | **4. Interleaved Mix / Abgrenzung** | Ähnliche Themen verwechselt, Wiederholung | Kurze Kontrast-Tabelle → gemischte Mini-Fälle, bei denen zuerst die richtige Methode/Kategorie erkannt werden muss |
 | **5. IHK-Prüfungssimulation** | AP1/AP2-Training, Klausurmodus | Realistische Handlungssituation mit explizitem **IHK-Operator** und Punktzahl → Nutzer antwortet → Bewertung nach Punkteschema + Musterformulierung (siehe [ihk-operatoren-und-pruefung.md](./references/ihk-operatoren-und-pruefung.md)) |
-| **6. Feynman-Check & Spaced Plan** | Vertiefung, Karteikarten, Lernplanung | Nutzer erklärt Thema selbst → Lückendiagnose → fertige Anki/Obsidian-Karteikarten + Spaced-Repetition-Wiederholungsplan (`+1 / +3 / +7 / +21 / +60` Tage oder angepasst an Prüfungsdatum) |
+| **6. Feynman-Check & Spaced Plan** | Vertiefung, Lernplanung | Nutzer erklärt Thema selbst → Lückendiagnose → Spaced-Repetition-Wiederholungsplan (`+1 / +3 / +7 / +21 / +60` Tage oder angepasst an Prüfungsdatum) |
+| **7. Karteikarten-Modus (Antigravity)** | *„Karteikarten-Modus“*, *„Lernkarten abfragen“*, *„Karten erstellen/aktualisieren“*, *„Anki-/NotebookLM-Export“* | **Interaktiver Drill** (1 Karte pro Turn: erst Vorderseite ohne Spoiler → Nutzer antwortet oder „Zeigen“ → Rückseite + Quelle + Bewertung `1–4`, schwache Karten kommen am Ende erneut) **ODER** quellenbasiertes Erstellen/Nachziehen von Decks unter `05_Karteikarten/` + Sync & Anki-/NotebookLM-Export |
+
+### 4b. Interaktiver Karteikarten-Modus in Antigravity (Ablauf & Werkzeuge)
+
+Wenn der Nutzer den **Karteikarten-Modus** startet (z. B. *„Karteikarten-Modus für SQL“*, *„Frag mich meine Karten ab“*, *„Erstelle/Aktualisiere Karten zu X“*):
+
+1. **Bestand & Update-Bedarf prüfen (immer zuerst!):**
+   ```bash
+   ruby 01_Index/Tools/sync_karteikarten.rb status --pending
+   ```
+   - Erkennt automatisch, ob für das gewünschte Thema schon ein aktuelles Deck unter `05_Karteikarten/<Kategorie>/<Thema>.md` existiert, ob **neue PDF-Seiten** dazugekommen sind (`Update nötig`), oder ob das Deck erst erstellt werden muss.
+2. **A) Drill-Session (Abfragen aus bestehenden Decks):**
+   ```bash
+   ruby 01_Index/Tools/sync_karteikarten.rb drill "<Thema|Kategorie|all>" --shuffle --limit 10
+   ```
+   - Zeige **genau 1 Karte pro Zug** nach **Layout 8** in [antwort-layouts.md](./references/antwort-layouts.md) (**nur die Vorderseite**, niemals die Rückseite spoilern!).
+   - Nach Nutzerantwort (oder *„Zeigen“*): Rückseite + Quellenbeleg aufdecken, kurzes Feedback geben und Bewertung abfragen: **`1` Nochmal · `2` Schwer · `3` Gut · `4` Leicht**.
+   - Karten mit Bewertung `1` oder `2` am Ende der Runde noch einmal gezielt wiederholen (Active Recall + Hypercorrection); am Rundenende kompakte Trefferstatistik zeigen.
+3. **B) Karten erstellen oder bei neuen Dokumenten nachziehen:**
+   - Lade ausschließlich die visuell geprüften (bzw. neu hinzugekommenen) Seiten per `vault_lookup.rb`.
+   - Erzeuge bei neuem Thema das Deck-Gerüst: `ruby 01_Index/Tools/sync_karteikarten.rb init-deck "<Thema>"`.
+   - Schreibe **atomare, prüfungsnahe Karten** (Definition, Abgrenzung, Mini-Rechen-/Code-Fall, Prüfungsfalle) im Obsidian-Spaced-Repetition-Format (`<!-- card-id: <slug>-NN | typ: <typ> | pruefung: AP1/AP2 -->`, Frage, `?`-Zeile, Antwort + `*Quelle: ...*`).
+   - Aktualisiere Hash, Index und Status:
+     ```bash
+     ruby 01_Index/Tools/sync_karteikarten.rb refresh-meta "<Thema>"
+     ```
+4. **C) Export für Anki & NotebookLM:**
+   ```bash
+   ruby 01_Index/Tools/sync_karteikarten.rb export-anki        # UTF-8 TSV mit stabilen IDs, Decks & Tags
+   ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm  # Kompakte Q&A-Markdown-Pakete je Kategorie
+   ```
+   *(Optional mit `--out "<Zielordner>"` direkt in einen gewünschten Export- oder Google-Drive-Ordner schreiben.)*
 
 ---
 

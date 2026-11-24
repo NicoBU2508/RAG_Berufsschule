@@ -3,7 +3,7 @@ typ: quelle
 fach: "Deutsch"
 fach_anzeige: "Deutsch"
 original_pfad: "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf"
-seiten: 40
+seiten: 44
 pruefung: "AP1, WiSo"
 cssclasses:
   - lernquelle
@@ -12,24 +12,24 @@ tags:
   - quelle
   - deutsch
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-24"
 kanonische_referenzen: true
 kanonische_themen: 10
-seiten_mit_kanonischem_thema: 37
-ki_exclude_seiten: [1,2,6]
+seiten_mit_kanonischem_thema: 38
+ki_exclude_seiten: [1,2,6,42,43,44]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 ki_support_seiten: [21]
 ki_sensitive_seiten: [38]
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=25, ocr_verified=11, redacted_summary=1)"
-textzeichen: 61570
+textstatus: "gemischt: visuell geprüft (ok=24, ocr_verified=13, redacted_summary=1)"
+textzeichen: 64066
 ---
 # 📄 Skript Deutsch
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/Deutsch/Deutsch|Deutsch]]
 > - **Original-PDF:** [Skript_Deutsch.pdf](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf>)
-> - **Seiten:** 40
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=25, ocr_verified=11, redacted_summary=1)
+> - **Seiten:** 44
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=24, ocr_verified=13, redacted_summary=1)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -39,13 +39,13 @@ textzeichen: 61570
 | [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Arbeitszeugnis\|Arbeitszeugnis]] | Prüfungsrahmen der Quelle | 3–5, 7–14 | Visuell bestätigt auf 11 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Ausbildungsvertrag und BBiG\|Ausbildungsvertrag und BBiG]] | Prüfungsrahmen der Quelle | 5 | Visuell bestätigt auf 1 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Geschäftsbrief\|Geschäftsbrief]] | Prüfungsrahmen der Quelle | 22, 29–30 | Visuell bestätigt auf 3 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Geschäftsmail\|Geschäftsmail]] | Prüfungsrahmen der Quelle | 29–40 | Visuell bestätigt auf 12 Seite(n); bei 8 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Groß- und Kleinschreibung\|Groß- und Kleinschreibung]] | Prüfungsrahmen der Quelle | 17, 22–23, 26–28, 39 | Visuell bestätigt auf 7 Seite(n). |
-| [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Kommasetzung\|Kommasetzung]] | Prüfungsrahmen der Quelle | 16–17, 20–23, 39–40 | Visuell bestätigt auf 8 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Geschäftsmail\|Geschäftsmail]] | Prüfungsrahmen der Quelle | 29–41 | Visuell bestätigt auf 13 Seite(n); bei 10 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Groß- und Kleinschreibung\|Groß- und Kleinschreibung]] | Prüfungsrahmen der Quelle | 17, 22–23, 26–28 | Visuell bestätigt auf 6 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Kommasetzung\|Kommasetzung]] | Prüfungsrahmen der Quelle | 16–17, 20–23 | Visuell bestätigt auf 6 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Kündigung und Arbeitsrecht\|Kündigung und Arbeitsrecht]] | Prüfungsrahmen der Quelle | 5, 11 | Visuell bestätigt auf 2 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/S-Schreibung\|S-Schreibung]] | Prüfungsrahmen der Quelle | 24–25 | Visuell bestätigt auf 2 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Schleifen\|Schleifen]] | Prüfungsrahmen der Quelle | 17, 23 | Visuell bestätigt auf 2 Seite(n). |
-| [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/das oder dass\|das oder dass]] | Prüfungsrahmen der Quelle | 15–23, 25, 39 | Visuell bestätigt auf 11 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/das oder dass\|das oder dass]] | Prüfungsrahmen der Quelle | 15–23, 25 | Visuell bestätigt auf 10 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
 
@@ -1843,6 +1843,18 @@ AAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAA
+Sehr geehrte Damen und Herren
+Sehr gechte Frau
+```
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Handschriftliche Einträge in Tabelle 4.3 Anrede (Bekanntheitsgrad -> Anrede):
+- Empfänger namentlich unbekannt, Erstkontakt: Sehr geehrte Damen und Herren
+- Empfänger namentlich bekannt, Erstkontakt: Sehr geehrte Frau [unvollständig notiert]
+- Respektvolles bekanntes Verhältnis: (unausgefüllt)
+- Respektvolles sehr bekanntes Verhältnis, nach mehrmaligem Kontakt: (unausgefüllt)
 ```
 
 ### Seite 36
@@ -1936,12 +1948,20 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAA
 ￼
+Mit freundlichen Grüßen
+Mit netten Grüßen
+,
+Beste Grüße
 ```
 
 #### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Visuelles Aufbauschema einer Geschäftsmail (Grafik am Seitenende):
+Handschriftliche Einträge in Tabelle 4.7 Verabschiedung/Grußformel (Bekanntheitsgrad -> Grußformel):
+- Erstkontakt: Mit freundlichen Grüßen
+- Folgekontakt: Mit netten Grüßen, Beste Grüße
+
+Visuelles Strukturschema am Seitenende (Aufbau mit Leerzeilen):
 Anrede,
 [Leerzeile]
 Einleitung (klein weiter)
@@ -1973,7 +1993,7 @@ Grußformel
 
 - Visuell bestätigtes Hauptthema: **Geschäftsmail**
 - Kanonische Themen: **Geschäftsmail**
-- Ergänzende Einordnung: Formatierung, Umgangssprache, Übung Geschäftsmail
+- Ergänzende Einordnung: keine
 - Inhaltstyp: aufgabe
 
 ### Seite 39
@@ -2009,6 +2029,26 @@ Datum:
 15 Beitrag zum Unternehmen zu leisten. Eine frühere Abschlusprüfung könnte mir zudem helfen,
 16 schneller in eine Position zu gelangen, in der ich meine Fähigkeiten voll ausspielen kann, was ja
 ￼
+chefcbost fina
+,
+de
+michael wird
+ausbilde be
+Terminanfrage: Verkürzung Lehrzeit
+Sehr geehrter Her
+...
+```
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Handschriftliche Einträge im E-Mail-Kopf und in Zeile 1 (Übung 1):
+- An: chef@beste-firma.de
+- Cc: michael.wild (Hinweis: laut Aufgabenstellung auf Seite 38 eigentlich Bcc für Herrn Wild und Cc für den Ausbilder)
+- Bcc: ausbilde@be [handschriftlich abgekürzt/unvollständig notiert]
+- Betreff: Terminanfrage: Verkürzung Lehrzeit
+- Zeile 1 (Anrede): Sehr geehrter Herr ...
+- Zeile 2: (Leerzeile)
 ```
 
 ### Seite 40
@@ -2042,4 +2082,53 @@ Datum:
 29
 30
 ```
+
+### Seite 41
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Deutsch.pdf Seite 41](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=41>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=41]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=41]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Verfassen einer Geschäftsmail
+Name: Fach: Deutsch
+Datum:
+Übung 2: Schulaufgabenvorbereitung
+Du schreibst eine E-Mail an deine Hausverwaltung (hausverwaltung@ingolstadt.de), in
+der du dich über den während der Feiertage (24.12.24 09:00 Uhr bis 26.12.24 15:00 Uhr)
+vorgefallenen Heizungsdefekt beschweren möchtest. Auch dem Hausmeister, Herr
+Schulz, mit dem du dich bereits mehrmals im Treppenhaus unterhalten hast, möchtest
+du in Kopie Bescheid geben (hausmeister@ingolstadt.de). Als „geheime“ Kopie schickst
+du die E-Mail zudem an deinen Anwalt (detlef@immerrecht.de).
+Der Heizungsdefekt führte dazu, dass die Wohnräume nicht ausreichend beheizt werden
+konnten, weshalb du auf die Nutzung eines Heizlüfters ausweichen musstest. Du hast
+dich am 24.12.24 im Zeitraum von 09:00 Uhr bis 19:00 Uhr insgesamt 14-mal bei der
+Servicehotline der Hausverwaltung telefonisch gemeldet, konntest allerdings
+niemanden erreichen. Du möchtest darauf hinweisen, dass dies inakzeptabel ist, da
+gemäß Mietvertrag eine 24h-Hotline zugesichert wird. Ferner möchtest du eine
+Entschädigung für deine durch den Heizlüfter entstandenen Energiekosten. Die
+Hausverwaltung soll sich bis spätestens 10.02.25 schriftlich bei dir melden. Andernfalls
+siehst du dich gezwungen, rechtliche Schritte einzuleiten. Für weitere Rückfragen stehst
+du jederzeit zur Verfügung.
+```
+
+### Seite 42
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Unausgefüllte Schreibvorlage (leere E-Mail-Maske und Zeilen 1–17 zu Übung 2 ohne Lerninhalt). Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 43
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Unausgefüllte Schreibvorlage (leere liniierte Zeilen 18–39 zu Übung 2 ohne Lerninhalt). Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 44
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Unausgefüllte Schreibvorlage (leere liniierte Zeilen 40–58 zu Übung 2 ohne Lerninhalt). Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
 

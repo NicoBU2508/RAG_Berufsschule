@@ -93,7 +93,26 @@ Bearbeite `01_Index/Auditdaten/Import/<slug>.json`:
 ruby 01_Index/Tools/import_goodnotes.rb apply --clean-review
 ```
 
-Dieser Befehl prüft zuerst alle Import-Audits, baut anschließend alle kanonischen Themen, Indizes, Quellenmatrix, KI-Manifest, Copilot-Allowlist und `manifest.json` neu auf und führt beide Validatoren (`validate_nonprivate_links.rb` und `validate_verified_source_layer.rb`) aus.
+Dieser Befehl prüft zuerst alle Import-Audits, baut anschließend alle kanonischen Themen, Indizes, Quellenmatrix, KI-Manifest, Copilot-Allowlist, den **Karteikarten-Status (`sync_karteikarten.rb`)** und `manifest.json` neu auf und führt beide Validatoren (`validate_nonprivate_links.rb` und `validate_verified_source_layer.rb`) aus.
+
+### Schritt 7: Karteikarten automatisch nachziehen & exportieren
+
+Da `apply` den Karteikarten-Sync bereits mitausführt, prüfe direkt danach, welche bestehenden Decks neue Quellseiten erhalten haben oder welche neuen Themen noch ein Deck brauchen:
+
+```bash
+ruby 01_Index/Tools/sync_karteikarten.rb status --pending
+```
+
+- **Bestehende Decks mit `Update nötig`:** Lies ausschließlich die neu hinzugekommenen Seiten (per `vault_lookup.rb pages ...`), ergänze passende atomare Karten im jeweiligen Deck unter `05_Karteikarten/<Kategorie>/<Thema>.md` (mit stabilen `<!-- card-id: ... -->`-IDs) und aktualisiere die Deck-Metadaten mit:
+  ```bash
+  ruby 01_Index/Tools/sync_karteikarten.rb refresh-meta "<Thema>"
+  ```
+- **Brandneue Themen aus diesem Import:** Auf Wunsch (oder direkt bei prüfungsrelevanten Themen) per `init-deck "<Thema>"` ein neues Deck anlegen, mit verifizierten Karten füllen und `sync` ausführen.
+- **Exporte aktuell halten (falls Karten ergänzt wurden):**
+  ```bash
+  ruby 01_Index/Tools/sync_karteikarten.rb export-anki
+  ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm
+  ```
 
 ### Abschlussmeldung an den Nutzer
 
@@ -101,4 +120,5 @@ Berichte kurz und übersichtlich:
 1. Welche Quellnotiz(en) neu angelegt oder erweitert wurden (mit klickbaren Dateilinks & Seitenzahl).
 2. Welche **bestehenden** und welche **neuen Themen** unter `03_Themen/Visuell_geprueft/` aktualisiert/erstellt wurden.
 3. Welche Seiten ggf. ausgeschlossen, transkribiert oder datenschutzsicher abstrahiert wurden.
-4. Dass alle Validierungsprüfungen bestanden sind + die Erinnerung, in Obsidian einmal **„Copilot: Force reindex vault“** auszuführen.
+4. Welche **Karteikarten-Decks** unter `05_Karteikarten/` automatisch aktualisiert oder als Update-Bedarf erkannt wurden (inkl. Anki-/NotebookLM-Exportstatus).
+5. Dass alle Validierungsprüfungen bestanden sind + die Erinnerung, in Obsidian einmal **„Copilot: Force reindex vault“** auszuführen.
