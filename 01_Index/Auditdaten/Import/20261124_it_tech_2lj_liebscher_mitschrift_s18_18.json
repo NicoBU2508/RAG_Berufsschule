@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md (Seiten 18–18)",
+  "replaces_existing": true,
+  "topic_categories": {
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 18,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+          "IPv4-Adressierung und Subnetting",
+          "Netzwerktechnik und Netzplan"
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide",
+          "IPv4-Adressierung und Subnetting",
+          "Netzwerktechnik und Netzplan"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "verified",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

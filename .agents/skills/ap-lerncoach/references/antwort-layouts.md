@@ -18,11 +18,13 @@ Diese Vorlagen kombinieren **Advance Organizer (BLUF)**, **Mayer's Multimedia-Pr
 Standard-Layout für Erklärungen: **fette Kurz-Antwort direkt ganz oben (ohne `[!info]`)**, farbiges Mini-Mermaid (~150 Tokens), Eselsbrücke, logische `Ursache → Wirkung`-Schritte, Kurz-Vergleich, Prüfungs-Regel und 1 kurzer Check.
 
 ````markdown
-## <Thema>
+# <Thema>
 
 **<1 Satz: Was macht der Oberbegriff / das Grundprinzip?>**
 
-**<1 Satz: Was genau macht das konkrete Thema (mit 🔵/🟢 Farbmarkern)?>**
+> 📌 **Definition (<Begriff>):** **<Präzise, fette Definition aus den Vault-Unterlagen mit wichtigen Schlüsselwörtern.>**
+
+**<1 Satz: Was genau macht das konkrete Thema (mit 🔵/🟢 Farbmarkern und **fetten** Kernbegriffen)?>**
 
 ```mermaid
 flowchart TB
@@ -38,13 +40,13 @@ flowchart TB
 > - **<Konzept A>:** *„<Kurzer, klebriger Merksatz>“*
 > - **<Konzept B>:** *„<Kurzer Kontrast-Merksatz>“*
 
-### 🔵 Logik dahinter (Ursache → Wirkung)
+## 🔵 Logik dahinter (Ursache → Wirkung)
 
-1. **Warum <Prinzip 1>:** <Ursache> → <Wirkung> *(ggf. Formel + 1 kurzes Praxisbeispiel)*.
+1. **Warum <Prinzip 1>:** <Ursache mit **fetten Kernbegriffen**> → <Wirkung> *(ggf. Formel + 1 kurzes Praxisbeispiel)*.
 2. **Was bei <Situation> passiert:** <Konkreter Mechanismus in 1–2 Zeilen>.
 3. **Warum <Folge / Unterschied> entscheidet:** <Klares Ursache-Wirkung-Fazit mit 🟢/🔴>.
 
-### Kurz-Vergleich *(bei 2+ Konzepten)*
+## Kurz-Vergleich *(bei 2+ Konzepten)*
 
 | Kriterium | <Konzept A> | <Konzept B> |
 |---|---|---|
@@ -57,7 +59,7 @@ flowchart TB
 > - **Wenn** <Bedingung> → 🟢 **immer <Regel>** *(kurzes Warum)*.
 > - **🔴 <Typische Falle X ≠ Y>:** <1-Zeilen-Begründung, warum das verwechselt wird>.
 
-### 🟡 Kurzer Check
+## 🟡 Kurzer Check
 **<Knackige Verständnis- oder Transferfrage in 1–2 Zeilen — ohne Spoiler!>**
 
 ---
@@ -171,11 +173,36 @@ Nach **jeder** Antwort des Nutzers verwenden — präzise, farbcodiert, ohne Flo
 
 ---
 
+## Layout 7: Gezielte Rückfrage / Nachfrage (Kompakt-Modus)
+
+Verwenden, sobald der Nutzer **eine Anschlussfrage zu einem bereits laufenden Thema** stellt (z. B. *„Und was macht dabei der Stakeholder?“*, *„Warum genau ist das so?“*, *„Wie unterscheidet sich das von X?“*). **Kein** neues Mermaid, **keine** neue Vergleichstabelle und **keine** komplette Wiederholung aufbauen!
+
+```markdown
+## <Präzise Teilfrage / Begriff>
+
+**<1–2 fette Sätze: Direkte Antwort auf die Rückfrage.>**
+
+> 📌 **Definition (<falls neuer Begriff>):** **<Präzise, fette Definition>**
+
+- 🔵 **Kernpunkt / Logik:** <1–2 Zeilen mit **fetten** Schlüsselbegriffen>
+- 🟢 **Abgrenzung / Praxis:** <1–2 Zeilen, was konkret gilt oder verwechselt wird>
+
+*(Optional, nur wenn sinnvoll: 1 kurze Anschlussfrage in 1 Zeile)*
+
+---
+**Quellen:** **<Fach (Lehrjahr)>** · `<Dateiname.pdf>` · **S. <X> (von <N> Seiten)**
+```
+
+---
+
 ## Regeln für visuell perfekte & token-sparende Antworten (Checkliste)
 
-1. **Kurz-Antwort ganz oben & fett:** Nie mit `[!info]` oder `[!abstract]` beginnen — direkt 1–2 dicke, klare Kernsätze ganz oben.
-2. **Kein Text-Ballast:** Max. 2–3 Zeilen pro Absatz/Punkt; Tabellenzellen max. 4–5 Wörter; Quellenblock kompakt in 1–2 Zeilen.
-3. **Farbiges Mini-Mermaid statt HTML-Widget:** Max. 6 Knoten, klare `style`-Farben (`#2563eb` blau, `#16a34a` grün, `#dc2626` rot, `#d97706` gelb, jeweils `color:#fff`), Labels mit Sonderzeichen in `"..."`, keine HTML-Tags (`<br>`). Interaktive HTML-Widgets **nur auf ausdrücklichen Wunsch**.
-4. **Saubere Alerts:** Nur `> [!TIP]` (grün) und `> [!WARNING]` (gelb/orange) nutzen — keine rohen `[!info]`/`[!abstract]`/`[!question]`-Tags.
-5. **Logik vor Auswendiglernen:** Immer `Ursache → Wirkung` erklären, plus **Eselsbrücke** und **Wenn-Dann-Regel**.
-6. **Keine Spoiler bei Checks/Quizzen:** Lösung niemals unter derselben Nachricht anhängen.
+1. **Größere Schriftwirkung & klare Hierarchie:** Immer `#` (Haupttitel) und `##` (Sektionen) statt kleiner `###`/`####`-Überschriften verwenden; wichtige Begriffe in größeren Texten konsequent **fett** hervorheben.
+2. **Definitionen markieren & fett setzen:** Jede Definition mit `📌 **Definition (<Begriff>):** **<Text>**` sichtbar hervorheben.
+3. **Rückfragen kompakt halten:** Bei Nachfragen zu einem laufenden Thema **Layout 7** nutzen — niemals das gesamte Voll-Layout neu aufbauen.
+4. **Kurz-Antwort ganz oben & fett:** Nie mit `[!info]` oder `[!abstract]` beginnen — direkt 1–2 dicke, klare Kernsätze ganz oben.
+5. **Kein Text-Ballast:** Max. 2–3 Zeilen pro Absatz/Punkt; Tabellenzellen max. 4–5 Wörter; Quellenblock kompakt in 1–2 Zeilen.
+6. **Farbiges Mini-Mermaid statt HTML-Widget:** Max. 6 Knoten, klare `style`-Farben (`#2563eb` blau, `#16a34a` grün, `#dc2626` rot, `#d97706` gelb, jeweils `color:#fff`), Labels mit Sonderzeichen in `"..."`, keine HTML-Tags (`<br>`). Interaktive HTML-Widgets **nur auf ausdrücklichen Wunsch**.
+7. **Saubere Alerts:** Nur `> [!TIP]` (grün) und `> [!WARNING]` (gelb/orange) nutzen — keine rohen `[!info]`/`[!abstract]`/`[!question]`-Tags.
+8. **Logik vor Auswendiglernen:** Immer `Ursache → Wirkung` erklären, plus **Eselsbrücke** und **Wenn-Dann-Regel**.
+9. **Keine Spoiler bei Checks/Quizzen:** Lösung niemals unter derselben Nachricht anhängen.

@@ -2,8 +2,8 @@
 id: vault.thema.visuell.ipv4.adressierung.und.subnetting
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-23
-reviewed_on: 2026-11-23
+stand: 2026-11-24
+reviewed_on: 2026-11-24
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
@@ -26,7 +26,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
 | [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung\|FU_IT_2LJ_Zielske_IPv4_Wiederholung]] | [1–13](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=1>) | aufgabe, beispiel, theorie | 7 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift\|IT_Tech_2LJ_Liebscher_Mitschrift]] | [18](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf#page=18>) | aufgabe | Text für Zitate geeignet |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift\|IT_Tech_2LJ_Liebscher_Mitschrift]] | [18](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf#page=18>) | theorie | 1 Seite(n): OCR/Original prüfen |
 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [7–12](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7>) | aufgabe, loesung | 6 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT

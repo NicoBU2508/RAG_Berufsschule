@@ -2,8 +2,8 @@
 id: vault.audit.pdf-seiten
 typ: visueller_pdf_seitenaudit
 status: vollständig
-stand: 2026-11-23
-reviewed_on: 2026-11-23
+stand: 2026-11-24
+reviewed_on: 2026-11-24
 ki_prioritaet: 1
 tags:
   - ki_quelle
@@ -13,7 +13,7 @@ tags:
 
 # Visueller PDF-Seitenaudit
 
-Alle **52 aktiven nichtprivaten PDFs mit 1350 Seiten** wurden vollständig visuell geprüft. Zusätzlich wurden **3 inaktive PDFs mit 97 Seiten** vollständig gerendert und als pixelidentische Dubletten aktiver PDFs bestätigt. Damit sind **55 nichtprivate PDFs und 1447 Seiten** abgedeckt.
+Alle **52 aktiven nichtprivaten PDFs mit 1356 Seiten** wurden vollständig visuell geprüft. Zusätzlich wurden **3 inaktive PDFs mit 97 Seiten** vollständig gerendert und als pixelidentische Dubletten aktiver PDFs bestätigt. Damit sind **55 nichtprivate PDFs und 1453 Seiten** abgedeckt.
 
 > [!privacy] Bewusst ausgeschlossen
 > Die private Noten-PDF unter `98_Archiv_nicht_lernen/Privat_Noten_nicht_fuer_KI/` wurde nicht geöffnet, gerendert, gehasht oder inhaltlich gelesen.
@@ -24,10 +24,10 @@ Jede Seite wurde über vollständig gerenderte Kontaktbögen oder Einzelseiten b
 
 ## Gesamtbefund vor der Korrektur
 
-- Textabgleich: `missing` 27, `ocr_error` 22, `ok` 915, `partial` 386
-- Themen-/Modulmapping: `correct` 95, `excluded` 16, `missing` 343, `mixed` 431, `ok` 200, `overbroad` 265
-- Inhaltstypen: `aufgabe` 225, `beispiel` 126, `formular` 17, `fragment` 55, `index` 34, `leer` 14, `loesung` 303, `theorie` 576
-- Prüfsicherheit: `high` 1313, `medium` 37
+- Textabgleich: `missing` 27, `ocr_error` 22, `ok` 918, `partial` 389
+- Themen-/Modulmapping: `correct` 95, `excluded` 16, `missing` 342, `mixed` 431, `ok` 200, `overbroad` 265, `verified` 7
+- Inhaltstypen: `aufgabe` 229, `beispiel` 126, `formular` 17, `fragment` 55, `index` 34, `leer` 14, `loesung` 303, `theorie` 578
+- Prüfsicherheit: `high` 1319, `medium` 37
 
 ## Abdeckung nach Quelle
 
@@ -72,7 +72,7 @@ Jede Seite wurde über vollständig gerenderte Kontaktbögen oder Einzelseiten b
 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]] | ITT_IT_Technik | 103 | `missing` 6, `ok` 79, `partial` 18 | `correct` 43, `excluded` 9, `missing` 25, `mixed` 8, `overbroad` 18 |
 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Urheberrecht|IT_Sicherheit_Urheberrecht]] | ITT_IT_Technik | 5 | `ok` 5 | `correct` 5 |
 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung]] | ITT_IT_Technik | 7 | `ok` 5, `partial` 2 | `missing` 7 |
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift|IT_Tech_2LJ_Liebscher_Mitschrift]] | ITT_IT_Technik | 18 | `ok` 12, `partial` 6 | `missing` 18 |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift|IT_Tech_2LJ_Liebscher_Mitschrift]] | ITT_IT_Technik | 18 | `ok` 11, `partial` 7 | `missing` 17, `verified` 1 |
 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Zielske_Node_RED|IT_Tech_2LJ_Zielske_Node_RED]] | ITT_IT_Technik | 9 | `ok` 3, `partial` 6 | `missing` 9 |
 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]] | ITT_IT_Technik | 101 | `missing` 2, `ok` 1, `partial` 98 | `correct` 11, `missing` 34, `overbroad` 56 |
 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung|It_Elektro_Wild_Zusammenfassung]] | ITT_IT_Technik | 8 | `missing` 1, `partial` 7 | `mixed` 7, `overbroad` 1 |
@@ -82,14 +82,14 @@ Jede Seite wurde über vollständig gerenderte Kontaktbögen oder Einzelseiten b
 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Zusammenfassung_260120_080521|Stol_Zusammenfassung_260120_080521]] | ITT_IT_Technik | 4 | `partial` 4 | `mixed` 4 |
 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|PuG_2LJ_Mitschrift]] | PuG_Politik_und_Gesellschaft | 14 | `ok` 5, `partial` 9 | `ok` 14 |
 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]] | PuG_Politik_und_Gesellschaft | 51 | `missing` 1, `ok` 31, `partial` 19 | `correct` 1, `mixed` 1, `ok` 16, `overbroad` 33 |
-| [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Ethik_2LJ_Skript_Gewissen]] | Religion | 8 | `missing` 2, `ok` 1, `partial` 5 | `excluded` 2, `ok` 6 |
+| [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Ethik_2LJ_Skript_Gewissen]] | Religion | 14 | `missing` 2, `ok` 5, `partial` 7 | `excluded` 2, `ok` 6, `verified` 6 |
 | [[02_Faecher/Religion/Quellen/Reli_Notizen|Reli_Notizen]] | Religion | 7 | `missing` 1, `ocr_error` 5, `partial` 1 | `correct` 3, `mixed` 2, `ok` 1, `overbroad` 1 |
 | [[02_Faecher/Vertretung/Quellen/Untitled|Untitled]] | Vertretung | 4 | `missing` 1, `ocr_error` 2, `partial` 1 | `correct` 3, `mixed` 1 |
 
 ## Kanonische Schicht nach der Korrektur
 
 - **137 visuell geprüfte Themen**
-- **1220 direkte Evidenzseiten**
+- **1226 direkte Evidenzseiten**
 - **11 nur unterstützende Fragmentseiten**
 - **119 ausgeschlossene aktive Seiten**
 - **296 alte Lernordner-Referenzen vollständig ersetzt**

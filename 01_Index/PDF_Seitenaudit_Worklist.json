@@ -3,7 +3,7 @@
   "scope": "Alle aktiven, nichtprivaten Quell-PDFs; private Inhalte werden nicht gelesen.",
   "totals": {
     "source_notes": 52,
-    "pages": 1350,
+    "pages": 1356,
     "pages_with_modules": 802,
     "pages_with_curated_topics": 310
   },
@@ -51403,9 +51403,9 @@
     },
     {
       "page": 18,
-      "source_section_chars": 2098,
-      "source_text": "ITT, LF 7: Cyberphysische Systeme Blatt:\nLS: Ampelsteuerung Datum:\nEine Ampel mit Node-RED visualisieren und bedienen\nInbetriebnahme IOT2050 – Arbeitsschritte:\n￼\n￼\n￼\n￼\n￼\nSchulnetz\n10.243.0.0/24\n1. Netzwerkkarte\nDHCP\n2. Netzwerkkarte\n192.168.0.1/24\n￼\n￼\nErgebnis:\n￼\n1. Netzwerkkarte\nDHCP\n￼\n￼\nSchulnetz\n10.243.0.0/24\n192.168.0.30/24\n￼\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n………………..……………………………………………….…\n……………………………………………………………………\n……………………………………………………………………\n…………………………………………..……………………….\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n………………..……………………………………………….…\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n…………………………………………………….………………\n……………………………………………………………………\n……………………………………………………………………\n……………………………………………………………………\n………………………………………………………………...….. IOT2050\n………………………………\n………………………………\n………………………………\n………………………………\n……………………………\n……………………………\n……………………………\n……………………………\n……………………………\n……………………………\n……………….……………\n……\nP1\n192.168.200.1/24\n① Siemens Betriebssystem auf\ndie SD-Karte flashen.\nErstellt eine bootfähige patition (Linux)\nIP-Adresse: P1 192.168\n.\n220.7/24\nNetz Host\nlest Netz fest\nor-Netz Nei\nP2\n4211: 10\n.\n2\n.\n43\n.\n0.\n243\nP2 : 7g2\n,\n68\n.\n0.\n37/24",
-      "source_text_status": "text",
+      "source_section_chars": 2011,
+      "source_text": "ITT, LF 7: Cyberphysische Systeme – LS: Ampelsteuerung\nEine Ampel mit Node-RED visualisieren und bedienen\nInbetriebnahme IOT2050 – Arbeitsschritte:\n\n(1) Siemens Betriebssystem auf die SD-Karte flashen. (Tool: balenaEtcher)\n    Erstellt eine bootfähige Partition (Linux).\n    IP-Adresse: P1 = 192.168.200.1/24\n\n(2) IP-Adressen des IoT ändern, damit es im Schulnetz und im OT-Netz betrieben werden kann.\n    IP-neu:\n    - Schulnetz: P1 = 10.243.0.249/24\n    - OT-Netz:   P2 = 192.168.0.31/24\n\nArbeitsschritte:\n(a) IoT mit PC verbinden (2. Netzwerkkarte des PCs an P1 des IOT2050).\n(b) IP-Adresse der 2. Netzwerkkarte des PCs an das IoT anpassen, z. B. 192.168.200.2/24.\n(c) Über SSH-Verbindung (z. B. PuTTY) die IP-Adressen des IoT ändern\n    -> P1: + Gateway + DNS\n    Wichtig! Gateway + DNS nur an einer Netzwerkkarte eintragen, sonst kann es einen Konflikt geben und der Router wird nicht erreicht.\n(d) IoT vom PC trennen und neu starten, damit die Änderungen übernommen werden.\n(e) IoT mit dem OT-Netz und dem IT-Netz verbinden.\n\nErgebnis-Skizze:\n- PC: 1. Netzwerkkarte DHCP (Schulnetz 10.243.0.0/24); 2. Netzwerkkarte 192.168.0.32/24 (bei Bedarf)\n- OT-Netz (Netz 192.168.0.30/24, legt Netz fest): LOGO! <-> Switch <-> IOT2050 P2 (192.168.0.31/24)\n- IT-Netz (Schulnetz 10.243.0.0/24): Switch <-> IOT2050 P1 (10.243.0.249, + Gateway 10.243.0.254)",
+      "source_text_status": "ocr",
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift#page=18",
       "subject": "ITT_IT_Technik",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
@@ -63328,6 +63328,204 @@
       "source_text": "Ethik – Verantwortung und Gewissen (Seite 8)\n1.4 Fälle zum Thema Gewissen\n\n8. Lies dir folgende Szenarien durch und notiere dir, wie du reagieren würdest.\n\nSzenario 1: Deine Freundin Gökçen ist Muslimin. Sie isst konsequent kein Schweinefleisch. Die Gelatine in deinen Gummibärchen ist leider aus Schweineknochen hergestellt. Gökçen hätte gerne etwas von deinen Gummibärchen und fragt dich, ob sie halal sind. Wie lautet deine Antwort?\n\nSzenario 2: Sven ist nicht besonders beliebt in der Klasse. Du magst ihn auch nicht gerne. Eines Tages schenkt er dir eine Eintrittskarte für ein Konzert deiner Lieblingsband. Allerdings müsstest du das Konzert gemeinsam mit Sven besuchen. Nimmst du die Karte an?\n\nSzenario 3: Schon wieder hat dir jemand auf dem Fahrradparkplatz ein Ventil geklaut. Nun stehst du da mit einem Platten und musst dringend nach Hause. Deine Luftpumpe nutzt ohne Ventil gar nichts. In deiner Not könntest du doch aus einem anderen Fahrrad das Ventil herausschrauben. Wäre das für dich eine Lösung?\n\nSzenario 4: Große Party bei Svenja. Am Ende findet sich auf dem weißen Sofa ein riesiger Rotweinfleck. Svenjas Eltern sind sehr sauer und verlangen von allen, die auf der Party waren, 20 € für die sehr teure Reinigung. Niemand weiß, wer es war. Du hast den ganzen Abend nur Wasser getrunken. Würdest du die 20 € bezahlen?",
       "source_text_status": "ocr",
       "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=8",
+      "subject": "Religion",
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 9,
+      "source_section_chars": 1352,
+      "source_text": "Name, Vorname: Ethik Verantwortung und Gewissen\n9\nKlasse: Datum:\n2. Schuld\n2.1 Was ist Schuld?\n9. Beschreibe und interpretiere das Bild.\nDas Bild zeigt eine Person, auf die mehrere Hände mit ausgestrecktem\nFinger zeigen. Die Person steht alleine da, wirkt traurig, verunsichert\nund bedrückt. Sie hält eine Hand an ihr Gesicht und verschränkt die\nandere vor dem Körper. Die vielen Finger zeigen wie Vorwürfe auf sie.\nInterpretation:\nDas Bild passt zum Thema Schuld. Die Person wird offenbar für etwas\nverantwortlich gemacht. Die zeigenden Hände können die\nSchuldzuweisungen anderer Menschen darstellen. Die Person wirkt so,\nals würde sie sich schämen oder unter Druck stehen.\n10. Erkläre, was Schuld für dich bedeutet.\nSchuld ist das Gefühl\nSchuld ist das Gefühl oder die Bewertung, dass man für etwas\ndas man für etwas falschen verantwortlich ist,\nFalsches, Verletzendes oder Unrechtes verantwortlich ist.",
+      "source_text_status": "text",
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=9",
+      "subject": "Religion",
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 10,
+      "source_section_chars": 1715,
+      "source_text": "Ethik – Verantwortung und Gewissen (Seite 10)\n2.1 Schuld – was steckt dahinter\nZustand, der entsteht, wenn individuelle, objektive oder kollektive Werte und Normen absichtlich oder unabsichtlich, bewusst oder unbewusst überschritten werden.\n1. Schuld im Sinne einer Urheberschaft.\n2. Schuld im Sinne des-jemanden-etwas-zurückgeben-müssens:\n   - Im individuellen Kontext\n   - Im gesellschaftlichen Kontext\n3. Schuld im Sinne der Beeinträchtigung eines anderen.\n- Verstoß gegen Werte und Normen: Schuld entsteht, wenn Regeln absichtlich oder unbewusst überschritten werden.\n- Schuld als Urheberschaft & Verpflichtung: Wer Schuld hat, ist Verursacher und steht oft in der Pflicht zur Wiedergutmachung.\n\nDie Schuldfrage (nach Karl Jaspers):\n- Politische Schuld (Die Rolle der Bürger): Alle Bürger tragen Mitverantwortung, wenn sie die Entstehung eines Unrechtsstaates zulassen.\n- Metaphysische Schuld: Die grundlegende Verantwortung jedes Menschen für das Schicksal und Leid anderer Mitmenschen.\n- Kriminelle Schuld: Kriminelle brechen Gesetze.\n- Moralische Schuld: Verletzt die eigenen inneren Überzeugungen.",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=10",
+      "subject": "Religion",
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 11,
+      "source_section_chars": 989,
+      "source_text": "Ethik – Verantwortung und Gewissen (Seite 11)\n2.2 Die 4 Dimensionen der Schuld\n11. Beschrifte die 4 verschiedenen Dimensionen von Schuld.\nZentrum: SCHULD\nBeurteilungsinstanzen an den Ecken/Rändern: Gott, Gewissen, Gesellschaftliche Normen, Die anderen Menschen\nHandschriftlich eingetragene Dimensionen:\n- Links: Religion\n- Unten: Strafrechtlich\n- Rechts: Psychologie\n- (Oben: noch frei)",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=11",
+      "subject": "Religion",
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 12,
+      "source_section_chars": 2086,
+      "source_text": "Name, Vorname: Ethik Verantwortung und Gewissen\n12\nKlasse: Datum:\n2.1 Fall: True Crime\n12. Beschreibe die beiden Männer und erläutere, wer wie viel Schuld an der Tat hat.\nSchaue dafür das Video bis 4:30 Minuten an.\nAlex(22) und\nAlex ist 24 Jahre alt, arbeitet in einem Fahrradladen und reagiert\nschnell gereizt. Fabian ist 26, arbeitet in einer Softwarefirma und wirkt\neher ruhiger. Im Restaurant geraten beide wegen eines Telefonats in\nStreit.\nFabian provoziert den Konflikt mit, aber Alex eskaliert die Situation und\n= Fabian hat Schuld\nsticht am Ende mit einem Messer zu. Die Hauptschuld trägt deshalb\n=> Alex hat Teilschuld\nAlex, Fabian hat nur eine geringe Mitschuld durch sein Verhalten im\nStreit.\n13. Erläutere, welche Strafe du dem Täter geben würdest (auf einer Skala von\nFreispruch bis 15 Jahren Gefängnis). Stoppe dafür bei 6:20 Minuten.\n- Hohe Strafe\nIch würde den Täter zu etwa 6 bis 8 Jahren Freiheitsstrafe verurteilen.\n,\nweil in den Bauch gestochen wurde\nDie Tat war sehr gefährlich, weil er mit einem Messer in den Bauch\n- Unverhältnismäßige Reaktion\ngestochen hat. Da die Tat aber eher spontan und nicht geplant war und\nbeide den Streit mit angeheizt haben, halte ich eine Strafe im mittleren\n=> Jahre Gefängnis12\nBereich für angemessen.\n14. Erläutere, welche Strafe du dem Täter geben würdest (auf einer Skala von\nFreispruch bis 15 Jahren Gefängnis). Stoppe dafür bei 10:50 Minuten.\nDer Täter verhält sich aufbrausend, impulsiv und aggressiv. Er lässt sich\n- weniger weil er überlebt hat + die Tat bereut\nprovozieren und reagiert unverhältnismäßig mit Gewalt. Deshalb ist sein\n= 7 JahreVerhalten klar zu verurteilen.",
+      "source_text_status": "text",
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=12",
+      "subject": "Religion",
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 13,
+      "source_section_chars": 1881,
+      "source_text": "Ethik Verantwortung und Gewissen\nName, Vorname: Klasse: Datum:\n13\n15. Erläutere, welches Urteil du jetzt fällen würdest. Stoppe dafür bei 11:50 Minuten.\nIch würde eine Freiheitsstrafe von etwa 4 bis 6 Jahren verhängen. Die\nTat ist schwer und nicht zu entschuldigen, aber Reue, Geständnis und\ndie Vergebung des Opfers sprechen für ein milderes Urteil.\n16. Erkläre, für welches Urteil du dich entschieden hast. Schaue das Video dafür zu\nEnde.\nIch würde mich für eine längere Freiheitsstrafe im Bereich von 10\nJahren entscheiden, weil die Tat am Ende zum Tod des Opfers geführt\nhat. Das Geständnis und die Reue sind zwar wichtig, ändern aber nichts\ndaran, dass ein Mensch gestorben ist. Deshalb wäre für mich eine\ndeutlich höhere Strafe gerecht als nur drei Jahre.\n3 Jahre Gefängnis 10 Jahre Gefängnis\n17. Schaue das zu deinem Urteil passende Video.\nBeziehe zum realen Urteil kritisch Stellung.\nDas reale Urteil von 10 Jahren Freiheitsstrafe wirkt auf mich hart, aber\nnachvollziehbar. Kritisch sehe ich, dass der Täter die Tat nicht geplant\nhat und es zuvor eine Provokation gab. Außerdem sprechen Geständnis\nund Reue eher für eine mildere Strafe.\nTrotzdem ist das Urteil verständlich, weil am Ende ein Mensch gestor-\nben ist und der Täter mit einem Messer lebensgefährlich zugestochen\nhat. Deshalb ist die hohe Strafe aus meiner Sicht grundsätzlich\ngerechtfertigt, auch wenn man über ein etwas niedrigeres Strafmaß\ndiskutieren kann.",
+      "source_text_status": "text",
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=13",
+      "subject": "Religion",
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 14,
+      "source_section_chars": 1041,
+      "source_text": "Ethik Verantwortung und Gewissen\nName, Vorname: Klasse: Datum:\n14\n2.2 Ist Schuld immer Schuld?\nEdward Snowden Martin Luther King Geschwister Scholl\nWhistleblower Bürgerrechtler Widerstandskämpfer (NS)\nGreta Thunberg Alexej Nawalni Pashtana Durrani\nKlimaaktivistin russ. Politiker afgh. Frauenrechtlerin\n18. Finde heraus, um wen es sich bei diesen Personen handelt und erstelle zu\neiner Person oder Personengruppe einen Steckbrief.\n19. Beurteile die Schuld deiner ausgewählten Person / Personengruppe.\nFazit:\nSchuld ist nicht immer eindeutig – sie hängt von Zeit, Perspektive und\nGewissen ab.",
+      "source_text_status": "text",
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=14",
       "subject": "Religion",
       "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
       "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",

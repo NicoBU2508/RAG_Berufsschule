@@ -2,15 +2,15 @@
 id: vault.thema.visuell.gewissen.und.verantwortung
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-23
-reviewed_on: 2026-11-23
+stand: 2026-11-24
+reviewed_on: 2026-11-24
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Gewissen und Verantwortung"
 kategorie: Religion_Ethik
 quellen: 2
-seiten: 8
+seiten: 14
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen\|Ethik_2LJ_Skript_Gewissen]] | [3–8](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=3>) | aufgabe, loesung, theorie | 6 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen\|Ethik_2LJ_Skript_Gewissen]] | [3–14](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=3>) | aufgabe, loesung, theorie | 8 Seite(n): OCR/Original prüfen |
 | [[02_Faecher/Religion/Quellen/Reli_Notizen\|Reli_Notizen]] | [3–4](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=3>) | loesung | 2 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT

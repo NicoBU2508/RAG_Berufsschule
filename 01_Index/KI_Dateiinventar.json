@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "audit_date": "2026-11-23",
+  "audit_date": "2026-11-24",
   "privacy": "Private Dateien wurden nur nach Existenz, Pfad, Typ und Größe inventarisiert; ihr Inhalt wurde nicht gelesen.",
   "retrieval_order": [
     "curated_topic",
@@ -53,13 +53,13 @@
     ]
   },
   "totals": {
-    "files": 741,
+    "files": 744,
     "by_extension": {
       "canvas": 1,
       "css": 2,
       "js": 2,
-      "json": 52,
-      "md": 610,
+      "json": 54,
+      "md": 611,
       "none": 1,
       "pdf": 56,
       "rb": 13,
@@ -68,7 +68,7 @@
     },
     "by_role": {
       "agent_customization": 8,
-      "copilot_prompt": 16,
+      "copilot_prompt": 17,
       "curated_topic": 137,
       "duplicate_pdf": 3,
       "entrypoint": 2,
@@ -86,7 +86,7 @@
       "original_pdf": 52,
       "private_or_archive": 5,
       "project_metadata": 3,
-      "quality_or_navigation": 64,
+      "quality_or_navigation": 66,
       "source_note": 49,
       "subject_index": 18,
       "template": 3,
@@ -97,8 +97,8 @@
       "working_note": 2
     },
     "by_ai_use": {
-      "excluded": 383,
-      "navigation": 95,
+      "excluded": 384,
+      "navigation": 97,
       "operational": 23,
       "primary": 188,
       "verify_only": 52
@@ -108,7 +108,7 @@
     {
       "path": ".agents/skills/ap-lerncoach.zip",
       "extension": "zip",
-      "bytes": 21896,
+      "bytes": 34758,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -116,7 +116,7 @@
     {
       "path": ".agents/skills/ap-lerncoach/SKILL.md",
       "extension": "md",
-      "bytes": 16623,
+      "bytes": 19556,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -124,7 +124,7 @@
     {
       "path": ".agents/skills/ap-lerncoach/references/antwort-layouts.md",
       "extension": "md",
-      "bytes": 7090,
+      "bytes": 9190,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -132,7 +132,7 @@
     {
       "path": ".agents/skills/ap-lerncoach/references/gemini-gem-prompt.md",
       "extension": "md",
-      "bytes": 6219,
+      "bytes": 7598,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -148,7 +148,7 @@
     {
       "path": ".agents/skills/ap-lerncoach/references/lernmethoden-evidenz.md",
       "extension": "md",
-      "bytes": 8952,
+      "bytes": 10111,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -244,7 +244,7 @@
     {
       "path": ".obsidian/plugins/copilot/data.json",
       "extension": "json",
-      "bytes": 27670,
+      "bytes": 27673,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -284,7 +284,7 @@
     {
       "path": ".obsidian/workspace.json",
       "extension": "json",
-      "bytes": 8400,
+      "bytes": 8530,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -582,6 +582,22 @@
       "reason": "Index, Audit oder Qualitätsbericht"
     },
     {
+      "path": "01_Index/Auditdaten/Import/20261124_ethik_2lj_skript_gewissen_s9_14.json",
+      "extension": "json",
+      "bytes": 4660,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261124_it_tech_2lj_liebscher_mitschrift_s18_18.json",
+      "extension": "json",
+      "bytes": 1222,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
       "path": "01_Index/Auditdaten/PDF_Duplikatnachweis.json",
       "extension": "json",
       "bytes": 1330,
@@ -790,7 +806,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit.json",
       "extension": "json",
-      "bytes": 1956083,
+      "bytes": 1963307,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -798,7 +814,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit.md",
       "extension": "md",
-      "bytes": 10966,
+      "bytes": 11009,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -808,7 +824,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit_Worklist.json",
       "extension": "json",
-      "bytes": 3922857,
+      "bytes": 3931667,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -834,7 +850,7 @@
     {
       "path": "01_Index/Quellenmatrix.md",
       "extension": "md",
-      "bytes": 44533,
+      "bytes": 44651,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -872,7 +888,7 @@
     {
       "path": "01_Index/Themenreferenzen_Visuell_Geprueft.json",
       "extension": "json",
-      "bytes": 607602,
+      "bytes": 609625,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -2834,7 +2850,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
       "extension": "md",
-      "bytes": 27179,
+      "bytes": 25415,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -3265,7 +3281,7 @@
     {
       "path": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
       "extension": "md",
-      "bytes": 11099,
+      "bytes": 20359,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -4472,7 +4488,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting.md",
       "extension": "md",
-      "bytes": 1977,
+      "bytes": 1984,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4538,7 +4554,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Netzwerktechnik und Netzplan.md",
       "extension": "md",
-      "bytes": 2553,
+      "bytes": 2798,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4549,7 +4565,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Node-RED und IoT-Flows.md",
       "extension": "md",
-      "bytes": 1711,
+      "bytes": 1698,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4692,7 +4708,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Religion_Ethik/Gewissen und Verantwortung.md",
       "extension": "md",
-      "bytes": 1647,
+      "bytes": 1649,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -7169,7 +7185,7 @@
     {
       "path": "99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf",
       "extension": "pdf",
-      "bytes": 8946482,
+      "bytes": 15395740,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
@@ -7385,7 +7401,7 @@
     {
       "path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
       "extension": "pdf",
-      "bytes": 3271815,
+      "bytes": 3571464,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
@@ -7433,7 +7449,7 @@
     {
       "path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
       "extension": "pdf",
-      "bytes": 3797607,
+      "bytes": 6746682,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
@@ -7461,6 +7477,14 @@
       "role": "working_note",
       "ai_use": "excluded",
       "reason": "Lokale Tagesnotiz oder Canvas; kein kanonischer KI-Beleg"
+    },
+    {
+      "path": "copilot/copilot-conversations/was_ist_ein_Pap@20261124_094052.md",
+      "extension": "md",
+      "bytes": 339,
+      "role": "copilot_prompt",
+      "ai_use": "excluded",
+      "reason": "Arbeitsanweisung, kein Lernwissen"
     },
     {
       "path": "copilot/copilot-custom-prompts/Clip Web Page.md",

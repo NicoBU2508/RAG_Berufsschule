@@ -2,7 +2,7 @@
 id: vault.ki.quellenmanifest
 typ: ki_quellenmanifest
 status: generiert
-stand: 2026-11-23
+stand: 2026-11-24
 ki_prioritaet: 1
 tags:
   - ki_quelle
@@ -19,14 +19,14 @@ Dieses Manifest klassifiziert jede Projektdatei nach ihrer Rolle für GPT-, RAG-
 
 ## Abdeckung
 
-- Dateien insgesamt: **741**
-- Stand: **2026-11-23**
+- Dateien insgesamt: **744**
+- Stand: **2026-11-24**
 - Generator: `ruby 01_Index/Tools/build_ki_manifest.rb`
 
 | KI-Nutzung | Dateien |
 |---|---:|
-| `excluded` | 383 |
-| `navigation` | 95 |
+| `excluded` | 384 |
+| `navigation` | 97 |
 | `operational` | 23 |
 | `primary` | 188 |
 | `verify_only` | 52 |
@@ -34,7 +34,7 @@ Dieses Manifest klassifiziert jede Projektdatei nach ihrer Rolle für GPT-, RAG-
 | Rolle | Dateien |
 |---|---:|
 | `agent_customization` | 8 |
-| `copilot_prompt` | 16 |
+| `copilot_prompt` | 17 |
 | `curated_topic` | 137 |
 | `duplicate_pdf` | 3 |
 | `entrypoint` | 2 |
@@ -52,7 +52,7 @@ Dieses Manifest klassifiziert jede Projektdatei nach ihrer Rolle für GPT-, RAG-
 | `original_pdf` | 52 |
 | `private_or_archive` | 5 |
 | `project_metadata` | 3 |
-| `quality_or_navigation` | 64 |
+| `quality_or_navigation` | 66 |
 | `source_note` | 49 |
 | `subject_index` | 18 |
 | `template` | 3 |

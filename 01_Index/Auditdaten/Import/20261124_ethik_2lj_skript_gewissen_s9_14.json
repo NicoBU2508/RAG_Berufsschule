@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md (Seiten 9–14)",
+  "replaces_existing": false,
+  "topic_categories": {
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 9,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "verified",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 10,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "verified",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 11,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "verified",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 12,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "verified",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 13,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "verified",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 14,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-24",
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "verified",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_on": "2026-11-23",
+  "generated_on": "2026-11-24",
   "policy": "exact_file_allowlist_fail_closed",
   "entries": [
     "[[00_KI_QUELLENSTART]]",

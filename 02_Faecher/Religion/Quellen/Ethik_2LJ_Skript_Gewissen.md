@@ -3,7 +3,7 @@ typ: quelle
 fach: "Religion"
 fach_anzeige: "Religion"
 original_pfad: "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf"
-seiten: 8
+seiten: 14
 pruefung: "WiSo"
 cssclasses:
   - lernquelle
@@ -12,29 +12,29 @@ tags:
   - quelle
   - religion
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-24"
 kanonische_referenzen: true
 kanonische_themen: 1
-seiten_mit_kanonischem_thema: 6
+seiten_mit_kanonischem_thema: 12
 ki_exclude_seiten: [1,2]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
-textstatus: "eingeschränkt: visuell geprüft (ocr_verified=6)"
-textzeichen: 4928
+textstatus: "gemischt: visuell geprüft (ok=4, ocr_verified=8)"
+textzeichen: 10980
 ---
 # 📄 01 Skript Gewissen
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/Religion/Religion|Religion]]
 > - **Original-PDF:** [01_Skript_Gewissen.pdf](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf>)
-> - **Seiten:** 8
-> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=6)
+> - **Seiten:** 14
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=4, ocr_verified=8)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
 
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
-| [[03_Themen/Visuell_geprueft/Religion_Ethik/Gewissen und Verantwortung\|Gewissen und Verantwortung]] | Prüfungsrahmen der Quelle | 3–8 | Visuell bestätigt auf 6 Seite(n); bei 6 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Religion_Ethik/Gewissen und Verantwortung\|Gewissen und Verantwortung]] | Prüfungsrahmen der Quelle | 3–14 | Visuell bestätigt auf 12 Seite(n); bei 8 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
 
@@ -255,3 +255,213 @@ Szenario 3: Schon wieder hat dir jemand auf dem Fahrradparkplatz ein Ventil gekl
 Szenario 4: Große Party bei Svenja. Am Ende findet sich auf dem weißen Sofa ein riesiger Rotweinfleck. Svenjas Eltern sind sehr sauer und verlangen von allen, die auf der Party waren, 20 € für die sehr teure Reinigung. Niemand weiß, wer es war. Du hast den ganzen Abend nur Wasser getrunken. Würdest du die 20 € bezahlen?
 ```
 
+### Seite 9
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Skript_Gewissen.pdf Seite 9](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=9>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=9]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=9]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Name, Vorname: Ethik Verantwortung und Gewissen
+9
+Klasse: Datum:
+2. Schuld
+2.1 Was ist Schuld?
+9. Beschreibe und interpretiere das Bild.
+Das Bild zeigt eine Person, auf die mehrere Hände mit ausgestrecktem
+Finger zeigen. Die Person steht alleine da, wirkt traurig, verunsichert
+und bedrückt. Sie hält eine Hand an ihr Gesicht und verschränkt die
+andere vor dem Körper. Die vielen Finger zeigen wie Vorwürfe auf sie.
+Interpretation:
+Das Bild passt zum Thema Schuld. Die Person wird offenbar für etwas
+verantwortlich gemacht. Die zeigenden Hände können die
+Schuldzuweisungen anderer Menschen darstellen. Die Person wirkt so,
+als würde sie sich schämen oder unter Druck stehen.
+10. Erkläre, was Schuld für dich bedeutet.
+Schuld ist das Gefühl
+Schuld ist das Gefühl oder die Bewertung, dass man für etwas
+das man für etwas falschen verantwortlich ist,
+Falsches, Verletzendes oder Unrechtes verantwortlich ist.
+```
+
+### Seite 10
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Skript_Gewissen.pdf Seite 10](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=10>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=10]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=10]]
+
+> [!ocr] Visuell transkribiert
+> Gedruckte Inhalte inkl. der vier Infografik-Karten (Karl Jaspers) aus der visuellen Seitenprüfung ergänzt.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Ethik – Verantwortung und Gewissen (Seite 10)
+2.1 Schuld – was steckt dahinter
+Zustand, der entsteht, wenn individuelle, objektive oder kollektive Werte und Normen absichtlich oder unabsichtlich, bewusst oder unbewusst überschritten werden.
+1. Schuld im Sinne einer Urheberschaft.
+2. Schuld im Sinne des-jemanden-etwas-zurückgeben-müssens:
+   - Im individuellen Kontext
+   - Im gesellschaftlichen Kontext
+3. Schuld im Sinne der Beeinträchtigung eines anderen.
+- Verstoß gegen Werte und Normen: Schuld entsteht, wenn Regeln absichtlich oder unbewusst überschritten werden.
+- Schuld als Urheberschaft & Verpflichtung: Wer Schuld hat, ist Verursacher und steht oft in der Pflicht zur Wiedergutmachung.
+
+Die Schuldfrage (nach Karl Jaspers):
+- Politische Schuld (Die Rolle der Bürger): Alle Bürger tragen Mitverantwortung, wenn sie die Entstehung eines Unrechtsstaates zulassen.
+- Metaphysische Schuld: Die grundlegende Verantwortung jedes Menschen für das Schicksal und Leid anderer Mitmenschen.
+- Kriminelle Schuld: Kriminelle brechen Gesetze.
+- Moralische Schuld: Verletzt die eigenen inneren Überzeugungen.
+```
+
+### Seite 11
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Skript_Gewissen.pdf Seite 11](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=11>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=11]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=11]]
+
+> [!ocr] Visuell transkribiert
+> Handschriftliche Beschriftung der Dimensionen im Schaubild aus der visuellen Seitenprüfung ergänzt.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Ethik – Verantwortung und Gewissen (Seite 11)
+2.2 Die 4 Dimensionen der Schuld
+11. Beschrifte die 4 verschiedenen Dimensionen von Schuld.
+Zentrum: SCHULD
+Beurteilungsinstanzen an den Ecken/Rändern: Gott, Gewissen, Gesellschaftliche Normen, Die anderen Menschen
+Handschriftlich eingetragene Dimensionen:
+- Links: Religion
+- Unten: Strafrechtlich
+- Rechts: Psychologie
+- (Oben: noch frei)
+```
+
+### Seite 12
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Skript_Gewissen.pdf Seite 12](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=12>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=12]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=12]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Name, Vorname: Ethik Verantwortung und Gewissen
+12
+Klasse: Datum:
+2.1 Fall: True Crime
+12. Beschreibe die beiden Männer und erläutere, wer wie viel Schuld an der Tat hat.
+Schaue dafür das Video bis 4:30 Minuten an.
+Alex(22) und
+Alex ist 24 Jahre alt, arbeitet in einem Fahrradladen und reagiert
+schnell gereizt. Fabian ist 26, arbeitet in einer Softwarefirma und wirkt
+eher ruhiger. Im Restaurant geraten beide wegen eines Telefonats in
+Streit.
+Fabian provoziert den Konflikt mit, aber Alex eskaliert die Situation und
+= Fabian hat Schuld
+sticht am Ende mit einem Messer zu. Die Hauptschuld trägt deshalb
+=> Alex hat Teilschuld
+Alex, Fabian hat nur eine geringe Mitschuld durch sein Verhalten im
+Streit.
+13. Erläutere, welche Strafe du dem Täter geben würdest (auf einer Skala von
+Freispruch bis 15 Jahren Gefängnis). Stoppe dafür bei 6:20 Minuten.
+- Hohe Strafe
+Ich würde den Täter zu etwa 6 bis 8 Jahren Freiheitsstrafe verurteilen.
+,
+weil in den Bauch gestochen wurde
+Die Tat war sehr gefährlich, weil er mit einem Messer in den Bauch
+- Unverhältnismäßige Reaktion
+gestochen hat. Da die Tat aber eher spontan und nicht geplant war und
+beide den Streit mit angeheizt haben, halte ich eine Strafe im mittleren
+=> Jahre Gefängnis12
+Bereich für angemessen.
+14. Erläutere, welche Strafe du dem Täter geben würdest (auf einer Skala von
+Freispruch bis 15 Jahren Gefängnis). Stoppe dafür bei 10:50 Minuten.
+Der Täter verhält sich aufbrausend, impulsiv und aggressiv. Er lässt sich
+- weniger weil er überlebt hat + die Tat bereut
+provozieren und reagiert unverhältnismäßig mit Gewalt. Deshalb ist sein
+= 7 JahreVerhalten klar zu verurteilen.
+```
+
+### Seite 13
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Skript_Gewissen.pdf Seite 13](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=13>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=13]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=13]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Ethik Verantwortung und Gewissen
+Name, Vorname: Klasse: Datum:
+13
+15. Erläutere, welches Urteil du jetzt fällen würdest. Stoppe dafür bei 11:50 Minuten.
+Ich würde eine Freiheitsstrafe von etwa 4 bis 6 Jahren verhängen. Die
+Tat ist schwer und nicht zu entschuldigen, aber Reue, Geständnis und
+die Vergebung des Opfers sprechen für ein milderes Urteil.
+16. Erkläre, für welches Urteil du dich entschieden hast. Schaue das Video dafür zu
+Ende.
+Ich würde mich für eine längere Freiheitsstrafe im Bereich von 10
+Jahren entscheiden, weil die Tat am Ende zum Tod des Opfers geführt
+hat. Das Geständnis und die Reue sind zwar wichtig, ändern aber nichts
+daran, dass ein Mensch gestorben ist. Deshalb wäre für mich eine
+deutlich höhere Strafe gerecht als nur drei Jahre.
+3 Jahre Gefängnis 10 Jahre Gefängnis
+17. Schaue das zu deinem Urteil passende Video.
+Beziehe zum realen Urteil kritisch Stellung.
+Das reale Urteil von 10 Jahren Freiheitsstrafe wirkt auf mich hart, aber
+nachvollziehbar. Kritisch sehe ich, dass der Täter die Tat nicht geplant
+hat und es zuvor eine Provokation gab. Außerdem sprechen Geständnis
+und Reue eher für eine mildere Strafe.
+Trotzdem ist das Urteil verständlich, weil am Ende ein Mensch gestor-
+ben ist und der Täter mit einem Messer lebensgefährlich zugestochen
+hat. Deshalb ist die hohe Strafe aus meiner Sicht grundsätzlich
+gerechtfertigt, auch wenn man über ein etwas niedrigeres Strafmaß
+diskutieren kann.
+```
+
+### Seite 14
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Skript_Gewissen.pdf Seite 14](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=14>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=14]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=14]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Ethik Verantwortung und Gewissen
+Name, Vorname: Klasse: Datum:
+14
+2.2 Ist Schuld immer Schuld?
+Edward Snowden Martin Luther King Geschwister Scholl
+Whistleblower Bürgerrechtler Widerstandskämpfer (NS)
+Greta Thunberg Alexej Nawalni Pashtana Durrani
+Klimaaktivistin russ. Politiker afgh. Frauenrechtlerin
+18. Finde heraus, um wen es sich bei diesen Personen handelt und erstelle zu
+einer Person oder Personengruppe einen Steckbrief.
+19. Beurteile die Schuld deiner ausgewählten Person / Personengruppe.
+Fazit:
+Schuld ist nicht immer eindeutig – sie hängt von Zeit, Perspektive und
+Gewissen ab.
+```

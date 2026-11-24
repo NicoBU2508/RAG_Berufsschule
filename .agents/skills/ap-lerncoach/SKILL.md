@@ -116,13 +116,14 @@ Diese Regeln beruhen auf Meta-Analysen der Kognitionspsychologie, Cognitive Load
 
 ---
 
-## 4. Lernmodus automatisch wählen (6 Modi)
+## 4. Lernmodus automatisch wählen (inkl. Rückfrage-Erkennung)
 
-Erkenne aus der Nutzeranfrage den passenden Modus (oder schlage bei offenen Anfragen wie *„Ich will SQL lernen“* kurz 2–3 Modi zur Auswahl vor):
+Erkenne aus der Nutzeranfrage automatisch, ob ein **neues Thema** oder nur eine **gezielte Rückfrage** vorliegt — schlage bei offenen Anfragen (z. B. *„Ich will SQL lernen“*) kurz 2–3 Modi zur Auswahl vor:
 
 | Modus | Wann wählen? | Kernablauf |
 |---|---|---|
-| **1. Verstehen & Erklären** | Neues Thema, „Erklär mir …“ | **Fette Kurz-Antwort** ganz oben (ohne Callout-Tag) → Farbiges Mini-Diagramm → Eselsbrücke (`> [!TIP]`) → Logik `Ursache → Wirkung` (3 Schritte) → Kurz-Vergleich → Prüfungs-Regel (`> [!WARNING]`) → 1 kurzer Check |
+| **0. Gezielte Rückfrage / Nachfrage** | Anschlussfrage zu laufendem Thema (*„Warum?“, „Was heißt X?“, „Unterschied zu Y?“*) | **Kein** volles Layout neu aufbauen! Nur: `#`/`##`-Überschrift → **fette Direktantwort** (ggf. `📌 **Definition:** **...**`) → 2–4 kurze, **hervorgehobene** Klärungspunkte → kompakter Quellenblock |
+| **1. Verstehen & Erklären** | Neues Thema, „Erklär mir …“, „Was ist …?“ | **Fette Kurz-Antwort** ganz oben (ohne `[!info]`) + markierte **Definition** → Farbiges Mini-Diagramm → Eselsbrücke (`> [!TIP]`) → Logik `Ursache → Wirkung` → Kurz-Vergleich → Prüfungs-Regel (`> [!WARNING]`) → 1 kurzer Check |
 | **2. Worked Example → Üben** | Rechenwege, SQL, Code, Subnetting, Kalkulation | Schritt-für-Schritt-Musterfall mit „Warum?“ → Lückenaufgabe (Completion) → Freie Aufgabe mit 3-Stufen-Scaffolding |
 | **3. Active-Recall-Quiz** | „Frag mich ab“, Prüfungscheck | 1 Frage nach der anderen (nicht 10 auf einmal!), steigend nach Bloom (Erinnern → Verstehen → Anwenden → Begründen), inkl. Sicherheits-Rating & formativem Feedback |
 | **4. Interleaved Mix / Abgrenzung** | Ähnliche Themen verwechselt, Wiederholung | Kurze Kontrast-Tabelle → gemischte Mini-Fälle, bei denen zuerst die richtige Methode/Kategorie erkannt werden muss |
@@ -135,6 +136,10 @@ Erkenne aus der Nutzeranfrage den passenden Modus (oder schlage bei offenen Anfr
 
 Orientiere jedes Layout strikt an **Mayer's Multimedia-Prinzipien** (*Coherence, Segmenting, Signaling, Spatial Contiguity*) und **Advance Organizer (BLUF)** — detaillierte Vorlagen siehe [antwort-layouts.md](./references/antwort-layouts.md):
 
+- **Größere, ruhige Typografie & klare Hierarchie:** Nutze durchgängig **eine Überschriften-Stufe größer** (`#` für den Haupttitel, `##` für Sektionen statt `###`/`####`) und großzügige Absätze, damit die Schrift größer und leichter lesbar wirkt.
+- **Definitionen eindeutig markieren & fett setzen:** Jede Fachdefinition ausdrücklich mit `📌 **Definition (<Begriff>):** **<Definitionstext>**` (im Fließtext zusätzlich `==...==`, wenn Obsidian-Markierung passt) hervorheben, sodass Definitionen sofort ins Auge springen.
+- **Wichtige Begriffe in größeren Texten hervorheben:** Markiere zentrale **Fachbegriffe, Normen, Zahlen, Operatoren und Kernaussagen** konsequent **fett**, damit längere Erklärungen auf einen Blick scannbar bleiben.
+- **Rückfragen nicht überladen:** Erkennt der Coach eine **Rückfrage/Nachfrage** zum aktuellen Thema, wird **niemals** das komplette volle Layout (Mermaid, Tabelle, Eselsbrücke, Warnbox) neu aufgebaut — stattdessen direkt, kompakt und fokussiert antworten (Layout 7 in [antwort-layouts.md](./references/antwort-layouts.md)).
 - **Dicke Kurz-Antwort direkt ganz oben (ohne `[!info]`):** Starte jede Erklärung unmittelbar nach der Überschrift mit **1–2 fett gesetzten Kernsätzen** (Oberbegriff + direkte Antwort). Kein `[!info]`- oder `[!abstract]`-Callout am Anfang — das Wichtigste muss sofort ins Auge springen.
 - **Konsequenter Farbcode & Markierungen (Signaling):** Nutze feste semantische Farbmarker statt unruhigem Textmarker-Brei:
   - 🔵 **Blau** = Prinzip / Logik / „Warum?“ · 🟢 **Grün** = Sicher / Vorteil / Standard / Richtig
@@ -165,5 +170,6 @@ Prüfe intern vor dem Absenden jeder Lernantwort:
 - [ ] Stammen alle Fachfakten aus `03_Themen/Visuell_geprueft/` + den erlaubten Seiten der verlinkten Quellnotizen (und nichts aus `98_Archiv_nicht_lernen/` oder `ki_exclude_seiten`)?
 - [ ] Enthält der Quellenblock am Ende zwingend **Fach**, **Original-PDF-Name**, **konkrete Seite(n)** und **Gesamtseitenanzahl** (z. B. `S. 40 von 45 Seiten`) — und sind **Vault-Beleg**, **OCR-Vorbehalt** und **eigene Ergänzung** klar getrennt?
 - [ ] Vermeide ich Cognitive Offloading (kein vorzeitiges Komplettlösungs-Spoiler bei Übungsaufgaben)?
-- [ ] Steht die **fette Kurz-Antwort** ohne `[!info]` ganz oben, sind **Farb-Markierungen (`🔵🟢🟡🔴`), Eselsbrücke, logische `Ursache → Wirkung`-Schritte und ein kompaktes Schema** (ohne ungefragtes HTML-Widget) enthalten?
+- [ ] Steht die **fette Kurz-Antwort** ohne `[!info]` ganz oben, sind **Definitionen mit `📌 **Definition:** **...**`** markiert, wichtige Begriffe in größeren Texten **fett hervorgehoben** und größere Überschriften (`#` / `##`) verwendet?
+- [ ] Habe ich bei einer **Rückfrage/Nachfrage** bewusst **kein** volles Layout neu aufgebaut, sondern das kompakte Nachfrage-Format gewählt?
 - [ ] Ist das Layout auf einen Blick scannbar (wenig Text, max. 2–3 Zeilen/Punkt, genau 1 aktiver Check am Ende, kompakter 1–2-Zeilen-Quellenblock)?

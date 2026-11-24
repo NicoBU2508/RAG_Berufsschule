@@ -2,7 +2,7 @@
 id: vault.index.ki-quellenqualitaet
 typ: qualitaetsbericht
 status: abgeschlossen
-stand: 2026-11-23
+stand: 2026-11-24
 rag_include: false
 tags:
   - seitenaudit
@@ -14,11 +14,11 @@ tags:
 
 ## Ergebnis
 
-- **55 nicht-private PDFs / 1447 Seiten** vollständig berücksichtigt.
-- **52 aktive PDFs / 1350 Seiten** seitenweise visuell geprüft.
+- **55 nicht-private PDFs / 1453 Seiten** vollständig berücksichtigt.
+- **52 aktive PDFs / 1356 Seiten** seitenweise visuell geprüft.
 - **3 inaktive PDFs / 97 Seiten** als pixelidentische Dubletten nachgewiesen.
 - **137 kanonische Themen** mit exakten Seitenbelegen erzeugt.
-- **1220 Evidenzseiten**, **11 nur unterstützende Fragmentseiten**, **119 ausgeschlossene aktive Seiten**.
+- **1226 Evidenzseiten**, **11 nur unterstützende Fragmentseiten**, **119 ausgeschlossene aktive Seiten**.
 - Der private Notenbereich und seine PDF wurden nicht geöffnet, gerendert, geOCRt oder inhaltlich inventarisiert.
 
 ## Ausschlussgründe

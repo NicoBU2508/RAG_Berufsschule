@@ -12,36 +12,37 @@ tags:
   - quelle
   - itt_it_technik
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-24"
 kanonische_referenzen: true
-kanonische_themen: 10
+kanonische_themen: 11
 seiten_mit_kanonischem_thema: 18
 ki_support_seiten: [2]
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=12, ocr_verified=6)"
-textzeichen: 11647
+textstatus: "gemischt: visuell geprüft (ok=11, ocr_verified=7)"
+textzeichen: 11374
 ---
 # 📄 20261005 145426
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
 > - **Original-PDF:** [20261005_145426.pdf](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf>)
 > - **Seiten:** 18
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=12, ocr_verified=6)
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=11, ocr_verified=7)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
 
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
-| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Cyberphysische Systeme und Automatisierungspyramide\|Cyberphysische Systeme und Automatisierungspyramide]] | Prüfungsrahmen der Quelle | 1–18 | Visuell bestätigt auf 18 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 7 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Cyberphysische Systeme und Automatisierungspyramide\|Cyberphysische Systeme und Automatisierungspyramide]] | Prüfungsrahmen der Quelle | 1–18 | Visuell bestätigt auf 18 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 8 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Digitaltechnik und Logikschaltungen\|Digitaltechnik und Logikschaltungen]] | Prüfungsrahmen der Quelle | 14 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/EVA-Prinzip\|EVA-Prinzip]] | Prüfungsrahmen der Quelle | 14 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Elektrotechnik/Elektrische Arbeit und Energiekosten\|Elektrische Arbeit und Energiekosten]] | Prüfungsrahmen der Quelle | 16–17 | Visuell bestätigt auf 2 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Elektrotechnik/Elektrische Leistung\|Elektrische Leistung]] | Prüfungsrahmen der Quelle | 16–17 | Visuell bestätigt auf 2 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting\|IPv4-Adressierung und Subnetting]] | Prüfungsrahmen der Quelle | 18 | Visuell bestätigt auf 1 Seite(n). |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting\|IPv4-Adressierung und Subnetting]] | Prüfungsrahmen der Quelle | 18 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IT-Sicherheit Grundlagen\|IT-Sicherheit Grundlagen]] | Prüfungsrahmen der Quelle | 5, 12 | Visuell bestätigt auf 2 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Elektrotechnik/Netzteil-Wirkungsgrad und 80 PLUS\|Netzteil-Wirkungsgrad und 80 PLUS]] | Prüfungsrahmen der Quelle | 16–17 | Visuell bestätigt auf 2 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Node-RED und IoT-Flows\|Node-RED und IoT-Flows]] | Prüfungsrahmen der Quelle | 15, 18 | Visuell bestätigt auf 2 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Netzwerktechnik und Netzplan\|Netzwerktechnik und Netzplan]] | Prüfungsrahmen der Quelle | 18 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Node-RED und IoT-Flows\|Node-RED und IoT-Flows]] | Prüfungsrahmen der Quelle | 15 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/OSI-Schichtenmodell\|OSI-Schichtenmodell]] | Prüfungsrahmen der Quelle | 13 | Visuell bestätigt auf 1 Seite(n). |
 
 ## 🧠 Lernstruktur
@@ -543,106 +544,36 @@ Ansatz (3) Kosten IoT:
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf#page=18]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschriftliche Arbeitsschritte, IP-Adressen und Netzskizze aus der visuellen Seitenprüfung vollständig und korrigiert transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-ITT, LF 7: Cyberphysische Systeme Blatt:
-LS: Ampelsteuerung Datum:
+ITT, LF 7: Cyberphysische Systeme – LS: Ampelsteuerung
 Eine Ampel mit Node-RED visualisieren und bedienen
 Inbetriebnahme IOT2050 – Arbeitsschritte:
-￼
-￼
-￼
-￼
-￼
-Schulnetz
-10.243.0.0/24
-1. Netzwerkkarte
-DHCP
-2. Netzwerkkarte
-192.168.0.1/24
-￼
-￼
-Ergebnis:
-￼
-1. Netzwerkkarte
-DHCP
-￼
-￼
-Schulnetz
-10.243.0.0/24
-192.168.0.30/24
-￼
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-………………..……………………………………………….…
-……………………………………………………………………
-……………………………………………………………………
-…………………………………………..……………………….
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-………………..……………………………………………….…
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-…………………………………………………….………………
-……………………………………………………………………
-……………………………………………………………………
-……………………………………………………………………
-………………………………………………………………...….. IOT2050
-………………………………
-………………………………
-………………………………
-………………………………
-……………………………
-……………………………
-……………………………
-……………………………
-……………………………
-……………………………
-……………….……………
-……
-P1
-192.168.200.1/24
-① Siemens Betriebssystem auf
-die SD-Karte flashen.
-Erstellt eine bootfähige patition (Linux)
-IP-Adresse: P1 192.168
-.
-220.7/24
-Netz Host
-lest Netz fest
-or-Netz Nei
-P2
-4211: 10
-.
-2
-.
-43
-.
-0.
-243
-P2 : 7g2
-,
-68
-.
-0.
-37/24
-```
 
+(1) Siemens Betriebssystem auf die SD-Karte flashen. (Tool: balenaEtcher)
+    Erstellt eine bootfähige Partition (Linux).
+    IP-Adresse: P1 = 192.168.200.1/24
+
+(2) IP-Adressen des IoT ändern, damit es im Schulnetz und im OT-Netz betrieben werden kann.
+    IP-neu:
+    - Schulnetz: P1 = 10.243.0.249/24
+    - OT-Netz:   P2 = 192.168.0.31/24
+
+Arbeitsschritte:
+(a) IoT mit PC verbinden (2. Netzwerkkarte des PCs an P1 des IOT2050).
+(b) IP-Adresse der 2. Netzwerkkarte des PCs an das IoT anpassen, z. B. 192.168.200.2/24.
+(c) Über SSH-Verbindung (z. B. PuTTY) die IP-Adressen des IoT ändern
+    -> P1: + Gateway + DNS
+    Wichtig! Gateway + DNS nur an einer Netzwerkkarte eintragen, sonst kann es einen Konflikt geben und der Router wird nicht erreicht.
+(d) IoT vom PC trennen und neu starten, damit die Änderungen übernommen werden.
+(e) IoT mit dem OT-Netz und dem IT-Netz verbinden.
+
+Ergebnis-Skizze:
+- PC: 1. Netzwerkkarte DHCP (Schulnetz 10.243.0.0/24); 2. Netzwerkkarte 192.168.0.32/24 (bei Bedarf)
+- OT-Netz (Netz 192.168.0.30/24, legt Netz fest): LOGO! <-> Switch <-> IOT2050 P2 (192.168.0.31/24)
+- IT-Netz (Schulnetz 10.243.0.0/24): Switch <-> IOT2050 P1 (10.243.0.249, + Gateway 10.243.0.254)
+```

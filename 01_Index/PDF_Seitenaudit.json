@@ -1,43 +1,44 @@
 {
   "schema_version": 2,
-  "audit_date": "2026-11-23",
-  "scope": "Alle 1350 aktiven, nichtprivaten PDF-Seiten wurden visuell geprüft; private Inhalte blieben ungelesen.",
+  "audit_date": "2026-11-24",
+  "scope": "Alle 1356 aktiven, nichtprivaten PDF-Seiten wurden visuell geprüft; private Inhalte blieben ungelesen.",
   "method": "Jede aktive PDF-Seite wurde über vollständig gerenderte Kontaktbögen oder Einzelseiten bei Originaldetail visuell geprüft und mit Quelltext sowie bestehenden Modul-/Themenlinks verglichen.",
   "privacy": "Der private Notenordner wurde nur als ausgeschlossener Pfad inventarisiert und nicht geöffnet.",
   "totals": {
     "active_pdfs": 52,
-    "active_pages": 1350,
+    "active_pages": 1356,
     "visually_identical_duplicate_pdfs": 3,
     "visually_identical_duplicate_pages": 97,
     "nonprivate_pdfs_accounted_for": 55,
-    "nonprivate_pages_accounted_for": 1447,
+    "nonprivate_pages_accounted_for": 1453,
     "private_pdfs_unread": 1,
     "source_text_match": {
       "missing": 27,
       "ocr_error": 22,
-      "ok": 915,
-      "partial": 386
+      "ok": 918,
+      "partial": 389
     },
     "mapping_status_before_correction": {
       "correct": 95,
       "excluded": 16,
-      "missing": 343,
+      "missing": 342,
       "mixed": 431,
       "ok": 200,
-      "overbroad": 265
+      "overbroad": 265,
+      "verified": 7
     },
     "content_type": {
-      "aufgabe": 225,
+      "aufgabe": 229,
       "beispiel": 126,
       "formular": 17,
       "fragment": 55,
       "index": 34,
       "leer": 14,
       "loesung": 303,
-      "theorie": 576
+      "theorie": 578
     },
     "confidence": {
-      "high": 1313,
+      "high": 1319,
       "medium": 37
     }
   },
@@ -612,11 +613,12 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
       "pages": 18,
       "source_text_match": {
-        "ok": 12,
-        "partial": 6
+        "ok": 11,
+        "partial": 7
       },
       "mapping_status_before_correction": {
-        "missing": 18
+        "missing": 17,
+        "verified": 1
       }
     },
     {
@@ -751,15 +753,16 @@
       "subject": "Religion",
       "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
       "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
-      "pages": 8,
+      "pages": 14,
       "source_text_match": {
         "missing": 2,
-        "ok": 1,
-        "partial": 5
+        "ok": 5,
+        "partial": 7
       },
       "mapping_status_before_correction": {
         "excluded": 2,
-        "ok": 6
+        "ok": 6,
+        "verified": 6
       }
     },
     {
@@ -9141,6 +9144,44 @@
     {
       "report": "01_Index/Auditdaten/Import/20261123_stol_skript_s37_54.json",
       "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md (Seiten 37–54)",
+      "coverage": null,
+      "counts": null,
+      "validation": null,
+      "critical_findings": [
+
+      ],
+      "text_issues": [
+
+      ],
+      "mapping_issues": [
+
+      ],
+      "canonical_topic_candidates": [
+
+      ]
+    },
+    {
+      "report": "01_Index/Auditdaten/Import/20261124_ethik_2lj_skript_gewissen_s9_14.json",
+      "scope": "GoodNotes-Import: 02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md (Seiten 9–14)",
+      "coverage": null,
+      "counts": null,
+      "validation": null,
+      "critical_findings": [
+
+      ],
+      "text_issues": [
+
+      ],
+      "mapping_issues": [
+
+      ],
+      "canonical_topic_candidates": [
+
+      ]
+    },
+    {
+      "report": "01_Index/Auditdaten/Import/20261124_it_tech_2lj_liebscher_mitschrift_s18_18.json",
+      "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md (Seiten 18–18)",
       "coverage": null,
       "counts": null,
       "validation": null,
@@ -54110,8 +54151,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
       "page": 18,
-      "source_text_status": "text",
-      "source_section_chars": 2098,
+      "source_text_status": "ocr",
+      "source_section_chars": 2011,
       "previous_modules": [
 
       ],
@@ -54119,30 +54160,31 @@
 
       ],
       "audit": {
-        "primary_topic": "Node-RED und IoT-Flows",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
         "secondary_topics": [
-          "Cyberphysische Systeme und Automatisierungspyramide",
-          "IPv4-Adressierung und Subnetting"
+          "IPv4-Adressierung und Subnetting",
+          "Netzwerktechnik und Netzplan"
         ],
-        "content_type": "aufgabe",
-        "source_text_match": "ok",
-        "mapping_status": "missing",
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "verified",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-          "Node-RED und IoT-Flows",
           "Cyberphysische Systeme und Automatisierungspyramide",
-          "IPv4-Adressierung und Subnetting"
+          "IPv4-Adressierung und Subnetting",
+          "Netzwerktechnik und Netzplan"
         ],
         "issues": [
 
         ],
-        "audit_date": "2026-11-23",
+        "audit_date": "2026-11-24",
         "support_only": false,
         "sensitive": false,
-        "ocr_verified": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -64460,6 +64502,240 @@
         "support_only": false,
         "sensitive": false,
         "ocr_verified": true,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=9",
+      "subject": "Religion",
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 9,
+      "source_text_status": "text",
+      "source_section_chars": 1352,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [
+
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "verified",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-24",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=10",
+      "subject": "Religion",
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 10,
+      "source_text_status": "ocr",
+      "source_section_chars": 1715,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [
+
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "verified",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-24",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=11",
+      "subject": "Religion",
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 11,
+      "source_text_status": "ocr",
+      "source_section_chars": 989,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [
+
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "verified",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-24",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=12",
+      "subject": "Religion",
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 12,
+      "source_text_status": "text",
+      "source_section_chars": 2086,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [
+
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "verified",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-24",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=13",
+      "subject": "Religion",
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 13,
+      "source_text_status": "text",
+      "source_section_chars": 1881,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [
+
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "verified",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-24",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=14",
+      "subject": "Religion",
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 14,
+      "source_text_status": "text",
+      "source_section_chars": 1041,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [
+
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "verified",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-24",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false,
         "visual_checked": true
       }
     },

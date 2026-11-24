@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "validated_on": "2026-11-23",
+  "validated_on": "2026-11-24",
   "status": "pass",
   "checks_passed": 42,
   "checks_failed": 0,
@@ -42,22 +42,22 @@
     {
       "name": "kanonische Seitenbilanz konsistent",
       "status": "pass",
-      "details": "{\"evidence\"=>1220, \"support_only\"=>11, \"excluded\"=>119}"
+      "details": "{\"evidence\"=>1226, \"support_only\"=>11, \"excluded\"=>119}"
     },
     {
       "name": "Evidenzseiten gezählt",
       "status": "pass",
-      "details": "{\"evidence\"=>1220, \"support_only\"=>11, \"excluded\"=>119}"
+      "details": "{\"evidence\"=>1226, \"support_only\"=>11, \"excluded\"=>119}"
     },
     {
       "name": "Support-Seiten gezählt",
       "status": "pass",
-      "details": "{\"evidence\"=>1220, \"support_only\"=>11, \"excluded\"=>119}"
+      "details": "{\"evidence\"=>1226, \"support_only\"=>11, \"excluded\"=>119}"
     },
     {
       "name": "ausgeschlossene Seiten gezählt",
       "status": "pass",
-      "details": "{\"evidence\"=>1220, \"support_only\"=>11, \"excluded\"=>119}"
+      "details": "{\"evidence\"=>1226, \"support_only\"=>11, \"excluded\"=>119}"
     },
     {
       "name": "Ausschlüsse tragen keine Themen",
@@ -186,7 +186,7 @@
     {
       "name": "alle nicht-privaten lokalen Referenzen auflösbar",
       "status": "pass",
-      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-11-23\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>609, \"wiki_links\"=>23476, \"local_markdown_links\"=>9410, \"unresolved\"=>0, \"failures\"=>[]}"
+      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-11-24\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>610, \"wiki_links\"=>23491, \"local_markdown_links\"=>9418, \"unresolved\"=>0, \"failures\"=>[]}"
     }
   ]
 }

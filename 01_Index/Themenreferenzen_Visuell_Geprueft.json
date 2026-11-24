@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "audit_date": "2026-11-23",
+  "audit_date": "2026-11-24",
   "basis": "01_Index/PDF_Seitenaudit.json",
   "privacy": "Der private Notenbereich wurde nicht gelesen. Personenbilder in aktiven Quellen wurden aus indexierbaren Seitenblöcken entfernt.",
   "totals": {
     "audited_active_pdfs": 52,
-    "audited_active_pages": 1350,
+    "audited_active_pages": 1356,
     "canonical_topics": 137,
-    "canonical_evidence_pages": 1220,
+    "canonical_evidence_pages": 1226,
     "support_only_pages": 11,
     "excluded_active_pages": 119,
     "proven_duplicate_pdfs": 3,
@@ -828,6 +828,7 @@
         "IPv4-Adressierung und Subnetting",
         "IT-Sicherheit Grundlagen",
         "Netzteil-Wirkungsgrad und 80 PLUS",
+        "Netzwerktechnik und Netzplan",
         "Node-RED und IoT-Flows",
         "OSI-Schichtenmodell"
       ]
@@ -995,8 +996,8 @@
       ]
     },
     "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md": {
-      "pages": 8,
-      "canonical_pages": 6,
+      "pages": 14,
+      "canonical_pages": 12,
       "excluded_pages": [
         1,
         2
@@ -1806,12 +1807,18 @@
       "path": "03_Themen/Visuell_geprueft/Religion_Ethik/Gewissen und Verantwortung.md",
       "category": "Religion_Ethik",
       "pages": [
+        "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=10",
+        "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=11",
+        "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=12",
+        "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=13",
+        "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=14",
         "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=3",
         "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=4",
         "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=5",
         "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=6",
         "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=7",
         "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=8",
+        "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=9",
         "02_Faecher/Religion/Quellen/Reli_Notizen#page=3",
         "02_Faecher/Religion/Quellen/Reli_Notizen#page=4"
       ]
@@ -2389,7 +2396,8 @@
         "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=15",
         "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=16",
         "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=8",
-        "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=9"
+        "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=9",
+        "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift#page=18"
       ]
     },
     "Node-RED und IoT-Flows": {
@@ -2397,7 +2405,6 @@
       "category": "IT_Technik_und_Sicherheit",
       "pages": [
         "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift#page=15",
-        "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift#page=18",
         "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Zielske_Node_RED#page=1",
         "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Zielske_Node_RED#page=2"
       ]
@@ -14303,10 +14310,10 @@
       "canonical_topics": [
         "Cyberphysische Systeme und Automatisierungspyramide",
         "IPv4-Adressierung und Subnetting",
-        "Node-RED und IoT-Flows"
+        "Netzwerktechnik und Netzplan"
       ],
-      "source_text_status": "ok",
-      "quote_safe": true
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
     },
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Zielske_Node_RED#page=1",
@@ -16745,6 +16752,60 @@
       ],
       "source_text_status": "ocr_verified",
       "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=9",
+      "status": "evidence",
+      "canonical_topics": [
+        "Gewissen und Verantwortung"
+      ],
+      "source_text_status": "ok",
+      "quote_safe": true
+    },
+    {
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=10",
+      "status": "evidence",
+      "canonical_topics": [
+        "Gewissen und Verantwortung"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=11",
+      "status": "evidence",
+      "canonical_topics": [
+        "Gewissen und Verantwortung"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=12",
+      "status": "evidence",
+      "canonical_topics": [
+        "Gewissen und Verantwortung"
+      ],
+      "source_text_status": "ok",
+      "quote_safe": true
+    },
+    {
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=13",
+      "status": "evidence",
+      "canonical_topics": [
+        "Gewissen und Verantwortung"
+      ],
+      "source_text_status": "ok",
+      "quote_safe": true
+    },
+    {
+      "id": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen#page=14",
+      "status": "evidence",
+      "canonical_topics": [
+        "Gewissen und Verantwortung"
+      ],
+      "source_text_status": "ok",
+      "quote_safe": true
     },
     {
       "id": "02_Faecher/Religion/Quellen/Reli_Notizen#page=1",
