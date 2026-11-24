@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Restseiten Originalbelege** im Fach **PuG Politik und Gesellschaft**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/PUG/Pug.pdf#page=1|Pug S. 1]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=1|Pug S. 1]].
 > - **Zentrale Suchbegriffe:** Restseiten, Originalbelege, Pug.
 > - **Prüfungsbezug:** AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -51,7 +51,7 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 1](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=1>) | Pug Seite 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 1](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=1>) | Pug Seite 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -60,11 +60,11 @@ tags:
 #### Seite 1: Pug Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 1](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=1]]`
+> - PDF: [Pug.pdf Seite 1](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=1]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 

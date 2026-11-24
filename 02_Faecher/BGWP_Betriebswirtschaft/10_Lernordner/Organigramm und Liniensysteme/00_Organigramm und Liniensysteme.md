@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Organigramm und Liniensysteme** im Fach **BGWP Betriebswirtschaft**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3|Bgwp schredl S. 3]]; [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=7|Bgwp schredl S. 7]]; [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=8|Bgwp schredl S. 8]]; [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=9|Bgwp schredl S. 9]]; [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=10|Bgwp schredl S. 10]]; [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=11|Bgwp schredl S. 11]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3|Bgwp schredl S. 3]]; [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=7|Bgwp schredl S. 7]]; [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=8|Bgwp schredl S. 8]]; [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=9|Bgwp schredl S. 9]]; [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=10|Bgwp schredl S. 10]]; [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=11|Bgwp schredl S. 11]].
 > - **Zentrale Suchbegriffe:** Organigramm, Liniensysteme, GOrganisation, Betrieb, Aufbauorganisation, Organisation, Musterlösung, EIT, Stabliniensystem, Mehrliniensysteme.
 > - **Prüfungsbezug:** AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -57,14 +57,14 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3>) | GOrganisation im Betrieb - Aufbauorganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=7>) | Organisation im Betrieb - Aufbauorganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 8](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=8>) | Organisation im Betrieb - Aufbauorganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 9](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=9>) | Musterlösung Liniensysteme EIT 10 a | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 10](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=10>) | 2. Stabliniensystem | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 11](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=11>) | 3. Mehrliniensysteme | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 2](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=2>) | 3. Liniensysteme (Organigramme der Aufbauorganisation) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7>) | 1. Betriebsorganisation - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3>) | GOrganisation im Betrieb - Aufbauorganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=7>) | Organisation im Betrieb - Aufbauorganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 8](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=8>) | Organisation im Betrieb - Aufbauorganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 9](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=9>) | Musterlösung Liniensysteme EIT 10 a | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 10](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=10>) | 2. Stabliniensystem | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 11](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=11>) | 3. Mehrliniensysteme | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 2](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=2>) | 3. Liniensysteme (Organigramme der Aufbauorganisation) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7>) | 1. Betriebsorganisation - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -73,11 +73,11 @@ tags:
 #### Seite 3: GOrganisation im Betrieb - Aufbauorganisation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3]]`
+> - PDF: [Bgwp schredl.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > GOrganisation im Betrieb - Aufbauorganisation BGWP Name: Klasse: Datum: Die Aufbauorganisation Die klassische Organisationslehre unterscheidet zwischen Aufbau- und Ablauforganisation, d.h. zwischen der statischen und der dynamischen Betrachtungsweise: Betrieb in Bereitschaft vs. Betrieb in Aktion. In der Praxis sind beide Sichtweisen miteinander verschmolzen, denn: Bevor geklärt werden kann, wie die Aufgaben zu erledigen sind ( = _______________________________________________ ) muss festgelegt werden, welche Aufgaben anfallen ( = ______________________________________ ). Die Aufbauorganisation: Sie behandelt die Gestaltung der Zusammenarbeit zwischen den Funktionsbereichen und Mitarbeitern …
@@ -139,11 +139,11 @@ I
 #### Seite 7: Organisation im Betrieb - Aufbauorganisation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=7]]`
+> - PDF: [Bgwp schredl.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=7]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Organisation im Betrieb - Aufbauorganisation BWP Name: Klasse: Datum: Übungsaufgaben 1. Die Betriebsorganisation der Softycomp KG soll dazu beitragen, dass die Unternehmensziele bestmöglich erreicht werden. Ordnen Sie die richtigen Begriffe den Erklärungen zu! A Regelung eines Einzelfalles im Rahmen der allgemeinen Regelungen B Regelung eines unvorhersehbaren Einzelfalles aus dem Augenblick heraus C Alle gleichartigen, wiederkehrenden betrieblichen Vorgänge unterliegen allgemeinen Regelungen und sind nicht durch spezielle Anordnungen geregelt. 1 Organisation 2 Koordination 3 Disposition 4 Improvisation 5 Funktion 2. Um welches Organisationssystem handelt es sich bei dieser Abbildung der Soft …
@@ -271,11 +271,11 @@ X
 #### Seite 8: Organisation im Betrieb - Aufbauorganisation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 8](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=8]]`
+> - PDF: [Bgwp schredl.pdf Seite 8](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=8]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Organisation im Betrieb - Aufbauorganisation BGWP Name: Klasse: Datum: Übungsaufgaben – Teil 2 1. Aufgabe Geben Sie an, ob es sich um Grund- oder Querschnittsfunktionen handelt. Überwachung des Lagerbestandes Controller analysieren die Unternehmensbilanz Ein Projektteam erstellt ein Angebot Frau Meier schreibt eine Kundenrechnung Planung des Personaleinsatzes im Betrieb E-Commerce einführen 2. Was versteht man unter einer a) Stabstelle b) Linie 3. Nach welchen Prinzipien können Abteilungen gebildet werden? 4. Welche Aussagen sind richtig? a) Aufgabenanalyse und Aufgabensynthese sind sehr häufig identisch. b) Aufgabenanalyse ist die Zusammenfassung der ermittelten Aufgaben in einem Betrieb zu …
@@ -351,11 +351,11 @@ stablinien
 #### Seite 9: Musterlösung Liniensysteme EIT 10 a
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 9](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=9]]`
+> - PDF: [Bgwp schredl.pdf Seite 9](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=9]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Musterlösung Liniensysteme EIT 10 a 1. Einliniensystem Jeder Untergebene hat nur einen direkten Vorgesetzten und erhält nur von diesem Anweisungen. Ebenso kann er Meldungen und Vorschläge nur bei ihm vorbringen (Instanzenweg, Dienstweg). Vorteile: Nachteile: -Straffe Disziplin -Einheitlichkeit des Auftragsempfangs -Vermeidung von Kompetenzstreitigkeiten -Klare Anordnung und Kompetenzverteilung -Kompetenzüberschneidungen werden vermieden -Übersichtliche und einfache Strukturierung -lange Weisungswege -starke Hierachie und Bürokratie -Überlastung der oberern Ebene = Geschäftsführung -Es gibt kaum Spezialiesierungen
@@ -387,11 +387,11 @@ Nachteile:
 #### Seite 10: 2. Stabliniensystem
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 10](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=10]]`
+> - PDF: [Bgwp schredl.pdf Seite 10](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=10]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 2. Stabliniensystem Das Stabliniensystem ist ein Versuch, die Vorteile aus Einlinien- und Mehrliniensystem miteinander zu verknüpfen. Die einzelnen Stellen einer Linie werden den sogenannten Stäben zugeordnet. Diese Stäbe stellen Wissensträger dar, welche in Form von beratenden Tätigkeiten dem potenziellen Wissensmangel bei den Linieninstanzen Abhilfe verschaffen sollen. Der Stab hat dabei keine direkte Weisungsbefugnis. Die Verantwortung für die Erreichung der Unternehmensziele obliegt den Linien, der Stab dient lediglich als Unterstützung und Entlastung. Vorteile: - Entlastung der einzelnen Instanzen - Entscheidungen können sorgfältiger getroffen werden - Hohes Fachwissen der Stäbe Nachtei …
@@ -430,11 +430,11 @@ Fehlerhafte Entscheidungen können leicht dem Stab zugeschoben werden
 #### Seite 11: 3. Mehrliniensysteme
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 11](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=11]]`
+> - PDF: [Bgwp schredl.pdf Seite 11](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=11]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 3. Mehrliniensysteme = untergeordnete Stellen sind mehrfach unterstellt, so dass kurze Kommunikationswege zwischen den Stellen ermöglicht und Kreativität und Erfahrungsaustausch gefördert werden Vorteile Nachteile  Kurze Kommunikationswege  Die obere Leitung und die Zwischeninstanzen Werden entlastet  Mehrfachunterstellungen (Kommunikationskonflikte)  Keine klare Kompetenzverteilung  Schwierige Fehlerzuweisung
@@ -467,11 +467,11 @@ Schwierige Fehlerzuweisung
 #### Seite 2: 3. Liniensysteme (Organigramme der Aufbauorganisation)
 
 > [!referenz] Exakte Referenz
-> - PDF: [ZusammenfassungBGWP.pdf Seite 2](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=2]]`
+> - PDF: [ZusammenfassungBGWP.pdf Seite 2](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=2]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 3. Liniensysteme (Organigramme der Aufbauorganisation) e Einliniensystem: Jeder Untergebene hat exakt einen direkten Vorgesetzten (Instanzenweg/Dienstweg). Vorteile: Straffe Disziplin, klare Anordnung/ Kompetenzverteilung e Nachteile: Lange Weisungswege, starke Hierarchie/Bürokratie, kaum Spezialisierung. e Stabliniensystem: Einliniensystem ergänzt um beratende Stäbe (Wissensträger ohne Weisungsbefugnis). Vorteile: Entlastung der Instanzen, sorgfältigere Entscheidungen, hohes Fachwissen. e Nachteile:Konflikte zwischen Linie und Stab, unübersichtlicher, Fehler werden oft dem Stab zugeschoben. zu — Kl mm] tm] ee ee e Mehrliniensystem: Untergeordnete Stellen haben mehrere Vorgesetzte. Vorteile: …
@@ -511,11 +511,11 @@ Mehrliniensystem
 #### Seite 7: 1. Betriebsorganisation - Grundlagen
 
 > [!referenz] Exakte Referenz
-> - PDF: [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7]]`
+> - PDF: [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 1. Betriebsorganisation - Grundlagen « Definition: Aufstellung von Verhaltens- und Arbeitsregeln für Menschen sowie Funktionsregeln für Maschinen (= geschaffene Ordnung). « _Organisationsgrade:lmprovisation: Intuitive Entscheidung bei unvorhersehbaren/nicht planbaren Situationen. Ziel: Wirtschaftlichkeit. ¢ © Disposition: Fallweise (spontane) Regelungen, wenn noch keine endgültigen Regeln existieren. Ziel: Flexibilität. ¢ Organisation: Generelle, dauerhafte Regelungen für optimale Ordnung. Ziel: ‚Stabilität. « © Organisationsgrundsätze: Muss wirtschaftlich (Minimal-/Maximalprinzip), zweckmäßig, flexibel & stabil zugleich sowie klar sein. * Arten der Organisation: Aufbauorganisation: Festgele …
@@ -809,7 +809,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **GOrganisation im Betrieb - Aufbauorganisation** laut Quelle?
 - Antwort:: Die Unterabteilung PC’s ist in die Gruppen Einbau von Zubehör, Konfiguration von Rechnern und Qualitätskontrolle unterteilt.
 - Beleg:: Die Unterabteilung PC’s ist in die Gruppen Einbau von Zubehör, Konfiguration von Rechnern und Qualitätskontrolle unterteilt.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3|Bgwp schredl S. 3]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3|Bgwp schredl S. 3]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -817,7 +817,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **GOrganisation im Betrieb - Aufbauorganisation** laut Quelle?
 - Antwort:: Jeder organisatorischen Einheit (Abteilung, Unter-abteilung, Gruppe) sind verschiedene Mitarbeiter zugeordnet.
 - Beleg:: Jeder organisatorischen Einheit (Abteilung, Unter-abteilung, Gruppe) sind verschiedene Mitarbeiter zugeordnet.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3|Bgwp schredl S. 3]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3|Bgwp schredl S. 3]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -825,7 +825,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Organisation im Betrieb - Aufbauorganisation** laut Quelle?
 - Antwort:: 2 Die Abteilungen Einkauf, Verkauf und Allgemeine Verwaltung sind gegenseitig weisungsbefugt.
 - Beleg:: 2 Die Abteilungen Einkauf, Verkauf und Allgemeine Verwaltung sind gegenseitig weisungsbefugt.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=7|Bgwp schredl S. 7]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=7|Bgwp schredl S. 7]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -833,7 +833,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Organisation im Betrieb - Aufbauorganisation** laut Quelle?
 - Antwort:: C Alle gleichartigen, wiederkehrenden betrieblichen Vorgänge unterliegen allgemeinen Regelungen und sind nicht durch spezielle Anordnungen geregelt.
 - Beleg:: C Alle gleichartigen, wiederkehrenden betrieblichen Vorgänge unterliegen allgemeinen Regelungen und sind nicht durch spezielle Anordnungen geregelt.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=7|Bgwp schredl S. 7]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=7|Bgwp schredl S. 7]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -841,7 +841,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Stabliniensystem** laut Quelle?
 - Antwort:: Stabliniensystem Das Stabliniensystem ist ein Versuch, die Vorteile aus Einlinien- und Mehrliniensystem miteinander zu verknüpfen.
 - Beleg:: Stabliniensystem Das Stabliniensystem ist ein Versuch, die Vorteile aus Einlinien- und Mehrliniensystem miteinander zu verknüpfen.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=10|Bgwp schredl S. 10]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=10|Bgwp schredl S. 10]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -849,7 +849,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Mehrliniensysteme** laut Quelle?
 - Antwort:: Mehrliniensysteme = untergeordnete Stellen sind mehrfach unterstellt, so dass kurze Kommunikationswege zwischen den Stellen ermöglicht und Kreativität und Erfahrungsaustausch gefördert werden
 - Beleg:: Mehrliniensysteme = untergeordnete Stellen sind mehrfach unterstellt, so dass kurze Kommunikationswege zwischen den Stellen ermöglicht und Kreativität und Erfahrungsaustausch gefördert werden
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=11|Bgwp schredl S. 11]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=11|Bgwp schredl S. 11]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -857,7 +857,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Betriebsorganisation - Grundlagen** laut Quelle?
 - Antwort:: Unternehmensziele « (Ökonomische Ziele: Oberziel ist die Gewinnmaximierung. {Monetär: In Geld messbar (z.
 - Beleg:: Unternehmensziele « (Ökonomische Ziele: Oberziel ist die Gewinnmaximierung. {Monetär: In Geld messbar (z.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -865,7 +865,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist **Betriebsorganisation - Grundlagen** laut Quelle?
 - Antwort:: « Definition: Aufstellung von Verhaltens- und Arbeitsregeln für Menschen sowie Funktionsregeln für Maschinen (= geschaffene Ordnung).
 - Beleg:: « Definition: Aufstellung von Verhaltens- und Arbeitsregeln für Menschen sowie Funktionsregeln für Maschinen (= geschaffene Ordnung).
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Aufgaben Übungen und Lösungen** im Fach **AE Anwendungsentwicklung**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01AlgorithmusProgrammSoftwareEVA S. 1]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=4|01AlgorithmusProgrammSoftwareEVA S. 4]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01AlgorithmusProgrammSoftwareEVA S. 7]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=8|01AlgorithmusProgrammSoftwareEVA S. 8]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15|01AlgorithmusProgrammSoftwareEVA S. 15]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=16|01AlgorithmusProgrammSoftwareEVA S. 16]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01AlgorithmusProgrammSoftwareEVA S. 1]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=4|01AlgorithmusProgrammSoftwareEVA S. 4]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01AlgorithmusProgrammSoftwareEVA S. 7]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=8|01AlgorithmusProgrammSoftwareEVA S. 8]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15|01AlgorithmusProgrammSoftwareEVA S. 15]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=16|01AlgorithmusProgrammSoftwareEVA S. 16]].
 > - **Zentrale Suchbegriffe:** Einstieg, Programmierung, Struktogramm, Darstellungsform, Programmabläufe, Programmablaufplan, PAP, Erstelle, anhand, vorgegebenen.
 > - **Prüfungsbezug:** AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -62,56 +62,56 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1>) | Einstieg in die Programmierung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=4>) | Aufgaben zum Struktogramm: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7>) | Eine Darstellungsform für Programmabläufe ist das | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 8](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=8>) | Programmablaufplan (PAP) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15>) | Erstelle anhand des vorgegebenen Programmablaufplans das entsprechende | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 16](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=16>) | Lösung zu Arbeitsauftrag 2: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 17](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17>) | Die Kontrollstruktur „Schleife“ … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18>) | Aufgabe: Es soll ein Programm erstellt werden, dass die Summe der Zahlen von 1 bis 10 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=19>) | Unterziehe folgenden Auszug des Programmentwurfs eines Medienanbieters einem Schreibtischt … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20>) | Die „bedingte Schleife“ … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 21](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=21>) |  Die fußgesteuerte bedingte Schleife … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23>) | 4. Mit welchem der gegebenen Testdatenbestände lässt sich die Logik des vorgegebenen Progr … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=24>) | Methoden der _____________________________________ (stepwise refinement) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25>) | Bei der Software-Erstellung/Entwicklung sind i.d.R. Vorgehensmodelle notwendig, um den Ent … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=26>) | Grundlagen der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 27](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27>) | Grundlagen der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 17 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 31](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31>) | Methoden der schrittweisen Verfeinerung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 18 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33>) | Aufgabe zu Arrays und zu bedingten Wiederholungen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 19 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 34](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34>) | Aufgabe zu Arrays und zu bedingten Wiederholungen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 20 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 35](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=35>) | Lösungsvorschlag: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 21 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38>) | Beispiel zu einem zweidimensionalen Array - Lösung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 22 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 39](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39>) | Die Feldwerte ergeben sich aus dem Produkt der beiden Laufvariablen i | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 23 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=40>) | Aufgabe zu einem zweidimensionalen Array. Das vorgegebene Array heißt | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 24 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 42](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=42>) | Der Datenflussplan (auch: data flow chart) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 25 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 43](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=43>) | Aufgabe „Urlaubsansprüche“ zum Datenflussplan | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 26 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44>) | Nun geht es um Such-Algorithmen! | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 27 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 45](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=45>) | Aufgabenstellung zur linearen Suche: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 28 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=46>) | Er löst eine Aufgabe / ein Problem mit Hilfe von _____________________________. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 29 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 47](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=47>) | So sieht der zugehörige rekursive Algorithmus in VB.Net aus: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 30 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 51](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=51>) | Programmiersprachen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 31 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 52](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=52>) | Programmiersprachen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 32 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 53](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=53>) | Programmiersprachen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 33 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 58](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=58>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 34 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 61](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=61>) | Werkzeuge der Softwareentwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 35 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 68](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=68>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 36 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 73](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=73>) | Vorgehensmodelle | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 37 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 74](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=74>) | Vorgehensmodelle | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 38 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 76](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=76>) | Vorgehensmodelle – Teil 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 39 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 79](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=79>) | Software-Qualität nach ISO/IEC 25010 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 40 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 84](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=84>) | Aufgabenblatt zu „Neuentwicklung und Anpassung sowie Dokumentation von Software“ | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 41 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 85](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=85>) | Fach: Anwendungsentwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 42 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 86](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86>) | Zur Unterstützungssoftware gehören beispielsweise Programme wie Editoren und | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 43 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 87](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=87>) | Installationsanleitung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 44 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=1>) | Aufgabe Flächenberechnung - Experten | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 45 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=3>) | 1. Aufgabe | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 46 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=4>) | 3. Aufgabe | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 47 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=5>) | Aufgabe kann in einer Klasse bearbeitet werden! | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 48 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=6>) | 1. Aufgabe | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 49 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=7>) | 3. Aufgabe | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 50 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 8](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=8>) | Aus der main-Methode soll die Methode subtraction aufgerufen werden, mit der | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1>) | Einstieg in die Programmierung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=4>) | Aufgaben zum Struktogramm: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7>) | Eine Darstellungsform für Programmabläufe ist das | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 8](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=8>) | Programmablaufplan (PAP) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15>) | Erstelle anhand des vorgegebenen Programmablaufplans das entsprechende | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 16](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=16>) | Lösung zu Arbeitsauftrag 2: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 17](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17>) | Die Kontrollstruktur „Schleife“ … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18>) | Aufgabe: Es soll ein Programm erstellt werden, dass die Summe der Zahlen von 1 bis 10 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=19>) | Unterziehe folgenden Auszug des Programmentwurfs eines Medienanbieters einem Schreibtischt … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20>) | Die „bedingte Schleife“ … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 21](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=21>) |  Die fußgesteuerte bedingte Schleife … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23>) | 4. Mit welchem der gegebenen Testdatenbestände lässt sich die Logik des vorgegebenen Progr … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=24>) | Methoden der _____________________________________ (stepwise refinement) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25>) | Bei der Software-Erstellung/Entwicklung sind i.d.R. Vorgehensmodelle notwendig, um den Ent … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=26>) | Grundlagen der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 27](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27>) | Grundlagen der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 17 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 31](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31>) | Methoden der schrittweisen Verfeinerung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 18 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33>) | Aufgabe zu Arrays und zu bedingten Wiederholungen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 19 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 34](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34>) | Aufgabe zu Arrays und zu bedingten Wiederholungen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 20 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 35](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=35>) | Lösungsvorschlag: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 21 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38>) | Beispiel zu einem zweidimensionalen Array - Lösung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 22 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 39](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39>) | Die Feldwerte ergeben sich aus dem Produkt der beiden Laufvariablen i | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 23 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=40>) | Aufgabe zu einem zweidimensionalen Array. Das vorgegebene Array heißt | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 24 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 42](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=42>) | Der Datenflussplan (auch: data flow chart) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 25 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 43](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=43>) | Aufgabe „Urlaubsansprüche“ zum Datenflussplan | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 26 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44>) | Nun geht es um Such-Algorithmen! | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 27 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 45](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=45>) | Aufgabenstellung zur linearen Suche: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 28 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=46>) | Er löst eine Aufgabe / ein Problem mit Hilfe von _____________________________. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 29 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 47](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=47>) | So sieht der zugehörige rekursive Algorithmus in VB.Net aus: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 30 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 51](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=51>) | Programmiersprachen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 31 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 52](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=52>) | Programmiersprachen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 32 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 53](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=53>) | Programmiersprachen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 33 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 58](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=58>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 34 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 61](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=61>) | Werkzeuge der Softwareentwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 35 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 68](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=68>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 36 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 73](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=73>) | Vorgehensmodelle | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 37 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 74](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=74>) | Vorgehensmodelle | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 38 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 76](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=76>) | Vorgehensmodelle – Teil 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 39 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 79](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=79>) | Software-Qualität nach ISO/IEC 25010 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 40 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 84](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=84>) | Aufgabenblatt zu „Neuentwicklung und Anpassung sowie Dokumentation von Software“ | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 41 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 85](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=85>) | Fach: Anwendungsentwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 42 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 86](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86>) | Zur Unterstützungssoftware gehören beispielsweise Programme wie Editoren und | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 43 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 87](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=87>) | Installationsanleitung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 44 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=1>) | Aufgabe Flächenberechnung - Experten | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 45 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=3>) | 1. Aufgabe | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 46 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=4>) | 3. Aufgabe | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 47 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=5>) | Aufgabe kann in einer Klasse bearbeitet werden! | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 48 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=6>) | 1. Aufgabe | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 49 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=7>) | 3. Aufgabe | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 50 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 8](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=8>) | Aus der main-Methode soll die Methode subtraction aufgerufen werden, mit der | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -120,11 +120,11 @@ tags:
 #### Seite 1: Einstieg in die Programmierung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Einstieg in die Programmierung Anwendungsentwicklung Name: Klasse: Datum: Einige Grundbegriffe Die Entwicklung des Computers ermöglichte es, Rechenarbeit von Maschinen erledigen zu lassen. Der Computer kann jedoch allein keine Probleme lösen, ihm muss ein Lösungsweg vorgegeben werden. Dieser Lösungsweg wird dem Computer in Form eines Programms mitgeteilt. Ein Programm, was ist das eigentlich? • Ein Programm ist ein „Rezept“, eine Bearbeitungsvorschrift für einen Computer zur Lösung einer vorgegebenen Aufgabe und … • diese Bearbeitungsvorschrift wird auch Algorithmus genannt und … • der Algorithmus ist in einer speziellen Sprache formuliert, der Programmiersprache. • Die in der Programmierspr …
@@ -181,11 +181,11 @@ EVA - PRINZIP
 #### Seite 4: Aufgaben zum Struktogramm:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=4]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=4]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgaben zum Struktogramm: In einer Betriebsvereinbarung der „IT-GmbH“ ist u.a. folgender Auszug aus den „Urlaubsan- sprüchen der Beschäftigen“ zu finden: Den Beschäftigten stehen 30 Tage Urlaub zu. Minderjährige Beschäftigte erhalten 35 Tage Urlaub. Beschäftigte, die älter als 55 Jahre sind, erhalten 32 Tage Urlaub. Beschäftigte mit einer Behinderung ab 50 % erhalten zusätzlich zu ihrem son- stigen Urlaubsanspruch 5 weitere Urlaubstage. Aufgabe 1: Finde die richtige Lösung bzw. die richtigen Lösungen! Aufgabe 2: In den Lösungen kommen ja verschiedene Kontrollstruktu- ren vor. Markiere - egal wo - von jeder Kontrollstruktur ei- nen Vertreter farbig und be- nenne diesen fachgerecht. (Einfache …
@@ -245,11 +245,11 @@ V
 #### Seite 7: Eine Darstellungsform für Programmabläufe ist das
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Eine Darstellungsform für Programmabläufe ist das Struktogramm (auch: Nassi-Shneiderman-Diagramm) STG (Struktogramm) zur Aufgabe „3%-Rabatt auf Einkaufswert über 1000 €“: Einseitig bedingte Auswahl bzw. Bedingte Anweisung Struktogramme stellen den Programmablauf in Form eines geschlossenen Blocks dar. Würde man „rabatt := 0“ in das leere Feld unter „Nein“ schreiben, so könnte man sich eine Zeile sparen. Es handelt sich dann aber um die zweiseitig bedingte Auswahl bzw. Verzweigung oder Alter- native. Sequenz bzw. Folgestruktur Beginn rabatt := 0 Ausgabe (“Preis eingeben:“) Eingabe (preis) Ja Nein rabatt := preis * 0.03 * endpreis := preis - rabatt Ausgabe (“Zu zahlen:“) Ausgabe (endpreis) End …
@@ -300,11 +300,11 @@ Verarbeitung
 #### Seite 8: Programmablaufplan (PAP)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 8](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=8]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 8](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=8]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Programmablaufplan (PAP) PAP (Programmablaufplan) zur Aufgabe „3%-Rabatt auf Einkaufswert über 1000 €“: Info: Man sieht auch Ein- und Ausgabevorgänge als Parallelogramme dargestellt - siehe Auszug aus einer ehemaligen Prüfung. Dies ent- spricht nicht der zugehörigen Norm, ist aber weit verbreitet. rabatt := preis * 0.03 preis > 1000 ? endpreis := preis - rabatt Nein Ja rabatt := 0 Zweiseitig bedingte Auswahl bzw. Verzweigung/ Alternative Auszug aus ZP-H17: Beginn Ende Ausgabe (“Preis eingeben:“) Eingabe (preis) Ausgabe (“Zu zahlen:“) Ausgabe (endpreis) Beachte bitte: In diesem PAP ist jetzt nicht die einseitig bedingte Auswahl umgesetzt, wie im STG dargestellt, sondern die Varian- te mit der …
@@ -355,11 +355,11 @@ Ende vorhanden!
 #### Seite 15: Erstelle anhand des vorgegebenen Programmablaufplans das entsprechende
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Erstelle anhand des vorgegebenen Programmablaufplans das entsprechende Struktogramm (auch Nassi-Shneiderman-Diagramm): Aufgabenstellung: Ein Fahrkartenautomat gibt Einzel-, Wochen- und Monatskarten für die Tarifzone 1 (Innenraum-Bereich) und für die Tarifzone 2 (Innen- und Außenraum-Bereich) aus. Das untenstehende Programm simuliert so einen Automaten und berechnet den jeweiligen Fahrpreis. Hinweis: Der vorgegebene PAP ist nicht fehlerfrei und die Art der Darstellung entspricht nicht unseren vereinbarten Konventionen! Arbeitsauftrag 1: Markiere im PAP die Stellen, die „verbesserungswürdig“ sind. Schaue dabei auf inhaltliche Fehler und auf Abweichungen bezüglich unserer Konventionen! Arbeitsa …
@@ -400,11 +400,11 @@ klammern
 #### Seite 16: Lösung zu Arbeitsauftrag 2:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 16](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=16>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=16]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 16](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=16>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=16]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=16]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Lösung zu Arbeitsauftrag 2: Zeichne nun den „verbesserten“ PAP in ein STG um und zwar nach unseren Kon- ventionen. Optimierung: Abweichend vom vorgegebenen PAP wäre folgende Lösung sinnvoller!
@@ -423,11 +423,11 @@ Optimierung: Abweichend vom vorgegebenen PAP wäre folgende Lösung sinnvoller!
 #### Seite 17: Die Kontrollstruktur „Schleife“ …
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 17](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 17](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Die Kontrollstruktur „Schleife“ … • ermöglicht eine wiederholte Ausführung von Anweisungen. • besteht aus der Schleifensteuerung und dem Schleifenrumpf. • Die Schleifensteuerung gibt an, wie oft oder unter welchen Bedingungen die Anwei- sungen abgearbeitet werden. Die Schleifensteuerung besteht aus Schleifenkopf und Schleifenfuß. • Der Schleifenrumpf liegt innerhalb der Schleifensteuerung und enthält die zu wie- derholenden Anweisungen. Die „zählergesteuerte Schleife“ … • nennt man auch Iteration, Zählschleife oder Laufanweisung. • legt durch einen Anfangs- und einen Endwert die Anzahl der Schleifendurchläufe fest. • Die Variable, die die Anzahl der Schleifendurchläufe zählt, heißt Laufvaria …
@@ -493,11 +493,11 @@ Zusammenfassung für St
 #### Seite 18: Aufgabe: Es soll ein Programm erstellt werden, dass die Summe der Zahlen von 1 bis 10
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe: Es soll ein Programm erstellt werden, dass die Summe der Zahlen von 1 bis 10 berechnet. Die Berechnung soll mittels einer zählergesteuerten Schleife umgesetzt werden. Die prinzipielle Vorgehensweise ist: 0 + 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 1 + 2 3 + 3 6 + 4 … summe (neu) := summe (alt) + zaehler Umsetzung der Lösung als Programmablaufplan, als Struktogramm und als Pseudocode: (Hinweis: Das „ausgabe(summe);“ müsste großgeschrieben werden - „Ausgabe(summe);“ Gib an, wie groß die Summe von 1 bis 10 ist? ___________ zaehler (von 1 bis 10) summe (alt) summe (neu) summe summe := summe + zaehler Neuer Wert der Variablen Alter Wert der Variablen Zählvariable (hat hier den Anfangswert …
@@ -550,11 +550,11 @@ ebenfalls Rechtecke.
 #### Seite 19: Unterziehe folgenden Auszug des Programmentwurfs eines Medienanbieters einem Schreibtischt …
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=19>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=19]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=19>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=19]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=19]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Unterziehe folgenden Auszug des Programmentwurfs eines Medienanbieters einem Schreibtischtest: Struktogramm (STG): Der Zugriff auf die Daten in der nebenstehenden Tabelle er- folgt so: Spaltenname[Nr], z.B. Art[2] => MP3-Download Die zugehörigen Daten findest du hier: Nr Art Umsatz 1 CD-Verkauf 2.600 2 MP3-Download 3.900 3 Musik-Streaming 4.200 4 DVD-Verkauf 3.500 5 LP-Verkauf 1.900 6 MC-Verkauf 300 Kleine Hilfe für deinen Schreibtischtest: Beantworte nun folgende Fragen: 1. Gib an, was nach Durchlauf des Programmausschnitts ausgegeben wird: ___________________ 2. Welche Aufgabe hat die Variable „Position“ bei der Verarbeitung? ________________________ _______________________________________ …
@@ -675,11 +675,11 @@ Variablen klein schreiben : Position, nu, umsatz, art
 #### Seite 20: Die „bedingte Schleife“ …
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Die „bedingte Schleife“ …  umfasst die kopfgesteuerte bedingte Schleife und die fußgesteuerte bedingte Schleife.  Bei beiden Schleifen ist von Beginn an nicht bekannt, wie oft die Schleifen durchlaufen werden.  Die kopfgesteuerte bedingte Schleife … o heißt auch abweisende oder vorprüfende Schleife. o Die Überprüfung der Schleifenbedingung erfolgt hier vor der Ausführung des Anweisungsteils. o Ist die Schleifenbedingung erfüllt, so wird der Anweisungsteil im Schleifenrumpf ausgeführt, ist sie dagegen nicht mehr erfüllt, so wird die Schleife beendet und das Programm mit der ersten Anweisung nach dieser Kontrollstruktur fortgesetzt. o Ist das Ergebnis der Bedingung bereits von Beginn an nic …
@@ -727,11 +727,11 @@ O
 #### Seite 21:  Die fußgesteuerte bedingte Schleife …
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 21](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=21>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=21]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 21](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=21>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=21]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=21]]
 
 > [!info] Lernkern direkt aus dieser Seite
 >  Die fußgesteuerte bedingte Schleife … o heißt auch annehmende oder nachprüfende Schleife. o Die Überprüfung der Schleifenbedingung erfolgt hier nach der Ausführung des Anweisungsteils am Ende der Schleife. o Ist die Schleifenbedingung erfüllt, so wird der Anweisungsteil im Schleifenrumpf solange weiter ausgeführt, bist die Schleifenbedingung nicht mehr erfüllt ist: Erst dann wird die Schleife beendet und das Programm mit der ersten Anweisung nach dieser Kontrollstruktur fortgesetzt. o Bei der fußgesteuerten bedingten Schleife werden die Anweisungen im Schlei- fenrumpf immer mindestens einmal ausgeführt. Deshalb spricht man hier auch von der annehmenden Schleife! o Die Java-Schlüsselwörter …
@@ -771,11 +771,11 @@ nummer := nummer * nummer
 #### Seite 23: 4. Mit welchem der gegebenen Testdatenbestände lässt sich die Logik des vorgegebenen Progr …
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 4. Mit welchem der gegebenen Testdatenbestände lässt sich die Logik des vorgegebenen Programmentwurfs bestmöglichst überprüfen? Bestand 1 mnr zeit 1 5 1 10 1 12 1 8 Bestand 2 mnr zeit 1 3 2 6 3 4 4 3 Bestand 3 mnr zeit 1 3 2 6 2 24 3 8 Bestand 4 mnr zeit 2 5 3 12 3 20 4 34 Bestand 5 mnr zeit 2 8 2 12 2 6 2 7 4 6 5. Bei der Implementierung des STG-Entwurfs in deine bevorzugte Programmiersprache stellst du fest, dass die beiden kopfgesteuerten bedingten Schleifen sich dort nicht umsetzen lassen. Ändere nun folgende Schleife in eine gleichwertige fußgesteuerte bedingte Schleife/Wiederholung ab. Ergänze dazu die passende Zeile! 1. Wiederhole bis mnr = vmnr und nicht EOF 2. Wiederhole bis mnr != …
@@ -895,11 +895,11 @@ Initialisierung
 #### Seite 24: Methoden der _____________________________________ (stepwise refinement)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=24>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=24]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=24>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=24]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=24]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Methoden der _____________________________________ (stepwise refinement) Wir sehen uns dazu die folgenden Methoden des strukturierten Programmentwurfs an: • Die ________________-Methode: Das Gesamtproblem / der Gesamtalgorithmus wird in kleinere Teile / in Teilalgorithmen zerlegt. Jeder Teilalgorithmus ist einfacher und überschaubarer als der Gesamtalgorithmus. Diese Methode ist vorzuziehen, z.B. bei der Entwicklung einzelner Programme: Wenn wir beispielsweise eine Noten-App für die Schule erstellen, so sollen damit die Noten aufge- nommen und daraus der Durchschnitt für jedes Fach, sowie der Gesamtdurchschnitt be- rechnet werden. Die Endnoten der Fächer als auch der Gesamtdurchschnitt solle …
@@ -956,11 +956,11 @@ Bottom-Up
 #### Seite 25: Bei der Software-Erstellung/Entwicklung sind i.d.R. Vorgehensmodelle notwendig, um den Ent …
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Bei der Software-Erstellung/Entwicklung sind i.d.R. Vorgehensmodelle notwendig, um den Entwick- lungsprozess in verwaltbare und kontrollierbare Teile zu gliedern – Hierfür helfen uns auch: • Methoden der schrittweisen Verfeinerung – Beantworte die Fragen mit dem zugehörigen Infoblatt: 1. Der englischsprachige Fachbegriff hierfür lautet? __________________________________ 2. Nenne die drei Methoden der schrittweisen Verfeinerung: __________________________________________________________________________ 3. Für die letzte der drei Methoden gibt es weitere Begriffe: __________________________________________________________________________ 4. Welche der Methoden ist geeignet, wenn die Aufgabens …
@@ -1056,11 +1056,11 @@ wir nicht !
 #### Seite 26: Grundlagen der Software-Entwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=26>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=26]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=26>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=26]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=26]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Grundlagen der Software-Entwicklung Anwendungsentwicklung Name: Klasse: Datum: 1 Die Phasen des Software-Lebenszyklus Aufgaben: 1. Bringe die einzelnen Phasen des Software- Lebenszyklus in eine sinnvolle Reihenfolge. 2. Überlege dir, welche Aufgaben bei der Software-Erstellung in jeder dieser Phasen durchgeführt werden. Die Herstellung von Software ist ein strukturierter Prozess. Durch das Phasenmodell wird die Reihenfolge bei der Soft- ware-Entwicklung festgelegt und bestimmt, von welchen Perso- nen welche Aktivitäten auszuführen sind. In jeder der sechs Phasen werden die festgelegten Aufgaben erledigt, diese dann getestet und alles dokumentiert. Sowohl für die Entwicklung neuer Programme a …
@@ -1176,11 +1176,11 @@ beschriebenen Anforderungen
 #### Seite 27: Grundlagen der Software-Entwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 27](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 27](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Grundlagen der Software-Entwicklung Anwendungsentwicklung Name: Klasse: Datum: 1 Phase 2: Entwurf (Design) Aufgabe: Wie ist die Software zu realisieren? Drei zentrale Punkte, die festzulegen sind: • Wie strukturiert man den Programmentwurf? Mit „Top-Down“ oder „Bottom Up“ … • Wie beschreiben wir die Algorithmen? Mittels STG, PAP, Pseudocode etc. • Mit welcher Programmiersprache erfolgt die Implementierung? Java, Python, C++, ... Test: • Entwurfstest der Dokumente und des Designs (z.B. mit Schreibtischtest etc.). • Funktionstest eines eventuell vorhandenen Prototyps. Ergebnis: Die Beschreibung des Entwurfs bzw. die Softwarespezifikation. Phase 3: Implementierung (Codierung) Aufgabe: Der Progr …
@@ -1259,11 +1259,11 @@ zum Entwicklungsprozess!
 #### Seite 31: Methoden der schrittweisen Verfeinerung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 31](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 31](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Mt - Methoden der schrittweisen Verfeinerung /stepwise refinement) : · Top-Down : Gesamtaufgabe in Teilalgorithmen zerlegt · Bottom-Up : einzelne Module zu Gesamtsystem zusammenfügen (wenn Aufgabenstellung nicht exakt beschrieben) · Up-Down : Kritische Teilaufgaben durch Bottom-Up ; Gesamtaufgabe durch Top-Down verfeinern _ = Gegenstromverfahren _ oder = Middle-Out-Verfahren M8 _ Vorteile : Modularitätsprinzip Abstraktionsprinzip · Module unabhängig realisierbar Schnittstelle Interface · Module durch Schnittstellen leicht Tauschbar · ~ einzeln auf Funktionalität und 오 Korrektheit prüfen /leicht Fehler finden ! Phasen Software Lebenszyklus : Module in anderen Programmen verwenden (Wiederverwe …
@@ -1386,11 +1386,11 @@ Pseudocode
 #### Seite 33: Aufgabe zu Arrays und zu bedingten Wiederholungen
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe zu Arrays und zu bedingten Wiederholungen Ausgangslage: Die Brauerei Schluckspecht gewährt ihren Kunden  bei einer Mindestabnahme von 10 Kästen 5 % Rabatt,  bei einer Mindestabnahme von 50 Kästen 7 % Rabatt und  bei einer Mindestabnahme von 100 Kästen 10 % Rabatt. Diese Regelung soll durch einen Programmbaustein automatisch berücksichtigt werden. Gegeben ist nun folgender Struktogrammauszug mit zugehöriger Wertetabelle. Die Wertetabelle besteht aus zwei eindimensionalen Arrays: „Wert1“ und „Wert2“. In „Wert1“ sind die Anzahl der Kästen hinterlegt, ab denen ein bestimmter Rabatt gilt. In „Wert2“ sind die zugehörigen Rabatte als Prozentzahlen eingetragen. Beide Arrays (sowohl „Wert1 …
@@ -1472,11 +1472,11 @@ Widerholung
 #### Seite 34: Aufgabe zu Arrays und zu bedingten Wiederholungen
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 34](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 34](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe zu Arrays und zu bedingten Wiederholungen Ausgangslage: Die Brauerei Schluckspecht gewährt ihren Kunden  bei einer Mindestabnahme von 10 Kästen 5 % Rabatt,  bei einer Mindestabnahme von 50 Kästen 7 % Rabatt und  bei einer Mindestabnahme von 100 Kästen 10 % Rabatt. Diese Regelung soll durch einen Programmbaustein automatisch berücksichtigt werden. Gegeben ist nun folgender Struktogrammauszug mit zugehöriger Wertetabelle. Die Wertetabelle besteht aus zwei eindimensionalen Arrays: „Wert1“ und „Wert2“. In „Wert1“ sind die Anzahl der Kästen hinterlegt, ab denen ein bestimmter Rabatt gilt. In „Wert2“ sind die zugehörigen Rabatte als Prozentzahlen eingetragen. Beide Arrays (sowohl „Wert1 …
@@ -1553,11 +1553,11 @@ Feld
 #### Seite 35: Lösungsvorschlag:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 35](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=35>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=35]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 35](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=35>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=35]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=35]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Lösungsvorschlag:
@@ -1571,11 +1571,11 @@ Lösungsvorschlag:
 #### Seite 38: Beispiel zu einem zweidimensionalen Array - Lösung:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Beispiel zu einem zweidimensionalen Array - Lösung: Damit du die nachfolgende Aufgabe selbst lösen kannst, gehen wir dieses Beispiel ge- meinsam durch. Zurück zur Aufgabenstellung: In einem zweidimensionalen Feld/Ar- ray sollen doch die Produkte der Zahlen 1 bis 10 (z.B. 1*1=1 etc.) abgelegt werden: (1*1 =) 1 (1*2 =) 2 (1*3 =) 3 … (1*10 =) 10 (2*1 =) 2 (2*2 =) 4 (2*10 =) 20 … (10*1 =) 10 (10*10 =) 100 Lösen wir diese Aufgabe gemeinsam: Wir brauchen also ein zweidimensionales Feld/Array (nennen wir es ruhig „produkt“), das Ganzzahlen aufnehmen kann. Hier bietet sich der Datentyp Integer an. Wir schrei- ben den Programmablauf nicht in einer konkreten Programmiersprache, sondern in ei- nem Pseu …
@@ -1635,11 +1635,11 @@ d.h. das Feld „produkt“ wird somit zeilenweise mit Werten belegt.
 #### Seite 39: Die Feldwerte ergeben sich aus dem Produkt der beiden Laufvariablen i
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 39](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 39](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > zu 4: Die Feldwerte ergeben sich aus dem Produkt der beiden Laufvariablen i und j. Da die Indizes bei „0“ beginnen, müssen beide Laufvariablen für die Berechnungen um 1 erhöht werden. Damit du den Ablauf besser nachvollziehen kannst, habe ich ihn detailliert ausgeführt: Frage an dich: Wie viele Schleifendurchläufe gibt es hier insgesamt? _________ Aufgabe zu einem zweidimensionalen Array. Das vorgegebene Array heißt „arStat“ und ist nullindiziert! Es beinhaltet die Zahlen von 1 bis 12. Die Werte jeweils einer Zeile sind miteinander zu multiplizieren. Die entstehenden Pro- dukte (die Produkte der einzelnen Zeilen) sind zu addieren und die Gesamtsumme ist auszugeben.Verwendet werden sollen die …
@@ -1696,11 +1696,11 @@ weiter!
 #### Seite 40: Aufgabe zu einem zweidimensionalen Array. Das vorgegebene Array heißt
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=40>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=40>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe zu einem zweidimensionalen Array. Das vorgegebene Array heißt „arStat“ und ist nullindiziert! Es beinhaltet die Zahlen von 1 bis 12. Die Werte jeweils einer Zeile sind miteinander zu multiplizieren. Die entstehenden Produkte (die Produkte der einzelnen Zeilen) sind zu addieren und die Gesamtsumme ist auszugeben.Verwendet werden sollen die Variablen … • produkt • summe • i (für den Zeilenindex) • j (für den Spaltenindex) … und das zweidim.Array/Feld arStat[ i , j ]. 1. Schreibe den Pseudocode. Deklariere dazu auch alle Variablen (z.B. „integer summe;“ …). Für die Ausgabe nimm ruhig: „Ausgabe (“Die Summe ist: “ + summe);“. 2. Führe deinen Pseudocode in ein Struktogramm (STG) über. Beac …
@@ -1774,11 +1774,11 @@ End
 #### Seite 42: Der Datenflussplan (auch: data flow chart)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 42](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=42>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=42]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 42](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=42>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=42]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=42]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Der Datenflussplan (auch: data flow chart) Der DFP beschreibt in grafischer Form den Verlauf der Daten (Eingabevorgänge, Verarbeitungsvor- gänge und Ausgabevorgänge) in einem System. Er zeigt, welche Teile eines Programms von den Daten durchlaufen werden und er zeigt auch, welche Art der Bearbeitung innerhalb der Programme erfolgt. Für die Symbole von DFP und PAP gibt es die DIN-Norm 66001, aus der einige ausgewählte Symbole hier abgebildet sind: Symbol für eine Eingabeeinheit Symbol für eine Verarbeitung (allgemein) Symbol für eine manuelle Verarbeitung Symbol für Daten auf einem Schriftstück (z.B. Ausdruck) Symbol für eine Bildschirmausgabe Symbol für Daten auf einem Speicher mit sequenzie …
@@ -1828,11 +1828,11 @@ Y
 #### Seite 43: Aufgabe „Urlaubsansprüche“ zum Datenflussplan
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 43](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=43>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=43]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 43](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=43>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=43]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=43]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe „Urlaubsansprüche“ zum Datenflussplan Setze dich mit dem vorgegebenen Datenflussplan auseinander und entscheide dich für eine der fünf Lösungen. Kennzeichne zudem bei den übrigen Lösungsvorschlägen, was alles falsch ist!
@@ -1849,11 +1849,11 @@ fünf Lösungen. Kennzeichne zudem bei den übrigen Lösungsvorschlägen, was al
 #### Seite 44: Nun geht es um Such-Algorithmen!
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Nun geht es um Such-Algorithmen! Oft ist es erforderlich, ein Array (Feld) nach einem bestimmten Element zu durchsuchen. Hierfür gibt es verschiedene Suchalgorithmen, die sich in Aufbau und Effizienz unterscheiden. Wir be- trachten nun zwei Suchverfahren: Die lineare Suche und die binäre Suche. Zuerst betrachten wir die lineare Suche: Sie ist der einfachste Suchalgorithmus und auch unter dem Namen sequentielle Suche bekannt. Nun möchte man in einem Array mit n Elementen ein bestimmtes Element (z.B. eine konkrete Zahl bzw. das kleinste oder das größte Feldelement) suchen. Bei der linearen Suche geht man jetzt dieses Feld Element für Element durch und ver- sucht durch die entsprechenden Vergle …
@@ -1915,11 +1915,11 @@ Ausgegeben wird am Bildschirm:
 #### Seite 45: Aufgabenstellung zur linearen Suche:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 45](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=45>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=45]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 45](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=45>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=45]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=45]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabenstellung zur linearen Suche: Du sollst innerhalb eines unsortierten Feldes/Arrays feld[] mit n Elementen den größten Wert feld[max] - also das Maximum - suchen und mit seiner Po- sition max im Array ausgeben. Das Feld ist nullindiziert und es beinhaltet folgende Werte: 10, 11, 12, 15, 13, 14. Unterziehe nun in schriftlicher Form das vorgegebenen Struktogramm mit den gegebenen konkreten Werten ei- nem vollständigen Schreibtischtest! Denk‘ bitte dran: Schreibtischtest in schriftlicher Form! Ausgegeben wird am Bildschirm: 15 3 Ausgegeben wird am Bildschirm: Lösungsvorschlag für den Schreibtischtest: Die Position max hat als Wert die „3“ (das ist ja der Index). Da das Feld nullindiziert …
@@ -1958,11 +1958,11 @@ um das vierte Feldelement!
 #### Seite 46: Er löst eine Aufgabe / ein Problem mit Hilfe von _____________________________.
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=46>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=46]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=46>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=46]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=46]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ____________________________________________ Er löst eine Aufgabe / ein Problem mit Hilfe von _____________________________. Gegeben ist folgender Java-Code: Deine Aufgabe: Unterziehe diesen in Java-Code vorliegenden Algorithmus einem Schreibtischtest! Startwert: ___________ x while (x > 1) result = result * x x = x - 1 return result Der Aufruf dieser Methode erfolgt mittels „compFact(5)“ Iterativer Algorithmus Schleifendurchläufen x = 5 5 true 5 4 i true 20 3 Hive 60 true 120 1 1 false 12
@@ -2019,11 +2019,11 @@ false
 #### Seite 47: So sieht der zugehörige rekursive Algorithmus in VB.Net aus:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 47](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=47>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=47]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 47](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=47>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=47]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=47]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=47]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > _____________________________________________ _____________________________________________ _____________________________________________ _____________________________________________ So sieht der zugehörige rekursive Algorithmus in VB.Net aus: Deine Aufgabe: Unterziehe nun diesen Algorithmus einem Schreibtischtest! Darunter versteht man eine Funktion, die sich immer wieder selbst aufruft, bis die Abbruch- bedingung erfüllt ist. Auch: Abbruchbedingung
@@ -2047,11 +2047,11 @@ Auch: Abbruchbedingung
 #### Seite 51: Programmiersprachen
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 51](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=51>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=51]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 51](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=51>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=51]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=51]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=51]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Programmiersprachen AE Name: Klasse: Datum: 2 4 GL - Vierte Generation: Deskriptive (beschreibende) Sprachen Mit 4GL-Sprachen beschreibt der Programmierer, was das Programm tun soll. Einzelne Anweisungen bewirken hier intern eine ganze Reihe von Einzelschritten. Algorithmen werden nicht mehr benötigt. Sprachen dieser Generation: SQL(Datenbanken), XML (Datenbeschreibung), Open Access ... Es existieren einfache Entwicklersysteme. Nur für spezielle Einsatzgebiete (z. B. Datenbanken). Programme können leicht und schnell er- stellt werden. Der Programmierer hat kaum einen Einfluss auf in- terne Abläufe. Sie sind meist langsamer als vergleichbare Program- me bei problemorientierten Sprachen. Beisp …
@@ -2117,11 +2117,11 @@ Yes bzw. No
 #### Seite 52: Programmiersprachen
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 52](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=52>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=52]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 52](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=52>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=52]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=52]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=52]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Programmiersprachen AE Name: Klasse: Datum: 1 2. Einteilung der Programmiersprachen nach Sprachtypen (Aus: Programmierung – Grundlagen; 4. Ausgabe, Dezember 2017; Herdt-Verlag) 2.1 Prozedurale Programmiersprachen – Voraussetzung für die Problemlösung ist die Entwicklung eines Algorithmus. – Der Algorithmus wird in eine Folge von Einzelschritten übersetzt. – Diese Einzelschritte nennt man Anweisungen. – Programme werden dadurch aber oft unübersichtlich. Beispiele: Cobol (betriebswirtschaftlich), Fortran (wissenschaftlich), C (für systemnahe Programme), BASIC, Pascal, ... 2.2 Objektorientierte Programmiersprachen In objektorientierten Programmen werden die Daten und die zugehörigen Methoden in …
@@ -2180,11 +2180,11 @@ Eigenschaften
 #### Seite 53: Programmiersprachen
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 53](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=53>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=53]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 53](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=53>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=53]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=53]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=53]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Programmiersprachen AE Name: Klasse: Datum: 2 2.3 Funktionale Programmiersprachen – Jedes Programm ist eine Funktion. – Es werden nur Ausdrücke und Funktionen verwendet. – Eine Funktion kann auch andere Funktionen aufrufen. – Das Ergebnis einer Funktion kann als Übergabepara- meter für eine andere Funktion benutzt werden. Beispiele: Lisp, LOGO, ML, ... 2.4 Logische Programmiersprachen – Sie sind für die Lösung bestimmter Probleme entwickelt, z. B.: Datenabfragen, mathe- matische Beweise. – Um ein Problem zu lösen, werden Fakten / Daten und Regeln angegeben / definiert. – Ein Algorithmus wird hier nicht benötigt. – Um das Problem zu lösen, werden Beziehungen zwischen den Fakten / Daten ermitt …
@@ -2286,11 +2286,11 @@ ergebnis = calcSum ( calcSum (5,25) , calcSum(-3,0) );
 #### Seite 58: Werkzeuge der Software-Entwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 58](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=58>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=58]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 58](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=58>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=58]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=58]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=58]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Werkzeuge der Software-Entwicklung Anwendungsentwicklung Name: Klasse: Datum: • Binden und Laden In der letzten Phase der Übersetzung werden die Teile des Codes aus der getrennten Übersetzung der Unterprogramme zum endgültigen Programm zusammengesetzt, dazu dient der Binder (Lin- ker). Der Vorgang selbst wird Binden genannt. Quelle: Herdt - Programmierung Grundlagen Ein Programm besitzt vor seiner Ausführung nur relative Adressangaben, d.h. die Positionen in- nerhalb eines Programms werden relativ zu seiner Basisadresse angegeben. Der Lader (Loader) hat die Aufgabe, das übersetzte Programm in den Arbeitsspeicher zu laden. Dabei berechnet er aus den relativen Adressen die tatsächlichen Adress …
@@ -2326,11 +2326,11 @@ Die Kombination aus Binder und Lader ist der Bindelader: Er kombiniert die Aufga
 #### Seite 61: Werkzeuge der Softwareentwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 61](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=61>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=61]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 61](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=61>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=61]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=61]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=61]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Werkzeuge der Softwareentwicklung Beantworte die folgenden Punkte mit Hilfe der Infodokumente 1, 2 sowie dem zur IDE. 9. Es gibt Compiler, die einen Maschinencode für eine andere Plattform (z.B. Linux) erzeugen als die, auf der sie selbst ausgeführt werden (z.B. Windows). Man nennt sie ____________________. Das nächste „Werkzeug“ kann vor dem eigentlichen Kompiliervorgang noch Änderungen im Quelltext vornehmen: So können Kommentare ignoriert (z.B. durch Leerzeichen ersetzt) und weitere Quell- textdateien eingebunden werden. Man nimmt dazu den ________________________________. 10. Java oder die .NET-Plattform gehen bei der Übersetzung einen zweistufigen Weg. Bei kompilierten Programmen kann b …
@@ -2425,11 +2425,11 @@ wird verringst
 #### Seite 68: Werkzeuge der Software-Entwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 68](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=68>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=68]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 68](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=68>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=68]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=68]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=68]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Werkzeuge der Software-Entwicklung Anwendungsentwicklung Name: Klasse: Datum: Aufgabe: Ordne die folgenden Begriffe den Beschreibungen in der Tabelle zu. Ein Computerprogramm, das einen Programm-Quellcode einliest, analysiert und ausführt. Die Analyse des Quellcodes erfolgt also zur Laufzeit des Programms. Werden mehrere Übersetzungsdurchläufe benötigt, so wird der erste Durchlauf meist von dieser Compilerart durchgeführt. Das sind Compiler, die andere Compiler aus Sprachbeschreibungen generieren. Diese Compiler erzeugen einen Maschinencode für eine andere Computer-Platt- form als die, auf der sie ausgeführt werden. Die einzelnen kompilierten Module eines Programms sind noch nicht lauffähig. …
@@ -2516,11 +2516,11 @@ Assemble
 #### Seite 73: Vorgehensmodelle
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 73](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=73>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=73]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 73](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=73>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=73]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=73]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=73]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Vorgehensmodelle Anwendungsentwicklung Name: Klasse: Datum: 2 Das V- Modell: • Das V-Modell ist eine Erweiterung des Wasser- fall-Modells. Dazu gehört die Qualitätssicherung. • Es ist ein sehr umfangreiches und aufwendiges Modell. Das V-Modell XT ist bei Ausschrei- bungen der öffentlichen Hand (Software für Be- hörden etc.) und auch im militärischen Bereich Pflicht. Unternehmen setzen es ebenfalls ein. Vorteile • Es ist geeignet für große und komplexe Projekte. • Es integriert die Systemerstellung (SE), das Qualitätsmanagement (QM), das Konfigurations- management (KM) und das Projektmanagement (PM). Auf Qualität wird großen Wert gelegt. • Damit lassen sich Risiken minimieren, Kosten kontroll …
@@ -2600,11 +2600,11 @@ Quelle: Wikipedia – mit Ergänzungen
 #### Seite 74: Vorgehensmodelle
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 74](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=74>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=74]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 74](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=74>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=74]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=74]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=74]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Vorgehensmodelle Anwendungsentwicklung Name: Klasse: Datum: 3 Vorteile • Durch die Prüfungen in jedem Zyklus lassen sich Risiken minimieren. • Dadurch ist es hier eher möglich, auf Änderungen flexibel zu reagieren. • Zudem können Fehler und ungeeignete Alternativen frühzeitig erkannt und eliminiert werden. • Alternativen, die nicht mehr weiterverfolgt werden, können für andere Projekte interessant sein. • In die einzelnen Zyklen lassen sich andere Modelle, z.B. das Prototyping-Modell integrieren. • Die einzelnen Zyklen lassen sich eventuell auch unabhängig planen. Nachteile • Es braucht einen hohen Managementaufwand, da in jedem Zyklus Entscheidungen über den weiteren Prozessablauf getroffen …
@@ -2678,11 +2678,11 @@ Vertikaler Prototyp (er geht durch alle Ebenen)
 #### Seite 76: Vorgehensmodelle – Teil 1
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 76](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=76>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=76]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 76](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=76>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=76]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=76]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=76]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Vorgehensmodelle – Teil 1 Beantworte anhand des Info-Dokuments folgende Fragen: 1. Welches Ziel verfolgt man mit dem Einsatz von Vorgehensmodellen? _________________________________________________________________________________ 2. Neben den „klassischen“ Modellen haben „agile“ Modelle heutzutage eine große Bedeutung. Warum ist das so? _________________________________________________________________________________ 3. Wieso ist das „Wasserfall-Modell“ nicht für flexible Entwicklungsprozesse, bei denen sich die Anfor- derungen auch häufig wandeln können, geeignet? _________________________________________________________________________________ 4. Der Management-Aufwand beim „Wasserfall-Mod …
@@ -2776,11 +2776,11 @@ Systemsoftware).
 #### Seite 79: Software-Qualität nach ISO/IEC 25010
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 79](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=79>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=79]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 79](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=79>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=79]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=79]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=79]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Software-Qualität nach ISO/IEC 25010 Die Norm ISO/IEC 25010 ist der internationale Standard für die Bewertung von Softwarequalität. Sie definiert ein Qualitätsmodell mit acht Hauptmerkmalen, um die Qualität von Softwareprodukten messbar und vergleichbar zu machen. 1. Funktionale Tauglichkeit (Functional Suitability) Beschreibt, inwieweit die Software die festgelegten Anforderungen und Benutzerbedürfnisse erfüllt. Funktionale Vollständigkeit: Sind alle notwendigen Funktionen vorhanden? Funktionale Korrektheit: Liefert die Software die richtigen Ergebnisse? Funktionale Angemessenheit: Unterstützt die Software die Aufgaben des Nutzers effizient? 2. Leistungseffizienz (Performance Efficiency) Da …
@@ -2823,11 +2823,11 @@ Interoperabilität: Fähigkeit zum Datenaustausch mit anderen Systemen.
 #### Seite 84: Aufgabenblatt zu „Neuentwicklung und Anpassung sowie Dokumentation von Software“
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 84](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=84>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=84]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 84](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=84>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=84]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=84]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=84]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabenblatt zu „Neuentwicklung und Anpassung sowie Dokumentation von Software“ 1. Warum ist es in der Regel einfacher, eine Individualsoftware an die Wünsche des Kunden anzupassen, als eine Standardsoftware? 2. Was versteht man in Bezug auf die Anpassung von Standardsoftware unter Customizing? 3. Sollte das Customizing nicht ausreichen, was bietet sich eventuell daran an? Erläutere auch, was damit konkret gemeint ist. 4. Was versteht man unter einer Datenmigration? 5. Bei der Einteilung von Software ergänzen wir die Unterteilung in „Systemsoftware“ und „Anwendersoftware“ um die „Unterstützungssoftware“. Was ist damit gemeint? 6. Auch wenn deren Erstellung oft nur reduziert oder so nebenbei …
@@ -2864,11 +2864,11 @@ tation von Software für alle Beteiligten (Hersteller wie Benutzer) von großer 
 #### Seite 85: Fach: Anwendungsentwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 85](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=85>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=85]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 85](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=85>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=85]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=85]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=85]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Name: __________________________ Datum: ___________ Klasse: _________________________ Fach: Anwendungsentwicklung AUFGABEN- UND LERNBLATT Neuentwicklung, Anpassung und Dokumentation von Software 1. Warum ist es in der Regel einfacher, eine Individualsoftware an die Wünsche des Kunden anzupassen, als eine Standardsoftware? Bei einer Individualsoftware ist in der Regel der Quellcode bekannt, wodurch sich die vom Auftraggeber gewünschten Änderungen programmtechnisch umsetzen lassen. Bei einer Standardsoftware hingegen ist der Quellcode meist weder bekannt noch zugänglich. 2. Was versteht man in Bezug auf die Anpassung von Standardsoftware unter Customizing? Unter Customizing versteht man die An …
@@ -2915,11 +2915,11 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 #### Seite 86: Zur Unterstützungssoftware gehören beispielsweise Programme wie Editoren und
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 86](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 86](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Zur Unterstützungssoftware gehören beispielsweise Programme wie Editoren und Compiler. 6. Auch wenn deren Erstellung oft nur reduziert oder so nebenbei erfolgt - Warum ist die Dokumentation von Software für alle Beteiligten (Hersteller wie Benutzer) von großer Bedeutung? Aufgrund immer komplexer werdender Programme und Abläufe ist es für Entwickler und Benutzer essenziell, umfassend und verständlich informiert zu werden. Für Hersteller ist dies wichtig, da ursprüngliche Entwickler oft später in andere Projekte eingebunden sind oder die Firma verlassen haben. Neue Kollegen müssen sich schnell einarbeiten können, um Wartungen oder Änderungen vorzunehmen. Für Benutzer ist die Dokumentation unve …
@@ -2983,11 +2983,11 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 #### Seite 87: Installationsanleitung:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 87](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=87>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 87](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=87>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Installationsanleitung: Hier finden sich Anforderungen an Hardware, Betriebssystem und Softwareumgebung, Anweisungen zur Installation und Deinstallation sowie das Vorgehen bei Updates. Schulungsunterlagen: Diese werden häufig zur Verfügung gestellt, damit der Kunde den Umgang mit der Software anhand praxisnaher Beispiele erlernen kann. 10. Nenne vier Punkte, die eine gute Dokumentation von Software ausmachen. Die gewünschten Infos lassen sich schnell und einfach finden. Die Infos sind verständlich und widerspruchsfrei formuliert sowie schnell zu lesen. Die Infos sind vollständig und stets auf dem aktuellen Stand. Die Infos haben einen Bezug zur Praxis und lassen sich nachvollziehen. • • • • …
@@ -3020,11 +3020,11 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 #### Seite 1: Aufgabe Flächenberechnung - Experten
 
 > [!referenz] Exakte Referenz
-> - PDF: [Stößl.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=1]]`
+> - PDF: [Stößl.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=1]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT/Elektrotechnik Klasse: Datum: Aufgabe Flächenberechnung - Experten Die Schnellversand GmbH hat neue Räume angemietet. Sie wollen nun herausfinden, ob die Installation neuer Lüftungsgeräte stattfinden kann, sollen sowohl die Fläche als auch der Umfang des Raumes ermittelt werden. Ihnen liegen die Maße für den ersten Raum vor: Breite 10,50 Meter, Laenge: 17,30 Meter. Ihre Aufgabe ist es nun, ein Programm für die Roboter zu scheiben, welches den Umfang sowie den Flächeninhalt berechnet. Mögliche Lösung: Public static void main(String[] args) { float breite = 10,5 float laenge = 17 ,3 float umfang = 2 * (breite + laenge) fload flaecheni = breite * laengey
@@ -3061,11 +3061,11 @@ laengey
 #### Seite 3: 1. Aufgabe
 
 > [!referenz] Exakte Referenz
-> - PDF: [Stößl.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=3]]`
+> - PDF: [Stößl.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=3]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT Klasse: Datum: 1. Aufgabe Im Folgenden sind im neuen Java-Project „Internet“ zwei verschiedene Klassen anzulegen, die Klasse „Intranet“ und die Klasse „iPad“. Die Klasse „Intranet“ verfügt dabei über die Methode „verbinden“, die keinen Rückgabewert besitzt und bei einem Aufruf „Willkommen im Intranet der Schnellversand GmbH“ angibt. Anschließend soll in der Klasse iPad ein Objekt der Klasse Intranet instanziiert werden (Name frei wählbar) und die Methode „verbinden“ aufgerufen werden. public class Intranet { … public class iPad { public static void main(String[] args) { … 2. Aufgabe Im folgenden Beispiel soll in der Klasse Story ein neuer Roboter namens bs1 erzeugt werden. Die …
@@ -3109,11 +3109,11 @@ public static void main(String[] args) {
 #### Seite 4: 3. Aufgabe
 
 > [!referenz] Exakte Referenz
-> - PDF: [Stößl.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=4]]`
+> - PDF: [Stößl.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=4]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 3. Aufgabe Nun soll in der Klasse Robot die Methode getName() festgelegt werden. Diese soll als Rückgabewert „bs1“ liefern. In der Klasse Story soll ein neues Objekt der Klasse Robot instanziiert werden. Danach soll in der neuen Variable robotName in der Klasse Story durch Zugriff auf die Methode getName() der Name gespeichert und dieser anschließend auf der Konsole ausgegeben werden. public class Robot { … public class Story { public static void main(String[] args) { … 4. Aufgabe In der Klasse Robot soll die Methode getAge() festgelegt werden. Auf diese soll aus der Klasse Story heraus zugegriffen werden. Dabei soll zuerst ein neues Objekt der Klasse Robot namens bs1 erzeugt werden. In der …
@@ -3161,11 +3161,11 @@ werden und als Differenz (diff) auf der Konsole ausgegeben werden. Hinweis:
 #### Seite 5: Aufgabe kann in einer Klasse bearbeitet werden!
 
 > [!referenz] Exakte Referenz
-> - PDF: [Stößl.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=5]]`
+> - PDF: [Stößl.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=5]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe kann in einer Klasse bearbeitet werden! public class subtraction {
@@ -3181,11 +3181,11 @@ public class subtraction {
 #### Seite 6: 1. Aufgabe
 
 > [!referenz] Exakte Referenz
-> - PDF: [Stößl.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=6]]`
+> - PDF: [Stößl.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=6]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT Klasse: Datum: 1. Aufgabe Im Folgenden sind im neuen Java-Project „Internet“ zwei verschiedene Klassen anzulegen, die Klasse „Intranet“ und die Klasse „iPad“. Die Klasse „Intranet“ verfügt dabei über die Methode „verbinden“, die keinen Rückgabewert besitzt und bei einem Aufruf „Willkommen im Intranet der Schnellversand GmbH“ angibt. Anschließend soll in der Klasse iPad ein Objekt der Klasse Intranet instanziiert werden (Name frei wählbar) und die Methode „verbinden“ aufgerufen werden. 2. Aufgabe Im folgenden Beispiel soll in der Klasse Story ein neuer Roboter namens bs1 erzeugt werden. Dieser soll dabei auf die Methode getName der Klasse Robot zugreifen und den Namen „bs1“ aus …
@@ -3217,11 +3217,11 @@ kein return
 #### Seite 7: 3. Aufgabe
 
 > [!referenz] Exakte Referenz
-> - PDF: [Stößl.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=7]]`
+> - PDF: [Stößl.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=7]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT Klasse: Datum: 3. Aufgabe Nun soll in der Klasse Robot die Methode getName() festgelegt werden. Diese soll als Rückgabewert „bs1“ liefern. In der Klasse Story soll ein neues Objekt der Klasse Robot instanziiert werden. Danach soll in der neuen Variable robotName in der Klasse Story durch Zugriff auf die Methode getName() der Name gespeichert und dieser anschließend auf der Konsole ausgegeben werden. 4. Aufgabe In der Klasse Robot soll die Methode getAge() festgelegt werden. Auf diese soll aus der Klasse Story heraus zugegriffen werden. Dabei soll zuerst ein neues Objekt der Klasse Robot namens bs1 erzeugt werden. In der Konsole soll dann „bs1 ist 5 Jahre alt“ erscheinen, wobei …
@@ -3252,11 +3252,11 @@ erfolgen soll.
 #### Seite 8: Aus der main-Methode soll die Methode subtraction aufgerufen werden, mit der
 
 > [!referenz] Exakte Referenz
-> - PDF: [Stößl.pdf Seite 8](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=8]]`
+> - PDF: [Stößl.pdf Seite 8](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=8]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT Klasse: Datum: Aus der main-Methode soll die Methode subtraction aufgerufen werden, mit der zwei Zahlen (18 und 10) subtrahiert werden. Das Ergebnis soll zurückgegeben werden und als Differenz (diff) auf der Konsole ausgegeben werden. Hinweis: Aufgabe kann in einer Klasse bearbeitet werden! Zusatzaufgabe kann ohne objekt aufgerufen werden
@@ -3284,7 +3284,7 @@ werden
 - Frage:: Was ist **Die Kontrollstruktur „Schleife“ …** laut Quelle?
 - Antwort:: Sehr häufig wird die Laufvariable mit „i“ bezeichnet, im Beispiel ist es „zaehler“.
 - Beleg:: Sehr häufig wird die Laufvariable mit „i“ bezeichnet, im Beispiel ist es „zaehler“.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -3292,7 +3292,7 @@ werden
 - Frage:: Was ist der Kernpunkt zu **Grundlagen der Software-Entwicklung** laut Quelle?
 - Antwort:: Durch das Phasenmodell wird die Reihenfolge bei der Software-Entwicklung festgelegt und bestimmt, von welchen Personen welche Aktivitäten auszuführen sind.
 - Beleg:: Durch das Phasenmodell wird die Reihenfolge bei der Software-Entwicklung festgelegt und bestimmt, von welchen Personen welche Aktivitäten auszuführen sind.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=26|01_Algorithmus_Programm_Software_EVA S. 26]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=26|01_Algorithmus_Programm_Software_EVA S. 26]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -3300,7 +3300,7 @@ werden
 - Frage:: Was ist **Beispiel zu einem zweidimensionalen Array - Lösung:** laut Quelle?
 - Antwort:: Die Pseudocodes sind meist der Syntax bekannter Programmiersprachen angenähert und wenn man eine dieser Sprachen kann, versteht man in der Regel auch einen Pseudocode.
 - Beleg:: Die Pseudocodes sind meist der Syntax bekannter Programmiersprachen angenähert und wenn man eine dieser Sprachen kann, versteht man in der Regel auch einen Pseudocode.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38|01_Algorithmus_Programm_Software_EVA S. 38]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38|01_Algorithmus_Programm_Software_EVA S. 38]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -3308,7 +3308,7 @@ werden
 - Frage:: Was ist der Kernpunkt zu **Beispiel zu einem zweidimensionalen Array - Lösung:** laut Quelle?
 - Antwort:: In unserem Pseudocode ist die Lösung folgende: … 1. integer produkt[10, 10]; 2. for i := 0 to 9 do 3. for j := 0 to 9 do 4. produkt[i, j] := ( i + 1 ) * ( j + 1 ); end do end do … zu 1: Ein Array “produkt[ ]” wird angelegt.
 - Beleg:: In unserem Pseudocode ist die Lösung folgende: … 1. integer produkt[10, 10]; 2. for i := 0 to 9 do 3. for j := 0 to 9 do 4. produkt[i, j] := ( i + 1 ) * ( j + 1 ); end do end do … zu 1: Ein Array “produkt[ ]” wird angelegt.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38|01_Algorithmus_Programm_Software_EVA S. 38]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38|01_Algorithmus_Programm_Software_EVA S. 38]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -3316,7 +3316,7 @@ werden
 - Frage:: Welche Vorgabe nennt die Quelle zu **Aufgaben Übungen und Lösungen**?
 - Antwort:: Die entstehenden Produkte (die Produkte der einzelnen Zeilen) sind zu addieren und die Gesamtsumme ist auszugeben.Verwendet werden sollen die Variablen …  produkt  summe  i (für den Zeilenindex)  j (für den Spaltenindex) … und das zweidim.Array/Feld arStat[ i , j ].
 - Beleg:: Die entstehenden Produkte (die Produkte der einzelnen Zeilen) sind zu addieren und die Gesamtsumme ist auszugeben.Verwendet werden sollen die Variablen …  produkt  summe  i (für den Zeilenindex)  j (für den Spaltenindex) … und das zweidim.Array/Feld arStat[ i , j ].
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39|01_Algorithmus_Programm_Software_EVA S. 39]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39|01_Algorithmus_Programm_Software_EVA S. 39]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -3324,7 +3324,7 @@ werden
 - Frage:: Was ist der Kernpunkt zu **Programmiersprachen** laut Quelle?
 - Antwort:: 2.3 Funktionale Programmiersprachen – Jedes Programm ist eine Funktion. – Es werden nur Ausdrücke und Funktionen verwendet. – Eine Funktion kann auch andere Funktionen aufrufen. – Das Ergebnis einer Funktion kann als Übergabeparameter für eine andere Funktion benutzt werden.
 - Beleg:: 2.3 Funktionale Programmiersprachen – Jedes Programm ist eine Funktion. – Es werden nur Ausdrücke und Funktionen verwendet. – Eine Funktion kann auch andere Funktionen aufrufen. – Das Ergebnis einer Funktion kann als Übergabeparameter für eine andere Funktion benutzt werden.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=53|01_Algorithmus_Programm_Software_EVA S. 53]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=53|01_Algorithmus_Programm_Software_EVA S. 53]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -3332,7 +3332,7 @@ werden
 - Frage:: Was ist der Kernpunkt zu **Software-Qualität nach ISO/IEC 25010** laut Quelle?
 - Antwort:: Software-Qualität nach ISO/IEC 25010 Die Norm ISO/IEC 25010 ist der internationale Standard für die Bewertung von Softwarequalität.
 - Beleg:: Software-Qualität nach ISO/IEC 25010 Die Norm ISO/IEC 25010 ist der internationale Standard für die Bewertung von Softwarequalität.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=79|01_Algorithmus_Programm_Software_EVA S. 79]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=79|01_Algorithmus_Programm_Software_EVA S. 79]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -3340,7 +3340,7 @@ werden
 - Frage:: Was ist der Kernpunkt zu **Aufgrund immer komplexer** laut Quelle?
 - Antwort:: Aufgrund immer komplexer werdender Programme und Abläufe ist es für Entwickler und Benutzer essenziell, umfassend und verständlich informiert zu werden.
 - Beleg:: Aufgrund immer komplexer werdender Programme und Abläufe ist es für Entwickler und Benutzer essenziell, umfassend und verständlich informiert zu werden.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86|01_Algorithmus_Programm_Software_EVA S. 86]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86|01_Algorithmus_Programm_Software_EVA S. 86]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

@@ -4,24 +4,24 @@
   "private_scope": "Der private Notenordner wurde weder gerendert noch inhaltlich gelesen.",
   "pairs": [
     {
-      "duplicate_pdf": "99_Originale/Berufsschule/AE/Anwendugse.pdf",
-      "canonical_pdf": "99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf",
+      "duplicate_pdf": "99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf",
+      "canonical_pdf": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
       "pages": 87,
       "render_sheets": 22,
       "exact_render_matches": 22,
       "status": "visuell_pixelidentisch"
     },
     {
-      "duplicate_pdf": "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf",
-      "canonical_pdf": "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf",
+      "duplicate_pdf": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf",
+      "canonical_pdf": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf",
       "pages": 4,
       "render_sheets": 1,
       "exact_render_matches": 1,
       "status": "visuell_pixelidentisch"
     },
     {
-      "duplicate_pdf": "99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf",
-      "canonical_pdf": "99_Originale/Berufsschule/Religion/Reli Notizen.pdf",
+      "duplicate_pdf": "99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf",
+      "canonical_pdf": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
       "pages": 6,
       "render_sheets": 2,
       "exact_render_matches": 2,

@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Mutterschutz** im Fach **PuG Politik und Gesellschaft**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/PUG/Pug.pdf#page=6|Pug S. 6]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=13|Pug S. 13]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=14|Pug S. 14]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=15|Pug S. 15]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=20|Pug S. 20]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=26|Pug S. 26]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6|Pug S. 6]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=13|Pug S. 13]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=14|Pug S. 14]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=15|Pug S. 15]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20|Pug S. 20]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26|Pug S. 26]].
 > - **Zentrale Suchbegriffe:** Mutterschutz, Jugendarbeitsschutzgesetz, Arbeitsrecht, Mutterschutzgesetz, Arbeitsplatz, werdende, Mütter, besonders, gesundheitlich, Außerordentliche.
 > - **Prüfungsbezug:** AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -56,13 +56,13 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 6](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=6>) | Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 13](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=13>) | Arbeitsrecht - Mutterschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 14](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=14>) | Arbeitsplatz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 15](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=15>) | werdende Mütter besonders gesundheitlich geschützt | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=20>) | Außerordentliche Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 26](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=26>) | Arbeitsrecht - Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 29](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=29>) | Tarifvertrag | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 6](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6>) | Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 13](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=13>) | Arbeitsrecht - Mutterschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 14](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=14>) | Arbeitsplatz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 15](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=15>) | werdende Mütter besonders gesundheitlich geschützt | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20>) | Außerordentliche Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 26](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26>) | Arbeitsrecht - Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 29](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29>) | Tarifvertrag | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -71,11 +71,11 @@ tags:
 #### Seite 6: Jugendarbeitsschutzgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 6](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=6]]`
+> - PDF: [Pug.pdf Seite 6](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=6]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Jugendarbeitsschutzgesetz Arbeitsschutz Gesundheitsschutz Freizeitschutz Berufsschule • Schulbeginn vor 9 Uhr – davor kein Betrieb (Ausnahmen) • Blockunterricht mehr als 25 Unterrichtsstunden á 45 Min. – kein Betrieb • Tagesunterricht mehr als 5 Unterrichtsstunden a 45 Min – kein Betrieb (Achtung bei 2 Unterrichtstagen ) Arbeitszeit Regel: Max 40 Stunden und 8 Stunden pro Tag Ausnahme: max. 8,5 Stunden pro Tag, wenn an einem Tag in der Woche weniger gearbeitet wird und max. 40 Std in der Woche gearbeitet wird Prüfungen Zur Prüfung und am Tag vor der Abschlussprüfung wird ein Tag freigestellt Ärztliche Untersuchung • Erstuntersuchung • 1. Nachuntersuchung vor Ablauf des ersten Ausbildungsjahr …
@@ -144,11 +144,11 @@ psychischen und physischen Schäden und Überlastungen
 #### Seite 13: Arbeitsrecht - Mutterschutzgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 13](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=13>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=13]]`
+> - PDF: [Pug.pdf Seite 13](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=13>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=13]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=13]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Arbeitsrecht - Mutterschutzgesetz PuG Name: Klasse: Datum: 1 Sie sind Auszubildendensprecher für das 1. Lehrjahr in Ihrem Betrieb. Die Auszubildende Sabine Maier bittet Sie um ein Gespräch. In diesem Gespräch berichtet sie Ihnen, dass sie die Vermutung hat, schwanger zu sein. Frau Maier ist verunsichert, wie es weitergehen soll. Nachdem Sie selber in diesem Thema noch kein tiefergehendes Wissen besitzen, notieren Sie alle Fragen, die Frau Maier an Sie stellt. Sie versprechen Frau Maier, sich zu informieren und anschließend alle Fragen in einem Gespräch mit ihr zu beantworten. 1. Gibt es ein passendes Gesetz? 2. Dürfen werdende Mütter beschäftigt werden? 3. Ist eine werdende Mutter kündbar? 4 …
@@ -195,11 +195,11 @@ Urlaub?
 #### Seite 14: Arbeitsplatz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 14](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=14>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=14]]`
+> - PDF: [Pug.pdf Seite 14](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=14>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=14]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=14]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Arbeitsplatz wird angepasst, akkordarbeit, Nachtarbeit, Lärm , Staub , schwereshebe 3. Ist eine Werdende Mutter kündbar ? Nein . Während der Schwangerschaft und bis zum Ablauf von 4 Monaten nach der Entbindung ist eine Kündigung unzulässig (Arbeitgeber muss Schwangerschaft wissen oder zwei Wochen nach Zugang der Kündigung informiert werden, sonst ist Kay. wirksam) . Bei befristeten AV gilt bis zum Ablauf des Arbeitsvertrages
@@ -237,11 +237,11 @@ Arbeitsvertrages
 #### Seite 15: werdende Mütter besonders gesundheitlich geschützt
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 15](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=15]]`
+> - PDF: [Pug.pdf Seite 15](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=15]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 4 . Sind werdende Mütter besonders gesundheitlich geschützt ? Da , keine Fließbandarbeit, kein Akord, kein ständiges stehen , kein schweres Heben (dauerhaft keine Lasten über 5kg) keine schwere körperliche Arbeit oder Arbeit mit gesundheitsschädlichen Stoffen , keine erhöhte Unfallgefahr, keine Gefahr für Gesundheit von Mutter und Kind, begrenzte Arbeitszeiten · Sitzgelegenheiten · Kurze unterbrechungen der Arbeit · Arbeitsplatz , erforderliche Maßnahmen zum Schutz des Lebens und Gesundheit · Schwere körperliche Arbeit (Nachtarbeit , Lärm ,Staub ,Akkord) vermieden werden kann . 5. Muss der Arbeitgeber von der Schwangerschaft unterrichtet werden ? Werdende Mütter sollen , müssen den Arbeitgeb …
@@ -314,11 +314,11 @@ den restlichen Urlaub !
 #### Seite 20: Außerordentliche Kündigung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=20]]`
+> - PDF: [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=20]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Außerordentliche Kündigung (fristlose Kündigung) Es muss ein wichtiger Grund vorliegen -AN: z .b Ausbleiben des Gehalts -AG : Diebstahl , Schweigepflichtsverletzung Außerordentliche Kündigung muss innerhalb 2 Wochen nach bekannt werden des wichtigen Grundes ausgesprochen werden. Wer hat einen besonderen Kündigungsschutz? -Schwerbehinderte -Schwangere /4 Monate nach Geburt - AN in Pflegezeit/Elternzeit - Betriebsrat/CAV- und ein Jahr nach Beendigung de Tätigkeit als BR/SAV - Datenschutzbeauftragter/Sicherheitsbeauftragter- und ein Jahr nach Beendigung der Tätigkeit als DSB - Freiwilligen Dienst/Wehrdienst - (Azubis) Welche Punkte sind bei einer Kündigung zu beachten ? - Schriftlich (mit Unter …
@@ -390,11 +390,11 @@ worden sein
 #### Seite 26: Arbeitsrecht - Kündigung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 26](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=26>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=26]]`
+> - PDF: [Pug.pdf Seite 26](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=26]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Arbeitsrecht - Kündigung PuG Name: Klasse: Datum: 2 Liste der möglichen Mitarbeiter 1. Anne König, 43 Jahre, Sachbearbeiterin im Vertrieb, verheiratet, 2 Kinder, seit 23 Jahren im Betrieb 2. Georg Müller, 29 Jahre, Lagerist, ledig, Schwerbehindert, seit 3 Jahren im Betrieb 3. Petra Kuhn, 20 Jahre, Fachinformatiker seit 4 Jahren im Betrieb (inkl. Ausbildung). Sie war bis vor 6 Monaten Jugend- und Auszubildendenvertreterin 4. Philipp Manier, 38 Jahre, Fachinformatiker, alleinerziehend, 5 Kinder, seit 7 Jahren im Betrieb 5. Caroline Ungemach, 49 Jahre, Buffetkraft in der Kantine, seit 5 Jahren im Betrieb. Sie ist wiederholt unentschuldigt der Arbeit ferngeblieben. Sie aus diesem Grund bereits z …
@@ -447,11 +447,11 @@ Jahr im Betrieb.
 #### Seite 29: Tarifvertrag
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 29](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=29>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=29]]`
+> - PDF: [Pug.pdf Seite 29](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=29]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Tarifvertrag PuG Name: Klasse: Datum: 2 Informationen zum Tarifvertrag Damit nicht für jeden einzelnen Arbeitnehmer immer wieder neue Arbeitsverträge ausgehandelt werden müssen, werden gemeinsame Verträge (Kollektivverträge) verfasst. Ein solcher Tarifvertrag ist ein Vertrag zwischen Arbeitgebern bzw. Arbeitgeberverbänden und Gewerkschaften, der die Rechte und Pflichten der Tarifvertragsparteien regelt und zusätzlich Rechtsnormen über den Inhalt, den Abschluss und die Beendigung von Arbeitsverhältnissen sowie zu betriebsverfassungsrechtlichen Fragen enthält. Die Tarifverträge sind Ausdruck der Tarifautonomie, also des Rechts der Tarifpartner, unabhängig von staatlichen Reglementierungen Tari …
@@ -516,7 +516,7 @@ Arbeitgeber ist verpflichtet, die für seinen Betrieb maßgebenden Tarifverträg
 - Frage:: Was ist der Kernpunkt zu **Jugendarbeitsschutzgesetz** laut Quelle?
 - Antwort:: 40 Std in der Woche gearbeitet wird Prüfungen Zur Prüfung und am Tag vor der Abschlussprüfung wird ein Tag freigestellt Ärztliche Untersuchung • Erstuntersuchung • 1.
 - Beleg:: 40 Std in der Woche gearbeitet wird Prüfungen Zur Prüfung und am Tag vor der Abschlussprüfung wird ein Tag freigestellt Ärztliche Untersuchung • Erstuntersuchung • 1.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=6|Pug S. 6]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6|Pug S. 6]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -524,7 +524,7 @@ Arbeitgeber ist verpflichtet, die für seinen Betrieb maßgebenden Tarifverträg
 - Frage:: Was ist der Kernpunkt zu **Jugendarbeitsschutzgesetz** laut Quelle?
 - Antwort:: 8,5 Stunden pro Tag, wenn an einem Tag in der Woche weniger gearbeitet wird und max.
 - Beleg:: 8,5 Stunden pro Tag, wenn an einem Tag in der Woche weniger gearbeitet wird und max.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=6|Pug S. 6]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6|Pug S. 6]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -532,7 +532,7 @@ Arbeitgeber ist verpflichtet, die für seinen Betrieb maßgebenden Tarifverträg
 - Frage:: Was ist der Kernpunkt zu **Arbeitsplatz** laut Quelle?
 - Antwort:: Arbeitsplatz wird angepasst, akkordarbeit, Nachtarbeit, Lärm , Staub , schwereshebe 3.
 - Beleg:: Arbeitsplatz wird angepasst, akkordarbeit, Nachtarbeit, Lärm , Staub , schwereshebe 3.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=14|Pug S. 14]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=14|Pug S. 14]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -540,7 +540,7 @@ Arbeitgeber ist verpflichtet, die für seinen Betrieb maßgebenden Tarifverträg
 - Frage:: Welche Vorgabe nennt die Quelle zu **Arbeitsplatz**?
 - Antwort:: Während der Schwangerschaft und bis zum Ablauf von 4 Monaten nach der Entbindung ist eine Kündigung unzulässig (Arbeitgeber muss Schwangerschaft wissen oder zwei Wochen nach Zugang der Kündigung informiert werden, sonst ist Kay. wirksam) .
 - Beleg:: Während der Schwangerschaft und bis zum Ablauf von 4 Monaten nach der Entbindung ist eine Kündigung unzulässig (Arbeitgeber muss Schwangerschaft wissen oder zwei Wochen nach Zugang der Kündigung informiert werden, sonst ist Kay. wirksam) .
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=14|Pug S. 14]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=14|Pug S. 14]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -548,7 +548,7 @@ Arbeitgeber ist verpflichtet, die für seinen Betrieb maßgebenden Tarifverträg
 - Frage:: Welche Vorgabe nennt die Quelle zu **werdende Mütter besonders gesundheitlich geschützt**?
 - Antwort:: Werdende Mütter sollen , müssen den Arbeitgeber aber nicht unterrichten.
 - Beleg:: Werdende Mütter sollen , müssen den Arbeitgeber aber nicht unterrichten.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=15|Pug S. 15]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=15|Pug S. 15]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -556,7 +556,7 @@ Arbeitgeber ist verpflichtet, die für seinen Betrieb maßgebenden Tarifverträg
 - Frage:: Welche Vorgabe nennt die Quelle zu **Außerordentliche Kündigung**?
 - Antwort:: Außerordentliche Kündigung (fristlose Kündigung) Es muss ein wichtiger Grund vorliegen -AN: z .b Ausbleiben des Gehalts -AG : Diebstahl , Schweigepflichtsverletzung Außerordentliche Kündigung muss innerhalb 2 Wochen nach bekannt werden des wichtigen Grundes ausgesprochen werden.
 - Beleg:: Außerordentliche Kündigung (fristlose Kündigung) Es muss ein wichtiger Grund vorliegen -AN: z .b Ausbleiben des Gehalts -AG : Diebstahl , Schweigepflichtsverletzung Außerordentliche Kündigung muss innerhalb 2 Wochen nach bekannt werden des wichtigen Grundes ausgesprochen werden.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=20|Pug S. 20]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20|Pug S. 20]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -564,7 +564,7 @@ Arbeitgeber ist verpflichtet, die für seinen Betrieb maßgebenden Tarifverträg
 - Frage:: Was ist der Kernpunkt zu **Tarifvertrag** laut Quelle?
 - Antwort:: Alle Tarifverträge in der BRD sind in einem Tarifregister gesammelt und können dort eingesehen werden.
 - Beleg:: Alle Tarifverträge in der BRD sind in einem Tarifregister gesammelt und können dort eingesehen werden.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=29|Pug S. 29]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29|Pug S. 29]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -572,7 +572,7 @@ Arbeitgeber ist verpflichtet, die für seinen Betrieb maßgebenden Tarifverträg
 - Frage:: Was ist der Kernpunkt zu **Tarifvertrag** laut Quelle?
 - Antwort:: Die Tarifverträge sind Ausdruck der Tarifautonomie, also des Rechts der Tarifpartner, unabhängig von staatlichen Reglementierungen Tarifverträge frei auszuhandeln, abzuschließen und wieder zu beenden.
 - Beleg:: Die Tarifverträge sind Ausdruck der Tarifautonomie, also des Rechts der Tarifpartner, unabhängig von staatlichen Reglementierungen Tarifverträge frei auszuhandeln, abzuschließen und wieder zu beenden.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=29|Pug S. 29]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29|Pug S. 29]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

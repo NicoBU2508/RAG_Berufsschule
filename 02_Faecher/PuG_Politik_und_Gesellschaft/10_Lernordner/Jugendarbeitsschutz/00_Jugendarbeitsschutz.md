@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Jugendarbeitsschutz** im Fach **PuG Politik und Gesellschaft**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/PUG/Pug.pdf#page=5|Pug S. 5]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=6|Pug S. 6]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=7|Pug S. 7]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=8|Pug S. 8]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=9|Pug S. 9]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=18|Pug S. 18]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5|Pug S. 5]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6|Pug S. 6]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7|Pug S. 7]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8|Pug S. 8]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9|Pug S. 9]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18|Pug S. 18]].
 > - **Zentrale Suchbegriffe:** Jugendarbeitsschutz, Kündigung, durch, Jugendarbeitsschutzgesetz.
 > - **Prüfungsbezug:** AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -55,12 +55,12 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 5](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=5>) | Kündigung durch AG | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 6](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=6>) | Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 7](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=7>) | Das Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 8](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=8>) | Das Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 9](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=9>) | Das Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 18](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=18>) | Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 5](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5>) | Kündigung durch AG | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 6](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6>) | Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 7](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7>) | Das Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 8](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8>) | Das Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 9](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9>) | Das Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 18](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18>) | Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -69,11 +69,11 @@ tags:
 #### Seite 5: Kündigung durch AG
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 5](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=5]]`
+> - PDF: [Pug.pdf Seite 5](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=5]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Kündigung durch AG : aus wichtigen Grund z. B . Pflichtverletzung,betrieblichen Kündigung durch Azubi : nur wenn, die Ausbildung beendet wird oder ein anderer Ausbildungsberuf begonnen wird. Rechte des Azubis : Pflichten des Azubis : -Vergütung - Lernpflicht - Urlaub - Sorgfaltspflicht - Fachspezifische Ausbildung - Weisungen befolgen -Ausbildungsmittel - Berichtsheft - Fürsorge - Besuch der Berufsschule - Freistellung Berufsschule -Teilnahme an Prüfungen -Kündigung -Schweigepflicht für Ex rechte und pflichten und Jugenarbeitssurtzy
@@ -124,11 +124,11 @@ Jugenarbeitssurtzy
 #### Seite 6: Jugendarbeitsschutzgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 6](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=6]]`
+> - PDF: [Pug.pdf Seite 6](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=6]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Jugendarbeitsschutzgesetz Arbeitsschutz Gesundheitsschutz Freizeitschutz Berufsschule • Schulbeginn vor 9 Uhr – davor kein Betrieb (Ausnahmen) • Blockunterricht mehr als 25 Unterrichtsstunden á 45 Min. – kein Betrieb • Tagesunterricht mehr als 5 Unterrichtsstunden a 45 Min – kein Betrieb (Achtung bei 2 Unterrichtstagen ) Arbeitszeit Regel: Max 40 Stunden und 8 Stunden pro Tag Ausnahme: max. 8,5 Stunden pro Tag, wenn an einem Tag in der Woche weniger gearbeitet wird und max. 40 Std in der Woche gearbeitet wird Prüfungen Zur Prüfung und am Tag vor der Abschlussprüfung wird ein Tag freigestellt Ärztliche Untersuchung • Erstuntersuchung • 1. Nachuntersuchung vor Ablauf des ersten Ausbildungsjahr …
@@ -197,11 +197,11 @@ psychischen und physischen Schäden und Überlastungen
 #### Seite 7: Das Jugendarbeitsschutzgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 7](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=7]]`
+> - PDF: [Pug.pdf Seite 7](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=7]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Das Jugendarbeitsschutzgesetz PuG Name: Klasse: Datum: 1 Das Jugendarbeitsschutzgesetz Sie treffen sich mit Sebastian (16 Jahre) und Kerstin (17 Jahre) ca. 1 Monat nach Beginn deren Ausbildungsbeginn zum Kaffeetrinken. Sie hören den beiden erstaunt zu. Kerstin: Na wie läuft es bei dir in der Ausbildung? Sebastian: Ich bin völlig erledigt. Ich arbeite jeden Tag 11 Stunden, da bei uns die Grippe ausgebrochen ist. Und morgen soll ich auch noch nach der Berufsschule in den Betrieb. Mein Chef hat mir auch schon angekündigt, dass ich nächste Woche evtl. sogar noch vor der Schule arbeiten muss. Wenn das so weitergeht, brauche ich schon bald Urlaub. Wie viele Tage Urlaub hast du Kerstin? Kerstin: 27 …
@@ -263,11 +263,11 @@ mit. 15min sein
 #### Seite 8: Das Jugendarbeitsschutzgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 8](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=8]]`
+> - PDF: [Pug.pdf Seite 8](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=8]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Das Jugendarbeitsschutzgesetz PuG Name: Klasse: Datum: 2 Übungssituation Situation Lösung Kerstin Na wie läuft es bei dir in der Ausbildung? Sebastian Ich bin völlig erledigt. Ich arbeite jeden Tag 11 Stunden, da bei uns die Grippe ausgebrochen ist. Und morgen soll ich auch noch nach der Berufsschule in den Betrieb. Mein Chef hat mir auch schon angekündigt, dass ich nächste Woche evtl. sogar noch vor der Schule arbeiten muss. Wenn das so weitergeht, brauche ich schon bald Urlaub. Wie viele Tage Urlaub hast du Kerstin? Kerstin 27 Tage! Sebastian 27 Tage, Mensch hast es du gut….. ich habe nur 24 Tage. Ich glaub ich bin im falschen Betrieb….. Kerstin Tja…. Aber Mittag hast du doch sicherlich? S …
@@ -368,11 +368,11 @@ So nicht möglich
 #### Seite 9: Das Jugendarbeitsschutzgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 9](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=9]]`
+> - PDF: [Pug.pdf Seite 9](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=9]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Das Jugendarbeitsschutzgesetz PuG Name: Klasse: Datum: 3 Zusätzliche Übungsaufgaben Peter ist 16 Jahre alt, kaufmännischer Auszubildender. Letzte Woche musste er beim Entladen eines LKW´s mithelfen und so schwere Pakete tragen, dass er 3 Tage lang Rückenschmerzen hatte. Ist diese Arbeit rechtens? Begründen Sie Ihre Antwort. Der Auszubildende Fritz 16 Jahre alt, geb. am 12. März verlangt 30 Werktage Urlaub. Sein Ausbilder meint, dass ihm nur 27 Werktage zustehen. Welche Aussage ist richtig? Begründen Sie Ihre Antwort. Welche Möglichkeiten hat ein Jugendlicher, wenn sein Betrieb gegen die Vorschriften des Jugendarbeitsschutzgesetzes verstößt.
@@ -406,11 +406,11 @@ Vorschriften des Jugendarbeitsschutzgesetzes verstößt.
 #### Seite 18: Kündigung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 18](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=18>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=18]]`
+> - PDF: [Pug.pdf Seite 18](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=18]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Kündigung PuG Name: Klasse: Datum: 1 Situation Max Huber ist Jugend- und Auszubildenden Vertreter in der IT-Syst GmbH. Dienstag steht er für Fragen und Probleme jugendlicher Arbeitnehmer zur Verfügung. Aktuell sind bei der IT-Syst GmbH 100 Arbeitnehmer be- schäftigt. Franz Schmidt 17, Hilfsarbeiter, seit 7 Monaten bei der IT-Syst GmbH beschäftigt, hat Probleme mit seinem Vorgesetzten. Dieser hat ihm nun angedroht, Franz zu kündigen. Franz ist auf die Arbeit, angewiesen, da er nächstes Jahr ein Studium beginnen möchte und dafür das Geld sparen muss. Franz bittet Sie um Information, ob ihn sein Vorgesetzter einfach kündigen kann. Sie bitten Franz nächste Woche wieder zu kommen, damit sich ausf …
@@ -461,7 +461,7 @@ Franz auf einem Informationsblatt mit.
 - Frage:: Was ist der Kernpunkt zu **Ausbildung beendet** laut Quelle?
 - Antwort:: Pflichtverletzung,betrieblichen Kündigung durch Azubi : nur wenn, die Ausbildung beendet wird oder ein anderer Ausbildungsberuf begonnen wird.
 - Beleg:: Pflichtverletzung,betrieblichen Kündigung durch Azubi : nur wenn, die Ausbildung beendet wird oder ein anderer Ausbildungsberuf begonnen wird.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=5|Pug S. 5]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5|Pug S. 5]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -469,7 +469,7 @@ Franz auf einem Informationsblatt mit.
 - Frage:: Was ist der Kernpunkt zu **Jugendarbeitsschutzgesetz** laut Quelle?
 - Antwort:: 40 Std in der Woche gearbeitet wird Prüfungen Zur Prüfung und am Tag vor der Abschlussprüfung wird ein Tag freigestellt Ärztliche Untersuchung • Erstuntersuchung • 1.
 - Beleg:: 40 Std in der Woche gearbeitet wird Prüfungen Zur Prüfung und am Tag vor der Abschlussprüfung wird ein Tag freigestellt Ärztliche Untersuchung • Erstuntersuchung • 1.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=6|Pug S. 6]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6|Pug S. 6]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -477,7 +477,7 @@ Franz auf einem Informationsblatt mit.
 - Frage:: Was ist der Kernpunkt zu **Jugendarbeitsschutzgesetz** laut Quelle?
 - Antwort:: 8,5 Stunden pro Tag, wenn an einem Tag in der Woche weniger gearbeitet wird und max.
 - Beleg:: 8,5 Stunden pro Tag, wenn an einem Tag in der Woche weniger gearbeitet wird und max.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=6|Pug S. 6]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6|Pug S. 6]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -485,7 +485,7 @@ Franz auf einem Informationsblatt mit.
 - Frage:: Was ist der Kernpunkt zu **Das Jugendarbeitsschutzgesetz** laut Quelle?
 - Antwort:: Ich arbeite jeden Tag 11 Stunden, da bei uns die Grippe ausgebrochen ist.
 - Beleg:: Ich arbeite jeden Tag 11 Stunden, da bei uns die Grippe ausgebrochen ist.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=7|Pug S. 7]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7|Pug S. 7]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -493,7 +493,7 @@ Franz auf einem Informationsblatt mit.
 - Frage:: Was ist der Kernpunkt zu **Das Jugendarbeitsschutzgesetz** laut Quelle?
 - Antwort:: Sammeln Sie alle Punkte die im Jugendarbeitsschutzgesetz angesprochen werden.
 - Beleg:: Sammeln Sie alle Punkte die im Jugendarbeitsschutzgesetz angesprochen werden.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=7|Pug S. 7]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7|Pug S. 7]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -501,7 +501,7 @@ Franz auf einem Informationsblatt mit.
 - Frage:: Was ist der Kernpunkt zu **Das Jugendarbeitsschutzgesetz** laut Quelle?
 - Antwort:: Ausnahme & ,5h/Tag , wenn einmal in der Koche weniger und max 40h in der Woche gearbeitet wird - beides wird überschritten, nicht möglich - wen Schule vor Sbeginnt und mehr als 5 h a .
 - Beleg:: Ausnahme & ,5h/Tag , wenn einmal in der Koche weniger und max 40h in der Woche gearbeitet wird - beides wird überschritten, nicht möglich - wen Schule vor Sbeginnt und mehr als 5 h a .
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=8|Pug S. 8]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8|Pug S. 8]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -509,7 +509,7 @@ Franz auf einem Informationsblatt mit.
 - Frage:: Was ist der Kernpunkt zu **Kündigung** laut Quelle?
 - Antwort:: Damit sie sich ausführlich informieren können, notieren sie sich im Voraus wichtige Punkte, die sie recherchieren wollen.
 - Beleg:: Damit sie sich ausführlich informieren können, notieren sie sich im Voraus wichtige Punkte, die sie recherchieren wollen.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=18|Pug S. 18]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18|Pug S. 18]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -517,7 +517,7 @@ Franz auf einem Informationsblatt mit.
 - Frage:: Was ist der Kernpunkt zu **Kündigung** laut Quelle?
 - Antwort:: Sie bitten Franz nächste Woche wieder zu kommen, damit sich ausführlich informieren können und nächste Woche Franz ausführlich beraten können.
 - Beleg:: Sie bitten Franz nächste Woche wieder zu kommen, damit sich ausführlich informieren können und nächste Woche Franz ausführlich beraten können.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=18|Pug S. 18]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18|Pug S. 18]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

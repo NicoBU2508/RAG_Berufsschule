@@ -1,0 +1,1065 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md (Seiten 1–40)",
+  "replaces_existing": false,
+  "topic_categories": {
+    "Arbeitszeugnis": "Deutsch_Englisch_Kommunikation",
+    "S-Schreibung": "Deutsch_Englisch_Kommunikation",
+    "Geschäftsmail": "Deutsch_Englisch_Kommunikation"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "index",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 2,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "leer",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Visuell leere Seite ohne Lerninhalt",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arbeitszeugnis",
+        "secondary_topics": [
+          "Zwischenzeugnis",
+          "JAV-Fallanalyse"
+        ],
+        "recommended_topics": [
+          "Arbeitszeugnis"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 4,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arbeitszeugnis",
+        "secondary_topics": [
+          "Qualifiziertes Zeugnis",
+          "Schriftform"
+        ],
+        "recommended_topics": [
+          "Arbeitszeugnis"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arbeitszeugnis",
+        "secondary_topics": [
+          "§ 630 BGB",
+          "§ 109 GewO",
+          "§ 16 BBiG",
+          "Zwischenzeugnis"
+        ],
+        "recommended_topics": [
+          "Arbeitszeugnis",
+          "Ausbildungsvertrag und BBiG",
+          "Kündigung und Arbeitsrecht"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "formular",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Unausgefüllte Arbeitsvorlage ohne eigenen Lerninhalt",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 7,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arbeitszeugnis",
+        "secondary_topics": [
+          "Äußere Form"
+        ],
+        "recommended_topics": [
+          "Arbeitszeugnis"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 8,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arbeitszeugnis",
+        "secondary_topics": [
+          "Inhaltlicher Aufbau",
+          "Gliederung"
+        ],
+        "recommended_topics": [
+          "Arbeitszeugnis"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 9,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arbeitszeugnis",
+        "secondary_topics": [
+          "Zeugnissprache",
+          "Fünf Gebote",
+          "§ 109 GewO"
+        ],
+        "recommended_topics": [
+          "Arbeitszeugnis"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 10,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arbeitszeugnis",
+        "secondary_topics": [
+          "Zeugnissprache",
+          "Notenskala"
+        ],
+        "recommended_topics": [
+          "Arbeitszeugnis"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 11,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arbeitszeugnis",
+        "secondary_topics": [
+          "Zeugnistabus",
+          "Rechtsanspruch",
+          "Verjährung"
+        ],
+        "recommended_topics": [
+          "Arbeitszeugnis",
+          "Kündigung und Arbeitsrecht"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 12,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arbeitszeugnis",
+        "secondary_topics": [
+          "Beredtes Schweigen",
+          "Gefälligkeitszeugnis",
+          "Verschlüsselungstechniken"
+        ],
+        "recommended_topics": [
+          "Arbeitszeugnis"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 13,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arbeitszeugnis",
+        "secondary_topics": [
+          "Negationstechnik",
+          "Passivierungstechnik",
+          "Verschlüsselungstechniken"
+        ],
+        "recommended_topics": [
+          "Arbeitszeugnis"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 14,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arbeitszeugnis",
+        "secondary_topics": [
+          "Geheimcodes",
+          "Unzulässige Formulierungen"
+        ],
+        "recommended_topics": [
+          "Arbeitszeugnis"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 15,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "das oder dass",
+        "secondary_topics": [
+          "Wortarten",
+          "Ersatzprobe"
+        ],
+        "recommended_topics": [
+          "das oder dass"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 16,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "das oder dass",
+        "secondary_topics": [
+          "Kommasetzung",
+          "Stolperfallen"
+        ],
+        "recommended_topics": [
+          "das oder dass",
+          "Kommasetzung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 17,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "das oder dass",
+        "secondary_topics": [
+          "Sachverhalt erläutern",
+          "Fachsprache",
+          "Fachwortschatz Schleifen"
+        ],
+        "recommended_topics": [
+          "das oder dass",
+          "Kommasetzung",
+          "Groß- und Kleinschreibung",
+          "Schleifen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 18,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "das oder dass",
+        "secondary_topics": [
+          "Wortarten"
+        ],
+        "recommended_topics": [
+          "das oder dass"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 19,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "das oder dass",
+        "secondary_topics": [
+          "Ersatzprobe",
+          "Übung"
+        ],
+        "recommended_topics": [
+          "das oder dass"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 20,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "das oder dass",
+        "secondary_topics": [
+          "Wortarten",
+          "Kommasetzung"
+        ],
+        "recommended_topics": [
+          "das oder dass",
+          "Kommasetzung"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 21,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "das oder dass",
+        "secondary_topics": [
+          "Fortsetzung Aufgabe 3 (Seite 20)"
+        ],
+        "recommended_topics": [
+          "das oder dass",
+          "Kommasetzung"
+        ],
+        "content_type": "fragment",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": true,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 22,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "das oder dass",
+        "secondary_topics": [
+          "Höflichkeitsform",
+          "Kommasetzung",
+          "Fehlerkorrektur E-Mail"
+        ],
+        "recommended_topics": [
+          "das oder dass",
+          "Kommasetzung",
+          "Groß- und Kleinschreibung",
+          "Geschäftsbrief"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 23,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "das oder dass",
+        "secondary_topics": [
+          "Fachsprache",
+          "Höflichkeitsform",
+          "Schleifen"
+        ],
+        "recommended_topics": [
+          "das oder dass",
+          "Kommasetzung",
+          "Groß- und Kleinschreibung",
+          "Schleifen"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 24,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "S-Schreibung",
+        "secondary_topics": [
+          "s, ss, ß",
+          "Rechtschreibung"
+        ],
+        "recommended_topics": [
+          "S-Schreibung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 25,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "S-Schreibung",
+        "secondary_topics": [
+          "das oder dass",
+          "Übungslösung"
+        ],
+        "recommended_topics": [
+          "S-Schreibung",
+          "das oder dass"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 26,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Groß- und Kleinschreibung",
+        "secondary_topics": [
+          "Großschreibung",
+          "Substantivierung"
+        ],
+        "recommended_topics": [
+          "Groß- und Kleinschreibung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 27,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Groß- und Kleinschreibung",
+        "secondary_topics": [
+          "Substantivierung",
+          "Höfliche Anrede"
+        ],
+        "recommended_topics": [
+          "Groß- und Kleinschreibung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 28,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Groß- und Kleinschreibung",
+        "secondary_topics": [
+          "Kleinschreibung"
+        ],
+        "recommended_topics": [
+          "Groß- und Kleinschreibung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 29,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [
+          "Vor- und Nachteile E-Mail",
+          "Geschäftsbrief"
+        ],
+        "recommended_topics": [
+          "Geschäftsmail",
+          "Geschäftsbrief"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 30,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [
+          "Aufbau E-Mail-Adresse",
+          "DIN 5008"
+        ],
+        "recommended_topics": [
+          "Geschäftsmail",
+          "Geschäftsbrief"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 31,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [
+          "Aufbau einer Geschäftsmail"
+        ],
+        "recommended_topics": [
+          "Geschäftsmail"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 32,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [
+          "An, CC, BCC",
+          "Betreffzeile"
+        ],
+        "recommended_topics": [
+          "Geschäftsmail"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 33,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [
+          "Betreffzeile"
+        ],
+        "recommended_topics": [
+          "Geschäftsmail"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 34,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [
+          "Betreffzeile"
+        ],
+        "recommended_topics": [
+          "Geschäftsmail"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 35,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [
+          "Anrede",
+          "Hierarchische Reihenfolge"
+        ],
+        "recommended_topics": [
+          "Geschäftsmail"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 36,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [
+          "Einleitung",
+          "Hauptteil",
+          "Schluss",
+          "Grußformel"
+        ],
+        "recommended_topics": [
+          "Geschäftsmail"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 37,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [
+          "Grußformel",
+          "Aufbauschema",
+          "Leerzeilen"
+        ],
+        "recommended_topics": [
+          "Geschäftsmail"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 38,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [
+          "Formatierung",
+          "Umgangssprache",
+          "Übung Geschäftsmail"
+        ],
+        "recommended_topics": [
+          "Geschäftsmail"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": true,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 39,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [
+          "Fehlerkorrektur",
+          "Rechtschreibung und Kommasetzung"
+        ],
+        "recommended_topics": [
+          "Geschäftsmail",
+          "das oder dass",
+          "Kommasetzung",
+          "Groß- und Kleinschreibung"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "page": 40,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Geschäftsmail",
+        "secondary_topics": [
+          "Fehlerkorrektur",
+          "Kommasetzung"
+        ],
+        "recommended_topics": [
+          "Geschäftsmail",
+          "Kommasetzung"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    }
+  ]
+}

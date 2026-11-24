@@ -2,8 +2,8 @@
 typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
-original_pfad: "99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf"
-seiten: 12
+original_pfad: "99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf"
+seiten: 13
 pruefung: "AP1"
 cssclasses:
   - lernquelle
@@ -12,22 +12,22 @@ tags:
   - quelle
   - itt_it_technik
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-07-13"
+seitenaudit_datum: "2026-11-23"
 kanonische_referenzen: true
-kanonische_themen: 3
-seiten_mit_kanonischem_thema: 10
+kanonische_themen: 4
+seiten_mit_kanonischem_thema: 11
 ki_exclude_seiten: [1,6]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
-textstatus: "eingeschränkt: visuell geprüft (partial=10)"
-textzeichen: 19204
+textstatus: "eingeschränkt: visuell geprüft (ocr_verified=1, partial=10)"
+textzeichen: 19488
 ---
 # 📄 Otma Netzwerkt
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
-> - **Original-PDF:** [Netzwerkt.pdf](<99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf>)
-> - **Seiten:** 12
-> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (partial=10)
+> - **Original-PDF:** [Netzwerkt.pdf](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf>)
+> - **Seiten:** 13
+> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=1, partial=10)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -37,6 +37,7 @@ textzeichen: 19204
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Binärzahlen\|Binärzahlen]] | Prüfungsrahmen der Quelle | 2–3 | Visuell bestätigt auf 2 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting\|IPv4-Adressierung und Subnetting]] | Prüfungsrahmen der Quelle | 7–12 | Visuell bestätigt auf 6 Seite(n); bei 6 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/SI- und IEC-Dateneinheiten\|SI- und IEC-Dateneinheiten]] | Prüfungsrahmen der Quelle | 4–5 | Visuell bestätigt auf 2 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Zeichencodierung und ASCII\|Zeichencodierung und ASCII]] | Prüfungsrahmen der Quelle | 13 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
 
@@ -55,11 +56,11 @@ textzeichen: 19204
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Netzwerkt.pdf Seite 2](<99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2]]`
+> - PDF-Seite: [Netzwerkt.pdf Seite 2](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -163,11 +164,11 @@ immer
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Netzwerkt.pdf Seite 3](<99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=3]]`
+> - PDF-Seite: [Netzwerkt.pdf Seite 3](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -305,11 +306,11 @@ ________________________________________________________________________________
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Netzwerkt.pdf Seite 4](<99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=4]]`
+> - PDF-Seite: [Netzwerkt.pdf Seite 4](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=4]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -360,11 +361,11 @@ Ei 2^10*6
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Netzwerkt.pdf Seite 5](<99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=5]]`
+> - PDF-Seite: [Netzwerkt.pdf Seite 5](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=5]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -411,11 +412,11 @@ KiB
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Netzwerkt.pdf Seite 7](<99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7]]`
+> - PDF-Seite: [Netzwerkt.pdf Seite 7](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -512,11 +513,11 @@ enthält mindestens eine 1und eine O
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Netzwerkt.pdf Seite 8](<99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8]]`
+> - PDF-Seite: [Netzwerkt.pdf Seite 8](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1066,11 +1067,11 @@ der
 ### Seite 9
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Netzwerkt.pdf Seite 9](<99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=9>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=9]]`
+> - PDF-Seite: [Netzwerkt.pdf Seite 9](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=9]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1238,11 +1239,11 @@ erkant
 ### Seite 10
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Netzwerkt.pdf Seite 10](<99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10]]`
+> - PDF-Seite: [Netzwerkt.pdf Seite 10](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1323,11 +1324,11 @@ X
 ### Seite 11
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Netzwerkt.pdf Seite 11](<99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=11>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=11]]`
+> - PDF-Seite: [Netzwerkt.pdf Seite 11](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=11>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=11]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=11]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1608,11 +1609,11 @@ Host-ID
 ### Seite 12
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Netzwerkt.pdf Seite 12](<99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=12>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=12]]`
+> - PDF-Seite: [Netzwerkt.pdf Seite 12](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=12>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=12]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=12]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2025,3 +2026,28 @@ O Klasse D
 O Klasse E
 ```
 
+### Seite 13
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Netzwerkt.pdf Seite 13](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=13>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=13]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=13]]
+
+> [!ocr] Visuell transkribiert
+> Gedruckte dezimale ASCII-Codefolge sowie handschriftliche Decodierung aus Sichtprüfung bereinigt transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+ASCII-Decodierübung:
+
+Gegebene dezimale ASCII-Werte:
+68 105 101 115 101 114 32 84 101 120 116 32 105
+115 116 32 105 110 32 65 83 67 73 73 32 99 111 100
+105 101 114 116 33
+
+Handschriftliche Lösung:
+Dieser Text ist in ASCII codiert! (handschriftlich: „Dese Text ist is ASCII Codiert !“)
+```

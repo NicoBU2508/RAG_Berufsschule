@@ -24,7 +24,7 @@ Bei einer Listening-Comprehension-Aufgabe werden während eines Hörtexts geziel
 
 | Quelle | PDF-Seite | Inhalt |
 |---|---|---|
-| [[02_Faecher/Englisch/Quellen/Englisch|Englisch]] | [45](<../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=45>) | Prüfungsübung zu einem Verkaufsgespräch über eine Apple Watch |
+| [[02_Faecher/Englisch/Quellen/Englisch|Englisch]] | [45](<../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=45>) | Prüfungsübung zu einem Verkaufsgespräch über eine Apple Watch |
 
 > [!important] Quellenbegrenzung
 > Die Seite enthält Aufgabenfragen, aber keinen vollständigen Hörtext und keine verlässliche Musterlösung. Ein GPT darf daraus keine konkreten Antworten erfinden.

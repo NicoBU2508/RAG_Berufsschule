@@ -2,15 +2,15 @@
 id: vault.thema.visuell.programmablaufdarstellungen
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Programmablaufdarstellungen"
 kategorie: Anwendungsentwicklung
-quellen: 1
-seiten: 16
+quellen: 2
+seiten: 20
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,8 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [4–16, 29, 42–43](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=4>) | aufgabe, beispiel, fragment, loesung, theorie | 3 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [4–16, 29, 42–43](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=4>) | aufgabe, beispiel, fragment, loesung, theorie | 3 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block\|Stol_02_Unternehmenswiki_7_Block]] | [49, 58–59, 61](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=49>) | theorie | Text für Zitate geeignet |
 
 ## Belegregel für GPT
 

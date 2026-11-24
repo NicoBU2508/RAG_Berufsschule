@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Angebotsvergleich und Bezugskalkulation** im Fach **BGWP Betriebswirtschaft**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47|BGWP S. 47]]; [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2|Bgwp schredl S. 2]]; [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=4|Bgwp schredl S. 4]]; [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=12|Bgwp schredl S. 12]]; [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=13|Bgwp schredl S. 13]]; [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=14|Bgwp schredl S. 14]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47|BGWP S. 47]]; [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2|Bgwp schredl S. 2]]; [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=4|Bgwp schredl S. 4]]; [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=12|Bgwp schredl S. 12]]; [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=13|Bgwp schredl S. 13]]; [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=14|Bgwp schredl S. 14]].
 > - **Zentrale Suchbegriffe:** Angebotsvergleich, Bezugskalkulation, Unternehmensrecht, Organisation, Betrieb, Grundlagen, GOrganisation, Aufbauorganisation, Matrix, Ablauforganisation.
 > - **Prüfungsbezug:** AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -62,22 +62,22 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 47](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 2](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2>) | Organisation im Betrieb - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=4>) | GOrganisation im Betrieb - Aufbauorganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 12](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=12>) | 4. Matrix | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 13](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=13>) | Organisation im Betrieb - Ablauforganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 14](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=14>) | Organisation im Betrieb - Ablauforganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 15](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=15>) | Organisation im Betrieb – Ablauforganisation/ | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 16](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=16>) | Organisation im Betrieb – Ablauforganisation/ | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 22](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=22>) | Ablauforganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 24](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=24>) | Entscheidungstabellentechnik | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 25](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=25>) | Entscheidungstabelle - Regeln | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 26](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=26>) | Beispiel | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 27](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=27>) | Vorgehensweise | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=3>) | e Matrixorganisation: Mehrdimensionale Struktur, bei der funktionale | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 5](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=5>) | Nr. Stufen des Arbeitsplans Symbole | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7>) | 1. Betriebsorganisation - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 47](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 2](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2>) | Organisation im Betrieb - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=4>) | GOrganisation im Betrieb - Aufbauorganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 12](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=12>) | 4. Matrix | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 13](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=13>) | Organisation im Betrieb - Ablauforganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 14](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=14>) | Organisation im Betrieb - Ablauforganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 15](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=15>) | Organisation im Betrieb – Ablauforganisation/ | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 16](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=16>) | Organisation im Betrieb – Ablauforganisation/ | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 22](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=22>) | Ablauforganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 24](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=24>) | Entscheidungstabellentechnik | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 25](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=25>) | Entscheidungstabelle - Regeln | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 26](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=26>) | Beispiel | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 27](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=27>) | Vorgehensweise | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=3>) | e Matrixorganisation: Mehrdimensionale Struktur, bei der funktionale | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 5](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=5>) | Nr. Stufen des Arbeitsplans Symbole | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7>) | 1. Betriebsorganisation - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -86,11 +86,11 @@ tags:
 #### Seite 47: 08 Unternehmensrecht
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 47](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47]]`
+> - PDF: [BGWP.pdf Seite 47](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 08 Unternehmensrecht Klasse: Datum: II. Die Handlungsvollmacht Jede andere handelsrechtliche Stellvertretung wird als Handlungsvollmacht bezeichnet. Ihr Umfang lässt sich beliebig eingrenzen; sie ist nicht ins Handelsregister einzutragen. Die Erteilung ist formfrei, d. h. ausdrücklich schriftlich oder mündlich bzw. stillschweigend (z. B. durch Duldung bestimmter Handlungen von Mitarbeitern). Eine Eintragung in das Handelsregister ist nicht notwendig, die Bekanntmachung kann z. B. durch Rundschreiben erfolgen. Die Handlungsvollmacht ist jederzeit widerrufbar. Eine Löschung erfolgt außerdem bei Ausscheiden des Handlungsbevollmächtigen aus dem Arbeitsverhältnis sowie bei Auflösung ode …
@@ -149,11 +149,11 @@ zu unterzeichnen.
 #### Seite 2: Organisation im Betrieb - Grundlagen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 2](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2]]`
+> - PDF: [Bgwp schredl.pdf Seite 2](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Organisation im Betrieb - Grundlagen BWP Name: Klasse: Datum: 2 Übungen 1. Welche Fragestellung bezieht sich auf die Aufbauorganisation (AB), welche auf die Ablauforganisation (AL)? a) Wie sind die Aufgaben im Unternehmen verteilt? b) Wer kann wem Weisungen erteilen? c) Wie sollen die Aufgaben bearbeitet werden? d) Welche Mitarbeiter sollen welche Stellen besetzen? e) Welchen Rang nimmt die jeweilige Stelle ein? f ) Welche Stellen sollen gebildet werden? 2. Richtig oder falsch? a) Die Aufbauorganisation ist eine Hierarchie, aus der Weisungsbefugnisse abgeleitet werden können. b) Die Aufbauorganisation ist auch kurzfristig als sehr dynamisch anzusehen. c) Die Ablauforganisation ist dynamisch …
@@ -265,11 +265,11 @@ klar seit
 #### Seite 4: GOrganisation im Betrieb - Aufbauorganisation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=4]]`
+> - PDF: [Bgwp schredl.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=4]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > GOrganisation im Betrieb - Aufbauorganisation BGWP Name: Klasse: Datum: Funktionen eines Industriebetriebes Grundfunktionen und ihre Teilaufgaben z.B. Bedarf ermitteln Bezugsquellen ermitteln Angebote einholen und vergleichen Bestellungen durchführen Wareneingang kontrollieren z.B. Lagerbestand überwachen Lagerbestand optimieren Lagerbewegung buchen Lagerkennziffern berechnen z.B. z.B. Entwicklung Fertigungsverfahren Produktionsprogramm z.B. Marketing durchführen Anfragen bearbeiten Kalkulationen durchführen Angebote schreiben Aufträge abwickeln Rechnungen schreiben Querschnittsfunktionen und ihre Teilaufgaben z.B. Personalbestandsanalyse Personalbedarfsbestimmung Personalbeschaffung Persona …
@@ -373,11 +373,11 @@ Informatik
 #### Seite 12: 4. Matrix
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 12](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=12]]`
+> - PDF: [Bgwp schredl.pdf Seite 12](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=12]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 4. Matrix = eine mehrdimensionale Organisationsstruktur eines Unternehmens. Schnittstellen funktionaler Organisationsbereich und Geschäftsbereiche werden (bei dieser Organisationsform) durch eine Matrix abgebildet Vorteile: Nachteile  Entlastung der Unternehmensführung  Fokus auf eine gezielte Teamarbeit  direkte und kurze Kommunikationswege  flache Firmenhierarchien  großer Koordinationsaufwand  verstärkter Kommunikationsbedarf  fehlende Transparenz und Unsicherheiten Aufbarorganisation Einführer/Ablartaganisation Entscheidungstabelle+ Theorie/Fehler in taballe finden Balkendiagramm
@@ -409,11 +409,11 @@ Balkendiagramm
 #### Seite 13: Organisation im Betrieb - Ablauforganisation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 13](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=13>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=13]]`
+> - PDF: [Bgwp schredl.pdf Seite 13](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=13>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=13]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=13]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Organisation im Betrieb - Ablauforganisation BWP Name: Klasse: Datum: 1 Die Ablauforganisation bedient sich einer Fülle von Instrumenten. 1. Arbeitsablaufdiagramm 2. Entscheidungstabellentechnik 3. Balkendiagramm (Gantt-Diagramm) Arbeitsablaufdiagramm In ihm werden alle Arbeitsgänge in ihrer Reihenfolge aufgeführt. Durch die Verwendung genormter Symbole werden alle Stationen der gesamten Arbeitserledigung grafisch dargestellt. In zusätzlichen Spalten lassen sich Wegezeiten und Wegstrecken erfassen. Dadurch lassen sich Ursachen für Ablaufstörungen erkennen, mögliche Zeiteinsparungen aufspüren, Doppelbearbeitungen aufzeigen und Rationalisierungsmöglichkeiten analysieren. Sehen wir uns dies anh …
@@ -523,11 +523,11 @@ Rechnung prüfen
 #### Seite 14: Organisation im Betrieb - Ablauforganisation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 14](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=14>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=14]]`
+> - PDF: [Bgwp schredl.pdf Seite 14](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=14>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=14]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=14]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Organisation im Betrieb - Ablauforganisation BWP Name: Klasse: Datum: 2 Entscheidungstabellentechnik Entscheidungstabellen stellen einen Zusammenhang in formalisierter Art und Weise übersichtlich und in einer logischen Reihenfolge dar. Entscheidungstabellen sind in der DIN 66241 genormt. Entscheidungstabellen haben grundsätzlich folgenden Aufbau: Bedingungen „wenn“ Regeln 1, 2, 3, ... Aktion „dann“ Anzeiger 1, 2, 3, 1. Bedingungen: Im Bedingungsteil werden alle Bedingungen ausgewiesen, von denen die Entscheidungsalternativen abhängig sein können. Bedingungskombinationen sind nicht zulässig. Für jede Bedingung ist eine eigene Zeile zu benutzen. 2. Die Bedingungen werden miteinander verknüpft …
@@ -601,11 +601,11 @@ Eintragung der zutreffenden Anzeiger.
 #### Seite 15: Organisation im Betrieb – Ablauforganisation/
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 15](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=15]]`
+> - PDF: [Bgwp schredl.pdf Seite 15](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=15]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Organisation im Betrieb – Ablauforganisation/ Entscheidungstabelle BWP Name: Klasse: Datum: 1 Übungsaufgaben zur Entscheidungstabelle: 1. Erstellen Sie eine Entscheidungstabelle für die nachfolgend beschriebenen Fahrpreise einer Eisenbahngesellschaft für eine Tagesrundfahrt! Der Preis für Erwachsene beträgt in der 1. Klasse 16 Euro. Wählen Erwachsene die 2. Klasse, so ist der Preis um 25 % reduziert. Jugendliche zahlen 25 % und Kinder 50 % weniger als Erwachsene. Wird die Rundfahrt in einer Gruppe gebucht, so reduzieren sich die jeweiligen Preise um weitere 25 %. Geben Sie alle Preise in Euro vor! 1. Prüfen Sie folgende Entscheidungstabelle. Ermitteln Sie die Fehler! B1 J N J N J N J N B2 J …
@@ -696,11 +696,11 @@ D
 #### Seite 16: Organisation im Betrieb – Ablauforganisation/
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 16](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=16>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=16]]`
+> - PDF: [Bgwp schredl.pdf Seite 16](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=16>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=16]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=16]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Organisation im Betrieb – Ablauforganisation/ Entscheidungstabelle BWP Name: Klasse: Datum: 2
@@ -721,11 +721,11 @@ Datum:
 #### Seite 22: Ablauforganisation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 22](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=22>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=22]]`
+> - PDF: [Bgwp schredl.pdf Seite 22](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=22>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=22]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=22]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Ablauforganisation Die Ablauforganisation bedient sich einer Fülle von Instrumenten. 1. Arbeitsablaufdiagramm 2. Entscheidungstabellentechnik 3. Balkendiagramm (Gantt-Diagramm) 4. Netzplan 5. Datenflussplan ….. Staatliche BS1 Ingolstadt 29.11.2023
@@ -748,11 +748,11 @@ Staatliche BS1 Ingolstadt
 #### Seite 24: Entscheidungstabellentechnik
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 24](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=24>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=24]]`
+> - PDF: [Bgwp schredl.pdf Seite 24](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=24>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=24]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=24]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Entscheidungstabellentechnik Entscheidungstabellen stellen einen Zusammenhang in formalisierter Art und Weise übersichtlich und in einer logischen Reihenfolge dar. Entscheidungstabellen sind in der DIN 66241 genormt. Entscheidungstabellen haben grundsätzlich folgenden Aufbau: Staatliche BS1 Ingolstadt 29.11.2023 Bedingungen „wenn“ Regeln 1, 2, 3, ... Aktion „dann“ Anzeiger 1, 2, 3,
@@ -780,11 +780,11 @@ Anzeiger
 #### Seite 25: Entscheidungstabelle - Regeln
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 25](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=25>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=25]]`
+> - PDF: [Bgwp schredl.pdf Seite 25](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=25>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=25]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=25]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Entscheidungstabelle - Regeln 1. Bedingungen: Im Bedingungsteil werden alle Bedingungen ausgewiesen, von denen die Entscheidungsalternativen abhängig sein können. Bedingungskombinationen sind nicht zulässig. Für jede Bedingung ist eine eigene Zeile zu benutzen. 2. Die Bedingungen werden miteinander verknüpft und überprüft, ob sie zutreffen („J“) oder nicht zutreffen („N“). 3. Im Anzeigerteil wird für jede zutreffende Aktion ein X gesetzt. 4. Im Aktionsteil werden alle Aktionen, Maßnahmen, Tätigkeiten aufgeführt, die sich aus der Entscheidung ergeben. Staatliche BS1 Ingolstadt 29.11.2023
@@ -815,11 +815,11 @@ Staatliche BS1 Ingolstadt
 #### Seite 26: Beispiel
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 26](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=26>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=26]]`
+> - PDF: [Bgwp schredl.pdf Seite 26](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=26>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=26]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=26]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Beispiel • Beispiel: Einfache Entscheidungstabelle Staatliche BS1 Ingolstadt 29.11.2023 R1 R2 R3 R4 Hunger J J N N Durst J N J N Gasthof besuchen X X X X
@@ -856,11 +856,11 @@ X
 #### Seite 27: Vorgehensweise
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 27](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=27>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=27]]`
+> - PDF: [Bgwp schredl.pdf Seite 27](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=27>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=27]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=27]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Vorgehensweise Bei der Erarbeitung von Entscheidungstabellen wird in mehreren Schritten vorgegangen. 1. Ermittlung aller Bedingungen, von denen die Entscheidungen abhängig sind. 2. Feststellung aller Aktionen. 3. Verknüpfung der Bedingungen mit den Aktionen durch Bildung der Regeln und Eintragung der zutreffenden Anzeiger. 4. Prüfung der entstandenen Entscheidungstabelle auf ➢Vollständigkeit ➢Widerspruchsfreiheit ➢Redundanzlosigkeit Staatliche BS1 Ingolstadt 29.11.2023
@@ -887,11 +887,11 @@ Staatliche BS1 Ingolstadt
 #### Seite 3: e Matrixorganisation: Mehrdimensionale Struktur, bei der funktionale
 
 > [!referenz] Exakte Referenz
-> - PDF: [ZusammenfassungBGWP.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=3]]`
+> - PDF: [ZusammenfassungBGWP.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=3]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > e Matrixorganisation: Mehrdimensionale Struktur, bei der funktionale Bereiche und Geschäftsbereiche eine Matrix bilden. Vorteile: Entlastung der Unternehmensführung, gezielte Teamarbeit, kurze Kommunikationswege, flache Hierarchien. e Nachteile:Großer Koordinationsaufwand, hoher Kommunikationsbedarf, fehlende Transparenz/Unsicherheit. leitung I I 1 | Beschaffung | | Produktion | | Verkauf [Produkten | IN f \ | A r B w (ma ( ~ | 4. Ablauforganisation e Ziele: Rationelle Gestaltung, Minimierung der Durchlaufzeiten, optimale Auslastung von Mensch und Maschine. e - Kurz: Wie wird die Arbeit erledigt? e _ Entscheidungstabelle: Stellen Zusammenhang in formalisierter Art und Weise dar. Aufbau: Bedi …
@@ -942,11 +942,11 @@ Tätigkieten aufgeführt. Beispiel:
 #### Seite 5: Nr. Stufen des Arbeitsplans Symbole
 
 > [!referenz] Exakte Referenz
-> - PDF: [ZusammenfassungBGWP.pdf Seite 5](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=5]]`
+> - PDF: [ZusammenfassungBGWP.pdf Seite 5](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=5]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Nr. Stufen des Arbeitsplans Symbole ul anes 1 Rechnung stempeln Qeaav • —_— 2 Rechnung vorlegen o»o0 a v o Kontrolle 3 Überblick verschaffen oo» oa YF A oo 4 Rechnungweiterleten © & O A YW vo Wenn : 5S Rechnungbleibtliegen O + OA VW 6 _ Rechnung prüfen oso ay Grünig: 1. Orientierung im Unternehmen (Funktionsbereiche & Aufgaben) • Materialwirtschaft: Umfasst Beschaffung, interne Bereitstellung, Lagerung und Distribution. Methoden sind Bestandsüberwachung, Angebotsvergleiche und Preisverhandlungen bei Lieferanten. • Produktion: Zustandig für Produktionsplanung, Warenherstellung, Wartung der Maschinen, Qualitatskontrolle und Verpackung. e ~ Absatz: Beinhaltet Marktforschung, Sortimentsplanung, …
@@ -1005,11 +1005,11 @@ Produkt ein (z. B. Strom, Ol).
 #### Seite 7: 1. Betriebsorganisation - Grundlagen
 
 > [!referenz] Exakte Referenz
-> - PDF: [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7]]`
+> - PDF: [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 1. Betriebsorganisation - Grundlagen « Definition: Aufstellung von Verhaltens- und Arbeitsregeln für Menschen sowie Funktionsregeln für Maschinen (= geschaffene Ordnung). « _Organisationsgrade:lmprovisation: Intuitive Entscheidung bei unvorhersehbaren/nicht planbaren Situationen. Ziel: Wirtschaftlichkeit. ¢ © Disposition: Fallweise (spontane) Regelungen, wenn noch keine endgültigen Regeln existieren. Ziel: Flexibilität. ¢ Organisation: Generelle, dauerhafte Regelungen für optimale Ordnung. Ziel: ‚Stabilität. « © Organisationsgrundsätze: Muss wirtschaftlich (Minimal-/Maximalprinzip), zweckmäßig, flexibel & stabil zugleich sowie klar sein. * Arten der Organisation: Aufbauorganisation: Festgele …
@@ -1303,7 +1303,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist **Unternehmensrecht** laut Quelle?
 - Antwort:: Die Handlungsvollmacht Jede andere handelsrechtliche Stellvertretung wird als Handlungsvollmacht bezeichnet.
 - Beleg:: Die Handlungsvollmacht Jede andere handelsrechtliche Stellvertretung wird als Handlungsvollmacht bezeichnet.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47|BGWP S. 47]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47|BGWP S. 47]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1311,7 +1311,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Unternehmensrecht** laut Quelle?
 - Antwort:: Eine Eintragung in das Handelsregister ist nicht notwendig, die Bekanntmachung kann z.
 - Beleg:: Eine Eintragung in das Handelsregister ist nicht notwendig, die Bekanntmachung kann z.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47|BGWP S. 47]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47|BGWP S. 47]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1319,7 +1319,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Organisation im Betrieb - Grundlagen** laut Quelle?
 - Antwort:: Richtig oder falsch? a) Die Aufbauorganisation ist eine Hierarchie, aus der Weisungsbefugnisse abgeleitet werden können. b) Die Aufbauorganisation ist auch kurzfristig als sehr dynamisch anzusehen.
 - Beleg:: Richtig oder falsch? a) Die Aufbauorganisation ist eine Hierarchie, aus der Weisungsbefugnisse abgeleitet werden können. b) Die Aufbauorganisation ist auch kurzfristig als sehr dynamisch anzusehen.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2|Bgwp schredl S. 2]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2|Bgwp schredl S. 2]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1327,7 +1327,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Organisation im Betrieb - Grundlagen** laut Quelle?
 - Antwort:: Stelle fest, ob es sich bei folgenden Regelungen um Aufbau- oder Ablauforganisation handelt! a) Herr Schmidt ist Leiter der Abteilung Einkauf.
 - Beleg:: Stelle fest, ob es sich bei folgenden Regelungen um Aufbau- oder Ablauforganisation handelt! a) Herr Schmidt ist Leiter der Abteilung Einkauf.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2|Bgwp schredl S. 2]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2|Bgwp schredl S. 2]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1335,7 +1335,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Organisation im Betrieb - Ablauforganisation** laut Quelle?
 - Antwort:: Ermittlung aller Bedingungen, von denen die Entscheidungen abhängig sind.
 - Beleg:: Ermittlung aller Bedingungen, von denen die Entscheidungen abhängig sind.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=14|Bgwp schredl S. 14]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=14|Bgwp schredl S. 14]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1343,7 +1343,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Nr. Stufen des Arbeitsplans Symbole** laut Quelle?
 - Antwort:: Methoden sind Bestandsüberwachung, Angebotsvergleiche und Preisverhandlungen bei Lieferanten.
 - Beleg:: Methoden sind Bestandsüberwachung, Angebotsvergleiche und Preisverhandlungen bei Lieferanten.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=5|ZusammenfassungBGWP S. 5]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=5|ZusammenfassungBGWP S. 5]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1351,7 +1351,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Betriebsorganisation - Grundlagen** laut Quelle?
 - Antwort:: Unternehmensziele « (Ökonomische Ziele: Oberziel ist die Gewinnmaximierung. {Monetär: In Geld messbar (z.
 - Beleg:: Unternehmensziele « (Ökonomische Ziele: Oberziel ist die Gewinnmaximierung. {Monetär: In Geld messbar (z.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1359,7 +1359,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist **Betriebsorganisation - Grundlagen** laut Quelle?
 - Antwort:: « Definition: Aufstellung von Verhaltens- und Arbeitsregeln für Menschen sowie Funktionsregeln für Maschinen (= geschaffene Ordnung).
 - Beleg:: « Definition: Aufstellung von Verhaltens- und Arbeitsregeln für Menschen sowie Funktionsregeln für Maschinen (= geschaffene Ordnung).
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

@@ -26,7 +26,7 @@ Das Binärsystem hat die Basis 2 und verwendet nur die Ziffern 0 und 1. Stellenw
 
 | Quelle | PDF-Seiten | Evidenz |
 |---|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma Netzwerkt]] | [2](<../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2>)–[3](<../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=3>) | direkter Einstieg und Umrechnung von Binärzahlen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma Netzwerkt]] | [2](<../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2>)–[3](<../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=3>) | direkter Einstieg und Umrechnung von Binärzahlen |
 
 ## Passendes Lernmodul
 

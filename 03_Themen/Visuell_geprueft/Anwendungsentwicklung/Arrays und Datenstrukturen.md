@@ -2,15 +2,15 @@
 id: vault.thema.visuell.arrays.und.datenstrukturen
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Arrays und Datenstrukturen"
 kategorie: Anwendungsentwicklung
-quellen: 2
-seiten: 14
+quellen: 4
+seiten: 25
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,8 +25,10 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [30–36, 38–41, 44–45](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=30>) | aufgabe, loesung, theorie | 3 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [30–36, 38–41, 44–45](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=30>) | aufgabe, loesung, theorie | 3 Seite(n): OCR/Original prüfen |
 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics\|JAVA_Java_Basics]] | [4](<99_Originale/Basics/JAVA/Java Basics.pdf#page=4>) | theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block\|Stol_02_Unternehmenswiki_7_Block]] | [62–71](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=62>) | beispiel, theorie | Text für Zitate geeignet |
+| [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT\|Grundausbildung_IT]] | [9](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=9>) | theorie | 1 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

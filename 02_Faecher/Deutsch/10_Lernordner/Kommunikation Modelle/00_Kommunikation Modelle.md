@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Kommunikation Modelle** im Fach **Deutsch**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1|Deutsch S. 1]]; [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4|Deutsch S. 4]]; [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=9|Deutsch S. 9]]; [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=35|Deutsch S. 35]]; [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=36|Deutsch S. 36]]; [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37|Deutsch S. 37]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1|Deutsch S. 1]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4|Deutsch S. 4]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9|Deutsch S. 9]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=35|Deutsch S. 35]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36|Deutsch S. 36]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37|Deutsch S. 37]].
 > - **Zentrale Suchbegriffe:** Kommunikation, Modelle, Layout, Stil, Checkliste, Geschäftsbrief, Corporate, Identity, Lösungsvorschläge, Pflichtenheft.
 > - **Prüfungsbezug:** AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -62,21 +62,21 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1>) | Layout und Stil eines Geschäftsbriefs | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4>) | Checkliste: Geschäftsbrief | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=9>) | Corporate Identity | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=35>) | Lösungsvorschläge im Pflichtenheft formulieren | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=36>) | Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37>) | Für jede Art von Zusammentreffen zwischen Menschen gilt: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38>) | Das Sender-Empfänger-Modell der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 39](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39>) | Das Vier-Seiten-Modell der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=40>) | Die vier Ebenen der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=41>) | Aufgabe 4: Beantworte die Fragen zum 4-Ohren-Modell. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=42>) | Was will der Sender sagen? Was versteht der Empfänger? | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 43](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=43>) | Was will der Sender sagen? Was versteht der Empfänger? | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 44](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=44>) | Aufgabe 5: Prüfungsvorbereitung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 45](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=45>) | Das Eisberg-Modell der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=46>) | Aufgabe 6: Bearbeite die Aufgaben zum Eisberg-Modell. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1>) | Layout und Stil eines Geschäftsbriefs | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4>) | Checkliste: Geschäftsbrief | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9>) | Corporate Identity | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=35>) | Lösungsvorschläge im Pflichtenheft formulieren | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36>) | Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37>) | Für jede Art von Zusammentreffen zwischen Menschen gilt: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38>) | Das Sender-Empfänger-Modell der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 39](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39>) | Das Vier-Seiten-Modell der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=40>) | Die vier Ebenen der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41>) | Aufgabe 4: Beantworte die Fragen zum 4-Ohren-Modell. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=42>) | Was will der Sender sagen? Was versteht der Empfänger? | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 43](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=43>) | Was will der Sender sagen? Was versteht der Empfänger? | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 44](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=44>) | Aufgabe 5: Prüfungsvorbereitung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 45](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=45>) | Das Eisberg-Modell der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=46>) | Aufgabe 6: Bearbeite die Aufgaben zum Eisberg-Modell. | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -85,11 +85,11 @@ tags:
 #### Seite 1: Layout und Stil eines Geschäftsbriefs
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1]]`
+> - PDF: [Deutsch.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 03_Anfrage Klasse: Datum: 1 Layout und Stil eines Geschäftsbriefs Handlungsaufträge: 1. Informiere dich im Internet über die DIN 5008. (zum Beispiel unter https://www.din-5008-richtlinien.de/) 2. Benenne mit Hilfe der Informationen aus der DIN 5008 die Bestandteile des Geschäftsbriefs (siehe Rückseite). Nr. Bezeichnung 1 2 3a 3b 4 5 6 7 8 9 10 11 12 13 14 Firmenlogo des Absenders Absender Adresse Empfänger Empfängeradresse Infoblock Betreff Anrede Inhalt des Briefes Grußformel Firmenname Unterschrift PS (Postskriptum) Anlagevermerk Geschäftsangaben Seitennummerierung
@@ -167,11 +167,11 @@ Seitennummerierung
 #### Seite 4: Checkliste: Geschäftsbrief
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4]]`
+> - PDF: [Deutsch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 03_Anfrage Klasse: Datum: Checkliste: Geschäftsbrief Handlungsaufträge 1. Betrachte den Geschäftsbrief (auf der Rückseite). 2. Leite daraus Regeln ab, die du beim Schreiben von Geschäftsbriefen beachten musst. 3. Halte diese Regeln/Tipps in der Checkliste fest. ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢ klar und deutlich ausdrücken Sachlich bleiben Kontaktdaten für Rückfragen sicherstellen, dass alle Daten aktuell sind gut lesbare Schriftart falls bekannt, Name in der Anrede Passender Betreff Passende Grußformel
@@ -227,11 +227,11 @@ Grußformel
 #### Seite 9: Corporate Identity
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=9]]`
+> - PDF: [Deutsch.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=9]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 02_Unternehmensleitbild & Corporate Identity Klasse: Datum: Corporate Identity Bestandteile der Corporate Identity: • Mit dem Begriff Corporate __________________ (Unternehmenskultur) werden die Handlungsweisen in einem Unternehmen, aber auch seine Ausrichtung auf ethische Werte und Grundlagen beschrieben. • Corporate ______________________ ist das Verhalten bzw. der Auftritt des Unternehmens und dessen Mitarbeiter gegenüber Kunden und Partnern sowie der Öffentlichkeit. Sie ist die gelebte Umsetzung der Corporate Culture. • Corporate _________________ ist die visuelle Identität (einheitliches Erscheinungsbild). Es findet Anwendung in Formularen, Farbgebung, Arbeitskleidung, Branding, …
@@ -277,11 +277,11 @@ Communication
 #### Seite 35: Lösungsvorschläge im Pflichtenheft formulieren
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=35>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=35]]`
+> - PDF: [Deutsch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=35>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=35]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=35]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Lösungsvorschläge im Pflichtenheft formulieren Aus den im Kundengespräch gesammelten Informationen sollen die Modernisie- rungsmaßnahmen für das Netzwerk der IN Bike in einem Pflichtenheft schriftlich fest- gehalten werden. Ein Pflichtenheft enthält die vom Auftragnehmer erarbeitete Umsetzung des Lasten- heftes, also die auszuführenden Leistungen. Das Pflichtenheft enthält das Lastenheft. Im Pflichtenheft werden die Anwendervor- gaben detailliert und in einer Erweiterung beschrieben. Meist wird das Pflichtenheft in einen rechtlich-organisatorischen und einen technisch- fachlichen Teil gegliedert. Aufgabe: Erstellen Sie, basierend auf den von Ihnen …
@@ -348,11 +348,11 @@ Qualitätsanforderungen
 #### Seite 36: Kommunikation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=36>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=36]]`
+> - PDF: [Deutsch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=36]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 05_Kommunikation Klasse: Datum: Seite 1 von 11 Kommunikation Situation: Als Auszubildende/r führst du täglich Gespräche mit Kollegen, Vorgesetzten, Kunden und Dienstleistern. Welche beruflichen Gespräche hast du in der letzten Woche geführt? Anlass und Thema des Gesprächs Ziele des Gesprächs Teilnehmer/-innen • Warum fand das Gespräch statt? • Was war das Thema des Ge- sprächs? • Wozu diente das Ge- spräch? • Wer hat an dem Gespräch teil- genommen und den Ge- sprächsverlauf bestimmt? Aufgabe 1: Trage die Begriffe Gestik, Mimik, verbale Kommunikation und nonverbale Kommunikation in die untenstehende Tabelle ein. Sprache = gesprochen ODER geschrieben Gestik, Mimik, Tonfall, Körperhaltu …
@@ -419,11 +419,11 @@ Mimik
 #### Seite 37: Für jede Art von Zusammentreffen zwischen Menschen gilt:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37]]`
+> - PDF: [Deutsch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 05_Kommunikation Klasse: Datum: Seite 2 von 11 Für jede Art von Zusammentreffen zwischen Menschen gilt: „Man kann nicht nicht kommunizieren“ Paul Watzlawick Aufgabe 2: Erkläre das Zitat von Paul Watzlawick. _________________________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ Aufgabe 3: Lies die Informationen auf Seite 3 aufmerksam durch und beantworte die Fragen zum Sender-Empfänger-Modell. Anna sagt zu Ben: „Das Fenster ist offe …
@@ -486,11 +486,11 @@ Fehler bei der
 #### Seite 38: Das Sender-Empfänger-Modell der Kommunikation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38]]`
+> - PDF: [Deutsch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 05_Kommunikation Klasse: Datum: Seite 3 von 11 Das Sender-Empfänger-Modell der Kommunikation Die sieben Schritte der Kommunikation des Sender-Empfänger-Modells 1. Kommunikationspartner A hat eine Ab- sicht. 2. Er übersetzt sie in Worte. 3. Er sendet sie, er spricht sie aus. 4. Die Nachricht wird übermittelt. 5. Kommunikationspartner B empfängt die Nachricht, er hört sie. 6. Er übersetzt sie. 7. Er interpretiert die Bedeutung. Jeder dieser 7 Schritte enthält potenzielle Fehler- quellen, die zu einem Misslingen der Kommunika- tion führen können. Das von Stuart Hall 1970 entwickelte Sender-Empfänger-Modell definiert Kommunikation als Übertragung einer Nachricht von einem Sender A zu ein …
@@ -601,11 +601,11 @@ visuell
 #### Seite 39: Das Vier-Seiten-Modell der Kommunikation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 39](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39]]`
+> - PDF: [Deutsch.pdf Seite 39](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 05_Kommunikation Klasse: Datum: Seite 4 von 11 Das Vier-Seiten-Modell der Kommunikation Das Kommunikationsquadrat ist das bekannteste Modell von Friedemann Schulz von Thun und inzwi- schen auch über die Grenzen Deutschlands hinaus verbreitet. Bekannt geworden ist dieses Modell auch als „Vier-Ohren-Modell” oder „Nachrichtenquadrat”. Wenn ich als Mensch etwas von mir gebe, bin ich auf vierfache Weise wirksam. Jede meiner Äuße- rungen enthält, ob ich will oder nicht, vier Botschaften gleichzeitig: • eine Sachinformation (worüber ich informiere) – blau • eine Selbstkundgabe (was ich von mir zu erkennen gebe) – grün, • einen Beziehungshinweis (was ich von dir halte und wie ich zu dir steh …
@@ -644,11 +644,11 @@ die Regel.
 #### Seite 40: Die vier Ebenen der Kommunikation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=40>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=40]]`
+> - PDF: [Deutsch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=40>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=40]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=40]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 05_Kommunikation Klasse: Datum: Seite 5 von 11 Die vier Ebenen der Kommunikation Auf der Sachebene des Gesprächs steht die Sachinformation im Vordergrund, hier geht es um Da- ten, Fakten und Sachverhalte. Dabei gelten drei Kriterien: • wahr oder unwahr (zutreffend/nichtzutreffend) • relevant oder irrelevant (sind die aufgeführten Sachverhalte für das anstehende Thema von Belang/nicht von Belang?) • hinlänglich oder unzureichend (sind die angeführten Sachhinweise für das Thema ausrei- chend, oder muss vieles andere zusätzlich bedacht werden?) Die Herausforderung für den Sender besteht auf der Sachebene darin, die Sachverhalte klar und ver- ständlich auszudrücken. Der Empfänger kann au …
@@ -700,11 +700,11 @@ https://www.youtube.com/watch?v=USEM11RElsQ
 #### Seite 41: Aufgabe 4: Beantworte die Fragen zum 4-Ohren-Modell.
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=41>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=41]]`
+> - PDF: [Deutsch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=41]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 05_Kommunikation Klasse: Datum: Seite 6 von 11 Aufgabe 4: Beantworte die Fragen zum 4-Ohren-Modell. 1. Was sagt das 4-Ohren-Modell aus? _________________________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ 2. Wie heißen die 4 Ohren? 1. ____________________________________ 2. ____________________________________ 3. ____________________________________ 4. ____________________________________ 3. Wie kommt es zu Missverständnissen im …
@@ -770,11 +770,11 @@ Beziehungsebene
 #### Seite 42: Was will der Sender sagen? Was versteht der Empfänger?
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=42>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=42]]`
+> - PDF: [Deutsch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=42>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=42]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=42]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Seite 7 von 11 Was will der Sender sagen? Was versteht der Empfänger? (Die 4 Seiten einer Nachricht nach Friedemann Schulz von Thun) Das Kommunikationsquadrat, auch 4 Aussagen-Modell genannt, geht von der Annahme aus, dass auf der Senderseite in jeder Äußerung vier Botschaften enthalten sind. Die Sachseite, die Selbstkundgabe, die Beziehungsseite und die Appellseite bilden die vier Aspekte des Kommunikationsquadrats. 1. Sachinhalt (= worüber will Frau Martens die Auszubildende informie- ren?) 2. Appell (= was will Frau Martens von der Auszubildenden?) 1. Sach-Ohr (= was ist der Sachverhalt?) 2. Appell-Ohr (= was soll ich tun?) Es sagt Frau Martens zu Azubi: „Es ist kein Papier mehr im Drucke …
@@ -852,11 +852,11 @@ Es gilt, diese Persönlichkeitsunterschiede von vornherein in der Gesprächsfüh
 #### Seite 43: Was will der Sender sagen? Was versteht der Empfänger?
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 43](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=43>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=43]]`
+> - PDF: [Deutsch.pdf Seite 43](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=43>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=43]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=43]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Seite 8 von 11 Was will der Sender sagen? Was versteht der Empfänger? (Die 4 Seiten einer Nachricht nach Friedemann Schulz von Thun) Geben Sie die 4 Seiten der Nachricht aus Sicht des Senders, d. h. aus Sicht von Frau Martens an! Geben Sie die 4 Seiten der Nachricht aus Sicht des Empfängers, d. h. aus Sicht der Auszubildenden an! 1. Sachinhalt 2. Appell 1. Sach-Ohr 2. Appell-Ohr Es sagt Frau Martens zu Azubi: „Es ist kein Papier mehr im Drucker!“ 3. Selbstoffenbarung 4. Beziehungsebene 3. Selbstoffenbarungs-Ohr 4. Beziehungs-Ohr . Drucker leer Papiernachfüllen Drucker ist leer Ich soll nachfüllen Ich will Drucken , Ich bin dein generute fr. Martens Ich bin ihr geht aber Vorgesetzte untergebe …
@@ -923,11 +923,11 @@ nicht
 #### Seite 44: Aufgabe 5: Prüfungsvorbereitung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 44](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=44>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=44]]`
+> - PDF: [Deutsch.pdf Seite 44](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=44>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=44]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=44]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Seite 9 von 11 Deutsch 05_Kommunikation Klasse: Datum: Aufgabe 5: Prüfungsvorbereitung Die erhöhung passt dem Kunden nicht in relation zur Leistung De Kunde ist unzufrieden fühlt sich ungereche behandelt Sankt die Preise
@@ -956,11 +956,11 @@ die Preise
 #### Seite 45: Das Eisberg-Modell der Kommunikation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 45](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=45>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=45]]`
+> - PDF: [Deutsch.pdf Seite 45](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=45>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=45]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=45]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Seite 10 von 11 Deutsch 05_Kommunikation Klasse: Datum: Das Eisberg-Modell der Kommunikation Das Eisbergmodell der Kommunikation ist ein Modell aus der Kommunikationspsychologie. Es er- klärt, dass in einer Nachricht nur ein kleiner Teil sichtbar bzw. bewusst ist, während der größere Teil unsichtbar unter der Oberfläche liegt – ähnlich wie bei einem Eisberg im Meer. Aufbau des Eisbergmodells 1. Sichtbare Ebene (ca. 20 %) – Sachebene Das ist der Teil über der Wasseroberfläche. • Fakten • Daten • Inhalte • das, was gesagt wird Beispiel: „Du bist zu spät.“ Hier geht es nur um die Information, dass jemand zu spät ist. 2. Unsichtbare Ebene (ca. 80 %) – Beziehungsebene Das ist der größere Teil unt …
@@ -1047,11 +1047,11 @@ ben und wird in Pädagogik, Psychologie und Wirtschaft häufig verwendet.
 #### Seite 46: Aufgabe 6: Bearbeite die Aufgaben zum Eisberg-Modell.
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=46>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=46]]`
+> - PDF: [Deutsch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=46>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=46]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=46]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Seite 11 von 11 Deutsch 05_Kommunikation Klasse: Datum: Aufgabe 6: Bearbeite die Aufgaben zum Eisberg-Modell. 1. Ordne die Begriffe der Sachebene oder der Beziehungsebene zu. Begriff Ebene Fakten Gefühle Tonfall Daten Sympathie Informationen Körpersprache 2. Der Chef sagt zum Auszubildenen: „Der Bericht ist noch nicht fertig“. Beschreibe die Sach- und Beziehungsebene dieser Aussage. _______________________________________________________________________________ _______________________________________________________________________________ _______________________________________________________________________________ __________________________________________________________________________ …
@@ -1112,7 +1112,7 @@ zu langsam
 - Frage:: Was ist der Kernpunkt zu **Das Sender-Empfänger-Modell der Kommunikation** laut Quelle?
 - Antwort:: A und B sind nämlich in gleichem Maße daran beteiligt, dass die Kommunikation gelingt.
 - Beleg:: A und B sind nämlich in gleichem Maße daran beteiligt, dass die Kommunikation gelingt.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38|Deutsch S. 38]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38|Deutsch S. 38]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1120,7 +1120,7 @@ zu langsam
 - Frage:: Was ist der Kernpunkt zu **Das Sender-Empfänger-Modell der Kommunikation** laut Quelle?
 - Antwort:: Entscheidender als die Absicht, die der Sender A vermitteln will, ist die Wirkung, die seine Worte beim Empfänger B erzielen.
 - Beleg:: Entscheidender als die Absicht, die der Sender A vermitteln will, ist die Wirkung, die seine Worte beim Empfänger B erzielen.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38|Deutsch S. 38]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38|Deutsch S. 38]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1128,7 +1128,7 @@ zu langsam
 - Frage:: Was ist der Kernpunkt zu **Das Vier-Seiten-Modell der Kommunikation** laut Quelle?
 - Antwort:: Bekannt geworden ist dieses Modell auch als „Vier-Ohren-Modell” oder „Nachrichtenquadrat”.
 - Beleg:: Bekannt geworden ist dieses Modell auch als „Vier-Ohren-Modell” oder „Nachrichtenquadrat”.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39|Deutsch S. 39]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39|Deutsch S. 39]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1136,7 +1136,7 @@ zu langsam
 - Frage:: Was ist der Kernpunkt zu **Das Vier-Seiten-Modell der Kommunikation** laut Quelle?
 - Antwort:: Sowohl Sender als auch Empfänger sind für die Qualität der Kommunikation verantwortlich, wobei die unmissverständliche Kommunikation der Idealfall ist und nicht die Regel.
 - Beleg:: Sowohl Sender als auch Empfänger sind für die Qualität der Kommunikation verantwortlich, wobei die unmissverständliche Kommunikation der Idealfall ist und nicht die Regel.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39|Deutsch S. 39]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39|Deutsch S. 39]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1144,7 +1144,7 @@ zu langsam
 - Frage:: Was ist der Kernpunkt zu **Die vier Ebenen der Kommunikation** laut Quelle?
 - Antwort:: Seite 5 von 11 Die vier Ebenen der Kommunikation Auf der Sachebene des Gesprächs steht die Sachinformation im Vordergrund, hier geht es um Daten, Fakten und Sachverhalte.
 - Beleg:: Seite 5 von 11 Die vier Ebenen der Kommunikation Auf der Sachebene des Gesprächs steht die Sachinformation im Vordergrund, hier geht es um Daten, Fakten und Sachverhalte.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=40|Deutsch S. 40]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=40|Deutsch S. 40]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1152,7 +1152,7 @@ zu langsam
 - Frage:: Was ist der Kernpunkt zu **Was will der Sender sagen? Was versteht der Empfänger?** laut Quelle?
 - Antwort:: Auf der Appellseite wird deutlich, was der Sender beim Empfänger erreichen möchte, oder sie enthält die Aufforderung, etwas Bestimmtes zu tun oder zu lassen.
 - Beleg:: Auf der Appellseite wird deutlich, was der Sender beim Empfänger erreichen möchte, oder sie enthält die Aufforderung, etwas Bestimmtes zu tun oder zu lassen.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=42|Deutsch S. 42]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=42|Deutsch S. 42]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1160,7 +1160,7 @@ zu langsam
 - Frage:: Was ist der Kernpunkt zu **Das Eisberg-Modell der Kommunikation** laut Quelle?
 - Antwort:: Das Eisberg-Modell der Kommunikation Das Eisbergmodell der Kommunikation ist ein Modell aus der Kommunikationspsychologie.
 - Beleg:: Das Eisberg-Modell der Kommunikation Das Eisbergmodell der Kommunikation ist ein Modell aus der Kommunikationspsychologie.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=45|Deutsch S. 45]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=45|Deutsch S. 45]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1168,7 +1168,7 @@ zu langsam
 - Frage:: Was ist der Kernpunkt zu **Das Eisberg-Modell der Kommunikation** laut Quelle?
 - Antwort:: Zweck des Modells Das Modell hilft zu verstehen: • warum Missverständnisse entstehen • warum Menschen emotional reagieren • warum nonverbale Kommunikation wichtig ist
 - Beleg:: Zweck des Modells Das Modell hilft zu verstehen: • warum Missverständnisse entstehen • warum Menschen emotional reagieren • warum nonverbale Kommunikation wichtig ist
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=45|Deutsch S. 45]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=45|Deutsch S. 45]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

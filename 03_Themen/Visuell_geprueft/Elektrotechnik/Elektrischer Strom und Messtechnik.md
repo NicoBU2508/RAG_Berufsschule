@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [19–21, 26–27](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=19>) | aufgabe, loesung, theorie | 5 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [19–21, 26–27](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=19>) | aufgabe, loesung, theorie | 5 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

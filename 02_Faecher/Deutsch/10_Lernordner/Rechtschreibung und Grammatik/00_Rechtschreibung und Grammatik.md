@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Rechtschreibung und Grammatik** im Fach **Deutsch**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=1|Regelsammlung S. 1]]; [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=2|Regelsammlung S. 2]]; [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3|Regelsammlung S. 3]]; [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]; [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]; [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6|Regelsammlung S. 6]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1|Regelsammlung S. 1]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=2|Regelsammlung S. 2]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3|Regelsammlung S. 3]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6|Regelsammlung S. 6]].
 > - **Zentrale Suchbegriffe:** Rechtschreibung, Grammatik, Groß-, Kleinschreibung, Station, Aufgabe, Setze, fehlenden, dass, Kommasetzung.
 > - **Prüfungsbezug:** AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -61,18 +61,18 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=1>) | Groß- und Kleinschreibung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=2>) | Station 1 - Groß- und Kleinschreibung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 3](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3>) | Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4>) | das oder dass? | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 5](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5>) | Station 2 – das oder dass | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6>) | Kommasetzung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7>) | Station 3 – Kommasetzung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8>) | Station 4 – Fremdwörter | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9>) | Aufgabe 1: Auto, homo, poly - Fremdwörter mit griechischer Wurzel | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10>) | Aufgabe 2: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/Deutsch/Quellen/Station_1\|Station_1]] | [Station 1.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=1>) | Station 1 - Groß- und Kleinschreibung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/Deutsch/Quellen/Station_1\|Station_1]] | [Station 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=2>) | Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1>) | Groß- und Kleinschreibung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=2>) | Station 1 - Groß- und Kleinschreibung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 3](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3>) | Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4>) | das oder dass? | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 5](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5>) | Station 2 – das oder dass | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6>) | Kommasetzung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7>) | Station 3 – Kommasetzung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8>) | Station 4 – Fremdwörter | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9>) | Aufgabe 1: Auto, homo, poly - Fremdwörter mit griechischer Wurzel | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10>) | Aufgabe 2: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/Deutsch/Quellen/Station_1\|Station_1]] | [Station 1.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=1>) | Station 1 - Groß- und Kleinschreibung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/Deutsch/Quellen/Station_1\|Station_1]] | [Station 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=2>) | Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung. | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -81,11 +81,11 @@ tags:
 #### Seite 1: Groß- und Kleinschreibung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=1]]`
+> - PDF: [Regelsammlung.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=1]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Groß- und Kleinschreibung Großgeschrieben werden: a) Substantive (= Nomen) Regel Beispiel Substantive und Namen schreibt man groß Monitor, Computer, Thomas, Berlin, …. in Zusammensetzungen und Aneinanderreihun- gen mit Bindestrichen schreibt man Substantive und Wortanfänge groß Pro-Kopf-Verbrauch das Schaurig-Schöne ACHTUNG: Wochentage und Tageszeiten i. Substantive sind Montag, Mittag, Abend, … ii. Adverbien sind montags, abends, heute, mittags Adjektive wie leid, schuld, recht,… In Verbindung mit „haben“ handelt es sich um Substantive („Du hast Recht.“). In Verbindung mit „sein“ handelt es sich um prädikative Adjektive und werden klein ge- schriebe …
@@ -153,11 +153,11 @@ e) bestimmte Titel und Namen
 #### Seite 2: Station 1 - Groß- und Kleinschreibung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=2]]`
+> - PDF: [Regelsammlung.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Station 1 - Groß- und Kleinschreibung Anleitung: Finde den kürzesten Weg vom Start bis in die unterste Reihe. Beginne bei Start und rücke jeweils nur ein Feld – waagrecht, senkrecht oder diagonal – weiter. Zeichne Pfeile! Beachte: Es darf kein Kästchen betreten werden, das eine falsche Aussage enthält. Welches Kästchen der untersten Reihe erreichst Du als erstes? Als Hilfe steht dir das Arbeitsblatt mit den Regeln zur Verfügung. Maria hat die Na- chricht am Schwarzen Brett gelesen. Ich muss ihr im Allgemeinen zustimmen. Können Sie das bitte auf Deutsch sagen? Die Recht- schreibung ist im Großen und Gan- zen einfacher ge- worden Leider ist die neue Fi …
@@ -265,11 +265,11 @@ Finde die Fehler in den Kästchen mit falscher Groß- und Kleinschreibung und ve
 #### Seite 3: Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung.
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 3](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3]]`
+> - PDF: [Regelsammlung.pdf Seite 3](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: ÜBUNG: Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung. „Ich wünsche ___hnen einen schönen Tag, Frau Berta!“ „Ganz meinerseits, Herr Emil. Haben ___ie heute ___orgen schon gebadet?“ „Gewiss, ohne ___aden ist ___chwitzen bei diesen Temperaturen schlimm.“ „Ich habe hier ja ein ___utzend* Tümpel gezählt. Das ist schon ___lasse und genau das ___ichtige für unsereins: eine Freude für ___ung und ___lt gewissermaßen.“ „Ja, Frau Berta, wir ___wei wissen schon, was gut ist. Allerdings: ___ch vermisse Schlammlöcher. Die Trocken- heit diesen Herbst hat für uns wenig ___rfreuliches.“ „Bei Nässe im Frühjahr, da sind Schla …
@@ -342,11 +342,11 @@ in dem
 #### Seite 4: das oder dass?
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4]]`
+> - PDF: [Regelsammlung.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: das oder dass? das a) als bestimmter Artikel das Handy, das Kind ➔ immer in Begleitung eines Substantivs b) als Demonstrativpronomen Das Handy klingelt. Das habe ich nicht bemerkt. Ihr seid immer am Schwätzen. Das nervt mich. ➔ weist auf etwas hin. ➔ kann durch dies/dieses ersetzt werden c) als Relativpronomen Das Handy, das im Unterricht geklingelt hat, gehört jetzt dem Lehrer. ➔ bezieht sich auf etwas, das im selben Satz genannt wurde ➔ kann durch welches ersetzt werden dass als Konjunktion Dass ich vergessen habe mir den Wecker zu stellen, ärgert mich. Es ärgert mich, dass es heute regnet. ➔ dass leitet einen Nebensatz ein, der durch ein Komma vom …
@@ -393,11 +393,11 @@ Es ärgert mich, dass es heute regnet.
 #### Seite 5: Station 2 – das oder dass
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 5](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5]]`
+> - PDF: [Regelsammlung.pdf Seite 5](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Station 2 – das oder dass Trinkst du gern Cappuccino, Latte Macchiato & Co? Dann weißt vielleicht auch, dass bei der Zubereitung dieser Kaffeegetränke nichts dem Zufall überlassen wird. Es gibt sogar einen speziellen Beruf, der sich der fachgerechten Kaffeezubereitung widmet: der Barista. Aufgabe: Trage „das“ oder „dass“ in die Lücken ein. Tipp: Du kannst das Regelblatt zu Hilfe nehmen. Dort erhältst du wichtige Tipps zur korrekten Ver- wendung von „das“ oder „dass“. Baristas – was Kaffeeexperten wissen müssen ______ Kaffeekochen ist nur ein Fachgebiet von Baristas. Ein guter Barista benötigt auch viel Wissen rund um ______ Thema „Kaffee“. Dazu gehör …
@@ -466,11 +466,11 @@ dass
 #### Seite 6: Kommasetzung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6]]`
+> - PDF: [Regelsammlung.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Kommasetzung a) Aufzählungen Bei Aufzählungen mit gleicher syntaktischer Funktion wird ein Komma gesetzt. „Ich esse gerne Obst, Gemüse und jede Menge Fleisch.“ „Er kam, sah und siegte.“ b) Konjunktionen und Adverbien • Bei bestimmten Konjunktionen und Adverbien steht immer ein Komma. „einerseits..., andererseits“, „zum einen..., zum anderen“, „je..., desto“, „nicht nur..., sondern (auch)“, „teils..., teils“, „zwar..., jedoch“. • Bei einer Aufzählung gleichrangiger Wörter und Wortgruppen müssen folgende Konjunktionen im- mer ohne Komma verwendet werden: „und“, „oder“, „sowie“, „nicht... noch“, „sowohl... als auch“, „entweder... oder“, „weder... noch“. …
@@ -526,11 +526,11 @@ Das Komma trennt einen Vergleichssatz vom übergeordneten Satz.
 #### Seite 7: Station 3 – Kommasetzung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7]]`
+> - PDF: [Regelsammlung.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Station 3 – Kommasetzung Aufgaben: 1. Setze im folgenden Text die notwendigen Kommas. 2. Trage in der rechten Spalte die jeweilige Erklärung ein (siehe Regelsammlung) Ein Tag auf dem Fußballplatz in der Kreisklasse An einem schönen lauen Sommertag treffen sich auf dem Sportplatz 22 Mann und wenige Zuschauer zu einem Fußballspiel. Viele waren zu Hause geblieben weil sie mit schlechtem Wetter gerechnet hatten und nicht nass werden wollten. In der Kabine hielt bereits Toni Socke der Heimtrainer in seinem grünen hässlichen viel zu großen Trainingsan- zug seine Ansprache: „Schnappt euch den Ball spielt den Gegner aus lauft vor und haut den Ball in die Mas …
@@ -611,11 +611,11 @@ I
 #### Seite 8: Station 4 – Fremdwörter
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8]]`
+> - PDF: [Regelsammlung.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Station 4 – Fremdwörter Situation Frau Müller, Mitarbeiterin der IN Bike GmbH, trifft Herrn Schuster nach dessen Abteilungsleiter-Fortbil- dung in der Kantine: Was ist ein Fremdwort? Fremdwörter sind Wörter, die aus anderen Sprachen übernommen wurden und die in der Regel durch ihre abweichende Aussprache, Wortbildung, Lautung und Schreibweise auffallen, wie zum Beispiel „En- gagement“, „Portemonnaie“. Welche fremden Einflüsse wirken auf die deutsche Sprache? Geht man von einem Bestand von etwa 500 000 Wörtern im Deutschen aus, sind gut ein Fünftel Fremd- wörter. Untersuchungen von Zeitungsartikeln ergaben laut Duden einen Fremdwortanteil von 8 bis 9 …
@@ -671,11 +671,11 @@ nen und so…
 #### Seite 9: Aufgabe 1: Auto, homo, poly - Fremdwörter mit griechischer Wurzel
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9]]`
+> - PDF: [Regelsammlung.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Aufgabe 1: Auto, homo, poly - Fremdwörter mit griechischer Wurzel Viele Fremdwörter, die wir benutzen, haben ihren Ursprung in der griechischen Sprache. Diese Tabelle gibt dir einen Überblick über Vorsilben, die häufig in Fremdwörtern vorkommen. Vorsilbe Bedeutung Beispiele a-/an- Verneinung der Analphabet anti-/ant- gegen, wider die Antipathie auto- selbst automatisch homo- gleich homogen poly- viel polyglott tele- fern das Telefon Arbeitsaufträge: 1. Erkläre die Beispiele aus der Tabelle mit eigenen Worten. Dabei kannst du ein (Online)-Wörterbuch zu Hilfe nehmen. Die Bedeutungen der Vorsilben helfen dir dabei. 2. Trage je zwei weitere Beispiele in …
@@ -732,11 +732,11 @@ Telepathie
 #### Seite 10: Aufgabe 2:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10]]`
+> - PDF: [Regelsammlung.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Aufgabe 2: Viele griechische Fremdwörter benutzen wir selbstverständlich in unserem Alltag. Andere hingegen kom- men nur in Fachsprachen wie zum Beispiel in der Medizin oder der Mathematik vor. Im folgenden Silben- rätsel findest du eine Mischung aus alltäglichen und fachspezifischen Ausdrücken. AM – AN – ÄT – AU – BI – CHRO – DI – DIA – DIA – DIA – DO – EN – FIE – GRA – GRAMM – LEKT – LOG – LY – NI – NO – NYM – ON – OR – PA – PHI – PROG – PSEU – SA – SE – SE – SYMP – SYN – THIE – THO – TI – TI – TO – TOM 1. Unterschrift eines Prominenten: ……………………………………………………. 2. Abneigung gegen einen anderen Menschen: …………………………………….. 3. Tiere, die sowohl auf dem L …
@@ -810,11 +810,11 @@ a
 #### Seite 1: Station 1 - Groß- und Kleinschreibung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Station 1.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=1]]`
+> - PDF: [Station 1.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=1]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Station 1 - Groß- und Kleinschreibung Anleitung: Finde den kürzesten Weg vom Start bis in die unterste Reihe. Beginne bei Start und rücke jeweils nur ein Feld – waagrecht, senkrecht oder diagonal – weiter. Zeichne Pfeile! Beachte: Es darf kein Kästchen betreten werden, das eine falsche Aussage enthält. Welches Kästchen der untersten Reihe erreichst Du als erstes? Als Hilfe steht dir das Arbeitsblatt mit den Regeln zur Verfügung. Maria hat die Na- chricht am Schwarzen Brett gelesen. Ich muss ihr im Allgemeinen zustimmen. Können Sie das bitte auf Deutsch sagen? Die Recht- schreibung ist im Großen und Gan- zen einfacher ge- worden Leider ist die neue Fi …
@@ -922,11 +922,11 @@ Finde die Fehler in den Kästchen mit falscher Groß- und Kleinschreibung und ve
 #### Seite 2: Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung.
 
 > [!referenz] Exakte Referenz
-> - PDF: [Station 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=2]]`
+> - PDF: [Station 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: ÜBUNG: Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung. „Ich wünsche ___hnen einen schönen Tag, Frau Berta!“ „Ganz meinerseits, Herr Emil. Haben ___ie heute ___orgen schon gebadet?“ „Gewiss, ohne ___aden ist ___chwitzen bei diesen Temperaturen schlimm.“ „Ich habe hier ja ein ___utzend* Tümpel gezählt. Das ist schon ___lasse und genau das ___ichtige für unsereins: eine Freude für ___ung und ___lt gewissermaßen.“ „Ja, Frau Berta, wir ___wei wissen schon, was gut ist. Allerdings: ___ch vermisse Schlammlöcher. Die Trocken- heit diesen Herbst hat für uns wenig ___rfreuliches.“ „Bei Nässe im Frühjahr, da sind Schla …
@@ -966,7 +966,7 @@ Lebenslang fast im ___unkeln und ___auerstinken ohne die ___rische der Natur.“
 - Frage:: Welche Regel nennt die Quelle zu **Kommasetzung**?
 - Antwort:: Bei Aufzählungen mit gleicher syntaktischer Funktion wird ein Komma gesetzt.
 - Beleg:: Bei Aufzählungen mit gleicher syntaktischer Funktion wird ein Komma gesetzt.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Regelsammlung|Regelsammlung]], [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Regelsammlung|Regelsammlung]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -974,7 +974,7 @@ Lebenslang fast im ___unkeln und ___auerstinken ohne die ___rische der Natur.“
 - Frage:: Welche Regel nennt die Quelle zu **Kommasetzung**?
 - Antwort:: „Der Lehrer wusste, dass das nicht gut gehen konnte.“ Konjunktionen, die einen Nebensatz einleiten, sind u.a.: „da/weil“, „dass“, „als“, „wenn/falls“, „während“, „nachdem“, „obwohl/wenn auch“, „indem“
 - Beleg:: „Der Lehrer wusste, dass das nicht gut gehen konnte.“ Konjunktionen, die einen Nebensatz einleiten, sind u.a.: „da/weil“, „dass“, „als“, „wenn/falls“, „während“, „nachdem“, „obwohl/wenn auch“, „indem“
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Regelsammlung|Regelsammlung]], [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Regelsammlung|Regelsammlung]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

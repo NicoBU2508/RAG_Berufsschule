@@ -1,0 +1,365 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md (Seiten 1–14)",
+  "replaces_existing": false,
+  "topic_categories": {},
+  "pages": [
+    {
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Useful Phrases and Grammar",
+        "secondary_topics": [
+          "Conditional Sentences",
+          "If-Sentences",
+          "Conjunctions"
+        ],
+        "recommended_topics": [
+          "Useful Phrases and Grammar"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 2,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Useful Phrases and Grammar",
+        "secondary_topics": [
+          "Conditional Sentences",
+          "Exercises"
+        ],
+        "recommended_topics": [
+          "Useful Phrases and Grammar"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "index",
+        "source_text_match": "missing",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Reine Titel- oder Dekorationsfolie (Wortwolke IDE) ohne eigenständigen Lerninhalt",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 4,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Business Communication English",
+        "secondary_topics": [
+          "Presentations",
+          "IDE",
+          "Integrated Development Environment"
+        ],
+        "recommended_topics": [
+          "Business Communication English",
+          "Entwicklungswerkzeuge und Debugging"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Business Communication English",
+        "secondary_topics": [
+          "Presentation Guidelines",
+          "Formal Meetings"
+        ],
+        "recommended_topics": [
+          "Business Communication English"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Business Communication English",
+        "secondary_topics": [
+          "IDE",
+          "Presentation Task"
+        ],
+        "recommended_topics": [
+          "Business Communication English",
+          "Entwicklungswerkzeuge und Debugging"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 7,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Reading Comprehension and Case Studies",
+        "secondary_topics": [
+          "Leseverstehen B2",
+          "Smart Glasses"
+        ],
+        "recommended_topics": [
+          "Reading Comprehension and Case Studies"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 8,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Reading Comprehension and Case Studies",
+        "secondary_topics": [
+          "Leseverstehen B2",
+          "Smart Glasses"
+        ],
+        "recommended_topics": [
+          "Reading Comprehension and Case Studies"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 9,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Reading Comprehension and Case Studies",
+        "secondary_topics": [
+          "Smart Glasses",
+          "Augmented Reality",
+          "Leseverstehen B2"
+        ],
+        "recommended_topics": [
+          "Reading Comprehension and Case Studies",
+          "IT Vocabulary and Hardware"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 10,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Reading Comprehension and Case Studies",
+        "secondary_topics": [
+          "Smart Glasses",
+          "Augmented Reality",
+          "Leseverstehen B2"
+        ],
+        "recommended_topics": [
+          "Reading Comprehension and Case Studies",
+          "IT Vocabulary and Hardware"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 11,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Reading Comprehension and Case Studies",
+        "secondary_topics": [
+          "Lösung Leseverstehen B2",
+          "Smart Glasses"
+        ],
+        "recommended_topics": [
+          "Reading Comprehension and Case Studies"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": true,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 12,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Reading Comprehension and Case Studies",
+        "secondary_topics": [
+          "Lösung Leseverstehen B2",
+          "Smart Glasses"
+        ],
+        "recommended_topics": [
+          "Reading Comprehension and Case Studies"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": true,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 13,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Exaktes seiteninternes Duplikat von Seite 9 (identischer Lesetext)",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 14,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Exaktes seiteninternes Duplikat von Seite 10 (identischer Lesetext)",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    }
+  ]
+}

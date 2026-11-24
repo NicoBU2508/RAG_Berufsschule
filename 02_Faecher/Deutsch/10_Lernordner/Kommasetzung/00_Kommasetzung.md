@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Kommasetzung** im Fach **Deutsch**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]; [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]; [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7|Regelsammlung S. 7]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7|Regelsammlung S. 7]].
 > - **Zentrale Suchbegriffe:** Kommasetzung, dass, Station.
 > - **Prüfungsbezug:** AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -52,9 +52,9 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4>) | das oder dass? | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6>) | Kommasetzung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7>) | Station 3 – Kommasetzung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4>) | das oder dass? | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6>) | Kommasetzung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7>) | Station 3 – Kommasetzung | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -63,11 +63,11 @@ tags:
 #### Seite 4: das oder dass?
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4]]`
+> - PDF: [Regelsammlung.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: das oder dass? das a) als bestimmter Artikel das Handy, das Kind ➔ immer in Begleitung eines Substantivs b) als Demonstrativpronomen Das Handy klingelt. Das habe ich nicht bemerkt. Ihr seid immer am Schwätzen. Das nervt mich. ➔ weist auf etwas hin. ➔ kann durch dies/dieses ersetzt werden c) als Relativpronomen Das Handy, das im Unterricht geklingelt hat, gehört jetzt dem Lehrer. ➔ bezieht sich auf etwas, das im selben Satz genannt wurde ➔ kann durch welches ersetzt werden dass als Konjunktion Dass ich vergessen habe mir den Wecker zu stellen, ärgert mich. Es ärgert mich, dass es heute regnet. ➔ dass leitet einen Nebensatz ein, der durch ein Komma vom …
@@ -114,11 +114,11 @@ Es ärgert mich, dass es heute regnet.
 #### Seite 6: Kommasetzung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6]]`
+> - PDF: [Regelsammlung.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Kommasetzung a) Aufzählungen Bei Aufzählungen mit gleicher syntaktischer Funktion wird ein Komma gesetzt. „Ich esse gerne Obst, Gemüse und jede Menge Fleisch.“ „Er kam, sah und siegte.“ b) Konjunktionen und Adverbien • Bei bestimmten Konjunktionen und Adverbien steht immer ein Komma. „einerseits..., andererseits“, „zum einen..., zum anderen“, „je..., desto“, „nicht nur..., sondern (auch)“, „teils..., teils“, „zwar..., jedoch“. • Bei einer Aufzählung gleichrangiger Wörter und Wortgruppen müssen folgende Konjunktionen im- mer ohne Komma verwendet werden: „und“, „oder“, „sowie“, „nicht... noch“, „sowohl... als auch“, „entweder... oder“, „weder... noch“. …
@@ -174,11 +174,11 @@ Das Komma trennt einen Vergleichssatz vom übergeordneten Satz.
 #### Seite 7: Station 3 – Kommasetzung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7]]`
+> - PDF: [Regelsammlung.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Station 3 – Kommasetzung Aufgaben: 1. Setze im folgenden Text die notwendigen Kommas. 2. Trage in der rechten Spalte die jeweilige Erklärung ein (siehe Regelsammlung) Ein Tag auf dem Fußballplatz in der Kreisklasse An einem schönen lauen Sommertag treffen sich auf dem Sportplatz 22 Mann und wenige Zuschauer zu einem Fußballspiel. Viele waren zu Hause geblieben weil sie mit schlechtem Wetter gerechnet hatten und nicht nass werden wollten. In der Kabine hielt bereits Toni Socke der Heimtrainer in seinem grünen hässlichen viel zu großen Trainingsan- zug seine Ansprache: „Schnappt euch den Ball spielt den Gegner aus lauft vor und haut den Ball in die Mas …
@@ -263,7 +263,7 @@ I
 - Frage:: Welche Regel nennt die Quelle zu **Aufzählungen**?
 - Antwort:: Bei Aufzählungen mit gleicher syntaktischer Funktion wird ein Komma gesetzt.
 - Beleg:: Bei Aufzählungen mit gleicher syntaktischer Funktion wird ein Komma gesetzt.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Regelsammlung|Regelsammlung]], [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Regelsammlung|Regelsammlung]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -271,7 +271,7 @@ I
 - Frage:: Welche Regel nennt die Quelle zu **Kommasetzung**?
 - Antwort:: „Der Lehrer wusste, dass das nicht gut gehen konnte.“ Konjunktionen, die einen Nebensatz einleiten, sind u.a.: „da/weil“, „dass“, „als“, „wenn/falls“, „während“, „nachdem“, „obwohl/wenn auch“, „indem“
 - Beleg:: „Der Lehrer wusste, dass das nicht gut gehen konnte.“ Konjunktionen, die einen Nebensatz einleiten, sind u.a.: „da/weil“, „dass“, „als“, „wenn/falls“, „während“, „nachdem“, „obwohl/wenn auch“, „indem“
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Regelsammlung|Regelsammlung]], [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Regelsammlung|Regelsammlung]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

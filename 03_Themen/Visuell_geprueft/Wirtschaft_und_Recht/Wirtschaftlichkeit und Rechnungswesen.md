@@ -2,15 +2,15 @@
 id: vault.thema.visuell.wirtschaftlichkeit.und.rechnungswesen
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Wirtschaftlichkeit und Rechnungswesen"
 kategorie: Wirtschaft_und_Recht
-quellen: 2
-seiten: 4
+quellen: 3
+seiten: 7
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,8 +25,9 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [16–18](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=16>) | aufgabe, theorie | Text für Zitate geeignet |
-| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [6](<99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6>) | theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [16–18](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=16>) | aufgabe, theorie | Text für Zitate geeignet |
+| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [6](<99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6>) | theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [37–39](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=37>) | theorie | Text für Zitate geeignet |
 
 ## Belegregel für GPT
 

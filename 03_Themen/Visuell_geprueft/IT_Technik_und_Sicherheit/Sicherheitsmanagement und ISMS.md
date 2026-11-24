@@ -25,11 +25,11 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41\|Gescanntes_Dokument_16_09_25_um_11_21_41]] | [1](<99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=1>) | loesung | 1 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1\|IT_Sicherheit_Aufgabe_1]] | [1](<99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=1>) | aufgabe | 1 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [4](<99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=4>) | loesung | 1 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [1, 6–7](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=1>) | loesung | 3 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [3, 62](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3>) | theorie | Text für Zitate geeignet |
+| [[02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41\|Gescanntes_Dokument_16_09_25_um_11_21_41]] | [1](<99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=1>) | loesung | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1\|IT_Sicherheit_Aufgabe_1]] | [1](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=1>) | aufgabe | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [4](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=4>) | loesung | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [1, 6–7](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=1>) | loesung | 3 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [3, 62](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3>) | theorie | Text für Zitate geeignet |
 
 ## Belegregel für GPT
 

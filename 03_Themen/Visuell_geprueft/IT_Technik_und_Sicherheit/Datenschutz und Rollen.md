@@ -2,15 +2,15 @@
 id: vault.thema.visuell.datenschutz.und.rollen
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Datenschutz und Rollen"
 kategorie: IT_Technik_und_Sicherheit
-quellen: 1
-seiten: 3
+quellen: 2
+seiten: 5
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,8 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [12–14](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=12>) | loesung | 3 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [99–100](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=99>) | aufgabe, theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [12–14](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=12>) | loesung | 3 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

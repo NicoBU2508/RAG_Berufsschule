@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md (Seiten 1–7)",
+  "replaces_existing": false,
+  "topic_categories": {
+    "Verstärkung Dämpfung und Pegelrechnung": "Elektrotechnik"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Verstärkung Dämpfung und Pegelrechnung",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Verstärkung Dämpfung und Pegelrechnung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
+      "page": 2,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Verstärkung Dämpfung und Pegelrechnung",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Verstärkung Dämpfung und Pegelrechnung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Verstärkung Dämpfung und Pegelrechnung",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Verstärkung Dämpfung und Pegelrechnung"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
+      "page": 4,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Verstärkung Dämpfung und Pegelrechnung",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Verstärkung Dämpfung und Pegelrechnung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+          "Bei Aufgabe 7 handschriftlichen Wert 2,69 gegen 3,69 prüfen"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Verstärkung Dämpfung und Pegelrechnung",
+        "secondary_topics": [
+          "Reihen-, Parallel- und Gruppenschaltungen",
+          "Ohmsches Gesetz und Leiterwiderstand"
+        ],
+        "recommended_topics": [
+          "Verstärkung Dämpfung und Pegelrechnung",
+          "Reihen-, Parallel- und Gruppenschaltungen",
+          "Ohmsches Gesetz und Leiterwiderstand"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Verstärkung Dämpfung und Pegelrechnung",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Verstärkung Dämpfung und Pegelrechnung"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
+      "page": 7,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": "Exakte seiteninterne Dublette von Seite 6",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    }
+  ]
+}

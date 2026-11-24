@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Aufgaben Übungen und Lösungen** im Fach **Englisch**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5|Englisch S. 5]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37|Englisch S. 37]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=46|Englisch S. 46]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=47|Englisch S. 47]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=48|Englisch S. 48]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=49|Englisch S. 49]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5|Englisch S. 5]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37|Englisch S. 37]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=46|Englisch S. 46]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=47|Englisch S. 47]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=48|Englisch S. 48]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=49|Englisch S. 49]].
 > - **Zentrale Suchbegriffe:** thorough, responsibilities, Text, Aufgabe, Leseverstehen, Reception, Informationstechnik, FortsetzungAufgabe2.
 > - **Prüfungsbezug:** Berufsschule/Kommunikation, prüfungsnahes Fachvokabular.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -55,12 +55,12 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 5](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5>) | thorough | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37>) | responsibilities | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=46>) | Text zu Aufgabe 2: Leseverstehen (Reception) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 47](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=47>) | Informationstechnik - B2 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 48](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=48>) | Aufgabe 2: Leseverstehen (Reception) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 49](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=49>) | FortsetzungAufgabe2:Leseverstehen(Reception) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 5](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5>) | thorough | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37>) | responsibilities | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=46>) | Text zu Aufgabe 2: Leseverstehen (Reception) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 47](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=47>) | Informationstechnik - B2 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 48](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=48>) | Aufgabe 2: Leseverstehen (Reception) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 49](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=49>) | FortsetzungAufgabe2:Leseverstehen(Reception) | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -69,11 +69,11 @@ tags:
 #### Seite 5: thorough
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 5](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5]]`
+> - PDF: [Englisch.pdf Seite 5](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > thorough gründlich confidential vertraulich maintenance Instandhaltung to maintain Warten to troubleshoot Fehlerbehebung responsibility Verantwortung import Import, Einfuhr task Aufgabe capabilities Fähigkeiten appientice Lehrling internship Praktikum evaluate auswerten overtime überstunden shifts schicht department Abteilung
@@ -116,11 +116,11 @@ Abteilung
 #### Seite 37: responsibilities
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37]]`
+> - PDF: [Englisch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > responsibilities Aufgaben / Verantwortlichkeiten troubleshoot Fehler beheben implement / implementation umsetzen / Umsetzung maintain / maintenance warten / Wartung confidential vertraulich analytical skills analytische Fähigkeiten communication skills Kommunikationsfähigkeit people skills Sozialkompetenz broad range of skills breites Spektrum an Fähigkeiten essential unerlässlich / unentbehrlich leading blue chip company erstrangiges Unternehmen debug Fehler im Code suchen defect Fehler / Mangel apply IT to business processes IT auf Geschäftsprozesse anwenden keep up to date auf dem neuesten Stand bleiben advise clients Kunden beraten LAN / WAN lokales / weiträumiges Netzwerk data visualiza …
@@ -211,11 +211,11 @@ Ich sorge dafür, dass er die Nachricht erhält.
 #### Seite 46: Text zu Aufgabe 2: Leseverstehen (Reception)
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=46>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=46]]`
+> - PDF: [Englisch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=46>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=46]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=46]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Text zu Aufgabe 2: Leseverstehen (Reception) Featuresof PerfectSmart Glasses After indulging ina veritable charcuterieboard of smart glasses released inthe lastfewyears, we can confidently say: We're not there yet. Current smart glasses aren't capable enoughto replace our smartphones or function as centerpieces for ambient computing experiences such as our interactive voice assistants. Glimpses of an ARworld comein fits and starts,but sofar, thatfutureisstill beingbuiltata snail'spaceandit'sverymucha WildWestof experimentationfor bothhardwareandsoftware. There are enough good, common ideas shared by all of these devices to craft a sort of recipe for a betterpair of smart glasses. A device th …
@@ -264,11 +264,11 @@ Fortsetzung nächste Seite
 #### Seite 47: Informationstechnik - B2
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 47](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=47>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=47]]`
+> - PDF: [Englisch.pdf Seite 47](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=47>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=47]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=47]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=47]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Informationstechnik - B2 Schuliahr 2022/2023 Fortsetzung Text zu Aufgabe 2: Leseverstehen (Reception) Thereis justa small sliverof the glasses-shaped devicesout there,and oftenpeoplemainly choose these, becausetheymadean efforttolooklike normal glassesandfocusedmostof their functionalityon audio. Smart glasses are not atall setin stone; some do thingsentirely differentlylikea wearable displayforyourphonethatalso offersitsown rudimentaryAR operating system. The reality is smart glasses might come in as many varieties as laptops do, with room for both fully AR-equipped models and more stripped-down smart glasses. What's clear is thatthe tech industry at large is committed to smart glasses with …
@@ -296,11 +296,11 @@ stark bearbeitet
 #### Seite 48: Aufgabe 2: Leseverstehen (Reception)
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 48](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=48>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=48]]`
+> - PDF: [Englisch.pdf Seite 48](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=48>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=48]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=48]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Name: Aufgabe 2: Leseverstehen (Reception) 20 Punkte Ihr Unternehmen. berät Firmenbei der: Anwendungvon smarten Technologien.Ihr Vorgesetzteristim Internetauf einen englischen Text gestoßen und beauftragt Sie,ihn hinsichtlichneuer Trendsfür IhreKundenauszuwerten. Lesen Sie den Artikel auf Seite 6 und notieren Sie die relevanten Informationen auf Deutsch. Smart Glasses 1. 2. Beim momentánen Stand der AR- Technologie können intelligente Brillen noch nicht: Einsatzzweck/-ziel.von intelligenten Brillen: 2 aber: Gemeinsames Merkmal intelligenter Brillen: Funktionsweise: Vorteile: 4 Fortsetzung nächste Seite Smartphones ersetzen Herzstück für Ambient Computing bequemer begleiter ersatz für Smartph …
@@ -354,11 +354,11 @@ andere Menschen nicht gestört
 #### Seite 49: FortsetzungAufgabe2:Leseverstehen(Reception)
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 49](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=49>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=49]]`
+> - PDF: [Englisch.pdf Seite 49](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=49>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=49]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=49]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=49]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Name: FortsetzungAufgabe2:Leseverstehen(Reception) 4. IdealesGebrauchsan- gebot von intelligenten Brillen: um z. B. falls sichergestellt ist, dass keinesfalls 5. Wichtige modische Aspekte von intelligenten Brillen: Gründe, warum sich die Kunden für den Kauf derbrillenartigen intelligenten Geräte entscheiden: Technologieunter- nehmen investieren Unsummen die Entwicklung von: • 2 2 Freihändige Nutzung Anrufe mit anderer geräten interagieren nächstes Lied aufrufen kein Cloudspeiche gehackt werden kann logos von Marken auf Brille Viele designs schen aus wie normale Brillen Audiobereich funktionen Smarten Brillen mit AR-Overlay

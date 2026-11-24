@@ -2,15 +2,15 @@
 id: vault.thema.visuell.netzteil.wirkungsgrad.und.80.plus
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Netzteil-Wirkungsgrad und 80 PLUS"
 kategorie: Elektrotechnik
-quellen: 2
-seiten: 13
+quellen: 3
+seiten: 15
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,8 +25,9 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [38–43, 49, 52–53](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=38>) | aufgabe, loesung, theorie | 9 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [5–8](<99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=5>) | aufgabe | 4 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift\|IT_Tech_2LJ_Liebscher_Mitschrift]] | [16–17](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf#page=16>) | loesung | 2 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [38–43, 49, 52–53](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=38>) | aufgabe, loesung, theorie | 9 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [5–8](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=5>) | aufgabe | 4 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

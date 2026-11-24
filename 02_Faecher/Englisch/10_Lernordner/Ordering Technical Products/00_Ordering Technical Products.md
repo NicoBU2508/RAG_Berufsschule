@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Ordering Technical Products** im Fach **Englisch**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2|Englisch S. 2]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3|Englisch S. 3]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=10|Englisch S. 10]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14|Englisch S. 14]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18|Englisch S. 18]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20|Englisch S. 20]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2|Englisch S. 2]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3|Englisch S. 3]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=10|Englisch S. 10]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14|Englisch S. 14]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18|Englisch S. 18]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20|Englisch S. 20]].
 > - **Zentrale Suchbegriffe:** Ordering, Technical, Products, English, EIT, People, and, 380, 000, Company.
 > - **Prüfungsbezug:** Berufsschule/Kommunikation, prüfungsnahes Fachvokabular.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -62,24 +62,24 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 10](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=10>) | 380 . 000 people | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 14](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14>) | Company websites | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18>) | The Company and its departments | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 20](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20>) | Production Planning | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=21>) | The structure of a company | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24>) | Useful language in formal & informal correspondence | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 25](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=25>) | Useful language in formal & informal correspondence | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 27](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=27>) | Odering technical products | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 28](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=28>) | 2) A phone call with a customer | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29>) | Communication: E-Mails | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 30](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30>) | I am writing to confirm your application for a stand at the Technical Trades Fair. The sta … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 31](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=31>) | Telephoning | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 34](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=34>) | Making a telephone call | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=35>) | Vokabeln – Englisch für IT | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 17 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36>) | Sales and Marketing | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 18 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=42>) | STAATLICHE | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 10](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=10>) | 380 . 000 people | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 14](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14>) | Company websites | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18>) | The Company and its departments | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 20](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20>) | Production Planning | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=21>) | The structure of a company | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24>) | Useful language in formal & informal correspondence | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 25](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=25>) | Useful language in formal & informal correspondence | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 27](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=27>) | Odering technical products | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 28](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=28>) | 2) A phone call with a customer | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29>) | Communication: E-Mails | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 30](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30>) | I am writing to confirm your application for a stand at the Technical Trades Fair. The sta … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 31](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=31>) | Telephoning | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 34](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=34>) | Making a telephone call | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35>) | Vokabeln – Englisch für IT | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 17 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36>) | Sales and Marketing | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 18 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=42>) | STAATLICHE | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -88,11 +88,11 @@ tags:
 #### Seite 2: English – EIT – People and jobs in IT – Date:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2]]`
+> - PDF: [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > English – EIT – People and jobs in IT – Date: __________________________ JOB DESCRIPTIONS Today computers are everywhere you turn – not only in office jobs, but also in engineering, production, en- tertainment and many more. In fact, it is hard to imag- ine working in a job that does not use a computer at some point. Despite this, only a small majority of com- puter users can be called experts, and an even smaller number of people understand what happens behind the screen. It takes IT experts to create and service the machines and applications that so many people depend on. And these experts need to have a wide range of qualifications and skills to provide the quality and support necessary. …
@@ -179,11 +179,11 @@ design, and an eye for detail.”
 #### Seite 3: English – EIT – People and jobs in IT – Date:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3]]`
+> - PDF: [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > English – EIT – People and jobs in IT – Date: __________________________ TASK Read the four texts again and make a list outlining the responsibilities, skills and qualifications required for each job. JOB RESPONSIBILITES SKILLS QUALIFICATIONS IT consultant Network Administrator Computer Programmer Web Developer https://www.prospects.ac.uk/job-profiles/browse-sector/information-technology applying IT to business analytical, comunication Computer Science, busnes education - install, upgrade , troubleshoot analytical, communication broad education in IT-Systems networks international reconized cetificates · maintenance LANIVAN develope new applications problem solving programminy languages upda …
@@ -281,11 +281,11 @@ graphik design, software engineering
 #### Seite 10: 380 . 000 people
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 10](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=10]]`
+> - PDF: [Englisch.pdf Seite 10](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=10]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Munich all around the world 380 . 000 people are employed They manufacture and install communication system and automative equitment excellent products and services
@@ -314,11 +314,11 @@ services
 #### Seite 14: Company websites
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 14](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14]]`
+> - PDF: [Englisch.pdf Seite 14](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: Company websites A Fill in the gaps in the second column with the words in the box below. Then match the sentence beginnings (A–H) with the sentence endings (1–7). efficient ▪ guarantee ▪ mechanical ▪ price ▪ risk ▪ service ▪ voltage A Let us design the systems and machines you need to link computer technology and 1 or a magnet, we’ll provide the know- how and _________________________1 you need. Technical building equipment B Let our engineers install the right equipment to step 2 electronic, electrical and ____________________________2 engineering. Project development C Whether it’s a switch, a socket or a circuit, a motor, a machine 3 experts plan, _____________________ …
@@ -429,11 +429,11 @@ efficient
 #### Seite 18: The Company and its departments
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18]]`
+> - PDF: [Englisch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: The Company and its departments Match the letters with the numbers. Put the numbers in the magic squares below. When your answers are correct, all the columns and rows will add up to the same number. A human resources F reception B research & development G marketing C ordering H administration D finance I design E customer service 1 The people here look after the staff. 2 This is where new software is created for example. 3 People who have bought the company’s products can ask the workers here for help and advice. 4 The people here look after paperwork. 5 The people here look after money. 6 The people here buy the components needed to make the company’s products. 7 The peo …
@@ -495,11 +495,11 @@ I =
 #### Seite 20: Production Planning
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 20](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20]]`
+> - PDF: [Englisch.pdf Seite 20](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > · Production Planning is in chage of organizing production schedules. · Accounts handels the company's finance · HR recruits and trains new employees · Production is in charge of making the Products · Logistics distributes the finished Products · Purchasing buys raw materials · Customer service deals with custome problems · R & D develops new Products · IT maintains the computer netwak · Quality control check that the products are not damaged
@@ -547,11 +547,11 @@ damaged
 #### Seite 21: The structure of a company
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=21>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=21]]`
+> - PDF: [Englisch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=21>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=21]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=21]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: The structure of a company CEO CTO CDO Head of Sotwear Head of IT Engineering Operations Quality assurance Project Manages Manages responsibility goals system data technology clients software projects products testing hacore
@@ -593,11 +593,11 @@ hacore
 #### Seite 24: Useful language in formal & informal correspondence
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24]]`
+> - PDF: [Englisch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: Useful language in formal & informal correspondence Formal Informal Ordering I would like to order a …, please. Which models are you interested in? How much would that cost? I can offer you a discount of … % if you order … The price includes VAT/delivery/… I’m afraid we don’t have those in stock at the moment. I’ll order them in for you. The … will be with you by/on … I’ll confirm the order by writing / in an email. Complaining I have just received our order and unfortunately there was a problem. There should have been 5 items but we only received 4. Unfortunately the invoice was wrong / didn’t state the prices we agreed on the phone. I apologize for the errors in dealing …
@@ -678,11 +678,11 @@ touch
 #### Seite 25: Useful language in formal & informal correspondence
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 25](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=25>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=25]]`
+> - PDF: [Englisch.pdf Seite 25](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=25>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=25]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=25]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: Useful language in formal & informal correspondence Formal Informal Ordering I would like to order a …, please. Which models are you interested in? How much would that cost? I can offer you a discount of … % if you order … The price includes VAT/delivery/… I’m afraid we don’t have those in stock at the moment. I’ll order them in for you. The … will be with you by/on … I’ll confirm the order by writing / in an email. Complaining I have just received our order and unfortunately there was a problem. There should have been 5 items but we only received 4. Unfortunately the invoice was wrong / didn’t state the prices we agreed on the phone. I apologize for the errors in dealing …
@@ -757,11 +757,11 @@ begleichen
 #### Seite 27: Odering technical products
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 27](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=27>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=27]]`
+> - PDF: [Englisch.pdf Seite 27](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=27>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=27]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=27]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: Odering technical products 1) Read and describe the product and answer the following questions. a. What are the containers made of? b. What can they be used for? c. What kind of things can be stored in the containers? d. How can the containers be carried? e. How can the containers be closed? f. How long is the guarantee period? aluminium storeage and transport materials , electronic equitment handels snap fasteners/padlock 5 years
@@ -799,11 +799,11 @@ snap fasteners/padlock
 #### Seite 28: 2) A phone call with a customer
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 28](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=28>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=28]]`
+> - PDF: [Englisch.pdf Seite 28](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=28>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=28]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=28]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 2) A phone call with a customer Your supervisor tells you that a prospective customer, Mr. Young, would like some information before he places an order. He asks you to call Mr Young. 3) Confirming the order Your supervisor asks you to confirm the order by email. Complete the email using words from the box. You: - Ring Mr Young, introduce yourself and explain why you are calling. - Answer Mr Young’s questions. - Suggest that he orders the medium sized container (length 800 mm, width 600 mm, height: 610 mm). - Say that you will confirm his order by mail. Mr Young: - Explain that you would like some information about aluminum containers for transporting electronic equipment - You would like the …
@@ -907,11 +907,11 @@ order
 #### Seite 29: Communication: E-Mails
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29]]`
+> - PDF: [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: Communication: E-Mails Situation: You are getting work experience at HardWareHouse, an IT hardware wholesaler. Your supervisor asks you to take care of a customer enquiry. 1) Giving the E-Mail Address over the phone. Match the symbols (1-6) to the words (a-f). 1 + 4 - a at d plus 2 _ 5 . b dot e number 3 @ 6 3 c hyphen f underscore 2) Listen to your supervisor and a customer on the phone. Which E-Mail Address is correct? 1 1 a tm.martin@hard_warehouse.co.uk a maryannbrown@5+5_services.net b tmmartin@hardware-house.co.uk b mary-anne-brown@5+5services.net c tm.martin@hardware_house.co.uk c maryann-brown@5+5services.net 3) Work with a partner. Study the subject lines (1-6) be …
@@ -1009,11 +1009,11 @@ O
 #### Seite 30: I am writing to confirm your application for a stand at the Technical Trades Fair. The sta …
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 30](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30]]`
+> - PDF: [Englisch.pdf Seite 30](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 4 I am writing to confirm your application for a stand at the Technical Trades Fair. The stand number is CO2208. _______________________________________________________________________________ 5 As promised, here is the link to the website www.tipsformails.com. _______________________________________________________________________________ 6 This is just to let you know that I am interviewing a new technician at 12:30. _______________________________________________________________________________ 6 A Z
@@ -1052,11 +1052,11 @@ Z
 #### Seite 31: Telephoning
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 31](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=31>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=31]]`
+> - PDF: [Englisch.pdf Seite 31](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=31>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=31]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=31]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: Telephoning 1) Have a look at the following phrases and try to find the phrases with similar meanings. 1 The line is busy. a Is … in? 2 I’ll put you through. b Should he/she ring you back? 3 Hold on, please. c Just a moment, please. 4 Shall I ask him/her to call back? d A room number/ an office number. 5 Could I speak to …. f A code. 6 An extension number. g I’ll connect you. 7 A country or area number. h The line is engaged. 2) Use common telephone phrases and be as formal and polite as possible. 1) You answer the phone in your office at 9.30 a.m. You say:_______________________________________________________ 2) You are the caller. You want to speak to Tanja S. You say:_ …
@@ -1146,11 +1146,11 @@ goodbye
 #### Seite 34: Making a telephone call
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 34](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=34>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=34]]`
+> - PDF: [Englisch.pdf Seite 34](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=34>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=34]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=34]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: Making a telephone call Your colleague, Julie Matthews, takes a call from a supplier. 3) Listen to the call and complete the dialogue. Julie: Hamm Machines Julie Matthews speaking. Liam Can I speak to Martin Brown in the workshop, please? Julie: Who is calling please? Liam: This is Liam Donnelly. Julie: I’m sorry, ________________________________________________________ Liam: It’s L I A M D O double - N E double - LY. I’m calling from Machine Tools in Manchester. It’s about the drills Mr Brown ordered. Julie: Thank you , Mr Donnelly. I’ll try Mr Brown for you. Please___________________ _____________________________ Liam: Thank you. … Julie: Mr Donnelly. I’m sorry, Mr Brown …
@@ -1261,11 +1261,11 @@ repeat
 #### Seite 35: Vokabeln – Englisch für IT
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=35>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=35]]`
+> - PDF: [Englisch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=35]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Vokabeln – Englisch für IT Berufsschule Ingolstadt – Englisch IT Bestellungen & Reklamationen (Handling Orders & Complaints) Englisch Deutsch value added tax (VAT) Mehrwertsteuer delivery Lieferung best regards Mit freundlichen Grüßen apology Entschuldigung hesitate zögern warranty Garantie charges Gebühren / Kosten discount Rabatt confirm bestätigen immediately sofort invoice Rechnung bill Rechnung / Quittung response Antwort inconvenience Unannehmlichkeit to forgo verzichten auf to waive verzichten / ablehnen to amend ändern / korrigieren distinct deutlich / klar to quote ein Angebot machen to settle begleichen / klären in stock auf Lager place an order / trial order eine Bestellung / Prob …
@@ -1349,11 +1349,11 @@ Deutsch
 #### Seite 36: Sales and Marketing
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36]]`
+> - PDF: [Englisch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Sales and Marketing Vertrieb und Marketing Production Planning Produktionsplanung Accounts / Finance Buchhaltung / Finanzen HR (Human Resources) Personalabteilung Production Produktion Logistics Logistik Purchasing / Ordering Einkauf / Bestellung Customer Service Kundendienst R&D (Research and Development) Forschung und Entwicklung IT (Information Technology) IT-Abteilung Quality Control / Quality Assurance Qualitätssicherung Administration Verwaltung Reception Empfang Legal Department Rechtsabteilung Hardware Support Hardware-Support Software Development Softwareentwicklung Design Designabteilung distribute verteilen / vertreiben advertise and sell werben und verkaufen recruit and train ein …
@@ -1454,11 +1454,11 @@ Qualifikationen
 #### Seite 42: STAATLICHE
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=42>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=42]]`
+> - PDF: [Englisch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=42>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=42]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=42]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: STAATLICHE BERufS SCHULE1 酒 ⼝菌⼝⾃員 INGOLSTADT date: Promoting your productsand services 1)ReadthebrochureandnotedownthekeyinformationaboutQARMedicalinGerman. QAR Medical Augmenting medical specialists Since our startjust nine years ago, we'vehad great success in establishing a reputation as the most trusted brand in medical education. Alter der Firma Our educational platformis the bestin the businessandhas beenbuiltto accompany students for their entire careers- a constant partner in development. Client testimonials tell usthat weexceed expectation of delivered service over 25% of the time. Kernpunkte Hauptkunden Our flagship product, HoloMedEd, combines our expertise in medical …

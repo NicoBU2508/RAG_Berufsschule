@@ -31,20 +31,20 @@ PDCA beschreibt einen Verbesserungszyklus: planen, umsetzen, prüfen, verbessern
 
 | Quelle | Fach | Seiten | PDF-Referenzen |
 |---|---|---:|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | ITT IT-Technik | 8, 9 | [S.8](<99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=8>), [S.9](<99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=9>) |
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | ITT IT-Technik | 1, 3, 57, 62 | [S.1](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1>), [S.3](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3>), [S.57](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=57>), [S.62](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62>) |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | ITT IT-Technik | 8, 9 | [S.8](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=8>), [S.9](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=9>) |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | ITT IT-Technik | 1, 3, 57, 62 | [S.1](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1>), [S.3](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3>), [S.57](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57>), [S.62](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62>) |
 
 ## 📌 Beispielstellen aus den Originalquellen
 
 ### [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]] · Seite 1
 
-[Original-PDF Seite 1](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1>)
+[Original-PDF Seite 1](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1>)
 
 > .................................................................................................................................... 1 Der Sicherheitsprozess .................................................................................................................................................. 1 Grundwissen in der IT-Sicherheit ..............................................................................
 
 ### [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]] · Seite 8
 
-[Original-PDF Seite 8](<99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=8>)
+[Original-PDF Seite 8](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=8>)
 
 > Informationssicherheitsprozess
 

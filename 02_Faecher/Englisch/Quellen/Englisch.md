@@ -2,7 +2,7 @@
 typ: quelle
 fach: "Englisch"
 fach_anzeige: "Englisch"
-original_pfad: "99_Originale/Berufsschule/Englisch/Englisch.pdf"
+original_pfad: "99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf"
 seiten: 49
 pruefung: "AP1, WiSo"
 sicherheitsgrund: "Seite 1 enthält ein fachfremdes Kinderfoto; Seite 9 nur einen persönlichen Gruß. Beide Seiten sind kein Lernwissen."
@@ -26,7 +26,7 @@ textzeichen: 56616
 # 📄 Englisch
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/Englisch/Englisch|Englisch]]
-> - **Original-PDF:** [Englisch.pdf](<99_Originale/Berufsschule/Englisch/Englisch.pdf>)
+> - **Original-PDF:** [Englisch.pdf](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf>)
 > - **Seiten:** 49
 > - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=46, partial=1)
 > - **Aktive Lernquelle:** ja
@@ -67,11 +67,11 @@ textzeichen: 56616
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 2](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2]]`
+> - PDF-Seite: [Englisch.pdf Seite 2](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -158,11 +158,11 @@ design, and an eye for detail.”
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 3](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3]]`
+> - PDF-Seite: [Englisch.pdf Seite 3](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -315,11 +315,11 @@ graphik design, software engineering
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 4](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4]]`
+> - PDF-Seite: [Englisch.pdf Seite 4](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -399,11 +399,11 @@ E
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 5](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5]]`
+> - PDF-Seite: [Englisch.pdf Seite 5](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -443,11 +443,11 @@ Abteilung
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 6](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=6]]`
+> - PDF-Seite: [Englisch.pdf Seite 6](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=6]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -553,11 +553,11 @@ smal
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 7](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=7]]`
+> - PDF-Seite: [Englisch.pdf Seite 7](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=7]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=7]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -648,11 +648,11 @@ your job
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 8](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=8]]`
+> - PDF-Seite: [Englisch.pdf Seite 8](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=8]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=8]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -723,11 +723,11 @@ to your leftright can you see
 ### Seite 10
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 10](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=10>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=10]]`
+> - PDF-Seite: [Englisch.pdf Seite 10](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=10>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=10]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=10]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -753,11 +753,11 @@ services
 ### Seite 11
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 11](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=11>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=11]]`
+> - PDF-Seite: [Englisch.pdf Seite 11](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=11>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=11]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=11]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -809,11 +809,11 @@ business activities
 ### Seite 12
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 12](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=12>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=12]]`
+> - PDF-Seite: [Englisch.pdf Seite 12](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=12>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=12]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=12]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -904,11 +904,11 @@ Ich repariere elektrische Geräte.
 ### Seite 13
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 13](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=13>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=13]]`
+> - PDF-Seite: [Englisch.pdf Seite 13](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=13>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=13]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=13]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -969,11 +969,11 @@ Solarenergie
 ### Seite 14
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 14](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14]]`
+> - PDF-Seite: [Englisch.pdf Seite 14](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1087,11 +1087,11 @@ efficient
 ### Seite 15
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 15](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=15>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=15]]`
+> - PDF-Seite: [Englisch.pdf Seite 15](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=15>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=15]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=15]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1108,11 +1108,11 @@ systems
 ### Seite 16
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 16](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=16>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=16]]`
+> - PDF-Seite: [Englisch.pdf Seite 16](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=16>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=16]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=16]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1167,11 +1167,11 @@ Audi , Lambogini , Bentley
 ### Seite 17
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 17](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=17>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=17]]`
+> - PDF-Seite: [Englisch.pdf Seite 17](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=17>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=17]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=17]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1249,11 +1249,11 @@ Softwar development
 ### Seite 18
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 18](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18]]`
+> - PDF-Seite: [Englisch.pdf Seite 18](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1320,11 +1320,11 @@ I =
 ### Seite 19
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 19](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=19>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=19]]`
+> - PDF-Seite: [Englisch.pdf Seite 19](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=19>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=19]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=19]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -1394,11 +1394,11 @@ Do also use the following expressions:
 ### Seite 20
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 20](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20]]`
+> - PDF-Seite: [Englisch.pdf Seite 20](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1443,11 +1443,11 @@ damaged
 ### Seite 21
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 21](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=21>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=21]]`
+> - PDF-Seite: [Englisch.pdf Seite 21](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=21>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=21]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=21]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1487,11 +1487,11 @@ hacore
 ### Seite 22
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 22](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=22>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=22]]`
+> - PDF-Seite: [Englisch.pdf Seite 22](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=22>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=22]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=22]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -1542,11 +1542,11 @@ out for yourself what our customers want, and then giving it to them.
 ### Seite 23
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 23](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=23>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=23]]`
+> - PDF-Seite: [Englisch.pdf Seite 23](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=23>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=23]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=23]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1579,11 +1579,11 @@ ein Projekt
 ### Seite 24
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 24](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24]]`
+> - PDF-Seite: [Englisch.pdf Seite 24](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1689,11 +1689,11 @@ touch
 ### Seite 25
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 25](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=25>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=25]]`
+> - PDF-Seite: [Englisch.pdf Seite 25](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=25>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=25]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=25]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1793,11 +1793,11 @@ begleichen
 ### Seite 26
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 26](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=26>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=26]]`
+> - PDF-Seite: [Englisch.pdf Seite 26](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=26>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=26]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=26]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -1865,11 +1865,11 @@ Lynton
 ### Seite 27
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 27](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=27>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=27]]`
+> - PDF-Seite: [Englisch.pdf Seite 27](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=27>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=27]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=27]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1939,11 +1939,11 @@ snap fasteners/padlock
 ### Seite 28
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 28](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=28>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=28]]`
+> - PDF-Seite: [Englisch.pdf Seite 28](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=28>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=28]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=28]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2058,11 +2058,11 @@ order
 ### Seite 29
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 29](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29]]`
+> - PDF-Seite: [Englisch.pdf Seite 29](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2148,11 +2148,11 @@ O
 ### Seite 30
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 30](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30]]`
+> - PDF-Seite: [Englisch.pdf Seite 30](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2179,11 +2179,11 @@ Z
 ### Seite 31
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 31](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=31>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=31]]`
+> - PDF-Seite: [Englisch.pdf Seite 31](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=31>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=31]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=31]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2276,11 +2276,11 @@ goodbye
 ### Seite 32
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 32](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=32>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=32]]`
+> - PDF-Seite: [Englisch.pdf Seite 32](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=32>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=32]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=32]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2439,11 +2439,11 @@ bock
 ### Seite 33
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 33](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=33>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=33]]`
+> - PDF-Seite: [Englisch.pdf Seite 33](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=33>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=33]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=33]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2519,11 +2519,11 @@ you
 ### Seite 34
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 34](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=34>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=34]]`
+> - PDF-Seite: [Englisch.pdf Seite 34](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=34>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=34]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=34]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2639,11 +2639,11 @@ repeat
 ### Seite 35
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 35](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=35>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=35]]`
+> - PDF-Seite: [Englisch.pdf Seite 35](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=35]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35]]
 
 > [!verified] Quelltext aus der unveränderten Audit-Arbeitsliste wiederhergestellt
 > Die Seite war irrtümlich als reine Navigation gesperrt. Sichtprüfung und Teilreport bestätigen eigenständigen fachlichen Inhalt.
@@ -2727,11 +2727,11 @@ Deutsch
 ### Seite 36
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 36](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36]]`
+> - PDF-Seite: [Englisch.pdf Seite 36](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36]]
 
 > [!verified] Quelltext aus der unveränderten Audit-Arbeitsliste wiederhergestellt
 > Die Seite war irrtümlich als reine Navigation gesperrt. Sichtprüfung und Teilreport bestätigen eigenständigen fachlichen Inhalt.
@@ -2832,11 +2832,11 @@ Qualifikationen
 ### Seite 37
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 37](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37]]`
+> - PDF-Seite: [Englisch.pdf Seite 37](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37]]
 
 > [!verified] Quelltext aus der unveränderten Audit-Arbeitsliste wiederhergestellt
 > Die Seite war irrtümlich als reine Navigation gesperrt. Sichtprüfung und Teilreport bestätigen eigenständigen fachlichen Inhalt.
@@ -2927,11 +2927,11 @@ Ich sorge dafür, dass er die Nachricht erhält.
 ### Seite 38
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 38](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=38>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=38]]`
+> - PDF-Seite: [Englisch.pdf Seite 38](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=38>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=38]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=38]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3333,11 +3333,11 @@ static.
 ### Seite 39
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 39](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=39>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=39]]`
+> - PDF-Seite: [Englisch.pdf Seite 39](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=39>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=39]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=39]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3497,11 +3497,11 @@ SF
 ### Seite 40
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 40](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40]]`
+> - PDF-Seite: [Englisch.pdf Seite 40](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3540,11 +3540,11 @@ Netzteil.
 ### Seite 41
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 41](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=41>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=41]]`
+> - PDF-Seite: [Englisch.pdf Seite 41](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=41>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=41]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=41]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3586,11 +3586,11 @@ and anneedto mainboard
 ### Seite 42
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 42](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=42>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=42]]`
+> - PDF-Seite: [Englisch.pdf Seite 42](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=42>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=42]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=42]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3689,11 +3689,11 @@ any othe learning Material
 ### Seite 43
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 43](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=43>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=43]]`
+> - PDF-Seite: [Englisch.pdf Seite 43](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=43>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=43]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=43]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3783,11 +3783,11 @@ I'd be happy
 ### Seite 44
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 44](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=44>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=44]]`
+> - PDF-Seite: [Englisch.pdf Seite 44](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=44>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=44]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=44]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3837,11 +3837,11 @@ i3
 ### Seite 45
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 45](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=45>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=45]]`
+> - PDF-Seite: [Englisch.pdf Seite 45](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=45>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=45]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=45]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3877,11 +3877,11 @@ Welche technischen Daten erwähnt Kevin?
 ### Seite 46
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 46](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=46>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=46]]`
+> - PDF-Seite: [Englisch.pdf Seite 46](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=46>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=46]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=46]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3927,11 +3927,11 @@ Fortsetzung nächste Seite
 ### Seite 47
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 47](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=47>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=47]]`
+> - PDF-Seite: [Englisch.pdf Seite 47](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=47>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=47]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=47]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=47]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3956,11 +3956,11 @@ stark bearbeitet
 ### Seite 48
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 48](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=48>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=48]]`
+> - PDF-Seite: [Englisch.pdf Seite 48](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=48>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=48]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=48]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4011,11 +4011,11 @@ andere Menschen nicht gestört
 ### Seite 49
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Englisch.pdf Seite 49](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=49>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=49]]`
+> - PDF-Seite: [Englisch.pdf Seite 49](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=49>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=49]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=49]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=49]]
 
 #### Extrahierter Originaltext für Suche und KI
 

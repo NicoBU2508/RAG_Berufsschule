@@ -1,0 +1,540 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md (Seiten 1–17)",
+  "replaces_existing": false,
+  "topic_categories": {
+    "UML-Diagramme": "Anwendungsentwicklung"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "OOA",
+          "OOD",
+          "OOP",
+          "Entwicklungsprozess",
+          "Qualitätssicherung"
+        ],
+        "recommended_topics": [
+          "Objektorientierung",
+          "Softwarelebenszyklus und Vorgehensmodelle",
+          "UML-Diagramme"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 2,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Anwendungsfalldiagramm",
+          "Use-Case-Diagramm",
+          "Fallbeispiel"
+        ],
+        "recommended_topics": [
+          "Objektorientierung",
+          "UML-Diagramme"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Klassendiagramm",
+          "Objektdiagramm",
+          "Getter und Setter",
+          "Methoden"
+        ],
+        "recommended_topics": [
+          "Methoden, Parameter und Rückgabewerte",
+          "Objektorientierung",
+          "UML-Diagramme"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 4,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Sequenzdiagramm",
+          "Lebenslinie",
+          "Nachrichtenaustausch",
+          "loop"
+        ],
+        "recommended_topics": [
+          "Objektorientierung",
+          "UML-Diagramme"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Strukturdiagramme",
+          "Klassendiagramm",
+          "Objektdiagramm",
+          "Komponentendiagramm",
+          "Verteilungsdiagramm",
+          "Paketdiagramm"
+        ],
+        "recommended_topics": [
+          "UML-Diagramme"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Verhaltensdiagramme",
+          "Interaktionsdiagramme",
+          "Anwendungsfalldiagramm",
+          "Aktivitätsdiagramm",
+          "Zustandsdiagramm",
+          "Sequenzdiagramm"
+        ],
+        "recommended_topics": [
+          "UML-Diagramme"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 7,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Zustandsdiagramm",
+          "Gumball Machine",
+          "Zustandsübergänge"
+        ],
+        "recommended_topics": [
+          "UML-Diagramme"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 8,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Zustandsdiagramm",
+          "Gumball Machine",
+          "Entscheidung",
+          "Guards"
+        ],
+        "recommended_topics": [
+          "UML-Diagramme"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 9,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Zustandsdiagramm",
+          "Gumball Machine",
+          "Entwurfsskizze"
+        ],
+        "recommended_topics": [
+          "UML-Diagramme"
+        ],
+        "content_type": "fragment",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": true,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 10,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Zustandsdiagramm",
+          "Geldautomat",
+          "Unterzustandsautomatenzustand"
+        ],
+        "recommended_topics": [
+          "Objektorientierung",
+          "UML-Diagramme"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 11,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Zustandsdiagramm",
+          "Zustand",
+          "Interne Aktionen",
+          "entry",
+          "do",
+          "exit",
+          "Anonyme Zustände"
+        ],
+        "recommended_topics": [
+          "Objektorientierung",
+          "UML-Diagramme"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 12,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Zustandsdiagramm",
+          "Ereignis",
+          "Transition",
+          "Guard",
+          "Selbst-Transition"
+        ],
+        "recommended_topics": [
+          "UML-Diagramme"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 13,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Zustandsdiagramm",
+          "Zusammengesetzter Zustand",
+          "Unterzustand",
+          "Flache Historie",
+          "Tiefe Historie",
+          "Eintrittspunkt",
+          "Austrittspunkt",
+          "Terminator"
+        ],
+        "recommended_topics": [
+          "UML-Diagramme"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 14,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Zustandsdiagramm",
+          "Regionen",
+          "Pseudozustände",
+          "Startzustand",
+          "Endzustand",
+          "Terminator",
+          "Kreuzung",
+          "Entscheidung"
+        ],
+        "recommended_topics": [
+          "UML-Diagramme"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 15,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Zustandsdiagramm",
+          "Raumluftsteuerung",
+          "Wächter",
+          "Kreuzung"
+        ],
+        "recommended_topics": [
+          "UML-Diagramme"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 16,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Zustandsdiagramm",
+          "Ereignisfolge",
+          "Zusammengesetzter Zustand",
+          "Austrittsarten"
+        ],
+        "recommended_topics": [
+          "UML-Diagramme"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 17,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "Zustandsdiagramm",
+          "Ampelschaltung",
+          "Lichtmaschine"
+        ],
+        "recommended_topics": [
+          "UML-Diagramme"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

@@ -705,14 +705,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=4|01_Algorithmus_Programm_Software_EVA S. 4]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=5|01_Algorithmus_Programm_Software_EVA S. 5]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=8|01_Algorithmus_Programm_Software_EVA S. 8]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=9|01_Algorithmus_Programm_Software_EVA S. 9]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=11|01_Algorithmus_Programm_Software_EVA S. 11]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=4|01_Algorithmus_Programm_Software_EVA S. 4]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=5|01_Algorithmus_Programm_Software_EVA S. 5]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=8|01_Algorithmus_Programm_Software_EVA S. 8]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=9|01_Algorithmus_Programm_Software_EVA S. 9]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=11|01_Algorithmus_Programm_Software_EVA S. 11]]
 - ... plus 43 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -758,14 +758,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=32|01_Algorithmus_Programm_Software_EVA S. 32]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33|01_Algorithmus_Programm_Software_EVA S. 33]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34|01_Algorithmus_Programm_Software_EVA S. 34]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=35|01_Algorithmus_Programm_Software_EVA S. 35]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=37|01_Algorithmus_Programm_Software_EVA S. 37]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38|01_Algorithmus_Programm_Software_EVA S. 38]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39|01_Algorithmus_Programm_Software_EVA S. 39]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=32|01_Algorithmus_Programm_Software_EVA S. 32]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33|01_Algorithmus_Programm_Software_EVA S. 33]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34|01_Algorithmus_Programm_Software_EVA S. 34]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=35|01_Algorithmus_Programm_Software_EVA S. 35]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=37|01_Algorithmus_Programm_Software_EVA S. 37]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38|01_Algorithmus_Programm_Software_EVA S. 38]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39|01_Algorithmus_Programm_Software_EVA S. 39]]
 - ... plus 14 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -812,14 +812,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=4|01_Algorithmus_Programm_Software_EVA S. 4]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=8|01_Algorithmus_Programm_Software_EVA S. 8]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15|01_Algorithmus_Programm_Software_EVA S. 15]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=16|01_Algorithmus_Programm_Software_EVA S. 16]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=4|01_Algorithmus_Programm_Software_EVA S. 4]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=8|01_Algorithmus_Programm_Software_EVA S. 8]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15|01_Algorithmus_Programm_Software_EVA S. 15]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=16|01_Algorithmus_Programm_Software_EVA S. 16]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
 - ... plus 42 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -863,14 +863,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27|01_Algorithmus_Programm_Software_EVA S. 27]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31|01_Algorithmus_Programm_Software_EVA S. 31]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=77|01_Algorithmus_Programm_Software_EVA S. 77]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82|01_Algorithmus_Programm_Software_EVA S. 82]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=83|01_Algorithmus_Programm_Software_EVA S. 83]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=84|01_Algorithmus_Programm_Software_EVA S. 84]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=85|01_Algorithmus_Programm_Software_EVA S. 85]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27|01_Algorithmus_Programm_Software_EVA S. 27]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31|01_Algorithmus_Programm_Software_EVA S. 31]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=77|01_Algorithmus_Programm_Software_EVA S. 77]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82|01_Algorithmus_Programm_Software_EVA S. 82]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=83|01_Algorithmus_Programm_Software_EVA S. 83]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=84|01_Algorithmus_Programm_Software_EVA S. 84]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=85|01_Algorithmus_Programm_Software_EVA S. 85]]
 - ... plus 2 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -913,14 +913,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=5|01_Algorithmus_Programm_Software_EVA S. 5]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=6|01_Algorithmus_Programm_Software_EVA S. 6]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=8|01_Algorithmus_Programm_Software_EVA S. 8]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=5|01_Algorithmus_Programm_Software_EVA S. 5]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=6|01_Algorithmus_Programm_Software_EVA S. 6]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=8|01_Algorithmus_Programm_Software_EVA S. 8]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
 - ... plus 51 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -966,14 +966,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01_Algorithmus_Programm_Software_EVA S. 44]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=50|01_Algorithmus_Programm_Software_EVA S. 50]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=54|01_Algorithmus_Programm_Software_EVA S. 54]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=55|01_Algorithmus_Programm_Software_EVA S. 55]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01_Algorithmus_Programm_Software_EVA S. 59]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82|01_Algorithmus_Programm_Software_EVA S. 82]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=84|01_Algorithmus_Programm_Software_EVA S. 84]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01_Algorithmus_Programm_Software_EVA S. 44]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=50|01_Algorithmus_Programm_Software_EVA S. 50]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=54|01_Algorithmus_Programm_Software_EVA S. 54]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=55|01_Algorithmus_Programm_Software_EVA S. 55]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01_Algorithmus_Programm_Software_EVA S. 59]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82|01_Algorithmus_Programm_Software_EVA S. 82]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=84|01_Algorithmus_Programm_Software_EVA S. 84]]
 - ... plus 20 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -1019,14 +1019,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=21|01_Algorithmus_Programm_Software_EVA S. 21]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25|01_Algorithmus_Programm_Software_EVA S. 25]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=21|01_Algorithmus_Programm_Software_EVA S. 21]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25|01_Algorithmus_Programm_Software_EVA S. 25]]
 - ... plus 163 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -1073,14 +1073,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25|01_Algorithmus_Programm_Software_EVA S. 25]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=26|01_Algorithmus_Programm_Software_EVA S. 26]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27|01_Algorithmus_Programm_Software_EVA S. 27]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=50|01_Algorithmus_Programm_Software_EVA S. 50]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=51|01_Algorithmus_Programm_Software_EVA S. 51]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=52|01_Algorithmus_Programm_Software_EVA S. 52]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25|01_Algorithmus_Programm_Software_EVA S. 25]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=26|01_Algorithmus_Programm_Software_EVA S. 26]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27|01_Algorithmus_Programm_Software_EVA S. 27]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=50|01_Algorithmus_Programm_Software_EVA S. 50]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=51|01_Algorithmus_Programm_Software_EVA S. 51]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=52|01_Algorithmus_Programm_Software_EVA S. 52]]
 - ... plus 100 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -1127,14 +1127,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=24|01_Algorithmus_Programm_Software_EVA S. 24]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25|01_Algorithmus_Programm_Software_EVA S. 25]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31|01_Algorithmus_Programm_Software_EVA S. 31]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=46|01_Algorithmus_Programm_Software_EVA S. 46]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=52|01_Algorithmus_Programm_Software_EVA S. 52]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=53|01_Algorithmus_Programm_Software_EVA S. 53]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01_Algorithmus_Programm_Software_EVA S. 59]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=67|01_Algorithmus_Programm_Software_EVA S. 67]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=24|01_Algorithmus_Programm_Software_EVA S. 24]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25|01_Algorithmus_Programm_Software_EVA S. 25]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31|01_Algorithmus_Programm_Software_EVA S. 31]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=46|01_Algorithmus_Programm_Software_EVA S. 46]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=52|01_Algorithmus_Programm_Software_EVA S. 52]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=53|01_Algorithmus_Programm_Software_EVA S. 53]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01_Algorithmus_Programm_Software_EVA S. 59]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=67|01_Algorithmus_Programm_Software_EVA S. 67]]
 - ... plus 85 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -1222,14 +1222,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=4|01_Algorithmus_Programm_Software_EVA S. 4]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=8|01_Algorithmus_Programm_Software_EVA S. 8]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=12|01_Algorithmus_Programm_Software_EVA S. 12]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=14|01_Algorithmus_Programm_Software_EVA S. 14]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=4|01_Algorithmus_Programm_Software_EVA S. 4]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=8|01_Algorithmus_Programm_Software_EVA S. 8]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=12|01_Algorithmus_Programm_Software_EVA S. 12]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=14|01_Algorithmus_Programm_Software_EVA S. 14]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
 - ... plus 68 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -1276,14 +1276,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15|01_Algorithmus_Programm_Software_EVA S. 15]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=21|01_Algorithmus_Programm_Software_EVA S. 21]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01_Algorithmus_Programm_Software_EVA S. 23]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15|01_Algorithmus_Programm_Software_EVA S. 15]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=21|01_Algorithmus_Programm_Software_EVA S. 21]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01_Algorithmus_Programm_Software_EVA S. 23]]
 - ... plus 113 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -1330,14 +1330,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01_Algorithmus_Programm_Software_EVA S. 23]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27|01_Algorithmus_Programm_Software_EVA S. 27]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38|01_Algorithmus_Programm_Software_EVA S. 38]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=50|01_Algorithmus_Programm_Software_EVA S. 50]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=51|01_Algorithmus_Programm_Software_EVA S. 51]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=52|01_Algorithmus_Programm_Software_EVA S. 52]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01_Algorithmus_Programm_Software_EVA S. 23]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27|01_Algorithmus_Programm_Software_EVA S. 27]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38|01_Algorithmus_Programm_Software_EVA S. 38]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=50|01_Algorithmus_Programm_Software_EVA S. 50]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=51|01_Algorithmus_Programm_Software_EVA S. 51]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=52|01_Algorithmus_Programm_Software_EVA S. 52]]
 - ... plus 61 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -1384,13 +1384,13 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=3|01_Algorithmus_Programm_Software_EVA S. 3]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=28|01_Algorithmus_Programm_Software_EVA S. 28]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=30|01_Algorithmus_Programm_Software_EVA S. 30]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=36|01_Algorithmus_Programm_Software_EVA S. 36]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=48|01_Algorithmus_Programm_Software_EVA S. 48]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=3|01_Algorithmus_Programm_Software_EVA S. 3]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=28|01_Algorithmus_Programm_Software_EVA S. 28]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=30|01_Algorithmus_Programm_Software_EVA S. 30]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=36|01_Algorithmus_Programm_Software_EVA S. 36]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=48|01_Algorithmus_Programm_Software_EVA S. 48]]
 - [[99_Originale/Basics/JAVA/Java Basics.pdf#page=1|Java Basics S. 1]]
-- [[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=2|Stößl S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=2|Stößl S. 2]]
 
 **PDF-Seitenbereich:**
 - S. 1-3, 28, 30, 36, 48
@@ -1434,14 +1434,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
 - [[99_Originale/Basics/JAVA/Java Basics.pdf#page=3|Java Basics S. 3]]
 - [[99_Originale/Basics/JAVA/Java Basics.pdf#page=4|Java Basics S. 4]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1|02_Unternehmenswiki-4.Block S. 1]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11|02_Unternehmenswiki-4.Block S. 11]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12|02_Unternehmenswiki-4.Block S. 12]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15|02_Unternehmenswiki-4.Block S. 15]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22|02_Unternehmenswiki-4.Block S. 22]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1|02_Unternehmenswiki-4.Block S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11|02_Unternehmenswiki-4.Block S. 11]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12|02_Unternehmenswiki-4.Block S. 12]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15|02_Unternehmenswiki-4.Block S. 15]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22|02_Unternehmenswiki-4.Block S. 22]]
 - ... plus 16 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -1488,14 +1488,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=19|01_Algorithmus_Programm_Software_EVA S. 19]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=21|01_Algorithmus_Programm_Software_EVA S. 21]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=22|01_Algorithmus_Programm_Software_EVA S. 22]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=19|01_Algorithmus_Programm_Software_EVA S. 19]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=21|01_Algorithmus_Programm_Software_EVA S. 21]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=22|01_Algorithmus_Programm_Software_EVA S. 22]]
 - ... plus 32 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -1542,14 +1542,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=19|01_Algorithmus_Programm_Software_EVA S. 19]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=22|01_Algorithmus_Programm_Software_EVA S. 22]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01_Algorithmus_Programm_Software_EVA S. 23]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=24|01_Algorithmus_Programm_Software_EVA S. 24]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25|01_Algorithmus_Programm_Software_EVA S. 25]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=26|01_Algorithmus_Programm_Software_EVA S. 26]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27|01_Algorithmus_Programm_Software_EVA S. 27]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31|01_Algorithmus_Programm_Software_EVA S. 31]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=19|01_Algorithmus_Programm_Software_EVA S. 19]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=22|01_Algorithmus_Programm_Software_EVA S. 22]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01_Algorithmus_Programm_Software_EVA S. 23]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=24|01_Algorithmus_Programm_Software_EVA S. 24]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25|01_Algorithmus_Programm_Software_EVA S. 25]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=26|01_Algorithmus_Programm_Software_EVA S. 26]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27|01_Algorithmus_Programm_Software_EVA S. 27]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31|01_Algorithmus_Programm_Software_EVA S. 31]]
 - ... plus 28 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -1592,12 +1592,12 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01_Algorithmus_Programm_Software_EVA S. 44]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01_Algorithmus_Programm_Software_EVA S. 59]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=78|01_Algorithmus_Programm_Software_EVA S. 78]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=79|01_Algorithmus_Programm_Software_EVA S. 79]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=80|01_Algorithmus_Programm_Software_EVA S. 80]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=81|01_Algorithmus_Programm_Software_EVA S. 81]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01_Algorithmus_Programm_Software_EVA S. 44]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01_Algorithmus_Programm_Software_EVA S. 59]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=78|01_Algorithmus_Programm_Software_EVA S. 78]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=79|01_Algorithmus_Programm_Software_EVA S. 79]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=80|01_Algorithmus_Programm_Software_EVA S. 80]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=81|01_Algorithmus_Programm_Software_EVA S. 81]]
 
 **PDF-Seitenbereich:**
 - S. 44, 59, 78-81
@@ -1639,14 +1639,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=12|01_Algorithmus_Programm_Software_EVA S. 12]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15|01_Algorithmus_Programm_Software_EVA S. 15]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27|01_Algorithmus_Programm_Software_EVA S. 27]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31|01_Algorithmus_Programm_Software_EVA S. 31]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38|01_Algorithmus_Programm_Software_EVA S. 38]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=12|01_Algorithmus_Programm_Software_EVA S. 12]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15|01_Algorithmus_Programm_Software_EVA S. 15]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27|01_Algorithmus_Programm_Software_EVA S. 27]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31|01_Algorithmus_Programm_Software_EVA S. 31]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38|01_Algorithmus_Programm_Software_EVA S. 38]]
 - ... plus 130 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -1693,14 +1693,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Stol02Unternehmenswiki4Block
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1|02_Unternehmenswiki-4.Block S. 1]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3|02_Unternehmenswiki-4.Block S. 3]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4|02_Unternehmenswiki-4.Block S. 4]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5|02_Unternehmenswiki-4.Block S. 5]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6|02_Unternehmenswiki-4.Block S. 6]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7|02_Unternehmenswiki-4.Block S. 7]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=8|02_Unternehmenswiki-4.Block S. 8]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=9|02_Unternehmenswiki-4.Block S. 9]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1|02_Unternehmenswiki-4.Block S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3|02_Unternehmenswiki-4.Block S. 3]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4|02_Unternehmenswiki-4.Block S. 4]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5|02_Unternehmenswiki-4.Block S. 5]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6|02_Unternehmenswiki-4.Block S. 6]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7|02_Unternehmenswiki-4.Block S. 7]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=8|02_Unternehmenswiki-4.Block S. 8]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=9|02_Unternehmenswiki-4.Block S. 9]]
 - ... plus 46 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -1745,14 +1745,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=54|01_Algorithmus_Programm_Software_EVA S. 54]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01_Algorithmus_Programm_Software_EVA S. 59]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=72|01_Algorithmus_Programm_Software_EVA S. 72]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=73|01_Algorithmus_Programm_Software_EVA S. 73]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1|02_Unternehmenswiki-4.Block S. 1]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=2|02_Unternehmenswiki-4.Block S. 2]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3|02_Unternehmenswiki-4.Block S. 3]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=54|01_Algorithmus_Programm_Software_EVA S. 54]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01_Algorithmus_Programm_Software_EVA S. 59]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=72|01_Algorithmus_Programm_Software_EVA S. 72]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=73|01_Algorithmus_Programm_Software_EVA S. 73]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1|02_Unternehmenswiki-4.Block S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=2|02_Unternehmenswiki-4.Block S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3|02_Unternehmenswiki-4.Block S. 3]]
 - ... plus 149 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -1798,14 +1798,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=5|01_Algorithmus_Programm_Software_EVA S. 5]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=19|01_Algorithmus_Programm_Software_EVA S. 19]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=22|01_Algorithmus_Programm_Software_EVA S. 22]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=5|01_Algorithmus_Programm_Software_EVA S. 5]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=19|01_Algorithmus_Programm_Software_EVA S. 19]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=22|01_Algorithmus_Programm_Software_EVA S. 22]]
 - ... plus 131 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -1852,14 +1852,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: 01AlgorithmusProgrammSoftwareEVA
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15|01_Algorithmus_Programm_Software_EVA S. 15]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01_Algorithmus_Programm_Software_EVA S. 23]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25|01_Algorithmus_Programm_Software_EVA S. 25]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27|01_Algorithmus_Programm_Software_EVA S. 27]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31|01_Algorithmus_Programm_Software_EVA S. 31]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15|01_Algorithmus_Programm_Software_EVA S. 15]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01_Algorithmus_Programm_Software_EVA S. 23]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25|01_Algorithmus_Programm_Software_EVA S. 25]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27|01_Algorithmus_Programm_Software_EVA S. 27]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31|01_Algorithmus_Programm_Software_EVA S. 31]]
 - ... plus 110 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -2088,14 +2088,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Deutsch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=5|Deutsch S. 5]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=7|Deutsch S. 7]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10|Deutsch S. 10]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11|Deutsch S. 11]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=12|Deutsch S. 12]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=13|Deutsch S. 13]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=15|Deutsch S. 15]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=16|Deutsch S. 16]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=5|Deutsch S. 5]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=7|Deutsch S. 7]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10|Deutsch S. 10]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11|Deutsch S. 11]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=12|Deutsch S. 12]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=13|Deutsch S. 13]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=15|Deutsch S. 15]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=16|Deutsch S. 16]]
 - ... plus 20 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -2178,14 +2178,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=4|01_Algorithmus_Programm_Software_EVA S. 4]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=5|01_Algorithmus_Programm_Software_EVA S. 5]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=8|01_Algorithmus_Programm_Software_EVA S. 8]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=9|01_Algorithmus_Programm_Software_EVA S. 9]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=12|01_Algorithmus_Programm_Software_EVA S. 12]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=4|01_Algorithmus_Programm_Software_EVA S. 4]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=5|01_Algorithmus_Programm_Software_EVA S. 5]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=8|01_Algorithmus_Programm_Software_EVA S. 8]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=9|01_Algorithmus_Programm_Software_EVA S. 9]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=12|01_Algorithmus_Programm_Software_EVA S. 12]]
 - ... plus 9 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -2312,14 +2312,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=5|01_Algorithmus_Programm_Software_EVA S. 5]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=6|01_Algorithmus_Programm_Software_EVA S. 6]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=8|01_Algorithmus_Programm_Software_EVA S. 8]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=5|01_Algorithmus_Programm_Software_EVA S. 5]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=6|01_Algorithmus_Programm_Software_EVA S. 6]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=8|01_Algorithmus_Programm_Software_EVA S. 8]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
 - ... plus 24 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -2366,14 +2366,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=21|01_Algorithmus_Programm_Software_EVA S. 21]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25|01_Algorithmus_Programm_Software_EVA S. 25]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=21|01_Algorithmus_Programm_Software_EVA S. 21]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25|01_Algorithmus_Programm_Software_EVA S. 25]]
 - ... plus 40 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -2460,14 +2460,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=21|01_Algorithmus_Programm_Software_EVA S. 21]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=22|01_Algorithmus_Programm_Software_EVA S. 22]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33|01_Algorithmus_Programm_Software_EVA S. 33]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34|01_Algorithmus_Programm_Software_EVA S. 34]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=47|01_Algorithmus_Programm_Software_EVA S. 47]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=21|01_Algorithmus_Programm_Software_EVA S. 21]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=22|01_Algorithmus_Programm_Software_EVA S. 22]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33|01_Algorithmus_Programm_Software_EVA S. 33]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34|01_Algorithmus_Programm_Software_EVA S. 34]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=47|01_Algorithmus_Programm_Software_EVA S. 47]]
 - ... plus 18 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -2514,14 +2514,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15|01_Algorithmus_Programm_Software_EVA S. 15]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=21|01_Algorithmus_Programm_Software_EVA S. 21]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01_Algorithmus_Programm_Software_EVA S. 23]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15|01_Algorithmus_Programm_Software_EVA S. 15]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=21|01_Algorithmus_Programm_Software_EVA S. 21]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01_Algorithmus_Programm_Software_EVA S. 23]]
 - ... plus 24 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -2688,14 +2688,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=19|01_Algorithmus_Programm_Software_EVA S. 19]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=21|01_Algorithmus_Programm_Software_EVA S. 21]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=22|01_Algorithmus_Programm_Software_EVA S. 22]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01_Algorithmus_Programm_Software_EVA S. 23]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10|01_Algorithmus_Programm_Software_EVA S. 10]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=19|01_Algorithmus_Programm_Software_EVA S. 19]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=21|01_Algorithmus_Programm_Software_EVA S. 21]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=22|01_Algorithmus_Programm_Software_EVA S. 22]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01_Algorithmus_Programm_Software_EVA S. 23]]
 - ... plus 1 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -2781,14 +2781,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1|02_Unternehmenswiki-4.Block S. 1]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3|02_Unternehmenswiki-4.Block S. 3]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4|02_Unternehmenswiki-4.Block S. 4]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5|02_Unternehmenswiki-4.Block S. 5]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6|02_Unternehmenswiki-4.Block S. 6]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7|02_Unternehmenswiki-4.Block S. 7]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=8|02_Unternehmenswiki-4.Block S. 8]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=9|02_Unternehmenswiki-4.Block S. 9]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1|02_Unternehmenswiki-4.Block S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3|02_Unternehmenswiki-4.Block S. 3]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4|02_Unternehmenswiki-4.Block S. 4]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5|02_Unternehmenswiki-4.Block S. 5]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6|02_Unternehmenswiki-4.Block S. 6]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7|02_Unternehmenswiki-4.Block S. 7]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=8|02_Unternehmenswiki-4.Block S. 8]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=9|02_Unternehmenswiki-4.Block S. 9]]
 - ... plus 16 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -2835,14 +2835,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=5|01_Algorithmus_Programm_Software_EVA S. 5]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=19|01_Algorithmus_Programm_Software_EVA S. 19]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=22|01_Algorithmus_Programm_Software_EVA S. 22]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01_Algorithmus_Programm_Software_EVA S. 23]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=5|01_Algorithmus_Programm_Software_EVA S. 5]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=13|01_Algorithmus_Programm_Software_EVA S. 13]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17|01_Algorithmus_Programm_Software_EVA S. 17]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18|01_Algorithmus_Programm_Software_EVA S. 18]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=19|01_Algorithmus_Programm_Software_EVA S. 19]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01_Algorithmus_Programm_Software_EVA S. 20]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=22|01_Algorithmus_Programm_Software_EVA S. 22]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01_Algorithmus_Programm_Software_EVA S. 23]]
 - ... plus 31 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -2891,13 +2891,13 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Englisch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2|Englisch S. 2]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3|Englisch S. 3]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4|Englisch S. 4]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29|Englisch S. 29]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30|Englisch S. 30]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37|Englisch S. 37]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40|Englisch S. 40]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2|Englisch S. 2]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3|Englisch S. 3]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4|Englisch S. 4]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29|Englisch S. 29]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30|Englisch S. 30]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37|Englisch S. 37]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40|Englisch S. 40]]
 
 **PDF-Seitenbereich:**
 - S. 2-4, 29-30, 37, 40
@@ -2939,14 +2939,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Englisch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2|Englisch S. 2]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3|Englisch S. 3]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14|Englisch S. 14]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=17|Englisch S. 17]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18|Englisch S. 18]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20|Englisch S. 20]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29|Englisch S. 29]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36|Englisch S. 36]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2|Englisch S. 2]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3|Englisch S. 3]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14|Englisch S. 14]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=17|Englisch S. 17]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18|Englisch S. 18]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20|Englisch S. 20]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29|Englisch S. 29]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36|Englisch S. 36]]
 - ... plus 5 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -3171,14 +3171,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ITSicherheitAufgabe1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=1|Netzplan_251022_160116 S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=2|Netzplan_251022_160116 S. 2]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=3|Netzplan_251022_160116 S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=7|Netzplan_251022_160116 S. 7]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8|Skript_Wittmann S. 8]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11|Skript_Wittmann S. 11]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=1|Netzplan_251022_160116 S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=2|Netzplan_251022_160116 S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=3|Netzplan_251022_160116 S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=7|Netzplan_251022_160116 S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8|Skript_Wittmann S. 8]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11|Skript_Wittmann S. 11]]
 - ... plus 97 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -3225,14 +3225,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ITSicherheitFachbegriffe
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=23|Fachbegriffe S. 23]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=24|Fachbegriffe S. 24]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8|Skript_Wittmann S. 8]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=26|Skript_Wittmann S. 26]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=34|Skript_Wittmann S. 34]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=36|Skript_Wittmann S. 36]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=37|Skript_Wittmann S. 37]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=23|Fachbegriffe S. 23]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=24|Fachbegriffe S. 24]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8|Skript_Wittmann S. 8]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=26|Skript_Wittmann S. 26]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=34|Skript_Wittmann S. 34]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=36|Skript_Wittmann S. 36]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=37|Skript_Wittmann S. 37]]
 - ... plus 9 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -3276,7 +3276,7 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BegriffeComputerweltGitterratsel
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1|Begriffe Computerwelt - Gitterrätsel S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1|Begriffe Computerwelt - Gitterrätsel S. 1]]
 
 **PDF-Seitenbereich:**
 - S. 1
@@ -3321,14 +3321,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: StolAufgabenblattmoglicheLosung
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1|Aufgabenblatt - mögliche Lösung S. 1]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=2|Aufgabenblatt - mögliche Lösung S. 2]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=3|Aufgabenblatt - mögliche Lösung S. 3]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=4|Aufgabenblatt - mögliche Lösung S. 4]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=13|Skript S. 13]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=14|Skript S. 14]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=15|Skript S. 15]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=16|Skript S. 16]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1|Aufgabenblatt - mögliche Lösung S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=2|Aufgabenblatt - mögliche Lösung S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=3|Aufgabenblatt - mögliche Lösung S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=4|Aufgabenblatt - mögliche Lösung S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=13|Skript S. 13]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=14|Skript S. 14]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=15|Skript S. 15]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=16|Skript S. 16]]
 - ... plus 18 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -3373,14 +3373,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: StolSkript
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=5|Skript S. 5]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=13|Skript S. 13]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=15|Skript S. 15]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=16|Skript S. 16]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=18|Skript S. 18]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=19|Skript S. 19]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=20|Skript S. 20]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=25|Skript S. 25]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=5|Skript S. 5]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=13|Skript S. 13]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=15|Skript S. 15]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=16|Skript S. 16]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=18|Skript S. 18]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=19|Skript S. 19]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=20|Skript S. 20]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=25|Skript S. 25]]
 - ... plus 3 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -3423,14 +3423,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: StolSkript
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=7|Skript S. 7]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=9|Skript S. 9]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=10|Skript S. 10]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=11|Skript S. 11]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=12|Skript S. 12]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=13|Skript S. 13]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=14|Skript S. 14]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=15|Skript S. 15]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=7|Skript S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=9|Skript S. 9]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=10|Skript S. 10]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=11|Skript S. 11]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=12|Skript S. 12]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=13|Skript S. 13]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=14|Skript S. 14]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=15|Skript S. 15]]
 - ... plus 9 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -3473,14 +3473,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BegriffeComputerweltGitterratsel
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1|Begriffe Computerwelt - Gitterrätsel S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=2|Fachbegriffe S. 2]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=27|Fachbegriffe S. 27]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=31|Fachbegriffe S. 31]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=1|Netzplan_251022_160116 S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=3|Netzplan_251022_160116 S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=7|Netzplan_251022_160116 S. 7]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1|Begriffe Computerwelt - Gitterrätsel S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=2|Fachbegriffe S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=27|Fachbegriffe S. 27]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=31|Fachbegriffe S. 31]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=1|Netzplan_251022_160116 S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=3|Netzplan_251022_160116 S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=7|Netzplan_251022_160116 S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
 - ... plus 34 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -3527,14 +3527,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ITSicherheitFachbegriffe
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=10|Fachbegriffe S. 10]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=26|Fachbegriffe S. 26]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=10|Skript_Wittmann S. 10]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11|Skript_Wittmann S. 11]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17|Skript_Wittmann S. 17]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=24|Skript_Wittmann S. 24]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=29|Skript_Wittmann S. 29]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=10|Fachbegriffe S. 10]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=26|Fachbegriffe S. 26]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=10|Skript_Wittmann S. 10]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11|Skript_Wittmann S. 11]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17|Skript_Wittmann S. 17]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=24|Skript_Wittmann S. 24]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=29|Skript_Wittmann S. 29]]
 - ... plus 8 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -3578,14 +3578,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ItElektroWild01ABLadungQ
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01_AB_Ladung Q S. 1]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=4|01_AB_Ladung Q S. 4]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=11|01_AB_Ladung Q S. 11]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=12|01_AB_Ladung Q S. 12]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=13|01_AB_Ladung Q S. 13]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=14|01_AB_Ladung Q S. 14]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=17|01_AB_Ladung Q S. 17]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=19|01_AB_Ladung Q S. 19]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01_AB_Ladung Q S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=4|01_AB_Ladung Q S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=11|01_AB_Ladung Q S. 11]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=12|01_AB_Ladung Q S. 12]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=13|01_AB_Ladung Q S. 13]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=14|01_AB_Ladung Q S. 14]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=17|01_AB_Ladung Q S. 17]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=19|01_AB_Ladung Q S. 19]]
 - ... plus 7 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -3628,14 +3628,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ItElektroWild01ABLadungQ
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01_AB_Ladung Q S. 1]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2|01_AB_Ladung Q S. 2]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=8|01_AB_Ladung Q S. 8]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=18|01_AB_Ladung Q S. 18]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=22|01_AB_Ladung Q S. 22]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=23|01_AB_Ladung Q S. 23]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=24|01_AB_Ladung Q S. 24]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=25|01_AB_Ladung Q S. 25]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01_AB_Ladung Q S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2|01_AB_Ladung Q S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=8|01_AB_Ladung Q S. 8]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=18|01_AB_Ladung Q S. 18]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=22|01_AB_Ladung Q S. 22]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=23|01_AB_Ladung Q S. 23]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=24|01_AB_Ladung Q S. 24]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=25|01_AB_Ladung Q S. 25]]
 - ... plus 43 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -3679,14 +3679,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ItElektroWild01ABLadungQ
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2|01_AB_Ladung Q S. 2]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=3|01_AB_Ladung Q S. 3]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=5|01_AB_Ladung Q S. 5]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6|01_AB_Ladung Q S. 6]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=8|01_AB_Ladung Q S. 8]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=9|01_AB_Ladung Q S. 9]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=10|01_AB_Ladung Q S. 10]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=12|01_AB_Ladung Q S. 12]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2|01_AB_Ladung Q S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=3|01_AB_Ladung Q S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=5|01_AB_Ladung Q S. 5]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6|01_AB_Ladung Q S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=8|01_AB_Ladung Q S. 8]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=9|01_AB_Ladung Q S. 9]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=10|01_AB_Ladung Q S. 10]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=12|01_AB_Ladung Q S. 12]]
 - ... plus 63 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -3730,14 +3730,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ItElektroWild01ABLadungQ
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01_AB_Ladung Q S. 1]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2|01_AB_Ladung Q S. 2]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=3|01_AB_Ladung Q S. 3]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=4|01_AB_Ladung Q S. 4]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=5|01_AB_Ladung Q S. 5]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6|01_AB_Ladung Q S. 6]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=7|01_AB_Ladung Q S. 7]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=8|01_AB_Ladung Q S. 8]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01_AB_Ladung Q S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2|01_AB_Ladung Q S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=3|01_AB_Ladung Q S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=4|01_AB_Ladung Q S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=5|01_AB_Ladung Q S. 5]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6|01_AB_Ladung Q S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=7|01_AB_Ladung Q S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=8|01_AB_Ladung Q S. 8]]
 - ... plus 90 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -3781,12 +3781,12 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: StolAufgabenblattmoglicheLosung
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1|Aufgabenblatt - mögliche Lösung S. 1]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=4|Aufgabenblatt - mögliche Lösung S. 4]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=17|Skript S. 17]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=18|Skript S. 18]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=19|Skript S. 19]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=1|Zusammenfassung _260120_080521 S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1|Aufgabenblatt - mögliche Lösung S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=4|Aufgabenblatt - mögliche Lösung S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=17|Skript S. 17]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=18|Skript S. 18]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=19|Skript S. 19]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=1|Zusammenfassung _260120_080521 S. 1]]
 
 **PDF-Seitenbereich:**
 - S. 1, 4, 17-19
@@ -3830,14 +3830,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ITSicherheitAufgabe1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=3|Aufgabe 1 S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1 (1).pdf#page=1|Aufgabe 1 (1) S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=25|Fachbegriffe S. 25]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf#page=1|Lernziele S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=1|Sicherheitsmanagement S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=10|Sicherheitsmanagement S. 10]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=4|Skript_Wittmann S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3|Aufgabe 1 S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1 (1).pdf#page=1|Aufgabe 1 (1) S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=25|Fachbegriffe S. 25]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf#page=1|Lernziele S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=1|Sicherheitsmanagement S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=10|Sicherheitsmanagement S. 10]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=4|Skript_Wittmann S. 4]]
 - ... plus 3 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -3884,14 +3884,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: OtmaNetzwerkt
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2|Netzwerkt S. 2]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=3|Netzwerkt S. 3]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7|Netzwerkt S. 7]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8|Netzwerkt S. 8]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=9|Netzwerkt S. 9]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10|Netzwerkt S. 10]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=11|Netzwerkt S. 11]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=12|Netzwerkt S. 12]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2|Netzwerkt S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=3|Netzwerkt S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7|Netzwerkt S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8|Netzwerkt S. 8]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9|Netzwerkt S. 9]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10|Netzwerkt S. 10]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=11|Netzwerkt S. 11]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=12|Netzwerkt S. 12]]
 
 **PDF-Seitenbereich:**
 - S. 2-3, 7-12
@@ -3933,14 +3933,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ITSicherheitAufgabe1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=1|Aufgabe 1 S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=3|Aufgabe 1 S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=4|Aufgabe 1 S. 4]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1 (1).pdf#page=1|Aufgabe 1 (1) S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=1|Fachbegriffe S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=2|Fachbegriffe S. 2]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=3|Fachbegriffe S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=1|Aufgabe 1 S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3|Aufgabe 1 S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=4|Aufgabe 1 S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1 (1).pdf#page=1|Aufgabe 1 (1) S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=1|Fachbegriffe S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=2|Fachbegriffe S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=3|Fachbegriffe S. 3]]
 - ... plus 123 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -3987,14 +3987,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ITSicherheitFachbegriffe
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=3|Fachbegriffe S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=4|Fachbegriffe S. 4]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=12|Fachbegriffe S. 12]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=13|Fachbegriffe S. 13]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=14|Fachbegriffe S. 14]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=15|Fachbegriffe S. 15]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=16|Fachbegriffe S. 16]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=17|Fachbegriffe S. 17]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=3|Fachbegriffe S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=4|Fachbegriffe S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=12|Fachbegriffe S. 12]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=13|Fachbegriffe S. 13]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=14|Fachbegriffe S. 14]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=15|Fachbegriffe S. 15]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=16|Fachbegriffe S. 16]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=17|Fachbegriffe S. 17]]
 - ... plus 31 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -4039,14 +4039,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ITSicherheitAufgabe1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=3|Aufgabe 1 S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=4|Aufgabe 1 S. 4]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=1|Fachbegriffe S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=2|Fachbegriffe S. 2]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=3|Fachbegriffe S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=4|Fachbegriffe S. 4]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=5|Fachbegriffe S. 5]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=6|Fachbegriffe S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3|Aufgabe 1 S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=4|Aufgabe 1 S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=1|Fachbegriffe S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=2|Fachbegriffe S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=3|Fachbegriffe S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=4|Fachbegriffe S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=5|Fachbegriffe S. 5]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=6|Fachbegriffe S. 6]]
 - ... plus 25 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -4093,14 +4093,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ITSicherheitAufgabe1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=1|Aufgabe 1 S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=3|Aufgabe 1 S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=4|Aufgabe 1 S. 4]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=33|Fachbegriffe S. 33]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=34|Fachbegriffe S. 34]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf#page=1|Lernziele S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=1|Aufgabe 1 S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3|Aufgabe 1 S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=4|Aufgabe 1 S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=33|Fachbegriffe S. 33]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=34|Fachbegriffe S. 34]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf#page=1|Lernziele S. 1]]
 - ... plus 39 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -4147,14 +4147,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ItElektroWild01ABLadungQ
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=18|01_AB_Ladung Q S. 18]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=22|01_AB_Ladung Q S. 22]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=23|01_AB_Ladung Q S. 23]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=24|01_AB_Ladung Q S. 24]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=25|01_AB_Ladung Q S. 25]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=28|01_AB_Ladung Q S. 28]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=29|01_AB_Ladung Q S. 29]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=30|01_AB_Ladung Q S. 30]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=18|01_AB_Ladung Q S. 18]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=22|01_AB_Ladung Q S. 22]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=23|01_AB_Ladung Q S. 23]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=24|01_AB_Ladung Q S. 24]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=25|01_AB_Ladung Q S. 25]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=28|01_AB_Ladung Q S. 28]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=29|01_AB_Ladung Q S. 29]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=30|01_AB_Ladung Q S. 30]]
 - ... plus 14 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -4198,14 +4198,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: StolSkript
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=1|Skript S. 1]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=3|Skript S. 3]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=4|Skript S. 4]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=5|Skript S. 5]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=6|Skript S. 6]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=7|Skript S. 7]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=8|Skript S. 8]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=9|Skript S. 9]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=1|Skript S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=3|Skript S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=4|Skript S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=5|Skript S. 5]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=6|Skript S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=7|Skript S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=8|Skript S. 8]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=9|Skript S. 9]]
 - ... plus 5 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -4249,10 +4249,10 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: OtmaNetzwerkt
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=1|Netzwerkt S. 1]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=4|Netzwerkt S. 4]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=5|Netzwerkt S. 5]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=6|Netzwerkt S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=1|Netzwerkt S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=4|Netzwerkt S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=5|Netzwerkt S. 5]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=6|Netzwerkt S. 6]]
 
 **PDF-Seitenbereich:**
 - S. 1, 4-6
@@ -4294,14 +4294,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ITSicherheitSkriptWittmann
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1|Skript_Wittmann S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=9|Skript_Wittmann S. 9]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17|Skript_Wittmann S. 17]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=18|Skript_Wittmann S. 18]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=19|Skript_Wittmann S. 19]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=20|Skript_Wittmann S. 20]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=21|Skript_Wittmann S. 21]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=22|Skript_Wittmann S. 22]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1|Skript_Wittmann S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=9|Skript_Wittmann S. 9]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17|Skript_Wittmann S. 17]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=18|Skript_Wittmann S. 18]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=19|Skript_Wittmann S. 19]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=20|Skript_Wittmann S. 20]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=21|Skript_Wittmann S. 21]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=22|Skript_Wittmann S. 22]]
 - ... plus 10 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -4344,14 +4344,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ITSicherheitFachbegriffe
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=6|Fachbegriffe S. 6]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf#page=1|Lernziele S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=2|Sicherheitsmanagement S. 2]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=3|Sicherheitsmanagement S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=6|Sicherheitsmanagement S. 6]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=14|Sicherheitsmanagement S. 14]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=15|Sicherheitsmanagement S. 15]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1|Skript_Wittmann S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=6|Fachbegriffe S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf#page=1|Lernziele S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=2|Sicherheitsmanagement S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=3|Sicherheitsmanagement S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=6|Sicherheitsmanagement S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=14|Sicherheitsmanagement S. 14]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=15|Sicherheitsmanagement S. 15]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1|Skript_Wittmann S. 1]]
 - ... plus 36 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -4397,14 +4397,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ITSicherheitFachbegriffe
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=9|Fachbegriffe S. 9]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=20|Fachbegriffe S. 20]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=3|Netzplan_251022_160116 S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=4|Netzplan_251022_160116 S. 4]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=7|Netzplan_251022_160116 S. 7]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=1|Sicherheitsmanagement S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=3|Sicherheitsmanagement S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=6|Sicherheitsmanagement S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=9|Fachbegriffe S. 9]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=20|Fachbegriffe S. 20]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=3|Netzplan_251022_160116 S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=4|Netzplan_251022_160116 S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=7|Netzplan_251022_160116 S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=1|Sicherheitsmanagement S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=3|Sicherheitsmanagement S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=6|Sicherheitsmanagement S. 6]]
 - ... plus 47 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -4451,12 +4451,12 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ITSicherheitFachbegriffe
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=8|Fachbegriffe S. 8]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=9|Fachbegriffe S. 9]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1|Skript_Wittmann S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=57|Skript_Wittmann S. 57]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62|Skript_Wittmann S. 62]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=8|Fachbegriffe S. 8]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=9|Fachbegriffe S. 9]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1|Skript_Wittmann S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57|Skript_Wittmann S. 57]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62|Skript_Wittmann S. 62]]
 
 **PDF-Seitenbereich:**
 - S. 1, 3, 8-9, 57, 62
@@ -4499,14 +4499,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ITSicherheitAufgabe1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=8|Fachbegriffe S. 8]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=9|Fachbegriffe S. 9]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf#page=1|Lernziele S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=4|Netzplan_251022_160116 S. 4]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=7|Netzplan_251022_160116 S. 7]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=6|Sicherheitsmanagement S. 6]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=7|Sicherheitsmanagement S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=8|Fachbegriffe S. 8]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=9|Fachbegriffe S. 9]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf#page=1|Lernziele S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=4|Netzplan_251022_160116 S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=7|Netzplan_251022_160116 S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=6|Sicherheitsmanagement S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=7|Sicherheitsmanagement S. 7]]
 - ... plus 5 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -4553,14 +4553,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ItElektroWild01ABLadungQ
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6|01_AB_Ladung Q S. 6]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=14|01_AB_Ladung Q S. 14]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=15|01_AB_Ladung Q S. 15]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=16|01_AB_Ladung Q S. 16]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=17|01_AB_Ladung Q S. 17]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=18|01_AB_Ladung Q S. 18]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=19|01_AB_Ladung Q S. 19]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=20|01_AB_Ladung Q S. 20]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6|01_AB_Ladung Q S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=14|01_AB_Ladung Q S. 14]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=15|01_AB_Ladung Q S. 15]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=16|01_AB_Ladung Q S. 16]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=17|01_AB_Ladung Q S. 17]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=18|01_AB_Ladung Q S. 18]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=19|01_AB_Ladung Q S. 19]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=20|01_AB_Ladung Q S. 20]]
 - ... plus 10 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -4683,14 +4683,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01_Algorithmus_Programm_Software_EVA S. 44]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=50|01_Algorithmus_Programm_Software_EVA S. 50]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=54|01_Algorithmus_Programm_Software_EVA S. 54]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=55|01_Algorithmus_Programm_Software_EVA S. 55]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01_Algorithmus_Programm_Software_EVA S. 59]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82|01_Algorithmus_Programm_Software_EVA S. 82]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=84|01_Algorithmus_Programm_Software_EVA S. 84]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01_Algorithmus_Programm_Software_EVA S. 44]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=50|01_Algorithmus_Programm_Software_EVA S. 50]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=54|01_Algorithmus_Programm_Software_EVA S. 54]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=55|01_Algorithmus_Programm_Software_EVA S. 55]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01_Algorithmus_Programm_Software_EVA S. 59]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82|01_Algorithmus_Programm_Software_EVA S. 82]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=84|01_Algorithmus_Programm_Software_EVA S. 84]]
 - ... plus 31 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -4819,14 +4819,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=8|Fachbegriffe S. 8]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=9|Fachbegriffe S. 9]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=25|Fachbegriffe S. 25]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=28|Fachbegriffe S. 28]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=29|Fachbegriffe S. 29]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=31|Fachbegriffe S. 31]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=32|Fachbegriffe S. 32]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=1|Netzplan_251022_160116 S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=8|Fachbegriffe S. 8]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=9|Fachbegriffe S. 9]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=25|Fachbegriffe S. 25]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=28|Fachbegriffe S. 28]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=29|Fachbegriffe S. 29]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=31|Fachbegriffe S. 31]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=32|Fachbegriffe S. 32]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=1|Netzplan_251022_160116 S. 1]]
 - ... plus 14 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -4913,14 +4913,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=3|Aufgabe 1 S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=4|Aufgabe 1 S. 4]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=3|Fachbegriffe S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=4|Fachbegriffe S. 4]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=7|Fachbegriffe S. 7]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf#page=1|Lernziele S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=5|Skript_Wittmann S. 5]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=6|Skript_Wittmann S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3|Aufgabe 1 S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=4|Aufgabe 1 S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=3|Fachbegriffe S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=4|Fachbegriffe S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=7|Fachbegriffe S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf#page=1|Lernziele S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=5|Skript_Wittmann S. 5]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=6|Skript_Wittmann S. 6]]
 - ... plus 6 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -5009,14 +5009,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11|02_Unternehmenswiki-4.Block S. 11]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12|02_Unternehmenswiki-4.Block S. 12]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=32|02_Unternehmenswiki-4.Block S. 32]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=35|02_Unternehmenswiki-4.Block S. 35]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=36|02_Unternehmenswiki-4.Block S. 36]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=39|02_Unternehmenswiki-4.Block S. 39]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=40|02_Unternehmenswiki-4.Block S. 40]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11|02_Unternehmenswiki-5.Block S. 11]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11|02_Unternehmenswiki-4.Block S. 11]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12|02_Unternehmenswiki-4.Block S. 12]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=32|02_Unternehmenswiki-4.Block S. 32]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=35|02_Unternehmenswiki-4.Block S. 35]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=36|02_Unternehmenswiki-4.Block S. 36]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=39|02_Unternehmenswiki-4.Block S. 39]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=40|02_Unternehmenswiki-4.Block S. 40]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11|02_Unternehmenswiki-5.Block S. 11]]
 - ... plus 43 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -5063,14 +5063,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1|Skript_Wittmann S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=9|Skript_Wittmann S. 9]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17|Skript_Wittmann S. 17]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=18|Skript_Wittmann S. 18]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=19|Skript_Wittmann S. 19]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=20|Skript_Wittmann S. 20]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=21|Skript_Wittmann S. 21]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=22|Skript_Wittmann S. 22]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1|Skript_Wittmann S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=9|Skript_Wittmann S. 9]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17|Skript_Wittmann S. 17]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=18|Skript_Wittmann S. 18]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=19|Skript_Wittmann S. 19]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=20|Skript_Wittmann S. 20]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=21|Skript_Wittmann S. 21]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=22|Skript_Wittmann S. 22]]
 
 **PDF-Seitenbereich:**
 - S. 1, 9, 17-22
@@ -5114,12 +5114,12 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=8|Fachbegriffe S. 8]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=9|Fachbegriffe S. 9]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1|Skript_Wittmann S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=57|Skript_Wittmann S. 57]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62|Skript_Wittmann S. 62]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=8|Fachbegriffe S. 8]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=9|Fachbegriffe S. 9]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1|Skript_Wittmann S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57|Skript_Wittmann S. 57]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62|Skript_Wittmann S. 62]]
 
 **PDF-Seitenbereich:**
 - S. 1, 3, 8-9, 57, 62
@@ -5287,9 +5287,9 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: GescanntesDokument160925um112141
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=2|Gescanntes Dokument 16.09.25 um 11.21.41 S. 2]]
-- [[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3|Gescanntes Dokument 16.09.25 um 11.21.41 S. 3]]
-- [[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=4|Gescanntes Dokument 16.09.25 um 11.21.41 S. 4]]
+- [[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=2|Gescanntes Dokument 16.09.25 um 11.21.41 S. 2]]
+- [[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3|Gescanntes Dokument 16.09.25 um 11.21.41 S. 3]]
+- [[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=4|Gescanntes Dokument 16.09.25 um 11.21.41 S. 4]]
 
 **PDF-Seitenbereich:**
 - S. 2-4
@@ -5331,8 +5331,8 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: GescanntesDokument160925um112141
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3|Gescanntes Dokument 16.09.25 um 11.21.41 S. 3]]
-- [[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=4|Gescanntes Dokument 16.09.25 um 11.21.41 S. 4]]
+- [[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3|Gescanntes Dokument 16.09.25 um 11.21.41 S. 3]]
+- [[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=4|Gescanntes Dokument 16.09.25 um 11.21.41 S. 4]]
 
 **PDF-Seitenbereich:**
 - S. 3-4
@@ -6128,14 +6128,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47|BGWP S. 47]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2|Bgwp schredl S. 2]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=4|Bgwp schredl S. 4]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=12|Bgwp schredl S. 12]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=13|Bgwp schredl S. 13]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=14|Bgwp schredl S. 14]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=15|Bgwp schredl S. 15]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=16|Bgwp schredl S. 16]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47|BGWP S. 47]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2|Bgwp schredl S. 2]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=4|Bgwp schredl S. 4]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=12|Bgwp schredl S. 12]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=13|Bgwp schredl S. 13]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=14|Bgwp schredl S. 14]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=15|Bgwp schredl S. 15]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=16|Bgwp schredl S. 16]]
 - ... plus 8 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -6180,14 +6180,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1|BGWP S. 1]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=2|BGWP S. 2]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6|BGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=9|BGWP S. 9]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=10|BGWP S. 10]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=12|BGWP S. 12]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=14|BGWP S. 14]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=15|BGWP S. 15]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1|BGWP S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=2|BGWP S. 2]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6|BGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=9|BGWP S. 9]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=10|BGWP S. 10]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=12|BGWP S. 12]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=14|BGWP S. 14]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=15|BGWP S. 15]]
 - ... plus 40 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -6232,14 +6232,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1|BGWP S. 1]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=2|BGWP S. 2]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3|BGWP S. 3]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4|BGWP S. 4]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=5|BGWP S. 5]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6|BGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7|BGWP S. 7]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8|BGWP S. 8]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1|BGWP S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=2|BGWP S. 2]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3|BGWP S. 3]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4|BGWP S. 4]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=5|BGWP S. 5]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6|BGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7|BGWP S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8|BGWP S. 8]]
 - ... plus 28 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -6283,14 +6283,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1|BGWP S. 1]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=2|BGWP S. 2]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3|BGWP S. 3]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4|BGWP S. 4]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=5|BGWP S. 5]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6|BGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7|BGWP S. 7]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8|BGWP S. 8]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1|BGWP S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=2|BGWP S. 2]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3|BGWP S. 3]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4|BGWP S. 4]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=5|BGWP S. 5]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6|BGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7|BGWP S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8|BGWP S. 8]]
 - ... plus 32 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -6335,14 +6335,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1|BGWP S. 1]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6|BGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=17|BGWP S. 17]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=26|BGWP S. 26]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=29|BGWP S. 29]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=30|BGWP S. 30]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=31|BGWP S. 31]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=32|BGWP S. 32]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1|BGWP S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6|BGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=17|BGWP S. 17]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=26|BGWP S. 26]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=29|BGWP S. 29]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=30|BGWP S. 30]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=31|BGWP S. 31]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=32|BGWP S. 32]]
 - ... plus 10 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -6386,14 +6386,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1|BGWP S. 1]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=17|BGWP S. 17]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=26|BGWP S. 26]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=28|BGWP S. 28]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=29|BGWP S. 29]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=30|BGWP S. 30]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=31|BGWP S. 31]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=32|BGWP S. 32]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1|BGWP S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=17|BGWP S. 17]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=26|BGWP S. 26]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=28|BGWP S. 28]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=29|BGWP S. 29]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=30|BGWP S. 30]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=31|BGWP S. 31]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=32|BGWP S. 32]]
 - ... plus 13 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -6438,14 +6438,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=22|BGWP S. 22]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=23|BGWP S. 23]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=24|BGWP S. 24]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=25|BGWP S. 25]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=26|BGWP S. 26]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=27|BGWP S. 27]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=28|BGWP S. 28]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=29|BGWP S. 29]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=22|BGWP S. 22]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=23|BGWP S. 23]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=24|BGWP S. 24]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=25|BGWP S. 25]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=26|BGWP S. 26]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=27|BGWP S. 27]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=28|BGWP S. 28]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=29|BGWP S. 29]]
 - ... plus 9 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -6489,14 +6489,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1|BGWP S. 1]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7|BGWP S. 7]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=12|BGWP S. 12]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=17|BGWP S. 17]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=18|BGWP S. 18]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=22|BGWP S. 22]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47|BGWP S. 47]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=48|BGWP S. 48]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1|BGWP S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7|BGWP S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=12|BGWP S. 12]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=17|BGWP S. 17]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=18|BGWP S. 18]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=22|BGWP S. 22]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47|BGWP S. 47]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=48|BGWP S. 48]]
 - ... plus 16 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -6541,14 +6541,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Bgwpschredl
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3|Bgwp schredl S. 3]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=7|Bgwp schredl S. 7]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=8|Bgwp schredl S. 8]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=9|Bgwp schredl S. 9]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=10|Bgwp schredl S. 10]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=11|Bgwp schredl S. 11]]
-- [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=2|ZusammenfassungBGWP S. 2]]
-- [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3|Bgwp schredl S. 3]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=7|Bgwp schredl S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=8|Bgwp schredl S. 8]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=9|Bgwp schredl S. 9]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=10|Bgwp schredl S. 10]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=11|Bgwp schredl S. 11]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=2|ZusammenfassungBGWP S. 2]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
 
 **PDF-Seitenbereich:**
 - S. 2-3, 7-11
@@ -6591,14 +6591,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3|BGWP S. 3]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4|BGWP S. 4]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=10|BGWP S. 10]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=19|BGWP S. 19]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=22|BGWP S. 22]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=23|BGWP S. 23]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=32|BGWP S. 32]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=33|BGWP S. 33]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3|BGWP S. 3]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4|BGWP S. 4]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=10|BGWP S. 10]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=19|BGWP S. 19]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=22|BGWP S. 22]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=23|BGWP S. 23]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=32|BGWP S. 32]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=33|BGWP S. 33]]
 - ... plus 49 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -6643,14 +6643,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1|BGWP S. 1]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3|BGWP S. 3]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4|BGWP S. 4]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6|BGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7|BGWP S. 7]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8|BGWP S. 8]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=10|BGWP S. 10]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=11|BGWP S. 11]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1|BGWP S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3|BGWP S. 3]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4|BGWP S. 4]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6|BGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7|BGWP S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8|BGWP S. 8]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=10|BGWP S. 10]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=11|BGWP S. 11]]
 - ... plus 24 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -6695,14 +6695,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1|BGWP S. 1]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3|BGWP S. 3]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6|BGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7|BGWP S. 7]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8|BGWP S. 8]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=9|BGWP S. 9]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=10|BGWP S. 10]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=11|BGWP S. 11]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1|BGWP S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3|BGWP S. 3]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6|BGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7|BGWP S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8|BGWP S. 8]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=9|BGWP S. 9]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=10|BGWP S. 10]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=11|BGWP S. 11]]
 - ... plus 61 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -6747,14 +6747,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=9|BGWP S. 9]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=19|BGWP S. 19]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=43|BGWP S. 43]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=1|Bgwp schredl S. 1]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2|Bgwp schredl S. 2]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=7|Bgwp schredl S. 7]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=8|Bgwp schredl S. 8]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=12|Bgwp schredl S. 12]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=9|BGWP S. 9]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=19|BGWP S. 19]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=43|BGWP S. 43]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=1|Bgwp schredl S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2|Bgwp schredl S. 2]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=7|Bgwp schredl S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=8|Bgwp schredl S. 8]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=12|Bgwp schredl S. 12]]
 - ... plus 22 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -6799,14 +6799,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4|BGWP S. 4]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6|BGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7|BGWP S. 7]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=10|BGWP S. 10]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=25|BGWP S. 25]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=33|BGWP S. 33]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=35|BGWP S. 35]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=40|BGWP S. 40]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4|BGWP S. 4]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6|BGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7|BGWP S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=10|BGWP S. 10]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=25|BGWP S. 25]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=33|BGWP S. 33]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=35|BGWP S. 35]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=40|BGWP S. 40]]
 - ... plus 12 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -6850,14 +6850,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1|BGWP S. 1]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=2|BGWP S. 2]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3|BGWP S. 3]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4|BGWP S. 4]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=5|BGWP S. 5]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6|BGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7|BGWP S. 7]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8|BGWP S. 8]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1|BGWP S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=2|BGWP S. 2]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3|BGWP S. 3]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4|BGWP S. 4]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=5|BGWP S. 5]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6|BGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7|BGWP S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8|BGWP S. 8]]
 - ... plus 70 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -6902,14 +6902,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=14|BGWP S. 14]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=19|BGWP S. 19]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=25|BGWP S. 25]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=38|BGWP S. 38]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=39|BGWP S. 39]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=40|BGWP S. 40]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=41|BGWP S. 41]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=42|BGWP S. 42]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=14|BGWP S. 14]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=19|BGWP S. 19]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=25|BGWP S. 25]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=38|BGWP S. 38]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=39|BGWP S. 39]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=40|BGWP S. 40]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=41|BGWP S. 41]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=42|BGWP S. 42]]
 - ... plus 14 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -6954,14 +6954,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4|BGWP S. 4]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=5|BGWP S. 5]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6|BGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7|BGWP S. 7]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8|BGWP S. 8]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=9|BGWP S. 9]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=10|BGWP S. 10]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=11|BGWP S. 11]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4|BGWP S. 4]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=5|BGWP S. 5]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6|BGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7|BGWP S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8|BGWP S. 8]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=9|BGWP S. 9]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=10|BGWP S. 10]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=11|BGWP S. 11]]
 - ... plus 10 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -7006,14 +7006,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4|BGWP S. 4]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=5|BGWP S. 5]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6|BGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7|BGWP S. 7]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8|BGWP S. 8]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=10|BGWP S. 10]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=11|BGWP S. 11]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=12|BGWP S. 12]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4|BGWP S. 4]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=5|BGWP S. 5]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6|BGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7|BGWP S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8|BGWP S. 8]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=10|BGWP S. 10]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=11|BGWP S. 11]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=12|BGWP S. 12]]
 - ... plus 20 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -7058,11 +7058,11 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: BGWP
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=13|BGWP S. 13]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=14|BGWP S. 14]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=15|BGWP S. 15]]
-- [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6|ZusammenfassungBGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=13|BGWP S. 13]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=14|BGWP S. 14]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=15|BGWP S. 15]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6|ZusammenfassungBGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
 
 **PDF-Seitenbereich:**
 - S. 6-7, 13-15
@@ -7105,14 +7105,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Deutsch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=5|Deutsch S. 5]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6|Deutsch S. 6]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=7|Deutsch S. 7]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8|Deutsch S. 8]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=9|Deutsch S. 9]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10|Deutsch S. 10]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11|Deutsch S. 11]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=20|Deutsch S. 20]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=5|Deutsch S. 5]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6|Deutsch S. 6]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=7|Deutsch S. 7]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8|Deutsch S. 8]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9|Deutsch S. 9]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10|Deutsch S. 10]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11|Deutsch S. 11]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=20|Deutsch S. 20]]
 - ... plus 2 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -7155,14 +7155,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Deutsch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1|Deutsch S. 1]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=2|Deutsch S. 2]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=3|Deutsch S. 3]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4|Deutsch S. 4]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=5|Deutsch S. 5]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6|Deutsch S. 6]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=7|Deutsch S. 7]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8|Deutsch S. 8]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1|Deutsch S. 1]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=2|Deutsch S. 2]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=3|Deutsch S. 3]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4|Deutsch S. 4]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=5|Deutsch S. 5]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6|Deutsch S. 6]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=7|Deutsch S. 7]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8|Deutsch S. 8]]
 - ... plus 23 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -7205,10 +7205,10 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Deutsch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6|Deutsch S. 6]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=7|Deutsch S. 7]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8|Deutsch S. 8]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=9|Deutsch S. 9]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6|Deutsch S. 6]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=7|Deutsch S. 7]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8|Deutsch S. 8]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9|Deutsch S. 9]]
 
 **PDF-Seitenbereich:**
 - S. 6-9
@@ -7250,10 +7250,10 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Englisch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24|Englisch S. 24]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=25|Englisch S. 25]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29|Englisch S. 29]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=35|Englisch S. 35]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24|Englisch S. 24]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=25|Englisch S. 25]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29|Englisch S. 29]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35|Englisch S. 35]]
 
 **PDF-Seitenbereich:**
 - S. 24-25, 29, 35
@@ -7295,14 +7295,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Pug
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=2|Pug S. 2]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=3|Pug S. 3]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=4|Pug S. 4]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=5|Pug S. 5]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=9|Pug S. 9]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=13|Pug S. 13]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=17|Pug S. 17]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=18|Pug S. 18]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=2|Pug S. 2]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=3|Pug S. 3]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4|Pug S. 4]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5|Pug S. 5]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9|Pug S. 9]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=13|Pug S. 13]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17|Pug S. 17]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18|Pug S. 18]]
 - ... plus 8 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -7345,14 +7345,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Pug
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=5|Pug S. 5]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=6|Pug S. 6]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=7|Pug S. 7]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=8|Pug S. 8]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=9|Pug S. 9]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=12|Pug S. 12]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=13|Pug S. 13]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=20|Pug S. 20]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5|Pug S. 5]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6|Pug S. 6]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7|Pug S. 7]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8|Pug S. 8]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9|Pug S. 9]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=12|Pug S. 12]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=13|Pug S. 13]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20|Pug S. 20]]
 - ... plus 10 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -7395,14 +7395,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Pug
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=4|Pug S. 4]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=6|Pug S. 6]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=9|Pug S. 9]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=10|Pug S. 10]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=11|Pug S. 11]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=12|Pug S. 12]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=17|Pug S. 17]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=28|Pug S. 28]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4|Pug S. 4]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6|Pug S. 6]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9|Pug S. 9]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=10|Pug S. 10]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=11|Pug S. 11]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=12|Pug S. 12]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17|Pug S. 17]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=28|Pug S. 28]]
 - ... plus 1 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -7445,12 +7445,12 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Pug
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=19|Pug S. 19]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=23|Pug S. 23]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=28|Pug S. 28]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=29|Pug S. 29]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=30|Pug S. 30]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=31|Pug S. 31]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19|Pug S. 19]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23|Pug S. 23]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=28|Pug S. 28]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29|Pug S. 29]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=30|Pug S. 30]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=31|Pug S. 31]]
 
 **PDF-Seitenbereich:**
 - S. 19, 23, 28-31
@@ -7612,14 +7612,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=36|Deutsch S. 36]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=42|Deutsch S. 42]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=43|Deutsch S. 43]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=2|Pug S. 2]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=3|Pug S. 3]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=4|Pug S. 4]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=5|Pug S. 5]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36|Deutsch S. 36]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=42|Deutsch S. 42]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=43|Deutsch S. 43]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=2|Pug S. 2]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=3|Pug S. 3]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4|Pug S. 4]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5|Pug S. 5]]
 - ... plus 4 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -7746,14 +7746,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1|BGWP S. 1]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=2|BGWP S. 2]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3|BGWP S. 3]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4|BGWP S. 4]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=5|BGWP S. 5]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6|BGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7|BGWP S. 7]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8|BGWP S. 8]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1|BGWP S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=2|BGWP S. 2]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3|BGWP S. 3]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4|BGWP S. 4]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=5|BGWP S. 5]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6|BGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7|BGWP S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8|BGWP S. 8]]
 - ... plus 32 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -7800,14 +7800,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1|BGWP S. 1]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=2|BGWP S. 2]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3|BGWP S. 3]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4|BGWP S. 4]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=5|BGWP S. 5]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6|BGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7|BGWP S. 7]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8|BGWP S. 8]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1|BGWP S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=2|BGWP S. 2]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3|BGWP S. 3]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4|BGWP S. 4]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=5|BGWP S. 5]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6|BGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7|BGWP S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8|BGWP S. 8]]
 - ... plus 23 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -7894,14 +7894,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1|BGWP S. 1]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6|BGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=17|BGWP S. 17]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=26|BGWP S. 26]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=29|BGWP S. 29]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=30|BGWP S. 30]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=31|BGWP S. 31]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=32|BGWP S. 32]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1|BGWP S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6|BGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=17|BGWP S. 17]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=26|BGWP S. 26]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=29|BGWP S. 29]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=30|BGWP S. 30]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=31|BGWP S. 31]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=32|BGWP S. 32]]
 - ... plus 17 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -8276,14 +8276,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=3|Pug S. 3]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=4|Pug S. 4]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=5|Pug S. 5]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=6|Pug S. 6]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=7|Pug S. 7]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=8|Pug S. 8]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=9|Pug S. 9]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=10|Pug S. 10]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=3|Pug S. 3]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4|Pug S. 4]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5|Pug S. 5]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6|Pug S. 6]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7|Pug S. 7]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8|Pug S. 8]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9|Pug S. 9]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=10|Pug S. 10]]
 - ... plus 2 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -8652,14 +8652,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Deutsch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6|Deutsch S. 6]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8|Deutsch S. 8]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10|Deutsch S. 10]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11|Deutsch S. 11]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=12|Deutsch S. 12]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=13|Deutsch S. 13]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=18|Deutsch S. 18]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=19|Deutsch S. 19]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6|Deutsch S. 6]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8|Deutsch S. 8]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10|Deutsch S. 10]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11|Deutsch S. 11]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=12|Deutsch S. 12]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=13|Deutsch S. 13]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=18|Deutsch S. 18]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19|Deutsch S. 19]]
 - ... plus 20 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -8745,10 +8745,10 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Regelsammlung
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8|Regelsammlung S. 8]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8|Regelsammlung S. 8]]
 
 **PDF-Seitenbereich:**
 - S. 4-6, 8
@@ -8927,9 +8927,9 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Regelsammlung
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8|Regelsammlung S. 8]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9|Regelsammlung S. 9]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10|Regelsammlung S. 10]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8|Regelsammlung S. 8]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9|Regelsammlung S. 9]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10|Regelsammlung S. 10]]
 
 **PDF-Seitenbereich:**
 - S. 8-10
@@ -8971,9 +8971,9 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Regelsammlung
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7|Regelsammlung S. 7]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7|Regelsammlung S. 7]]
 
 **PDF-Seitenbereich:**
 - S. 4, 6-7
@@ -9015,14 +9015,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Deutsch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1|Deutsch S. 1]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4|Deutsch S. 4]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=9|Deutsch S. 9]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=35|Deutsch S. 35]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=36|Deutsch S. 36]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37|Deutsch S. 37]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38|Deutsch S. 38]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39|Deutsch S. 39]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1|Deutsch S. 1]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4|Deutsch S. 4]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9|Deutsch S. 9]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=35|Deutsch S. 35]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36|Deutsch S. 36]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37|Deutsch S. 37]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38|Deutsch S. 38]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39|Deutsch S. 39]]
 - ... plus 7 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -9065,14 +9065,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Regelsammlung
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=1|Regelsammlung S. 1]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=2|Regelsammlung S. 2]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3|Regelsammlung S. 3]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7|Regelsammlung S. 7]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8|Regelsammlung S. 8]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1|Regelsammlung S. 1]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=2|Regelsammlung S. 2]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3|Regelsammlung S. 3]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7|Regelsammlung S. 7]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8|Regelsammlung S. 8]]
 - ... plus 4 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -9116,14 +9116,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Regelsammlung
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=1|Regelsammlung S. 1]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=2|Regelsammlung S. 2]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3|Regelsammlung S. 3]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7|Regelsammlung S. 7]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8|Regelsammlung S. 8]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1|Regelsammlung S. 1]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=2|Regelsammlung S. 2]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3|Regelsammlung S. 3]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7|Regelsammlung S. 7]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8|Regelsammlung S. 8]]
 - ... plus 4 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -9167,12 +9167,12 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Regelsammlung
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=1|Regelsammlung S. 1]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=2|Regelsammlung S. 2]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
-- [[99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=1|Station 1 S. 1]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1|Regelsammlung S. 1]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=2|Regelsammlung S. 2]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=1|Station 1 S. 1]]
 
 **PDF-Seitenbereich:**
 - S. 1-2, 4-6
@@ -9260,14 +9260,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2|Englisch S. 2]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3|Englisch S. 3]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4|Englisch S. 4]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=7|Englisch S. 7]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=8|Englisch S. 8]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30|Englisch S. 30]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36|Englisch S. 36]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=38|Englisch S. 38]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2|Englisch S. 2]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3|Englisch S. 3]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4|Englisch S. 4]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=7|Englisch S. 7]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=8|Englisch S. 8]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30|Englisch S. 30]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36|Englisch S. 36]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=38|Englisch S. 38]]
 
 **PDF-Seitenbereich:**
 - S. 2-4, 7-8, 30, 36, 38
@@ -9353,14 +9353,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=1|Regelsammlung S. 1]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=2|Regelsammlung S. 2]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3|Regelsammlung S. 3]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7|Regelsammlung S. 7]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8|Regelsammlung S. 8]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1|Regelsammlung S. 1]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=2|Regelsammlung S. 2]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3|Regelsammlung S. 3]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7|Regelsammlung S. 7]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8|Regelsammlung S. 8]]
 - ... plus 2 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -9409,12 +9409,12 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Englisch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5|Englisch S. 5]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37|Englisch S. 37]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=46|Englisch S. 46]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=47|Englisch S. 47]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=48|Englisch S. 48]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=49|Englisch S. 49]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5|Englisch S. 5]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37|Englisch S. 37]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=46|Englisch S. 46]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=47|Englisch S. 47]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=48|Englisch S. 48]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=49|Englisch S. 49]]
 
 **PDF-Seitenbereich:**
 - S. 5, 37, 46-49
@@ -9456,14 +9456,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Englisch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4|Englisch S. 4]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=8|Englisch S. 8]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=17|Englisch S. 17]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18|Englisch S. 18]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20|Englisch S. 20]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24|Englisch S. 24]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=25|Englisch S. 25]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=28|Englisch S. 28]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4|Englisch S. 4]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=8|Englisch S. 8]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=17|Englisch S. 17]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18|Englisch S. 18]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20|Englisch S. 20]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24|Englisch S. 24]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=25|Englisch S. 25]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=28|Englisch S. 28]]
 - ... plus 8 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -9506,14 +9506,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Englisch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2|Englisch S. 2]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4|Englisch S. 4]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5|Englisch S. 5]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=6|Englisch S. 6]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=8|Englisch S. 8]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=17|Englisch S. 17]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18|Englisch S. 18]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=19|Englisch S. 19]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2|Englisch S. 2]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4|Englisch S. 4]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5|Englisch S. 5]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=6|Englisch S. 6]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=8|Englisch S. 8]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=17|Englisch S. 17]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18|Englisch S. 18]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=19|Englisch S. 19]]
 - ... plus 5 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -9556,14 +9556,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Englisch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2|Englisch S. 2]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3|Englisch S. 3]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=10|Englisch S. 10]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=11|Englisch S. 11]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=12|Englisch S. 12]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=13|Englisch S. 13]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14|Englisch S. 14]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=15|Englisch S. 15]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2|Englisch S. 2]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3|Englisch S. 3]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=10|Englisch S. 10]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=11|Englisch S. 11]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=12|Englisch S. 12]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=13|Englisch S. 13]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14|Englisch S. 14]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=15|Englisch S. 15]]
 - ... plus 3 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -9743,14 +9743,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Englisch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2|Englisch S. 2]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3|Englisch S. 3]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4|Englisch S. 4]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=7|Englisch S. 7]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=8|Englisch S. 8]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30|Englisch S. 30]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36|Englisch S. 36]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=38|Englisch S. 38]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2|Englisch S. 2]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3|Englisch S. 3]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4|Englisch S. 4]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=7|Englisch S. 7]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=8|Englisch S. 8]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30|Englisch S. 30]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36|Englisch S. 36]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=38|Englisch S. 38]]
 - ... plus 2 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -9793,14 +9793,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Englisch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3|Englisch S. 3]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=6|Englisch S. 6]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=7|Englisch S. 7]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=10|Englisch S. 10]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=11|Englisch S. 11]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=12|Englisch S. 12]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=13|Englisch S. 13]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14|Englisch S. 14]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3|Englisch S. 3]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=6|Englisch S. 6]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=7|Englisch S. 7]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=10|Englisch S. 10]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=11|Englisch S. 11]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=12|Englisch S. 12]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=13|Englisch S. 13]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14|Englisch S. 14]]
 - ... plus 11 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -9843,14 +9843,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Englisch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=1|Englisch S. 1]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2|Englisch S. 2]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3|Englisch S. 3]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4|Englisch S. 4]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5|Englisch S. 5]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=6|Englisch S. 6]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=7|Englisch S. 7]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=8|Englisch S. 8]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=1|Englisch S. 1]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2|Englisch S. 2]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3|Englisch S. 3]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4|Englisch S. 4]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5|Englisch S. 5]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=6|Englisch S. 6]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=7|Englisch S. 7]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=8|Englisch S. 8]]
 - ... plus 9 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -9893,14 +9893,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Englisch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14|Englisch S. 14]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18|Englisch S. 18]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=28|Englisch S. 28]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=31|Englisch S. 31]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=32|Englisch S. 32]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=33|Englisch S. 33]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=34|Englisch S. 34]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=35|Englisch S. 35]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14|Englisch S. 14]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18|Englisch S. 18]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=28|Englisch S. 28]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=31|Englisch S. 31]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=32|Englisch S. 32]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=33|Englisch S. 33]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=34|Englisch S. 34]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35|Englisch S. 35]]
 - ... plus 1 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -9943,14 +9943,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Englisch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2|Englisch S. 2]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3|Englisch S. 3]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=10|Englisch S. 10]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14|Englisch S. 14]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18|Englisch S. 18]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20|Englisch S. 20]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=21|Englisch S. 21]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24|Englisch S. 24]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2|Englisch S. 2]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3|Englisch S. 3]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=10|Englisch S. 10]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14|Englisch S. 14]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18|Englisch S. 18]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20|Englisch S. 20]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=21|Englisch S. 21]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24|Englisch S. 24]]
 - ... plus 10 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -9993,14 +9993,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Englisch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3|Englisch S. 3]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18|Englisch S. 18]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=27|Englisch S. 27]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36|Englisch S. 36]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=38|Englisch S. 38]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=41|Englisch S. 41]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=46|Englisch S. 46]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=47|Englisch S. 47]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3|Englisch S. 3]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18|Englisch S. 18]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=27|Englisch S. 27]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36|Englisch S. 36]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=38|Englisch S. 38]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=41|Englisch S. 41]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=46|Englisch S. 46]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=47|Englisch S. 47]]
 - ... plus 2 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -10043,9 +10043,9 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Englisch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=23|Englisch S. 23]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=26|Englisch S. 26]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=45|Englisch S. 45]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=23|Englisch S. 23]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=26|Englisch S. 26]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=45|Englisch S. 45]]
 
 **PDF-Seitenbereich:**
 - S. 23, 26, 45
@@ -10087,14 +10087,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Englisch
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=1|Englisch S. 1]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2|Englisch S. 2]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3|Englisch S. 3]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4|Englisch S. 4]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5|Englisch S. 5]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=6|Englisch S. 6]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=7|Englisch S. 7]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=8|Englisch S. 8]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=1|Englisch S. 1]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2|Englisch S. 2]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3|Englisch S. 3]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4|Englisch S. 4]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5|Englisch S. 5]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=6|Englisch S. 6]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=7|Englisch S. 7]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=8|Englisch S. 8]]
 - ... plus 6 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -10264,10 +10264,10 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Pug
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=8|Pug S. 8]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=9|Pug S. 9]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=21|Pug S. 21]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=33|Pug S. 33]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8|Pug S. 8]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9|Pug S. 9]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=21|Pug S. 21]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33|Pug S. 33]]
 
 **PDF-Seitenbereich:**
 - S. 8-9, 21, 33
@@ -10309,14 +10309,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Pug
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=2|Pug S. 2]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=3|Pug S. 3]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=4|Pug S. 4]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=5|Pug S. 5]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=6|Pug S. 6]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=7|Pug S. 7]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=8|Pug S. 8]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=9|Pug S. 9]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=2|Pug S. 2]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=3|Pug S. 3]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4|Pug S. 4]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5|Pug S. 5]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6|Pug S. 6]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7|Pug S. 7]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8|Pug S. 8]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9|Pug S. 9]]
 - ... plus 10 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -10359,13 +10359,13 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Pug
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=20|Pug S. 20]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=23|Pug S. 23]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=29|Pug S. 29]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=32|Pug S. 32]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=33|Pug S. 33]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=34|Pug S. 34]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=35|Pug S. 35]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20|Pug S. 20]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23|Pug S. 23]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29|Pug S. 29]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32|Pug S. 32]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33|Pug S. 33]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=34|Pug S. 34]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=35|Pug S. 35]]
 
 **PDF-Seitenbereich:**
 - S. 20, 23, 29, 32-35
@@ -10407,8 +10407,8 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Pug
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=16|Pug S. 16]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=20|Pug S. 20]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=16|Pug S. 16]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20|Pug S. 20]]
 
 **PDF-Seitenbereich:**
 - S. 16, 20
@@ -10450,12 +10450,12 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Pug
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=5|Pug S. 5]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=6|Pug S. 6]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=7|Pug S. 7]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=8|Pug S. 8]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=9|Pug S. 9]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=18|Pug S. 18]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5|Pug S. 5]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6|Pug S. 6]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7|Pug S. 7]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8|Pug S. 8]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9|Pug S. 9]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18|Pug S. 18]]
 
 **PDF-Seitenbereich:**
 - S. 5-9, 18
@@ -10497,14 +10497,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Pug
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=4|Pug S. 4]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=5|Pug S. 5]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=14|Pug S. 14]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=15|Pug S. 15]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=17|Pug S. 17]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=18|Pug S. 18]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=19|Pug S. 19]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=20|Pug S. 20]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4|Pug S. 4]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5|Pug S. 5]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=14|Pug S. 14]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=15|Pug S. 15]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17|Pug S. 17]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18|Pug S. 18]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19|Pug S. 19]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20|Pug S. 20]]
 - ... plus 9 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -10547,13 +10547,13 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Pug
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=6|Pug S. 6]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=13|Pug S. 13]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=14|Pug S. 14]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=15|Pug S. 15]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=20|Pug S. 20]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=26|Pug S. 26]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=29|Pug S. 29]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6|Pug S. 6]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=13|Pug S. 13]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=14|Pug S. 14]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=15|Pug S. 15]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20|Pug S. 20]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26|Pug S. 26]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29|Pug S. 29]]
 
 **PDF-Seitenbereich:**
 - S. 6, 13-15, 20, 26, 29
@@ -10732,14 +10732,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Pug
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=2|Pug S. 2]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=3|Pug S. 3]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=4|Pug S. 4]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=5|Pug S. 5]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=6|Pug S. 6]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=7|Pug S. 7]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=8|Pug S. 8]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=9|Pug S. 9]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=2|Pug S. 2]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=3|Pug S. 3]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4|Pug S. 4]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5|Pug S. 5]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6|Pug S. 6]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7|Pug S. 7]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8|Pug S. 8]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9|Pug S. 9]]
 - ... plus 21 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -10782,7 +10782,7 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Pug
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=1|Pug S. 1]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=1|Pug S. 1]]
 
 **PDF-Seitenbereich:**
 - S. 1
@@ -10824,12 +10824,12 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Pug
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=17|Pug S. 17]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=20|Pug S. 20]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=26|Pug S. 26]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=32|Pug S. 32]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=33|Pug S. 33]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=35|Pug S. 35]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17|Pug S. 17]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20|Pug S. 20]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26|Pug S. 26]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32|Pug S. 32]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33|Pug S. 33]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=35|Pug S. 35]]
 
 **PDF-Seitenbereich:**
 - S. 17, 20, 26, 32-33, 35
@@ -10916,10 +10916,10 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ReliNotizen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2|Reli Notizen S. 2]]
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=3|Reli Notizen S. 3]]
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=4|Reli Notizen S. 4]]
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=5|Reli Notizen S. 5]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2|Reli Notizen S. 2]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=3|Reli Notizen S. 3]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=4|Reli Notizen S. 4]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=5|Reli Notizen S. 5]]
 
 **PDF-Seitenbereich:**
 - S. 2-5
@@ -10961,8 +10961,8 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ReliNotizen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=3|Reli Notizen S. 3]]
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=4|Reli Notizen S. 4]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=3|Reli Notizen S. 3]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=4|Reli Notizen S. 4]]
 
 **PDF-Seitenbereich:**
 - S. 3-4
@@ -11004,7 +11004,7 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ReliNotizen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=6|Reli Notizen S. 6]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6|Reli Notizen S. 6]]
 
 **PDF-Seitenbereich:**
 - S. 6
@@ -11046,7 +11046,7 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ReliNotizen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=5|Reli Notizen S. 5]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=5|Reli Notizen S. 5]]
 
 **PDF-Seitenbereich:**
 - S. 5
@@ -11088,7 +11088,7 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ReliNotizen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=3|Reli Notizen S. 3]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=3|Reli Notizen S. 3]]
 
 **PDF-Seitenbereich:**
 - S. 3
@@ -11308,10 +11308,10 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ReliNotizen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2|Reli Notizen S. 2]]
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=3|Reli Notizen S. 3]]
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=4|Reli Notizen S. 4]]
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=6|Reli Notizen S. 6]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2|Reli Notizen S. 2]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=3|Reli Notizen S. 3]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=4|Reli Notizen S. 4]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6|Reli Notizen S. 6]]
 
 **PDF-Seitenbereich:**
 - S. 2-4, 6
@@ -11353,7 +11353,7 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ReliNotizen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=1|Reli Notizen S. 1]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=1|Reli Notizen S. 1]]
 
 **PDF-Seitenbereich:**
 - S. 1
@@ -11395,7 +11395,7 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: ReliNotizen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2|Reli Notizen S. 2]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2|Reli Notizen S. 2]]
 
 **PDF-Seitenbereich:**
 - S. 2
@@ -11482,9 +11482,9 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2|Reli Notizen S. 2]]
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=3|Reli Notizen S. 3]]
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=4|Reli Notizen S. 4]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2|Reli Notizen S. 2]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=3|Reli Notizen S. 3]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=4|Reli Notizen S. 4]]
 
 **PDF-Seitenbereich:**
 - S. 2-4
@@ -11651,8 +11651,8 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Untitled
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=2|Untitled S. 2]]
-- [[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=4|Untitled S. 4]]
+- [[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=2|Untitled S. 2]]
+- [[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=4|Untitled S. 4]]
 
 **PDF-Seitenbereich:**
 - S. 2, 4
@@ -12281,9 +12281,9 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Untitled
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=2|Untitled S. 2]]
-- [[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=3|Untitled S. 3]]
-- [[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=4|Untitled S. 4]]
+- [[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=2|Untitled S. 2]]
+- [[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=3|Untitled S. 3]]
+- [[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=4|Untitled S. 4]]
 
 **PDF-Seitenbereich:**
 - S. 2-4
@@ -12327,14 +12327,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf|01_Algorithmus_Programm_Software_EVA]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=3|01_Algorithmus_Programm_Software_EVA S. 3]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=4|01_Algorithmus_Programm_Software_EVA S. 4]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=5|01_Algorithmus_Programm_Software_EVA S. 5]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=6|01_Algorithmus_Programm_Software_EVA S. 6]]
-- [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf|01_Algorithmus_Programm_Software_EVA]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01_Algorithmus_Programm_Software_EVA S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=2|01_Algorithmus_Programm_Software_EVA S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=3|01_Algorithmus_Programm_Software_EVA S. 3]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=4|01_Algorithmus_Programm_Software_EVA S. 4]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=5|01_Algorithmus_Programm_Software_EVA S. 5]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=6|01_Algorithmus_Programm_Software_EVA S. 6]]
+- [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01_Algorithmus_Programm_Software_EVA S. 7]]
 - ... plus 80 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -12431,14 +12431,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf|02_Unternehmenswiki-4.Block]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1|02_Unternehmenswiki-4.Block S. 1]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=2|02_Unternehmenswiki-4.Block S. 2]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3|02_Unternehmenswiki-4.Block S. 3]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4|02_Unternehmenswiki-4.Block S. 4]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5|02_Unternehmenswiki-4.Block S. 5]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6|02_Unternehmenswiki-4.Block S. 6]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7|02_Unternehmenswiki-4.Block S. 7]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf|02_Unternehmenswiki-4.Block]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1|02_Unternehmenswiki-4.Block S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=2|02_Unternehmenswiki-4.Block S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3|02_Unternehmenswiki-4.Block S. 3]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4|02_Unternehmenswiki-4.Block S. 4]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5|02_Unternehmenswiki-4.Block S. 5]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6|02_Unternehmenswiki-4.Block S. 6]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7|02_Unternehmenswiki-4.Block S. 7]]
 - ... plus 41 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -12485,14 +12485,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf|02_Unternehmenswiki-5.Block]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1|02_Unternehmenswiki-5.Block S. 1]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=2|02_Unternehmenswiki-5.Block S. 2]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=3|02_Unternehmenswiki-5.Block S. 3]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=4|02_Unternehmenswiki-5.Block S. 4]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=5|02_Unternehmenswiki-5.Block S. 5]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=6|02_Unternehmenswiki-5.Block S. 6]]
-- [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=7|02_Unternehmenswiki-5.Block S. 7]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf|02_Unternehmenswiki-5.Block]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1|02_Unternehmenswiki-5.Block S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=2|02_Unternehmenswiki-5.Block S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=3|02_Unternehmenswiki-5.Block S. 3]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=4|02_Unternehmenswiki-5.Block S. 4]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=5|02_Unternehmenswiki-5.Block S. 5]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=6|02_Unternehmenswiki-5.Block S. 6]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=7|02_Unternehmenswiki-5.Block S. 7]]
 - ... plus 49 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -12539,11 +12539,11 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf|Lernzettel_260210_092824]]
-- [[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=1|Lernzettel_260210_092824 S. 1]]
-- [[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=2|Lernzettel_260210_092824 S. 2]]
-- [[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=3|Lernzettel_260210_092824 S. 3]]
-- [[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=4|Lernzettel_260210_092824 S. 4]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf|Lernzettel_260210_092824]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=1|Lernzettel_260210_092824 S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=2|Lernzettel_260210_092824 S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=3|Lernzettel_260210_092824 S. 3]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=4|Lernzettel_260210_092824 S. 4]]
 
 **PDF-Seitenbereich:**
 - S. 1-4
@@ -12589,10 +12589,10 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf|Lernzettel _AEuP_Stößl]]
-- [[99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf#page=1|Lernzettel _AEuP_Stößl S. 1]]
-- [[99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf#page=2|Lernzettel _AEuP_Stößl S. 2]]
-- [[99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf#page=3|Lernzettel _AEuP_Stößl S. 3]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf|Lernzettel _AEuP_Stößl]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf#page=1|Lernzettel _AEuP_Stößl S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf#page=2|Lernzettel _AEuP_Stößl S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf#page=3|Lernzettel _AEuP_Stößl S. 3]]
 
 **PDF-Seitenbereich:**
 - S. 1-3
@@ -12638,14 +12638,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf|Stößl]]
-- [[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=1|Stößl S. 1]]
-- [[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=2|Stößl S. 2]]
-- [[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=3|Stößl S. 3]]
-- [[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=4|Stößl S. 4]]
-- [[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=5|Stößl S. 5]]
-- [[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=6|Stößl S. 6]]
-- [[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=7|Stößl S. 7]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf|Stößl]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=1|Stößl S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=2|Stößl S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=3|Stößl S. 3]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=4|Stößl S. 4]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=5|Stößl S. 5]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=6|Stößl S. 6]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=7|Stößl S. 7]]
 - ... plus 1 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -12692,14 +12692,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf|Wiki]]
-- [[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=1|Wiki S. 1]]
-- [[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=2|Wiki S. 2]]
-- [[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=3|Wiki S. 3]]
-- [[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=4|Wiki S. 4]]
-- [[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=5|Wiki S. 5]]
-- [[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=6|Wiki S. 6]]
-- [[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=7|Wiki S. 7]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf|Wiki]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=1|Wiki S. 1]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=2|Wiki S. 2]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=3|Wiki S. 3]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=4|Wiki S. 4]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=5|Wiki S. 5]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=6|Wiki S. 6]]
+- [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=7|Wiki S. 7]]
 - ... plus 41 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -12746,11 +12746,11 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf|Gescanntes Dokument 16.09.25 um 11.21.41]]
-- [[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=1|Gescanntes Dokument 16.09.25 um 11.21.41 S. 1]]
-- [[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=2|Gescanntes Dokument 16.09.25 um 11.21.41 S. 2]]
-- [[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3|Gescanntes Dokument 16.09.25 um 11.21.41 S. 3]]
-- [[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=4|Gescanntes Dokument 16.09.25 um 11.21.41 S. 4]]
+- [[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf|Gescanntes Dokument 16.09.25 um 11.21.41]]
+- [[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=1|Gescanntes Dokument 16.09.25 um 11.21.41 S. 1]]
+- [[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=2|Gescanntes Dokument 16.09.25 um 11.21.41 S. 2]]
+- [[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3|Gescanntes Dokument 16.09.25 um 11.21.41 S. 3]]
+- [[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=4|Gescanntes Dokument 16.09.25 um 11.21.41 S. 4]]
 
 **PDF-Seitenbereich:**
 - S. 1-4
@@ -12794,14 +12794,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf|BGWP]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1|BGWP S. 1]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=2|BGWP S. 2]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3|BGWP S. 3]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4|BGWP S. 4]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=5|BGWP S. 5]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6|BGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7|BGWP S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf|BGWP]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1|BGWP S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=2|BGWP S. 2]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3|BGWP S. 3]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4|BGWP S. 4]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=5|BGWP S. 5]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6|BGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7|BGWP S. 7]]
 - ... plus 47 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -12848,14 +12848,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf|Bgwp schredl]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=1|Bgwp schredl S. 1]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2|Bgwp schredl S. 2]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3|Bgwp schredl S. 3]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=4|Bgwp schredl S. 4]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=5|Bgwp schredl S. 5]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=6|Bgwp schredl S. 6]]
-- [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=7|Bgwp schredl S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf|Bgwp schredl]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=1|Bgwp schredl S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2|Bgwp schredl S. 2]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3|Bgwp schredl S. 3]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=4|Bgwp schredl S. 4]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=5|Bgwp schredl S. 5]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=6|Bgwp schredl S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=7|Bgwp schredl S. 7]]
 - ... plus 37 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -12902,14 +12902,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf|ZusammenfassungBGWP]]
-- [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=1|ZusammenfassungBGWP S. 1]]
-- [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=2|ZusammenfassungBGWP S. 2]]
-- [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=3|ZusammenfassungBGWP S. 3]]
-- [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=4|ZusammenfassungBGWP S. 4]]
-- [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=5|ZusammenfassungBGWP S. 5]]
-- [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6|ZusammenfassungBGWP S. 6]]
-- [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf|ZusammenfassungBGWP]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=1|ZusammenfassungBGWP S. 1]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=2|ZusammenfassungBGWP S. 2]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=3|ZusammenfassungBGWP S. 3]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=4|ZusammenfassungBGWP S. 4]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=5|ZusammenfassungBGWP S. 5]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6|ZusammenfassungBGWP S. 6]]
+- [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
 
 **PDF-Seitenbereich:**
 - S. 1-7
@@ -12955,14 +12955,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf|Deutsch]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1|Deutsch S. 1]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=2|Deutsch S. 2]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=3|Deutsch S. 3]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4|Deutsch S. 4]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=5|Deutsch S. 5]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6|Deutsch S. 6]]
-- [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=7|Deutsch S. 7]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf|Deutsch]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1|Deutsch S. 1]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=2|Deutsch S. 2]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=3|Deutsch S. 3]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4|Deutsch S. 4]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=5|Deutsch S. 5]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6|Deutsch S. 6]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=7|Deutsch S. 7]]
 - ... plus 39 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -13009,14 +13009,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf|Regelsammlung]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=1|Regelsammlung S. 1]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=2|Regelsammlung S. 2]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3|Regelsammlung S. 3]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
-- [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7|Regelsammlung S. 7]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf|Regelsammlung]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1|Regelsammlung S. 1]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=2|Regelsammlung S. 2]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3|Regelsammlung S. 3]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4|Regelsammlung S. 4]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5|Regelsammlung S. 5]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6|Regelsammlung S. 6]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7|Regelsammlung S. 7]]
 - ... plus 3 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -13063,9 +13063,9 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Deutsch/Station 1.pdf|Station 1]]
-- [[99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=1|Station 1 S. 1]]
-- [[99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=2|Station 1 S. 2]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf|Station 1]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=1|Station 1 S. 1]]
+- [[99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=2|Station 1 S. 2]]
 
 **PDF-Seitenbereich:**
 - S. 1-2
@@ -13110,14 +13110,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf|Englisch]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=1|Englisch S. 1]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2|Englisch S. 2]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3|Englisch S. 3]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4|Englisch S. 4]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5|Englisch S. 5]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=6|Englisch S. 6]]
-- [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=7|Englisch S. 7]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf|Englisch]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=1|Englisch S. 1]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2|Englisch S. 2]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3|Englisch S. 3]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4|Englisch S. 4]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5|Englisch S. 5]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=6|Englisch S. 6]]
+- [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=7|Englisch S. 7]]
 - ... plus 42 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -13164,8 +13164,8 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf|Begriffe Computerwelt - Gitterrätsel]]
-- [[99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1|Begriffe Computerwelt - Gitterrätsel S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf|Begriffe Computerwelt - Gitterrätsel]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1|Begriffe Computerwelt - Gitterrätsel S. 1]]
 
 **PDF-Seitenbereich:**
 - S. 1
@@ -13208,14 +13208,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf|01_AB_Ladung Q]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01_AB_Ladung Q S. 1]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2|01_AB_Ladung Q S. 2]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=3|01_AB_Ladung Q S. 3]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=4|01_AB_Ladung Q S. 4]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=5|01_AB_Ladung Q S. 5]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6|01_AB_Ladung Q S. 6]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=7|01_AB_Ladung Q S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf|01_AB_Ladung Q]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01_AB_Ladung Q S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2|01_AB_Ladung Q S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=3|01_AB_Ladung Q S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=4|01_AB_Ladung Q S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=5|01_AB_Ladung Q S. 5]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6|01_AB_Ladung Q S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=7|01_AB_Ladung Q S. 7]]
 - ... plus 83 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -13262,14 +13262,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf|Zusammenfassung]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=1|Zusammenfassung S. 1]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=2|Zusammenfassung S. 2]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=3|Zusammenfassung S. 3]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=4|Zusammenfassung S. 4]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=5|Zusammenfassung S. 5]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=6|Zusammenfassung S. 6]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=7|Zusammenfassung S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf|Zusammenfassung]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=1|Zusammenfassung S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=2|Zusammenfassung S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=3|Zusammenfassung S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=4|Zusammenfassung S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=5|Zusammenfassung S. 5]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=6|Zusammenfassung S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=7|Zusammenfassung S. 7]]
 - ... plus 1 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -13316,11 +13316,11 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf|Aufgabe 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=1|Aufgabe 1 S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=3|Aufgabe 1 S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=4|Aufgabe 1 S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf|Aufgabe 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=1|Aufgabe 1 S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3|Aufgabe 1 S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=4|Aufgabe 1 S. 4]]
 
 **PDF-Seitenbereich:**
 - S. 1-4
@@ -13366,8 +13366,8 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1 (1).pdf|Aufgabe 1 (1)]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1 (1).pdf#page=1|Aufgabe 1 (1) S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1 (1).pdf|Aufgabe 1 (1)]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1 (1).pdf#page=1|Aufgabe 1 (1) S. 1]]
 
 **PDF-Seitenbereich:**
 - S. 1
@@ -13411,14 +13411,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf|Fachbegriffe]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=1|Fachbegriffe S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=2|Fachbegriffe S. 2]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=3|Fachbegriffe S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=4|Fachbegriffe S. 4]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=5|Fachbegriffe S. 5]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=6|Fachbegriffe S. 6]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=7|Fachbegriffe S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf|Fachbegriffe]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=1|Fachbegriffe S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=2|Fachbegriffe S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=3|Fachbegriffe S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=4|Fachbegriffe S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=5|Fachbegriffe S. 5]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=6|Fachbegriffe S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=7|Fachbegriffe S. 7]]
 - ... plus 27 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -13465,9 +13465,9 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf|Lernziele]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf#page=1|Lernziele S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf#page=2|Lernziele S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf|Lernziele]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf#page=1|Lernziele S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf#page=2|Lernziele S. 2]]
 
 **PDF-Seitenbereich:**
 - S. 1-2
@@ -13513,14 +13513,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf|Netzplan_251022_160116]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=1|Netzplan_251022_160116 S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=2|Netzplan_251022_160116 S. 2]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=3|Netzplan_251022_160116 S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=4|Netzplan_251022_160116 S. 4]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=5|Netzplan_251022_160116 S. 5]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=6|Netzplan_251022_160116 S. 6]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=7|Netzplan_251022_160116 S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf|Netzplan_251022_160116]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=1|Netzplan_251022_160116 S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=2|Netzplan_251022_160116 S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=3|Netzplan_251022_160116 S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=4|Netzplan_251022_160116 S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=5|Netzplan_251022_160116 S. 5]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=6|Netzplan_251022_160116 S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=7|Netzplan_251022_160116 S. 7]]
 
 **PDF-Seitenbereich:**
 - S. 1-7
@@ -13566,14 +13566,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf|Sicherheitsmanagement]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=1|Sicherheitsmanagement S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=2|Sicherheitsmanagement S. 2]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=3|Sicherheitsmanagement S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=4|Sicherheitsmanagement S. 4]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=5|Sicherheitsmanagement S. 5]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=6|Sicherheitsmanagement S. 6]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=7|Sicherheitsmanagement S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf|Sicherheitsmanagement]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=1|Sicherheitsmanagement S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=2|Sicherheitsmanagement S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=3|Sicherheitsmanagement S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=4|Sicherheitsmanagement S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=5|Sicherheitsmanagement S. 5]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=6|Sicherheitsmanagement S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=7|Sicherheitsmanagement S. 7]]
 - ... plus 9 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -13620,14 +13620,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf|Skript_Wittmann]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1|Skript_Wittmann S. 1]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=2|Skript_Wittmann S. 2]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=4|Skript_Wittmann S. 4]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=5|Skript_Wittmann S. 5]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=6|Skript_Wittmann S. 6]]
-- [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=7|Skript_Wittmann S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf|Skript_Wittmann]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1|Skript_Wittmann S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=2|Skript_Wittmann S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=4|Skript_Wittmann S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=5|Skript_Wittmann S. 5]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=6|Skript_Wittmann S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=7|Skript_Wittmann S. 7]]
 - ... plus 60 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -13674,14 +13674,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf|Netzwerkt]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=1|Netzwerkt S. 1]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2|Netzwerkt S. 2]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=3|Netzwerkt S. 3]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=4|Netzwerkt S. 4]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=5|Netzwerkt S. 5]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=6|Netzwerkt S. 6]]
-- [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7|Netzwerkt S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf|Netzwerkt]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=1|Netzwerkt S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2|Netzwerkt S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=3|Netzwerkt S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=4|Netzwerkt S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=5|Netzwerkt S. 5]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=6|Netzwerkt S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7|Netzwerkt S. 7]]
 - ... plus 5 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -13728,11 +13728,11 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf|Aufgabenblatt - mögliche Lösung]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1|Aufgabenblatt - mögliche Lösung S. 1]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=2|Aufgabenblatt - mögliche Lösung S. 2]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=3|Aufgabenblatt - mögliche Lösung S. 3]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=4|Aufgabenblatt - mögliche Lösung S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf|Aufgabenblatt - mögliche Lösung]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1|Aufgabenblatt - mögliche Lösung S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=2|Aufgabenblatt - mögliche Lösung S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=3|Aufgabenblatt - mögliche Lösung S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=4|Aufgabenblatt - mögliche Lösung S. 4]]
 
 **PDF-Seitenbereich:**
 - S. 1-4
@@ -13776,14 +13776,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf|Skript]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=1|Skript S. 1]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=2|Skript S. 2]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=3|Skript S. 3]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=4|Skript S. 4]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=5|Skript S. 5]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=6|Skript S. 6]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=7|Skript S. 7]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf|Skript]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=1|Skript S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=2|Skript S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=3|Skript S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=4|Skript S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=5|Skript S. 5]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=6|Skript S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=7|Skript S. 7]]
 - ... plus 29 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -13830,11 +13830,11 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf|Zusammenfassung _260120_080521]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=1|Zusammenfassung _260120_080521 S. 1]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=2|Zusammenfassung _260120_080521 S. 2]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=3|Zusammenfassung _260120_080521 S. 3]]
-- [[99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=4|Zusammenfassung _260120_080521 S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf|Zusammenfassung _260120_080521]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=1|Zusammenfassung _260120_080521 S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=2|Zusammenfassung _260120_080521 S. 2]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=3|Zusammenfassung _260120_080521 S. 3]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=4|Zusammenfassung _260120_080521 S. 4]]
 
 **PDF-Seitenbereich:**
 - S. 1-4
@@ -13878,14 +13878,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/PUG/Pug.pdf|Pug]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=1|Pug S. 1]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=2|Pug S. 2]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=3|Pug S. 3]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=4|Pug S. 4]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=5|Pug S. 5]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=6|Pug S. 6]]
-- [[99_Originale/Berufsschule/PUG/Pug.pdf#page=7|Pug S. 7]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf|Pug]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=1|Pug S. 1]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=2|Pug S. 2]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=3|Pug S. 3]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4|Pug S. 4]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5|Pug S. 5]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6|Pug S. 6]]
+- [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7|Pug S. 7]]
 - ... plus 28 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -13932,13 +13932,13 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf|Reli Notizen]]
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=1|Reli Notizen S. 1]]
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2|Reli Notizen S. 2]]
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=3|Reli Notizen S. 3]]
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=4|Reli Notizen S. 4]]
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=5|Reli Notizen S. 5]]
-- [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=6|Reli Notizen S. 6]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf|Reli Notizen]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=1|Reli Notizen S. 1]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2|Reli Notizen S. 2]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=3|Reli Notizen S. 3]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=4|Reli Notizen S. 4]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=5|Reli Notizen S. 5]]
+- [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6|Reli Notizen S. 6]]
 
 **PDF-Seitenbereich:**
 - S. 1-6
@@ -13984,11 +13984,11 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🎯 Geprüfte und sinnvolle Referenzen; 🧠 Lernstruktur; 🧱 Originalgetreue Seitenstruktur mit exakter PDF-Referenz; Seite 1
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Vertretung/Untitled.pdf|Untitled]]
-- [[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=1|Untitled S. 1]]
-- [[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=2|Untitled S. 2]]
-- [[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=3|Untitled S. 3]]
-- [[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=4|Untitled S. 4]]
+- [[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf|Untitled]]
+- [[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=1|Untitled S. 1]]
+- [[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=2|Untitled S. 2]]
+- [[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=3|Untitled S. 3]]
+- [[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=4|Untitled S. 4]]
 
 **PDF-Seitenbereich:**
 - S. 1-4
@@ -14895,7 +14895,7 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: GescanntesDokument160925um112141
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3|Gescanntes Dokument 16.09.25 um 11.21.41 S. 3]]
+- [[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3|Gescanntes Dokument 16.09.25 um 11.21.41 S. 3]]
 
 **PDF-Seitenbereich:**
 - S. 3
@@ -17391,14 +17391,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01_AB_Ladung Q S. 1]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=4|01_AB_Ladung Q S. 4]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=11|01_AB_Ladung Q S. 11]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=12|01_AB_Ladung Q S. 12]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=13|01_AB_Ladung Q S. 13]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=14|01_AB_Ladung Q S. 14]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=17|01_AB_Ladung Q S. 17]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=19|01_AB_Ladung Q S. 19]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01_AB_Ladung Q S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=4|01_AB_Ladung Q S. 4]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=11|01_AB_Ladung Q S. 11]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=12|01_AB_Ladung Q S. 12]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=13|01_AB_Ladung Q S. 13]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=14|01_AB_Ladung Q S. 14]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=17|01_AB_Ladung Q S. 17]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=19|01_AB_Ladung Q S. 19]]
 
 **PDF-Seitenbereich:**
 - S. 1, 4, 11-14, 17, 19
@@ -17442,14 +17442,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01_AB_Ladung Q S. 1]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=22|01_AB_Ladung Q S. 22]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=23|01_AB_Ladung Q S. 23]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=25|01_AB_Ladung Q S. 25]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=28|01_AB_Ladung Q S. 28]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=29|01_AB_Ladung Q S. 29]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=30|01_AB_Ladung Q S. 30]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=31|01_AB_Ladung Q S. 31]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01_AB_Ladung Q S. 1]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=22|01_AB_Ladung Q S. 22]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=23|01_AB_Ladung Q S. 23]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=25|01_AB_Ladung Q S. 25]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=28|01_AB_Ladung Q S. 28]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=29|01_AB_Ladung Q S. 29]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=30|01_AB_Ladung Q S. 30]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=31|01_AB_Ladung Q S. 31]]
 - ... plus 4 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -18380,14 +18380,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=18|01_AB_Ladung Q S. 18]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=22|01_AB_Ladung Q S. 22]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=23|01_AB_Ladung Q S. 23]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=24|01_AB_Ladung Q S. 24]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=25|01_AB_Ladung Q S. 25]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=28|01_AB_Ladung Q S. 28]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=29|01_AB_Ladung Q S. 29]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=30|01_AB_Ladung Q S. 30]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=18|01_AB_Ladung Q S. 18]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=22|01_AB_Ladung Q S. 22]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=23|01_AB_Ladung Q S. 23]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=24|01_AB_Ladung Q S. 24]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=25|01_AB_Ladung Q S. 25]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=28|01_AB_Ladung Q S. 28]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=29|01_AB_Ladung Q S. 29]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=30|01_AB_Ladung Q S. 30]]
 - ... plus 5 weitere PDF-Seiten direkt in der Notiz
 
 **PDF-Seitenbereich:**
@@ -19004,14 +19004,14 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Lernkern; 📚 Passende Lernmodule; 🔗 Gesicherte Quellenreferenzen; 📌 Beispielstellen aus den Originalquellen
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6|01_AB_Ladung Q S. 6]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=14|01_AB_Ladung Q S. 14]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=15|01_AB_Ladung Q S. 15]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=16|01_AB_Ladung Q S. 16]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=17|01_AB_Ladung Q S. 17]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=18|01_AB_Ladung Q S. 18]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=19|01_AB_Ladung Q S. 19]]
-- [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=20|01_AB_Ladung Q S. 20]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6|01_AB_Ladung Q S. 6]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=14|01_AB_Ladung Q S. 14]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=15|01_AB_Ladung Q S. 15]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=16|01_AB_Ladung Q S. 16]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=17|01_AB_Ladung Q S. 17]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=18|01_AB_Ladung Q S. 18]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=19|01_AB_Ladung Q S. 19]]
+- [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=20|01_AB_Ladung Q S. 20]]
 
 **PDF-Seitenbereich:**
 - S. 6, 14-20
@@ -19215,7 +19215,7 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 - Relevante Abschnitte: 🧠 Was du aus diesem Modul lernen sollst; 🔎 Schnellzugriff auf alle exakten Referenzen; 📚 Lerninhalt nach Original-PDF-Reihenfolge; Quelle: Untitled
 
 **Original-PDF-Quellen:**
-- [[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=1|Untitled S. 1]]
+- [[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=1|Untitled S. 1]]
 
 **PDF-Seitenbereich:**
 - S. 1
@@ -19508,39 +19508,39 @@ Zentraler, kompakter Such- und Kontextindex für den gesamten AP-Lernhelfer-Vaul
 
 **PDF-Quellen ohne klare Seitenzahl:**
 - Anzahl: 33
-- [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]] -> 99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf
+- [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]] -> 99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf
 - [[02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics|JAVA_Java_Basics]] -> 99_Originale/Basics/JAVA/Java Basics.pdf
-- [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]] -> 99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf
-- [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block|Stol_02_Unternehmenswiki_5_Block]] -> 99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf
-- [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824|Stol_Lernzettel_260210_092824]] -> 99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf
-- [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_AEuP_Stol|Stol_Lernzettel_AEuP_Stol]] -> 99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf
-- [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol|Stol_Stol]] -> 99_Originale/Berufsschule/AE/Stößl/Stößl.pdf
-- [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki|Stol_Wiki]] -> 99_Originale/Berufsschule/AE/Stößl/Wiki.pdf
-- [[02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41|Gescanntes_Dokument_16_09_25_um_11_21_41]] -> 99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf
-- [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]] -> 99_Originale/Berufsschule/BGWP/BGWP.pdf
-- [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]] -> 99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf
-- [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]] -> 99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf
-- [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]] -> 99_Originale/Berufsschule/Deutsch/Deutsch.pdf
-- [[02_Faecher/Deutsch/Quellen/Regelsammlung|Regelsammlung]] -> 99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf
-- [[02_Faecher/Deutsch/Quellen/Station_1|Station_1]] -> 99_Originale/Berufsschule/Deutsch/Station 1.pdf
-- [[02_Faecher/Englisch/Quellen/Englisch|Englisch]] -> 99_Originale/Berufsschule/Englisch/Englisch.pdf
-- [[02_Faecher/ITT_IT_Technik/Quellen/Begriffe_Computerwelt_Gitterratsel|Begriffe_Computerwelt_Gitterratsel]] -> 99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf
-- [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1|IT_Sicherheit_Aufgabe_1]] -> 99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf
-- [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1_1|IT_Sicherheit_Aufgabe_1_1]] -> 99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1 (1).pdf
-- [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]] -> 99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf
-- [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Lernziele|IT_Sicherheit_Lernziele]] -> 99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf
-- [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116|IT_Sicherheit_Netzplan_251022_160116]] -> 99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf
-- [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|IT_Sicherheit_Sicherheitsmanagement]] -> 99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf
-- [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]] -> 99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf
-- [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]] -> 99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf
-- [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung|It_Elektro_Wild_Zusammenfassung]] -> 99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf
-- [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]] -> 99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf
-- [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Aufgabenblatt_mogliche_Losung|Stol_Aufgabenblatt_mogliche_Losung]] -> 99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf
-- [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]] -> 99_Originale/Berufsschule/ITT/Stößl/Skript.pdf
-- [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Zusammenfassung_260120_080521|Stol_Zusammenfassung_260120_080521]] -> 99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf
-- [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]] -> 99_Originale/Berufsschule/PUG/Pug.pdf
-- [[02_Faecher/Religion/Quellen/Reli_Notizen|Reli_Notizen]] -> 99_Originale/Berufsschule/Religion/Reli Notizen.pdf
-- [[02_Faecher/Vertretung/Quellen/Untitled|Untitled]] -> 99_Originale/Berufsschule/Vertretung/Untitled.pdf
+- [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]] -> 99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf
+- [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block|Stol_02_Unternehmenswiki_5_Block]] -> 99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf
+- [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824|Stol_Lernzettel_260210_092824]] -> 99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf
+- [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_AEuP_Stol|Stol_Lernzettel_AEuP_Stol]] -> 99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf
+- [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol|Stol_Stol]] -> 99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf
+- [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki|Stol_Wiki]] -> 99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf
+- [[02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41|Gescanntes_Dokument_16_09_25_um_11_21_41]] -> 99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf
+- [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]] -> 99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf
+- [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]] -> 99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf
+- [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]] -> 99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf
+- [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]] -> 99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf
+- [[02_Faecher/Deutsch/Quellen/Regelsammlung|Regelsammlung]] -> 99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf
+- [[02_Faecher/Deutsch/Quellen/Station_1|Station_1]] -> 99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf
+- [[02_Faecher/Englisch/Quellen/Englisch|Englisch]] -> 99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf
+- [[02_Faecher/ITT_IT_Technik/Quellen/Begriffe_Computerwelt_Gitterratsel|Begriffe_Computerwelt_Gitterratsel]] -> 99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf
+- [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1|IT_Sicherheit_Aufgabe_1]] -> 99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf
+- [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1_1|IT_Sicherheit_Aufgabe_1_1]] -> 99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1 (1).pdf
+- [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]] -> 99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf
+- [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Lernziele|IT_Sicherheit_Lernziele]] -> 99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf
+- [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116|IT_Sicherheit_Netzplan_251022_160116]] -> 99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf
+- [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|IT_Sicherheit_Sicherheitsmanagement]] -> 99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf
+- [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]] -> 99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf
+- [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]] -> 99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf
+- [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung|It_Elektro_Wild_Zusammenfassung]] -> 99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf
+- [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]] -> 99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf
+- [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Aufgabenblatt_mogliche_Losung|Stol_Aufgabenblatt_mogliche_Losung]] -> 99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf
+- [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]] -> 99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf
+- [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Zusammenfassung_260120_080521|Stol_Zusammenfassung_260120_080521]] -> 99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf
+- [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]] -> 99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf
+- [[02_Faecher/Religion/Quellen/Reli_Notizen|Reli_Notizen]] -> 99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf
+- [[02_Faecher/Vertretung/Quellen/Untitled|Untitled]] -> 99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf
 
 **Mögliche Dubletten / Weiterleitungsfälle:**
 - aufgaben übungen und lösungen: [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen|Aufgaben Übungen und Lösungen]]; [[02_Faecher/Allgemein_Berufsschule/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen|Aufgaben Übungen und Lösungen]]; [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen|Aufgaben Übungen und Lösungen]]; [[02_Faecher/Deutsch/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen|Aufgaben Übungen und Lösungen]]; [[02_Faecher/Englisch/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen|Aufgaben Übungen und Lösungen]]; [[02_Faecher/ITT_IT_Technik/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen|Aufgaben Übungen und Lösungen]] (+3)

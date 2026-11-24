@@ -2,7 +2,7 @@
 typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
-original_pfad: "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf"
+original_pfad: "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf"
 seiten: 4
 pruefung: "AP1"
 cssclasses:
@@ -23,7 +23,7 @@ textzeichen: 6413
 # 📄 IT Sicherheit Aufgabe 1
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
-> - **Original-PDF:** [Aufgabe 1.pdf](<99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf>)
+> - **Original-PDF:** [Aufgabe 1.pdf](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf>)
 > - **Seiten:** 4
 > - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=3, partial=1)
 > - **Aktive Lernquelle:** ja
@@ -50,11 +50,11 @@ textzeichen: 6413
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Aufgabe 1.pdf Seite 1](<99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=1]]`
+> - PDF-Seite: [Aufgabe 1.pdf Seite 1](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=1]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -110,11 +110,11 @@ Fragen/Notizen:
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Aufgabe 1.pdf Seite 2](<99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2]]`
+> - PDF-Seite: [Aufgabe 1.pdf Seite 2](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -169,11 +169,11 @@ Lenziele :
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Aufgabe 1.pdf Seite 3](<99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=3]]`
+> - PDF-Seite: [Aufgabe 1.pdf Seite 3](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -267,11 +267,11 @@ E
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Aufgabe 1.pdf Seite 4](<99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=4]]`
+> - PDF-Seite: [Aufgabe 1.pdf Seite 4](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 

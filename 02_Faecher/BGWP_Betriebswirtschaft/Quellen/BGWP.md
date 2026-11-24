@@ -2,8 +2,8 @@
 typ: quelle
 fach: "BGWP_Betriebswirtschaft"
 fach_anzeige: "BGWP Betriebswirtschaft"
-original_pfad: "99_Originale/Berufsschule/BGWP/BGWP.pdf"
-seiten: 54
+original_pfad: "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf"
+seiten: 83
 pruefung: "AP1, WiSo"
 cssclasses:
   - lernquelle
@@ -12,22 +12,22 @@ tags:
   - quelle
   - bgwp_betriebswirtschaft
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-07-13"
+seitenaudit_datum: "2026-11-23"
 kanonische_referenzen: true
-kanonische_themen: 8
-seiten_mit_kanonischem_thema: 53
-ki_exclude_seiten: [54]
+kanonische_themen: 10
+seiten_mit_kanonischem_thema: 81
+ki_exclude_seiten: [54,56]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
-textstatus: "gut: visuell geprüft (ok=53)"
-textzeichen: 71963
+textstatus: "gemischt: visuell geprüft (ok=74, ocr_verified=7)"
+textzeichen: 114330
 ---
 # 📄 BGWP
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/BGWP_Betriebswirtschaft/BGWP_Betriebswirtschaft|BGWP Betriebswirtschaft]]
-> - **Original-PDF:** [BGWP.pdf](<99_Originale/Berufsschule/BGWP/BGWP.pdf>)
-> - **Seiten:** 54
-> - **KI-Lesbarkeit:** gut: visuell geprüft (ok=53)
+> - **Original-PDF:** [BGWP.pdf](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf>)
+> - **Seiten:** 83
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=74, ocr_verified=7)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -35,11 +35,13 @@ textzeichen: 71963
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Betrieb und Unternehmen\|Betrieb und Unternehmen]] | Prüfungsrahmen der Quelle | 1–2, 19–21 | Visuell bestätigt auf 5 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Gemeinnützige Organisationen\|Gemeinnützige Organisationen]] | Prüfungsrahmen der Quelle | 71–74 | Visuell bestätigt auf 4 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Marktumfeld und Marktformen\|Marktumfeld und Marktformen]] | Prüfungsrahmen der Quelle | 22–37 | Visuell bestätigt auf 16 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Produktionsfaktoren\|Produktionsfaktoren]] | Prüfungsrahmen der Quelle | 3 | Visuell bestätigt auf 1 Seite(n). |
-| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Rechtsformen\|Rechtsformen]] | Prüfungsrahmen der Quelle | 51–53 | Visuell bestätigt auf 3 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Rechtsformen\|Rechtsformen]] | Prüfungsrahmen der Quelle | 51–53, 55, 57–70, 72 | Visuell bestätigt auf 19 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Unternehmensrecht Handelsregister Vollmachten\|Unternehmensrecht Handelsregister Vollmachten]] | Prüfungsrahmen der Quelle | 38–50 | Visuell bestätigt auf 13 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Unternehmensziele\|Unternehmensziele]] | Prüfungsrahmen der Quelle | 4–12 | Visuell bestätigt auf 9 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Wettbewerbsrecht und Unternehmenszusammenschlüsse\|Wettbewerbsrecht und Unternehmenszusammenschlüsse]] | Prüfungsrahmen der Quelle | 75–83 | Visuell bestätigt auf 9 Seite(n); bei 4 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Wirtschaftlichkeit und Rechnungswesen\|Wirtschaftlichkeit und Rechnungswesen]] | Prüfungsrahmen der Quelle | 16–18 | Visuell bestätigt auf 3 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Wirtschaftssektoren\|Wirtschaftssektoren]] | Prüfungsrahmen der Quelle | 13–15 | Visuell bestätigt auf 3 Seite(n). |
 
@@ -55,11 +57,11 @@ textzeichen: 71963
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 1](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1]]`
+> - PDF-Seite: [BGWP.pdf Seite 1](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -150,11 +152,11 @@ abrechnung
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 2](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=2]]`
+> - PDF-Seite: [BGWP.pdf Seite 2](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=2]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -201,11 +203,11 @@ Controlling
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 3](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3]]`
+> - PDF-Seite: [BGWP.pdf Seite 3](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -310,11 +312,11 @@ Helm
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 4](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4]]`
+> - PDF-Seite: [BGWP.pdf Seite 4](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -394,11 +396,11 @@ Spaß! Und das möchten wir auch in Zukunft.
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 5](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=5]]`
+> - PDF-Seite: [BGWP.pdf Seite 5](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=5]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -467,11 +469,11 @@ messbar
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 6](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6]]`
+> - PDF-Seite: [BGWP.pdf Seite 6](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -567,11 +569,11 @@ als Zeit
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 7](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7]]`
+> - PDF-Seite: [BGWP.pdf Seite 7](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -636,11 +638,11 @@ Aktivitäten die Verantwortung des Unternehmens aufgezeigt.
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 8](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8]]`
+> - PDF-Seite: [BGWP.pdf Seite 8](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -781,11 +783,11 @@ Leistungen)
 ### Seite 9
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 9](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=9>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=9]]`
+> - PDF-Seite: [BGWP.pdf Seite 9](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=9>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=9]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=9]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -846,11 +848,11 @@ soziale Ziel
 ### Seite 10
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 10](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=10>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=10]]`
+> - PDF-Seite: [BGWP.pdf Seite 10](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=10>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=10]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=10]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -934,11 +936,11 @@ Marktanteil
 ### Seite 11
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 11](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=11>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=11]]`
+> - PDF-Seite: [BGWP.pdf Seite 11](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=11>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=11]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=11]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1016,11 +1018,11 @@ von Mitarbeitergesprächen
 ### Seite 12
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 12](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=12>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=12]]`
+> - PDF-Seite: [BGWP.pdf Seite 12](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=12>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=12]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=12]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1086,11 +1088,11 @@ indifferent
 ### Seite 13
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 13](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=13>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=13]]`
+> - PDF-Seite: [BGWP.pdf Seite 13](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=13>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=13]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=13]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1156,11 +1158,11 @@ Forschungszentren
 ### Seite 14
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 14](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=14>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=14]]`
+> - PDF-Seite: [BGWP.pdf Seite 14](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=14>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=14]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=14]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1259,11 +1261,11 @@ primär
 ### Seite 15
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 15](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=15>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=15]]`
+> - PDF-Seite: [BGWP.pdf Seite 15](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=15>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=15]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=15]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1326,11 +1328,11 @@ und Dienstleistung
 ### Seite 16
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 16](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=16>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=16]]`
+> - PDF-Seite: [BGWP.pdf Seite 16](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=16>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=16]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=16]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1618,11 +1620,11 @@ Minimalprinzip
 ### Seite 17
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 17](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=17>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=17]]`
+> - PDF-Seite: [BGWP.pdf Seite 17](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=17>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=17]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=17]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1726,11 +1728,11 @@ geinger Zeit
 ### Seite 18
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 18](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=18>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=18]]`
+> - PDF-Seite: [BGWP.pdf Seite 18](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=18>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=18]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=18]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1795,11 +1797,11 @@ Design , Marken
 ### Seite 19
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 19](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=19>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=19]]`
+> - PDF-Seite: [BGWP.pdf Seite 19](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=19>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=19]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=19]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1849,11 +1851,11 @@ verschiedene Wirtschaftsbereiche, von denen jeder ganz bestimmte Aufgaben
 ### Seite 20
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 20](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=20>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=20]]`
+> - PDF-Seite: [BGWP.pdf Seite 20](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=20>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=20]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=20]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1888,11 +1890,11 @@ Produkte.
 ### Seite 21
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 21](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=21>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=21]]`
+> - PDF-Seite: [BGWP.pdf Seite 21](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=21>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=21]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=21]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1971,11 +1973,11 @@ in de
 ### Seite 22
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 22](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=22>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=22]]`
+> - PDF-Seite: [BGWP.pdf Seite 22](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=22>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=22]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=22]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2009,11 +2011,11 @@ Geld) und Boden (z.B. Grundstücke) den Unternehmen zur Verfügung stellen,
 ### Seite 23
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 23](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=23>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=23]]`
+> - PDF-Seite: [BGWP.pdf Seite 23](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=23>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=23]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=23]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2057,11 +2059,11 @@ Staatseinnahmen muss er die Staatsausgaben für seine gesetzlichen Aufgaben
 ### Seite 24
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 24](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=24>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=24]]`
+> - PDF-Seite: [BGWP.pdf Seite 24](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=24>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=24]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=24]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2087,11 +2089,11 @@ Ausland bringen.
 ### Seite 25
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 25](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=25>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=25]]`
+> - PDF-Seite: [BGWP.pdf Seite 25](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=25>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=25]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=25]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2143,11 +2145,11 @@ I
 ### Seite 26
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 26](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=26>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=26]]`
+> - PDF-Seite: [BGWP.pdf Seite 26](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=26>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=26]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=26]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2191,11 +2193,11 @@ Lebensmittelmarkt, Automarkt
 ### Seite 27
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 27](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=27>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=27]]`
+> - PDF-Seite: [BGWP.pdf Seite 27](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=27>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=27]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=27]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2221,11 +2223,11 @@ besser und kostengünstiger anzubieten und zu verwalten.
 ### Seite 28
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 28](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=28>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=28]]`
+> - PDF-Seite: [BGWP.pdf Seite 28](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=28>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=28]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=28]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2284,11 +2286,11 @@ werden
 ### Seite 29
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 29](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=29>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=29]]`
+> - PDF-Seite: [BGWP.pdf Seite 29](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=29>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=29]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=29]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2324,11 +2326,11 @@ Wettbewerbsvorteile.
 ### Seite 30
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 30](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=30>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=30]]`
+> - PDF-Seite: [BGWP.pdf Seite 30](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=30>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=30]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=30]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2361,11 +2363,11 @@ Scanne den QR-Code und bearbeite die Übungsaufgabe zu den Marktformen.
 ### Seite 31
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 31](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=31>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=31]]`
+> - PDF-Seite: [BGWP.pdf Seite 31](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=31>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=31]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=31]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2412,11 +2414,11 @@ bzu . erwartete Marktlage
 ### Seite 32
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 32](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=32>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=32]]`
+> - PDF-Seite: [BGWP.pdf Seite 32](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=32>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=32]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=32]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2450,11 +2452,11 @@ Marktgleichgewicht
 ### Seite 33
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 33](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=33>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=33]]`
+> - PDF-Seite: [BGWP.pdf Seite 33](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=33>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=33]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=33]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2513,11 +2515,11 @@ d) Erziehungsfunktion
 ### Seite 34
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 34](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=34>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=34]]`
+> - PDF-Seite: [BGWP.pdf Seite 34](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=34>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=34]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=34]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2618,11 +2620,11 @@ p
 ### Seite 35
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 35](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=35>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=35]]`
+> - PDF-Seite: [BGWP.pdf Seite 35](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=35>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=35]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=35]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2681,11 +2683,11 @@ d) Erziehungsfunktion
 ### Seite 36
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 36](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=36>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=36]]`
+> - PDF-Seite: [BGWP.pdf Seite 36](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=36>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=36]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=36]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2722,11 +2724,11 @@ Menge sinkt
 ### Seite 37
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 37](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=37>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=37]]`
+> - PDF-Seite: [BGWP.pdf Seite 37](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=37>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=37]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=37]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2798,11 +2800,11 @@ zu handeln
 ### Seite 38
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 38](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=38>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=38]]`
+> - PDF-Seite: [BGWP.pdf Seite 38](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=38>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=38]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=38]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2862,11 +2864,11 @@ Formkaufmann
 ### Seite 39
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 39](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=39>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=39]]`
+> - PDF-Seite: [BGWP.pdf Seite 39](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=39>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=39]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=39]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -2918,11 +2920,11 @@ HR-Eintragung konstitutiv
 ### Seite 40
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 40](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=40>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=40]]`
+> - PDF-Seite: [BGWP.pdf Seite 40](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=40>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=40]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=40]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3007,11 +3009,11 @@ SHGD
 ### Seite 41
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 41](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=41>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=41]]`
+> - PDF-Seite: [BGWP.pdf Seite 41](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=41>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=41]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=41]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3117,11 +3119,11 @@ Continenta Al
 ### Seite 42
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 42](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=42>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=42]]`
+> - PDF-Seite: [BGWP.pdf Seite 42](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=42>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=42]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=42]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3214,11 +3216,11 @@ hab
 ### Seite 43
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 43](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=43>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=43]]`
+> - PDF-Seite: [BGWP.pdf Seite 43](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=43>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=43]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=43]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3267,11 +3269,11 @@ die Unrichtigkeit kannte.
 ### Seite 44
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 44](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=44>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=44]]`
+> - PDF-Seite: [BGWP.pdf Seite 44](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=44>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=44]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=44]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -3340,11 +3342,11 @@ Glaube"
 ### Seite 45
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 45](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=45>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=45]]`
+> - PDF-Seite: [BGWP.pdf Seite 45](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=45>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=45]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=45]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3405,11 +3407,11 @@ sich darauf beuten
 ### Seite 46
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 46](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=46>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=46]]`
+> - PDF-Seite: [BGWP.pdf Seite 46](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=46>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=46]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=46]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3478,11 +3480,11 @@ Prokura im Außenverhältnis weiter
 ### Seite 47
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 47](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47]]`
+> - PDF-Seite: [BGWP.pdf Seite 47](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3537,11 +3539,11 @@ zu unterzeichnen.
 ### Seite 48
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 48](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=48>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=48]]`
+> - PDF-Seite: [BGWP.pdf Seite 48](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=48>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=48]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=48]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3618,11 +3620,11 @@ Einkaufen
 ### Seite 49
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 49](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=49>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=49]]`
+> - PDF-Seite: [BGWP.pdf Seite 49](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=49>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=49]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=49]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=49]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3692,11 +3694,11 @@ erteilen
 ### Seite 50
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 50](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=50>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=50]]`
+> - PDF-Seite: [BGWP.pdf Seite 50](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=50>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=50]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=50]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=50]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -3743,11 +3745,11 @@ gen intern auf 100.000 € beschränkt ist.
 ### Seite 51
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 51](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=51>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=51]]`
+> - PDF-Seite: [BGWP.pdf Seite 51](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=51>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=51]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=51]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=51]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3816,11 +3818,11 @@ des
 ### Seite 52
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 52](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=52>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=52]]`
+> - PDF-Seite: [BGWP.pdf Seite 52](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=52>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=52]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=52]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=52]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3865,11 +3867,11 @@ Risikoverteilung und unternehmerischer Freiheit.
 ### Seite 53
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [BGWP.pdf Seite 53](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=53>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=53]]`
+> - PDF-Seite: [BGWP.pdf Seite 53](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=53>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=53]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=53]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=53]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3940,3 +3942,1362 @@ laut HGB
 > [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
 > Grund: Zu schwacher Titel-/Fragmentbeleg; nicht als alleinige Wissensevidenz verwendbar. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
 
+### Seite 55
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 55](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=55>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=55]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=55]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+Der Einzelkaufmann
+Definition Natürliche Person, die ein Handelsgewerbe selbstständig
+betreibt, um Gewinne zu erzielen; alleiniger Inhaber des
+Unternehmens
+Rechtsgrundlage HGB (Handelsgesetzbuch), insbesondere § 1 HGB
+Rechtsfähigkeit Rechtsfähig als natürliche Person kann Verträge abschließen,
+klagen und verklagt werden
+Gründung Relativ einfach Gewerbeanmeldung bei der zuständigen
+Behörde; ggf. Eintragung ins Handelsregister
+Mindestkapital Braucht keins
+Rechtsformzusatz eingetragener Kaufmann", „e.K.", „e.Kfm." oder „e.Kfr."
+Geschäftsführung
+(Innenverhältnis)
+Liegt allein beim Einzelkaufmann; er trifft alle Entscheidungen
+selbstständig
+Vertretung
+(Außenverhältnis)
+Einzelkaufmann vertritt das Unternehmen allein; kann Prokura
+erteilen
+Haftung Unbeschränkt mit dem gesamten privaten und geschäftlichen
+Vermögen
+Gewinnverteilung Gesamter Gewinn steht dem Einzelkaufmann zu er trägt auch
+alle Verluste allein
+Auflösungsgründe Aufgabe des Gewerbes, Verkauf, Insolvenz, Tod des Inhabers
+(Erben können weiterführen)
+Vorteile: Nachteile:
+Einfache Gründung, kein
+Mindestkapital, volle
+Entscheidungsfreiheit, gesamter
+Gewinn verbleibt beim Inhaber
+Unbeschränkte Haftung mit Privatvermögen, alle Verluste trägt der Inhaber allein,
+```
+
+### Seite 56
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Zu schwacher Titel-/Fragmentbeleg; nicht als alleinige Wissensevidenz verwendbar. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 57
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 57](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=57>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=57]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=57]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+Die offene Handelsgesellschaft
+Rechtsgrundlage - §§ 105–160 HGB
+Rechtsfähigkeit - Rechtsfähige Personengesellschaft
+- keine juristische Person
+Gründung - Gesellschaftsvertrag zwischen mindestens zwei Personen
+- Eintragung ins Handelsregister
+- muss keine besondere Form haben, sollte aber schriftlich
+festgehalten werden
+Mindestkapital - Kein Mindestkapital vorgeschrieben
+- Die Gesellschafter können frei entscheiden, wie viel Kapital
+sie einbringen wollen.
+Rechtsformzusatz - „offene Handelsgesellschaft“ oder „OHG“
+Geschäftsführung
+(Innenverhältnis)
+à Im Gesellschafts-
+vertrag änderbar
+- Grundsätzlich ist jeder Gesellschafter einzeln zur
+Geschäftsführung berechtigt (§ 114 HGB)
+- kann jedoch auch vereinbart werden, dass die
+Geschäftsführung mehreren Gesellschaftern übertragen
+wird
+- Alltagsgeschäfte: Jeder geschäftsführende Gesellschafter
+kann gewöhnliche Geschäfte allein führen
+- Außergewöhnliche Geschäfte, die über den gewöhnlichen
+Geschäftsbetrieb hinausgehen, bedürfen der
+Zustimmung aller geschäftsführenden Gesellschafter (z.
+B. Grundstückskauf, Erteilung Prokura).
+- Widerspruchsrecht: Jeder Gesellschafter hat das Recht,
+gegen ein von einem anderen Gesellschafter geplantes
+Geschäft Widerspruch einzulegen
+Vertretung
+(Außenverhältnis)
+à Im GV änderbar
+- Grundsätzlich Einzelvertretung durch jeden Gesellschafter
+- Dies umfasst gewöhnliche und außergewöhnliche
+Geschäfte
+- Bei vertraglichen Abweichungen ist eine Eintragung ins
+Handelsregister notwendig.
+Haftung - Unbeschränkt, persönlich und gesamtschuldnerisch mit
+Privat- und Geschäftsvermögen
+Gewinnverteilung
+laut HGB
+à Im GV änderbar
+- Gewinn und Verlust werden grundsätzlich nach dem
+vereinbarten Beteiligungsverhältnis verteilt.
+Auflösungsgründe Kündigung eines Gesellschafters, Ablauf der vereinbarten Zeit,
+Beschluss der Gesellschafter, Insolvenz
+```
+
+### Seite 58
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 58](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=58>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=58]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=58]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+Die Kommanditgesellschaft
+Rechtsgrundlage Handelsgesetzbuch (HGB) §§ 161 - 177a.
+Rechtsfähigkeit Rechtsfähige Personengesellschaft (keine juristische Person);
+kann Rechte erwerben, Verbindlichkeiten eingehen, Eigentum
+erwerben, klagen und verklagt werden.
+Gründung Gesellschaftsvertrag, Eintragung ins Handelsregister
+erforderlich. Gesellschafter: Mind. 1 Komplementär (Vollhafter),
+mind. 1 Kommanditist (Teilhafter).
+Mindestkapital Gesetzlich nicht vorgeschrieben; Höhe der Einlagen im
+Gesellschaftsvertrag geregelt.
+Rechtsformzusatz „Kommanditgesellschaft“ oder „KG“ enthalten.
+Geschäftsführung
+(Innenverhältnis)
+à Im Gesellschafts-
+vertrag änderbar
+Grundsätzlich Komplementär / Abweichungen im
+Gesellschaftsvertrag möglich (z.B. Kommanditist als
+Geschäftsführer).
+Kommanditisten: Widerspruchsrecht bei außergewöhnlichen
+Geschäften, Kontrollrecht
+Vertretung
+(Außenverhältnis)
+à Im GV änderbar
+Ausschließlich Komplementäre; Kommanditisten von Gesetzes
+wegen ausgeschlossen; Erteilung von Prokura oder
+Handlungsvollmacht an Kommanditisten möglich; vertragliche
+Änderung der gesetzlichen Vertretung nach außen nicht
+zulässig.
+Haftung Komplementäre haften persönlich (auch mit Privatvermögen).
+Kommanditisten haften beschränkt auf die Höhe der im
+Handelsregister eingetragenen Hafteinlage.
+Gewinnverteilung
+laut HGB
+à Im GV änderbar
+1. Vorab 4% auf Kapitaleinlage; 2. Rest in angemessenem
+Verhältnis (nach Kapital, Risiko, Mitarbeit); abweichende
+vertragliche Regelungen üblich.
+Auflösungsgründe Ablauf der im Gesellschaftsvertrag bestimmten Zeit. Beschluss der
+Gesellschafter. Eröffnung des Insolvenzverfahrens, Erreichen des
+Gesellschaftszweck. Kündigung durch einen Komplementär oder
+dessen Privatgläubiger. Der Tod eines Komplementärs führt
+grundsätzlich zur Auflösung, es sei denn, der Gesellschaftsvertrag
+sieht eine Fortsetzungsklausel vor.
+```
+
+### Seite 59
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 59](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=59>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=59]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=59]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+Die Gesellschaft mit beschränkter Haftung
+Rechtsgrundlage GmbH Gesetz
+Rechtsfähigkeit 0 Natürliche Person X Juristische Person
+Gründung - Eine GmbH wird von mindestens einem Gesellschafter
+gegründet
+- Der Vertrag ist in einer notariell beurkundeten Satzung
+zu schließen
+- Eintrag ins Handelsregister
+Stammkapital
+Mind. 25.000€
+Rechtsformzusatz GmbH
+Geschäftsführung/
+Vertretung - Muss Mindestens eine Geschäftsführerin oder einen
+Geschäftsführer haben
+- Geschäftsführer kann nur eine natürliche, voll
+geschäftsfähige Person sein
+- Entweder Gesellschafter selbst oder von extern
+Gesellschafter-
+Versammlung - Die Versammlung der Gesellschafter trifft grundlegende
+Entscheidungen für die Gesellschaft
+- Sie bestellt und ruft den Geschäftsführer der GmbH ab
+- Stellt Jahresabschluss fest und beschließt über
+Verwendung des Gewinns
+Aufsichtsrat
+Erst ab mehr als 500 Arbeitnehmer nötig, der Aufsichtsrad
+kontrolliert die Arbeit der Geschäftsführer und achtet darauf,
+dass diese ihre Aufgaben ordnungsgemäß erfüllen.
+Haftung Bei einer GmbH haftet normalerweise nur das Vermögen der
+Gesellschaft. Die Gesellschafter haften nicht privat. Eine
+persönliche Haftung kann jedoch vor der
+Handelsregistereintragung oder bei Pflichtverletzung des
+Geschäftsführers entstehen.
+Gewinnverteilung Im Verhältnis der Geschäftsanteile
+```
+
+### Seite 60
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 60](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=60>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=60]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=60]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+Gesellschaft mit beschränkter Haftung & Compagnie
+Kommanditgesellschaft
+Rechtsgrundlage Handelsgesetzbuch
+Rechtsfähigkeit Sonderform der KG
+Gründung Mindestens ein Komplementär (=GmbH) und ein Kommanditist
+(=natürliche Person) erforderlich
+Zwei Gesellschaftsverträge notwendig (GmbH und KG müssen
+sich unterscheiden)
+Eintragung ins Handelsregister
+Stammkapital GmbH: 25.000 €
+KG: nicht vorgesehen
+Rechtsformzusatz GmbH & Co.KG zwingend am Ende des Namens
+Geschäftsführungu
+nd
+Vertretung
+Alleinig durch die Komplementär-GmbH
+Kommanditisten sind gesetzlich ausgeschlossen aber
+(Widerspruchsrecht bei außergewöhnlichen Geschäften,
+Kontroll- und Einsichtsrecht)
+Haftung Komplementär GmbH haftet unbeschränkt mit dem
+Gesellschaftsvermögen.
+Kommanditisten haften nur in Höhe ihrer Kommanditeinlage.
+Besteuerung Gewerbesteuer, Umsatzsteuer, eventuell Lohnsteuer, bei
+Gewinnen: Einkommenssteuer / Körperschaftssteuer
+Vor- und Nachteile + Einfache Kapitalerweiterung durch die Aufnahme neuer
+Investoren, beschränktes Haftungsrisiko, Führung durch
+Fachleute (Fremdgeschäftsführer) möglich
+- Hoher Beratungsbedarf (komplizierte Struktur), doppelte
+Buchführungspflicht(für KG und GmbH).
+```
+
+### Seite 61
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 61](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=61>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=61]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=61]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+Die Aktiengesellschaft
+Rechtsgrundlage Aktiengesetz (AktG)
+Rechtsfähigkeit 1 Natürliche Person 1 Juristische Person
+Gründung Durch eine oder mehrere Personen. Es wird eine Satzung erstellt
+und die AG ins Handelsregister eingetragen.
+Grundkapital Mindestens 50.000 €
+Rechtsformzusatz „Aktiengesellschaft“ oder „AG“
+Aufsichtsrat
+Überwacht und kontrolliert den Vorstand. Bei mehr als 500
+Mitarbeitern gehören auch Arbeitnehmervertreter dazu.
+Vorstand Leitet die AG und führt die Geschäfte eigenverantwortlich.
+Hauptversammlung Treffen der Aktionäre. Sie wählen den Aufsichtsrat, entlasten
+Vorstand und Aufsichtsrat und entscheiden über wichtige
+Fragen.
+Aufteilung des
+Kapitals Das Kapital ist in Aktien aufgeteilt (Nennwertaktien oder
+Stückaktien).
+Finanzierung Eigenkapital:
+Durch die Ausgabe von Aktien und aus Rücklagen.
+Fremdkapital:
+Durch Bankkredite und Schuldverschreibungen.
+Gewinnverteilung Aktionäre können eine Dividende erhalten, wenn die
+Hauptversammlung eine Gewinnausschüttung beschließt.
+Haftung
+Für Schulden haftet nur das Vermögen der AG. Die Aktionäre
+haften nicht persönlich.
+```
+
+### Seite 62
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 62](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=62>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=62]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=62]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+Die Gesellschaft bürgerlichen Rechts (GbR)
+Unterschied HGB
+und BGB
+Rechtsgrundlage
+Rechtsfähigkeit
+Gründung
+Mindestkapital
+Rechtsformzusatz
+Geschäftsführung
+(Innenverhältnis)
+Vertretung
+(Außenverhältnis)
+Haftung
+Gewinnverteilung
+Vorteile: Nachteile:
+BGB (Bürgerliches Gesetzbuch): Regelt das allgemeine Privatrecht für
+Bürger und Rechtsgeschäfte (z.b. Kaufverträge, Mietverträge)
+HGB (Handelsgesetzbuch): spezielle Vorschriften für Kaufleute und
+Unternehmen (Handelsrecht, Firmenrecht etc.)
+Das BGB gilt nur, wenn HGB keine Regelung enthält
+Paragraph 705 ff. im Bürglichen Gesetzbuch
+Rechtsfähige GbR (kann Verträge abschließen etc.), Nicht rechtsfähige
+GbR (regelt nur Rechtsbeziehungen zwischen Gesellschaftern)
+Durch Gesellschaftsvertrag (mind. 2 Personen)
+Vertrag ist formfrei.
+Nicht gesetzlich vorgeschrieben
+Im Handelsregister braucht es eGbR
+Erfolgt gemeinschaftlich (Einstimmigkeit) falls nicht anders im
+Gesellschaftsvertrag geregelt
+Erfolgt gemeinschaftlich (Einstimmigkeit) falls nicht anders im
+Gesellschaftsvertrag geregelt
+Gesellschafter haften persönlich, unbeschränkt mit ihrem Privatvermögen
+Gewinn und Verlust wird zu gleichen Teilen unter den Gesellschaften
+aufgeteilt
+Vertraglich können andere Regelungen getroffen werden
+Einfach und kostengünstig
+Kein Mindestkapital nötig
+persönliche, unbeschränkte Haftung mit Privatvermögen
+Beschaffung von Kapital kann schwieriger sein
+```
+
+### Seite 63
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 63](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=63>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=63]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=63]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Die SE (Societas Europea)
+Begriff
+Die SE (Societas Europaea) ist die Europäische
+Aktiengesellschaft. Sie ist eine supranationale
+Kapitalgesellschaft mit eigener Rechtspersönlichkeit und
+ermöglicht grenzüberschreitende Tätigkeit innerhalb der EU.
+Rechtsgrundlagen
+SE-Verordnung (EG) Nr. 2157/2001, SE-Ausführungsgesetz
+(SEAG), SE-Beteiligungsgesetz (SEBG), ergänzend deutsches
+Aktiengesetz (AktG)
+Rechtsfähigkeit
+Juristische Person; kann Träger von Rechten und Pflichten sein
+(z. B. Verträge schließen, klagen, verklagt werden). Haftung
+grundsätzlich nur mit Gesellschaftsvermögen.
+Gründung
+Nur grenzüberschreitend möglich: Verschmelzung, Holding-SE,
+Tochter-SE oder Umwandlung einer AG. Eintragung ins
+Handelsregister erforderlich.
+Mindestkapital 120000 Euro
+Firma Firmenname muss den Zusatz „SE“ enthalten (z. B. Muster SE).
+Organe
+Wahl zwischen dualistischem System (Vorstand, Aufsichtsrat,
+Hauptversammlung) und monistischem System
+(Verwaltungsrat, Hauptversammlung).
+Geschäftsführung
+(Innenverhältnis)
+Dualistisch: Vorstand leitet eigenverantwortlich, Aufsichtsrat
+überwacht. Monistisch: Verwaltungsrat führt und kontrolliert,
+ggf. geschäftsführende Direktoren.
+Vertretung
+(Außenverhältnis)
+Dualistisch: Vertretung durch den Vorstand. Monistisch: durch
+geschäftsführende Direktoren bzw. Verwaltungsrat.
+Vertretungsmacht grundsätzlich unbeschränkt.
+Vor- und Nachteile
+Vorteile: EU-weite einheitliche Rechtsform, Sitzverlegung ohne
+Neugründung, hohes internationales Ansehen, flexible
+Leitungsstruktur.
+Nachteile: komplexe Gründung, hohes Mindestkapital, hohe
+Kosten, komplizierte Mitbestimmung, für kleine Unternehmen
+ungeeignet.
+```
+
+### Seite 64
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 64](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=64>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=64]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=64]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+1
+Übung zu den Rechtsformen
+1. Das Einzelunternehmen
+Der ausgelernte Fachinformatiker Tim Bauer bemerkt eine Marktlücke. Mithilfe seines
+Privatvermögens und der Bank eröffnet er ein eigenes Geschäft, das Hard- und
+Softwarelösungen anbietet. Nach der Geschäftseröffnung stellt Tim einige Mitarbeiter ein.
+Beantworte folgende Fragen:
+1.1 Tim überlegt sich folgende Firmenbezeichnungen: Wie könnte die Firma lauten?
+1. Tim’s PC-Laden 4. Bauer Computer e.K.
+2. Tim Bauer e.K. 5. Tim Bauer e.Kfm.
+3. Tim Bauer Hard- und Software
+Antwort: Möglich sind 2. Tim Bauer e.K., 4. Bauer Computer e.K. und 5. Tim Bauer e.Kfm.
+Begründung: Beim eingetragenen Kaufmann muss ein zulässiger Rechtsformzusatz wie e.K.,
+e.Kfm. oder e.Kfr. verwendet werden.
+1.2 Handelt es sich bei der Firma um eine natürliche oder juristische Person?
+Antwort: Es handelt sich um eine natürliche Person, weil der Einzelkaufmann selbst rechtsfähig
+ist.
+1.3 Welche Vorschriften gelten für die Gründung (Formvorschrift, Anzahl der Gründer,
+Eintragung?) des Geschäfts und für das Mindestkapital?
+Antwort: Eine Person reicht aus. Die Gründung ist relativ einfach durch Gewerbeanmeldung bei
+der zuständigen Behörde; gegebenenfalls erfolgt eine Eintragung ins Handelsregister. Ein
+Mindestkapital ist nicht vorgeschrieben.
+2. Die offene Handelsgesellschaft
+2.1 Die Geschäfte der Tim Bauer OHG laufen schlecht und die OHG kann eine Rechnung in
+Höhe von 20.000,00 € nicht bezahlen. Der Lieferant weiß jedoch, dass Tim ein recht großes
+Privatvermögen besitzt und fordert deshalb von ihm die Bezahlung der Rechnung. Tim will
+die Rechnung eigentlich gar nicht privat bezahlen. Er wäre höchstens bereit, ein Drittel als
+Anteil zu bezahlen. Prüfen Sie die Rechtslage!
+Antwort: Tim muss nicht nur ein Drittel zahlen. Bei der OHG haften die Gesellschafter
+unbeschränkt, persönlich und gesamtschuldnerisch mit Privat- und Geschäftsvermögen. Der
+Lieferant darf daher die vollen 20.000,00 € von Tim verlangen. Tim kann anschließend im
+Innenverhältnis einen Ausgleich von den Mitgesellschaftern verlangen.
+2.2 Pia und Otto beschließen gemeinsam eine Praxis für Physiotherapie in der Rechtsform
+einer OHG zu eröffnen.
+2.2.1 Zur Finanzierung der Praxisausstattung nimmt Pia einen Bankkredit auf. Wer haftet
+für diesen Kredit?
+Antwort: Für den Kredit haften die OHG sowie Pia und Otto persönlich, unbeschränkt und
+gesamtschuldnerisch.
+```
+
+### Seite 65
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 65](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=65>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=65]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=65]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+2
+2.2.2 Nach einem halben Jahr kündigt Otto dem Verwaltungsangestellten Heiner F. ohne
+die Zustimmung von Pia. Ist die Kündigung wirksam?
+Antwort: Ja, nach außen ist die Kündigung grundsätzlich wirksam, wenn es sich um ein
+gewöhnliches Geschäft handelt. Bei der OHG ist grundsätzlich jeder Gesellschafter einzeln zur
+Geschäftsführung und Vertretung berechtigt.
+2.2.3 Was kann Pia unternehmen, wenn der Gesellschaft durch die Kündigung des
+Angestellten (vgl. 2) Schaden entstanden ist?
+Antwort: Pia beziehungsweise die Gesellschaft kann im Innenverhältnis Schadensersatz oder
+Regress von Otto verlangen, wenn Otto durch sein Handeln pflichtwidrig einen Schaden
+verursacht hat.
+2.2.4 Da die Geschäfte gut laufen und die Praxis deshalb mehr Platz braucht, kauft Pia
+Praxisräume für die OHG. Ist der Kaufvertrag rechtswirksam?
+Antwort: Nach außen ist der Kaufvertrag rechtswirksam, weil jeder Gesellschafter die OHG
+grundsätzlich einzeln vertreten kann. Im Innenverhältnis handelt es sich aber um ein
+außergewöhnliches Geschäft; dafür wäre die Zustimmung aller geschäftsführenden
+Gesellschafter erforderlich gewesen.
+```
+
+### Seite 66
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 66](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=66>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=66]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=66]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+3
+3. Die Kommanditgesellschaft
+Tim Bauer hat mit seinem Freund Paul zusammen eine OHG gegründet. Doch schon bald
+stellt sich heraus, dass die Verkaufsräume zu klein sind. Für die Anmietung eines größeren
+Geschäfts benötigen die beiden Kapital, das sie allein aber nicht aufbringen können. Zwei
+wohlhabende Bekannte, Rechtsanwälte Meise und Knauser sind bereit, sich finanziell am
+Geschäft zu beteiligen, allerdings nur, wenn sie nicht mit ihrem Privatvermögen haften und
+keine Geschäfte führen müssen, da sie von Hard- und Software „keinen blassen Schimmer“
+haben. Welche Lösung bietet sich an?
+Antwort: Es bietet sich die Gründung einer Kommanditgesellschaft (KG) an. Tim und Paul können
+als Vollhafter die Geschäfte führen. Meise und Knauser beteiligen sich nur mit Kapital und haften
+nur bis zur im Handelsregister eingetragenen Hafteinlage.
+3.1 Die vier entscheiden sich für die Gründung einer KG. Wer ist in diesem Fall
+Komplementär, wer Kommanditist?
+Antwort: Komplementäre: Tim Bauer und Paul. Kommanditisten: Meise und Knauser.
+3.2 Meise und Knauser fragen sich: „Wenn wir merken, dass unsere Freunde schlecht
+wirtschafteten, können wir dann doch z. B. im Einkauf mitentscheiden? Oder wie wäre es,
+wenn unsere Freunde einfach unser Geschäft verkaufen, können wir mitreden?“ (§ 164
+HGB)
+Antwort: Bei gewöhnlichen Geschäften, zum Beispiel normalem Einkauf, dürfen Kommanditisten
+grundsätzlich nicht mitentscheiden. Bei außergewöhnlichen Geschäften, zum Beispiel dem
+Verkauf des Geschäfts, haben sie ein Widerspruchsrecht. Außerdem haben Kommanditisten
+Kontroll- und Einsichtsrechte.
+3.3 Meise sagt zu Knauser: „Können wir eigentlich auch Verträge mit Kunden abschließen?
+Dann könnten wir für Tim und Paul Verträge abschließen, wenn diese im Urlaub sind?“ (§
+170 HGB)
+Antwort: Nein, Kommanditisten sind von der gesetzlichen Vertretung ausgeschlossen. Verträge
+für die KG könnten sie nur abschließen, wenn ihnen zum Beispiel Prokura oder
+Handlungsvollmacht erteilt wurde.
+4. Die Gewinnverteilung
+4.1 Berechne die Gewinnverteilung der „Wundpflaster OHG“. A hat 140.000 € eingebracht
+und B hält einen Kapitalanteil von 80.000 €. Der Gesamtgewinn beträgt 60.000 €. Die
+Gewinnverteilung erfolgt nach Anteilen.
+Anteil am
+Stammkapital in €
+Anteil am
+Stammkapital in %
+Gewinnanteil
+in €
+A 140.000 € 63,64 % 38.181,82 €
+B 80.000 € 36,36 % 21.818,18 €
+Gesamt 220.000 € 100 % 60.000,00 €
+```
+
+### Seite 67
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 67](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=67>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=67]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=67]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+4
+4.2 Im ersten Jahr hat die Schneider KG 30.000,00 € Gewinn gemacht, im Folgejahr
+9.000,00 € Verlust. Gewinn und Verlust sollen laut gesetzlicher Regelung verteilt werden.
+Die Kapitaleinlagen der Gesellschafter ergeben sich aus der Tabelle. Berechne für beide
+Jahre die Verteilung des Gewinns bzw. des Verlustes unter den drei Gesellschaftern.
+Gesellschafter Kapitaleinlage Gewinnanteil
+4 %
+Verteilung des
+Restgewinns
+Verlustverteilung
+im Folgejahr
+Tim 160.000 € 6.400 € 6.000 € -3.000 €
+Paul 100.000 € 4.000 € 6.000 € -3.000 €
+Christoph 40.000 € 1.600 € 6.000 € -3.000 €
+Gesamt 300.000 € 12.000 € 18.000 € -9.000 €
+```
+
+### Seite 68
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 68](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=68>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=68]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=68]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+5
+4. Die Gewinnverteilung
+4.3 Die „ESS-FOR-LESS GmbH“ hat im letzten Geschäftsjahr einen Gewinn von 40.000,00 €
+erwirtschaftet. Bettina hat dabei 10.000 € und Silvia 15.000 € in die GmbH eingebracht.
+Berechne die Gewinnverteilung.
+Stammkapital
+in EUR
+Verhältnis der
+Geschäftsanteile in %
+Gewinnverteilung
+in EUR
+Bettina 10.000 € 40 % 16.000 €
+Silvia 15.000 € 60 % 24.000 €
+Gesamt 25.000 € 100 % 40.000 €
+5. Die Aktiengesellschaft
+5.1 Der Aktionär als Eigentümer der Aktie ist im Nennwert der Aktie am Grundkapital
+beteiligt und Miteigentümer an der AG. In welcher Höhe haftet der Aktionär?
+Antwort: Der Aktionär haftet nicht persönlich für Schulden der AG. Es haftet nur das Vermögen
+der AG; wirtschaftlich riskiert der Aktionär nur den Wert seiner Aktien beziehungsweise Einlage.
+5.2 Welche Organe muss die AG haben? Nenne die Aufgaben der Organe.
+Antwort: Vorstand: leitet die AG und führt die Geschäfte eigenverantwortlich. Aufsichtsrat:
+überwacht und kontrolliert den Vorstand. Hauptversammlung: Versammlung der Aktionäre; sie
+wählt den Aufsichtsrat, entlastet Vorstand und Aufsichtsrat und entscheidet über wichtige Fragen,
+zum Beispiel die Gewinnausschüttung.
+6. Die Gesellschaft mit beschränkter Haftung
+Die Geschwister Peter, Elke und Veronika wollen einen Menü-Service in Form einer GmbH
+gründen. Entscheide und begründe, ob die Geschwister ihre Absicht in folgender Weise
+durchführen können.
+6.1 Das Unternehmen soll mit „Food 4 You“ firmieren und in das Handelsregister
+eingetragen werden.
+Antwort: Das geht nur mit Rechtsformzusatz. Die Firma müsste also zum Beispiel „Food 4 You
+GmbH“ heißen und in das Handelsregister eingetragen werden. „Food 4 You“ allein reicht nicht,
+weil der Zusatz GmbH vorgeschrieben ist.
+6.2 Jeder der drei Gesellschafter bringt 30.000,00 € auf.
+Antwort: Ja. Zusammen bringen die drei 90.000,00 € ein. Das Mindeststammkapital einer GmbH
+beträgt 25.000,00 €.
+6.3 Veronika wird von Peter und Elke in der Gesellschafterversammlung als alleinige
+Geschäftsführerin bestellt.
+Antwort: Ja. Eine GmbH muss mindestens eine Geschäftsführerin oder einen Geschäftsführer
+haben. Die Gesellschafterversammlung bestellt die Geschäftsführung; Veronika kann als
+natürliche, voll geschäftsfähige Person alleinige Geschäftsführerin sein.
+```
+
+### Seite 69
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 69](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=69>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=69]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=69]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+6
+7. Die Gesellschaft bürgerlichen Rechts
+Kreuze die richtige Antwort an:
+1. Was ist die richtige Rechtsgrundlage der GbR?
+☐ A) HGB §§ 1-20
+☒ B) BGB §§ 705 ff.
+☐ C) GmbHG §§ 1-15
+☐ D) AO §§ 51-68
+2. Wie viele Personen sind mindestens für eine GbR erforderlich?
+☐ A) 1
+☒ B) 2
+☐ C) 3
+☐ D) 7
+3. Wie haften die Gesellschafter einer GbR grundsätzlich?
+☐ A) Nur mit ihrer Einlage
+☐ B) nur mit dem Vermögen der GbR
+☒ C) Persönlich, unbeschränkt und gesamtschuldnerisch
+☐ D) Nur bei grober Fahrlässigkeit
+4. Ist die GbR automatisch im Handelsregister eingetragen?
+☐ A) Ja, immer
+☐ B) Nur bei großen Unternehmen
+☒ C) Nein, grundsätzlich nicht
+☐ D) Nur bei Kapitalgesellschaften
+5. Was gilt für die Geschäftsführung der GbR ohne besondere Vereinbarung?
+☐ A) Nur ein Geschäftsführer entscheidet
+☒ B) Alle Gesellschafter gemeinsam
+☐ C) Ein externer Geschäftsführer muss eingestellt werden
+☐ D) Das Amtsgericht entscheidet
+6. Was ist korrekt zur Gewinnverteilung ohne vertragliche Regelung?
+☐ A) Nach Kapitalanteilen
+☒ B) Gleichmäßig unter allen Gesellschaftern
+☐ C) Nach Arbeitszeit
+☐ D) Nach Umsatz
+7. Welche Aussage zur Rechtsfähigkeit ist richtig?
+☐ A) Die GbR ist nie rechtsfähig
+☐ B) Nur große GbRs sind rechtsfähig
+☒ C) Die GbR kann rechtsfähig sein, wenn sie am Rechtsverkehr teilnimmt
+☐ D) Rechtsfähigkeit gibt es nur bei der GmbH
+```
+
+### Seite 70
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 70](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=70>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=70]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=70]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+7
+8. Was ist ein Vorteil der GbR?
+☐ A) Pflicht zur hohen Kapitalausstattung
+☒ B) Einfache und flexible Gründung
+☐ C) Keine Haftung
+☐ D) Automatische Steuerfreiheit
+9. Was ist ein Nachteil der GbR?
+☐ A) Hohe Gründungskosten
+☐ B) Strenge staatliche Kontrolle wie bei der GmbH
+☒ C) Persönliche Haftung der Gesellschafter
+☐ D) Pflicht zur Börsennotierung
+10. Wie hoch ist das Mindestkapital bei der Gründung einer GbR?
+☐ A) 25.000 €
+☐ B) 50.000 €
+☐ C) 1 €
+☒ D) 0 €
+```
+
+### Seite 71
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 71](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=71>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=71]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=71]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+Was ist eine gemeinnützige Organisation?
+Mögliche Zwecke sind beispielsweise:
+• Bildung
+• Sport
+•
+________________________________________
+•
+________________________________________
+•
+________________________________________
+•
+________________________________________
+•
+________________________________________
+•
+________________________________________
+•
+________________________________________
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+Tierschutz
+Umweltschutz
+Gesundheit
+Hilfe für Entwicklungsländer
+Humanitäre hilfe
+Katastrophenschutz
+Eine gemeinnützige Organisation verfolgt keine Gewinnerzielung
+für Eigentümer oder Gesellschafter, sondern dient dem Wohl der
+Allgemeinheit.
+```
+
+### Seite 72
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 72](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=72>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=72]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=72]]
+
+> [!ocr] Visuell transkribiert
+> Handschriftliche Kreuze in der Zuordnungstabelle aus Sichtprüfung ergänzt. Die eingebettete Originalseite bleibt maßgeblich.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+BGWP LF 1 – 08 Unternehmensrecht
+
+Kennzeichen
+Eine gemeinnützige Organisation
+- verfolgt einen gemeinnützigen Zweck
+- arbeitet selbstlos
+- verwendet Einnahmen für ihren Zweck
+- darf Gewinne erzielen
+- darf Gewinne jedoch nicht an Mitglieder ausschütten
+
+Finanzierung
+Gemeinnützige Organisationen finanzieren sich häufig durch:
+- Mitgliedsbeiträge
+- Spenden
+- Sponsoring
+- öffentliche Fördergelder
+- Einnahmen aus Veranstaltungen
+- Verkauf von Produkten
+
+Rechtsformen
+Häufige Rechtsformen sind:
+- eingetragener Verein (e.V.)
+- Stiftung
+- gemeinnützige GmbH (gGmbH)
+
+Vergleich: Gemeinnützige Organisation vs. Unternehmen
+- Gemeinwohl | Gewinn
+- Spenden möglich | keine Spendenfinanzierung
+- Gewinne bleiben in der Organisation | Gewinne an Eigentümer
+- Steuervergünstigungen | normale Besteuerung
+
+Ordne die Organisationen zu (angekreuzte Lösung):
+- Deutsches Rotes Kreuz: Gemeinnützig
+- Aldi: Nicht gemeinnützig
+- WWF: Gemeinnützig
+- IKEA: Nicht gemeinnützig
+- Tierheim: Gemeinnützig
+- Caritas: Gemeinnützig
+- örtlicher Sportverein: Gemeinnützig
+- Deutsche Bahn: Nicht gemeinnützig
+- Greenpeace: Gemeinnützig
+```
+
+### Seite 73
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 73](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=73>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=73]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=73]]
+
+> [!ocr] Visuell transkribiert
+> Handschriftliche Kreuze und Begründungen zu den Fallbeispielen aus Sichtprüfung zugeordnet. Die eingebettete Originalseite bleibt maßgeblich.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+BGWP LF 1 – 08 Unternehmensrecht
+Übung – gemeinnützige Organisationen
+
+Fall 1: Ein Sportverein erzielt beim Sommerfest einen Gewinn von 5.000 €. Der Vorstand möchte jedem Mitglied 100 € auszahlen.
+Ist das erlaubt? [x] Nein ([ ] Ja)
+Begründung: Keine Gewinnausschüttung
+
+Fall 2: Ein Tierheim erhält Spenden. Davon werden Futter gekauft, Tierarztkosten bezahlt, neue Gehege gebaut.
+Ist das gemeinnützig? [x] Ja ([ ] Nein)
+Begründung: Zum Wohl der Tiere und kein Gewinn damit erzielt
+
+Fall 3: Eine Organisation sammelt Spenden für Kinder mit schweren Krankheiten.
+Ist dies ein gemeinnütziger Zweck? [x] Ja ([ ] Nein)
+Begründung: Kein Gewinn, dient den Kindern
+
+Fall 4: Ein Unternehmen spendet jedes Jahr 20.000 € an ein Tierheim.
+Ist das Unternehmen dadurch automatisch gemeinnützig? [x] Nein ([ ] Ja)
+Begründung: Es hat, solange es nicht selbst non-profit ist, Gewinnmaximierung als Ziel
+```
+
+### Seite 74
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 74](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=74>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=74]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=74]]
+
+> [!ocr] Visuell transkribiert
+> Handschriftliche Kreuze und Antworten aus Sichtprüfung zugeordnet. Die eingebettete Originalseite bleibt maßgeblich.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+BGWP LF 1 – 08 Unternehmensrecht
+
+1. Kreuze richtig an. Eine gemeinnützige Organisation ...
+[x] verfolgt das Gemeinwohl.
+[ ] schüttet Gewinne an Mitglieder aus.
+[x] arbeitet selbstlos.
+[x] darf Spenden erhalten.
+[x] muss Gewinne für ihren Zweck verwenden.
+
+2. Nenne drei Finanzierungsmöglichkeiten.
+1. Spenden
+2. Beiträge
+3. Fördermittel
+
+3. Erkläre den Begriff "gemeinnützig".
+dient der Allgemeinheit und nicht nur sich selbst
+
+4. Nenne zwei Beispiele für gemeinnützige Organisationen.
+1. Greenpeace
+2. Caritas
+
+5. Warum sind gemeinnützige Organisationen wichtig für unsere Gesellschaft?
+Helfen weniger Privilegierten, fördern Kultur, helfen Tieren, überall wo man alleine schwierig helfen kann
+```
+
+### Seite 75
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 75](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=75>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=75]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=75]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+Das Gesetz gegen unlauteren Wettbewerb
+Das Gesetz gegen den unlauteren Wettbewerb, kurz UWG, soll dafür sorgen, dass
+Unternehmen fair miteinander konkurrieren. Es schützt dabei nicht nur andere
+Unternehmen, sondern auch Verbraucherinnen und Verbraucher.
+Unternehmen dürfen für ihre Produkte werben und versuchen, möglichst viele
+Kundinnen und Kunden zu gewinnen. Dabei dürfen sie aber nicht lügen, täuschen
+oder Menschen unfair unter Druck setzen.
+Das UWG verbietet deshalb zum Beispiel irreführende Werbung. Irreführend ist
+Werbung, wenn sie falsche oder unklare Informationen enthält. Ein Beispiel wäre:
+Ein Geschäft wirbt mit „50 % Rabatt“, obwohl der Preis vorher extra erhöht wurde.
+Auch Aussagen wie „Testsieger“ sind problematisch, wenn nicht klar ist, welcher
+Test gemeint ist.
+Außerdem darf Werbung nicht verschleiert werden. Wenn eine Influencerin oder
+ein Influencer für ein Produkt bezahlt wird, muss erkennbar sein, dass es sich um
+Werbung handelt. Sonst könnten Menschen denken, die Empfehlung sei nur eine
+persönliche Meinung.
+Das UWG schützt auch vor aggressiven Geschäftsmethoden. Unternehmen
+dürfen Kundinnen und Kunden nicht durch starken Druck, Drohungen oder
+Täuschung zum Kauf bringen. Beispielsweise wäre es unfair, wenn ein Online-Shop
+ständig behauptet: „Nur noch ein Produkt verfügbar!“, obwohl noch sehr viele
+Artikel auf Lager sind.
+Auch gegenüber anderen Unternehmen gelten Regeln. Ein Unternehmen darf
+seine Konkurrenz nicht absichtlich schlechtmachen, falsche Behauptungen über
+sie verbreiten oder ihre Produkte nachahmen, um Kundinnen und Kunden zu
+verwirren.
+Das Ziel des UWG ist ein fairer Wettbewerb. Unternehmen sollen durch gute
+Produkte, faire Preise und ehrliche Werbung erfolgreich sein – nicht durch
+Täuschung oder unfairen Druck.
+Merksatz: Das UWG schützt Verbraucherinnen, Verbraucher und Unternehmen
+vor unfairer Werbung und unfairen Geschäftsmethoden.
+```
+
+### Seite 76
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 76](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=76>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=76]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=76]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+Konzern, Fusion, Holding und Kartell
+Ein Konzern ist ein Zusammenschluss mehrerer rechtlich selbstständiger
+Unternehmen unter einer einheitlichen Leitung. Die einzelnen Unternehmen
+bleiben eigenständige Firmen, werden jedoch wirtschaftlich von einem
+übergeordneten Unternehmen gesteuert. Konzerne entstehen häufig, wenn ein
+Unternehmen Beteiligungen an anderen Unternehmen besitzt oder diese
+vollständig übernimmt. Ziel kann es sein, Kosten zu senken, neue Märkte zu
+erschließen oder die eigene Marktposition zu stärken.
+Eine Fusion bezeichnet den Zusammenschluss von zwei oder mehr Unternehmen
+zu einem neuen oder gemeinsamen Unternehmen. Dabei geben die beteiligten
+Firmen ihre bisherige rechtliche Selbstständigkeit ganz oder teilweise auf. Fusionen
+können sinnvoll sein, wenn Unternehmen ihre Ressourcen, ihr Wissen oder ihre
+Produktionskapazitäten bündeln möchten. Gleichzeitig prüfen Behörden solche
+Zusammenschlüsse, damit kein Unternehmen eine zu starke (Monopol-)Stellung
+auf dem Markt erhält.
+Eine Holding ist ein Unternehmen, das vor allem Beteiligungen an anderen
+Unternehmen hält und diese kontrolliert. Die Holding selbst produziert häufig keine
+Waren und bietet oft keine Dienstleistungen an. Stattdessen übernimmt sie
+Aufgaben wie die strategische Planung, Finanzierung oder Verwaltung ihrer
+Tochterunternehmen. Durch diese Struktur können verschiedene
+Geschäftsbereiche unter einem gemeinsamen Dach organisiert werden.
+Ein Kartell ist eine Vereinbarung oder abgestimmte Zusammenarbeit zwischen
+rechtlich selbstständigen Unternehmen. Die Unternehmen bleiben dabei
+eigenständig, sprechen sich aber über ihr Verhalten am Markt ab. Das Ziel ist
+häufig, den Wettbewerb zu verringern und dadurch höhere Gewinne zu erzielen.
+Für Verbraucherinnen und Verbraucher kann das zu höheren Preisen, weniger
+Auswahl und geringerer Qualität führen.
+Es gibt verschiedene Arten von Kartellen. Bei einem Preiskartell vereinbaren
+Unternehmen gemeinsame Preise oder Preisaufschläge. Ein Gebietskartell teilt
+Verkaufsgebiete auf, sodass bestimmte Unternehmen nur in bestimmten
+Regionen tätig werden. Beim Kundenkartell sprechen Unternehmen ab, welche
+Kundengruppen sie beliefern. Ein Quotenkartell legt fest, wie viel jedes
+Unternehmen produzieren oder verkaufen darf. Außerdem gibt es
+Submissionskartelle, bei denen sich Unternehmen bei Ausschreibungen
+absprechen, damit ein vorher bestimmtes Unternehmen den Auftrag erhält. Ein
+Normenkartell liegt vor, wenn Unternehmen gemeinsame Standards oder Normen
+für Produkte, Dienstleistungen oder technische Anforderungen festlegen, um sich
+```
+
+### Seite 77
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 77](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=77>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=77]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=77]]
+
+> [!ocr] Visuell transkribiert
+> Handschriftliche Zuordnungen und Kreuze aus Sichtprüfung ergänzt. Die eingebettete Originalseite bleibt maßgeblich.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+BGWP LF 1 – 08 Unternehmensrecht
+Konzern, Fusion, Holding und Kartell
+
+Aufgabe 1: Begriffsklärung
+a) Erkläre mit eigenen Worten die Begriffe Konzern, Fusion, Holding und Kartell.
+- Konzern: mehrere Firmen
+- Fusion: Zusammenschluss
+- Holding: besitzt Anteile
+- Kartell: (nicht ausgefüllt)
+
+b) Ordne die Aussagen dem passenden Begriff zu: Konzern, Fusion, Holding oder Kartell
+1. Mehrere Unternehmen werden von einer gemeinsamen Leitung wirtschaftlich gesteuert. -> Ko (Konzern)
+2. Unternehmen sprechen Preise oder Verkaufsgebiete miteinander ab. -> Ka (Kartell)
+3. Ein Unternehmen besitzt Beteiligungen an anderen Unternehmen und übernimmt vor allem Planung, Finanzierung und Verwaltung. -> H (Holding)
+4. Zwei Unternehmen schließen sich zu einem gemeinsamen Unternehmen zusammen. -> F (Fusion)
+5. Die beteiligten Unternehmen bleiben rechtlich selbstständig, handeln aber nicht vollständig unabhängig am Markt. -> Ka (Kartell)
+6. Die bisherigen rechtlich selbstständigen Unternehmen geben ihre Selbstständigkeit ganz oder teilweise auf. -> F (Fusion)
+
+Aufgabe 2
+a) Richtig oder falsch? Kreuze an!
+- Bei einer Fusion bleiben alle Unternehmen vollständig rechtlich selbstständig. -> falsch
+- Eine Holding produziert häufig selbst keine Waren. -> richtig
+```
+
+### Seite 78
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 78](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=78>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=78]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=78]]
+
+> [!ocr] Visuell transkribiert
+> Handschriftliche Kreuze, Unterschiede und Kartellart-Kürzel aus Sichtprüfung zugeordnet. Die eingebettete Originalseite bleibt maßgeblich.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+BGWP LF 1 – 08 Unternehmensrecht
+
+Aufgabe 2 (Fortsetzung)
+a) Richtig oder falsch?
+- Ein Kartell soll meist den Wettbewerb verringern. -> richtig
+- Ein Konzern besteht nur aus einem einzigen Unternehmen. -> falsch
+- Kartelle können für Verbraucherinnen und Verbraucher Nachteile haben. -> richtig
+- Das Bundeskartellamt überwacht in Deutschland die Einhaltung des Kartellrechts. -> richtig
+
+b) Nenne jeweils einen Unterschied zwischen:
+1. Konzern und Fusion: Fusion wird zu einer Firma
+2. Holding und Konzern: Holding hat nur Anteile
+3. Kartell und Fusion: Fusion wird zu einer Firma
+
+Aufgabe 3: Kartellarten zuordnen
+(Preiskartell, Gebietskartell, Kundenkartell, Quotenkartell, Submissionskartell, Normenkartell)
+1. Drei Baufirmen vereinbaren heimlich, welche Firma bei einer Ausschreibung den Auftrag erhalten soll. -> S (Submissionskartell)
+2. Mehrere Hersteller legen fest, dass alle Ladegeräte dieselbe technische Anschlussform haben sollen. -> N (Normenkartell)
+3. Vier Supermarktketten sprechen sich über Preisaufschläge bei Milch ab. -> P (Preiskartell)
+4. Mehrere Unternehmen teilen Deutschland in Verkaufsregionen auf. -> G (Gebietskartell)
+5. Zwei Hersteller vereinbaren, dass einer nur große Unternehmen und der andere nur kleine Unternehmen beliefert. -> K (Kundenkartell)
+6. Mehrere Produzenten legen fest, wie viele Fahrräder jedes Unternehmen pro Jahr herstellen darf. -> Q (Quotenkartell)
+```
+
+### Seite 79
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 79](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=79>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=79]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=79]]
+
+> [!ocr] Visuell transkribiert
+> Eingetragene Antworten den jeweiligen Fällen A–D und Aufgaben 5a–b aus Sichtprüfung korrekt zugeordnet (Musterlösung siehe Seite 82).
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+BGWP LF 1 – 08 Unternehmensrecht
+
+Aufgabe 4
+Lies die Situationen durch und entscheide jeweils: erlaubt, wahrscheinlich verboten oder muss genauer geprüft werden. Begründe deine Entscheidung.
+
+Fall A: Drei Bäckereien sprechen sich ab, dass ein Brötchen überall genau 50 Cent kosten soll.
+Entscheidung: Nicht erlaubt
+Begründung: Preiskartell
+
+Fall B: Mehrere Unternehmen entwickeln gemeinsam einen technischen Sicherheitsstandard. Der Standard ist öffentlich zugänglich und kann von allen Unternehmen genutzt werden.
+Entscheidung: Erlaubt
+Begründung: Davon haben Verbraucher keinen Nachteil eher Vorteil
+
+Fall C: Zwei kleine regionale Lieferdienste kaufen gemeinsam Verpackungsmaterial ein, um günstigere Einkaufspreise zu erhalten. Sie sprechen jedoch keine Preise für ihre Kundinnen und Kunden ab.
+Entscheidung: Erlaubt
+Begründung: Kleine Unternehmen dürfen zusammenarbeiten
+
+Fall D: Mehrere Autohäuser vereinbaren, dass jedes nur Kundinnen und Kunden aus einem bestimmten Stadtteil bedienen darf.
+Entscheidung: Nicht erlaubt
+Begründung: Gebietskartell
+
+Aufgabe 5: Auswirkungen für Verbraucher
+a) Nenne drei mögliche Folgen eines Kartells für Verbraucherinnen und Verbraucher.
+1. Bessere Preise durch Kostensenkung der Unternehmen
+2. Ggf. auch höhere Preise da sie den Marktanteil vergrößern und Monopol zsm erreichen
+3. Diskriminierung durch illegale Absprachen von Unternehmen
+
+b) Erkläre, warum Kartellrecht für einen fairen Wettbewerb wichtig ist.
+Ist dafür da dass sich Unternehmen nicht absprechen und bessere Qualität und Preise für Verbraucher zu gewähren
+```
+
+### Seite 80
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 80](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=80>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=80]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=80]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+STAATLICHE BERUFSSCHULE Klasse:
+BGWP LF 1 Datum:
+08 Unternehmensrecht
+Lösungsblatt: Konzern, Fusion, Holding und Kartell
+Aufgabe 1: Begriffsklärung
+a) Erkläre mit eigenen Worten die Begriffe Konzern, Fusion, Holding und Kartell.
+Begriff Erklärung mit eigenen Worten
+Konzern Ein Zusammenschluss mehrerer Unternehmen, die rechtlich selbst-
+ständig bleiben, aber wirtschaftlich einheitlich von einem übergeord-
+neten Unternehmen gelenkt werden.
+Fusion Zwei oder mehr Unternehmen schließen sich zusammen und bilden
+ein neues, gemeinsames Unternehmen, wobei sie ihre bisherige recht-
+liche Selbstständigkeit aufgeben.
+Holding Eine Gesellschaft, die oft selbst keine Waren produziert, sondern Be-
+teiligungen an anderen Unternehmen hält und deren strategische Pla-
+nung und Verwaltung übernimmt.
+Kartell Eine Absprache zwischen rechtlich selbstständigen Unternehmen (z.B.
+über Preise), um den Wettbewerb zu verringern und höhere Gewinne
+zu erzielen.
+b) Ordne die Aussagen dem passenden Begriff zu:
+1. Mehrere Unternehmen werden von einer gemeinsamen Leitung wirtschaftlich gesteuert.
+! Konzern
+2. Unternehmen sprechen Preise oder Verkaufsgebiete miteinander ab. ! Kartell
+3. Ein Unternehmen besitzt Beteiligungen an anderen Unternehmen und übernimmt vor al-
+lem Planung, Finanzierung und Verwaltung. ! Holding
+4. Zwei Unternehmen schließen sich zu einem gemeinsamen Unternehmen zusammen. !
+Fusion
+5. Die beteiligten Unternehmen bleiben rechtlich selbstständig, handeln aber nicht vollstän-
+dig unabhängig am Markt. ! Kartell
+6. Die bisherigen rechtlich selbstständigen Unternehmen geben ihre Selbstständigkeit ganz
+oder teilweise auf. ! Fusion
+1
+```
+
+### Seite 81
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 81](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=81>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=81]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=81]]
+
+> [!ocr] Visuell transkribiert
+> Spaltenzuordnung (richtig/falsch) in Aufgabe 2a und Pfeile in Aufgabe 3 aus Sichtprüfung eindeutig dargestellt. Die eingebettete Originalseite bleibt maßgeblich.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Lösungsblatt: Konzern, Fusion, Holding und Kartell (Seite 2)
+
+Aufgabe 2
+a) Richtig oder falsch? Kreuze an!
+- Bei einer Fusion bleiben alle Unternehmen vollständig rechtlich selbstständig. -> falsch
+- Eine Holding produziert häufig selbst keine Waren. -> richtig
+- Ein Kartell soll meist den Wettbewerb verringern. -> richtig
+- Ein Konzern besteht nur aus einem einzigen Unternehmen. -> falsch
+- Kartelle können für Verbraucherinnen und Verbraucher Nachteile haben. -> richtig
+- Das Bundeskartellamt überwacht in Deutschland die Einhaltung des Kartellrechts. -> richtig
+
+b) Nenne jeweils einen Unterschied zwischen:
+1. Konzern und Fusion: Bei einem Konzern bleiben die einzelnen Firmen rechtlich eigenständig, während sie bei einer Fusion ihre rechtliche Selbstständigkeit aufgeben und zu einem Unternehmen verschmelzen.
+2. Holding und Konzern: Eine Holding ist oft eine reine Verwaltungsgesellschaft, die selbst keine Waren produziert, sondern nur Anteile hält. Ein Konzern ist der gesamte wirtschaftliche Zusammenschluss, der auch produzierende Töchter unter einer Leitung umfasst.
+3. Kartell und Fusion: Bei einem Kartell bleiben die Unternehmen rechtlich selbstständig, treffen aber verbotene Absprachen. Bei einer Fusion schließen sie sich offiziell zu einem einzigen, neuen Unternehmen zusammen.
+
+Aufgabe 3: Kartellarten zuordnen
+1. Drei Baufirmen vereinbaren heimlich, welche Firma bei einer Ausschreibung den Auftrag erhalten soll. -> Submissionskartell
+2. Mehrere Hersteller legen fest, dass alle Ladegeräte dieselbe technische Anschlussform haben sollen. -> Normenkartell
+3. Vier Supermarktketten sprechen sich über Preisaufschläge bei Milch ab. -> Preiskartell
+4. Mehrere Unternehmen teilen Deutschland in Verkaufsregionen auf. -> Gebietskartell
+5. Zwei Hersteller vereinbaren, dass einer nur große Unternehmen und der andere nur kleine Unternehmen beliefert. -> Kundenkartell
+6. Mehrere Produzenten legen fest, wie viele Fahrräder jedes Unternehmen pro Jahr herstellen darf. -> Quotenkartell
+```
+
+### Seite 82
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 82](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=82>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=82]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=82]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Aufgabe 4: Fallbeispiele prüfen
+Fall A: Drei Bäckereien sprechen sich ab, dass ein Brötchen überall genau 50 Cent kosten
+soll.
+Entscheidung: Wahrscheinlich verboten.
+Begründung: Es handelt sich um ein Preiskartell, da Preise abgesprochen werden. Preisabspra-
+chen sind in Deutschland und der EU grundsätzlich verboten.
+Fall B: Mehrere Unternehmen entwickeln gemeinsam einen technischen Sicherheitsstan-
+dard. Der Standard ist öffentlich zugänglich und kann von allen Unternehmen genutzt
+werden.
+Entscheidung: Erlaubt.
+Begründung: Ein Normenkartell ist erlaubt, wenn die Standards für alle offen zugänglich sind,
+den Wettbewerb nicht behindern und die Sicherheit oder Qualität verbessern.
+Fall C: Zwei kleine regionale Lieferdienste kaufen gemeinsam Verpackungsmaterial ein,
+um günstigere Einkaufspreise zu erhalten. Sie sprechen jedoch keine Preise für ihre Kun-
+dinnen und Kunden ab.
+Entscheidung: Erlaubt.
+Begründung: Kleine Unternehmen dürfen zusammenarbeiten (z. B. für gemeinsamen Einkauf),
+solange keine marktbeherrschende Stellung entsteht und keine Preise gegenüber den Kunden
+abgesprochen werden.
+Fall D: Mehrere Autohäuser vereinbaren, dass jedes nur Kundinnen und Kunden aus ei-
+nem bestimmten Stadtteil bedienen darf.
+Entscheidung: Wahrscheinlich verboten.
+Begründung: Dies ist ein Gebietskartell. Die Aufteilung von Verkaufsgebieten schränkt den
+Wettbewerb ein und ist unzulässig.
+Aufgabe 5: Auswirkungen für Verbraucher
+a) Nenne drei mögliche Folgen eines Kartells für Verbraucherinnen und Verbraucher.
+1. Höhere Preise
+2. Weniger Auswahl
+3. Geringere Qualität
+b) Erkläre, warum Kartellrecht für einen fairen Wettbewerb wichtig ist.
+Das Kartellrecht stellt sicher, dass Unternehmen sich nicht heimlich absprechen, sondern sich
+im Markt beweisen müssen. Ein funktionierender Wettbewerb zwingt Unternehmen dazu, bes-
+sere Qualität, günstigere Preise, guten Service und neue Ideen anzubieten, wovon letztlich die
+Verbraucher profitieren.
+3
+```
+
+### Seite 83
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP.pdf Seite 83](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=83>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=83]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=83]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP
+LF 1
+08 Unternehmensrecht Klasse:
+Datum:
+vom Wettbewerb abzugrenzen oder den Marktzugang zu beeinflussen. Auch
+solche Absprachen können den Wettbewerb einschränken.
+In Deutschland und der Europäischen Union sind Kartelle grundsätzlich verboten.
+Verboten sind insbesondere Absprachen über Preise, Rabatte,
+Produktionsmengen, Kundinnen und Kunden, Verkaufsgebiete oder Angebote
+bei Ausschreibungen. Auch der Austausch vertraulicher Informationen kann
+unzulässig sein, wenn dadurch Unternehmen ihr Marktverhalten abstimmen.
+Solche Verstöße können mit hohen Geldbußen geahndet werden. In Deutschland
+überwacht vor allem das Bundeskartellamt die Einhaltung der Regeln; auf
+europäischer Ebene ist die Europäische Kommission zuständig.
+Ein Normenkartell kann dagegen unter bestimmten Bedingungen erlaubt sein.
+Das gilt, wenn Unternehmen gemeinsam technische Standards festlegen, die für
+alle offen zugänglich sind und den Wettbewerb nicht behindern. Solche Normen
+können zum Beispiel Sicherheit, Qualität oder die Kompatibilität von Produkten
+verbessern. Es darf dabei aber nicht darum gehen, andere Unternehmen vom
+Markt auszuschließen, Preise abzusprechen oder einzelnen Firmen Vorteile zu
+verschaffen.
+Nicht jede Zusammenarbeit zwischen Unternehmen ist automatisch verboten.
+Erlaubt sein können zum Beispiel gemeinsame Forschungsprojekte, technische
+Normen oder Kooperationen beim Umweltschutz, wenn sie den Wettbewerb
+nicht erheblich einschränken und zugleich Vorteile für Kundinnen und Kunden
+entstehen. Auch kleine Unternehmen dürfen in bestimmten Fällen
+zusammenarbeiten, etwa um gemeinsam einzukaufen oder Lieferungen zu
+organisieren, sofern dadurch keine marktbeherrschende Stellung entsteht und
+Preise nicht abgesprochen werden.
+Das Kartellrecht soll einen fairen Wettbewerb sichern. Unternehmen sollen durch
+bessere Qualität, günstigere Preise, neue Ideen und guten Service miteinander
+konkurrieren, statt sich heimlich abzusprechen.
+```

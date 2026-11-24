@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Elektrotechnik Grundlagen Mathematik** im Fach **ITT IT-Technik**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01ABLadung Q S. 1]]; [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2|01ABLadung Q S. 2]]; [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=3|01ABLadung Q S. 3]]; [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=4|01ABLadung Q S. 4]]; [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=5|01ABLadung Q S. 5]]; [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6|01ABLadung Q S. 6]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01ABLadung Q S. 1]]; [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2|01ABLadung Q S. 2]]; [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=3|01ABLadung Q S. 3]]; [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=4|01ABLadung Q S. 4]]; [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=5|01ABLadung Q S. 5]]; [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6|01ABLadung Q S. 6]].
 > - **Zentrale Suchbegriffe:** Elektrotechnik, Grundlagen, Mathematik, FU-IT, Wild.
 > - **Prüfungsbezug:** AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -55,104 +55,104 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=1>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=3>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=4>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=5>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=7>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=8>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=9>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=10>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=11>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=12>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=13>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=14>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=15>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=16>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 17 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=17>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 18 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=18>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 19 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=19>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 20 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=20>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 21 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=21>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 22 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 22](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=22>) | Aurena Electronic GmbH | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 23 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 23](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=23>) | Aurena Electronic GmbH | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 24 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=24>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 25 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 25](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=25>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 26 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 26](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=26>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 27 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 27](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=27>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 28 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=28>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 29 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=29>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 30 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 30](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=30>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 31 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=31>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 32 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 32](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=32>) | Version 2010.4 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 33 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=33>) | info@MSI.eu | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 34 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=34>) | Sie möchten die Energiekosten Ihrer Geräte selbst | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 35 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=35>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 36 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=36>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 37 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 37](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=37>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 38 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=38>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 39 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 39](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=39>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 40 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 40](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=40>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 41 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 41](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=41>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 42 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 42](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=42>) | info@bequiet!.eu | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 43 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=43>) | Die Verlustleistung bzw. W‰rme verursacht unnˆtige Kosten und reduziert | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 44 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 44](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=44>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 45 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=45>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 46 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 46](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=46>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 47 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=47>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 48 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 48](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=48>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 49 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=49>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 50 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 50](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=50>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 51 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 51](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=51>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 52 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 52](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=52>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 53 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 53](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=53>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 54 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 54](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=54>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 55 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 55](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=55>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 56 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 56](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=56>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 57 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 57](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=57>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 58 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=58>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 59 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 59](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=59>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 60 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=60>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 61 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=61>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 62 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=62>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 63 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 63](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=63>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 64 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 64](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=64>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 65 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 65](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=65>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 66 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 66](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=66>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 67 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 67](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=67>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 68 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 68](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=68>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 69 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 69](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=69>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 70 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 70](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=70>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 71 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 71](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=71>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 72 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 72](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=72>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 73 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 73](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=73>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 74 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 74](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=74>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 75 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 75](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=75>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 76 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 76](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=76>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 77 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 77](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=77>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 78 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 78](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=78>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 79 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 79](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=79>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 80 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 80](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=80>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 81 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 81](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=81>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 82 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 82](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=82>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 83 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 83](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=83>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 84 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 84](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=84>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 85 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 85](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=85>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 86 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 86](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=86>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 87 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 87](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=87>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 88 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 88](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=88>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 89 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 89](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=89>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 90 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 90](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=90>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 91 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=1>) | It_Elektro_Wild_Zusammenfassung Seite 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 92 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=2>) | Faktor - __Vorsatz - Vorsatzzeichen Die elektrische Ladung Q | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 93 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=3>) | Nob AD m ett 1. vauıı. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 94 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=4>) | 1. Ergänzt die Formel sowie die Einheit der elektrischen Leistung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 95 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=5>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 96 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=6>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 97 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=7>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 98 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=8>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=3>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=4>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=5>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=7>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=8>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=9>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=10>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=11>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=12>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=13>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=14>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=15>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=16>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 17 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=17>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 18 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=18>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 19 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=19>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 20 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=20>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 21 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=21>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 22 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 22](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=22>) | Aurena Electronic GmbH | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 23 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 23](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=23>) | Aurena Electronic GmbH | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 24 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=24>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 25 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 25](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=25>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 26 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 26](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=26>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 27 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 27](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=27>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 28 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=28>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 29 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=29>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 30 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 30](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=30>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 31 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=31>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 32 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 32](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=32>) | Version 2010.4 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 33 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=33>) | info@MSI.eu | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 34 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=34>) | Sie möchten die Energiekosten Ihrer Geräte selbst | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 35 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=35>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 36 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=36>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 37 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 37](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=37>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 38 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=38>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 39 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 39](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=39>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 40 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 40](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=40>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 41 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 41](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=41>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 42 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 42](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=42>) | info@bequiet!.eu | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 43 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=43>) | Die Verlustleistung bzw. W‰rme verursacht unnˆtige Kosten und reduziert | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 44 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 44](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=44>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 45 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=45>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 46 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 46](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=46>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 47 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=47>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 48 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 48](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=48>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 49 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=49>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 50 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 50](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=50>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 51 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 51](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=51>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 52 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 52](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=52>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 53 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 53](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=53>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 54 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 54](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=54>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 55 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 55](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=55>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 56 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 56](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=56>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 57 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 57](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=57>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 58 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=58>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 59 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 59](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=59>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 60 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=60>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 61 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=61>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 62 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=62>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 63 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 63](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=63>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 64 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 64](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=64>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 65 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 65](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=65>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 66 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 66](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=66>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 67 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 67](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=67>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 68 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 68](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=68>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 69 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 69](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=69>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 70 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 70](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=70>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 71 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 71](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=71>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 72 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 72](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=72>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 73 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 73](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=73>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 74 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 74](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=74>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 75 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 75](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=75>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 76 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 76](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=76>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 77 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 77](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=77>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 78 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 78](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=78>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 79 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 79](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=79>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 80 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 80](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=80>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 81 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 81](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=81>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 82 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 82](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=82>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 83 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 83](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=83>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 84 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 84](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=84>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 85 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 85](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=85>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 86 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 86](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=86>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 87 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 87](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=87>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 88 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 88](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=88>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 89 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 89](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=89>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 90 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 90](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=90>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 91 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=1>) | It_Elektro_Wild_Zusammenfassung Seite 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 92 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=2>) | Faktor - __Vorsatz - Vorsatzzeichen Die elektrische Ladung Q | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 93 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=3>) | Nob AD m ett 1. vauıı. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 94 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=4>) | 1. Ergänzt die Formel sowie die Einheit der elektrischen Leistung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 95 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=5>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 96 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=6>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 97 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=7>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 98 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=8>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -161,11 +161,11 @@ tags:
 #### Seite 1: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=1]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 1 1 Bestandteile einer Rechnung Folgende Bestandteile sind f¸r volle Punktzahl in Leistungsnachweisen grunds‰tzlich bei jeder Rechnung anzugeben: 1. Formel mit Formelbuchstaben 2. Eingesetzte Werte mit Einheiten 3. Unterstrichenes Endergebnis 2 Zehnerpotenzen und Einheitenvors‰tze • Um sehr kleine bzw. groﬂe Zahlenwerte sinnvoll darzustellen, wird in der Physik bzw. Elektrotechnik auf die Darstellung mit Zehnerpotenzen bzw. Einheitenvors‰tzen zur¸ckgegriffen. Beispielsweise wird die Elementarladung e mit 1,602 * 10-19 Coulomb angegeben. Schlieﬂlich ist die Schreibweise 0,0000000000000000001602 Coulomb sehr unl …
@@ -233,11 +233,11 @@ Tabelle:
 #### Seite 2: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 2 Faktor Vorsatz Vorsatzzeichen 10-15 = 0,000000000000001 femto f 10-12 = 0,000000000001 10- = 10- = 10- = milli 100 = 103 = 10 = M 10 = 10 = Umrechnungsbeispiel 1: Der Wert 2500 m soll in mm angegeben werden. Umrechnungsbeispiel 2: Der Wert 2,5 m soll in nm angegeben werden. Aufgabe 2a: Gib die Werte der Tabelle in Potenzschreibweise an bzw. wandle sie in die jeweilige Angabe mit Einheitenvorsatz um! 150 mm = m 38 * 10 –7 F = * 10 –6 F 1,250 m = mm 38 * 10 –7 F = * 10 –9 F 2,5*10 2 V = V 4,7 * 10 4 Wh = * 10 3 Wh 38*10 -2 V = V 4,7 * 10 4 Wh = * 10 6 Wh Die Umrechnung f‰llt dir noch schwer? Schau dir hier n …
@@ -365,11 +365,11 @@ m
 #### Seite 3: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=3]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 3 2,5*10 2 V = kV 1,2 * 10 –8 F = 0,012 * 10 F 38*10 -2 V = mV 1,2 * 10 –8 F = 12 * 10 F 20,5 MW = 205 *10 W 63 * 10 5 Wh = 6300 * 10 Wh 0,35 nF = 350 * 10 F 63 * 10 5 Wh = 6,3 * 10 Wh 7 kV = V 18 mV = V 230 V = kV 0,8 V = mV 380 kV = V 122 mV = V 70 mA = A 0,32 A = mA 300 A = kA 0,8 mA = μA 900 μA = mA 122 mA = μA 100 mΩ = Ω 1,5 Ω = mΩ 220 Ω = kΩ 3,3 kΩ = Ω 470 kΩ = MΩ 0,47 kΩ = Ω 100 nF = μF 1,5 μF = nF 220 μF = F 3,3 nF = μF 0,71 As = *100 As 1180 mC = C Aufgabe 2b: Wandle folgende Zahlen in Zehnerpotenzen um (Exponent ein Vielfaches von 3)! 100 = 0,01 = 1 = 0,0000001 = 0,00001 = 1000 = 100 000 = 0,001 = Au …
@@ -502,11 +502,11 @@ Schreibe sinnvolle Vors‰tze an!
 #### Seite 4: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=4]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 4 3 Gleichungen umformen Wird bei einer Gleichung, z.B. Q = n * e nach einer bestimmten Variablen z.B. n gesucht, so muss die Gleichung nach dieser Variablen umgestellt werden. Zur Umstellung von Gleichungen nach einer bestimmten Variablen wendet man das Prinzip der ƒquivalenzumformung an. Dies bedeutet, dass auf beiden Seiten des Gleichheitszeichens das Gleiche (ƒquivalente) addiert (+), subtrahiert (-), dividiert (:) oder multipliziert (*) wird. Nachfolgend werden die vier verschiedenen ƒquivalenzumformungen anhand eines Beispiels gezeigt. Gesucht wird jeweils die Variable x: Addition (hilfreich wenn x in ei …
@@ -556,11 +556,11 @@ Multiplikation
 #### Seite 5: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=5]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=5]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 5 Aufgabe 3: Forme die gegebene Gleichung nach der gesuchten Grˆﬂe um. U ↑ R u -(c) E - a (13 Ea -Z UE Fu E At i Eni v 2s
@@ -601,11 +601,11 @@ v
 #### Seite 6: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 6 Aufgabe 4: Stelle jeweils nach der Variablen X um. X = A - D - C x=1 X = E - 2B x= = Bit A . 2- B = X E =B 2 - B = x 05 els Strom + Spannung and Potential
@@ -646,11 +646,11 @@ Strom
 #### Seite 7: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=7]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=7]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 7
@@ -671,11 +671,11 @@ Datum:
 #### Seite 8: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=8]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 8 4 Operationen mit Zehnerpotenzen (optional) Sollen Zahlenwerte, die mit Einheitenvors‰tzen bzw. Zehnerpotenzen dargestellt werden addiert (+), subtrahiert (-), multipliziert (*) oder dividiert (:) werden, so gibt es bestimmte Regeln zu beachten: Addieren 4 ∗103 + 2 ∗ 103 = (4 + 2) ∗103 = 6 ∗ 103 Subtrahieren 4 ∗103 − 2 ∗ 103 = (4 −2) ∗103 = 2 ∗ 103 Multiplizieren 106 ∗ 103 = 10(6+3) = 109 Dividieren 106 103 = 10(6−3) = 103 Potenzieren (103)3 = 10(3∗3) = 109 Radizieren √106 = 10 6 2 = 103 Hinweis: Die Aufgaben sind ohne Taschenrechner zu bearbeiten! Aufgabe 5a: 6 ∗ 103+ 0,4 *103 + 1000 * 100 + 95 ∗106 = Aufga …
@@ -725,11 +725,11 @@ Aufgabe 5b:
 #### Seite 9: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=9]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=9]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 9 Aufgabe 5c: 3 ∗103 V + 5500 mV + 0,01kV + 2 ∗10−3kV = Aufgabe 5d: 1,5 ∗103Ω+ 13Ω+ 18 ∗ 104 mΩ+ 5 ∗ 10−3kΩ= Aufgabe 5e: 8,6 ∗103 𝑚𝐴+ 470 ∗103µ𝐴+ 15 ∗10−1𝐴=
@@ -759,11 +759,11 @@ Aufgabe 5e:
 #### Seite 10: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=10]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=10]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 10 Aufgabe 5f: Multipliziere bzw. dividiere folgende Potenzen: 102 ∗ 103 = 109 103 = 10−1 ∗1012 = 10−6/10−3 = 103 ∗10−6 = 103/10−6 = Aufgabe 5g: √106 ∗ √104 ∗ √108 ∗ √10−12 / √10−16 = Aufgabe 5h: 7,2 ∗101 + 2,2 ∗102 ∗15 ∗10−1 −4,3 ∗10−2 =
@@ -804,11 +804,11 @@ Aufgabe 5h:
 #### Seite 11: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=11]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=11]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Elektrische Ladung Q Klasse: Name: Datum: 1 Alle Stoffe unserer Umwelt bestehen aus Atomen. Um uns vorzustellen, wie ein Atom aufgebaut ist, betrachten wir das sog. Bohrsche Atommodell (auch Schalenmodell). Recherchiere im Internet nach dem Bohrschen Atommodell und bezeichne die Elemente in nachstehender Abbildung: Die elektrische Ladung Q Abbildung 1: Darstellung eines Atoms gem‰ﬂ Schalenmodell am Beispiel Lithium • • • • • Abbildung 2: Wechselwirkung zwischen Ladungen Elektron Atomkern Neutron Atomhülle Proton Die Elektronen sind negativ geladene Teilchen in der Atomhülle Die Protonen sind positiv geladene Teilchen im Atomkern Die Neutronen sind neut …
@@ -867,11 +867,11 @@ an
 #### Seite 12: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=12]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=12]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Elektrische Ladung Q Klasse: Name: Datum: 2 Protonen und Elektronen nennt man Ladungstr‰ger. Sie tragen die kleinste elektrische Ladung, die mˆglich ist. Diese wird als Elementarladung bezeichnet: Elementarteilchen Elektronen Protonen Ladungsart Formelzeichen Zahlenwert Einheitenname Einheitenzeichen Ein Atom besitzt mehrere Elementarladungen (Protonen und Elektronen). Die gesamte elektrische Ladung Q („Elektrizitätsmenge“) eines Atoms berechnet man aus der Anzahl n der Elementarladungen mal der Elementarladung e: Aufgabe 1: Berechne die Elektrizit‰tsmenge Q des in Abbildung 1 dargestellten Atoms. Aufgabe 2: Aus wie vielen Elektronen besteht die Ladung …
@@ -961,11 +961,11 @@ n= = 101
 #### Seite 13: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=13>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=13]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=13>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=13]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=13]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Elektrische Ladung Q Klasse: Name: Datum: 3 Wie in Aufgabe 1 festgestellt, sind Atome grunds‰tzlich elektrisch neutral (d.h. sie haben weder einen Elektronen¸berschuss noch einen Elektronenmangel). Um den elektrischen Strom leiten zu kˆnnen, m¸ssen im Material freie Ladungstr‰ger vorhanden sein. Die Elektronen der meisten Stoffe bzw. Elemente sind jedoch fest in der Atomh¸lle gefangen und Kreisen um den Atomkern. Die meisten Materialien sind deshalb sogenannte Nichtleiter bzw. Isolatoren. Bei Metallen ist dies jedoch anders: Im Metallgitter sind die einzelnen Atome sehr dicht aneinandergedr‰ngt. Die Elektronen der ‰uﬂersten Schalen (sog. Valenzelektron …
@@ -1025,11 +1025,11 @@ Keramik
 #### Seite 14: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=14>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=14]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=14>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=14]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=14]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Spannung und Potenzial Klasse: Name: Datum: 1 Spannung U und Potenzial φ Abbildung 1: Ladungstrennung am Beispiel einer KFZ-Batterie • • • • UAB = •
@@ -1063,11 +1063,11 @@ UAB =
 #### Seite 15: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=15]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=15]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Spannung und Potenzial Klasse: Name: Datum: 2 Der Unterschied zwischen Spannung und Potenzial: Für die Spannungsquelle einer Lichterkette werden vier AAAA-Batterien mit je 1,5 Volt eingesetzt. Welche Spannungen können zwischen den Batterien gemessen werden? Vorgehen: 1. Bezugspotenzial φ0 festlegen. 2. Alle weiteren Potenziale bestimmen. 3. Spannungen bezeichnen (Indizes der Potenziale). 4. Spannungen durch Potenzialdifferenzen berechnen. • φ =____ φ =____ φ =____ φ =____ φ =____ Abbildung 2: Lichterkette mit Spannungsquelle
@@ -1109,11 +1109,11 @@ Spannungsquelle
 #### Seite 16: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=16>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=16]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=16>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=16]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=16]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Spannung und Potenzial Klasse: Name: Datum: 3 Aufgabe 1: a) Bestimme alle Potenziale. b) Beschrifte alle Spannungen. c) Berechne alle Spannungen. Aufgabe 2: Berechne alle Teilspannungen!
@@ -1141,11 +1141,11 @@ Aufgabe 2: Berechne alle Teilspannungen!
 #### Seite 17: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=17>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=17]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=17>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=17]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=17]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Prinzipien der Spannungserzeugung Klasse: Name: Datum: 1 Für die Ladungstrennung bzw. Spannungserzeugung gibt es unterschiedliche Prinzipien. Informiere dich mithilfe des Films über die Arten der Spannungserzeugung. Fülle anschließend die Lücken in nachstehender Tabelle mit folgenden Begriffen: Licht, Piezo- Kristalle, Reibung, Thermoelement, Generator, Chemische Wirkung, Wärme, Fotoelement, Elektrostatische Aufladung, Kristallverformung, Induktion, Galvanisches Element. Prinzipien der Spannungserzeugung - - ↑ - ~ - - ↑ ~ ~ ↑ # Induktion Generator Chemische Wirkung Galvanisches Element Wärme Thermoelement Licht Fotoelement Kristallverformung Piezo-Kris …
@@ -1199,11 +1199,11 @@ Für St nur 6 Ursachen Nennen-Verwendungs BSD
 #### Seite 18: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=18>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=18]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=18>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=18]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=18]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Prinzipien der Spannungserzeugung Klasse: Name: Datum: 2 Je nach dem, welchen zeitlichen Verlauf die in der Quelle erzeugte Spannung aufweist, gibt es unterschiedliche Spannungsquellen sowie zugehörige Schaltsymbole: Schaltsymbol Quelle Gebräuchliche Spannungen: Nervenimpuls: Lithium Batterien: KFZ-Batterie: PC-Netzteil Ausgang Prozessor, Grafikkarte, Laufwerke: PC-Netzteil Ausgang Arbeitsspeicher: PC-Netzteil Ausgang Standby-Modus: Niederspannungsnetz: Netzebenen: t - Gleichspannungs-1-phasige 3-phasige Allgemeine Batterie quelle Wechselspannung-Wechselspannungs-Darstellung quelle quelle 100 MV (AC) ALE Alternating Current 1,5V ... 9V (DC) E Wechselsp …
@@ -1279,11 +1279,11 @@ Current
 #### Seite 19: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=19>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=19]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=19>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=19]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=19]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Elektrischer Strom Klasse: Name: Datum: 1 Zur Erinnerung: Im Pluspol („Anode“) einer Spannungsquelle herrscht ein Elektronenmangel. Im Minuspol („Kathode“) liegt hingegen ein Elektronenüberschuss vor. Zwischen den Polen einer Spannungsquelle herrscht deshalb ein Ausgleichsbestreben. Dieses kann in Form der Potenzialdifferenz bzw. Spannung gemessen werden (siehe Abbildung 1). Der einfache Stromkreis Verbindet man nun den Erzeuger (Pole der Spannungsquelle) durch einen Hin- und Rückleiter mit einem Verbraucher (z.B. Glühlampe), so entsteht ein geschlossener Stromkreis. Erzeuger, Verbraucher sowie Leiter werden grafisch in Form von Schaltsymbolen mit Kenn …
@@ -1356,11 +1356,11 @@ zum Ladungsausgleich
 #### Seite 20: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=20]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=20]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Elektrischer Strom Klasse: Name: Datum: 2 Aufgabe 1: Beim Betrieb einer Glühlampe fließt eine Ladungsmenge Q = 0,06 C innerhalb einer Zeit t = 200 ms. Berechne die elektrische Stromstärke I in mA. Aufgabe 2: Innerhalb welcher Zeitdauer t müsste die Ladungsmenge Q = 0,06 C durch die Glühlampe fließen, damit eine elektrische Stromstärke I = 800 mA erreicht wird? Gib das Ergebnis in ms an! Aufgabe 3: Die Stromstärke durch die Glühlampe soll nun I = 150 mA betragen. Wie viele Elementarladungen e = 1,602 *10-19 C werden dann innerhalb einer Zeitdauer von t = 10 ms durch den Leiter transportiert? • • I = Elektronen bewegen sich vom Minuspol zum Pluspol , wob …
@@ -1438,11 +1438,11 @@ Q=n
 #### Seite 21: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=21>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=21]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=21>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=21]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=21]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Elektrischer Strom Klasse: Name: Datum: 2 Aufgabe 1: Beim Betrieb einer Glühlampe fließt eine Ladungsmenge Q = 0,06 C innerhalb einer Zeit t = 200 ms. Berechne die elektrische Stromstärke I in mA. Aufgabe 2: Innerhalb welcher Zeitdauer t müsste die Ladungsmenge Q = 0,06 C durch die Glühlampe fließen, damit eine elektrische Stromstärke I = 800 mA erreicht wird? Gib das Ergebnis in ms an! Aufgabe 3: Die Stromstärke durch die Glühlampe soll nun I = 150 mA betragen. Wie viele Elementarladungen e = 1,602 *10-19 C werden dann innerhalb einer Zeitdauer von t = 10 ms durch den Leiter transportiert? • • I =
@@ -1480,11 +1480,11 @@ I =
 #### Seite 22: Aurena Electronic GmbH
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 22](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=22>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=22]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 22](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=22>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=22]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=22]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aurena Electronic GmbH info@cheftec.eu Version 2010.4 Die beliebte A-80 PSU (Power Supply Unit) Netzteilserie von CHIEFTEC ist mehrfach ausgezeichnet und spricht vor allem kosten- und umweltbewusste User an, die Wert auf ein g¸nstiges und leistungsstarkes Netzteil mit hoher Effizienz legen! Doch wozu benˆtigen Sie ein Netzteil in Ihrem PC? Wie die nebenstehende Abbildung verdeutlicht, wird elektrische Energie in Europa vom Verteilungsnetzbetreiber (VNB) mit einer Wechselspannung von 230 Volt (AC) zu den Haushalten transportiert. Damit PC-Komponenten, wie Prozessor, Grafikkarte, Arbeitsspeicher usw. jedoch richtig funktionieren kˆnnen, benˆtigen sie eine sehr viel kleinere Gleichspannung (DC) …
@@ -1521,11 +1521,11 @@ Gleichspannungen f¸r die PC-Komponenten um.
 #### Seite 23: Aurena Electronic GmbH
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 23](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=23>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=23]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 23](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=23>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=23]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=23]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aurena Electronic GmbH info@cheftec.eu Version 2010.4 Damit Sie das Netzteil der A80-Serie problemlos in Ihren PC integrieren kˆnnen, entsprechen die Geh‰useabmessungen dem normierten Formfaktor ATX. Die A-80 Serie stellt die Gleichspannungsversorgung f¸r Ihre PC-Komponenten auf verschiedenen Ausg‰ngen bzw. Pins bereit: Standby- Spannungsausgang zur Versorgung von Maus, Tastatur, Netzwerkkarte und Arbeitsspeicher im Energiesparmodus Versorgungsspannung des Netzteils Zwei 12 Volt-Ausg‰nge f¸r den Anschluss von CPU, Grafikkarte und Laufwerken F¸r CPU und USB-Anschl¸sse F¸r Arbeitsspeicher und Teile des Mainboards Maximaler Strom je Ausgang Im Fehlerfall wird das Netzteil automatisch abgeschalt …
@@ -1592,11 +1592,11 @@ abgeschaltet!
 #### Seite 24: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=24>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=24]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=24>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=24]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=24]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 1 1. Erkläre die Aufgabe des PC – Netzteils PSU (AAAAAAAAAAAAAA): 2. Erläutere den Formfaktor ATX: 3. Ergänze die Werte im Typenschild von Rudis PC-Netzteil CHIEFTEC A-80 500W und ordne die Kenngrößen aus der Tabelle dem Typenschild zu. 4. Ergänze die jeweilige Versorgungsspannung für die PC-Komponenten: Komponente Versorgungsspannung Arbeitsspeicher/ Komponenten Mainboard CPU und USB-Schnittstellen CPU, Grafikkarte (und Laufwerke) Standby-Ausgang PC-Netzteil – Funktion und Kennwerte • AAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAA • …
@@ -1690,11 +1690,11 @@ Z
 #### Seite 25: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 25](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=25>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=25]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 25](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=25>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=25]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=25]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 2 5. Erläutere die Sicherungseinrichtungen des PC-Netzteils mithilfe des Internets: Kürzel Bedeutung Erklärung OPP OVP SCP UVP Du bist schon fertig? Sehr gut! Überprüfe dein Wissen mit dem Learning Snack 6. Formuliere eine Antwort für Rudi: • AAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAA • AAAAAAAAAAA • AAAAAAAAAAA • AAAAAAAAAAA • AAAAAAAAAAA • AAAAAAAAAAA • A …
@@ -1815,11 +1815,11 @@ Kapputt !
 #### Seite 26: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 26](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=26>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=26]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 26](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=26>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=26]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=26]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Messung von Spannung und Strom Klasse: Name: Datum: 1 Zur Erinnerung: Bilden Erzeuger (z.B. Batterie) und Verbraucher (z.B. Glühlampe) einen geschlossenen Stromkreis, dann wird durch die Quellspannung U0 des Erzeugers ein elektrischer Strom I durch den Verbraucher getrieben. Voraussetzung hierfür ist, dass zwischen den Polen des Erzeugers eine Potenzialdifferenz herrscht (z.B. Batterie geladen). Außerdem muss der Verbraucher leitfähig sein. Anordnung der Messinstrumente: Messung der Spannung U Messung des Stroms I Schaltsymbol Messinstrument Schaltungsart Schaltskizze Messung von Spannung U und Strom I Abbildung 1: Einfacher geschlossener Stromkreis A …
@@ -1866,11 +1866,11 @@ in Reihe
 #### Seite 27: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 27](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=27>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=27]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 27](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=27>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=27]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=27]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Messung von Spannung und Strom Klasse: Name: Datum: Simulation: 1. Um die Strom- und Spannungsmessung gefahrenlos zu erproben, bietet sich eine Simulation an. Öffne hierzu das virtuelle Gleichstromlabor, indem du den Suchbegriff „Virtuelles Gleichstromlabor“ in eine Suchmaschine eingibst, oder scanne nebenstehenden QR-Code. 2. Baue nachfolgende Schaltung zur Messung von Strom und Spannung an einem Verbraucher im virtuellen Gleichstromlabor nach: 3. Stelle die Werte der Spannungsquelle gemäß nachstehender Tabelle ein und notiere die zugehörigen Strommesswerte: ➔ Erkenntnis: 4. Schalte nun das Voltmeter in Reihe zur Glühlampe. Notiere deine Beobachtungen …
@@ -1927,11 +1927,11 @@ Kurzschluss- Batterie brennt
 #### Seite 28: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=28>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=28]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=28>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=28]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=28]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 1 Sichtet in der Gruppe zun‰chst ausf¸hrlich das Datenblatt des euch zugeordneten Grafikspeichers! Bearbeitet anschlieﬂend die nachstehenden Aufgaben! Die elektrische Leistung Pel ist die entscheidende Bemessungsgrˆﬂe, um PC-Komponenten bzw. eine Grafikkarte und ein Netzteil aufeinander abzustimmen! 1. Erg‰nzt die Formel sowie die Einheit der elektrischen Leistung: 2. Unter welcher Einschr‰nkung gilt obige Formel zur Berechnung der Leistung Pel? 3. Wo findet man die Angaben zu Strom, Spannung bzw. Leistung, wie bei der Grafikkarte von Rudi? 4. Wie kˆnnen Strom, Spannung und Leistung in der Praxis ermittelt …
@@ -2006,11 +2006,11 @@ Leistungsmessung
 #### Seite 29: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=29>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=29]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=29>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=29]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=29]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 2 Strom Spannung(konstant) Benˆtigte Leistung der Grafikkarte PGK IGK min = U = PGK min = IGK mittel = U = PGK mittel = IGK max = U = PGK max = 6. Welcher Leistungswert der Grafikkarte ist f¸r den Abgleich mit Rudis Netzteil relevant und warum? 7. Nebenstehend ist die Tabelle „Output data“ aus dem Datenblatt von Rudis Netzteil gegeben. Informiert euch im Internet (siehe QR-Code) über den Begriff „Max. Combined Power“. Welche maximale Leistung stellt Rudis Netzteil demnach insgesamt f¸r alle PC-Komponenten dauerhaft zur Verf¸gung? 8. Berechnet die Einzelleistungen PCPU, PRAM etc. sowie die Gesamtleistung PKo …
@@ -2101,11 +2101,11 @@ Laufwek :
 #### Seite 30: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 30](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=30>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=30]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 30](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=30>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=30]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=30]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 3 9. Berechnet die f¸r den Betrieb der Grafikkarte demnach noch zur Verf¸gung stehende Leistung PNetzteil GK aus PNetzteil max und PKomp.ges . 10. ‹bertragt eure Ergebnisse als ‹bersicht in die betreffende Spalte. Kann Rudi die von euch untersuchte Grafikkarte mit seinem Netzteil betreiben? Maximalstrom Grafikkarte IGK max = Versorgungsspannung Grafikkarte U = Maximale Leistungsaufnahme Grafikkarte PGK max = F¸r Grafikkarte verf¸gbare Leistung PNetzteil GK = Differenz PNetzteil GK - PGK max = Kann die Grafikkarte verwendet werden? Begr¸ndung: • AAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAA • Ihr sei …
@@ -2181,11 +2181,11 @@ Netzteil
 #### Seite 31: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=31>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=31]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=31>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=31]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=31]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 4 11. Formuliert abschlieﬂend eine begr¸ndete Antwort f¸r Rudi: 12. Rudi entscheidet sich in ein leistungsst‰rkeres Netzteil zu investieren. Berechnet die erforderliche Gesamtleistung des Netzteils, wenn Rudi alle bisherigen Komponenten und eine Grafikeinheit vom Typ „ASRock Radeon RX 7900 XT Phantom“ betreiben will. Rechnet f¸r k¸nftige Upgrades zus‰tzlich einen Leistungspuffer von 20% ein! Sucht bei Conrad Electronic nach einem passenden Netzteil mit n‰chstgrˆﬂerer Leistung! • AAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAA …
@@ -2255,11 +2255,11 @@ P= 814,52W
 #### Seite 32: Version 2010.4
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 32](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=32>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=32]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 32](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=32>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=32]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=32]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Version 2010.4 Erlebe Gaming auf einem vˆllig neuen Level mit unserer MSI GeForce RTX 4060! Fl¸ssige Bildraten, kristallklare Details und lebendige Farben, egal ob Du in epischen K‰mpfen k‰mpfst, riesige offene Welten erkundest oder komplexe Projekte in 3D bearbeitest, die GeForce RTX 4060 bietet Dir die nˆtige Leistung! Damit Du auch mˆglichst lange Freude an deiner neuen Grafikkarte hast, hier noch ein paar Hinweise: Bevor es losgeht, solltest Du ¸berpr¸fen, ob dein Netzteil auch die erforderliche Leistung f¸r deine neue RTX 4060 bereitstellen kann! Richtig, die entscheidende Grˆﬂe ist die sogenannte elektrische Leistung Pel. Diese kannst du ganz einfach aus dem Produkt von Strom I und Spa …
@@ -2315,11 +2315,11 @@ info@MSI.eu
 #### Seite 33: info@MSI.eu
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=33>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=33]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=33>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=33]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=33]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > info@MSI.eu Version 2010.4 2 Stromaufnahme: Imin = 5 A Imittel = 8 A Imax = 13,75 A Versorgungsspannung: U = 12 V Hinweis: Die Strom- bzw. Leistungsaufnahme deiner RTX 4060 ist vom Betriebszustand deines PC‘s abh‰ngig! W‰hrend des Bootvorgangs kommt sie mit schlappen 4 Ampere aus. Hast du vor aufwendige Videos zu schneiden oder anspruchsvolle Games zu zocken, dann kann die Stromaufnahme auf bis zu 13,75 A ansteigen! Damit deine RTX 4060 auch bei maximaler Auslastung betrieben werden kann, solltest du stets diesen Wert f¸r Leistungsberechnungen deines Netzteils heranziehen! - Technische Daten - MSI GeForce RTX 4060 8GB
@@ -2367,11 +2367,11 @@ MSI GeForce RTX 4060 8GB
 #### Seite 34: Sie möchten die Energiekosten Ihrer Geräte selbst
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=34>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=34]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=34>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=34]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=34]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Sie möchten die Energiekosten Ihrer Geräte selbst berechnen? Kein Problem! Sparen Sie jetzt mit unseren besonders günstigen Stromtarifen! Sind Sie bereit, Ihre Stromrechnung zu senken? Bei uns finden Sie die besten Tarife, die Ihr Budget schonen und gleichzeitig umweltfreundlichen Strom bieten! Warum zu uns wechseln? • Unschlagbare Preise: Profitieren Sie von unseren attraktiven Tarifen und sparen Sie bis zu 30% im Vergleich zu Ihrem aktu -ellen Anbieter! • Transparente Abrechnung: Keine versteckten Kosten -> Sie wissen immer, wofür Sie bezahlen! • 100% Ökostrom: Tun Sie Gutes für die Umwelt, ohne auf Ihren Geldbeutel zu achten! • Melden Sie sich noch heute an und sichern Sie sich einen exkl …
@@ -2425,11 +2425,11 @@ Stadtwerke Inglstadt
 #### Seite 35: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=35>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=35]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=35>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=35]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=35]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 1 Sichtet zunächst ausführlich das Informationsschreiben der Stadtwerke Inglstadt. Bearbeitet anschließend die nachstehenden Aufgaben und berechnet die auf Rudi zukommenden Energiekosten! 1. Ergänzt die Formel sowie die Einheit der elektrischen Arbeit: Tipp: Rechnet die Zeitdauer t immer in Stunden h um! Dies erleichtert euch die anschließende Energiekostenberechnung! 2. Ergänzt die Formel sowie die Einheit zur Berechnung der Energiekosten: 3. Rudi ist etwas mulmig zumute. Beim gestrigen Abendessen hat ihm sein Vater offenbart, dass er am Ende dieser Woche einen Brief von den Stadtwerken mit der jährlichen …
@@ -2510,11 +2510,11 @@ Ppc
 #### Seite 36: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=36>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=36]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=36>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=36]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=36]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 2 b) Nachstehende Kennlinien zeigen Rudis tägliches Nutzungsverhalten. Berechne den Energieverbrauch von Rudis PC pro Jahr! c) Berechne die auf Rudi zukommenden Energiekosten in €, wenn der Tarif bei den Stadtwerken 38,53 Ct/kWh beträgt. 52 Wochen 17hWE GhudL 9 2 % vo 5980 = 550,2 W 104 . 114 + 200 . 6h = 2704h W = 550 , 2 . 2706 = 1487 , 740 ,8 Wh = 1487, 8kWh # = We .T 1487, 8 kWh · 38 ,53 = 573,25E
@@ -2573,11 +2573,11 @@ We
 #### Seite 37: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 37](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=37>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=37]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 37](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=37>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=37]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=37]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 3 d) Wie viel Geld könnte Rudi jährlich einsparen, wenn er seinen Rechner herunterfährt, statt ihn in den Energiesparmodus zu schalten? e) Der Energieverbrauch seiner Eltern im Erdgeschoss beläuft sich auf rund 2000 kWh/Jahr. Berechne die Gesamtenergiekosten, die Rudis Vater demnach voraussichtlich an die Stadtwerke überweisen muss. 104 . 13h + 260 . 18h = 6 . 032h 3 % von 598W = 17, 948 6.0324 . 77,94W = 106 ,4kWh 1064kwh · 38 , 53 = 40 . 9 =
@@ -2626,11 +2626,11 @@ von
 #### Seite 38: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=38>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=38]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=38>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=38]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=38]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 1 Sichtet zun‰chst ausf¸hrlich (jeder f¸r sich!) das Produktinformationsblatt des euch zugeordneten Netzteils! Bearbeitet anschlieﬂend gemeinsam in der Gruppe die Aufgaben im nachstehenden Beratungsprotokoll. 1. Erg‰nzt die Formel zur Berechnung des Wirkungsgrades eines Netzteils: 2. Notiert die Einheit sowie den mˆglichen Wertebereich des Wirkungsgrades η: 3. Erkl‰rt kurz, wozu die 80PLUS-Zertifizierung des „Bequiet! PURE POWER 12M“ dient: Aus dem Beratungschat liegt euch das PC-Nutzungsprofil von Rudi vor. Es zeigt die vom Netzteil an die PC-Komponenten abgegebene Leistung Pab sowie die t‰glichen Betriebs …
@@ -2683,11 +2683,11 @@ Wirkungsgrad
 #### Seite 39: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 39](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=39>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=39]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 39](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=39>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=39]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=39]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 2 4. F¸r jede Lastphase getrennt: Lest die Zeitdauer t sowie die benˆtigte Leistung Pab aus dem PC-Nutzungsprofil ab. Berechnet anschlieﬂend die prozentuale Auslastung Load des Netzteils. 5. F¸r jede Lastphase getrennt: Ermittelt nun den Wirkungsgrad η (siehe Effizienzkennlinie im Produktblatt eures Netzteils). Berechnet anschlieﬂend die vom Netzteil in der jeweiligen Lastphase aufgenommene Leistung Pzu sowie die benˆtigte elektrische Energie Wel. Tragt eure Ergebnisse aus den Teilaufgaben 4 und 5 in die Tabelle auf Seite 3 ein! 100 % = 750W 1 % = 7 ,55 80% = 600L 40% = 3008 Lastphase 1 : 80 %: 4 = 83 % Ih …
@@ -2763,11 +2763,11 @@ Wh
 #### Seite 40: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 40](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=40>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=40]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 40](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=40>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=40]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=40]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 3 6. Im Beratungschat gibt Rudi an, dass er seinen Rechner noch f¸r 3 Jahre nutzen mˆchte. Berechnet die f¸r diese Nutzungsdauer insgesamt aufgenommene elektrische Energie Wel gesamt sowie die entstehenden Energiekosten KEnergie gesamt (T = 40 Ct kWh). Tragt eure Ergebnisse sowie den Kaufpreis eures Netzteils KNetzteil zusammenfassend in die betreffende Spalte auf Seite 4 ein. Lastphase 1 Lastphase 2 Zeitdauer t Pab Load Wirkungsgrad η Pzu Wel Gh 2h 600 W 300W 80 % 60 % 83 % 84 % 722, 896 357( 2 , 9 kWh 0 , 77kuh 2, 9 kWh + 0, 71kth = 3 , 61kUh 3. 61 . 365 . 3 = 3952 , 95kWh k= 3952 , 95kth - 40 = 758 .778c …
@@ -2842,11 +2842,11 @@ k=
 #### Seite 41: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 41](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=41>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=41]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 41](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=41>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=41]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=41]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 4 7. Berechnet nun abschlieﬂend die f¸r Rudi auftretenden Gesamtkosten Kgesamt aus KEnergie gesamt und KNetzteil. Erg‰nzt euer Ergebnis ebenfalls in der Tabelle. Wel gesamt KEnergie gesamt KNetzteil Kgesamt F¸r Rudi am rentabelsten: 8. Formuliert abschlieﬂend eine begr¸ndete Antwort f¸r Rudi: Ihr seid schon fertig? Hervorragend! Meldet euch bei Herrn Wild! Scannt nebenstehenden QR-Code und bearbeitet die Zusatzaufgaben! Zusammenfassende Erkenntnis: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAA …
@@ -2943,11 +2943,11 @@ am größten
 #### Seite 42: info@bequiet!.eu
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 42](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=42>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=42]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 42](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=42>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=42]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=42]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > info@bequiet!.eu Version 2014.6 1 UVP 60,-€ CONRAT ELECTRONIC 750 Watt 80PLUSÆ BRONZE Das PURE POWER 12M 750 Watt in der BRONZE-Edition! Was steckt dahinter? Sicherlich haben Sie beim Betrieb Ihres Rechners festgestellt, dass sich das Netzteil mit der Zeit erw‰rmt. Hierbei handelt es sich um eine unerw¸nschte Nebenwirkung des elektrischen Stroms. Ein Netzteil nimmt deshalb stets mehr Leistung aus der Steckdose auf (Pzu = aufgenommene Leistung), als es tats‰chlich an seinen Ausg‰ngen an die PC-Komponenten abgibt (Pab = abgegebene Leistung). Die Differenz aus aufgenommener Leistung Pzu und abgegebener Leistung Pab, ist die sogenannte Verlustleistung PV. Diese geht, wie bereits erw‰hnt, in Form …
@@ -2986,11 +2986,11 @@ stellen kann!
 #### Seite 43: Die Verlustleistung bzw. W‰rme verursacht unnˆtige Kosten und reduziert
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=43>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=43]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=43>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=43]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=43]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 2 Die Verlustleistung bzw. W‰rme verursacht unnˆtige Kosten und reduziert die Lebensdauer Ihres Netzteils! Ein wesentliches Qualit‰tsmerkmal von Netzteilen ist deshalb der sogenannte Wirkungsgrad η („eta“). Dieser berechnet sich aus dem Verh‰ltnis von abgegebener Leistung Pab und aufgenommener Leistung Pzu: 750 Watt 80PLUSÆ BRONZE η = Pab Pzu Der Wirkungsgrad η wird als Dezimalzahl ohne Einheit oder in Prozent angegeben! Er nimmt Werte zwischen 0 und 1 bzw. 0 % und 100 % an. Je hˆher, umso effizienter ist das Netzteil 80 PLUS-Zertifizierung von Netzteilen Je hˆher der Wirkungsgrad Ihres Netzteils ist, desto weniger Leistung geht in Form von W‰rme verloren. Kurzum: Sie sparen Geld und tun gle …
@@ -3029,11 +3029,11 @@ des Netzteils! Welches Netzteil f¸r Sie das Richtige ist, h‰ngt von Ihrem Nut
 #### Seite 44: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 44](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=44>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=44]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 44](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=44>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=44]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=44]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 1 Schulaufgabenvorbereitung Allgemeine Hinweise für die Schulaufgabe: • Erlaubte Materialien und Hilfsmittel: Taschenrechner (nicht vergessen!), Kugelschreiber, Textmarker und Lineal • Eine Formelsammlung wird in der SA zur Verfügung gestellt! • Themen: Ladung Q, Einheitenvorsätze, Spannung U und Potenzial φ, Stromstärke I, Prinzipien der Spannungserzeugung, Netzteil (Typenschild, Sicherungseinrichtungen etc.), Elektrische Leistung Pel, Elektrische Arbeit Wel, Energiekosten K • Übungen zum Wirkungsgrad η können vorerst ausgelassen werden und sind nicht relevant für die Schulaufgabe! • Notiert euch bei der …
@@ -3081,11 +3081,11 @@ Glühweins verwendet er eine mobile Elektroherdplatte.
 #### Seite 45: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=45>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=45]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=45>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=45]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=45]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 2 a) Berechne die Leistungsaufnahme Pel Herd 1…n der Herdplatte für alle sechs Laststufen. (Hinweis: Im Fall von Wärmeverbrauchern, wie Heizlüftern, Herdplatten usw., darf auch bei Wechselstrom mit der Formel Pel = U * I gerechnet werden!) b) Um den Glühwein so schnell wie möglich zu erhitzen, stellt Rudi die Herdplatte für 25 Minuten auf Laststufe 6. Berechne die in dieser Zeitspanne aufgenommene elektrische Energie Wel Herd6. c) Berechne die in dieser Zeit durch die Zuleitung fließende Ladungsmenge Q. Gib das Ergebnis in mC an! Pel = U . h .. m Pe = 230V . 1200mA = 276 W Pelz = 230V . 2240 MA = 515 , 22 …
@@ -3185,11 +3185,11 @@ Q
 #### Seite 46: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 46](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=46>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=46]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 46](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=46>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=46]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=46]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 3 d) Berechne die Anzahl n der in dieser Zeit durch die Zuleitung fließenden Elektronen. e) Nach 25 Minuten ist der Glühwein servierbereit und Rudi dreht die Herdplatte zurück auf Stufe 3. Auf dieser stellt er den Glühwein für ungefähr 3 Stunden 24 Minuten und 36 Sekunden warm. Berechne die in dieser Zeitspanne aufgenommene elektrische Energie Wel Herd3. f) Berechne die gesamte durch die Herdplatte aufgenommene Elektrische Energie Wel Herd sowie die von dieser verursachten Energiekosten KHerd, wenn der Tarif T bei 35,49 Ct/kWh liegt. g) Auch wenn der Glühwein bereits gut einheizt, muss Rudi aufgrund der ni …
@@ -3271,11 +3271,11 @@ Was = 9.673 .242,51)
 #### Seite 47: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=47>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=47]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=47>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=47]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=47]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=47]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 4 h) Um die Hütte zu heizen, lässt Rudi den Heizlüfter den ganzen Abend gemäß nachstehendem Profil laufen. Berechne die in dieser Zeitspanne aufgenommene elektrische Energie Wel Heizlüfter sowie die entstehenden Energiekosten KHeizlüfter, wenn der Tarif T weiterhin bei 35,49 Ct/kWh liegt. P = U . I P = THOW Pc = zow 4 = 2300 1 = 7 In = 100 = 4 , 35 A In= 7 Wa = U . 1 . + Wer Waln+ Welz Wel = U . In ty = 230V. 4,35A . 5h = 5003 Wh Weiz = U . 12. +z = 230V. 8,7A. 7h = 14 . 007Wh Wel = 5003 Wh + 14 . 007 Wh = 19 .010 Uh k = We . T I Kel = 13 .01 kWh · 35, 49 c+ /kWh = 6 , 747
@@ -3353,11 +3353,11 @@ kWh
 #### Seite 48: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 48](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=48>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=48]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 48](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=48>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=48]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=48]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 5 i) Die Lichterkette liegt an 230 V und nimmt einen Strom von 3,9 A auf. Berechne die durch die Lichterkette verursachten Energiekosten KLichterkette, wenn Rudi diese von 16 Uhr bis 4 Uhr ununterbrochen eingeschaltet lässt. Der Tarif T liegt weiterhin bei 35,49 Ct/kWh. j) Berechne die gesamten durch sämtliche Verbraucher im Laufe des Abends entstehenden Energiekosten KAbend aus KHerd, KHeizlüfter und KLichterkette. (Hinweis: Der Elektroweidezaun wird durch eine KFZ-Batterie versorgt und muss bei der Kostenberechnung nicht berücksichtigt werden!) V = 4 . 1 . + k = 0 -T W : 230V 3 ,91 . 124 = 10 . 764 Wh k …
@@ -3406,11 +3406,11 @@ Ci
 #### Seite 49: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=49>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=49]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=49>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=49]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=49]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=49]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 6 k) Rudi versorgt die Herdplatte, den Heizlüfter und die Lichterkette zusammen über nebenstehende Mehrfachsteckdose. Prüfe durch Rechnung, ob der gleichzeitige Betrieb aller Verbraucher bei voller Leistung zulässig ist. Aufgabe 2: Rudi und der Zocker-Abend (Fortsetzung 1) Um für besinnliche Stimmung zu sorgen, lässt Rudi zwischendrin etwas Weihnachtsmusik laufen. Hierfür hat er seinen akkubetriebenen Bluetooth- Lautsprecher mit nebenstehenden Kenndaten mit in die Hütte gebracht. a) Die Akkuversorgungsspannung des Lautsprechers beträgt 11,1 Volt. Gemäß Herstellerangaben gibt der Lautsprecher bei halber bzw …
@@ -3460,11 +3460,11 @@ Sinus-Schallleistung ab. Berechne den Wirkungsgrad η bei halber und voller Laut
 #### Seite 50: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 50](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=50>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=50]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 50](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=50>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=50]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=50]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=50]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 7 b) Der Lautsprecher wird über ein Schaltnetzteil geladen. Auf dem Gehäuse des Netzteils findet sich die Aufschrift „Safety feature SCP“. Erläutere deren Bedeutung. Aufgabe 3: Rudi und der Zocker-Abend (Fortsetzung 2) Zu später Stunde spielt sich in der Zockerhütte eine Tragödie ab. Rudis Zockerkollege Schorschi kippt versehentlich Glühwein über seinen Rechner. Kurze Zeit danach ist es in der Hütte stockdunkel. Der Fehlerstromschutzschalter der Garagenverteilung, an welcher die Hütte angeschlossen ist, hat ausgelöst. Nach dem Einschalten des Schutzschalters wird es wieder hell und die Rechner fahren hoch. …
@@ -3505,11 +3505,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 #### Seite 51: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 51](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=51>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=51]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 51](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=51>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=51]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=51]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=51]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 8 b) Schorschis Rechner ist mit nachstehenden Komponenten ausgestattet. Zeige durch Rechnung, dass Rudis Chieftec A-80 als Notlösung zur Rettung des Abends verwendet werden kann. ↑ ! Y U = phiA-phiB = 40 - up = 3 ,30 - 5V = - y , +V Us = phit-phils = 02-yz = T20 - 12V = OU Ua5 =phiA-phil = Un-95 =IV - 5 = -TIV
@@ -3564,11 +3564,11 @@ Ua5
 #### Seite 52: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 52](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=52>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=52]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 52](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=52>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=52]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=52]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=52]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 9 Nachfolgend sind die beiden Effizienzkennlinien von Schorschis zuvor verwendetem Netzteil BeQuiet Pure Power 750 Watt 80PLUS® GOLD und dem nun verwendeten Netzgerät Chieftec A-80 500 Watt ohne 80PLUS-Zertifizierung dargestellt.
@@ -3593,11 +3593,11 @@ Chieftec A-80 500 Watt ohne 80PLUS-Zertifizierung dargestellt.
 #### Seite 53: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 53](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=53>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=53]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 53](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=53>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=53]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=53]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=53]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 10 c) Wozu dient die sogenannte 80PLUS-Zertifizierung und welche Netzteile erhalten diese? d) Nenne vier 80PLUS-Zertifizierungen in aufsteigender Reihenfolge. e) Berechne die durch die Verlustleistung PV verursachten Energiekosten KVerluste (T = 35,49 Ct/kWh) der beiden Netzteile, wenn Schorschi seinen Rechner für 8 Stunden mit maximaler Leistung betreibt. • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAA …
@@ -3633,11 +3633,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 #### Seite 54: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 54](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=54>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=54]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 54](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=54>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=54]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=54]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=54]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 11 Noch eine Rudi unabhängige Aufgabe… Aufgabe 4: Ein LCD-Fernsehgerät mit LED-Hintergrundbeleuchtung hat eine durchschnittliche Leistung von 95 W im Betrieb und von 0,3 W im Standby. Das Gerät ist täglich 4 ½ Stunden im Einsatz. Der Arbeitspreis beträgt 0,42 €/kWh. Berechne a) die aufgenommene Arbeit pro Jahr (365 Tage), wenn das Gerät die übrige Zeit ganz ab- geschaltet ist, b) die Kosten pro Jahr,
@@ -3669,11 +3669,11 @@ b) die Kosten pro Jahr,
 #### Seite 55: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 55](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=55>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=55]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 55](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=55>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=55]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=55]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=55]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 12 c) die aufgenommene Arbeit pro Jahr, wenn das Gerät die übrige Zeit in den Standby- Modus geschaltet wird, d) die Kosten pro Jahr (Betrieb und Standby).
@@ -3699,11 +3699,11 @@ d) die Kosten pro Jahr (Betrieb und Standby).
 #### Seite 56: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 56](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=56>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=56]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 56](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=56>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=56]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=56]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=56]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Leiterwiderstand/Ohmsches Gesetz Klasse: Name: Datum: 1 Leiterwiderstand RLeiter Der Widerstandswert RLeiter eines elektrischen Leiters (z.B. Kupferdraht) ist vom verwendeten Werkstoff und der geometrischen Beschaffenheit des Leiters abhängig. 1. Scannt nebenstehenden QR-Code. Ergänzt Name und Formelzeichen der Parameter, durch die der Leiterwiderstand bestimmt wird (Tabelle 2). Vervollständigt außerdem Tabelle 3 mithilfe eures Tabellenbuchs. Name Formelzeichen Einheit Spezifischer Widerstand Ω ∗mm2 m m mm2 Tabelle 1: Parameter Leiterwiderstand Spezifischer Widerstand ρ in 𝛀∗𝐦𝐦𝟐 𝐦 Aluminium (Al) Kupfer (Cu) Silber (Ag) Gold (Au) Tabelle 2: Spezifischer …
@@ -3785,11 +3785,11 @@ MM2
 #### Seite 57: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 57](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=57>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=57]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 57](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=57>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=57]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=57]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=57]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Leiterwiderstand/Ohmsches Gesetz Klasse: Name: Datum: 2 • Je größer der spezifische Widerstand ρ („roh“), desto • Je größer die Leiterlänge l, desto • Je größer der Leiterquerschnitt A, desto Anwendungsbeispiel 1: Ein Kupferleiter hat eine Länge von 50 m und einen Querschnitt von 0,015 cm2. Berechne seinen Leiterwiderstand RLeiter. Ohmsches Gesetz Das Ohmsche Gesetz beschreibt den Zusammenhang zwischen der Spannung U, dem Strom I und dem Widerstand R (nur bei DC bzw. Wirkverbrauchern). Zur Ermittlung des Ohmschen Gesetzes nutzen wir eine Messschaltung mit veränderbarem Widerstand. An einem veränderbaren Widerstand sollen Strom und Spannung gemessen wer …
@@ -3853,11 +3853,11 @@ R = 2
 #### Seite 58: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=58>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=58]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=58>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=58]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=58]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=58]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Leiterwiderstand/Ohmsches Gesetz Klasse: Name: Datum: 3 4. Scannt nebenstehenden QR-Code und bildet die Messchaltung im virtuellen Gleichstromlabor nach (alternativ: https://kurzlinks.de/aib7). Führt anschließend die Messungen 1 und 2 durch und notiert die Messwerte in den Tabellen 4 und 5. Messung 1: Wie verändert sich der Strom I, wenn die Spannung U bei gleichbleibendem Widerstand langsam erhöht wird? R [Ω] U [V] I [A] 10 0 10 2 10 4 10 6 10 8 10 10 10 12 Tabelle 3: Messung 1 Messung 2: Wie verändert sich der Strom I, wenn der Widerstand R bei gleichbleibender Spannung langsam erhöht wird? U [V] R [Ω] I [A] 12 10 12 20 12 40 12 60 12 80 12 100 + - A …
@@ -3979,11 +3979,11 @@ Stromstärke -
 #### Seite 59: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 59](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=59>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=59]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 59](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=59>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=59]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=59]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=59]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Leiterwiderstand/Ohmsches Gesetz Klasse: Name: Datum: 4 Zusammenfassende Erkenntnis: Hieraus resultiert das Ohmsche Gesetz: Umrechnungshilfe: Anwendungsbeispiel 2: Ein Prozessor nimmt bei einer Versorgungsspannung von 12 V einen Strom von 15 A auf. Berechne den elektrischen Widerstand R, den der Prozessor damit leistet. Anwendungsbeispiel 3: Eine SSD-Festplatte liegt an einer Versorgungsspannung von 5 V und leistet einen elektrischen Widerstand R von 5 Ω. Berechne die durch die Festplattenelektronik fließende Stromstärke I. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA …
@@ -4045,11 +4045,11 @@ R== =
 #### Seite 60: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=60>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=60]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=60>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=60]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=60]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=60]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen R Klasse: Name: Datum: 1 1. In einem Stromkreis mit einem Widerstand von 230  wird ein Strom von 2,5 A gemessen. Berechne die Versorgungsspannung. 2. Ein Widerstand liegt an einer Spannung von 1 kV und wird von einem Strom von 100 mA durchflossen. Berechne den Widerstandswert R sowie den Leitwert G. 3. Eine Relaisspule weist einen Widerstand von 18  auf und ist für 133 mA geeignet. Berechne die zulässige Versorgungsspannung. Übungsaufgaben Ohmsches Gesetz Ri U = R . I = 230 1 2 ,5A= 575V R= = = 10.001 = 10kt G = Es =or = 0, 1 mS u = R . 1 = 18 d . 0,133A = 2, 4V
@@ -4097,11 +4097,11 @@ u = R
 #### Seite 61: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=61>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=61]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=61>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=61]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=61]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=61]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen R Klasse: Name: Datum: 2 4. Der Spannungsabfall an einem 4,7 k Widerstand beträgt 12 V. Berechne die Stromstärke! Ermittle den Wert, auf den der Widerstand geändert werden müsste, damit bei gleicher Stromstärke die Spannung auf 14 V ansteigt. 5. Berechne alle fehlenden Ströme und Spannungen mithilfe des Ohmschen Gesetzes. I = E = nor = 0 , 0026A = 2 ,6 mA R= =1 = 54901 #1=== 2 A 45= 15 · 1 = 151 · 2A = JOU R2=== 401 It 50 = 0 ,5 R= 60
@@ -4147,11 +4147,11 @@ R= 60
 #### Seite 62: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=62>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=62]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=62>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=62]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=62]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=62]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen R Klasse: Name: Datum: 3 1. Berechne den Widerstand eines Kupferdrahtes der Lange 140 m und dem Querschnitt 2,5 mm2. 2. Eine Freileitung aus Aluminium ist 18 km lang. Ihr Querschnitt betragt 95 mm2. Berechne den Widerstand des Seils. 3. Eine Aluminiumleitung mit 2,5mm2 Querschnitt soll durch eine Kupferleitung gleicher Länge und gleichem Widerstand ersetzt werden. Berechne den Querschnitt bei Kupfer. Übungsaufgaben Leiterwiderstand : fx = = ,0178 R= 0, 0178 . 140m = 0.997 2.5 im Pa = 0 ,2d R = F = 0,0278 . 16000m Emai = 5, 23 d Ma = 0. 0278 .1 =1,0mm2 ↳ 2 ,5mml
@@ -4204,11 +4204,11 @@ Ma
 #### Seite 63: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 63](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=63>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=63]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 63](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=63>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=63]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=63]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=63]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen R Klasse: Name: Datum: 4 4. Die Wicklung einer Spule besteht aus Kupferdraht mit einem Durchmesser von 0,45 mm. Der Spulenwiderstand betragt 112 Ω. Berechne die Drahtlänge. 5. Eine 70 m lange Aluminiumleitung darf einen maximalen Widerstand von 0,4 Ω haben. Berechne den Mindestdurchmesser der Leitung. R = F = R . A = p .) = B = 1 177 wh . 0 . 45mm 1 = = 1 ,42m 0, 0278 Refom4 di 2. = 2. ma = 2 ,5m
@@ -4258,11 +4258,11 @@ ma
 #### Seite 64: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 64](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=64>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=64]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 64](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=64>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=64]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=64]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=64]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Reihenschaltung Klasse: Name: Datum: 1 Ausgangssituation: Um das elektrische Verhalten von Rudis Lichterkette (Reihenschaltung) zu untersuchen, bauen wir diese im virtuellen Gleichstromlabor vereinfacht nach. Stellvertretend für die einzelnen Glühlampen, verwenden wir Widerstände. Messaufbau 1: Lichterkette kurz 1. Scannt den nebenstehenden QR-Code (alternativ: https://kurzlinks.de/aib7) und baut nachstehende Messchaltung im virtuellen DC-Labor nach. 2. Stellt die Versorgungsspannung sowie die Widerstände auf die angegebenen Werte ein. Messt anschließend sämtliche Ströme und Spannungen und tragt eure Messwerte in nachstehende Tabelle ein. I1 I2 I3 U U1 …
@@ -4324,11 +4324,11 @@ Strom
 #### Seite 65: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 65](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=65>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=65]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 65](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=65>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=65]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=65]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=65]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Reihenschaltung Klasse: Name: Datum: 2 4. Leitet eine allgemeine Regel für das Verhalten der Spannung in der Reihenschaltung ab. 5. Berechnet nun den Gesamtwiderstand der Reihenschaltung „Lichterkette kurz“ mithilfe des Ohmschen Gesetzes. Leitet hieraus eine allgemeine Regel für den Gesamtwiderstand einer Reihenschaltung von Widerständen ab. Messaufbau 2: Lichterkette lang Wie Rudis Lichterkette wird die Messschaltung 1 nun um zwei Widerstände (R3 und R4) erweitert. Die Versorgungsspannung bleibt jedoch ebenso konstant und weiterhin bei 12 Volt. 6. Baut die nachstehende Messschaltung im virtuellen DC-Labor nach und stellt die entsprechenden Bauteilwert …
@@ -4385,11 +4385,11 @@ R der Reihenschaltung addieren
 #### Seite 66: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 66](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=66>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=66]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 66](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=66>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=66]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=66]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=66]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Reihenschaltung Klasse: Name: Datum: 3 7. Messt nun wieder sämtliche Ströme und Spannungen und tragt eure Messwerte in nachstehende Tabelle ein. I1 I2 I3 I4 U U1 U2 U3 U4 Tabelle 2: Messwerte Lichterkette lang 8. Berechnet nun den Gesamtwiderstand der Reihenschaltung „Lichterkette lang“ mithilfe des Ohmschen Gesetzes. 9. Tragt nun alle Messergebnisse (Gesamtspannung U, Teilspannungen U1 – U4, Gesamtwiderstand R und Stromstärke I) zusammenfassend in nachstehende Tabelle ein: U U1 U2 U3 U4 R I P Lichterkette kurz Lichterkette lang Tabelle 3: Zusammenfassung Messwerte 10. Berechnet die in den beiden Messchaltungen umgesetzte Gesamtleistung und tragt eure …
@@ -4471,11 +4471,11 @@ P
 #### Seite 67: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 67](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=67>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=67]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 67](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=67>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=67]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=67]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=67]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Reihenschaltung Klasse: Name: Datum: 4 11. Formuliert abschließend eine Antwortnachricht für Rudi. Erklärt, weshalb seine Lichterkette nur noch schwach leuchtet, und empfehlt ihm eine alternative Schaltung, um dieses Problem zu lösen. Formelsammlung Reihenschaltung: • AAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA Stromstärke: Spannung: Widerstand: Servus Rudi , in der Reihenschaltung ist der Gesamtwiderstand glei …
@@ -4546,11 +4546,11 @@ B
 #### Seite 68: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 68](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=68>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=68]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 68](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=68>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=68]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=68]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=68]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Parallelschaltung Klasse: Name: Datum: 1 1. Scannt den nebenstehenden QR-Code (alternativ: https://kurzlinks.de/aib7) und baut obige Messchaltung im virtuellen DC-Labor nach. 2. Stellt die Versorgungsspannung sowie die Widerstände auf die angegebenen Werte ein. Messt anschließend sämtliche Ströme und Spannungen und tragt eure Messwerte in nachstehende Tabelle ein. I I1 I2 I3 U U1 U2 Tabelle 1: Messwerte Strom und Spannung Parallelschaltung von Widerständen Abbildung 1: Messaufbau Parallelschaltung Abbildung 2: QR-DC-Labor • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA …
@@ -4619,11 +4619,11 @@ abfließenden Ströme
 #### Seite 69: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 69](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=69>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=69]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 69](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=69>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=69]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=69]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=69]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Parallelschaltung Klasse: Name: Datum: 2 3. Berechnet nun den Gesamtwiderstand („Ersatzwiderstand“) der Parallelschaltung mithilfe des Ohmschen Gesetzes. Leitet hieraus eine allgemeine Regel für den Gesamtwiderstand einer Parallelschaltung von Widerständen ab. Formelsammlung Parallelschaltung: • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Erkenntnis: Stromstärke: Spann …
@@ -4681,11 +4681,11 @@ Uges
 #### Seite 70: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 70](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=70>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=70]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 70](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=70>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=70]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=70]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=70]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gemischte Schaltung Klasse: Name: Datum: 3 In der Praxis findet man meist gemischte Schaltungen von Widerständen („Gruppenschaltungen“) vor. Hierbei handelt es sich jedoch zum Großteil lediglich um eine Kombination aus Reihen- und Parallelschaltungen von Widerständen. Um den Ersatzwiderstand (= Gesamtwiderstand) einer gemischten Schaltung zu berechnen, geht man wie folgt vor: Man beginnt von innen nach außen einzelne „reine“ Reihen- und Parallelschaltungen zu einem Ersatzwiderstand zusammenzufassen. Es entstehen somit immer neue Reihen- und Parallelschaltungen aus Ersatzwiderständen. Diese werden so weit zusammengefasst, bis nur noch ein Ersatzwidersta …
@@ -4747,11 +4747,11 @@ Rez + Ry
 #### Seite 71: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 71](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=71>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=71]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 71](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=71>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=71]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=71]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=71]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen Reihen- und Parallelschaltung Klasse: Name: Datum: 1 1. Die Widerstände R1 = 25  und R2 = 35  liegen in Reihe an 220 V. Berechne den Ersatzwiderstand (= Gesamtwiderstand), die Stromstärke I sowie die Teilspannungen U1 und U2 an beiden Widerständen. 2. Die Widerstände R1 = 1,5 k, R2 = 2,2 k sowie R3 = 6,8 k liegen in Reihe an 220 V. Berechne den Ersatzwiderstand (= Gesamtwiderstand), die Stromstärke I sowie alle Teilspannungen. Übungsaufgaben Reihen- und Parallelschaltung D= Rgo = Ri + Re = 601 I b,6 A 25 U = U = con · 2201 = 91,672 42 = 128 , 330 Rges = Ry + Re +Ry = 1 , 5k2 + 2 , 2 k +6,ko :15k1 1 = 0 . 02 4 = 4 = 15001 · 220V = 31, 43V 1 …
@@ -4826,11 +4826,11 @@ U:
 #### Seite 72: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 72](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=72>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=72]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 72](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=72>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=72]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=72]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=72]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen Reihen- und Parallelschaltung Klasse: Name: Datum: 2 3. Die Widerstände R1 = 50 , R2 = 150  und R3 = 200  sind in Reihe geschaltet. Über dem Widerstand R2 wird eine Spannung von 75 V gemessen. a) Zeichne die Schaltung auf und bezeichne alle Spannungen und Ströme. b) Berechne die Stromstärke I. c) Berechne die Teilspannungen U1 und U3. d) Berechne die Gesamtspannung U. e) Berechne den Gesamtwiderstand. R :50d EiTIO RyiZON r -4- :Fif = U = R . 1 = By 1 : 501 · IA : T Ry . I : ICN · A = zrou Uges : Un +He + Uy = 1000 + 55VC =375V - R=== 17,5
@@ -4878,11 +4878,11 @@ R=== 17,5
 #### Seite 73: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 73](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=73>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=73]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 73](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=73>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=73]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=73]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=73]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen Reihen- und Parallelschaltung Klasse: Name: Datum: 3 4. Die Widerstände R1 = 10 k, R2 = 20 k,, R3 = 30 k und R4 = 40 k sind parallel geschalten und liegen an einer Versorgungsspannung von 230 V. a) Zeichne die Schaltung auf und bezeichne alle Spannungen und Ströme. b) Berechne alle Teilströme sowie die Gesamtstromstärke. c) Berechne den Gesamtwiderstand sowie den Gesamtleitwert. d) Was passiert mit dem Gesamtwiderstand, dem Gesamtleitwert sowie der Gesamtstromstärke, wenn noch weitere Widerstände hinzugeschalten werden? Erläutere kurz. ·in indtdor 1 E In= =30 = 0,023A Iz = 0,01 #=: 0,00 Igg = 0 ,023 A + 0, 612A +0,00PA = 0,0043A = F + +E = …
@@ -4936,11 +4936,11 @@ Igg
 #### Seite 74: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 74](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=74>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=74]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 74](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=74>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=74]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=74]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=74]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen Gruppenschaltung Klasse: Name: Datum: 1 1. Berechne den Ersatzwiderstand, den Gesamtstrom, die Teilströme I12, I3 und I4 sowie die Teilspannungen U123 und U4 der nachfolgenden Gruppenschaltung. Übungsaufgaben Gruppenschaltung 1. Un=. = Toer · 12V= 3 . 75 42= 4: Uz= 8 , 25V In=V = 00375A U = Rez = 3201 2. A Es = Es = = 0,0255A I Rizz = F + F = on + For = 190, Ich 3. 150 , 4 4=. 180 +190 . 42 · 12V = 6, 28 In = Un Un = 12V- 6 , 20 = 5 ,80
@@ -5002,11 +5002,11 @@ Un = 12V- 6
 #### Seite 75: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 75](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=75>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=75]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 75](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=75>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=75]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=75]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=75]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen Gruppenschaltung Klasse: Name: Datum: 2 2. Die nachfolgende Schaltung liegt an einer Gesamtspannung U von 24 V. Der Gesamtstrom beträgt 50 mA. Berechne die fehlenden Teilströme, Teilspannungen und Widerstände. 3. In einem Rechenzentrum werden mehrere IT-Systeme (Server, Storage-Systeme und Netzwerkgeräte) über eine Gruppenschaltung mit elektrischer Energie versorgt. Die Schaltung besteht aus drei Gruppen, die parallel an eine gemeinsame Spannungsquelle mit U = 230 V angeschlossen sind. Jede Gruppe enthält unterschiedlich viele Verbraucher, die in Reihe geschalten sind:
@@ -5037,11 +5037,11 @@ die in Reihe geschalten sind:
 #### Seite 76: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 76](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=76>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=76]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 76](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=76>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=76]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=76]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=76]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen Gruppenschaltung Klasse: Name: Datum: 3 a) Berechne den Gesamtwiderstand jeder einzelnen Gruppe. b) Berechne den Ersatzwiderstand der gesamten Schaltung. c) Berechne die Stromstärke in jeder einzelnen Gruppe. d) Bestimme den Gesamtstrom, den das Rechenzentrum aus dem Netz aufnimmt. e) Berechne die elektrische Leistung, die in jeder einzelnen Gruppe umgesetzt wird. f) In Gruppe 3 fällt die USV aus und verursacht eine Unterbrechung. Berechne den neuen Gesamtwiderstand der Schaltung.
@@ -5070,11 +5070,11 @@ neuen Gesamtwiderstand der Schaltung.
 #### Seite 77: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 77](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=77>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=77]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 77](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=77>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=77]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=77]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=77]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen Gruppenschaltung Klasse: Name: Datum: 4
@@ -5095,11 +5095,11 @@ Datum:
 #### Seite 78: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 78](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=78>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=78]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 78](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=78>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=78]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=78]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=78]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 1 Die Gefahren des elektrischen Stroms lassen sich grundsätzlich in fünf Bereiche einteilen: Der Durchströmungsunfall Faktencheck: In Deutschland sterben pro Jahr 36-100 Menschen an den Folgen eines Elektrounfalls. Wir unterscheiden dabei den Niederspannungsbereich mit <1.000 V und den Hochspannungsbereich mit >1.000 V. Bei einer Niederspannung ist das Risiko zu versterben mit 3% verhältnismäßig gering. Allerdings kommen diese Elektrounfälle häufiger vor. 90% aller Stromunfälle betreffen Niederspannung. Die Hochspannungsunfälle sind mit 10% der Elektrounfälle wesentlich seltener, sie enden allerding …
@@ -5164,11 +5164,11 @@ wird
 #### Seite 79: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 79](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=79>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=79]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 79](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=79>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=79]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=79]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=79]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 2 Schaue dir das Video zum Durchströmungsunfall aufmerksam an und beantworte die Fragen 1 bis 4: 1. Weshalb leitet der menschliche Körper den elektrischen Strom so gut? 2. Wie erfolgt die Reizweiterleitung (Sinnesorgane -> Gehirn bzw. Gehirn -> Muskulatur) im menschlichen Körper? 3. Was passiert mit der Reizweiterleitung, wenn der menschliche Körper bei einem Durch- strömungsunfall von einem sogenannten Körperstrom durchflossen wird? 4. Wovon ist die Schwere eines Durchströmungsunfalls abhängig? 5. Gefährdungsbereiche für Erwachsene AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAA …
@@ -5244,11 +5244,11 @@ Aufgabe 1a( = UmA , +=50cms
 #### Seite 80: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 80](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=80>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=80]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 80](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=80>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=80]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=80]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=80]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 3 Bereich 1 Bereich 2 Bereich 3 Bereich 4 6. Körperwiderstand RK und Körperinnenwiderstand RKi: Wie groß der Körperstrom IK im Falle eines Durchströmungsunfalls ist, hängt von der Berührungsspannung UB (meist die Spannung U der Spannungsquelle) und dem Körperwiderstand RK ab: Der Körperwiderstand RK setzt sich aus den beiden Übergangswiderständen RÜ1 und RÜ2 sowie dem Körperinnenwiderstrand RKi zusammen: Übergangswiderstand RÜ Haut 1000 Ω Feuchte Haut 0 Ω Handschuhe, Schuhe 1 MΩ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAA …
@@ -5319,11 +5319,11 @@ RüntRi
 #### Seite 81: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 81](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=81>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=81]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 81](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=81>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=81]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=81]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=81]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 4 Der Körperinnenwiderstand RKi hängt davon ab, über welchen Pfad der Strom durch den Körper fließt. Grundsätzlich wählt der elektrische Strom den Weg des geringsten Widerstands. Der Strompfad ist demnach einerseits von den Berührungsstellen des Körpers mit der Spannungsquelle und andererseits von der individuellen Konstellation des Körpers abhängig. Denn Muskeln, Blutgefäße und Nervengewebe haben einen wesentlich geringeren elektrischen Widerstand als Fettgewebe, Sehnen oder Knochen. Zeichne jeweils ein Ersatzschaltbild und berechne den Körperinnenwiderstand RKi für die folgenden Strompfade: Stromp …
@@ -5395,11 +5395,11 @@ Rx i
 #### Seite 82: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 82](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=82>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=82]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 82](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=82>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=82]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=82]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=82]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 5 SPL : RcH + RRH = 1000- SP3 : Rc + Risis = 10001 SPS : (RcH + Rii) + R+ +[Rci + Rip = I I 0 ,004 +100 + 0 ,004 = 601 SP5 : R++ RcB = 600L Spo : R+ + min) = 10 +(5 + =) - 1 = 100 + 0,004 = 350
@@ -5454,11 +5454,11 @@ R+ + min)
 #### Seite 83: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 83](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=83>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=83]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 83](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=83>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=83]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=83]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=83]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 6 Übungsaufgabe 1: Autobatterie Rudi möchte die Batterie seines VW-Busses tauschen. Um die Batterie abzuklemmen, berührt er den Pluspol (linke Hand) und den Minuspol (rechte Hand) gleichzeitig für eine Zeitdauer von 5 Sekunden. Hierbei trägt er keine Handschuhe. a) Berechne den Körperwiderstand RK (Strompfad 2) sowie den durch Rudi fließenden Körperstrom IK, wenn die Batteriespannung 12 V beträgt. Mit welchen Folgen muss Rudi rechnen? b) Wie hoch kann der Körperstrom IK bei gleichzeitiger Berührung der Batteriepole schlimmstenfalls werden und welche Auswirkungen hat dies? Un = 12V + = 53 Rki = 1000/ …
@@ -5520,11 +5520,11 @@ wie bei al
 #### Seite 84: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 84](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=84>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=84]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 84](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=84>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=84]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=84]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=84]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 7 Übungsaufgabe 2: Elektrischer Stuhl Der elektrische Stuhl wird heute nur noch in wenigen US- Bundesstaaten als Hinrichtungsmethode eingesetzt. Der Verurteilte wird hier mit mehreren breiten Ledergurten am Stuhl fixiert. Anschließend wird ihm eine Elektrode mittels Kinnriemen am kahlgeschorenen Kopf befestigt. Eine weitere Elektrode wird am rasierten Unterschenkel angebracht. Um einen ausreichenden Stromfluss zu gewährleisten, wird zusätzlich jeweils ein mit gesättigter Kochsalzlösung getränkter Naturschwamm zwischen Elektrode und Haut platziert. Bei der Exekution werden mehrere Stromstöße angewend …
@@ -5586,11 +5586,11 @@ I
 #### Seite 85: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 85](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=85>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=85]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 85](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=85>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=85]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=85]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=85]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 8 Übungsaufgabe 3: Bahnstromunfall Immer wieder kommt es zu Bahnstromunfällen von Kindern, Jugendlichen aber auch von Erwachsenen durch Klettern auf Waggons, Strommasten, abgestellte Züge oder S-Bahnen. Die meisten Unfälle enden mit schwersten Verletzungen oder sogar tödlich. (siehe hierzu auch das Video gemäß nebenstehendem QR- Code). Um die Züge mit elektrischer Energie zu versorgen sind diese mit sogenannten Oberleitungen verbunden. Zwischen den Oberleitungen herrscht eine Spannung von mehr als 15 kV. Bei so hoher Spannung kann es bereits bei einem Abstand von weniger als 1,5 m zur Oberleitung zu …
@@ -5650,11 +5650,11 @@ Bereichs
 #### Seite 86: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 86](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=86>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=86]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 86](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=86>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=86]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=86]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=86]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 9 Übungsaufgabe 4: Blitz tötet Fußballspieler Peru, 05.11.2024: Eigentlich verließen die Spieler gerade bereits den Platz, nachdem das Regionalliga-Match wegen des starken Gewitters unterbrochen wurde. Ein anschließender Blitzeinschlag im Spielfeld tötete jedoch einen Spieler. Vier Weitere wurden schwer verletzt. Auf den Aufnahmen eines lokalen Fernsehsenders ist der dramatische Moment festgehalten (siehe QR-Code). Wichtig: Um etwaige Unfälle zu verhindern, sollte man bei einem Gewitter stets Schutz in geschlossenen Räumen aufsuchen. Darüber hinaus sollte man jeglichen Kontakt mit metallischen Gegen …
@@ -5703,11 +5703,11 @@ USchritt
 #### Seite 87: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 87](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=87>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=87]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 87](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=87>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=87]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=87]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=87]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 10 Übungsaufgabe 5: Tausch eines Servernetzteils Ihr habt die Aufgabe das nebenstehende Servernetzteil mit Einzeladerverdrahtung zu tauschen. Das Netzteil wird mit einer Spannung von 230 V versorgt. Leider habt ihr vergessen den vorgeschalteten Leitungsschutzschalter zu betätigen und ihr kommt mit den stromführenden Leitern L1 und N in Kontakt. a) Berechne den bei Berührung mit linker und rechter Hand auftretenden Körperstrom IK und beurteilt seine Auswirkungen, wenn dieser für eine Zeitdauer von 600ms durch deinen Körper fließt. b) Was würde in der Praxis in so einem Fall tatsächlich passieren? (Ti …
@@ -5747,11 +5747,11 @@ PE
 #### Seite 88: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 88](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=88>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=88]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 88](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=88>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=88]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=88]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=88]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 11 Die 5 Sicherheitsregeln Um an elektrischen Anlagen sicher arbeiten zu können, muss der spannungsfreie Zustand für die Dauer der Reparatur bzw. Installation hergestellt werden! Gerade bei längeren Einsätzen steigt aber die Gefahr, dass andere Mitarbeiter die Anlagen wieder einschalten, weil sie nicht wissen, dass ein Kollege daran arbeitet. Aus diesem Grund wurden fünf Sicherheitsregeln entwickelt, die einen Komplettschutz von Anfang bis Ende bieten: 1. Freischalten - Als erstes muss die elektrische Anlage oder ein Teil von ihr Freigeschalten werden! - Maßnahmen: Sicherungen herausdrehen oder auss …
@@ -5809,11 +5809,11 @@ Auslösen der vorgeschalteten Sicherheitseinrichtung
 #### Seite 89: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 89](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=89>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=89]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 89](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=89>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=89]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=89]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=89]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 12 5. Abdecken & Abschranken (ab 1kV-Anlagen) - Benachbarte unter Spannung stehende Teile müssen gegen Berührung geschützt werden. Erste-Hilfe-Maßnahmen bei Stromunfällen Szenario: Trotz höchster Vorsicht ist es zu einem Stromunfall gekommen. Das Opfer „klebt“ durch Verkrampfung der Muskulatur an spannungsführenden Teilen. Du kommst als Ersthelfer hinzu. Was ist zu tun? Schritt 1: Schritt 2: Da ein Stromschlag unter Umständen ein Herzkammerflimmern bzw. eine Asystolie (Herzstillstand) zur Folge haben kann, ist umgehend der Rettungsdienst zu alarmieren (Notrufnummer 112). Im Notruf sollte dabei darau …
@@ -5891,11 +5891,11 @@ es geschehen ?
 #### Seite 90: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 90](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=90>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=90]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 90](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=90>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=90]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=90]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=90]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 13 Schritt 3: Möglichst bald nach der Trennung vom Stromkreis muss mit aktiven Maßnahmen der Ersten Hilfe begonnen werden. Dabei gilt folgendes Schema: Des Weiteren müssen selbstverständlich auch weitere Maßnahmen, etwa das Stillen von Blutungen oder das Behandeln von Brandverletzungen mit geeigneten Materialien, durchgeführt werden, bis der Rettungsdienst bzw. Notarzt eintrifft. Wichtig: Auch wenn es nur zu einem „kleinen“ Stromunfall kommt, z.B. wenn man beim Wechsel einer Glühbirne einen elektrischen Schlag erleidet, sollte man anschließend stets einen Arzt aufsuchen. Die Folgen eines Stromunfall …
@@ -5936,11 +5936,11 @@ Maßnahmen der Ersten-Hilfe
 #### Seite 1: It_Elektro_Wild_Zusammenfassung Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF: [Zusammenfassung.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=1]]`
+> - PDF: [Zusammenfassung.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 
@@ -5954,11 +5954,11 @@ Maßnahmen der Ersten-Hilfe
 #### Seite 2: Faktor | __Vorsatz | Vorsatzzeichen Die elektrische Ladung Q
 
 > [!referenz] Exakte Referenz
-> - PDF: [Zusammenfassung.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=2]]`
+> - PDF: [Zusammenfassung.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Faktor | __Vorsatz | Vorsatzzeichen Die elektrische Ladung Q = Pr Alle Stoffe unserer Umwelt bestehen aus Atomen. Um uns vorzustellen, wie ein Atom 10-2 = 0,000000000001 poo | aufgebaut ist, betrachten wir das sog. Bohrsche Atommodell (auch Schalenmodell). a n Lt Recherchiere im Internet nach dem Bohrschen Atommodell und bezeichne die Elemente in 6 A om | Eleuion _ Atty 10" = 2,007 eee ee leben N, Atom hen 105 =100 00 meee Mw \ a - Homhalle 3 , EN i fo ‚Abbildung 1: Darstellung eines Atoms gemäß Schalenmodell am Boispiol Lithium Spannung U und Potenzial @ * De GEE sd neigh seladme Tether in der Alorhälle Pluspol (Anode) Une Minuspol (Kathode) Dic FD) sir positiv ‚sehdee. Tether in Aonberr . …
@@ -6035,11 +6035,11 @@ Vorsicht bei elektrostatisch gefährdeten Bauteilen (z.B. Platinen)
 #### Seite 3: Nob AD m ett 1. vauıı.
 
 > [!referenz] Exakte Referenz
-> - PDF: [Zusammenfassung.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=3]]`
+> - PDF: [Zusammenfassung.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Nob AD m ett 1. vauıı. Ge" > a PC-Netzteil - Funktion und Kennwerte / über weichen Ausgang AZ acer 9 1. Erkläre die Aufgabe des PC - Netzteils PSU ( Pur Swaehy Unit ): ‚NVo@chiedene Gleichspannuna un EN 2. Erläutere den Formfaktor ATX: a „die. Foto. 00.462... hes. (ehe... 5. Erläutere die Sicherungseinrichtungen des PC-Netzteils mithilfe des Internets: ret. one... Scroller abe vum de ap bh ‚Betectien........ | die. max..2ulavine. lest ubesterd.... Ves Volta @ & ef N USG GA am ove | Art..\altase.... |Schadiel.ab.senn. Ausenappamen. Ptetection..... | 20 hoch. ist.avch ber cu hohe. Eimanasunen Potection | Susann. Lb Kabel) couse uvp Undfez...oltase. Schaltet ab..sem. Asssomszunauns Plotecion... …
@@ -6089,11 +6089,11 @@ Pic hein. dO mehr... nn
 #### Seite 4: 1. Ergänzt die Formel sowie die Einheit der elektrischen Leistung:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Zusammenfassung.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=4]]`
+> - PDF: [Zusammenfassung.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 1. Ergänzt die Formel sowie die Einheit der elektrischen Leistung: Paz UI Pas Vo A=M 2. Unter welcher Einschränkung gilt obige Formel zur Berechnung der Leistung Pei? N Nie bei Gleichshomusbracher 3. Wo findet man die Angaben zu Strom, Spannung bzw. Leistung, wie bei der Grafikkarte von Rudi? Technische Daten. im Beeich_Eleklüsche. Nette. 4. Wie können Strom, Spannung und Leistung in der Praxis ermittelt werden, wenn diese nicht angegeben sind? Leilungmesail oder. (Shore Samay 5. Übertragt die Werte der Stromaufnahme Ick eurer Grafikkarte aus dem Datenblatt in die nachstehende Tabelle und berechnet die zugehörigen Leistungen Pck (Formel, eingesetzte Werte mit Einheiten angeben!): Ein Atom be …
@@ -6135,11 +6135,11 @@ Wa U-I-t P.,-t K=W,,-T
 #### Seite 5: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [Zusammenfassung.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=5]]`
+> - PDF: [Zusammenfassung.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=5]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 1 Sichtet zun‰chst ausf¸hrlich (jeder f¸r sich!) das Produktinformationsblatt des euch zugeordneten Netzteils! Bearbeitet anschlieﬂend gemeinsam in der Gruppe die Aufgaben im nachstehenden Beratungsprotokoll. 1. Erg‰nzt die Formel zur Berechnung des Wirkungsgrades eines Netzteils: 2. Notiert die Einheit sowie den mˆglichen Wertebereich des Wirkungsgrades η: 3. Erkl‰rt kurz, wozu die 80PLUS-Zertifizierung des „Bequiet! PURE POWER 12M“ dient: Aus dem Beratungschat liegt euch das PC-Nutzungsprofil von Rudi vor. Es zeigt die vom Netzteil an die PC-Komponenten abgegebene Leistung Pab sowie die t‰glichen Betriebs …
@@ -6181,11 +6181,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 #### Seite 6: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [Zusammenfassung.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=6]]`
+> - PDF: [Zusammenfassung.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=6]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 2 4. F¸r jede Lastphase getrennt: Lest die Zeitdauer t sowie die benˆtigte Leistung Pab aus dem PC-Nutzungsprofil ab. Berechnet anschlieﬂend die prozentuale Auslastung Load des Netzteils. 5. F¸r jede Lastphase getrennt: Ermittelt nun den Wirkungsgrad η (siehe Effizienzkennlinie im Produktblatt eures Netzteils). Berechnet anschlieﬂend die vom Netzteil in der jeweiligen Lastphase aufgenommene Leistung Pzu sowie die benˆtigte elektrische Energie Wel. Tragt eure Ergebnisse aus den Teilaufgaben 4 und 5 in die Tabelle auf Seite 3 ein!
@@ -6215,11 +6215,11 @@ Tragt eure Ergebnisse aus den Teilaufgaben 4 und 5 in die Tabelle auf Seite 3 ei
 #### Seite 7: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [Zusammenfassung.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=7]]`
+> - PDF: [Zusammenfassung.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=7]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 3 6. Im Beratungschat gibt Rudi an, dass er seinen Rechner noch f¸r 3 Jahre nutzen mˆchte. Berechnet die f¸r diese Nutzungsdauer insgesamt aufgenommene elektrische Energie Wel gesamt sowie die entstehenden Energiekosten KEnergie gesamt (T = 40 Ct kWh). Tragt eure Ergebnisse sowie den Kaufpreis eures Netzteils KNetzteil zusammenfassend in die betreffende Spalte auf Seite 4 ein. Lastphase 1 Lastphase 2 Zeitdauer t Pab Load Wirkungsgrad η Pzu Wel
@@ -6262,11 +6262,11 @@ Wel
 #### Seite 8: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [Zusammenfassung.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=8]]`
+> - PDF: [Zusammenfassung.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 4 7. Berechnet nun abschlieﬂend die f¸r Rudi auftretenden Gesamtkosten Kgesamt aus KEnergie gesamt und KNetzteil. Erg‰nzt euer Ergebnis ebenfalls in der Tabelle. Wel gesamt KEnergie gesamt KNetzteil Kgesamt F¸r Rudi am rentabelsten: 8. Formuliert abschlieﬂend eine begr¸ndete Antwort f¸r Rudi: Ihr seid schon fertig? Hervorragend! Meldet euch bei Herrn Wild! Scannt nebenstehenden QR-Code und bearbeitet die Zusatzaufgaben! Zusammenfassende Erkenntnis: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAA …
@@ -6320,7 +6320,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 - Frage:: Welche Regel nennt die Quelle zu **FU-IT: Grundlagen Elektrotechnik (Wild)**?
 - Antwort:: Schlieﬂlich ist die Schreibweise 0,0000000000000000001602 Coulomb sehr unleserlich bzw. in Rechnungen nicht handhabbar. • Kommaverschiebung und Exponent: Wird das Komma einer Zahl nach links verschoben, so wird der Exponent positiv.
 - Beleg:: Schlieﬂlich ist die Schreibweise 0,0000000000000000001602 Coulomb sehr unleserlich bzw. in Rechnungen nicht handhabbar. • Kommaverschiebung und Exponent: Wird das Komma einer Zahl nach links verschoben, so wird der Exponent positiv.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]], [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01_AB_Ladung Q S. 1]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]], [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1|01_AB_Ladung Q S. 1]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -6328,7 +6328,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 - Frage:: Was ist **FU-IT: Grundlagen Elektrotechnik (Wild)** laut Quelle?
 - Antwort:: Q = Protonen, Elektronen und Neutronen sind nicht teilba und werden als Elementarteilchen bezeichnet negativ positiv eet - 1, 602 .
 - Beleg:: Q = Protonen, Elektronen und Neutronen sind nicht teilba und werden als Elementarteilchen bezeichnet negativ positiv eet - 1, 602 .
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]], [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=12|01_AB_Ladung Q S. 12]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]], [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=12|01_AB_Ladung Q S. 12]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -6336,7 +6336,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 - Frage:: Was ist der Kernpunkt zu **Version 2010.4** laut Quelle?
 - Antwort:: In der Regel sind die Spannung U, der Strom I oder die Leistung Pel im Datenblatt oder auf dem Typenschild von elektrischen bzw. elektronischen Bauteilen angegeben.
 - Beleg:: In der Regel sind die Spannung U, der Strom I oder die Leistung Pel im Datenblatt oder auf dem Typenschild von elektrischen bzw. elektronischen Bauteilen angegeben.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]], [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=32|01_AB_Ladung Q S. 32]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]], [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=32|01_AB_Ladung Q S. 32]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -6344,7 +6344,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 - Frage:: Was ist der Kernpunkt zu **Sie möchten die Energiekosten Ihrer Geräte selbst** laut Quelle?
 - Antwort:: Die entstehenden Energiekosten K können Sie dann ganz einfach gemäß nachstehender Formel berechnen: Beispiel: Ihr Fernseher nimmt an einer Spannung U = 230 Volt einen Strom von I = 0,32 A auf.
 - Beleg:: Die entstehenden Energiekosten K können Sie dann ganz einfach gemäß nachstehender Formel berechnen: Beispiel: Ihr Fernseher nimmt an einer Spannung U = 230 Volt einen Strom von I = 0,32 A auf.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]], [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=34|01_AB_Ladung Q S. 34]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]], [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=34|01_AB_Ladung Q S. 34]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -6352,7 +6352,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 - Frage:: Was ist der Kernpunkt zu **FU-IT: Grundlagen Elektrotechnik (Wild)** laut Quelle?
 - Antwort:: Da das Dachgeschoss, in dem sich Rudis Zimmer befindet, mit einer separaten Zählereinheit ausgestattet ist, kann Rudis Vater genau nachvollziehen, welche Energiekosten Rudi im letzten Jahr verursacht hat!
 - Beleg:: Da das Dachgeschoss, in dem sich Rudis Zimmer befindet, mit einer separaten Zählereinheit ausgestattet ist, kann Rudis Vater genau nachvollziehen, welche Energiekosten Rudi im letzten Jahr verursacht hat!
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]], [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=35|01_AB_Ladung Q S. 35]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]], [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=35|01_AB_Ladung Q S. 35]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -6360,7 +6360,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 - Frage:: Welche Vorgabe nennt die Quelle zu **FU-IT: Grundlagen Elektrotechnik (Wild)**?
 - Antwort:: Ein Netzteil sollte stehts so dimensioniert werden, das es mit einer Auslastung von 50 bis 80 % betrieben wird.Dann ist der Wirkungsgrad am größten
 - Beleg:: Ein Netzteil sollte stehts so dimensioniert werden, das es mit einer Auslastung von 50 bis 80 % betrieben wird.Dann ist der Wirkungsgrad am größten
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]], [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=41|01_AB_Ladung Q S. 41]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]], [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=41|01_AB_Ladung Q S. 41]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -6368,7 +6368,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 - Frage:: Was ist der Kernpunkt zu **FU-IT: Grundlagen Elektrotechnik (Wild)** laut Quelle?
 - Antwort:: Schritt 2: Da ein Stromschlag unter Umständen ein Herzkammerflimmern bzw. eine Asystolie (Herzstillstand) zur Folge haben kann, ist umgehend der Rettungsdienst zu alarmieren (Notrufnummer 112).
 - Beleg:: Schritt 2: Da ein Stromschlag unter Umständen ein Herzkammerflimmern bzw. eine Asystolie (Herzstillstand) zur Folge haben kann, ist umgehend der Rettungsdienst zu alarmieren (Notrufnummer 112).
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]], [[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=89|01_AB_Ladung Q S. 89]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|It_Elektro_Wild_01_AB_Ladung_Q]], [[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=89|01_AB_Ladung Q S. 89]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

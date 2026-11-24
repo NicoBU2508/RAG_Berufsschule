@@ -2,15 +2,15 @@
 id: vault.thema.visuell.kommasetzung
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Kommasetzung"
 kategorie: Deutsch_Englisch_Kommunikation
-quellen: 1
-seiten: 2
+quellen: 2
+seiten: 10
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,8 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [6–7](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6>) | aufgabe, theorie | Text für Zitate geeignet |
+| [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript\|Deutsch_2LJ_Skript]] | [16–17, 20–23, 39–40](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=16>) | aufgabe, fragment, theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [6–7](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6>) | aufgabe, theorie | Text für Zitate geeignet |
 
 ## Belegregel für GPT
 

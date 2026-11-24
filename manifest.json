@@ -1,21 +1,21 @@
 {
   "created_by": "ChatGPT AP-Lernhelfer Builder",
   "created_on": "2026-06-16",
-  "last_full_audit": "2026-07-13",
+  "last_full_audit": "2026-11-23",
   "source_zip": "GoodNotes-20260616T072801Z-3-001.zip",
-  "active_sources": 33,
-  "canonical_source_notes": 30,
+  "active_sources": 52,
+  "canonical_source_notes": 49,
   "excluded_source_notes": 3,
   "duplicate_sources_deactivated": 3,
   "private_sources_removed_from_learning_flow": 1,
-  "nonprivate_pdfs_accounted_for": 36,
-  "nonprivate_pdf_pages_accounted_for": 902,
-  "active_pdf_pages_visually_audited": 805,
-  "canonical_evidence_pages": 713,
-  "support_only_pages": 3,
-  "excluded_active_pages": 89,
-  "topics_curated": 101,
-  "copilot_exact_allowlist_files": 134,
+  "nonprivate_pdfs_accounted_for": 55,
+  "nonprivate_pdf_pages_accounted_for": 1447,
+  "active_pdf_pages_visually_audited": 1350,
+  "canonical_evidence_pages": 1220,
+  "support_only_pages": 11,
+  "excluded_active_pages": 119,
+  "topics_curated": 137,
+  "copilot_exact_allowlist_files": 189,
   "ocr_critical_active_sources": [
     "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_AEuP_Stol.md",
     "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824.md",
@@ -24,9 +24,9 @@
     "02_Faecher/ITT_IT_Technik/Quellen/Stol_Zusammenfassung_260120_080521.md"
   ],
   "duplicate_map": {
-    "Berufsschule/AE/Anwendugse.pdf": "Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf",
-    "Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf": "Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf",
-    "Berufsschule/Religion/Unbenanntes Notizbuch.pdf": "Berufsschule/Religion/Reli Notizen.pdf"
+    "Berufsschule/AE/1_LJ/Anwendugse.pdf": "Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+    "Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf": "Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf",
+    "Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf": "Berufsschule/Religion/1_LJ/Reli Notizen.pdf"
   },
   "notes": "All non-private PDFs are accounted for. Canonical source notes, exact page references and topics were regenerated from the complete visual audit; private content remains unread and excluded."
 }

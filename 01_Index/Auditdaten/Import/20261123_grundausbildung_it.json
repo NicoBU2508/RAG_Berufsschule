@@ -1,0 +1,485 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md (Seiten 1–16)",
+  "replaces_existing": false,
+  "topic_categories": {
+    "Digitaltechnik und Logikschaltungen": "IT_Technik_und_Sicherheit",
+    "Hexadezimalsystem": "IT_Technik_und_Sicherheit",
+    "Zeichencodierung und ASCII": "IT_Technik_und_Sicherheit",
+    "Künstliche Intelligenz und Prompting": "IT_Technik_und_Sicherheit",
+    "Power Apps und Power Automate": "Anwendungsentwicklung",
+    "Python-Grundlagen": "Anwendungsentwicklung",
+    "UML-Diagramme": "Anwendungsentwicklung"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Digitaltechnik und Logikschaltungen",
+        "secondary_topics": [
+          "Wahrheitstabellen",
+          "ODER UND NICHT XOR",
+          "Elektrotechnik Grundgrößen"
+        ],
+        "recommended_topics": [
+          "Digitaltechnik und Logikschaltungen",
+          "Spannung, Strom und Widerstand",
+          "Ohmsches Gesetz und Leiterwiderstand"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Tabellen, Schaltbilder und Wahrheitstabellen aus Sichtprüfung vollständig transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 2,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Binärzahlen",
+        "secondary_topics": [
+          "Outlook Postfachpflege",
+          "ASCII und Sicherungsbit",
+          "Schreibtischtest",
+          "Typecast"
+        ],
+        "recommended_topics": [
+          "Binärzahlen",
+          "Zeichencodierung und ASCII",
+          "Variablen und Datentypen",
+          "Operatoren und Bedingungen",
+          "Python-Grundlagen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Zwei eingeklebte handschriftliche Notizzettel fehlten vollständig in der Textschicht; komplett visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Hexadezimalsystem",
+        "secondary_topics": [
+          "Dezimal-Hexadezimal-Umrechnung",
+          "Dezimal-Binär-Umrechnung"
+        ],
+        "recommended_topics": [
+          "Hexadezimalsystem",
+          "Binärzahlen"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Umrechnungsbeispiele aus Sichtprüfung korrigiert transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 4,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+          "UML-Klassendiagramm",
+          "Vererbung",
+          "Binär-Hexadezimal-Umrechnung"
+        ],
+        "recommended_topics": [
+          "UML-Diagramme",
+          "Objektorientierung",
+          "Hexadezimalsystem",
+          "Binärzahlen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Binär-Hex-Umrechnung und UML-Klassendiagramm aus Sichtprüfung vollständig transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Künstliche Intelligenz und Prompting",
+        "secondary_topics": [
+          "Zero-Shot One-Shot Few-Shot",
+          "Chain of Thoughts",
+          "Roleplaying"
+        ],
+        "recommended_topics": [
+          "Künstliche Intelligenz und Prompting"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Prompting-Notizen aus Sichtprüfung bereinigt transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Power Apps und Power Automate",
+        "secondary_topics": [
+          "Low-Code",
+          "Power Apps Formeln",
+          "Gallery und SharePoint-Liste"
+        ],
+        "recommended_topics": [
+          "Power Apps und Power Automate"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Power-Apps-Notizen und Formelerläuterungen aus Sichtprüfung strukturiert transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 7,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Power Apps und Power Automate",
+        "secondary_topics": [
+          "SharePoint-Spaltentypen",
+          "Cloud Flows",
+          "Trigger und Aktionen"
+        ],
+        "recommended_topics": [
+          "Power Apps und Power Automate"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Notizen zu Power Apps, SharePoint und Power Automate inkl. Flow-Skizze aus Sichtprüfung transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 8,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Programmiersprachen und Übersetzer",
+        "secondary_topics": [
+          "Compiler und Interpreter",
+          "Maschinensprache",
+          "Python int-Funktion"
+        ],
+        "recommended_topics": [
+          "Programmiersprachen und Übersetzer",
+          "Computergrundbegriffe",
+          "Python-Grundlagen",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Übersicht zu Informatik/Computer und zweispaltige Tabelle zu int() aus Sichtprüfung transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 9,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Python-Grundlagen",
+        "secondary_topics": [
+          "Python Datentypen",
+          "Operatoren",
+          "Listen und Dictionaries"
+        ],
+        "recommended_topics": [
+          "Python-Grundlagen",
+          "Variablen und Datentypen",
+          "Operatoren und Bedingungen",
+          "Arrays und Datenstrukturen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingescannter Python-3-Cheat-Sheet (Teil 1) aus Sichtprüfung um OCR-Syntaxfehler bereinigt transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 10,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Python-Grundlagen",
+        "secondary_topics": [
+          "Built-in-Funktionen",
+          "Kontrollstrukturen",
+          "Schleifen",
+          "Datei-I/O"
+        ],
+        "recommended_topics": [
+          "Python-Grundlagen",
+          "Operatoren und Bedingungen",
+          "Schleifen",
+          "Methoden, Parameter und Rückgabewerte"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingescannter Python-3-Cheat-Sheet (Teil 2) aus Sichtprüfung um OCR-Syntaxfehler bereinigt transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 11,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Python-Grundlagen",
+        "secondary_topics": [
+          "Programmier-Glossar A–O"
+        ],
+        "recommended_topics": [
+          "Python-Grundlagen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Dreispaltige handschriftliche Begriffsliste spaltenweise geordnet aus Sichtprüfung transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 12,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Python-Grundlagen",
+        "secondary_topics": [
+          "Programmier-Glossar P"
+        ],
+        "recommended_topics": [
+          "Python-Grundlagen"
+        ],
+        "content_type": "fragment",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Nur 4 Stichwörter als Fortsetzung der Begriffsliste von S.11; daher nur unterstützend (support_only)"
+        ],
+        "exclusion_reason": null,
+        "support_only": true,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 13,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Python-Grundlagen",
+        "secondary_topics": [
+          "Funktionen",
+          "Module und Import",
+          "__name__ == __main__"
+        ],
+        "recommended_topics": [
+          "Python-Grundlagen",
+          "Methoden, Parameter und Rückgabewerte"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Python-Syntax (def, return, import, __main__) aus Sichtprüfung bereinigt transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 14,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "leer",
+        "source_text_match": "missing",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Visuell leere Seite ohne Lerninhalt",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 15,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Python-Grundlagen",
+        "secondary_topics": [
+          "Mutable und Immutable",
+          "Call by Reference vs Value",
+          "Identität is vs ==",
+          "Sets und Dictionaries",
+          "TDD"
+        ],
+        "recommended_topics": [
+          "Python-Grundlagen",
+          "Variablen und Datentypen",
+          "Methoden, Parameter und Rückgabewerte"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Notizen und eingebettete Grafik zu Python-Datentypen aus Sichtprüfung vollständig transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "page": 16,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "leer",
+        "source_text_match": "missing",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Visuell leere Seite ohne Lerninhalt",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    }
+  ]
+}

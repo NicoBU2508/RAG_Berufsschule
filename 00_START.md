@@ -2,12 +2,12 @@
 typ: start
 status: ap_lernhelfer
 version: 3
-stand: 2026-07-13
+stand: 2026-11-23
 ---
 # 🎓 Obsidian AP-Lernhelfer Fachinformatiker
 
 > [!ap1] Ziel
-> Dieser Vault ist als AP-Lernbasis strukturiert. Alle 805 aktiven PDF-Seiten wurden visuell geprüft; 97 weitere Seiten wurden als pixelidentische Dubletten nachgewiesen. Kanonisch sind nur die daraus erzeugten Themenbezüge und die ausdrücklich zugelassenen Seiten der Quellnotizen.
+> Dieser Vault ist als AP-Lernbasis strukturiert. Alle 1.350 aktiven PDF-Seiten wurden visuell geprüft; 97 weitere Seiten wurden als pixelidentische Dubletten nachgewiesen. Kanonisch sind nur die daraus erzeugten Themenbezüge und die ausdrücklich zugelassenen Seiten der Quellnotizen.
 
 > [!important] Einstieg für GPT und Obsidian-Copilot
 > KI-Systeme beginnen bei [[00_KI_QUELLENSTART|KI-Quellenstart]]. Dort stehen Quellenpriorität, Ausschlüsse, Belegregeln und bekannte Qualitätsgrenzen.
@@ -23,7 +23,7 @@ stand: 2026-07-13
 
 - [[00_WORKFLOW_NEUE_MITSCHRIFTEN|Neue GoodNotes-Mitschriften integrieren]]
 - [[00_KI_QUELLENSTART|KI-/GPT-Quellenstart]]
-- [[03_Themen/00_Kuratierte_Themen|101 visuell geprüfte Themen]]
+- [[03_Themen/00_Kuratierte_Themen|137 visuell geprüfte Themen]]
 - [[01_Index/KI_Quellenqualitaet|Ergebnis der vollständigen PDF- und Quellenprüfung]]
 - [[01_Index/PDF_Seitenaudit|Seitenaudit aller aktiven PDFs]]
 - [[00_Vault_Index_Vollständig|Vollständiger Vault-Index]]

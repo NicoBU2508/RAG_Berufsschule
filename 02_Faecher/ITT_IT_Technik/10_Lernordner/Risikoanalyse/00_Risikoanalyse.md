@@ -32,14 +32,14 @@ Eine Risikoanalyse wird für Zielobjekte benötigt, die durch die IT-Grundschutz
 ## Kanonische Quelle
 
 - [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT-Sicherheit Skript Wittmann]]
-- Direkter Kapitelbereich: [PDF-Seiten 45–57](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=45>)
+- Direkter Kapitelbereich: [PDF-Seiten 45–57](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=45>)
 
 | Evidenztyp | PDF-Seiten | Inhalt |
 |---|---|---|
-| Kapitelübergang und Voraussetzungen | [45](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=45>)–[47](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=47>) | Zielobjekte und Fälle, für die eine Risikoanalyse nötig wird |
-| direkter Abschnitt | [48](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=48>)–[51](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=51>) | elementare Gefährdungen und Risikoidentifikation |
-| direkter Abschnitt | [52](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=52>)–[54](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=54>) | Häufigkeit, Auswirkungen und Risikobewertung |
-| direkter Abschnitt | [55](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=55>)–[57](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=57>) | Risikobehandlung, zusätzliche Maßnahmen und Abschluss |
+| Kapitelübergang und Voraussetzungen | [45](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=45>)–[47](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=47>) | Zielobjekte und Fälle, für die eine Risikoanalyse nötig wird |
+| direkter Abschnitt | [48](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=48>)–[51](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=51>) | elementare Gefährdungen und Risikoidentifikation |
+| direkter Abschnitt | [52](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=52>)–[54](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=54>) | Häufigkeit, Auswirkungen und Risikobewertung |
+| direkter Abschnitt | [55](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=55>)–[57](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57>) | Risikobehandlung, zusätzliche Maßnahmen und Abschluss |
 
 > [!note] Belegregel
 > Dieses Modul ist eine Lern- und Navigationsschicht. Für Antworten immer die Quellnotiz und die konkrete PDF-Seite zitieren; Zahlen und Tabellen im Original-PDF prüfen.

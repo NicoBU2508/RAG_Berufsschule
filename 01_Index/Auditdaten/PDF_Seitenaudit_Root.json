@@ -5,7 +5,7 @@
   "expected_pages": 154,
   "documents": [
     {
-      "pdf_path": "99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page_count": 90,
       "global_issues": [
         "Die eingebettete Textschicht liegt auf den richtigen Seiten, enthält aber Mojibake und bildet Handschrift, Formeln sowie Layout nur teilweise ab.",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "pdf_path": "99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf",
       "page_count": 8,
       "global_issues": ["Die Seiten sind Bildmontagen/Notizseiten; Text und Formeln sind nur teilweise maschinenlesbar."],
       "ranges": [
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "pdf_path": "99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf",
       "page_count": 12,
       "global_issues": ["Handschrift und eingebettete Tafelbilder sind nur teilweise im extrahierten Text enthalten."],
       "ranges": [
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "pdf_path": "99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf",
       "page_count": 4,
       "ranges": [
         {"pages":"1-2","primary_topic":"Beschaffungsquellen und Stammdaten","secondary_topics":["Lieferanten- und Artikeldatei","Interne und externe Bezugsquellen"],"content_type":"loesung","source_text_match":"ok","mapping_status":"overbroad","confidence":"high"},
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "pdf_path": "99_Originale/Berufsschule/ITT/Stößl/Skript.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
       "page_count": 36,
       "global_issues": [
         "Seiten 17, 19, 22-24 und 29 enthalten beispielhafte Kontakt-, Firmen- und teilweise Bankdaten aus Unterrichtsszenarien; nur fachlich verwenden und nicht unnötig reproduzieren."
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "pdf_path": "99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf",
       "page_count": 4,
       "ranges": [
         {"pages":"1","primary_topic":"Beschaffungsquellen und Stammdaten","secondary_topics":["Geschäftsbrief","Lieferanten- und Artikeldatei"],"content_type":"theorie","source_text_match":"partial","mapping_status":"mixed","confidence":"high"},

@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Personalwirtschaft** im Fach **BGWP Betriebswirtschaft**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1|BGWP S. 1]]; [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3|BGWP S. 3]]; [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4|BGWP S. 4]]; [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6|BGWP S. 6]]; [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7|BGWP S. 7]]; [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8|BGWP S. 8]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1|BGWP S. 1]]; [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3|BGWP S. 3]]; [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4|BGWP S. 4]]; [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6|BGWP S. 6]]; [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7|BGWP S. 7]]; [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8|BGWP S. 8]].
 > - **Zentrale Suchbegriffe:** Personalwirtschaft, Wir, orientieren, uns, Produktionsfaktoren, Unternehmensziele.
 > - **Prüfungsbezug:** AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -62,38 +62,38 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 1](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1>) | 01 „Wir orientieren uns im | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3>) | 02 Produktionsfaktoren | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4>) | 03 Unternehmensziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 6](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6>) | 03 Unternehmensziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7>) | 03 Unternehmensziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 8](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8>) | 03 Unternehmensziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 10](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=10>) | 03 Unternehmensziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 11](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=11>) | 03 Unternehmensziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 12](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=12>) | 03 Unternehmensziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 17](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=17>) | 05 ökonomisches Prinzip | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 21](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=21>) | 06 Arbeitsteilung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 25](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=25>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 40](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=40>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 42](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=42>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 45](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=45>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 46](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=46>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 17 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 47](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 18 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 48](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=48>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 19 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 49](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=49>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 20 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 1](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=1>) | Organisation im Betrieb - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 21 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 2](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2>) | Organisation im Betrieb - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 22 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3>) | GOrganisation im Betrieb - Aufbauorganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 23 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=4>) | GOrganisation im Betrieb - Aufbauorganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 24 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 8](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=8>) | Organisation im Betrieb - Aufbauorganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 25 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 18](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=18>) | Einsatz Balkendiagram | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 26 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 31](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=31>) | Organisation im Betrieb - Ablauforganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 27 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 32](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=32>) | Organisation im Betrieb - Ablauforganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 28 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 1](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=1>) | 1. Betriebsorganisation - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 29 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=4>) | R1 R2 R3 R4 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 30 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 5](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=5>) | Nr. Stufen des Arbeitsplans Symbole | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 31 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 6](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6>) | e _Handelswaren: Fertigwaren für den unveränderten Weiterverkauf. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 32 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7>) | 1. Betriebsorganisation - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 1](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1>) | 01 „Wir orientieren uns im | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3>) | 02 Produktionsfaktoren | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4>) | 03 Unternehmensziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 6](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6>) | 03 Unternehmensziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7>) | 03 Unternehmensziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 8](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8>) | 03 Unternehmensziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 10](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=10>) | 03 Unternehmensziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 11](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=11>) | 03 Unternehmensziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 12](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=12>) | 03 Unternehmensziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 17](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=17>) | 05 ökonomisches Prinzip | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 21](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=21>) | 06 Arbeitsteilung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 25](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=25>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 40](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=40>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 42](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=42>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 45](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=45>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 46](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=46>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 17 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 47](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 18 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 48](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=48>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 19 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 49](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=49>) | 08 Unternehmensrecht | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 20 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 1](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=1>) | Organisation im Betrieb - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 21 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 2](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2>) | Organisation im Betrieb - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 22 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3>) | GOrganisation im Betrieb - Aufbauorganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 23 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=4>) | GOrganisation im Betrieb - Aufbauorganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 24 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 8](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=8>) | Organisation im Betrieb - Aufbauorganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 25 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 18](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=18>) | Einsatz Balkendiagram | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 26 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 31](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=31>) | Organisation im Betrieb - Ablauforganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 27 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [Bgwp schredl.pdf Seite 32](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=32>) | Organisation im Betrieb - Ablauforganisation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 28 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 1](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=1>) | 1. Betriebsorganisation - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 29 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=4>) | R1 R2 R3 R4 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 30 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 5](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=5>) | Nr. Stufen des Arbeitsplans Symbole | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 31 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 6](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6>) | e _Handelswaren: Fertigwaren für den unveränderten Weiterverkauf. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 32 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7>) | 1. Betriebsorganisation - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -102,11 +102,11 @@ tags:
 #### Seite 1: 01 „Wir orientieren uns im
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 1](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1]]`
+> - PDF: [BGWP.pdf Seite 1](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=1]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 01 „Wir orientieren uns im Unternehmen.“ Klasse: Datum: Materialwirtschaft Produktion Absatz • Aufgaben: Materialbeschaffung, interne Bereitstellung, Lagerung • Methoden: Bestands- überwachung, Angebots- vergleich (Lieferanten), Preisverhandlung • Produktionsplanung • Herstellung der Ware • Wartung der Maschinen • Verpacken der Waren • Qualitätskontrolle • Marktforschung • Versand, Vertrieb • Sortimentsplanung • Preispolitik • Marketing Geschäftsführung Buchhaltung Finanzwirtschaft Controlling Personalwirtschaft • Bildet die wirtschaftliche Lage des Unternehmens nach außen ab • Erfasst alle Geschäftsvorfälle • Bilanz, Jahresabschluss • Planung des Finanzbedarfs • Bereitstellung von …
@@ -186,11 +186,11 @@ abrechnung
 #### Seite 3: 02 Produktionsfaktoren
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3]]`
+> - PDF: [BGWP.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 02 Produktionsfaktoren Klasse: Datum: Die Produktionsfaktoren Handlungsaufträge: 1. Ordne die folgenden Produktionsfaktoren den entsprechenden Beschreibungen zu: Betriebsstoffe, Fremdbauteile, Hilfsstoffe, Rohstoffe, Handelswaren, Betriebsmittel 2. Trage die zuvor gesammelten Beispiele in die obige Tabelle ein und ergänze weitere Beispiele. Hinweis: Gehe davon aus, dass zunächst nur der Fahrradrahmen selbst hergestellt wird. Alle weiteren Bauteile der Fahrräder werden zugekauft. Produktions- faktoren Beschreibung Beispiele Menschliche Arbeitskraft Zur Leistungserstellung bedarf es geistiger und körperlicher Anstrengungen der Menschen. Produktionsmitarbeiter, Lageristen, Buchhalter, …
@@ -285,11 +285,11 @@ Helm
 #### Seite 4: 03 Unternehmensziele
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4]]`
+> - PDF: [BGWP.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=4]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 03 Unternehmensziele Klasse: Datum: Situation: Max Fröling und Stefan Becker sind mittlerweile erfolgreiche Unternehmer geworden. Die IN Bike GmbH konnte sich bereits einen Namen machen und zählt mittlerweile einige Radhäuser der Region Ingolstadt und Umgebung zu ihren Kunden. Um die Absatzzahlen auch darüber hinaus zu steigern, soll die Abteilung „Marketing und Vertrieb“ ausgebaut werden. Fröling und Becker sind auf der Suche nach einer kompetenten Führungsperson für diese Abteilung. Frau Sarah Feldmeier hat bereits Interesse gezeigt. Sie möchte auch als Gesellschafterin ins Unternehmen einsteigen. Handlungsaufträge: 1. Sammelt mögliche Unternehmensziele. Wir freuen uns sehr, Sie …
@@ -339,11 +339,11 @@ Spaß! Und das möchten wir auch in Zukunft.
 #### Seite 6: 03 Unternehmensziele
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 6](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6]]`
+> - PDF: [BGWP.pdf Seite 6](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=6]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 03 Unternehmensziele Klasse: Datum: ÜBUNG Aufgabe: Überprüfe, ob die folgenden Ziele der SMART-Zielformel entsprechen. a) Die Ingolstädter Büromöbel AG beabsichtigt, im kommenden Jahr neue Schreibtischmodelle auf den Markt zu bringen. In diesem Zusammenhang soll der Umsatz in der Produktgruppe Schreibtische in Absprache mit dem Betriebsrat im Vergleich zum Vorjahr erhöht werden. Marktforschungsergebnissen zufolge erscheint dieses Ziel erreichbar. Begründung ja/ nein S M A R T b) Im Interpark hat sich vor einigen Jahren die Weber Metallbau GmbH niedergelassen. Aufgrund der schwierigen Auftragslage hat die Geschäftsführung ihren Mitarbeitern in Form einer E-Mail mitgeteilt, dass die …
@@ -435,11 +435,11 @@ als Zeit
 #### Seite 7: 03 Unternehmensziele
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7]]`
+> - PDF: [BGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 03 Unternehmensziele Klasse: Datum: 1. Ökonomische Ziele Das oberste Ziel eines erwerbswirtschaftlich orientierten Unternehmens ist die Erwirtschaftung eines maximalen Gewinns. Dieses Oberziel lässt sich in zwei Teilbereiche untergliedern: Monetäre Ziele und nicht-monetäre Ziele. Diesen Teilbereichen können wiederum Unterziele zugeordnet werden. Monetäre Ziele sind Ziele, die sich durch Geld messen lassen, wie zum Beispiel die Maximierung des Umsatzes. Nicht-monetäre Ziele sind Ziele, die sich eben nicht durch Geld messen lassen, wie beispielsweise die Erhöhung des Marktanteils. Eine wichtige Nebenbedingung ist die Aufrechterhaltung der Liquidität. Das Unternehmen muss jederzeit in …
@@ -506,11 +506,11 @@ Aktivitäten die Verantwortung des Unternehmens aufgezeigt.
 #### Seite 8: 03 Unternehmensziele
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 8](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8]]`
+> - PDF: [BGWP.pdf Seite 8](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=8]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 03 Unternehmensziele Klasse: Datum: Hauptziel: UNTERNEHMENSZIELE Ökonomische Ziele Ökologische Ziele Soziale Ziele Beschreibung: Beschreibung: Beschreibung: Beschreibung: Beispiele: Beispiele: Beispiele: Beispiele: Nebenbedingung: Gewinnmaximierung monetär nicht monetär mit Geld nicht mit Geld Umweltbelastungen mitarbeiterbezogene messbar messbar ausschließen bew. Ziele t auf ein Mindestmaß geselltschaftliche reduzieren Aufrechthaltung der Liquidität -> in allen Funktionsbereichen Verantwortung - Umsatz steigern -Marktanteil - nachhaltige Abfall-Arbeitsplätze erhöhen Wirtschaft erhalten - kosten senken - Standort erweitern - CO2-Ausstoß -freiwillige Sozial- reduzieren leistungen - …
@@ -591,11 +591,11 @@ Leistungen)
 #### Seite 10: 03 Unternehmensziele
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 10](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=10]]`
+> - PDF: [BGWP.pdf Seite 10](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=10]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 03 Unternehmensziele Klasse: Datum: Aufgabe 2: Suche aus dem folgenden Aushang 8 genannte Unternehmensziele heraus, schreibe diese in die untenstehende Tabelle und ordne sie der entsprechenden Zielkategorie zu. Kurzinformation der Abteilung „Öffentlichkeitsarbeit" der IN Bike GmbH zum Aushang an allen Info-Tafeln: Die IN Bike GmbH hat das zurück liegende Geschäftsjahr mit einer Gewinnsteigerung von 20 % gegenüber dem Vorjahr abgeschlossen. Als Ursachen wertet die Geschäftsleitung folgende Faktoren: Die Produktgruppe „Mountainbike Standard" hat sich trotz gestiegener Kosten als umsatzstärkstes Segment entwickelt. Der Marktanteil dieser Produktgruppe konnte entscheidend vergrößert we …
@@ -661,11 +661,11 @@ Marktanteil
 #### Seite 11: 03 Unternehmensziele
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 11](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=11]]`
+> - PDF: [BGWP.pdf Seite 11](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=11]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 03 Unternehmensziele Klasse: Datum: ______________________________________________________ Die Verfolgung von Ziel A fördert das Erreichen von Ziel B. Bsp: Beide Ziele sind unabhängig vonei- nander. Bsp: Bei Verfolgung von Ziel A wird das Erreichen von Ziel B beeinträchtigt. Bsp: Ziel 1 Ziel 2 Ziel 1 Ziel 2 Ziel 1 Ziel 2 Wir untersuchen Zielbeziehungen Zielkonflikt Zielharmonie indifferente Ziele (konkurrierende Ziele) (komplementäre Ziele - kauf neuer Arbeitskleidung Produktion - einsparen von Produktionskosten -schaffen neuer Arbeitsplätze - Kosten in der Produktion sparen - führen von Mitarbeitergesprächen - Erweiterung der Produktion
@@ -724,11 +724,11 @@ von Mitarbeitergesprächen
 #### Seite 12: 03 Unternehmensziele
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 12](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=12]]`
+> - PDF: [BGWP.pdf Seite 12](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=12]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 03 Unternehmensziele Klasse: Datum: Übungen zu den Zielbeziehungen 1. Beurteile die Zielbeziehungen der folgenden Unternehmensziele. Begründe deine Antwort! a) Gewinnmaximierung und Kostensenkung ___________________________________________________________________________ b) Preissteigerung und höherer Marktanteil ___________________________________________________________________________ c) Beschaffung neuer Arbeitskleidung für die Mitarbeiter und Kundenzufriedenheit ___________________________________________________________________________ d) Steigerung der Unterrichtsqualität und Erhöhung der Klassengröße __________________________________________________________________________ …
@@ -794,11 +794,11 @@ indifferent
 #### Seite 17: 05 ökonomisches Prinzip
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 17](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=17>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=17]]`
+> - PDF: [BGWP.pdf Seite 17](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=17>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=17]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=17]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 05 ökonomisches Prinzip Klasse: Datum: Übungsaufgaben zum Minimal- und Maximalprinzip Aufgabe 1 Wird bei der Planung der Weihnachtsfeier in Fall 1 und Fall 2 nach dem Minimal- oder Maximalprinzip gehandelt? Begründe deine Antwort. Aufgabe 2 Um welche Art des ökonomischen Prinzips handelt es sich jeweils? Beispiel Maximal- prinzip Minimal- prinzip A Der Einkauf vergleicht mehrere Angebote und bestellt die Rohstoffe zum günstigsten Preis. B Der Spediteur sucht auf der Landkarte nach der kürzesten Straßenverbindung zu seinem Kunden. C Das Christkind versucht mit dem vorhandenen Geschenkpapier so viele Geschenke wie möglich zu verpacken. D Ein Reiselustiger hat 1.000,00 € gespart und w …
@@ -894,11 +894,11 @@ geinger Zeit
 #### Seite 21: 06 Arbeitsteilung
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 21](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=21>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=21]]`
+> - PDF: [BGWP.pdf Seite 21](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=21>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=21]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=21]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 06 Arbeitsteilung Klasse: Datum: Mögliche Auswirkungen der Arbeitsteilung 1) Welche Chancen/Folgen haben die Berufsspaltung und die Arbeitszerlegung? Vorteile Nachteile 2) Wie wirkt sich die Aufteilung der Herstellung von Gütern und Dienstleistungen durch verschiedene Wirtschaftszweige (Überbetriebliche Arbeitsteilung) aus? Vorteile Nachteile 3) Länder auf der ganzen Welt spezialisieren sich zunehmend auf bestimmte Wirtschaftsbereiche. Der weltweite Handel ist stark gestiegen. Welche Chancen/Konsequenzen hat dies? Vorteile Nachteile - höhere Effizienz der Spezialisten -Mitarbeiter sind wenig flexibel - einzelne Aufgeben sind klar verteilt - hoher Koordinationsaufwand - höhere Produ …
@@ -973,11 +973,11 @@ in de
 #### Seite 25: 07 Das Marktumfeld meines Ausbildungsbetriebes
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 25](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=25>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=25]]`
+> - PDF: [BGWP.pdf Seite 25](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=25>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=25]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=25]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 07 Das Marktumfeld meines Ausbildungsbetriebes Klasse: Datum: Station 1 Übung Aufgabe: Ordne die mit Ziffern bezeichneten Geldströme den Zahlungsvorgängen von a) bis l) richtig zu. a) Ein japanisches Unternehmen überweist deutschen Aktionären ihre Dividende aus den Unternehmensaktien. b) Die JIKU IT Solutions erhält einen Kredit von der Bank gutgeschrieben. c) Das Kindergeld wird ausgezahlt. d) Jedes Jahr schreiben Banken Milliarden Euro an Zinsen Privatleuten gut. e) Ausländer legen ihr Geld wegen hoher Zinsen in Deutschland an. f) Ein US-amerikanischer IT-Konzern mit Sitz in Deutschland kauft Computer in China. g) Deutsche kaufen verstärkt Aktien asiatischer und osteuropäischer U …
@@ -1027,11 +1027,11 @@ I
 #### Seite 40: 08 Unternehmensrecht
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 40](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=40>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=40]]`
+> - PDF: [BGWP.pdf Seite 40](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=40>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=40]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=40]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 08 Unternehmensrecht Klasse: Datum: Übung zu den Kaufmannsarten 1. Fall: Herr Winter, Unternehmer mit 13 Mitarbeitern, verkauft jährlich 450 Softwarepakete. Er erhält vom Registergericht Ingolstadt die Aufforderung, einen Fragebogen zwecks Handelsregistereintragung auszufüllen. Wird das Registergericht auf eine Eintragung bestehen? Begründe deine Antwort! 2. Fall: Herrn Winters bester Freund Rudi betreibt einen kleinen Imbissstand. Aus Prestigegründen beantragt er den Eintrag in das Handelsregister. Prüfe mithilfe des HGB, ob das Registergericht Ingolstadt seinem Antrag zustimmen wird! 3. Fall: Die Eltern von Herrn Winter betreiben eine größere Landwirtschaft mit kaufmännischer Org …
@@ -1103,11 +1103,11 @@ SHGD
 #### Seite 42: 08 Unternehmensrecht
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 42](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=42>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=42]]`
+> - PDF: [BGWP.pdf Seite 42](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=42>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=42]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=42]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 08 Unternehmensrecht Klasse: Datum: Die Firma – Übung 1. Der ehemalige Landwirt Sepp Hintermeier gestaltet seinen alten Hühnerstall um und produziert Maschinen, die er im Raum Ingolstadt verkauft. Er möchte sein Unternehmen beim Handelsregister unter der Firma „Internationale Maschinenwerke GmbH“ eintragen lassen. Wird das Registergericht nach Rücksprache mit der IHK (firmenrechtliche Prüfung) zustimmen? 2. Hans Wöhrl eröffnet unter der Firma „Wöhrl GmbH“ ein Modegeschäft in Ingolstadt, obwohl im Stadtzentrum bereits ein anderes Geschäft mit der gleichen Firma existiert. Wird das Registergericht (bzw. die IHK) dieser Bezeichnung zustimmen? 3. Der IT-Kaufmann Sven Fleißig will selbs …
@@ -1191,11 +1191,11 @@ hab
 #### Seite 45: 08 Unternehmensrecht
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 45](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=45>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=45]]`
+> - PDF: [BGWP.pdf Seite 45](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=45>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=45]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=45]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 08 Unternehmensrecht Klasse: Datum: Übung zu § 15 HGB Beantworte folgende Fragen zu § 15 HGB. Begründe Deine Antwort ausführlich. 1. Dem Prokuristen (=umfassende Vollmacht) der IN Bike wird gekündigt, das Erlöschen der Prokura beim HR aber versehentlich vergessen. Aus Verärgerung über die Entlassung verkauft der Prokurist seinen Dienstwagen an einen Geschäftsfreund, der von dem Entzug der Prokura nichts wusste. Ist die Firma an den Verkauf gebunden? 2. Der Geschäftsinhaber der Möbelhaus AG entzieht einem seiner Mitarbeiter wegen häufiger Fehler die Prokura. Dies wird ordnungsgemäß ins HR eingetragen und veröffentlicht. Drei Wochen danach verkauft der Ex-Prokurist aus Enttäuschung ü …
@@ -1250,11 +1250,11 @@ sich darauf beuten
 #### Seite 46: 08 Unternehmensrecht
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 46](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=46>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=46]]`
+> - PDF: [BGWP.pdf Seite 46](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=46>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=46]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=46]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 08 Unternehmensrecht Klasse: Datum: In einem Kleinbetrieb mag es möglich sein, dass die Chefin oder der Chef alle Briefe eigenhändig unterschreibt und alle Geschäfte selbst abschließt. In größeren Unternehmen lässt sich die Fülle der Führungsaufgaben aber nur dadurch bewältigen, dass die Unternehmensleitung einen Teil ihrer Verantwortung auf kompetente Mitarbeiter überträgt und ihnen dafür auch die notwendigen Vollmachten erteilt. Allgemeine rechtliche Bestimmungen dazu befinden sich in den §§ 164 – 181 des Bürgerlichen Gesetzbuchs. Das Handelsgesetzbuch regelt darüber hinaus die Besonderheiten der handelsrechtlichen Stellvertretung in Form der Handlungsvollmacht und der Prokura (§ …
@@ -1325,11 +1325,11 @@ Prokura im Außenverhältnis weiter
 #### Seite 47: 08 Unternehmensrecht
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 47](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47]]`
+> - PDF: [BGWP.pdf Seite 47](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 08 Unternehmensrecht Klasse: Datum: II. Die Handlungsvollmacht Jede andere handelsrechtliche Stellvertretung wird als Handlungsvollmacht bezeichnet. Ihr Umfang lässt sich beliebig eingrenzen; sie ist nicht ins Handelsregister einzutragen. Die Erteilung ist formfrei, d. h. ausdrücklich schriftlich oder mündlich bzw. stillschweigend (z. B. durch Duldung bestimmter Handlungen von Mitarbeitern). Eine Eintragung in das Handelsregister ist nicht notwendig, die Bekanntmachung kann z. B. durch Rundschreiben erfolgen. Die Handlungsvollmacht ist jederzeit widerrufbar. Eine Löschung erfolgt außerdem bei Ausscheiden des Handlungsbevollmächtigen aus dem Arbeitsverhältnis sowie bei Auflösung ode …
@@ -1386,11 +1386,11 @@ zu unterzeichnen.
 #### Seite 48: 08 Unternehmensrecht
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 48](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=48>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=48]]`
+> - PDF: [BGWP.pdf Seite 48](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=48>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=48]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=48]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 08 Unternehmensrecht Klasse: Datum: Handlungsvollmacht und Prokura - Übung I. Überblick: Erteilen der Vollmachten II. Umfang der Vollmachten Aufgabe: Markiere in der entsprechenden Farbe: Geschäfte, die ohne besondere Vollmacht möglich sind (= grün) Geschäfte, für die eine besondere Vollmacht notwendig ist (= gelb) Geschäfte, für die eine Vertretungsvollmacht gesetzlich verboten ist (= rot) Unternehmer/-in Prokura Allgemeine Handlungsvollmacht Art- vollmacht Einzel- vollmacht Steuererklärungen/Bilanz unterschreiben, Eid leisten, HR- Eintragungen anmelden, Insolvenz anmelden, Geschäft verkaufen, Prokura erteilen, Gesellschaften aufnehmen Grundstück belasten/verkaufen Grundstücke kau …
@@ -1448,11 +1448,11 @@ Einkaufen
 #### Seite 49: 08 Unternehmensrecht
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 49](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=49>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=49]]`
+> - PDF: [BGWP.pdf Seite 49](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=49>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=49]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=49]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=49]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 08 Unternehmensrecht Klasse: Datum: Aufgabe 2 Situation: Frau Marianne Kirzinger ist die neue Außendienstmitarbeiterin der IN Bike GmbH für den ost- und norddeutschen Raum. Um ihre Aufgaben als Außendienstmitarbeiterin wahrnehmen zu dürfen, bekommt sie von der zuständigen Geschäftsführerin Sarah Feldmaier eine Artvollmacht. Die Artvollmacht beschränkt sich auf 50.000 € pro Abschluss eines Vertrages mit einem Kunden. a) Überprüfe für Frau Kirzinger, ob sie mit ihrer Artvollmacht folgende Rechtsgeschäfte wirksam abschließen kann. 1. Verkauf von Fahrrädern an ein Radlgeschäft in Hamburg, Nettopreis 25.000,00 € 2. Aufnahme eines Darlehens bei der Sparkasse 3. Mieten eines Mietautos für …
@@ -1526,11 +1526,11 @@ erteilen
 #### Seite 1: Organisation im Betrieb - Grundlagen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 1](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=1]]`
+> - PDF: [Bgwp schredl.pdf Seite 1](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=1]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Organisation im Betrieb - Grundlagen BWP Name: Klasse: Datum: 1 Betriebsorganisation Für die Menschen werden Verhaltens- und Arbeitsregeln, für die Maschinen Funktionsregeln aufgestellt. Diesen Vorgang selbst und sein Ergebnis (= geschaffene Ordnung) nennt man Organisation 1. Organisationsgrad Improvisation Disposition Organisation - Intuitive Entscheidung - dann, wenn unvorhersehbare oder nicht planbare Situationen eintreten - selten von längerer Dauer - Ziel: Wirtschaftlichkeit spontane Regelungen - Fallweise Regelungen, - dann, wenn noch keine endgültigen Regelungen getroffen wurden. - Ziel: Flexibilität Fallweise Regelungen - Generelle und dauerhafte Regelungen - stellen optimale Ordnung …
@@ -1623,11 +1623,11 @@ Wie sollen die Aufgaben bearbeitet werden?
 #### Seite 2: Organisation im Betrieb - Grundlagen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 2](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2]]`
+> - PDF: [Bgwp schredl.pdf Seite 2](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Organisation im Betrieb - Grundlagen BWP Name: Klasse: Datum: 2 Übungen 1. Welche Fragestellung bezieht sich auf die Aufbauorganisation (AB), welche auf die Ablauforganisation (AL)? a) Wie sind die Aufgaben im Unternehmen verteilt? b) Wer kann wem Weisungen erteilen? c) Wie sollen die Aufgaben bearbeitet werden? d) Welche Mitarbeiter sollen welche Stellen besetzen? e) Welchen Rang nimmt die jeweilige Stelle ein? f ) Welche Stellen sollen gebildet werden? 2. Richtig oder falsch? a) Die Aufbauorganisation ist eine Hierarchie, aus der Weisungsbefugnisse abgeleitet werden können. b) Die Aufbauorganisation ist auch kurzfristig als sehr dynamisch anzusehen. c) Die Ablauforganisation ist dynamisch …
@@ -1739,11 +1739,11 @@ klar seit
 #### Seite 3: GOrganisation im Betrieb - Aufbauorganisation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3]]`
+> - PDF: [Bgwp schredl.pdf Seite 3](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > GOrganisation im Betrieb - Aufbauorganisation BGWP Name: Klasse: Datum: Die Aufbauorganisation Die klassische Organisationslehre unterscheidet zwischen Aufbau- und Ablauforganisation, d.h. zwischen der statischen und der dynamischen Betrachtungsweise: Betrieb in Bereitschaft vs. Betrieb in Aktion. In der Praxis sind beide Sichtweisen miteinander verschmolzen, denn: Bevor geklärt werden kann, wie die Aufgaben zu erledigen sind ( = _______________________________________________ ) muss festgelegt werden, welche Aufgaben anfallen ( = ______________________________________ ). Die Aufbauorganisation: Sie behandelt die Gestaltung der Zusammenarbeit zwischen den Funktionsbereichen und Mitarbeitern …
@@ -1805,11 +1805,11 @@ I
 #### Seite 4: GOrganisation im Betrieb - Aufbauorganisation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=4]]`
+> - PDF: [Bgwp schredl.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=4]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > GOrganisation im Betrieb - Aufbauorganisation BGWP Name: Klasse: Datum: Funktionen eines Industriebetriebes Grundfunktionen und ihre Teilaufgaben z.B. Bedarf ermitteln Bezugsquellen ermitteln Angebote einholen und vergleichen Bestellungen durchführen Wareneingang kontrollieren z.B. Lagerbestand überwachen Lagerbestand optimieren Lagerbewegung buchen Lagerkennziffern berechnen z.B. z.B. Entwicklung Fertigungsverfahren Produktionsprogramm z.B. Marketing durchführen Anfragen bearbeiten Kalkulationen durchführen Angebote schreiben Aufträge abwickeln Rechnungen schreiben Querschnittsfunktionen und ihre Teilaufgaben z.B. Personalbestandsanalyse Personalbedarfsbestimmung Personalbeschaffung Persona …
@@ -1913,11 +1913,11 @@ Informatik
 #### Seite 8: Organisation im Betrieb - Aufbauorganisation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 8](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=8]]`
+> - PDF: [Bgwp schredl.pdf Seite 8](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=8]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Organisation im Betrieb - Aufbauorganisation BGWP Name: Klasse: Datum: Übungsaufgaben – Teil 2 1. Aufgabe Geben Sie an, ob es sich um Grund- oder Querschnittsfunktionen handelt. Überwachung des Lagerbestandes Controller analysieren die Unternehmensbilanz Ein Projektteam erstellt ein Angebot Frau Meier schreibt eine Kundenrechnung Planung des Personaleinsatzes im Betrieb E-Commerce einführen 2. Was versteht man unter einer a) Stabstelle b) Linie 3. Nach welchen Prinzipien können Abteilungen gebildet werden? 4. Welche Aussagen sind richtig? a) Aufgabenanalyse und Aufgabensynthese sind sehr häufig identisch. b) Aufgabenanalyse ist die Zusammenfassung der ermittelten Aufgaben in einem Betrieb zu …
@@ -1993,11 +1993,11 @@ stablinien
 #### Seite 18: Einsatz Balkendiagram
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 18](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=18>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=18]]`
+> - PDF: [Bgwp schredl.pdf Seite 18](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=18>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=18]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=18]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Einsatz Balkendiagram - Urlaubsplan - kleine Projekte -Maschinenbelegung -Versetzungsplan Vorteile : Nachteil : Meist übersichtlich bei großen Projekten ungeeignet, da schnell Einfach zu erstellen unübersichtlich eutl. Fehleranfällig Gut pflegbar es können nicht viele Infos eingetragen werden
@@ -2027,11 +2027,11 @@ nicht viele Infos eingetragen werden
 #### Seite 31: Organisation im Betrieb - Ablauforganisation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 31](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=31>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=31]]`
+> - PDF: [Bgwp schredl.pdf Seite 31](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=31>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=31]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=31]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Organisation im Betrieb - Ablauforganisation BWP Name: Klasse: Datum: 1 Übungsaufgaben 1. Überlegen Sie sich typische Einsatzgebiete für das Gantt-Diagramm! 2. Welchen großen Nachteil hat das Balkendiagramm? Welches Planungsinstrument bietet sich somit an? 3. Welche Ziele verfolgt die Ablauforganisation? 4. Erläutern Sie mögliche Anlässe für die Überprüfung bestehender Arbeitsabläufe! 5. Was versteht man unter dem „Dilemma der Ablaufplanung“? 6. Welche Vor- bzw. Nachteile hat das Arbeitsablaufdiagramm? 7. Für den Sommerurlaub haben die Mitarbeiter der Abteilung Softwareherstellung folgende Terminwünsche angemeldet: Abteilungsleiter Herr Fetzer 22. bis einschließlich 25. KW (Kalenderwoche) St …
@@ -2090,11 +2090,11 @@ haben schulpflichtige Kinder (Ferien 22. bis einschließlich 27. KW)!
 #### Seite 32: Organisation im Betrieb - Ablauforganisation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Bgwp schredl.pdf Seite 32](<../../../../99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=32>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=32]]`
+> - PDF: [Bgwp schredl.pdf Seite 32](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=32>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=32]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=32]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Organisation im Betrieb - Ablauforganisation BWP Name: Klasse: Datum: 2 8. Analysieren Sie folgendes Arbeitsablaufdiagramm (Zick-Zack-Diagramm). Zeigen Sie hierbei auch die Schwachstellen auf. Geben Sie Verbesserungsvorschläge! Beschaffung eines neuen Mitarbeiters Ist-Aufnahme Soll-Vorschlag Datum: 18. 02.2002 Nr. Stufen des Arbeitsablaufs Symbole Weg in Meter Zeit (Tage) 1 Ausschreibung der Stelle  1,5 2 Eingang der Bewerbungen  30 3 Überprüfung der Bewerbungen  3 4 Einladung zu Vorstellungsgespräch/ Absage  7 5 Vorstellungsgespräch/ Eignungstest  1 6 Gespräch Bewerber mit anfordernde Stelle  1 7 Auswertung der Gespräche  1 8 Einladung zur ärztlichen Untersuchung  3 9 Betriebsärztli …
@@ -2218,11 +2218,11 @@ Verbesserungsvorschläge:
 #### Seite 1: 1. Betriebsorganisation - Grundlagen
 
 > [!referenz] Exakte Referenz
-> - PDF: [ZusammenfassungBGWP.pdf Seite 1](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=1]]`
+> - PDF: [ZusammenfassungBGWP.pdf Seite 1](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=1]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 1. Betriebsorganisation - Grundlagen e Definition: Aufstellung von Verhaltens- und Arbeitsregeln für Menschen sowie Funktionsregeln für Maschinen (= geschaffene Ordnung). e _Organisationsgrade:lmprovisation: Intuitive Entscheidung bei unvorhersehbaren/nicht planbaren Situationen. Ziel: Wirtschaftlichkeit. • ~ Disposition: Fallweise (spontane) Regelungen, wenn noch keine endgültigen Regeln existieren. Ziel: Flexibilität. e Organisation: Generelle, dauerhafte Regelungen für optimale Ordnung. Ziel: ‚Stabilität. e - Organisationsgrundsätze: Muss wirtschaftlich (Minimal-/Maximalprinzip), zweckmäßig, flexibel. & stabil zugleich sowie klar sein. * Arten der Organisation: Aufbauorganisation: Festgel …
@@ -2297,11 +2297,11 @@ Personal, Finanzen, IT).
 #### Seite 4: R1 R2 R3 R4
 
 > [!referenz] Exakte Referenz
-> - PDF: [ZusammenfassungBGWP.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=4]]`
+> - PDF: [ZusammenfassungBGWP.pdf Seite 4](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=4]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > R1 R2 R3 R4 Hunger J J N N Durst J N J N Gasthof besuchen x x x x e Vorgehensweise: Bedingungen & Aktionen feststellen, verknüpfen der Bedingungen. Danach Tabelle zwingend auf Vollständigkeit, Widerspruchsfreiheit und Redundanzlosigkeit prüfen. e Balkendiagramm (Gantt-Diagramm): Darstellung paralleler oder aufeinanderfolgender Ablaufeim Zeitverlauf zur Kapazitatsplanung. Nachteil: Bei großen Projekten ungeeignet und unübersichtlich. Einsatzbereich: Urlaubsplan, kleine Projekte. Vorteile: Übersichtlich, einfach zu erstellen I Wce | PPP PPE PP PEI Bestehende | | | | | {| [ | | [| |] | [ {| | Version | tty aos | LTT] TUTTI tt td | Neue PT Ty] Tt e + Netzplan: Für größere Projekte. Funktions- un …
@@ -2350,11 +2350,11 @@ und Doppelarbeit.
 #### Seite 5: Nr. Stufen des Arbeitsplans Symbole
 
 > [!referenz] Exakte Referenz
-> - PDF: [ZusammenfassungBGWP.pdf Seite 5](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=5]]`
+> - PDF: [ZusammenfassungBGWP.pdf Seite 5](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=5]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Nr. Stufen des Arbeitsplans Symbole ul anes 1 Rechnung stempeln Qeaav • —_— 2 Rechnung vorlegen o»o0 a v o Kontrolle 3 Überblick verschaffen oo» oa YF A oo 4 Rechnungweiterleten © & O A YW vo Wenn : 5S Rechnungbleibtliegen O + OA VW 6 _ Rechnung prüfen oso ay Grünig: 1. Orientierung im Unternehmen (Funktionsbereiche & Aufgaben) • Materialwirtschaft: Umfasst Beschaffung, interne Bereitstellung, Lagerung und Distribution. Methoden sind Bestandsüberwachung, Angebotsvergleiche und Preisverhandlungen bei Lieferanten. • Produktion: Zustandig für Produktionsplanung, Warenherstellung, Wartung der Maschinen, Qualitatskontrolle und Verpackung. e ~ Absatz: Beinhaltet Marktforschung, Sortimentsplanung, …
@@ -2413,11 +2413,11 @@ Produkt ein (z. B. Strom, Ol).
 #### Seite 6: e _Handelswaren: Fertigwaren für den unveränderten Weiterverkauf.
 
 > [!referenz] Exakte Referenz
-> - PDF: [ZusammenfassungBGWP.pdf Seite 6](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6]]`
+> - PDF: [ZusammenfassungBGWP.pdf Seite 6](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > e _Handelswaren: Fertigwaren für den unveränderten Weiterverkauf. ‚3. Unternehmensziele • Ökonomische Ziele: Oberziel ist die Gewinnmaximierung. (Monetär: In Geld messbar (z. B. Umsatzsteigerung, Kostensenkung). (Nicht-monetär: Nicht in Geld messbar (z. B. Erhöhung des Marktanteils). (Nebenbedingung: Aufrechterhaltung der Liquidität (Zahlungsfähigkeit). e [Ökologische Ziele: Umweltbelastungen ausschließen/reduzieren (z. B. nachhaltige Abfallwirtschaft, CO2-Reduzierung). + Soziale Ziele: Mitarbeiterbezogen (Arbeitsplatzerhalt, faire Bezahlung, freiwillige Sozialleistungen) und Übernahme gesamtgesellschaftlicher Verantwortung. e [SMART-Regelfür Ziele: Spezifisch, Messbar, Akzeptiert, Realistis …
@@ -2485,11 +2485,11 @@ Technisierung (Informatikkaufmann vs. Automobilkaufmann).
 #### Seite 7: 1. Betriebsorganisation - Grundlagen
 
 > [!referenz] Exakte Referenz
-> - PDF: [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7]]`
+> - PDF: [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 1. Betriebsorganisation - Grundlagen « Definition: Aufstellung von Verhaltens- und Arbeitsregeln für Menschen sowie Funktionsregeln für Maschinen (= geschaffene Ordnung). « _Organisationsgrade:lmprovisation: Intuitive Entscheidung bei unvorhersehbaren/nicht planbaren Situationen. Ziel: Wirtschaftlichkeit. ¢ © Disposition: Fallweise (spontane) Regelungen, wenn noch keine endgültigen Regeln existieren. Ziel: Flexibilität. ¢ Organisation: Generelle, dauerhafte Regelungen für optimale Ordnung. Ziel: ‚Stabilität. « © Organisationsgrundsätze: Muss wirtschaftlich (Minimal-/Maximalprinzip), zweckmäßig, flexibel & stabil zugleich sowie klar sein. * Arten der Organisation: Aufbauorganisation: Festgele …
@@ -2783,7 +2783,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Produktionsfaktoren** laut Quelle?
 - Antwort:: … sind zusammengesetzte Produkte von Vorlieferern, die zur Erstellung eigener Produkte benötigt werden.
 - Beleg:: … sind zusammengesetzte Produkte von Vorlieferern, die zur Erstellung eigener Produkte benötigt werden.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3|BGWP S. 3]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3|BGWP S. 3]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2791,7 +2791,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Produktionsfaktoren** laut Quelle?
 - Antwort:: … werden in der Produktion weiterverarbeitet und sind wesentliche Bestandteile der Fertigerzeugnisse.
 - Beleg:: … werden in der Produktion weiterverarbeitet und sind wesentliche Bestandteile der Fertigerzeugnisse.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3|BGWP S. 3]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3|BGWP S. 3]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2799,7 +2799,7 @@ und das Ausland (Export, Import).
 - Frage:: Welche Vorgabe nennt die Quelle zu **Unternehmensziele**?
 - Antwort:: Andererseits soll durch gezielte Beteiligung in verschiedenen gesellschaftlichen Bereichen zum Ausdruck gebracht werden, dass das Unternehmen ein Teil der Gesamtgesellschaft ist.
 - Beleg:: Andererseits soll durch gezielte Beteiligung in verschiedenen gesellschaftlichen Bereichen zum Ausdruck gebracht werden, dass das Unternehmen ein Teil der Gesamtgesellschaft ist.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7|BGWP S. 7]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7|BGWP S. 7]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2807,7 +2807,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Unternehmensziele** laut Quelle?
 - Antwort:: Das oberste Ziel eines erwerbswirtschaftlich orientierten Unternehmens ist die Erwirtschaftung eines maximalen Gewinns.
 - Beleg:: Das oberste Ziel eines erwerbswirtschaftlich orientierten Unternehmens ist die Erwirtschaftung eines maximalen Gewinns.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=7|BGWP S. 7]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=7|BGWP S. 7]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2815,7 +2815,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist **Unternehmensrecht** laut Quelle?
 - Antwort:: Die Handlungsvollmacht Jede andere handelsrechtliche Stellvertretung wird als Handlungsvollmacht bezeichnet.
 - Beleg:: Die Handlungsvollmacht Jede andere handelsrechtliche Stellvertretung wird als Handlungsvollmacht bezeichnet.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47|BGWP S. 47]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47|BGWP S. 47]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2823,7 +2823,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Unternehmensrecht** laut Quelle?
 - Antwort:: Eine Eintragung in das Handelsregister ist nicht notwendig, die Bekanntmachung kann z.
 - Beleg:: Eine Eintragung in das Handelsregister ist nicht notwendig, die Bekanntmachung kann z.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=47|BGWP S. 47]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=47|BGWP S. 47]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2831,7 +2831,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Organisation im Betrieb - Grundlagen** laut Quelle?
 - Antwort:: Richtig oder falsch? a) Die Aufbauorganisation ist eine Hierarchie, aus der Weisungsbefugnisse abgeleitet werden können. b) Die Aufbauorganisation ist auch kurzfristig als sehr dynamisch anzusehen.
 - Beleg:: Richtig oder falsch? a) Die Aufbauorganisation ist eine Hierarchie, aus der Weisungsbefugnisse abgeleitet werden können. b) Die Aufbauorganisation ist auch kurzfristig als sehr dynamisch anzusehen.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2|Bgwp schredl S. 2]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2|Bgwp schredl S. 2]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2839,7 +2839,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Organisation im Betrieb - Ablauforganisation** laut Quelle?
 - Antwort:: Erstellen Sie einen Urlaubsplan, der sicherstellt, dass mindestens ein leitender Angestellter und zwei Sacharbeiter im Betrieb anwesend sind.
 - Beleg:: Erstellen Sie einen Urlaubsplan, der sicherstellt, dass mindestens ein leitender Angestellter und zwei Sacharbeiter im Betrieb anwesend sind.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=31|Bgwp schredl S. 31]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Bgwp_schredl]], [[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=31|Bgwp schredl S. 31]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

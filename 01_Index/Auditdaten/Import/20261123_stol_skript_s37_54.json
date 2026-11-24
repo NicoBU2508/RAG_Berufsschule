@@ -1,0 +1,496 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md (Seiten 37–54)",
+  "replaces_existing": false,
+  "topic_categories": {
+    "Deckungsbeitrag und Gewinnschwelle": "Wirtschaft_und_Recht",
+    "Direkter und indirekter Vertrieb": "Wirtschaft_und_Recht"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 37,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Deckungsbeitrag und Gewinnschwelle",
+        "secondary_topics": [
+          "Deckungsbeitragsrechnung",
+          "Stückdeckungsbeitrag",
+          "Sortimentsentscheidung"
+        ],
+        "recommended_topics": [
+          "Deckungsbeitrag und Gewinnschwelle",
+          "Wirtschaftlichkeit und Rechnungswesen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 38,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Deckungsbeitrag und Gewinnschwelle",
+        "secondary_topics": [
+          "Break-even-Point",
+          "Preisuntergrenzen",
+          "Mehrstufige Deckungsbeitragsrechnung"
+        ],
+        "recommended_topics": [
+          "Deckungsbeitrag und Gewinnschwelle",
+          "Wirtschaftlichkeit und Rechnungswesen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 39,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Deckungsbeitrag und Gewinnschwelle",
+        "secondary_topics": [
+          "Fixe und variable Kosten",
+          "Gesamtkosten"
+        ],
+        "recommended_topics": [
+          "Deckungsbeitrag und Gewinnschwelle",
+          "Wirtschaftlichkeit und Rechnungswesen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 40,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Deckungsbeitrag und Gewinnschwelle",
+        "secondary_topics": [
+          "Übungsaufgaben Gewinnschwelle",
+          "Grafische Ermittlung"
+        ],
+        "recommended_topics": [
+          "Deckungsbeitrag und Gewinnschwelle"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 41,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Deckungsbeitrag und Gewinnschwelle",
+        "secondary_topics": [
+          "Zusatzaufträge",
+          "Kostenänderungen"
+        ],
+        "recommended_topics": [
+          "Deckungsbeitrag und Gewinnschwelle"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 42,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Direkter und indirekter Vertrieb",
+        "secondary_topics": [
+          "Vertriebswege",
+          "Rechercheaufgabe"
+        ],
+        "recommended_topics": [
+          "Direkter und indirekter Vertrieb",
+          "Marktumfeld und Marktformen"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 43,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Deckungsbeitrag und Gewinnschwelle",
+        "secondary_topics": [
+          "Lösung Aufgabe 1",
+          "Grafische Gewinnschwelle"
+        ],
+        "recommended_topics": [
+          "Deckungsbeitrag und Gewinnschwelle"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 44,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Deckungsbeitrag und Gewinnschwelle",
+        "secondary_topics": [
+          "Lösung Aufgabe 2",
+          "Zusatzaufträge",
+          "Sensitivität Gewinnschwelle"
+        ],
+        "recommended_topics": [
+          "Deckungsbeitrag und Gewinnschwelle"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 45,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Direkter und indirekter Vertrieb",
+        "secondary_topics": [
+          "Lösung Aufgabe 3",
+          "Multi-Channel-Strategie"
+        ],
+        "recommended_topics": [
+          "Direkter und indirekter Vertrieb",
+          "Marktumfeld und Marktformen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 46,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Angebotsvergleich und Nutzwertanalyse",
+        "secondary_topics": [
+          "Notizen zu Geschäftspartnern",
+          "Lieferantenbewertung"
+        ],
+        "recommended_topics": [
+          "Angebotsvergleich und Nutzwertanalyse",
+          "Beschaffungsquellen und Stammdaten"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 47,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Angebotsvergleich und Nutzwertanalyse",
+        "secondary_topics": [
+          "Lieferantenangebot 1 (Positionen)",
+          "Bezugskalkulation"
+        ],
+        "recommended_topics": [
+          "Angebotsvergleich und Nutzwertanalyse",
+          "Bezugskalkulation und Verkaufskalkulation"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": true,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 48,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Angebotsvergleich und Nutzwertanalyse",
+        "secondary_topics": [
+          "Lieferantenangebot 1 (Konditionen)",
+          "Rabatt und Skonto"
+        ],
+        "recommended_topics": [
+          "Angebotsvergleich und Nutzwertanalyse",
+          "Bezugskalkulation und Verkaufskalkulation"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": true,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 49,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Angebotsvergleich und Nutzwertanalyse",
+        "secondary_topics": [
+          "Lieferantenangebot 2 (Positionen)",
+          "Bezugskalkulation"
+        ],
+        "recommended_topics": [
+          "Angebotsvergleich und Nutzwertanalyse",
+          "Bezugskalkulation und Verkaufskalkulation"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": true,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 50,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Angebotsvergleich und Nutzwertanalyse",
+        "secondary_topics": [
+          "Lieferantenangebot 2 (Konditionen)",
+          "Treuerabatt und Versandkosten"
+        ],
+        "recommended_topics": [
+          "Angebotsvergleich und Nutzwertanalyse",
+          "Bezugskalkulation und Verkaufskalkulation"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": true,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 51,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Angebotsvergleich und Nutzwertanalyse",
+        "secondary_topics": [
+          "Lieferantenangebot 3 (Positionen)",
+          "Bezugskalkulation"
+        ],
+        "recommended_topics": [
+          "Angebotsvergleich und Nutzwertanalyse",
+          "Bezugskalkulation und Verkaufskalkulation"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": true,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 52,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Angebotsvergleich und Nutzwertanalyse",
+        "secondary_topics": [
+          "Lieferantenangebot 3 (Konditionen)",
+          "Skonto und Versandkosten"
+        ],
+        "recommended_topics": [
+          "Angebotsvergleich und Nutzwertanalyse",
+          "Bezugskalkulation und Verkaufskalkulation"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": true,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 53,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Bezugskalkulation und Verkaufskalkulation",
+        "secondary_topics": [
+          "Quantitativer Angebotsvergleich",
+          "Bezugspreisermittlung"
+        ],
+        "recommended_topics": [
+          "Bezugskalkulation und Verkaufskalkulation",
+          "Angebotsvergleich und Nutzwertanalyse"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 54,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Angebotsvergleich und Nutzwertanalyse",
+        "secondary_topics": [
+          "Entscheidungsmatrix",
+          "Qualitativer Angebotsvergleich",
+          "Lieferantenauswahl"
+        ],
+        "recommended_topics": [
+          "Angebotsvergleich und Nutzwertanalyse"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    }
+  ]
+}

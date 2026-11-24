@@ -2,8 +2,8 @@
 typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
-original_pfad: "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf"
-seiten: 67
+original_pfad: "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf"
+seiten: 103
 pruefung: "AP1, AP2"
 cssclasses:
   - lernquelle
@@ -12,22 +12,22 @@ tags:
   - quelle
   - itt_it_technik
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-07-13"
+seitenaudit_datum: "2026-11-23"
 kanonische_referenzen: true
-kanonische_themen: 13
-seiten_mit_kanonischem_thema: 60
-ki_exclude_seiten: [1,2,63,64,65,66,67]
+kanonische_themen: 17
+seiten_mit_kanonischem_thema: 89
+ki_exclude_seiten: [1,2,63,64,65,68,69,73,74,75,76,84,85,86]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=57, partial=3)"
-textzeichen: 191305
+textstatus: "gemischt: visuell geprüft (ok=74, ocr_verified=12, partial=3)"
+textzeichen: 245376
 ---
 # 📄 IT Sicherheit Skript Wittmann
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
-> - **Original-PDF:** [Skript_Wittmann.pdf](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf>)
-> - **Seiten:** 67
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=57, partial=3)
+> - **Original-PDF:** [Skript_Wittmann.pdf](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf>)
+> - **Seiten:** 103
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=74, ocr_verified=12, partial=3)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -35,9 +35,12 @@ textzeichen: 191305
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/BSI-Modellierung\|BSI-Modellierung]] | Prüfungsrahmen der Quelle | 24–47 | Visuell bestätigt auf 24 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Backup und Datensicherung\|Backup und Datensicherung]] | Prüfungsrahmen der Quelle | 93–99 | Visuell bestätigt auf 7 Seite(n). |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Exchange- und Outlook-Sicherheit\|Exchange- und Outlook-Sicherheit]] | Prüfungsrahmen der Quelle | 43–45 | Visuell bestätigt auf 3 Seite(n). |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Hochverfügbarkeit und Redundanz\|Hochverfügbarkeit und Redundanz]] | Prüfungsrahmen der Quelle | 4–7 | Visuell bestätigt auf 4 Seite(n). |
-| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Malware und Angriffe\|Malware und Angriffe]] | Prüfungsrahmen der Quelle | 5–7 | Visuell bestätigt auf 3 Seite(n). |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IT-Sicherheit Grundlagen\|IT-Sicherheit Grundlagen]] | Prüfungsrahmen der Quelle | 70, 83, 100 | Visuell bestätigt auf 3 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Kryptografie Hash und Signatur\|Kryptografie, Hash und Signatur]] | Prüfungsrahmen der Quelle | 70–72, 77–83, 100–103 | Visuell bestätigt auf 14 Seite(n); bei 10 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Malware und Angriffe\|Malware und Angriffe]] | Prüfungsrahmen der Quelle | 5–7, 87–92 | Visuell bestätigt auf 9 Seite(n). |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Mobile Sicherheit\|Mobile Sicherheit]] | Prüfungsrahmen der Quelle | 40–42 | Visuell bestätigt auf 3 Seite(n). |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Netzwerktechnik und Netzplan\|Netzwerktechnik und Netzplan]] | Prüfungsrahmen der Quelle | 8–16 | Visuell bestätigt auf 9 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Physische Sicherheit und Infrastruktur\|Physische Sicherheit und Infrastruktur]] | Prüfungsrahmen der Quelle | 4, 24–39 | Visuell bestätigt auf 17 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
@@ -47,6 +50,7 @@ textzeichen: 191305
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Sicherheitsmanagement und Maßnahmen\|Sicherheitsmanagement und Maßnahmen]] | Prüfungsrahmen der Quelle | 3 | Visuell bestätigt auf 1 Seite(n). |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Strukturanalyse und Informationsverbund\|Strukturanalyse und Informationsverbund]] | Prüfungsrahmen der Quelle | 8–16 | Visuell bestätigt auf 9 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Umsetzungsplanung\|Umsetzungsplanung]] | Prüfungsrahmen der Quelle | 58–61 | Visuell bestätigt auf 4 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Urheberrecht\|Urheberrecht]] | Prüfungsrahmen der Quelle | 66–67 | Visuell bestätigt auf 2 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
 
@@ -70,11 +74,11 @@ textzeichen: 191305
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 3](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 3](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -138,11 +142,11 @@ Act
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 4](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=4]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 4](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -181,11 +185,11 @@ Fehlertoleranz:
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 5](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=5]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 5](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=5]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -223,11 +227,11 @@ Scarewear
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 6](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=6]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 6](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=6]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -268,11 +272,11 @@ Erpressung
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 7](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=7]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 7](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=7]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=7]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -299,11 +303,11 @@ Auswendig
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 8](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 8](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -354,11 +358,11 @@ Gebäudetechnik
 ### Seite 9
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 9](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=9>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=9]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 9](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=9>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=9]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=9]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -450,11 +454,11 @@ X
 ### Seite 10
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 10](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=10>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=10]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 10](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=10>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=10]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=10]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -530,11 +534,11 @@ Einkauf
 ### Seite 11
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 11](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 11](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -629,11 +633,11 @@ IT-Betrieb
 ### Seite 12
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 12](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=12>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=12]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 12](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=12>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=12]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=12]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -743,11 +747,11 @@ j
 ### Seite 13
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 13](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=13>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=13]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 13](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=13>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=13]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=13]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -848,11 +852,11 @@ Fragen/Notizen:
 ### Seite 14
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 14](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=14>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=14]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 14](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=14>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=14]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=14]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -938,11 +942,11 @@ verhindern
 ### Seite 15
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 15](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=15>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=15]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 15](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=15>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=15]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=15]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1058,11 +1062,11 @@ IT-Betrieb
 ### Seite 16
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 16](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=16>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=16]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 16](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=16>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=16]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=16]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1200,11 +1204,11 @@ X
 ### Seite 17
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 17](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 17](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1300,11 +1304,11 @@ von Daten
 ### Seite 18
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 18](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=18>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=18]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 18](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=18>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=18]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=18]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1414,11 +1418,11 @@ Hoher
 ### Seite 19
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 19](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=19>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=19]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 19](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=19>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=19]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=19]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1556,11 +1560,11 @@ werden.
 ### Seite 20
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 20](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=20>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=20]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 20](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=20>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=20]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=20]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1655,11 +1659,11 @@ tolerabel
 ### Seite 21
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 21](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=21>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=21]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 21](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=21>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=21]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=21]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1785,11 +1789,11 @@ toleriet werden
 ### Seite 22
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 22](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=22>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=22]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 22](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=22>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=22]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=22]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1892,11 +1896,11 @@ Verteilungseffekt
 ### Seite 23
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 23](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=23>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=23]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 23](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=23>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=23]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=23]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2049,11 +2053,11 @@ X
 ### Seite 24
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 24](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=24>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=24]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 24](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=24>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=24]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=24]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2121,11 +2125,11 @@ ganz unterbleiben.
 ### Seite 25
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 25](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=25>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=25]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 25](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=25>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=25]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=25]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2203,11 +2207,11 @@ Wartungsarbeiten MÜSSEN protokolliert werden. Kabel- und Rohrdurchführungen du
 ### Seite 26
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 26](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=26>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=26]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 26](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=26>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=26]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=26]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2288,11 +2292,11 @@ bezeichnet.
 ### Seite 27
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 27](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=27>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=27]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 27](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=27>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=27]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=27]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2378,11 +2382,11 @@ es nicht sitimm(
 ### Seite 28
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 28](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=28>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=28]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 28](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=28>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=28]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=28]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2462,11 +2466,11 @@ müssen protokolliert werden
 ### Seite 29
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 29](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=29>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=29]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 29](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=29>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=29]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=29]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2486,11 +2490,11 @@ Temperatur
 ### Seite 30
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 30](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=30>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=30]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 30](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=30>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=30]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=30]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2565,11 +2569,11 @@ Kabeln MUSS besondere Sorgfalt darauf gelegt werden, dass die Montage keine Besc
 ### Seite 31
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 31](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=31>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=31]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 31](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=31>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=31]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=31]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2644,11 +2648,11 @@ die Leitung sowie zur Erkennung von Ausgleichsströmen getroffen werden.
 ### Seite 32
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 32](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=32>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=32]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 32](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=32>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=32]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=32]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2759,11 +2763,11 @@ f
 ### Seite 33
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 33](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=33>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=33]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 33](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=33>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=33]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=33]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2836,11 +2840,11 @@ regelmäßig geprüft werden, ob beim Verlassen des Büroraums die Fenster gesch
 ### Seite 34
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 34](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=34>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=34]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 34](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=34>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=34]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=34]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2921,11 +2925,11 @@ Sicherheitskonzept
 ### Seite 35
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 35](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=35>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=35]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 35](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=35>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=35]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=35]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2967,11 +2971,11 @@ Z
 ### Seite 36
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 36](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=36>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=36]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 36](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=36>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=36]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=36]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3046,11 +3050,11 @@ der technischen Einrichtungen, über den Versuch des „Spielens“ an IT-System
 ### Seite 37
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 37](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=37>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=37]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 37](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=37>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=37]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=37]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3115,11 +3119,11 @@ Erhöhte Diebstahlgefahr am häuslichen Arbeitsplatz: C A
 ### Seite 38
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 38](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=38>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=38]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 38](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=38>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=38]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=38]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3238,11 +3242,11 @@ Teppich
 ### Seite 39
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 39](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=39>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=39]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 39](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=39>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=39]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=39]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3292,11 +3296,11 @@ f
 ### Seite 40
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 40](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=40>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=40]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 40](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=40>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=40]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=40]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3369,11 +3373,11 @@ vorhandenen Schutzmechanismen MUSS auf allen Laptops der Institution ein Antivir
 ### Seite 41
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 41](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=41>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=41]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 41](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=41>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=41]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=41]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3451,11 +3455,11 @@ gutes Schloss geachtet werden.
 ### Seite 42
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 42](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=42>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=42]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 42](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=42>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=42]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=42]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3557,11 +3561,11 @@ Für zwischenprüfung
 ### Seite 43
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 43](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=43>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=43]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 43](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=43]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3636,11 +3640,11 @@ automatisierter Datenabfluss sein.
 ### Seite 44
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 44](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=44>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=44]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 44](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=44>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=44]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=44]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3721,11 +3725,11 @@ Absicherung der Daten in einer PST-Datei genutzt werden.
 ### Seite 45
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 45](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=45>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=45]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 45](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=45>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=45]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=45]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3829,11 +3833,11 @@ verschlüsseln
 ### Seite 46
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 46](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=46>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=46]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 46](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=46>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=46]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=46]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3925,11 +3929,11 @@ Rollen und Verantwortlichkeiten in den Bausteinen hilfreich sein.
 ### Seite 47
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 47](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=47>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=47]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 47](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=47>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=47]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=47]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=47]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4037,11 +4041,11 @@ X
 ### Seite 48
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 48](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=48>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=48]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 48](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=48>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=48]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=48]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4098,11 +4102,11 @@ einzelnen Gefährdungen werden durch eine eindeutige Kennung und Bezeichnung von
 ### Seite 49
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 49](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=49>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=49]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 49](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=49>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=49]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=49]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=49]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4180,11 +4184,11 @@ I ,
 ### Seite 50
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 50](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=50>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=50]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 50](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=50>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=50]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=50]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=50]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4271,11 +4275,11 @@ A
 ### Seite 51
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 51](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=51>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=51]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 51](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=51>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=51]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=51]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=51]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4374,11 +4378,11 @@ hoch
 ### Seite 52
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 52](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=52>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=52]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 52](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=52>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=52]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=52]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=52]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4452,11 +4456,11 @@ Risiko.
 ### Seite 53
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 53](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=53>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=53]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 53](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=53>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=53]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=53]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=53]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4517,11 +4521,11 @@ alles
 ### Seite 54
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 54](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=54>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=54]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 54](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=54>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=54]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=54]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=54]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4631,11 +4635,11 @@ begrenzt
 ### Seite 55
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 55](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=55>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=55]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 55](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=55>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=55]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=55]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=55]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4694,11 +4698,11 @@ Risiko
 ### Seite 56
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 56](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=56>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=56]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 56](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=56>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=56]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=56]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=56]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4803,11 +4807,11 @@ Service
 ### Seite 57
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 57](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=57>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=57]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 57](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=57]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4905,11 +4909,11 @@ X
 ### Seite 58
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 58](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=58>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=58]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 58](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=58]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4997,11 +5001,11 @@ Werkzeugen) oder
 ### Seite 59
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 59](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=59>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=59]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 59](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=59>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=59]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=59]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=59]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5109,11 +5113,11 @@ X
 ### Seite 60
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 60](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 60](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5217,11 +5221,11 @@ Frau Meyer
 ### Seite 61
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 61](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=61>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=61]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 61](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=61>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=61]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=61]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=61]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5287,11 +5291,11 @@ Das
 ### Seite 62
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript_Wittmann.pdf Seite 62](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62]]`
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 62](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5407,11 +5411,1673 @@ I
 
 ### Seite 66
 
-> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
-> Grund: Fachfremder Urheberrechts-Einschub; Datenschutz und externe QR-Ziele nicht freigegeben. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 66](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=66>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=66]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=66]]
+
+> [!ocr] Visuell transkribiert
+> Eingebettete Aufgabenstellungen 6–9 zum Thema Urheberrecht (Seite 4 des Arbeitsblatts) sowie handschriftliche Antworten aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+IT-Tec – Urheberrecht (Arbeitsblatt Seite 4)
+
+Aufgabe 6: Du feierst Geburtstag und hast von deinen Eltern einen Film geschenkt bekommen. Deine Party-Gäste wollen den Film gerne mit dir ansehen. Könntet ihr das machen oder gibt es da Probleme?
+Antwort (handschriftlich): Ja, da geschlossene Gesellschaft.
+
+Aufgabe 7: Endlich ist sie da, die neue Staffel von „House of Big Bang Thrones“. Keiner in deiner Siedlung hat sie bisher gesehen. Tolle Geschäftsidee, denkst du dir und klebst Plakate. Für nur fünf Euro kann man bei dir im Garten die Staffel auf Großleinwand kucken. Da sollte doch niemand etwas dagegen haben, oder?
+Antwort (handschriftlich): Nein, da es öffentlich ist und man Geld verlangt, obwohl man keine Lizenz besitzt.
+
+Aufgabe 8: Ein neuer Song deiner Lieblingsband ist erschienen und er ist richtig gut geworden. Du willst ihn auf Facebook posten und mit den Freunden teilen. Darfst du das?
+Antwort (handschriftlich): Nein, nur wenn er offiziell auf Facebook geteilt werden darf.
+
+Aufgabe 9: In einer Woche ist Schulabschlussfeier und ihr wollt ein Video machen, aber euch fehlt noch die passende Musik. Deine beste Freundin sagt, am coolsten wäre es, wenn man das Video mit der aktuellen Nummer 1 aus den Charts unterlegen würde. Was meinst du?
+Antwort (handschriftlich): Nein, da es eine öffentliche Veranstaltung ist und man Rechte dazu braucht.
+```
 
 ### Seite 67
 
-> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
-> Grund: Fachfremder Urheberrechts-Einschub; Datenschutz und externe QR-Ziele nicht freigegeben. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 67](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=67>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=67]]`
 
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=67]]
+
+> [!ocr] Visuell transkribiert
+> Eingebettete Aufgabenstellungen 10–12 zum Thema Urheberrecht (Seite 5 des Arbeitsblatts) sowie handschriftliche Antworten (Aufgaben 10 und 11) aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+IT-Tec – Urheberrecht (Arbeitsblatt Seite 5)
+
+Aufgabe 10: Darf man ein E-Book, das man legal in einem Online-Shop erworben hat, an Freunde weiterverkaufen?
+Antwort (handschriftlich): Ist nicht zulässig, da nicht festgestellt werden kann, ob die Datei gelöscht ist.
+
+Aufgabe 11: Was versteht man unter dem „Recht am eigenen Bild“ im Zusammenhang mit Fotos?
+Antwort (handschriftlich): Nur mit Einwilligung von Personen.
+
+Aufgabe 12: Wie lange ist ein Werk urheberrechtlich geschützt?
+Antwort: (unbeantwortet)
+```
+
+### Seite 68
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 69
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 70
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 70](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=70>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=70]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=70]]
+
+> [!ocr] Visuell transkribiert
+> Eingebetteter Skripttext, Aufgaben 1 und 2, abfotografierte Musterlösung zu Aufgabe 1 sowie getippte Antwort zu Aufgabe 2 aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+IT-Tec – Verschlüsselung (Skriptseite 3)
+1. Allgemeines zu Kryptographie
+
+Kryptographie ist die Lehre vom Verschlüsseln geheimer Botschaften – ursprünglich. Allein das ist hochspannend, aber heute ist Kryptographie weiter gefasst: In Zeiten von Internet und mobiler Kommunikation werden kryptographische Verfahren benutzt, um die gesamte Kommunikation sicherer zu machen – sicher gegen Abhören, gegen Verfälschen, gegen Täuschen.
+
+Früher bedeutete Kryptographie vor allem, geheime Botschaften zu verschlüsseln: Vertrauliches wurde „unter vier Augen“ besprochen, wichtige Inhalte per unterschriebenem Brief verschickt und mit Bargeld bezahlt.
+
+Heute schützt Kryptographie die gesamte digitale Kommunikation – gegen Abhören, Manipulation und Täuschung: Besprechungen laufen über Telefon/Videokonferenz, Nachrichten über E-Mail und bezahlt wird mit Karte, E-Geld oder Kryptogeld.
+
+Aufgabe 1: Das Thema Verschlüsselung ist eng mit dem IT-Grundschutz verwebt.
+a) Nenne die IT-Sicherheitsziele und erläutere kurz, was jedes Ziel für die Datensicherheit bedeutet.
+b) Erkläre, wie Verschlüsselung zur Erreichung dieser Ziele beitragen kann.
+
+Lösung (eingefügtes Foto):
+a) Vertraulichkeit bedeutet, dass Daten nur von berechtigten Personen eingesehen werden dürfen. Integrität heißt, dass Daten korrekt und unverändert bleiben und Manipulationen erkennbar sind. Verfügbarkeit bedeutet, dass Daten und Systeme bei Bedarf zuverlässig und rechtzeitig nutzbar sind.
+b) Verschlüsselung schützt vor allem die Vertraulichkeit, weil Unbefugte abgefangene Daten nicht lesen können. Integrität wird durch Hashes und digitale Signaturen unterstützt, da Manipulationen auffallen und die Echtheit prüfbar ist. Verfügbarkeit erhöht Verschlüsselung kaum direkt, höchstens indirekt durch weniger Missbrauch.
+
+Aufgabe 2: Recherchiere im Internet den Unterschied zwischen Steganographie und Kryptographie.
+Antwort:
+Steganographie versteckt eine Nachricht so, dass Außenstehende möglichst nicht einmal merken, dass es sie gibt (z. B. in einem Bild oder in einer Audiodatei).
+Kryptographie hingegen verschlüsselt die Nachricht, so dass sie ohne passenden Schlüssel nicht gelesen werden kann.
+```
+
+### Seite 71
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 71](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=71>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=71]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=71]]
+
+> [!ocr] Visuell transkribiert
+> Eingebetteter Skripttext, Übersichtsschema zu Kryptographie (Substitution/Transposition) sowie Aufgabe 1 mit Lösung aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+IT-Tec – Verschlüsselung (Skriptseite 4)
+
+Datensicherheit sorgt dafür, dass nur der beabsichtigte Empfänger die Nachricht lesen kann. Dies wird mithilfe von Verschlüsselung erreicht. Bei der Verschlüsselung werden die Daten chiffriert oder codiert, damit nicht autorisierte Dritte diese nicht so einfach lesen können.
+
+Schema Kryptographie (Verschlüsseln / Entschlüsseln):
+- Substitution:
+  - Chiffrierung: Buchstaben ersetzen
+  - Codierung: Wörter ersetzen
+- Transposition: Reihenfolge der Buchstaben ändern
+
+Infotext:
+Kryptographie umfasst alle Verfahren, mit denen Informationen verschlüsselt und später wieder entschlüsselt werden, damit nur berechtigte Personen den Inhalt verstehen können. Im Zentrum stehen dabei zwei klassische Prinzipien, wie ein Klartext in einen Geheimtext umgewandelt werden kann: Transposition und Substitution.
+
+Bei der Transposition werden die Zeichen nicht verändert, sondern nur umgestellt. Die Buchstaben bleiben also dieselben, aber ihre Reihenfolge wird nach einer Regel verändert (z. B. „HELLO“ -> „LEHOL“). Wer die Umstellregel nicht kennt, kann den ursprünglichen Text nur schwer rekonstruieren.
+
+Bei der Substitution wird nicht die Reihenfolge verändert, sondern es werden Elemente ersetzt. Es gibt zwei Varianten:
+- Bei der Chiffrierung werden vor allem Buchstaben ausgetauscht, also einzelne Zeichen durch andere Zeichen ersetzt (z. B. durch ein anderes Alphabet oder eine feste Ersetzungstabelle).
+- Bei der Codierung werden eher Wörter oder ganze Begriffe ersetzt, etwa indem ein Wort durch ein anderes Wort, eine Zahl oder ein Codewort dargestellt wird. Der wichtige Unterschied ist: Chiffrierung arbeitet typischerweise auf Zeichenebene, Codierung eher auf Wort-/Begriffsebene.
+
+Aufgabe 1: Überlege dir jeweils ein einfaches Buchstabenbeispiel für Substitution und Transposition (Gebe jeweils Klartext -> Geheimtext an).
+Antwort:
+Substitution (Buchstaben ersetzen), Regel: A->D, B->E, C->F, ... (jeder Buchstabe wird um 3 nach vorne verschoben).
+Klartext: HALLO -> Geheimtext: KDOOR
+(Hinweis: Beispiel für Transposition wurde nicht eingetragen.)
+```
+
+### Seite 72
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 72](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=72>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=72]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=72]]
+
+> [!ocr] Visuell transkribiert
+> Eingebettete Überschriften (Skytale, Caesar-, Vigenère-Verschlüsselung), Aufgabenstellung und Antworten aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+IT-Tec – Verschlüsselung (Skriptseite 5)
+1.1 Verschlüsselungsarten
+
+Es wurden traditionell verschiedene Verschlüsselungsalgorithmen und -methoden angewendet. Im Laufe der Jahrhunderte wurden verschiedene Chiffriermethoden, physische Geräte und Hilfsmittel zur Ver- und Entschlüsselung von Text eingesetzt:
+
+Aufgabe 1: Recherchiere die Herkunft und die Funktionsweise folgender Verschlüsselungsmethoden.
+
+1. Skytale
+- Herkunft / Alter: Antikes Griechenland
+- Funktionsweise: Auf Stock aufwickeln; wenn abgewickelt wirre Schrift; man braucht gleich dicken Stock, um zu entziffern.
+
+2. Caesar-Verschlüsselung (mit Abbildung zweier gegeneinander verschobener Alphabete, Verschiebung um 3: A->D, B->E, ...)
+- Herkunft / Alter: Römische Antike
+- Funktionsweise: Im Alphabet um festgelegte Anzahl verschoben.
+
+3. Vigenère-Verschlüsselung (mit Vigenère-Quadrat / Tabula recta)
+- Herkunft / Alter: Renaissance
+- Funktionsweise: Verschlüsselung mit Schlüsselwort; wird immer um den Wert von den Buchstaben des Schlüsselworts verschoben.
+```
+
+### Seite 73
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Unbearbeitetes Duplikat der ausgefüllten Arbeitsblattseite S.79. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 74
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Unbearbeitetes Duplikat der ausgefüllten Arbeitsblattseite S.80. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 75
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Unbearbeitetes Duplikat der ausgefüllten Arbeitsblattseite S.81. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 76
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Unbearbeitetes Duplikat der ausgefüllten Arbeitsblattseite S.82. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 77
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 77](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=77>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=77]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=77]]
+
+> [!ocr] Visuell transkribiert
+> Eingebettete Aufgabenstellungen 5–7 (Caesar 3, Vigenère, Enigma), Zuordnungstabelle und Lösungen aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+IT-Tec – Verschlüsselung (Skriptseite 6)
+1.2 Übungsaufgaben
+
+Aufgabe 5: Nutze Caesar 3 um ...
+a) den Satz: KRYPTOGRAFIE IST DATENSCHUTZ zu verschlüsseln
+b) die Buchstabenkombination G D V L V W J H K H L P zu entschlüsseln.
+
+Zuordnungstabelle Caesar +3:
+Klartextalphabet:   a b c d e f g h i j k l m n o p q r s t u v w x y z
+Geheimtextalphabet: D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
+
+Lösung:
+a) N U B S W R J U D I L H   L V W   G D W H Q V F K X W C
+b) D A S   I S T   G E H E I M
+
+Aufgabe 6: Nutze den Vigenère-Chiffre, um den Begriff KAFFETASSE zu verschlüsseln. Nutze als Schlüsselwort LIMO.
+Lösung (Hinweis: in der Mitschrift wurde KAFFEETASSE mit zwei E eingetragen):
+K: K A F F E E T A S S E
+S: L I M O L I M O L I M
+G: V I R T P M F O D A Q
+
+Aufgabe 7: Für Schnelle: Informiere dich über die „ENIGMA“ (im Arbeitsblatt gedruckt „ENIMGA“, mit QR-Hinweis).
+Antwort:
+Enigma: elektromechanische Rotor-Chiffriermaschine; Einstellungen von Rotoren und Steckerbrett bildeten den Schlüssel. Sie wurde u. a. im Zweiten Weltkrieg zur Verschlüsselung von Nachrichten eingesetzt.
+```
+
+### Seite 78
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 78](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=78>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=78]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=78]]
+
+> [!ocr] Visuell transkribiert
+> Eingebettete Situation (ConOSI GmbH), Schlüsselübersicht, Aufgaben 7 und 8 sowie Lösungen inkl. handschriftlicher Korrektur aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+IT-Tec – Verschlüsselung (Skriptseite 7)
+2. Symmetrische Verschlüsselung
+
+2.1 Situation
+Das aktuelle Sicherheitskonzept zur „sicheren“ Übermittlung von Daten innerhalb der ConOSI GmbH gestaltet sich folgendermaßen:
+Es gibt folgende Hauptabteilungen:
+1. Human Ressource Management (HRM)
+2. Customer Service (CSV)
+3. Training Supervision (TAS)
+4. IT Service Operations (ITSO)
+5. IT-Security (ITSEC)
+
+Wollen zwei Hauptabteilungen Daten verschlüsselt untereinander austauschen, muss der Schlüssel beiden Hauptabteilungen bekannt sein.
+
+Aktuell kennt jede Abteilung folgende Schlüssel:
+- HRM: ITSEC, TAS
+- CSV: ITSO, TAS
+- TAS: HRM, CSV
+- ITSO: CSV, ITSEC
+- ITSEC: HRM, ITSO
+
+2.2 Analyse des Sicherheitskonzepts
+
+Aufgabe 7: Zur Analyse des Sicherheitskonzepts sollen folgende Fragen beantwortet werden:
+a) Nenne alle Abteilungspaare, die miteinander verschlüsselt kommunizieren (X <-> X) können.
+b) Nenne die Anzahl der einzigartigen Schlüssel, die dafür generiert werden müssen.
+c) Bestimme, wie viele Schlüssel notwendig sind, wenn alle Hauptabteilungen untereinander verschlüsselt kommunizieren wollen.
+
+Lösungen:
+7a) Mögliche Paare: HRM <-> ITSEC, HRM <-> TAS, CSV <-> ITSO, CSV <-> TAS, ITSO <-> ITSEC.
+7b) Dafür werden 5 einzigartige gemeinsame Schlüssel benötigt.
+7c) Für alle 5 Hauptabteilungen: 5 * 4 / 2 = 10 Schlüssel.
+
+Aufgabe 8: Schätze ab, wie viele Schlüssel benötigt werden, wenn zusätzlich noch zwischen allen Unterabteilungen verschlüsselt kommuniziert werden soll (19 Unterabteilungen).
+Lösung:
+Bei 19 Unterabteilungen: 19 * 18 / 2 = 171 Schlüssel (durchgestrichen und handschriftlich korrigiert auf: 276 — entspricht 5 Haupt- + 19 Unterabteilungen = 24 Abteilungen: 24 * 23 / 2 = 276 Schlüssel).
+Formel: n * (n - 1) / 2
+```
+
+### Seite 79
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 79](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=79>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=79]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=79]]
+
+> [!ocr] Visuell transkribiert
+> Eingebettete Strukturüberschriften (Kennzeichen/Ablauf, Vorteile, Nachteile, Beispiele), ausgefüllte Antworten und Ablaufgrafik zur symmetrischen Verschlüsselung aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+IT-Tec – Verschlüsselung (Skriptseite 8)
+2.3 Symmetrische Verschlüsselung (Private-Key-Verfahren)
+
+Aufgabe 9: Informiere dich über das Private-Key-Verfahren und halte die wichtigsten Informationen auf dieser Seite fest.
+
+Kennzeichen / Ablauf:
+- Sender und Empfänger nutzen denselben geheimen Schlüssel.
+- Mit diesem Schlüssel wird die Nachricht verschlüsselt und später wieder entschlüsselt.
+- Der Schlüssel muss vorher sicher ausgetauscht und geheim gehalten werden.
+
+Vorteile:
+- Sehr schnell und effizient, deshalb gut für große Datenmengen geeignet.
+- Technisch vergleichsweise einfach umzusetzen.
+- Bei sicherem Schlüssel ist eine hohe Vertraulichkeit möglich.
+
+Nachteile:
+- Der geheime Schlüssel muss vorab sicher übertragen werden.
+- Bei vielen Kommunikationspartnern werden sehr viele Schlüssel benötigt.
+- Wenn der Schlüssel bekannt wird, kann jeder damit lesen und auch verschlüsseln.
+- Die Identität des Absenders wird nicht automatisch bewiesen.
+- Schlüsselverwaltung und regelmäßiger Wechsel sind aufwendig.
+
+Beispiele für symmetrische Verfahren:
+- AES, ChaCha20, Blowfish; ältere Beispiele: DES/3DES (heute veraltet).
+
+Schaubild:
+Klartext (Text/Datei/Nachricht) -> Verschlüsselung mit geheimem Schlüssel -> Ciphertext (Text/Datei/Nachricht verschlüsselt) -> Übertragung über Netzwerk/Wolke -> Ciphertext (Text/Datei/Nachricht verschlüsselt) -> Entschlüsselung mit gleichem geheimen Schlüssel -> Klartext (Text/Datei/Nachricht).
+```
+
+### Seite 80
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 80](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=80>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=80]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=80]]
+
+> [!ocr] Visuell transkribiert
+> Eingebettete Situation (3.1), Aufgaben 11 und 12, Antwort und beschriftetes Public-Key-/PKI-Schaubild aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+IT-Tec – Verschlüsselung (Skriptseite 9)
+3. Asymmetrische Verschlüsselung
+
+3.1 Situation
+Die ConOSI GmbH kommuniziert zusätzlich per E-Mail mit externen Auftraggebern. Da auch sensible Daten (z. B. Personal-, Kunden- oder Sicherheitsdaten) übertragen werden, müssen alle E-Mails vertraulich, das heißt verschlüsselt, gesendet werden.
+
+3.2 Analyse des Sicherheitskonzepts
+
+Aufgabe 11: Beurteile, ob die aktuell eingesetzte Verschlüsselungsart auch für diese Anforderung ausreichend ist.
+Antwort:
+Nein. Reine symmetrische Verschlüsselung reicht hier nicht aus. Mit jedem externen Auftraggeber müsste vorher ein geheimer Schlüssel sicher ausgetauscht werden. Das ist bei vielen Empfängern zu aufwendig und unsicher; ein Schlüsselverlust gefährdet die Daten. Sinnvoller ist ein Public-Key- bzw. hybrides Verfahren.
+
+Aufgabe 12: Informiere dich über das Public-Key-Verfahren und erkläre die Funktionsweise mithilfe des Schaubilds.
+
+Schaubild (ausgefüllt):
+- ConOSI GmbH besitzt ein Schlüsselpaar (pub + priv).
+- Kundin besitzt ein Schlüsselpaar (pub + priv).
+- Public-Key-Infrastructure (PKI): Verbreitung öffentlicher Schlüssel (z. B. Key-Server, USB-Stick, ...); der öffentliche Schlüssel der Kundin wird an ConOSI GmbH bereitgestellt.
+- Ablauf: ConOSI GmbH verschlüsselt Text/Nachricht mit dem öffentlichen Schlüssel der Kundin (pub) -> Text/Nachricht VERSCHLÜSSELT -> Übertragung über Netzwerk/Wolke -> Text/Nachricht VERSCHLÜSSELT -> Kundin entschlüsselt mit privatem Schlüssel der Kundin (priv) -> Text/Nachricht im Klartext.
+```
+
+### Seite 81
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 81](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=81>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=81]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=81]]
+
+> [!ocr] Visuell transkribiert
+> Eingebettete Aufgabe 13 und Strukturüberschriften (Kennzeichen/Ablauf, Vorteile, Nachteile, Beispiele) mit den ausgefüllten Antworten zum Public-Key-Verfahren aus Sichtprüfung transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+IT-Tec – Verschlüsselung (Skriptseite 10)
+
+Aufgabe 13: Informiere dich über das Public-Key-Verfahren und halte die wichtigsten Informationen auf dieser Seite fest.
+
+Kennzeichen / Ablauf:
+- Jeder Teilnehmer besitzt ein Schlüsselpaar: einen öffentlichen und einen privaten Schlüssel.
+- Der öffentliche Schlüssel darf verteilt werden; der private Schlüssel bleibt geheim.
+- Verschlüsselt wird mit dem öffentlichen Schlüssel des Empfängers.
+- Entschlüsseln kann nur der Empfänger mit seinem privaten Schlüssel.
+- Zertifikate/PKI bestätigen, zu welcher Person ein öffentlicher Schlüssel gehört.
+- Für digitale Signaturen gilt: privat signieren, öffentlich prüfen.
+
+Vorteile:
+- Kein geheimer Schlüssel muss vorher über einen sicheren Kanal übertragen werden.
+- Gut geeignet für viele Kommunikationspartner, z. B. externe Kunden.
+- Ermöglicht Authentifizierung und digitale Signaturen.
+- Löst das Schlüsselverteilungsproblem besser als reine symmetrische Verschlüsselung.
+
+Nachteile:
+- Deutlich langsamer als symmetrische Verfahren.
+- Für große Datenmengen allein eher ungeeignet.
+- Benötigt PKI/Zertifikate und die Prüfung der Echtheit.
+- Bei gefälschten öffentlichen Schlüsseln droht ein Man-in-the-Middle-Angriff.
+- Der private Schlüssel muss besonders geschützt werden.
+
+Beispiele für asymmetrische Verfahren:
+- RSA, ECC/ECIES, ElGamal; außerdem Diffie-Hellman/ECDH zum Schlüsselaustausch.
+```
+
+### Seite 82
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 82](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=82>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=82]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=82]]
+
+> [!ocr] Visuell transkribiert
+> Eingebettete Situation (4.1), Aufgabe 14 und Strukturüberschriften mit den ausgefüllten Antworten zur hybriden Verschlüsselung aus Sichtprüfung transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+IT-Tec – Verschlüsselung (Skriptseite 11)
+4. Hybride Verschlüsselung
+
+4.1 Situation
+Da die ConOSI GmbH täglich große Datenmengen verschlüsselt übertragen muss, ist eine rein asymmetrische Verschlüsselung für die komplette Datenübertragung zu langsam und ineffizient. Du wirst beauftragt, ein Verfahren zu finden, das schnell ist, aber gleichzeitig das Schlüsselverteilungsproblem sicher löst.
+
+4.2 Analyse des Sicherheitskonzepts
+
+Aufgabe 14: Informiere dich über das hybride Verschlüsselungsverfahren und halte die wichtigsten Informationen auf dieser Seite fest.
+
+Kennzeichen / Ablauf:
+- Kombiniert asymmetrische und symmetrische Verschlüsselung.
+- Für die eigentlichen Daten wird ein schneller symmetrischer Sitzungsschlüssel erzeugt.
+- Die Nachricht wird z. B. mit AES und diesem Sitzungsschlüssel verschlüsselt.
+- Der Sitzungsschlüssel wird mit dem öffentlichen Schlüssel des Empfängers verschlüsselt mitgesendet.
+- Der Empfänger entschlüsselt den Sitzungsschlüssel mit seinem privaten Schlüssel.
+- Danach entschlüsselt er damit die eigentliche Nachricht.
+
+Vorteile:
+- Sehr schnell bei großen Datenmengen, weil die Nutzdaten symmetrisch verschlüsselt werden.
+- Das Schlüsselverteilungsproblem wird durch den öffentlichen Schlüssel sicher gelöst.
+- Pro Sitzung kann ein neuer Sitzungsschlüssel verwendet werden.
+- Ist in der Praxis Standard, z. B. bei HTTPS/TLS und E-Mail-Verschlüsselung.
+
+Nachteile:
+- Komplexer als ein reines Verfahren.
+- Benötigt geprüfte Zertifikate/öffentliche Schlüssel.
+- Die Sicherheit hängt von beiden Teilen ab: symmetrisch und asymmetrisch.
+- Werden private Schlüssel oder Sitzungsschlüssel kompromittiert, sind Daten gefährdet.
+
+Beispiele für hybride Verfahren (im Arbeitsblatt fälschlich als „Beispiele für asymmetrische Verfahren“ betitelt):
+- HTTPS/TLS, PGP/GPG, S/MIME, moderne Messenger-Protokolle.
+```
+
+### Seite 83
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 83](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=83>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=83]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=83]]
+
+> [!ocr] Visuell transkribiert
+> Abfotografierte Prüfungs-/Übungsaufgabe (b, ba, bb, bc, c) inkl. Skizze sowie getippte Musterlösungen aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Übungsaufgabe: Asymmetrische E-Mail-Verschlüsselung & Lizenzmodelle
+
+Aufgabenstellung (abfotografierte Prüfungsaufgabe):
+b) Ein Anwalt hat von einem Mandanten per E-Mail einen öffentlichen Schlüssel für die Einrichtung einer sicheren Kommunikation erhalten und bittet Sie um Unterstützung bei der Verwendung.
+- ba) Beschreiben Sie die Vorgehensweise bei der asymmetrischen Verschlüsselung und Entschlüsselung zur Übertragung von E-Mails vom Anwalt zum Mandanten anhand der folgenden Skizze. (4 Punkte)
+  (Skizze: Anwalt mit „privat Anwalt“ und „öffentlich Anwalt“ -> offener Brief -> verschlossener Brief mit Schloss -> Übertragung -> verschlossener Brief mit Schloss -> offener Brief -> Mandant mit „privat Mandant“ und „öffentlich Mandant“.)
+- bb) Nennen Sie das IT-Schutzziel, welches durch die beschriebene Verwendung der Schlüssel erreicht werden kann. (1 Punkt)
+- bc) Nennen Sie einen Vorteil und einen Nachteil der asymmetrischen Verschlüsselung im Vergleich zu einer symmetrischen Verschlüsselung. (2 Punkte)
+c) Für den praktischen Einsatz der E-Mail-Verschlüsselung suchen Sie nun eine geeignete Software. Zur Verfügung steht ein Produkt unter einer Open-Source-Lizenz und eine proprietäre Software des Betriebssystem-Herstellers. Nennen Sie jeweils zwei Vorteile dieser Lizenzmodelle. (4 Punkte)
+
+Lösungen:
+ba) (im Text als „ab)“ bezeichnet):
+1. Verschlüsselung durch den Sender: Der Anwalt verfasst die E-Mail. Um sicherzustellen, dass nur der Mandant sie lesen kann, nutzt der Anwalt den öffentlichen Schlüssel des Mandanten („öffentlich Mandant“), um die Nachricht zu verschlüsseln. Aus dem offenen Brief wird ein verschlossener (Geheimtext).
+2. Übertragung: Die verschlüsselte E-Mail wird über das (unsichere) Internet an den Mandanten gesendet. Selbst wenn sie abgefangen wird, kann sie ohne den passenden Schlüssel nicht gelesen werden.
+3. Entschlüsselung durch den Empfänger: Der Mandant empfängt die verschlüsselte E-Mail. Um sie wieder in Klartext umzuwandeln (offener Brief), nutzt er seinen eigenen, streng geheimen privaten Schlüssel („privat Mandant“). Nur dieser Schlüssel passt mathematisch zum verwendeten öffentlichen Schlüssel und kann die Nachricht entschlüsseln.
+
+bb) Vertraulichkeit
+
+bc)
+- Vorteil: Sicherer und einfacherer Schlüsselaustausch
+- Nachteil: Hoher Rechenaufwand
+
+c)
+- Open-Source:
+  - Quellcode ist einsehbar und kann geprüft werden
+  - Keine Herstellerabhängigkeit
+- Proprietäre Software:
+  - Support
+  - Optimal abgestimmt / läuft stabil
+```
+
+### Seite 84
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 85
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 86
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+
+### Seite 87
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 87](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=87>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=87]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=87]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+KI und Cyber-
+kriminalität
+Wie gefährlich wird die
+Zukunft?
+Künstliche Intelligenz verändert gerade
+nahezu jeden Bereich der digitalen Welt
+– und leider auch die Schattenseiten
+davon. Immer häufiger taucht die Frage
+auf, ob KI nicht nur beim Programmieren
+hilft, sondern auch bei der Entwicklung
+und Verbreitung von Schadsoftware.
+Kann eine KI Cyberkriminellen wirklich
+Arbeit abnehmen? Oder wird das Thema
+nur dramatisiert?
+Bevor die Rolle von KI in der
+Cyberkriminalität beleuchtet wird,
+startet diese Artikelserie mit den Grund-
+lagen: Welche Arten von Schadsoftware
+gibt es, wie funktionieren sie und warum
+sind sie so gefährlich?
+Computerviren sind Programme, die
+sich in andere ausführbare Dateien oder
+Dokumente einfügen, um sich zu
+verbreiten. Sie benötigen meistens eine
+Aktion des Nutzers, wie das Öffnen einer
+infizierten Datei oder das Herunterladen
+von Software, um aktiv zu werden. Das
+primäre Ziel solcher Viren ist oft die
+Beschädigung von Daten oder das
+Stehlen persönlicher Informationen.
+Zum Beispiel kann ein Virus sensible
+Daten wie Passwörter und persönliche
+Identifikationsnummern (PINs) sam-
+Viren
+Bit & Beruf
+05 2026
+Praktiker - Technik Magazin
+```
+
+### Seite 88
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 88](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=88>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=88]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=88]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+meln. Infektionswege sind vielfältig.
+Viren verbreiten sich häufig durch den
+Austausch von infizierten Dateien, z. B.
+über E-Mail-Anhänge oder Downloads
+von unsicheren Webseiten. Ein klas-
+sisches Beispiel für einen Virus ist der
+Melissa-Virus, der sich 1999 über E-
+Mails verbreitete und das Adressbuch
+der Nutzer infizierte.
+Die Funktionsweise von Viren basiert auf
+der Nutzung von „Wirten“
+. Ein Virus
+klettert in den Arbeitsspeicher des
+Computers, wo er nach weiteren
+Dateien sucht, die er infizieren kann.
+Um sich vor Viren zu schützen, ist ein
+Programmviren
+Diese Viren heften sich an ausführ-
+bare Dateien an und werden aktiv,
+sobald das infizierte Programm ge-
+startet wird. Typisch ist die Ver-
+breitung über manipulierte Soft-
+warepakete oder Downloads, bei
+denen der Virus unbemerkt mit-
+geliefert wird.
+Bootviren
+Diese Viren infizieren den Boot-
+sektor von Festplatten oder USB‑
+Medien. Sie werden bereits beim
+Systemstart aktiv – noch bevor
+das Betriebssystem vollständig
+geladen ist. Dadurch können sie
+besonders tief ins System eingrei-
+fen und sind schwer zu entfernen.
+Makroviren
+Makroviren nutzen die Makro-
+funktionen von Office‑Program-
+men wie Microsoft Word oder
+Excel. Sie aktivieren sich beim
+Öffnen eines infizierten Doku-
+ments und können weitere Dateien
+manipulieren oder Schadbefehle
+ausführen. Besonders verbreitet
+durch E‑Mail‑Anhänge.
+Arten von
+Viren
+06 2026
+Praktiker - Technik Magazin
+```
+
+### Seite 89
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 89](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=89>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=89]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=89]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Backdoor‑Trojaner
+Eröffnet Angreifern einen versteck-
+ten Zugang zum System. Dadurch
+können sie Befehle ausführen, Daten
+auslesen oder weitere Schadsoft-
+ware nachladen – oft völlig unbe-
+merkt.
+Downloader‑Trojaner
+Installiert zunächst nur eine kleine
+Schadkomponente, deren Haupt-
+aufgabe es ist, weitere Malware aus
+dem Internet nachzuladen. Häufig
+der erste Schritt einer größeren In-
+fektion.
+Dropper‑Trojaner
+Bringt die eigentliche Schadsoft-
+ware bereits mit und installiert sie
+direkt auf dem System. Dadurch
+funktioniert er auch ohne Internet-
+verbindung und ist schwerer zu er-
+kennen.
+Spyware‑Trojaner
+Sammelt sensible Informationen wie
+Passwörter, Tastatureingaben oder
+Browserverläufe. Wird häufig für
+Identitätsdiebstahl oder den Zugriff
+auf interne Systeme genutzt.
+Virenscanner unerlässlich. Diese Software
+durchsucht das System nach bekannten
+Virenkennzeichnungen. Anti- Viren-
+Programme wie Avira oder Norton
+verwenden Datenbanken, die regelmäßige
+Updates benötigen, um neue Bedrohungen
+zu erkennen. Diese Scanner arbeiten, indem
+sie den Code der Dateien auf bekannte
+Viren-Muster überprüfen und das Verhalten
+von Programmen beobachten, um
+verdächtige Aktivitäten zu identifizieren.
+Arten von
+Trojanern
+Trojaner
+Trojaner sind Programme, die sich als nütz-
+07 2026
+Praktiker - Technik Magazin
+```
+
+### Seite 90
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 90](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=90>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=90]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=90]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+„Sicherheit ist kein
+Zustand, sondern ein
+Prozess – und
+Schadsoftware
+erinnert uns täglich
+daran.
+“
+Die Infektionswege eines Trojaners sind
+vielfältig. Häufig werden diese Schad-
+programme über E-Mails verbreitet, die
+Links zu gefälschten Software-
+Installationen enthalten. Nach der In-
+stallation aktiviert sich der Trojaner, und
+der Schädling beginnt, im Hintergrund
+weitere Aktionen auszuführen.
+Die Funktionsweise eines Trojaners ist
+komplex. Nach der Installation lädt er
+oft eine zusätzliche Schadsoftware
+herunter, die dem Angreifer Zugang zu
+sensiblen Daten gibt. Oft bleibt der Tro-
+janer unbemerkt, da er sich als nützliche
+Anwendung tarnen kann. Um sich vor
+Trojanern zu schützen, ist es essenziell,
+Software nur aus vertrauenswürdigen
+Quellen herunterzuladen und Sicher-
+heitssoftware regelmäßig zu aktualisie-
+ren.
+Ebenfalls wichtig ist das Vermeiden von
+Software, die Ihnen über ungesicherte
+Kanäle angeboten wird. Jede Instal-
+lation aus unbekannten Quellen erhöht
+das Risiko, dass unbemerkt weitere
+Schadfunktionen auf das System
+gelangen.
+nützliche Software tarnen, um
+Schadsoftware einzuschleusen. Sie
+werden häufig als legitime Software
+ausgegeben, was Nutzer dazu verleitet, sie
+herunterzuladen und auszuführen. Das
+Hauptziel eines Trojaners ist das Stehlen
+von persönlichen Daten, insbesondere im
+Bereich Online-Banking.
+Ein typisches Beispiel ist der Zeus-
+Trojaner, der gezielt Bankdaten stiehlt,
+indem er Tastatureingaben aufzeichnet
+und Informationen an den Angreifer
+sendet. Trojaner können auch zusätzliche
+bösartige Software nachladen, sobald sie
+installiert sind, was zur Infektion des
+gesamten Systems führen kann.
+08 2026
+Praktiker - Technik Magazin
+```
+
+### Seite 91
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 91](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=91>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=91]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=91]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Würmer sind eine spezielle Art von
+Viren, die sich selbstständig über
+Netzwerke verbreiten. Sie benö-
+tigen keinen Wirt im traditionellen
+Sinne, sondern können von Com-
+puter zu Computer gelangen, indem
+sie Sicherheitslücken in Netzwerken
+ausnutzen.
+Das Hauptziel von Würmern ist es,
+Netzwerke zu infiltrieren und dabei
+Schäden zu verursachen – häufig
+durch die Überlastung von Sys-
+temen oder durch das Blockieren
+von Netzwerkressourcen.
+Die Infektionswege eines Wurms
+sind in der Regel über E-Mails, in
+denen der Wurm sich selbst an alle
+Kontakte im Adressbuch des Nut-
+zers verteilt. Würmer nutzen oft
+bekannte Sicherheitslücken in Soft-
+ware oder Betriebssystemen, um
+sich schnell zu verbreiten. Diese
+Exploits sind oft öffentlich bekannt,
+was bedeutet, dass ein schnelles
+Handeln notwendig ist, um sich zu
+schützen.
+Um sich effektiv vor Würmern zu
+schützen, sollten Firewalls und
+aktuelle Anti-Viren-Programme ein-
+gesetzt werden. Diese Systeme kön-
+nen unberechtigten Zugriff auf Ihr
+Netzwerk verhindern und dazu
+beitragen, dass Würmer nicht ein-
+dringen können.
+Ransomware ist eine besonders schädliche
+Art von Malware, die den Zugriff auf Ihr
+System einschränkt und Lösegeld verlangt,
+um die Kontrolle zurückzugeben. Ihr Haupt-
+ziel ist die Erpressung von Geldbeträgen.
+Der Zugang zu diesen Bedrohungen erfolgt
+häufig durch schadhafte E-Mail-Anhänge
+oder Downloads. Ein prominentes Beispiel
+ist WannaCry, das 2017 weltweit zahlreiche
+Systeme lahmlegte und für immense
+Schäden sorgte. Die Funktionsweise von
+Würmer
+Ransomware
+09 2026
+Praktiker - Technik Magazin
+```
+
+### Seite 92
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 92](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=92>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=92]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=92]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Ransomware besteht darin, dass sie die
+Dateien auf einem infizierten Gerät
+verschlüsselt und den Nutzer dann
+auffordert, ein Lösegeld zu zahlen, um
+den Schlüssel zur Entschlüsselung zu
+erhalten.
+Die Rolle von Anti-Viren-Programmen
+wird auch hier erneut wichtig, da sie
+Ransomware erkennen und blockieren
+können, bevor sie auf Ihr System
+zugreift.
+Crypto‑Ransomware
+Diese Variante verschlüsselt
+Dateien auf dem System des
+Opfers mit starken
+kryptografischen Verfahren. Die
+Daten bleiben vorhanden, sind
+aber ohne den passenden
+Schlüssel unlesbar. Die Täter
+fordern anschließend ein Lösegeld
+für die Entschlüsselung.
+Leakware
+Hier drohen die Angreifer nicht nur
+mit Verschlüsselung, sondern
+zusätzlich mit der
+Veröffentlichung sensibler Daten.
+Diese Erpressungsmethode zielt
+besonders auf Unternehmen ab,
+da der Reputationsschaden enorm
+sein kann.
+RaaS (Ransomware‑as‑a‑Service)
+Ein Geschäftsmodell im Cyber-
+crime‑Bereich: Kriminelle bieten
+fertige Ransomware‑Pakete an, die
+von anderen genutzt werden kön-
+nen. Die „Kunden“ führen die An-
+griffe aus, während die Entwickler
+am Lösegeld beteiligt werden.
+Dadurch verbreitet sich Ran-
+somware schneller und profes-
+sioneller.
+Arten von
+Ransomware
+Ransomware
+Während klassische Schadsoftware also
+längst ein breites Spektrum an Angriffs-
+methoden abdeckt, verändert KI die Art
+10 2026
+Praktiker - Technik Magazin
+```
+
+### Seite 93
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 93](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=93>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=93]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=93]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+11 2026
+Praktiker - Technik Magazin
+Sicherungskopie - Strategien
+gegen Datenverlust
+Murphys Gesetz zufolge kommt ein Datenverlust
+immer dann, wenn man ihn am wenigsten brauchen
+kann: In der Hektik mal eben den Inhalt des
+Kaffeebechers in den PC geschüttet, und schon ist
+die Projektarbeit nicht mehr auf dem Weg zum
+Drucker, sondern ins Nirwana. Besser also, sich
+bereits vorher Gedanken über die richtige Backup-
+Strategie zu machen und die passenden Medien
+auszuwählen.
+Es ist eine eigentlich triviale Weisheit: Datenverlust
+kann jeden treffen. Warum das so ist, wird spätestens
+dann klar, wenn man sich die möglichen Ursachen vor
+Augen hält: Viren, Hardwaredefekte, Diebstahl und
+höhere Gewalt wie Feuer, Wasser oder Naturkata-
+strophen kommen ebenso in Frage wie das klassische
+„menschliche Versagen"
+.
+Damit sind nicht nur als Stolperfallen ausgelegte
+Kabelverbindungen gemeint, sondern auch der allzu
+beherzte Klick auf die falsche Schaltfläche, die falsche
+Lagerung von Datenträgern etwa in direkter
+Sonneneinstrahlung oder im Sommer im Auto, oder
+auch das schlichte Verlieren von Datenträgern. Ner-
+venzusammenbrüche verursacht womöglich auch der
+Nachwuchs, der für sein neues Spiel mal eben ein
+bisschen Platz auf der Platte frei räumt.
+Ein Backup ist eine Sicherheitskopie von Daten für
+den Fall eines unerwarteten Verlustes. Ziel ist es,
+stets eine aktuelle Kopie zu haben, um im Falle eines
+Datenverlusts schnell wieder auf dem aktuellen Stand
+zu sein. Von Archivierung spricht man, wenn man die
+Daten in einem bestimmten Zustand aufbewahrt,
+etwa um später Zugriff auf eine ältere Version eines
+Textes zu haben oder auch, weil gesetzliche
+Vorschriften das Auf bewahren bestimmter Daten
+verlangen. In der Praxis ist der Übergang vom
+Backup zur Archivierung oft fließend, weil viele
+Dateien beide Behandlungen erfahren müssen: So
+wird man die Diplomarbeit nicht nur regelmäßig
+Wir stellen im Folgenden Strategien vor, die den
+Aufwand eines Backups in erträglichen Grenzen
+halten. Im nachfolgenden Artikel zeigen wir, wie sie
+sich einfach in die Tat umsetzen lassen.
+Was ist was
+```
+
+### Seite 94
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 94](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=94>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=94]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=94]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+12 2026
+Praktiker - Technik Magazin
+Auswahlverfahren
+Backup-Strategien
+Per Backup hingegen sind alle selbst produzierten
+Dateien wie Texte, Tabellen, Bilder, Spielstände und so
+weiter zu sichern. Wer sich nicht gerade mit
+Videoschnitt beschäftigt und seinen PC nur privat
+nutzt, produziert hier meist keine allzu großen
+Datenmengen.
+Abwägen muss man bei den Dateien, die man aus dem
+Internet heruntergeladen hat. Einerseits ist ein
+Datenverlust hier nicht so dramatisch wie bei den
+selbst produzierten Dateien, weil sich der Download ja
+wiederholen lässt. Andererseits kostet der einerseits
+Zeit und Geld und zudem ist nicht sicherzustellen,
+dass eine Datei wirklich noch im Netz wiederzufinden
+ist.
+Um die verschiedenen Sicherungsverfahren möglichst
+effektiv anwenden zu können, empfiehlt es sich, die
+Daten möglichst alle in einem einzigen Verzeichnis zu
+lagern. Wer zudem sein Betriebssystem per Image
+sichern will, speichert System und persönliche Dateien
+besser auf verschiedenen Partitionen.
+Der erste Schritt zum Backup ist die Auswahl der zu
+sichernden Daten. Die Vorstellung, den Inhalt einer 6-
+TByte-Platte zu sichern, verliert so schnell den
+Schrecken.
+Sparen kann man sich beispielsweise das Sichern von
+Programmen, denn davon hat man ja normalerweise
+bereits eine Sicherheitskopie: Die Setupdateien zur
+Neuinstallation als Downloadlink, Setup-CD o.ä..
+Anders sieht es mit den Konfigurationsdateien der
+Programme aus, denn hierbei handelt es sich ja um
+selbst produzierte Daten. Wer weiß, welche Dateien
+zu sichern sind, kann sie mit in ein Backup
+einbeziehen. Weil aber meist nicht klar ist, wo genau
+ein Programm denn seine Konfiguration speichert,
+bietet sich hier eher das Imaging als Lösung an.
+Im Grunde gibt es nur drei Backup-Strategien:
+das Voll-Backup, das inkrementelle sowie das differen-
+zielle Backup.
+Das Backup-Programm sichert bei einem Voll-Backup
+schlicht alles. Bei einem Datenverlust spielt man es
+einfach zurück.
+Das inkrementelle Backup sichert nur jene Dateien, die
+seit dem letzten Backup neu hinzukamen oder
+verändert wurden, sichert also nur Daten, die noch
+nicht von einem früheren Backup erfasst worden sind.
+Ein Backup schützt vor allem
+eigene Dateien, ein Image stellt
+ein komplettes System schnell
+wieder her. In der Praxis ist die
+Kombination ideal: Image für das
+Betriebssystem, Backup für
+persönliche Daten.
+sichern, sondern auch in verschiedenen Versionen
+archivieren.
+Eine Sonderform der Sicherheitskopie ist das Image.
+Während ein Backup üblicherweise ausgewählte
+Dateien und Verzeichnisse sichert, erstellt ein
+Imaging-Programm Abbilder kompletter Partitionen.
+Damit eignet sich das Imaging nicht zum Sichern der
+persönlichen Daten, weil man ja nicht wegen einer
+geänderten Textdatei gleich eine komplette Partition
+sichern will. Bestens hingegen eignet sich Imaging
+zum Sichern der Partition mit dem Betriebssystem.
+```
+
+### Seite 95
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 95](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=95>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=95]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=95]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+13 2026
+Praktiker - Technik Magazin
+DIE 3-2-1 BACKUP
+REGEL
+Die 3‑2‑1‑Backup‑Regel ist eine bewährte Strate-
+gie zur Datensicherung: drei Kopien der Daten
+auf zwei verschiedenen Medientypen, davon ei-
+ne an einem externen Standort. Sie schützt vor
+Hardware‑Ausfall, Diebstahl, Feuer und
+Ransomware. (Siehe Bild rechts.)
+Damit eignet es sich als Ergänzung eines Voll-Backups
+- beide zusammen ergeben ein Abbild aller zu sichern-
+den Daten, auch wenn das Voll-Backup schon älter ist.
+Inkrementelle Backups lassen sich auch mehrfach
+hintereinander durchführen. So enthält dann das Voll-
+Backup vom Montag die bis dahin angefallenen
+Dateien und die inkrementellen Backups vom Dienstag
+und Mittwoch die an den jeweiligen Tagen erstellten
+oder geänderten Dateien. Bei einem Datenverlust
+spielt man erst das Vollbackup und dann die
+inkrementellen in der Reihenfolge ihrer Entstehung
+zurück.
+Das differenzielle Backup sichert alle Daten, die sich
+seit dem letzten Voll-Backup verändert haben oder
+neu hinzugekommen sind. Dadurch sichert man zwar
+mit jedem weiteren differenziellen Backup immer
+wieder die bereits mit dem vorangegangenen
+differenziellen Backup gesicherten Dateien, was
+zusätzlichen Platz erfordert. Andererseits sind für eine
+Rücksicherung nur das Voll-Backup sowie das letzte
+differenzielle Backup erforderlich.
+Welche Dateien beim Backup jeweils zu sichern sind,
+Vollbackup ist einfach, braucht
+aber viel Platz. Inkrementell
+spart Speicher, macht den
+Restore aber aufwendiger.
+Differenziell ist oft ein guter
+Mittelweg zwischen Aufwand
+und Geschwindigkeit.
+merkt das Backup-Programm anhand des Datums.
+Lediglich die Windwos-Dateisysteme FAT und NTFS
+besitzen darüber hinaus ein Archiv-Bit. Beim
+Erstellen oder Ändern einer Datei setzt es Windows
+automatisch und das Backup-Programm löscht es
+nach dem Sichern.
+Es gibt noch weitere Backup-Verfahren, etwa das
+tägliche Backup, das alle an einem bestimmten Tag
+geänderten oder erstellten Dateien sichert. Denkbar
+ist auch ein Backup, das nur bestimmte Dateitypen
+berücksichtigt. Letztlich sind solche Verfahren aber
+immer nur Abwandlungen der genannten drei
+Backup-Strategien.
+Garantieanspruch
+Ein Backup ist natürlich nutzlos, wenn die Daten
+nicht korrekt übertragen wurden. Um wirklich sicher-
+zugehen, gibt es nur einen Weg: Nach dem Schreiben
+einer gesicherten Datei wird die Kopie wieder
+ausgelesen und mit dem Original verglichen. So stellt
+man gleichzeitig sicher, dass sich die
+```
+
+### Seite 96
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 96](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=96>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=96]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=96]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+14 2026
+Praktiker - Technik Magazin
+gesicherte Datei auch wirklich lesen lässt und zudem
+Bit für Bit identisch mit dem Original ist. Ein
+Programm, das diesen Vergleich nicht beherrscht,
+verdient den Namen „Backup-Programm" im Grunde
+nicht.
+Hierbei kann man sich jedoch nicht immer auf das
+Handbuch verlassen. Im Zweifel prüft man einfach
+selbst nach, indem man in dem Moment zwischen
+Übertragung und Prüfung eine der gesicherten Dateien
+auf der Platte verändert, beispielsweise durch
+Austauschen eines Buchstabens in einer Textdatei.
+Bemerkt das Backup-Programm den Eingriff, ist alles in
+Ordnung.
+Wer bei spielsweise einmal pro Woche ein Voll-
+Backup machen möch te und die restlichen Tage nur
+inkrementelle, benötigt sechs Medien: Am Montag
+sichert er auf Medium 1 ein Voll-Backup, auf die
+Medien 2, 3, 4 und 5 die täglichen inkrementellen
+Backups und anschließend am nächsten Montag auf 6
+wieder ein Voll-Backup. Hat das geklappt, sind alle
+anderen Medien wieder frei,
+sodass die nächsten inkrementellen Backups wieder
+auf 2, 3, 4 und 5 landen können.
+Ein differenzielles Backup benötigt weniger Medien:
+Für die Voll-Backups zwei im Wechsel und ebenso für
+die differenziellen: Am Dienstag landet auf Medium 2
+ein differenzielles Backup, am Mittwoch auf 3. Weil 3
+alle Unterschiede zum Voll-Backup enthält, ist 2 nun
+wieder frei für ein weiteres differenzielles Backup am
+Donnerstag.
+Sollten alle verwendeten Medien ausreichend groß
+Ein Backup ist nur dann etwas
+wert, wenn die
+Wiederherstellung klappt.
+Familienplanung
+Fällt während des Backup-Vorgangs der Strom aus,
+könnten sich sowohl Festplatte als auch Backup-
+medium verabschieden. Hat man dann keine weitere
+Sicherungskopie, sind alle Daten verloren. Deshalb
+sollte man erst dann wieder auf ein Backup-Medium
+schreiben, wenn man zuvor ein aktuelleres Backup auf
+ein anderes Medium geschrieben hat. Das gilt
+natürlich auch für Mediensätze, wenn man also die zu
+sichernden Daten auf grund ihrer Größe auf mehrere
+Medien verteilen muss: Erst, wenn ein komplett neuer
+Satz erstellt wurde, darf man einen alten
+überschreiben. Durch dieses Wechseln der Backup-
+Medien ist sichergestellt, dass immer ein komplettes
+und geprüftes Backup existiert, selbst wenn beim
+nächsten Backup so wohl Original-Datenträger als auch
+Backup-Medium beschädigt werden.
+Das Wechsel-Prinzip lässt sich auch auf die anderen
+Backup-Arten anwenden.
+```
+
+### Seite 97
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 97](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=97>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=97]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=97]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+15 2026
+Praktiker - Technik Magazin
+sein, kann man hier übrigens auf noch ein Medium
+verzichten: Nachdem man am Freitag auf Medium 3
+das aktuelle differenzielle Backup geschrieben hat, ist
+2 frei, und zwar für das nächste Voll-Backup.
+Anschließend kann man 1 für das nächste
+differenzielle nehmen.
+Wer die Sicherheit noch etwas weitertreiben will,
+nimmt noch ein Medium oder einen Mediensatz mehr:
+Wenn das erste Medium beschrieben ist, nutzt man
+das zweite, und danach das dritte. Erst dann
+beschreibt man wieder das erste. Auf die Weise hat
+man immer zwei intakte Backups. Das schützt vor
+einem Ausfall eines der Backup-Medien. Wer ganz
+sicher gehen und seine Medien auch vor Feuer und
+Naturkatastrophen schützen will, lagert die gerade
+unbenutzten Medien zudem an verschiedenen Orten.
+Weitere drei Tapes (Woche-1 bis Woche-3: die Väter)
+verwenden sie hintereinander jeden Freitag zu einer
+erneuten Vollsicherung. Am letzten Freitag jedes
+Monats ersetzen Sie die Sicherung eines Wochen-
+bands durch das Voll-Backup auf ein Monatsband
+(Jan, Feb, Mrz, ... : die Großväter).
+Mit diesen nur 19 Bändern erfassen Sie die Daten
+eines ganzen Jahres und können diese jederzeit - aller-
+dings nur in gewissen Abstufungen - wiederherstellen.
+Die Daten der letzten fünf Arbeitstage lassen sich
+tagesgenau rekonstruieren, die des letzten Monats nur
+zum jeweiligen Stand des Freitags. Files aus weiter
+zurückliegenden Monaten schließlich liegen nur noch
+in der Version vom Monatsende vor - aber immerhin
+...
+Neben der Nutzung der vorgeplanten Bandrotations-
+schemata erlaubt eine gute Managementkonsole auch
+die Definition eigener, auf spezielle Anforderungen
+zugeschnittener Backup-Jobs. Dabei sollte Ihnen das
+System die Wahl zwischen der differenziellen und
+inkrementellen Arbeitsweise lassen; nicht immer ist
+die Platz und Zeit raubendere Zuwachssicherung
+erforderlich.
+Umfassende Alarmierungsmöglichkeiten - nicht nur
+Backup mit Konzept: Großvater -
+Vater - Sohn - Prinzip
+Das verbreitetste Rotationsschema ist die dreistufige
+Großvater-Vater-Sohn-Methode. Ausgehend von ei-
+nem erstmaligen Voll-Backup führen Sie dabei an
+jedem Wochentag eine inkrementelle Sicherung
+durch. Dazu benötigen Sie vier Bänder (Mo, Di, Mi,
+Do: die Söhne).
+```
+
+### Seite 98
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 98](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=98>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=98]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=98]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+16 2026
+Praktiker - Technik Magazin
+oder NAS - verwendet, muss sich hierüber keine
+Gedanken machen, wer jedoch andere Hardware
+nutzt, sollte die Treiber dafür sichern - und zwar auf
+USB-Medien, sonst hat man die Treiber womöglich auf
+einem Medium, das man gerade eben mangels
+installierter Treiber nicht lesen kann.
+Es gibt drei Varianten, die Backup-Daten auf einem
+Medium abzulegen: erstens roh, also so wie sie sind.
+Zweitens mit einem gängigen Archivformat gepackt,
+wie etwa ZIP. Viele Backup-Programme nutzen
+drittens ein eigenes proprietäres Format, das nur sie
+selbst beherrschen. Während es bei den ersten beiden
+Varianten leicht sein wird, nach einem Datenverlust
+wieder an die Daten zu kommen, muss man bei der
+dritten nicht nur die Daten selbst, sondern auch das
+Backup-Programm sichern. Gleiches gilt auch für das
+Betriebssystem oder andere Zusatzsoftware, auf die
+Es ist nicht die Frage ob etwas
+ausfällt – sondern einzig und
+allein wann Datenverlust auftritt
+per LAN und Ausdruck, sondern auch remote per E-
+Mail, Fax oder SMS - sorgen dafür, dass der Adminis-
+trator ortsunabhängig sofort von Fehlern bei der
+Ausführung von Backup-Jobs informiert wird.
+das Backup-Programm angewiesen ist. Die gesamte
+benötigte Software darf man natürlich nicht mit dem
+Programm sichern, sondern nur roh oder allenfalls
+gezippt - sonst steht man hinterher nur mit einem
+nutzlosen Archiv da.
+Wiederherstellen
+Ebenso wichtig wie das korrekte Anfertigen des
+Backups ist natürlich auch, dass sich die Daten im
+Notfall daraus wiederherstellen lassen. Dazu muss
+man auf die Medien auch nach einem Datenverlust
+noch zugreifen können. Wer zum Backup
+Standardmedien, wie USB-Sticks, USB-Festplatten
+Medienauswahl
+Abschließend ist noch die Frage zu behandeln, auf
+welche Speichermedien man seine Daten denn nun
+sichert. In die Überlegungen sollten nicht nur
+Selbstverständlichkeiten wie ausreichender Speicher-
+platz und der Unterstützung durch das verwendete
+Betriebssystem mit einfließen.
+Die Medien sollten eine echte Trennung zwischen
+Originaldaten und Backup ermöglichen. Ein RAID-
+System ersetzt also kein Backup, denn es schützt
+nicht vor einem Virus, der alle Daten auf dem PC
+löscht.
+Bestimmte Speichermedien (SSD-Schreibzyklen) las-
+sen sich nicht unendlich oft wiederbeschreiben.
+Deshalb muss man sie nach einer gewissen Zeit
+austauschen. Wer die Daten zudem archivieren will,
+sollte auch auf die Lebensdauer der Medien achten.
+Im Zweifel kommt man nicht umhin, nach einer
+gewissen Zeit die Medien zu ersetzen. Als An-
+haltspunkt kann man den Hersteller nach der
+Mindesthaltbarkeit fragen und zur Sicherheit von dem
+genannten Wert noch mal kräftig etwas abziehen. Des-
+halb wird im Profibereich immer noch magnetisch.
+z.B. auf Bändern oder auf Festplatten (NAS) ge-
+speichert.
+Auch auf die korrekte Lagerung der Medien sollte man
+achten, denn falsche Lagerung etwa mit direkter
+Sonneneinstrahlung verkürzt ihre Lebensdauer. Wer
+seine Diplomarbeit zudem auch vor Bränden und
+Naturkatastrophen schützen will, kommt nicht umhin,
+die Backups entweder auszulagern, beispielsweise bei
+Freunden, Verwandten oder in der Cloud. Oder er
+deponiert die angefertigten Backups in einem
+feuerfesten Tresor.
+```
+
+### Seite 99
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 99](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=99>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=99]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=99]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+17 2026
+Praktiker - Technik Magazin
+LANGZEITARCHIV
+AUF MAGNETBAND
+Magnetbänder bieten kosten-
+günstige und langlebige Archivie-
+rung für Langzeit‑Backups. Hier ein
+typisches Bandsystem mit mehreren
+Laufwerken und Kar-tuschen, ideal
+für die 3‑2‑1‑Backup‑Strategie, da
+Bänder leicht offline und extern
+gelagert werden können.
+Alternativ bietet sich auch ein Backup über das Netz
+an: Wahlweise in einem lokalen Netzwerk oder via
+Internet. Das lokale Netzwerk hat den Vorteil, dass es
+eine enorm bequeme Lösung ist, denn hier lässt sich
+das Backup fast komplett automatisieren - lediglich
+den Netzschalter des Zielrechners muss man noch
+manuell betätigen. Ist der Zielrechner nach dem
+Backup wieder aus, haben weder Viren noch Fehlgriffe
+des Anwenders eine Chance, die gesicherten Daten zu
+beschädigen. Vor umgefallenen Cola-Gläsern, Bränden
+oder Naturkatastrophen schützt das allerdings nicht.
+Solchen Schutz bietet erst das Backup via Internet.
+Dabei entstehen aber gleich mehrere andere
+Probleme: Zuerst ist ein Server zu finden, der
+ausreichenden Platz für die zu sichern den Daten
+bietet. Dann ist natürlich der Datenschutz zu
+berücksichtigen (ist der Cloud-Anbieter vertrauens-
+würdig, sind es deutsche Server - die dem deutschen
+Recht unterliegen? etc.)
+Die Bandbreite heutiger Online-Verbindungen lässt
+allerdings das Übertragen großer Datenmengen auf
+einen anderen Rechner noch nicht immer zu -selbst
+mit einem ADSL-Anschluss. Empfehlenswert ist hier
+also eine Kombination: Einmal pro Woche ein Voll-
+Lokale Backups sind schnell und
+bequem, Online-Backups
+schützen besser vor Katastro-
+phen. Wenn Backups bei Dritten
+liegen, sollten die Daten immer
+verschlüsselt werden.
+Backup auf externer Festplatte oder USB-Stick
+persönlich auslagern und an den anderen Tagen ein
+inkrementelles Backup via Internet übertragen, etwa
+per VPN-Verbindung. Darüber lässt sich dann auch
+ein Vergleich der Originaldaten und des Backups
+vornehmen. Alternativ kann man auch vor der
+Übertragung Prüfsummen der zu sichernden Dateien
+bilden und diese mitschicken. Dann kann der
+Zielrechner ebenfalls Prüfsummen bilden und beide
+vergleichen.
+Unabhängig von der Auswahl der Medien sollte man
+noch eines beachten: Wenn man sein Backup Dritten
+anvertraut, erhalten diese Zugriff auf persönliche
+Daten. Will man das nicht, bleibt alternativ ein
+Banktresor oder aber das Verschlüsseln der Daten,
+beispielsweise mit PGP. Von besonderer Wichtigkeit
+ist dann jedoch, alle nötigen Schlüssel so zu sichern,
+dass man auch im Notfall zwar selbst wieder
+herankommt, aber sonst eben niemand.
+```
+
+### Seite 100
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 100](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=100>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=100]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=100]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+18 2026
+Praktiker - Technik Magazin
+Verschlüsselung im
+Internet:
+Warum sie in der IT
+unverzichtbar ist
+Beim Online‑Einkauf werden sensible Daten wie
+Zugangsdaten, Zahlungsinformationen und
+Bestelldetails übertragen. Diese Datenpakete laufen
+dabei über verschiedene Netze und
+Zwischenstationen, die nicht vollständig unter eigener
+Kontrolle stehen. Verschlüsselung sorgt dafür, dass
+Dritte die Inhalte nicht einfach mitlesen können, selbst
+wenn sie den Datenverkehr abfangen. Gleichzeitig
+schützen moderne Verfahren auch vor Manipulation:
+Änderungen an der Übertragung werden erkannt,
+sodass keine unbemerkt veränderten Bestellungen
+oder umgeleiteten Zahlungsdaten entstehen. Ergänzt
+durch Zertifikate hilft Verschlüsselung außerdem, die
+Gegenstelle zu prüfen – damit die Verbindung wirklich
+zum echten Shop und nicht zu einer gefälschten Seite
+aufgebaut wird. So wird aus einer riskanten
+Datenübertragung ein geschützter und
+nachvollziehbarer Kommunikationskanal.
+Ob E‑Mail, Web-App, VPN, Cloud-Speicher oder
+API‑Traffic: Im Internet laufen Daten über viele Netze
+und Systeme, die nicht unter eigener Kontrolle stehen.
+Ohne Schutz können Inhalte mitgelesen, manipuliert
+oder unter falscher Identität eingeschleust werden
+(z. B. Man‑in‑the‑Middle, kompromittierte WLANs,
+manipulierte Router, kompromittierte Endgeräte).
+Verschlüsselung ist deshalb nicht nur
+„Geheimschrift“
+, sondern ein Werkzeug, um
+Vertraulichkeit (niemand liest mit), Integrität (nichts
+wird unbemerkt verändert) und oft auch Authentizität
+(Gegenstelle ist echt) in dynamischen IT‑Umfeldern
+abzusichern. Für IT‑Admins heißt das:
+Verschlüsselung ist Basis-Hygiene für Resilienz – sie
+reduziert die Schadenshöhe bei Vorfällen und macht
+Angriffe deutlich teurer.
+```
+
+### Seite 101
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 101](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=101>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=101]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=101]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+19 2026
+Praktiker - Technik Magazin
+Der große Vorteil symmetrischer Verschlüsselung ist
+die Geschwindigkeit: Sie ist so effizient, dass sie für
+große Datenmengen praktisch immer die erste Wahl
+ist (z. B. Festplattenverschlüsselung, Datei- und
+Backupverschlüsselung, Datenkanäle in VPNs).
+Der entscheidende Nachteil ist das Schlüssel-
+verteilungsproblem: Beide Seiten müssen den
+geheimen Schlüssel besitzen, aber genau dieser
+Schlüssel darf nicht über einen unsicheren Kanal
+Chiffretext. Moderne Verfahren arbeiten dabei nicht
+„Buchstabe für Buchstabe“
+, sondern mathematisch auf
+Bits/Blöcken: Blockchiffren (z. B. AES) verarbeiten
+Daten in festen Blöcken und brauchen zusätzlich
+Einstellungen wie einen Initialisierungswert/Nonce
+und einen Betriebsmodus. Diese Nonce ist nicht
+geheim, muss aber (je nach Modus) einzigartig sein,
+damit sich Muster nicht wiederholen. Sehr üblich ist
+heute ein sogenanntes AEAD-Verfahren wie AES‑GCM
+oder ChaCha20‑Poly1305: Dabei wird nicht nur
+verschlüsselt, sondern gleichzeitig eine
+Prüfinformation (Tag/MAC) erzeugt, mit der der
+Empfänger erkennt, ob die Daten unterwegs verändert
+wurden. Beim Entschlüsseln prüft der Empfänger
+zuerst diesen Tag; nur wenn er stimmt, wird der Chif-
+fretext mit dem gleichen Schlüssel wieder zu Klartext.
+“ Symmetrische
+Verschlüsselung ist das
+Arbeitspferd der IT:
+schnell, robust – solange der
+Schlüssel geheim bleibt.
+“
+SYMMETRISCHE
+VERSCHLÜSSELUNG
+Bei der symmetrischen Verschlüsselung verwenden
+Sender und Empfänger denselben geheimen Schlüssel.
+Dieser Schlüssel ist das zentrale Geheimnis: Mit ihm
+wird die Nachricht in eine unlesbare Form umge-
+wandelt (Verschlüsselung) und mit dem gleichen
+Schlüssel beim Empfänger wieder in Klartext zurück-
+verwandelt (Entschlüsselung). Man kann sich das wie
+ein Vorhängeschloss vorstellen, für das beide Seiten
+einen identischen Schlüssel besitzen: Wer den Schlüs-
+sel hat, kann die Daten öffnen – wer ihn nicht hat, sieht
+nur „Datenmüll“
+.
+In der Praxis läuft das so ab: Zuerst muss feststehen,
+welche Daten geschützt werden sollen (z. B. eine Datei,
+ein Backup-Archiv, eine Datenbank, ein VPN-Daten-
+strom). Dann einigen sich beide Seiten auf einen
+Algorithmus (z. B. AES) und auf einen Schlüssel mit
+ausreichender Länge (z. B. 256 Bit). Beim Ver-
+schlüsseln nimmt der Algorithmus den Klartext und
+den Schlüssel als Eingabe und erzeugt daraus den
+```
+
+### Seite 102
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 102](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=102>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=102]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=102]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+20 2026
+Praktiker - Technik Magazin
+regel: Symmetrische Verschlüsselung ist „die schnelle
+Arbeitspferd‑Technik“
+– sicher und performant,
+solange der Schlüssel wirklich geheim bleibt und
+moderne Modi mit Integritätsschutz verwendet
+werden.
+“ Öffentlich verschlüsseln,
+privat entschlüsseln “
+(z. B. normale E‑Mail/Internet ohne Schutz) in falsche
+Hände geraten. Wird der Schlüssel abgefangen oder
+später gestohlen, kann ein Angreifer alle damit
+verschlüsselten Daten lesen – und ohne Integritäts-
+schutz ggf. sogar unbemerkt manipulieren. Zusätzlich
+wird das Management bei vielen Partnern aufwendig:
+Für jede sichere Beziehung braucht man entweder
+getrennte Schlüssel oder ein sauberes System zur
+Schlüsselverwaltung und -rotation.
+Typische Beispiele für symmetrische Verfahren sind
+AES (z. B. AES‑256‑GCM) und ChaCha20‑Poly1305.
+Historische Verfahren wie DES/3DES gelten heute als
+veraltet und sollten in neuen Systemen nicht mehr
+eingesetzt werden. Wichtig für Admins ist als Faust-
+er aufbewahrt. Das Prinzip ist einfach: Was mit dem
+Public Key verschlüsselt wird, kann nur mit dem
+passenden Private Key entschlüsselt werden. Dadurch
+entfällt das klassische Problem der symmetrischen
+Verschlüsselung, einen gemeinsamen geheimen
+Schlüssel vorab über einen unsicheren Kanal aus-
+tauschen zu müssen.
+Für die Praxis ist aber noch ein zweiter Anwen-
+dungsfall mindestens genauso wichtig: digitale Sig-
+naturen. Dabei wird nicht „geheim gemacht“
+, sondern
+„beweisbar gemacht“
+. Der Absender erzeugt mit
+seinem Private Key eine Signatur über den Inhalt
+(vereinfacht: über einen Hash der Nachricht). Der
+Empfänger kann diese Signatur anschließend mit dem
+Public Key des Absenders prüfen. Stimmt die Prüfung,
+weiß der Empfänger zweierlei: Die Nachricht wurde
+nicht verändert (Integrität) und sie stammt mit hoher
+Wahrscheinlichkeit vom richtigen Absender (Authen-
+tizität) – vorausgesetzt, der Public Key gehört wirklich
+zu dieser Person/Firma.
+ASYMMETRISCHE
+VERSCHLÜSSELUNG
+Bei der asymmetrischen Verschlüsselung (Public‑Key‑
+Verschlüsselung) besitzt jede Person oder Organi-
+sation zwei zusammengehörige Schlüssel: einen Pu-
+blic Key und einen Private Key. Der Public Key darf
+offen verteilt werden – per Website, Key‑Server oder
+Zertifikat – und dient dazu, Daten an den Besitzer die-
+ses Schlüsselpaares zu verschlüsseln. Der Private Key
+bleibt dagegen strikt geheim und wird nur vom Besitz-
+Genau hier liegt der Knackpunkt im Admin‑Alltag:
+Asymmetrische Kryptografie funktioniert nur dann
+sauber, wenn man dem Public Key vertrauen kann. In
+der Realität wird dieses Vertrauen über Zertifikate
+und PKI hergestellt (z. B. bei TLS/HTTPS): Eine
+Zertifizierungsstelle bestätigt, dass ein bestimmter
+Public Key zu einer bestimmten Domain/Organisation
+gehört. Ohne solche Prüfmechanismen droht der
+Klassiker Man‑in‑the‑Middle: Ein Angreifer schmuggelt
+seinen eigenen Public Key unter, die Nachricht wird
+dann an ihn verschlüsselt – und obwohl „verschlüs-
+selt“ übertragen wird, ist die Kommunikation dennoch
+unsicher.
+Warum nutzt man asymmetrische Verfahren nicht
+einfach für alle Daten? Weil sie im Vergleich zu
+symmetrischen Verfahren deutlich langsamer und
+rechenintensiver sind. Asymmetrie ist perfekt, um
+Identitäten abzusichern, Signaturen zu erzeugen und
+Schlüssel sicher auszutauschen – aber für große
+Anhänge, Datenstreams oder Backups wäre „alles
+```
+
+### Seite 103
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript_Wittmann.pdf Seite 103](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=103>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=103]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=103]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+21 2026
+Praktiker - Technik Magazin
+Hybride Verschlüsselung kombiniert asymmetrische und symmetrische
+Verfahren:
+Die eigentlichen Daten werden schnell symmetrisch mit einem zufälligen
+Sitzungsschlüssel (z. B. AES) verschlüsselt, und nur dieser Sitzungsschlüssel
+wird asymmetrisch mit dem Public Key des Empfängers geschützt (oder per
+(EC)DH ausgehandelt). So bekommt man Performance wie bei
+symmetrischer Verschlüsselung und löst gleichzeitig das Schlüssel-
+verteilungsproblem der Symmetrie.
+asymmetrisch“ unnötig langsam.
+Typische Verfahren sind RSA (klassisch für Signaturen
+und Key‑Transport) und ECC (Elliptic Curve
+Cryptography), etwa ECDSA für Signaturen und ECDH
+für Schlüsselaustausch. Für Admins gilt als Merksatz:
+Asymmetrische Kryptografie löst das Vertrauens‑ und
+Verteilungsproblem (Public Keys können öffentlich
+sein) und ermöglicht Signaturen – aber sie braucht
+sauberes Zertifikats-/Key‑Management und ist deshalb
+meist der Baustein für den Start einer sicheren
+Verbindung, nicht der Motor für die komplette
+Datenverschlüsselung.
+Hybride Verschlüsselung –
+der Praxisstandard für E‑Mail,
+Web und VPN:
+symmetrische Daten,
+asymmetrische Schlüssel
+FAZIT
+Unterm Strich ist Verschlüsselung kein „Nice to have“
+,
+sondern ein Grundbaustein für resiliente IT: Sie
+schützt Kommunikation und Daten vor Mitlesen,
+Manipulation und Identitätsbetrug. Symmetrische
+Verfahren liefern die nötige Performance für große
+Datenmengen, scheitern aber ohne sauberes
+Schlüsselmanagement am Austausch geheimer
+Schlüssel. Asymmetrische Verfahren lösen genau
+dieses Verteilungs- und Vertrauensproblem und
+ermöglichen digitale Signaturen, sind dafür aber zu
+rechenintensiv für Massendaten. In der Praxis führt
+deshalb kaum ein Weg an Verschlüsselung vorbei.
+```

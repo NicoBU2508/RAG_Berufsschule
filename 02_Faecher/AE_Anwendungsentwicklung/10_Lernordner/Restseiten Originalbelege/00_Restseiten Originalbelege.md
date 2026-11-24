@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Restseiten Originalbelege** im Fach **AE Anwendungsentwicklung**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=3|01AlgorithmusProgrammSoftwareEVA S. 3]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=28|01AlgorithmusProgrammSoftwareEVA S. 28]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=30|01AlgorithmusProgrammSoftwareEVA S. 30]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=36|01AlgorithmusProgrammSoftwareEVA S. 36]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=48|01AlgorithmusProgrammSoftwareEVA S. 48]]; [[99_Originale/Basics/JAVA/Java Basics.pdf#page=1|Java Basics S. 1]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=3|01AlgorithmusProgrammSoftwareEVA S. 3]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=28|01AlgorithmusProgrammSoftwareEVA S. 28]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=30|01AlgorithmusProgrammSoftwareEVA S. 30]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=36|01AlgorithmusProgrammSoftwareEVA S. 36]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=48|01AlgorithmusProgrammSoftwareEVA S. 48]]; [[99_Originale/Basics/JAVA/Java Basics.pdf#page=1|Java Basics S. 1]].
 > - **Zentrale Suchbegriffe:** Restseiten, Originalbelege, 01AlgorithmusProgrammSoftwareEVA, JAVAJavaBasics, StolStol.
 > - **Prüfungsbezug:** AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -56,13 +56,13 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=3>) | 01_Algorithmus_Programm_Software_EVA Seite 3 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 28](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=28>) | 01_Algorithmus_Programm_Software_EVA Seite 28 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=30>) | 01_Algorithmus_Programm_Software_EVA Seite 30 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 36](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=36>) | 01_Algorithmus_Programm_Software_EVA Seite 36 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=48>) | 01_Algorithmus_Programm_Software_EVA Seite 48 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=3>) | 01_Algorithmus_Programm_Software_EVA Seite 3 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 28](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=28>) | 01_Algorithmus_Programm_Software_EVA Seite 28 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=30>) | 01_Algorithmus_Programm_Software_EVA Seite 30 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 36](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=36>) | 01_Algorithmus_Programm_Software_EVA Seite 36 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=48>) | 01_Algorithmus_Programm_Software_EVA Seite 48 | Quellenreferenz/Keyword/chronologische Themenstruktur |
 | 6 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics\|JAVA_Java_Basics]] | [Java Basics.pdf Seite 1](<../../../../99_Originale/Basics/JAVA/Java Basics.pdf#page=1>) | JAVA_Java_Basics Seite 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 2](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=2>) | Stol_Stol Seite 2 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [Stößl.pdf Seite 2](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=2>) | Stol_Stol Seite 2 | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -71,11 +71,11 @@ tags:
 #### Seite 3: 01_Algorithmus_Programm_Software_EVA Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=3]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=3]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 
@@ -89,11 +89,11 @@ tags:
 #### Seite 28: 01_Algorithmus_Programm_Software_EVA Seite 28
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 28](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=28>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=28]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 28](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=28>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=28]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=28]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 
@@ -107,11 +107,11 @@ tags:
 #### Seite 30: 01_Algorithmus_Programm_Software_EVA Seite 30
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=30>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=30]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=30>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=30]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=30]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 
@@ -125,11 +125,11 @@ tags:
 #### Seite 36: 01_Algorithmus_Programm_Software_EVA Seite 36
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 36](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=36>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=36]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 36](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=36>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=36]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=36]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 
@@ -143,11 +143,11 @@ tags:
 #### Seite 48: 01_Algorithmus_Programm_Software_EVA Seite 48
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=48>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=48]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=48>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=48]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=48]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 
@@ -183,11 +183,11 @@ tags:
 #### Seite 2: Stol_Stol Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF: [Stößl.pdf Seite 2](<../../../../99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=2]]`
+> - PDF: [Stößl.pdf Seite 2](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=2]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 

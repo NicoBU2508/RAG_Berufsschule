@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Urheberrecht.md (Seiten 1–5)",
+  "replaces_existing": false,
+  "topic_categories": {
+    "Urheberrecht": "Wirtschaft_und_Recht"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Urheberrecht.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/00_Skript_Urheberrecht.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Urheberrecht",
+        "secondary_topics": [
+          "UrhG",
+          "Werkbegriff",
+          "Bildrechte"
+        ],
+        "recommended_topics": [
+          "Urheberrecht"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Gedrucktes Arbeitsblatt ohne Textschicht; vollständig visuell transkribiert (QR-Verweis ohne URL)"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Urheberrecht.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/00_Skript_Urheberrecht.pdf",
+      "page": 2,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Urheberrecht",
+        "secondary_topics": [
+          "Zitierrecht",
+          "Texte und E-Books",
+          "Fotos Musik und Filme"
+        ],
+        "recommended_topics": [
+          "Urheberrecht"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Gedrucktes Arbeitsblatt ohne Textschicht; vollständig visuell transkribiert (QR-Verweis ohne URL)"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Urheberrecht.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/00_Skript_Urheberrecht.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Urheberrecht",
+        "secondary_topics": [
+          "Filesharing",
+          "Privatkopie und Kopierschutz",
+          "Creative Commons",
+          "Abmahnung"
+        ],
+        "recommended_topics": [
+          "Urheberrecht"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Gedrucktes Arbeitsblatt ohne Textschicht; vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Urheberrecht.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/00_Skript_Urheberrecht.pdf",
+      "page": 4,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Urheberrecht",
+        "secondary_topics": [
+          "Öffentliche Vorführung",
+          "Social Media",
+          "Musikrechte"
+        ],
+        "recommended_topics": [
+          "Urheberrecht"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Gedrucktes Arbeitsblatt ohne Textschicht; vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Urheberrecht.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/00_Skript_Urheberrecht.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Urheberrecht",
+        "secondary_topics": [
+          "E-Book-Weiterverkauf",
+          "Recht am eigenen Bild",
+          "Schutzdauer"
+        ],
+        "recommended_topics": [
+          "Urheberrecht"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Gedrucktes Arbeitsblatt ohne Textschicht; vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Aufgaben Übungen und Lösungen** im Fach **Deutsch**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6|Deutsch S. 6]]; [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8|Deutsch S. 8]]; [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10|Deutsch S. 10]]; [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11|Deutsch S. 11]]; [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=12|Deutsch S. 12]]; [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=13|Deutsch S. 13]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6|Deutsch S. 6]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8|Deutsch S. 8]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10|Deutsch S. 10]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11|Deutsch S. 11]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=12|Deutsch S. 12]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=13|Deutsch S. 13]].
 > - **Zentrale Suchbegriffe:** Unternehmensleitbild, Übung, Einführung, Projektmanagement, Projektmanager, Projekt, Planen, Überwachen, Steuern.
 > - **Prüfungsbezug:** AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -62,34 +62,34 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6>) | Unternehmensleitbild | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8>) | Unternehmensleitbild – Übung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10>) | Einführung in das Projektmanagement | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 11](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11>) | Der Projektmanager | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 12](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=12>) | Einführung in das Projektmanagement | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 13](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=13>) | Das Projekt von der Idee bis zum Abschluss | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=18>) | 2. Planen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 19](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=19>) | 4. Überwachen und Steuern | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=21>) | Projektziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 23](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=23>) | Projekt Kick-Off-Meeting | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=24>) | Das Lastenheft | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 26](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=26>) | Das Pflichtenheft | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 32](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=32>) | Vorbereitung auf das Kundengespräch | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 33](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=33>) | Deutsch Seite 33 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 34](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=34>) | Feststellung des Ist-Zustandes und Festlegung des Soll-Zustandes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=35>) | Lösungsvorschläge im Pflichtenheft formulieren | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 17 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=36>) | Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 18 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37>) | Für jede Art von Zusammentreffen zwischen Menschen gilt: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 19 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38>) | Das Sender-Empfänger-Modell der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 20 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=41>) | Aufgabe 4: Beantworte die Fragen zum 4-Ohren-Modell. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 21 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 44](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=44>) | Aufgabe 5: Prüfungsvorbereitung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 22 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=46>) | Aufgabe 6: Bearbeite die Aufgaben zum Eisberg-Modell. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 23 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 3](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3>) | Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 24 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 5](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5>) | Station 2 – das oder dass | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 25 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7>) | Station 3 – Kommasetzung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 26 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9>) | Aufgabe 1: Auto, homo, poly - Fremdwörter mit griechischer Wurzel | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 27 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10>) | Aufgabe 2: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 28 | [[02_Faecher/Deutsch/Quellen/Station_1\|Station_1]] | [Station 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=2>) | Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6>) | Unternehmensleitbild | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8>) | Unternehmensleitbild – Übung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10>) | Einführung in das Projektmanagement | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 11](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11>) | Der Projektmanager | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 12](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=12>) | Einführung in das Projektmanagement | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 13](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=13>) | Das Projekt von der Idee bis zum Abschluss | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=18>) | 2. Planen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 19](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19>) | 4. Überwachen und Steuern | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=21>) | Projektziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 23](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=23>) | Projekt Kick-Off-Meeting | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=24>) | Das Lastenheft | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 26](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=26>) | Das Pflichtenheft | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 32](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=32>) | Vorbereitung auf das Kundengespräch | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 33](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=33>) | Deutsch Seite 33 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 34](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=34>) | Feststellung des Ist-Zustandes und Festlegung des Soll-Zustandes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=35>) | Lösungsvorschläge im Pflichtenheft formulieren | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 17 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36>) | Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 18 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37>) | Für jede Art von Zusammentreffen zwischen Menschen gilt: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 19 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38>) | Das Sender-Empfänger-Modell der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 20 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41>) | Aufgabe 4: Beantworte die Fragen zum 4-Ohren-Modell. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 21 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 44](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=44>) | Aufgabe 5: Prüfungsvorbereitung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 22 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=46>) | Aufgabe 6: Bearbeite die Aufgaben zum Eisberg-Modell. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 23 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 3](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3>) | Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 24 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 5](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5>) | Station 2 – das oder dass | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 25 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7>) | Station 3 – Kommasetzung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 26 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9>) | Aufgabe 1: Auto, homo, poly - Fremdwörter mit griechischer Wurzel | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 27 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10>) | Aufgabe 2: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 28 | [[02_Faecher/Deutsch/Quellen/Station_1\|Station_1]] | [Station 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=2>) | Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung. | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -98,11 +98,11 @@ tags:
 #### Seite 6: Unternehmensleitbild
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6]]`
+> - PDF: [Deutsch.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 02_Unternehmensleitbild & Corporate Identity Klasse: Datum: Unternehmensleitbild Philosophie = Werte und Normen Mission = Aufgaben und Zwecke zur Erfüllung der Vision Vision = Ein klares Bild von der Zukunft Langfristige abstrakte Ziele Unternehmensleitbild = Abgeleitete Verhaltensrichtlinien, die das Selbstverständnis eines Unternehmens widerspiegeln sollen Funktionen eines Unternehmensleitbildes • Orientierungsfunktion Mitarbeiter kennen die Ziele der Organisation und können diese als Orientierungspunkte für ihr Handeln nutzen. • Motivationsfunktion Mitarbeiter sollen einen Sinn in Ihrer täglichen Arbeit sehen – wirkt unterstützend und fördert den Aufbau der intrinsischen Motivatio …
@@ -159,11 +159,11 @@ Gefühl.
 #### Seite 8: Unternehmensleitbild – Übung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8]]`
+> - PDF: [Deutsch.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 02_Unternehmensleitbild & Corporate Identity Klasse: Datum: Unternehmensleitbild – Übung Stefan Becker und Max Fröling haben bereits einige Ideen für das Unternehmensleitbild der IN Bike. Allerdings ist einiges durcheinandergeraten. Aufgabe: Gib an, ob die folgenden Aussagen der Präambel, dem Kernleitbild oder den Leitsätzen zugeordnet werden. Aussage Bestandteil des U-Leitbildes Hoher regionaler Marktanteil Errichtung einer Kantine sowie eines Kindergartens für Mitarbeiterkinder Um den Verkauf der Fahrräder in Ingolstadt erfolgreich starten zu können, hat die Qualität oberste Priorität. Eröffnung eines zweiten Standorts in Eichstätt Qualitativ hochwertige Fahrräder Umweltschonende P …
@@ -226,11 +226,11 @@ Präambel
 #### Seite 10: Einführung in das Projektmanagement
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10]]`
+> - PDF: [Deutsch.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Einführung in das Projektmanagement a) Was ist ein Projekt? Eine Lexikon-Definition zum Stichwort: Projektmanagement Planungs-, Steuerungs- und Kontrollaktivitäten, die bei zeitlich befristeten, relativ innovativen und risikobehafteten Vorhaben mit komplexer Struktur, vorgegebenen Terminen und limitierten Kosten anfallen. Im Zuge der Verbreitung der elektronischen Datenverarbeitung, der dezentralen Entwicklung/Umsetzung von Projekten und der Vernetzung (Internet/Intranet) spielt Projektmanagement-Software heute eine große Rolle. Sie muss alle Projektressourcen darstellen, Projektdaten zur Verfügung stellen können (wobei häufig unterschiedliche EDV- …
@@ -296,11 +296,11 @@ Der Auftraggeber kann zu dem projektdurchführenden Unternehmen gehören
 #### Seite 11: Der Projektmanager
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 11](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11]]`
+> - PDF: [Deutsch.pdf Seite 11](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Der Projektmanager Der Projektmanager hat die Autorität und die Verantwortung, um die Anforderung des Projektes innerhalb der gesetzten Kosten- und Zeitgrenzen zu erfüllen. Die Anforderungen (und die damit verbundenen Eigenschaften) an den Projektmanager sind vielfältig: • Pläne strukturieren • Das Projektteam und -umfeld von der Projektidee und dem Projektplan überzeugen • Das Projekt von der Idee bis zum Abschluss organisieren • Klar definierte Projektziele erstellen • Mitarbeiter motivieren und unterstützen • Problemlösungen unterstützen • Zeit- und Geldverschwendung eliminieren • Fortschritt und Leistung eines Projektes messen • Informationssys …
@@ -367,11 +367,11 @@ Evtl. betroffene Organisationen
 #### Seite 12: Einführung in das Projektmanagement
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 12](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=12]]`
+> - PDF: [Deutsch.pdf Seite 12](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=12]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Einführung in das Projektmanagement a) Was ist ein Projekt? Aufgabe 1: Liste alle Merkmale eines Projektes auf. Präge sie dir gut ein! Merkmale von Projekten: • ________________________________________________________ • ________________________________________________________ • ________________________________________________________ • ________________________________________________________ • ________________________________________________________ • ________________________________________________________ • ________________________________________________________ • ________________________________________________________ • _______________________ …
@@ -446,11 +446,11 @@ Argumentationsstärke ,
 #### Seite 13: Das Projekt von der Idee bis zum Abschluss
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 13](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=13>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=13]]`
+> - PDF: [Deutsch.pdf Seite 13](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=13>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=13]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=13]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Das Projekt von der Idee bis zum Abschluss organisieren Mitarbeiter motivieren unterstützen Problemlösungen unterstützen Zeit- und Geldverschwendung eliminieren Fortschritt und Leistung eines Projektes messen Informationssysteme nutzen Vorhandene Ressourcen (Wissen und Mitarbeiter) nutzen und effektiv einsetzen 3. Das Projektteam Aufgabe 4: Wie setzt sich das Projektteam zusammen? __________________________________________________________________________________ __________________________________________________________________________________ __________________________________________________________________________________ _______________________ …
@@ -532,11 +532,11 @@ des Projektes
 #### Seite 18: 2. Planen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=18>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=18]]`
+> - PDF: [Deutsch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=18>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=18]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=18]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: 2 2. Planen Beim Planen werden folgende Aspekte definiert und geplant: - _____________________________________________________________________________________ _____________________________________________________________________________________ - _____________________________________________________________________________________ _____________________________________________________________________________________ - _____________________________________________________________________________________ - _____________________________________________________________________________________ - ___________________________________________________________ …
@@ -620,11 +620,11 @@ werden nicht erreicht
 #### Seite 19: 4. Überwachen und Steuern
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 19](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=19>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=19]]`
+> - PDF: [Deutsch.pdf Seite 19](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=19]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: 3 4. Überwachen und Steuern ___________________________________________________________________________________________ ___________________________________________________________________________________________ ___________________________________________________________________________________________ ___________________________________________________________________________________________ ___________________________________________________________________________________________ ___________________________________________________________________________________________ ____________________________________________________________________________ …
@@ -701,11 +701,11 @@ Kosten
 #### Seite 21: Projektziele
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=21>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=21]]`
+> - PDF: [Deutsch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=21>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=21]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=21]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: 5 Projektziele Bevor die eigentliche Arbeit am Projekt beginnt, ist es wichtig sich Ziele zu setzen. Die Ziele gelten für die gesamte Projektdauer und gelten für alle Beteiligten als Richtschnur. An der Erreichung der Projektziele wird letztendlich der Erfolg des Projektes gemessen. Zielformulierung → SMART ! Für die Formulierung von Projektzielen gibt es Regeln, einige davon: - Ziele müssen schriftlich formuliert sein - Die Ziele müssen erreichbar sein - Die Ziele müssen objektiv messbar sein - Die Ziele müssen positiv formuliert sein Die Projektziele haben weiterhin verschiedene Zielfunktionen - Präzisierungsfunktion - Orientierungsfunktion - Mot …
@@ -779,11 +779,11 @@ Projektziel
 #### Seite 23: Projekt Kick-Off-Meeting
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 23](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=23>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=23]]`
+> - PDF: [Deutsch.pdf Seite 23](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=23>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=23]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=23]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: 7 Projekt Kick-Off-Meeting Das Projekt Kick-Off-Meeting ist die erste offizielle Sitzung des Projektteams, zu der die Projektmitarbeiter vom Projektleiter schriftlich (Tagesordnung) eingeladen werden. In dieser Sitzung geht es noch nicht darum, inhaltlich am Projekt zu arbeiten. Ziel der Sitzung ist es vielmehr, alle Projektbeteiligten miteinander bekannt zu machen und über das Projektziel, die Rollen und die wesentlichen Aufgaben zu informieren. Ablauf eines Projekt-Kick-Off-Meetings Der Projektleiter moderiert die Sitzung. Er begrüßt die Anwesenden und stellt sich Ihnen vor. Er schildert seine Erfahrungen, seine Kompetenz für das anstehende Proje …
@@ -838,11 +838,11 @@ Beziehungsregeln
 #### Seite 24: Das Lastenheft
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=24>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=24]]`
+> - PDF: [Deutsch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=24>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=24]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=24]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Das Lastenheft a) Aufgabe • Das Lastenheft enthält eine Zusammenfassung aller fachlichen Basisanforderungen, die das zu entwickelnde Software-Produkt aus der Sicht des Auftragsgebers erfüllen muss. Basisanforderungen bedeutet eine bewusste Konzentration auf die fundamentalen Eigenschaften des Produkts und ihre Beschreibung auf einem ausreichend hohen Abstraktionsniveau, das die Anforderungen präzise beschreibt, ohne sich in Details zu verlieren. b) Adressaten • Der Auftraggeber verfasst das Lastenheft meist vor dem Projektstart. Dem Auftragnehmer dient es als Grundlage für das Angebot und die Projektplanung. c) Inhalt • Bewusste Konzentration auf d …
@@ -914,11 +914,11 @@ Ein Beispiel für ein Lastenheft findest du auf Teams.
 #### Seite 26: Das Pflichtenheft
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 26](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=26>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=26]]`
+> - PDF: [Deutsch.pdf Seite 26](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=26>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=26]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=26]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Das Pflichtenheft a) Aufgabe • Das Pflichtenheft enthält eine Zusammenfassung aller fachlichen Anforderungen, die das zu entwickelnde Produkt aus der Sicht des Auftraggebers erfüllen muss. Insbesondere werden alle Anforderungen – wie funktionale und nichtfunktionale Anforderungen – aufgeführt. Außerdem werden Entwicklungsprioritäten aus Auftraggebersicht festgelegt. b) Adressaten • Auftraggeber (externe oder interne, z.B. Fachabteilung), Auftragnehmer – repräsentiert durch den Projektleiter – und die Anwendungsspezialisten, Systemanalytiker, Entwerfer, Qualitätssicherer, Benutzerrepräsentant oder ausgewählte potenzielle Benutzer. c) Inhalt • Die In …
@@ -984,11 +984,11 @@ Dokumenten und in späteren Phasen darauf beziehen zu können.
 #### Seite 32: Vorbereitung auf das Kundengespräch
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 32](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=32>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=32]]`
+> - PDF: [Deutsch.pdf Seite 32](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=32>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=32]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=32]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Vorbereitung auf das Kundengespräch Um das Gespräch beim Kunden durchzuführen ist eine gute Vorbereitung notwendig. Aufgabe: Formulieren Sie zu den angegebenen Hauptpunkten jeweils mindestens 2 konkrete Fragen, die Sie an die IN Bike richten werden. Hauptpunkte Fragen (mind. 2) Arbeitsablauf • Wie ist der tägliche Arbeitsablauf? • Wie arbeiten Sie mit der IT? Wo treten hier Probleme auf? Räumliche Gegeben- heiten Hardware Software Internetzugang Zeitliche Vorga- ben - Wie viele Räume haben sie ? - Wo befinden sich Serveräum - Welche Hardwear benutzen sie? - Wollen sie diese erweitern ? - Welche Software benutzen sie ? - sind sie ggt . bereit umzust …
@@ -1055,11 +1055,11 @@ es dringend ?
 #### Seite 33: Deutsch Seite 33
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 33](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=33>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=33]]`
+> - PDF: [Deutsch.pdf Seite 33](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=33>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=33]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=33]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Empfang Platz 1 Platz 2 Platz 3 Platz 4 Drucker NAS HUB PC1 PC2 PC4 PC3 PC5 Gesprächsprotokoll Projekt: Erweiterung Firmennetzwerk, IN Bike, Ingolstadt Anlass: 1. Gespräch zur Bestandsaufnahme und Ermittlung der Kundenwünsche Datum: ________________________ Zeit: 09:00 – 11:00 Uhr Ort: IN Bike, Ingolstadt Ergebnisse: Soll-Zustand: • Netz soll schneller werden (1 Gbit/s) • PCs/NAS/Drucker werden weiterverwendet • Internetzugang auf einen aktuellen Standard upgraden (z.B. 100 Mbit/s) • WLAN ist zunächst nicht vorgesehen WICHTIG: Die IN Bike möchte eine kostengünstige Lösung! Deshalb soll das Büro keine baulichen Änderungen erfahren, z.B. durch den Ei …
@@ -1125,11 +1125,11 @@ sehr langsam!
 #### Seite 34: Feststellung des Ist-Zustandes und Festlegung des Soll-Zustandes
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 34](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=34>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=34]]`
+> - PDF: [Deutsch.pdf Seite 34](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=34>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=34]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=34]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Feststellung des Ist-Zustandes und Festlegung des Soll-Zustandes Gliederungspunkt Inhalt 1. Ausgangssituation Warum benötigen wir überhaupt ein Projekt? 2. Zielsetzung Welches Ziel hat das Projekt? 3. Rahmenbedingungen Welche Rahmenbedingungen hat das Projekt? 4. Funktionale Anforderungen Welche Anforderungen hat das Zielob- jekt? 5. Nichtfunktionale Anforderungen Welche Zusatzeigenschaften soll das Produkt haben? 6. Arbeitsumfang Welche Aufgaben hat unser Unterneh- men? 7. Projektphasen und Meilensteine Welche Meilensteine sind einzuhalten? 8. offene Punkte Was muss noch geklärt werden? 9. Qualitätsanforderungen Wer überprüft die gestellten Anford …
@@ -1221,11 +1221,11 @@ Praxis
 #### Seite 35: Lösungsvorschläge im Pflichtenheft formulieren
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=35>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=35]]`
+> - PDF: [Deutsch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=35>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=35]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=35]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Lösungsvorschläge im Pflichtenheft formulieren Aus den im Kundengespräch gesammelten Informationen sollen die Modernisie- rungsmaßnahmen für das Netzwerk der IN Bike in einem Pflichtenheft schriftlich fest- gehalten werden. Ein Pflichtenheft enthält die vom Auftragnehmer erarbeitete Umsetzung des Lasten- heftes, also die auszuführenden Leistungen. Das Pflichtenheft enthält das Lastenheft. Im Pflichtenheft werden die Anwendervor- gaben detailliert und in einer Erweiterung beschrieben. Meist wird das Pflichtenheft in einen rechtlich-organisatorischen und einen technisch- fachlichen Teil gegliedert. Aufgabe: Erstellen Sie, basierend auf den von Ihnen …
@@ -1292,11 +1292,11 @@ Qualitätsanforderungen
 #### Seite 36: Kommunikation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=36>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=36]]`
+> - PDF: [Deutsch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=36]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 05_Kommunikation Klasse: Datum: Seite 1 von 11 Kommunikation Situation: Als Auszubildende/r führst du täglich Gespräche mit Kollegen, Vorgesetzten, Kunden und Dienstleistern. Welche beruflichen Gespräche hast du in der letzten Woche geführt? Anlass und Thema des Gesprächs Ziele des Gesprächs Teilnehmer/-innen • Warum fand das Gespräch statt? • Was war das Thema des Ge- sprächs? • Wozu diente das Ge- spräch? • Wer hat an dem Gespräch teil- genommen und den Ge- sprächsverlauf bestimmt? Aufgabe 1: Trage die Begriffe Gestik, Mimik, verbale Kommunikation und nonverbale Kommunikation in die untenstehende Tabelle ein. Sprache = gesprochen ODER geschrieben Gestik, Mimik, Tonfall, Körperhaltu …
@@ -1363,11 +1363,11 @@ Mimik
 #### Seite 37: Für jede Art von Zusammentreffen zwischen Menschen gilt:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37]]`
+> - PDF: [Deutsch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 05_Kommunikation Klasse: Datum: Seite 2 von 11 Für jede Art von Zusammentreffen zwischen Menschen gilt: „Man kann nicht nicht kommunizieren“ Paul Watzlawick Aufgabe 2: Erkläre das Zitat von Paul Watzlawick. _________________________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ Aufgabe 3: Lies die Informationen auf Seite 3 aufmerksam durch und beantworte die Fragen zum Sender-Empfänger-Modell. Anna sagt zu Ben: „Das Fenster ist offe …
@@ -1430,11 +1430,11 @@ Fehler bei der
 #### Seite 38: Das Sender-Empfänger-Modell der Kommunikation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38]]`
+> - PDF: [Deutsch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 05_Kommunikation Klasse: Datum: Seite 3 von 11 Das Sender-Empfänger-Modell der Kommunikation Die sieben Schritte der Kommunikation des Sender-Empfänger-Modells 1. Kommunikationspartner A hat eine Ab- sicht. 2. Er übersetzt sie in Worte. 3. Er sendet sie, er spricht sie aus. 4. Die Nachricht wird übermittelt. 5. Kommunikationspartner B empfängt die Nachricht, er hört sie. 6. Er übersetzt sie. 7. Er interpretiert die Bedeutung. Jeder dieser 7 Schritte enthält potenzielle Fehler- quellen, die zu einem Misslingen der Kommunika- tion führen können. Das von Stuart Hall 1970 entwickelte Sender-Empfänger-Modell definiert Kommunikation als Übertragung einer Nachricht von einem Sender A zu ein …
@@ -1545,11 +1545,11 @@ visuell
 #### Seite 41: Aufgabe 4: Beantworte die Fragen zum 4-Ohren-Modell.
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=41>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=41]]`
+> - PDF: [Deutsch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=41]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 05_Kommunikation Klasse: Datum: Seite 6 von 11 Aufgabe 4: Beantworte die Fragen zum 4-Ohren-Modell. 1. Was sagt das 4-Ohren-Modell aus? _________________________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ 2. Wie heißen die 4 Ohren? 1. ____________________________________ 2. ____________________________________ 3. ____________________________________ 4. ____________________________________ 3. Wie kommt es zu Missverständnissen im …
@@ -1615,11 +1615,11 @@ Beziehungsebene
 #### Seite 44: Aufgabe 5: Prüfungsvorbereitung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 44](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=44>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=44]]`
+> - PDF: [Deutsch.pdf Seite 44](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=44>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=44]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=44]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Seite 9 von 11 Deutsch 05_Kommunikation Klasse: Datum: Aufgabe 5: Prüfungsvorbereitung Die erhöhung passt dem Kunden nicht in relation zur Leistung De Kunde ist unzufrieden fühlt sich ungereche behandelt Sankt die Preise
@@ -1648,11 +1648,11 @@ die Preise
 #### Seite 46: Aufgabe 6: Bearbeite die Aufgaben zum Eisberg-Modell.
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=46>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=46]]`
+> - PDF: [Deutsch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=46>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=46]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=46]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Seite 11 von 11 Deutsch 05_Kommunikation Klasse: Datum: Aufgabe 6: Bearbeite die Aufgaben zum Eisberg-Modell. 1. Ordne die Begriffe der Sachebene oder der Beziehungsebene zu. Begriff Ebene Fakten Gefühle Tonfall Daten Sympathie Informationen Körpersprache 2. Der Chef sagt zum Auszubildenen: „Der Bericht ist noch nicht fertig“. Beschreibe die Sach- und Beziehungsebene dieser Aussage. _______________________________________________________________________________ _______________________________________________________________________________ _______________________________________________________________________________ __________________________________________________________________________ …
@@ -1711,11 +1711,11 @@ zu langsam
 #### Seite 3: Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung.
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 3](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3]]`
+> - PDF: [Regelsammlung.pdf Seite 3](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: ÜBUNG: Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung. „Ich wünsche ___hnen einen schönen Tag, Frau Berta!“ „Ganz meinerseits, Herr Emil. Haben ___ie heute ___orgen schon gebadet?“ „Gewiss, ohne ___aden ist ___chwitzen bei diesen Temperaturen schlimm.“ „Ich habe hier ja ein ___utzend* Tümpel gezählt. Das ist schon ___lasse und genau das ___ichtige für unsereins: eine Freude für ___ung und ___lt gewissermaßen.“ „Ja, Frau Berta, wir ___wei wissen schon, was gut ist. Allerdings: ___ch vermisse Schlammlöcher. Die Trocken- heit diesen Herbst hat für uns wenig ___rfreuliches.“ „Bei Nässe im Frühjahr, da sind Schla …
@@ -1788,11 +1788,11 @@ in dem
 #### Seite 5: Station 2 – das oder dass
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 5](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5]]`
+> - PDF: [Regelsammlung.pdf Seite 5](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Station 2 – das oder dass Trinkst du gern Cappuccino, Latte Macchiato & Co? Dann weißt vielleicht auch, dass bei der Zubereitung dieser Kaffeegetränke nichts dem Zufall überlassen wird. Es gibt sogar einen speziellen Beruf, der sich der fachgerechten Kaffeezubereitung widmet: der Barista. Aufgabe: Trage „das“ oder „dass“ in die Lücken ein. Tipp: Du kannst das Regelblatt zu Hilfe nehmen. Dort erhältst du wichtige Tipps zur korrekten Ver- wendung von „das“ oder „dass“. Baristas – was Kaffeeexperten wissen müssen ______ Kaffeekochen ist nur ein Fachgebiet von Baristas. Ein guter Barista benötigt auch viel Wissen rund um ______ Thema „Kaffee“. Dazu gehör …
@@ -1861,11 +1861,11 @@ dass
 #### Seite 7: Station 3 – Kommasetzung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7]]`
+> - PDF: [Regelsammlung.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Station 3 – Kommasetzung Aufgaben: 1. Setze im folgenden Text die notwendigen Kommas. 2. Trage in der rechten Spalte die jeweilige Erklärung ein (siehe Regelsammlung) Ein Tag auf dem Fußballplatz in der Kreisklasse An einem schönen lauen Sommertag treffen sich auf dem Sportplatz 22 Mann und wenige Zuschauer zu einem Fußballspiel. Viele waren zu Hause geblieben weil sie mit schlechtem Wetter gerechnet hatten und nicht nass werden wollten. In der Kabine hielt bereits Toni Socke der Heimtrainer in seinem grünen hässlichen viel zu großen Trainingsan- zug seine Ansprache: „Schnappt euch den Ball spielt den Gegner aus lauft vor und haut den Ball in die Mas …
@@ -1946,11 +1946,11 @@ I
 #### Seite 9: Aufgabe 1: Auto, homo, poly - Fremdwörter mit griechischer Wurzel
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9]]`
+> - PDF: [Regelsammlung.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Aufgabe 1: Auto, homo, poly - Fremdwörter mit griechischer Wurzel Viele Fremdwörter, die wir benutzen, haben ihren Ursprung in der griechischen Sprache. Diese Tabelle gibt dir einen Überblick über Vorsilben, die häufig in Fremdwörtern vorkommen. Vorsilbe Bedeutung Beispiele a-/an- Verneinung der Analphabet anti-/ant- gegen, wider die Antipathie auto- selbst automatisch homo- gleich homogen poly- viel polyglott tele- fern das Telefon Arbeitsaufträge: 1. Erkläre die Beispiele aus der Tabelle mit eigenen Worten. Dabei kannst du ein (Online)-Wörterbuch zu Hilfe nehmen. Die Bedeutungen der Vorsilben helfen dir dabei. 2. Trage je zwei weitere Beispiele in …
@@ -2007,11 +2007,11 @@ Telepathie
 #### Seite 10: Aufgabe 2:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10]]`
+> - PDF: [Regelsammlung.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Aufgabe 2: Viele griechische Fremdwörter benutzen wir selbstverständlich in unserem Alltag. Andere hingegen kom- men nur in Fachsprachen wie zum Beispiel in der Medizin oder der Mathematik vor. Im folgenden Silben- rätsel findest du eine Mischung aus alltäglichen und fachspezifischen Ausdrücken. AM – AN – ÄT – AU – BI – CHRO – DI – DIA – DIA – DIA – DO – EN – FIE – GRA – GRAMM – LEKT – LOG – LY – NI – NO – NYM – ON – OR – PA – PHI – PROG – PSEU – SA – SE – SE – SYMP – SYN – THIE – THO – TI – TI – TO – TOM 1. Unterschrift eines Prominenten: ……………………………………………………. 2. Abneigung gegen einen anderen Menschen: …………………………………….. 3. Tiere, die sowohl auf dem L …
@@ -2085,11 +2085,11 @@ a
 #### Seite 2: Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung.
 
 > [!referenz] Exakte Referenz
-> - PDF: [Station 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=2]]`
+> - PDF: [Station 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: ÜBUNG: Aufgabe: Setze die fehlenden Buchstaben ein. Achte auf richtige Groß- und Kleinschreibung. „Ich wünsche ___hnen einen schönen Tag, Frau Berta!“ „Ganz meinerseits, Herr Emil. Haben ___ie heute ___orgen schon gebadet?“ „Gewiss, ohne ___aden ist ___chwitzen bei diesen Temperaturen schlimm.“ „Ich habe hier ja ein ___utzend* Tümpel gezählt. Das ist schon ___lasse und genau das ___ichtige für unsereins: eine Freude für ___ung und ___lt gewissermaßen.“ „Ja, Frau Berta, wir ___wei wissen schon, was gut ist. Allerdings: ___ch vermisse Schlammlöcher. Die Trocken- heit diesen Herbst hat für uns wenig ___rfreuliches.“ „Bei Nässe im Frühjahr, da sind Schla …
@@ -2129,7 +2129,7 @@ Lebenslang fast im ___unkeln und ___auerstinken ohne die ___rische der Natur.“
 - Frage:: Welche Vorgabe nennt die Quelle zu **Einführung in das Projektmanagement**?
 - Antwort:: Sie muss alle Projektressourcen darstellen, Projektdaten zur Verfügung stellen können (wobei häufig unterschiedliche EDV-Systeme beteiligt sind) sowie Zeit-/Kostenrechnung und Effizienzanalysen ermöglichen.
 - Beleg:: Sie muss alle Projektressourcen darstellen, Projektdaten zur Verfügung stellen können (wobei häufig unterschiedliche EDV-Systeme beteiligt sind) sowie Zeit-/Kostenrechnung und Effizienzanalysen ermöglichen.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10|Deutsch S. 10]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10|Deutsch S. 10]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2137,7 +2137,7 @@ Lebenslang fast im ___unkeln und ___auerstinken ohne die ___rische der Natur.“
 - Frage:: Was ist der Kernpunkt zu **Der Projektmanager** laut Quelle?
 - Antwort:: Das Projektteam ist eine temporäre Einheit, die nur für einen begrenzten Zeitraum zur Erfüllung des definierten Zieles gebildet wird.
 - Beleg:: Das Projektteam ist eine temporäre Einheit, die nur für einen begrenzten Zeitraum zur Erfüllung des definierten Zieles gebildet wird.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11|Deutsch S. 11]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11|Deutsch S. 11]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2145,7 +2145,7 @@ Lebenslang fast im ___unkeln und ___auerstinken ohne die ___rische der Natur.“
 - Frage:: Was ist der Kernpunkt zu **Überwachen und Steuern** laut Quelle?
 - Antwort:: Meilensteinbericht: Hier wird kritisch überprüft, ob die Ziele dieser Phase, die anfangs definiert wurden, auch erreicht worden sind bzw. welche Aufgaben noch unerledigt sind.
 - Beleg:: Meilensteinbericht: Hier wird kritisch überprüft, ob die Ziele dieser Phase, die anfangs definiert wurden, auch erreicht worden sind bzw. welche Aufgaben noch unerledigt sind.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=19|Deutsch S. 19]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19|Deutsch S. 19]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2153,7 +2153,7 @@ Lebenslang fast im ___unkeln und ___auerstinken ohne die ___rische der Natur.“
 - Frage:: Was ist der Kernpunkt zu **Überwachen und Steuern** laut Quelle?
 - Antwort:: Ziel ist es, diese Erfahrungen zu einer festen Routine werden zu lassen.
 - Beleg:: Ziel ist es, diese Erfahrungen zu einer festen Routine werden zu lassen.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=19|Deutsch S. 19]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19|Deutsch S. 19]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2161,7 +2161,7 @@ Lebenslang fast im ___unkeln und ___auerstinken ohne die ___rische der Natur.“
 - Frage:: Was ist der Kernpunkt zu **Projekt Kick-Off-Meeting** laut Quelle?
 - Antwort:: Projekt Kick-Off-Meeting Das Projekt Kick-Off-Meeting ist die erste offizielle Sitzung des Projektteams, zu der die Projektmitarbeiter vom Projektleiter schriftlich (Tagesordnung) eingeladen werden.
 - Beleg:: Projekt Kick-Off-Meeting Das Projekt Kick-Off-Meeting ist die erste offizielle Sitzung des Projektteams, zu der die Projektmitarbeiter vom Projektleiter schriftlich (Tagesordnung) eingeladen werden.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=23|Deutsch S. 23]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=23|Deutsch S. 23]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2169,7 +2169,7 @@ Lebenslang fast im ___unkeln und ___auerstinken ohne die ___rische der Natur.“
 - Frage:: Was ist der Kernpunkt zu **Das Pflichtenheft** laut Quelle?
 - Antwort:: Die Nummerierung von Anforderungen ist notwendig, um sich in anderen Dokumenten und in späteren Phasen darauf beziehen zu können.
 - Beleg:: Die Nummerierung von Anforderungen ist notwendig, um sich in anderen Dokumenten und in späteren Phasen darauf beziehen zu können.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=26|Deutsch S. 26]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=26|Deutsch S. 26]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2177,7 +2177,7 @@ Lebenslang fast im ___unkeln und ___auerstinken ohne die ___rische der Natur.“
 - Frage:: Was ist der Kernpunkt zu **Das Pflichtenheft** laut Quelle?
 - Antwort:: Die Pflichtenheft-Gliederung ist so aufgebaut, dass die Grundgliederung identisch mit der Lastenheft-Gliederung ist, so dass das Lastenheft als erste Version des Pflichtenheftes direkt übernommen werden kann.
 - Beleg:: Die Pflichtenheft-Gliederung ist so aufgebaut, dass die Grundgliederung identisch mit der Lastenheft-Gliederung ist, so dass das Lastenheft als erste Version des Pflichtenheftes direkt übernommen werden kann.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=26|Deutsch S. 26]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=26|Deutsch S. 26]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2185,7 +2185,7 @@ Lebenslang fast im ___unkeln und ___auerstinken ohne die ___rische der Natur.“
 - Frage:: Was ist der Kernpunkt zu **Das Sender-Empfänger-Modell der Kommunikation** laut Quelle?
 - Antwort:: Entscheidender als die Absicht, die der Sender A vermitteln will, ist die Wirkung, die seine Worte beim Empfänger B erzielen.
 - Beleg:: Entscheidender als die Absicht, die der Sender A vermitteln will, ist die Wirkung, die seine Worte beim Empfänger B erzielen.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38|Deutsch S. 38]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38|Deutsch S. 38]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

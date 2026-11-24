@@ -2,15 +2,15 @@
 id: vault.thema.visuell.betriebsrat.und.betriebsverfassung
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Betriebsrat und Betriebsverfassung"
 kategorie: Wirtschaft_und_Recht
 quellen: 1
-seiten: 4
+seiten: 5
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [32–35](<99_Originale/Berufsschule/PUG/Pug.pdf#page=32>) | loesung, theorie | Text für Zitate geeignet |
+| [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [32–36](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32>) | loesung, theorie | Text für Zitate geeignet |
 
 ## Belegregel für GPT
 

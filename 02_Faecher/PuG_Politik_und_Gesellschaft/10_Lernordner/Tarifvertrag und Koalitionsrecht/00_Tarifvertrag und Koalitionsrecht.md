@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Tarifvertrag und Koalitionsrecht** im Fach **PuG Politik und Gesellschaft**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/PUG/Pug.pdf#page=19|Pug S. 19]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=23|Pug S. 23]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=28|Pug S. 28]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=29|Pug S. 29]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=30|Pug S. 30]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=31|Pug S. 31]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19|Pug S. 19]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23|Pug S. 23]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=28|Pug S. 28]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29|Pug S. 29]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=30|Pug S. 30]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=31|Pug S. 31]].
 > - **Zentrale Suchbegriffe:** Tarifvertrag, Koalitionsrecht, Kündigung, Kündigungsschutzgesetz, Zustandekommen, Tarifvertrages.
 > - **Prüfungsbezug:** AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -55,12 +55,12 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 19](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=19>) | Kündigung und Kündigungsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 23](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=23>) | Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 28](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=28>) | Tarifvertrag | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 29](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=29>) | Tarifvertrag | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 30](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=30>) | Tarifvertrag – Zustandekommen eines Tarifvertrages | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 31](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=31>) | Tarifvertrag – Zustandekommen eines Tarifvertrages | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 19](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19>) | Kündigung und Kündigungsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 23](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23>) | Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 28](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=28>) | Tarifvertrag | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 29](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29>) | Tarifvertrag | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 30](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=30>) | Tarifvertrag – Zustandekommen eines Tarifvertrages | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 31](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=31>) | Tarifvertrag – Zustandekommen eines Tarifvertrages | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -69,11 +69,11 @@ tags:
 #### Seite 19: Kündigung und Kündigungsschutzgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 19](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=19>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=19]]`
+> - PDF: [Pug.pdf Seite 19](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=19]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Kündigung und Kündigungsschutzgesetz Wie kann ein Arbeitsvertrag beendet werden ? · Kündigung (AG/AN) (1 Willenserklärung, empfangsbedürftig) - Ordentliche Kündigung - Außerordentliche Kündigung (fristlose K . ) · Befristung (zeitlich , Grundl · Aufhebungsvertrag (2 Willenserklärungen , empfangsbedürftig Welche Kündigungsfristen gibt es ? · Ordentliche Kündigung : 5622 BGB a) Probezeit : innerhalb der Probezeit 14 Tage, grundlos (beim Arbeitsvertrag) b) Grundkündigungsfrist ↳Wochen (28 Tage) zum 15 . oder Ende des Monats 2) Verlängerte Kündigungsfrist Nur wenn Arbeitgeber kündigt # besteht länger wie 2 Jahre Immer zum Monatsende d) Tarifvertragliche Kündigungsfrist im TV können Kündigungsfri …
@@ -123,11 +123,11 @@ im Arbeitsvertrag verlängert werden
 #### Seite 23: Kündigung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 23](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=23>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=23]]`
+> - PDF: [Pug.pdf Seite 23](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=23]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Kündigung PuG Name: Klasse: Datum: 1 Fragen zum Thema Kündigung 1. Wie lautet die gesetzliche Grundkündigungsfrist nach BGB? 2. Kann diese Grundkündigungsfrist a) vom AG alleine b) von den Tarifparteien (Gewerkschaft – Arbeitgeberverband) abgeändert werden? 3. Frau Sybille Maier ist 43 Jahre alt und seit 8 Jahren im Betrieb. Aufgrund der Auftragslage befürchtet sie, dass ihr Arbeitgeber sie kündigen könnte. Als Kündigungstermin vermutet sie den 30. April d. J.. Bis wann müsste die Kündigung Frau Maier spätestens zugegangen sein? 4. Frau Maier möchte gegen diese Kündigung bei Gericht Einspruch erheben. Wie lange hat sie dafür Zeit? 5. Herr Herbert Schmidt ist im selben Betrieb seit drei Monat …
@@ -185,11 +185,11 @@ Arbeitsverhältnis von Herrn Kuhn aus?
 #### Seite 28: Tarifvertrag
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 28](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=28>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=28]]`
+> - PDF: [Pug.pdf Seite 28](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=28>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=28]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=28]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Tarifvertrag PuG Name: Klasse: Datum: 1 Fragen zum Tarifvertrag a) Was besagt das „Koalitionsrecht“ in Art 9 GG? b) Wer ist am Zustandekommen eines Tarifvertrages beteiligt? c) Was bedeutet: „Einen Tarifvertrag für allgemeinverbindlich erklären?“ d) Erklären Sie die wichtigsten Tarifvertragsgrundsätze:  Tarifautonomie  Tarifgebundenheit  Friedenspflicht e) Welche Inhalte werden in  einem Manteltarifvertrag (Rahmentarifvertrag)  einem Lohn- und Gehaltstarifvertrag geregelt? Siehe Blatt f) Gelten vereinbarte Tarifbestimmungen für alle Arbeitnehmer? g) Dürfen die Tarifbestimmungen unterschritten werden? h) Im Manteltarifvertrag wurde eine Urlaubsverlängerung auf 31 Werktage vereinbart. Her …
@@ -258,11 +258,11 @@ Ja , da grundsätzlich alle gleich behandelt wede
 #### Seite 29: Tarifvertrag
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 29](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=29>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=29]]`
+> - PDF: [Pug.pdf Seite 29](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=29]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Tarifvertrag PuG Name: Klasse: Datum: 2 Informationen zum Tarifvertrag Damit nicht für jeden einzelnen Arbeitnehmer immer wieder neue Arbeitsverträge ausgehandelt werden müssen, werden gemeinsame Verträge (Kollektivverträge) verfasst. Ein solcher Tarifvertrag ist ein Vertrag zwischen Arbeitgebern bzw. Arbeitgeberverbänden und Gewerkschaften, der die Rechte und Pflichten der Tarifvertragsparteien regelt und zusätzlich Rechtsnormen über den Inhalt, den Abschluss und die Beendigung von Arbeitsverhältnissen sowie zu betriebsverfassungsrechtlichen Fragen enthält. Die Tarifverträge sind Ausdruck der Tarifautonomie, also des Rechts der Tarifpartner, unabhängig von staatlichen Reglementierungen Tari …
@@ -323,11 +323,11 @@ Arbeitgeber ist verpflichtet, die für seinen Betrieb maßgebenden Tarifverträg
 #### Seite 30: Tarifvertrag – Zustandekommen eines Tarifvertrages
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 30](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=30>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=30]]`
+> - PDF: [Pug.pdf Seite 30](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=30>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=30]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=30]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Tarifvertrag – Zustandekommen eines Tarifvertrages PuG Name: Klasse: Datum: 1 Das Zustandekommen eines Tarifvertrages Nach Ablauf eines Tarifvertrages oder dessen Kündigung streben die Verhandlungspartner (Gewerkschaft und Arbeitgeberverband) zunächst eine Einigung an. Während diesen Tarif- verhandlungen werden oft Warnstreiks organisiert. Die Forderungen der Gewerkschaft sind oft deutlich höher als die Angebote des Arbeitgeberverbandes. Wird nach diesen Verhandlungen bereits eine Einigung erreicht, wird ein neuer Tarifvertrag abgeschlossen. Wird keine Einigung erzielt, erklärt man die Verhandlungen als gescheitert. Ein neutraler Schlichter kann nun herangezogen werden um zwischen den Partei …
@@ -380,11 +380,11 @@ geführt werden.
 #### Seite 31: Tarifvertrag – Zustandekommen eines Tarifvertrages
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 31](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=31>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=31]]`
+> - PDF: [Pug.pdf Seite 31](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=31>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=31]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=31]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Tarifvertrag – Zustandekommen eines Tarifvertrages PuG Name: Klasse: Datum: 2 Das Zustandekommen eines Tarifvertrages Tarifablouf-Tarirverhandlung zwischen den Sozialpartnern (Gewerkschaft und AG-Verband) eutl. Warnstreikse in der Freizeit Einigung Keine Einigung , Verhandlung ist gescheitet Einigung Schlichtungsverfahren , Heranziehen eines T neutralen Schlichtes-Vorschlag (Friedenspflicht) Ende der Friedenspflicht-Kampfmaßnahmen möglich-Aufruf zur Grabstimmung - mind . 75 % Streik-Gerekschaften Aussperrung-Arbeitgeber Ablehnung Neue Verhandlungen mit Vorschlag Urabstimmung der Gewerkschaftsmitglieder Einigung Mind. 25 % Zustimmung der abstimmenden Gewerkschaftsmitgliede Neuer Tarifvertrag
@@ -438,7 +438,7 @@ Neuer Tarifvertrag
 - Frage:: Was ist der Kernpunkt zu **Kündigung** laut Quelle?
 - Antwort:: Aufgrund der aktuellen Situation hat sich Herr Huber einen neuen Arbeitsplatz gesucht, den er am 31.03. d.J. antreten kann.
 - Beleg:: Aufgrund der aktuellen Situation hat sich Herr Huber einen neuen Arbeitsplatz gesucht, den er am 31.03. d.J. antreten kann.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=23|Pug S. 23]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23|Pug S. 23]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -446,7 +446,7 @@ Neuer Tarifvertrag
 - Frage:: Was ist der Kernpunkt zu **Kündigung** laut Quelle?
 - Antwort:: Herr Herbert Schmidt ist im selben Betrieb seit drei Monaten beschäftigt.
 - Beleg:: Herr Herbert Schmidt ist im selben Betrieb seit drei Monaten beschäftigt.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=23|Pug S. 23]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23|Pug S. 23]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -454,7 +454,7 @@ Neuer Tarifvertrag
 - Frage:: Was ist der Kernpunkt zu **Tarifvertrag** laut Quelle?
 - Antwort:: Alle Tarifverträge in der BRD sind in einem Tarifregister gesammelt und können dort eingesehen werden.
 - Beleg:: Alle Tarifverträge in der BRD sind in einem Tarifregister gesammelt und können dort eingesehen werden.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=29|Pug S. 29]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29|Pug S. 29]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -462,7 +462,7 @@ Neuer Tarifvertrag
 - Frage:: Was ist der Kernpunkt zu **Tarifvertrag** laut Quelle?
 - Antwort:: Der Bundesminister für Arbeit und Soziales kann aber nach § 5 Tarifvertragsgesetz einen Tarifvertrag für allgemeinverbindlich erklären.
 - Beleg:: Der Bundesminister für Arbeit und Soziales kann aber nach § 5 Tarifvertragsgesetz einen Tarifvertrag für allgemeinverbindlich erklären.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=29|Pug S. 29]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29|Pug S. 29]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -470,7 +470,7 @@ Neuer Tarifvertrag
 - Frage:: Was ist der Kernpunkt zu **Tarifvertrag – Zustandekommen eines Tarifvertrages** laut Quelle?
 - Antwort:: Wird dieser nicht angenommen endet die Friedenspflicht und Arbeitskampfmaßnahmen sind nun als Druckmittel möglich.
 - Beleg:: Wird dieser nicht angenommen endet die Friedenspflicht und Arbeitskampfmaßnahmen sind nun als Druckmittel möglich.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=30|Pug S. 30]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=30|Pug S. 30]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -478,7 +478,7 @@ Neuer Tarifvertrag
 - Frage:: Was ist der Kernpunkt zu **Tarifvertrag – Zustandekommen eines Tarifvertrages** laut Quelle?
 - Antwort:: Wird nach diesen Verhandlungen bereits eine Einigung erreicht, wird ein neuer Tarifvertrag abgeschlossen.
 - Beleg:: Wird nach diesen Verhandlungen bereits eine Einigung erreicht, wird ein neuer Tarifvertrag abgeschlossen.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=30|Pug S. 30]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=30|Pug S. 30]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -486,7 +486,7 @@ Neuer Tarifvertrag
 - Frage:: Was ist der Kernpunkt zu **Tarifvertrag – Zustandekommen eines Tarifvertrages** laut Quelle?
 - Antwort:: Warnstreikse in der Freizeit Einigung Keine Einigung , Verhandlung ist gescheitet Einigung Schlichtungsverfahren , Heranziehen eines T neutralen Schlichtes-Vorschlag (Friedenspflicht) Ende der Friedenspflicht-Kampfmaßnahmen möglich-Aufruf zur Grabstimmung - mind .
 - Beleg:: Warnstreikse in der Freizeit Einigung Keine Einigung , Verhandlung ist gescheitet Einigung Schlichtungsverfahren , Heranziehen eines T neutralen Schlichtes-Vorschlag (Friedenspflicht) Ende der Friedenspflicht-Kampfmaßnahmen möglich-Aufruf zur Grabstimmung - mind .
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=31|Pug S. 31]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=31|Pug S. 31]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

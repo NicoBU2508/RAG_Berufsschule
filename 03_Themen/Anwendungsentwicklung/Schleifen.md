@@ -30,14 +30,14 @@ Schleifen wiederholen Anweisungen. Wichtig sind Startwert, Bedingung, Änderung 
 
 | Quelle | Fach | Seiten | PDF-Referenzen |
 |---|---|---:|---|
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | AE Anwendungsentwicklung | 10, 17, 18, 19, 20, 21, 22, 23, 29, 31, 32, 33, 34, 37, 38, 39, 40, 46 … | [S.10](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10>), [S.17](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17>), [S.18](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18>), [S.19](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=19>), [S.20](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20>), [S.21](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=21>), [S.22](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=22>), [S.23](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23>) … |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | AE Anwendungsentwicklung | 10, 17, 18, 19, 20, 21, 22, 23, 29, 31, 32, 33, 34, 37, 38, 39, 40, 46 … | [S.10](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10>), [S.17](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17>), [S.18](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18>), [S.19](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=19>), [S.20](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20>), [S.21](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=21>), [S.22](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=22>), [S.23](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23>) … |
 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics\|JAVA_Java_Basics]] | AE Anwendungsentwicklung | 3 | [S.3](<99_Originale/Basics/JAVA/Java Basics.pdf#page=3>) |
 
 ## 📌 Beispielstellen aus den Originalquellen
 
 ### [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]] · Seite 10
 
-[Original-PDF Seite 10](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10>)
+[Original-PDF Seite 10](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10>)
 
 > eibung. Diese ist in der Regel an die Syntax einer höheren Programmiersprache (Java, C++, VB.net etc.) angelehnt. Für Kontrollstrukturen (Schleifen, Auswahlmöglichkeiten etc.) könnte der Pseudocode also lauten: „if … then … else … end if“, „while -… end while“ etc. Der Pseudocode ist nicht genormt, d.h. es gibt entsprechend viele Varianten davon. Die Erhöhung eines Schleifenzählers lässt sich darstellen als „i
 

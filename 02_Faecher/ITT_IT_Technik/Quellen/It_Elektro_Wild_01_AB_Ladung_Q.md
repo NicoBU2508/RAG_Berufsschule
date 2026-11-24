@@ -2,8 +2,8 @@
 typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
-original_pfad: "99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf"
-seiten: 90
+original_pfad: "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf"
+seiten: 101
 pruefung: "AP1"
 cssclasses:
   - lernquelle
@@ -12,22 +12,22 @@ tags:
   - quelle
   - itt_it_technik
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-07-13"
+seitenaudit_datum: "2026-11-23"
 kanonische_referenzen: true
-kanonische_themen: 12
-seiten_mit_kanonischem_thema: 88
+kanonische_themen: 13
+seiten_mit_kanonischem_thema: 99
 ki_exclude_seiten: [7,77]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
-textstatus: "eingeschränkt: visuell geprüft (partial=88)"
-textzeichen: 147816
+textstatus: "gemischt: visuell geprüft (ok=1, ocr_verified=10, partial=88)"
+textzeichen: 163030
 ---
 # 📄 It Elektro Wild 01 AB Ladung Q
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
-> - **Original-PDF:** [01_AB_Ladung Q.pdf](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf>)
-> - **Seiten:** 90
-> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (partial=88)
+> - **Original-PDF:** [01_AB_Ladung Q.pdf](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf>)
+> - **Seiten:** 101
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=1, ocr_verified=10, partial=88)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -36,7 +36,7 @@ textzeichen: 147816
 |---|---|---:|---|
 | [[03_Themen/Visuell_geprueft/Elektrotechnik/Elektrische Arbeit und Energiekosten\|Elektrische Arbeit und Energiekosten]] | Prüfungsrahmen der Quelle | 34–37, 44–48, 54–55 | Visuell bestätigt auf 11 Seite(n); bei 11 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Elektrotechnik/Elektrische Ladung\|Elektrische Ladung]] | Prüfungsrahmen der Quelle | 11–13, 44–46 | Visuell bestätigt auf 6 Seite(n); bei 6 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/Elektrotechnik/Elektrische Leistung\|Elektrische Leistung]] | Prüfungsrahmen der Quelle | 28–33, 44–49 | Visuell bestätigt auf 12 Seite(n); bei 12 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Elektrotechnik/Elektrische Leistung\|Elektrische Leistung]] | Prüfungsrahmen der Quelle | 28–33, 44–49, 96–97, 99 | Visuell bestätigt auf 15 Seite(n); bei 15 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Elektrotechnik/Elektrische Sicherheit und Erste Hilfe\|Elektrische Sicherheit und Erste Hilfe]] | Prüfungsrahmen der Quelle | 88–90 | Visuell bestätigt auf 3 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Elektrotechnik/Elektrischer Strom und Messtechnik\|Elektrischer Strom und Messtechnik]] | Prüfungsrahmen der Quelle | 19–21, 26–27 | Visuell bestätigt auf 5 Seite(n); bei 5 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Elektrotechnik/Elektrotechnik-Rechenmethoden\|Elektrotechnik-Rechenmethoden]] | Prüfungsrahmen der Quelle | 1–6, 8–10 | Visuell bestätigt auf 9 Seite(n); bei 9 Seite(n) OCR/Original für exakte Zitate prüfen. |
@@ -46,6 +46,7 @@ textzeichen: 147816
 | [[03_Themen/Visuell_geprueft/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand\|Ohmsches Gesetz und Leiterwiderstand]] | Prüfungsrahmen der Quelle | 56–63 | Visuell bestätigt auf 8 Seite(n); bei 8 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen\|Reihen-, Parallel- und Gruppenschaltungen]] | Prüfungsrahmen der Quelle | 64–76 | Visuell bestätigt auf 13 Seite(n); bei 13 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Elektrotechnik/Spannung Strom und Widerstand\|Spannung, Strom und Widerstand]] | Prüfungsrahmen der Quelle | 14–18, 50–51 | Visuell bestätigt auf 7 Seite(n); bei 7 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Elektrotechnik/USV-Anlagen\|USV-Anlagen]] | Prüfungsrahmen der Quelle | 91–101 | Visuell bestätigt auf 11 Seite(n); bei 10 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
 
@@ -59,11 +60,11 @@ textzeichen: 147816
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 1](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=1]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 1](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -131,11 +132,11 @@ Tabelle:
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 2](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 2](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -674,11 +675,11 @@ m
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 3](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=3]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 3](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -811,11 +812,11 @@ Schreibe sinnvolle Vors‰tze an!
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 4](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=4]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 4](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -863,11 +864,11 @@ Multiplikation
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 5](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=5]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 5](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=5]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1758,11 +1759,11 @@ v
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 6](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 6](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2690,11 +2691,11 @@ Strom
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 8](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=8]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 8](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=8]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2741,11 +2742,11 @@ Aufgabe 5b:
 ### Seite 9
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 9](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=9>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=9]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 9](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=9>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=9]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=9]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3485,11 +3486,11 @@ Aufgabe 5e:
 ### Seite 10
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 10](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=10>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=10]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 10](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=10>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=10]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=10]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3936,11 +3937,11 @@ Aufgabe 5h:
 ### Seite 11
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 11](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=11>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=11]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 11](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=11>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=11]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=11]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4544,11 +4545,11 @@ an
 ### Seite 12
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 12](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=12>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=12]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 12](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=12>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=12]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=12]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5204,11 +5205,11 @@ n= = 101
 ### Seite 13
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 13](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=13>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=13]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 13](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=13>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=13]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=13]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5273,11 +5274,11 @@ Keramik
 ### Seite 14
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 14](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=14>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=14]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 14](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=14>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=14]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=14]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5831,11 +5832,11 @@ UAB =
 ### Seite 15
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 15](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=15>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=15]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 15](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=15>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=15]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=15]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -6048,11 +6049,11 @@ Spannungsquelle
 ### Seite 16
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 16](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=16>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=16]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 16](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=16>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=16]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=16]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -6099,11 +6100,11 @@ Aufgabe 2: Berechne alle Teilspannungen!
 ### Seite 17
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 17](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=17>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=17]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 17](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=17>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=17]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=17]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -6186,11 +6187,11 @@ Für St nur 6 Ursachen Nennen-Verwendungs BSD
 ### Seite 18
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 18](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=18>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=18]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 18](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=18>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=18]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=18]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -6277,11 +6278,11 @@ Current
 ### Seite 19
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 19](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=19>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=19]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 19](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=19>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=19]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=19]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -6808,11 +6809,11 @@ zum Ladungsausgleich
 ### Seite 20
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 20](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=20>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=20]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 20](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=20>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=20]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=20]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -7773,11 +7774,11 @@ Q=n
 ### Seite 21
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 21](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=21>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=21]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 21](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=21>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=21]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=21]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -8698,11 +8699,11 @@ I =
 ### Seite 22
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 22](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=22>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=22]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 22](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=22>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=22]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=22]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -8736,11 +8737,11 @@ Gleichspannungen f¸r die PC-Komponenten um.
 ### Seite 23
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 23](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=23>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=23]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 23](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=23>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=23]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=23]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -8804,11 +8805,11 @@ abgeschaltet!
 ### Seite 24
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 24](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=24>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=24]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 24](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=24>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=24]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=24]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -8937,11 +8938,11 @@ Z
 ### Seite 25
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 25](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=25>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=25]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 25](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=25>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=25]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=25]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -9074,11 +9075,11 @@ Kapputt !
 ### Seite 26
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 26](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=26>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=26]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 26](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=26>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=26]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=26]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -9137,11 +9138,11 @@ in Reihe
 ### Seite 27
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 27](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=27>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=27]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 27](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=27>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=27]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=27]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -9211,11 +9212,11 @@ Kurzschluss- Batterie brennt
 ### Seite 28
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 28](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=28>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=28]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 28](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=28>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=28]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=28]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -9308,11 +9309,11 @@ Leistungsmessung
 ### Seite 29
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 29](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=29>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=29]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 29](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=29>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=29]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=29]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -9848,11 +9849,11 @@ Laufwek :
 ### Seite 30
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 30](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=30>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=30]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 30](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=30>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=30]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=30]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -10353,11 +10354,11 @@ Netzteil
 ### Seite 31
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 31](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=31>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=31]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 31](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=31>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=31]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=31]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -10726,11 +10727,11 @@ P= 814,52W
 ### Seite 32
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 32](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=32>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=32]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 32](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=32>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=32]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=32]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -10783,11 +10784,11 @@ info@MSI.eu
 ### Seite 33
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 33](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=33>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=33]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 33](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=33>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=33]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=33]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -10832,11 +10833,11 @@ MSI GeForce RTX 4060 8GB
 ### Seite 34
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 34](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=34>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=34]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 34](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=34>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=34]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=34]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -10887,11 +10888,11 @@ Stadtwerke Inglstadt
 ### Seite 35
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 35](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=35>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=35]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 35](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=35>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=35]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=35]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -11144,11 +11145,11 @@ Ppc
 ### Seite 36
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 36](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=36>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=36]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 36](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=36>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=36]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=36]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -12451,11 +12452,11 @@ We
 ### Seite 37
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 37](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=37>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=37]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 37](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=37>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=37]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=37]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -13654,11 +13655,11 @@ von
 ### Seite 38
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 38](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=38>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=38]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 38](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=38>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=38]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=38]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -13728,11 +13729,11 @@ Wirkungsgrad
 ### Seite 39
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 39](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=39>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=39]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 39](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=39>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=39]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=39]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -14760,11 +14761,11 @@ Wh
 ### Seite 40
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 40](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=40>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=40]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 40](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=40>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=40]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=40]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -15639,11 +15640,11 @@ k=
 ### Seite 41
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 41](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=41>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=41]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 41](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=41>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=41]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=41]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -16018,11 +16019,11 @@ am größten
 ### Seite 42
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 42](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=42>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=42]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 42](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=42>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=42]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=42]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -16058,11 +16059,11 @@ stellen kann!
 ### Seite 43
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 43](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=43>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=43]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 43](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=43>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=43]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=43]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -16098,11 +16099,11 @@ des Netzteils! Welches Netzteil f¸r Sie das Richtige ist, h‰ngt von Ihrem Nut
 ### Seite 44
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 44](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=44>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=44]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 44](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=44>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=44]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=44]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -16148,11 +16149,11 @@ Glühweins verwendet er eine mobile Elektroherdplatte.
 ### Seite 45
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 45](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=45>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=45]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 45](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=45>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=45]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=45]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -17337,11 +17338,11 @@ Q
 ### Seite 46
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 46](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=46>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=46]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 46](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=46>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=46]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=46]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -18343,11 +18344,11 @@ Was = 9.673 .242,51)
 ### Seite 47
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 47](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=47>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=47]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 47](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=47>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=47]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=47]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=47]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -19483,11 +19484,11 @@ kWh
 ### Seite 48
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 48](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=48>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=48]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 48](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=48>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=48]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=48]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -20528,11 +20529,11 @@ Ci
 ### Seite 49
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 49](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=49>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=49]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 49](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=49>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=49]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=49]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=49]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -20584,11 +20585,11 @@ Sinus-Schallleistung ab. Berechne den Wirkungsgrad η bei halber und voller Laut
 ### Seite 50
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 50](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=50>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=50]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 50](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=50>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=50]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=50]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=50]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -20960,11 +20961,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 ### Seite 51
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 51](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=51>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=51]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 51](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=51>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=51]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=51]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=51]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -21685,11 +21686,11 @@ Ua5
 ### Seite 52
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 52](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=52>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=52]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 52](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=52>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=52]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=52]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=52]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -21712,11 +21713,11 @@ Chieftec A-80 500 Watt ohne 80PLUS-Zertifizierung dargestellt.
 ### Seite 53
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 53](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=53>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=53]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 53](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=53>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=53]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=53]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=53]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -22518,11 +22519,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 ### Seite 54
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 54](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=54>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=54]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 54](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=54>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=54]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=54]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=54]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -22552,11 +22553,11 @@ b) die Kosten pro Jahr,
 ### Seite 55
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 55](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=55>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=55]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 55](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=55>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=55]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=55]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=55]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -22579,11 +22580,11 @@ d) die Kosten pro Jahr (Betrieb und Standby).
 ### Seite 56
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 56](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=56>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=56]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 56](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=56>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=56]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=56]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=56]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -22672,11 +22673,11 @@ MM2
 ### Seite 57
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 57](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=57>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=57]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 57](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=57>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=57]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=57]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=57]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -22982,11 +22983,11 @@ R = 2
 ### Seite 58
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 58](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=58>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=58]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 58](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=58>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=58]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=58]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=58]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -23479,11 +23480,11 @@ Stromstärke -
 ### Seite 59
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 59](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=59>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=59]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 59](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=59>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=59]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=59]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=59]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -24091,11 +24092,11 @@ R== =
 ### Seite 60
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 60](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=60>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=60]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 60](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=60>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=60]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=60]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=60]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -25168,11 +25169,11 @@ u = R
 ### Seite 61
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 61](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=61>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=61]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 61](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=61>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=61]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=61]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=61]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -26083,11 +26084,11 @@ R= 60
 ### Seite 62
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 62](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=62>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=62]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 62](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=62>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=62]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=62]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=62]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -27229,11 +27230,11 @@ Ma
 ### Seite 63
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 63](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=63>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=63]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 63](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=63>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=63]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=63]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=63]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -28600,11 +28601,11 @@ ma
 ### Seite 64
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 64](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=64>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=64]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 64](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=64>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=64]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=64]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=64]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -28690,11 +28691,11 @@ Strom
 ### Seite 65
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 65](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=65>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=65]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 65](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=65>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=65]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=65]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=65]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -29039,11 +29040,11 @@ R der Reihenschaltung addieren
 ### Seite 66
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 66](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=66>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=66]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 66](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=66>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=66]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=66]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=66]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -29518,11 +29519,11 @@ P
 ### Seite 67
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 67](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=67>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=67]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 67](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=67>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=67]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=67]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=67]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -29731,11 +29732,11 @@ B
 ### Seite 68
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 68](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=68>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=68]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 68](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=68>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=68]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=68]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=68]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -29833,11 +29834,11 @@ abfließenden Ströme
 ### Seite 69
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 69](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=69>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=69]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 69](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=69>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=69]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=69]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=69]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -30151,11 +30152,11 @@ Uges
 ### Seite 70
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 70](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=70>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=70]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 70](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=70>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=70]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=70]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=70]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -30757,11 +30758,11 @@ Rez + Ry
 ### Seite 71
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 71](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=71>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=71]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 71](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=71>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=71]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=71]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=71]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -31926,11 +31927,11 @@ U:
 ### Seite 72
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 72](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=72>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=72]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 72](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=72>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=72]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=72]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=72]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -33163,11 +33164,11 @@ R=== 17,5
 ### Seite 73
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 73](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=73>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=73]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 73](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=73>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=73]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=73]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=73]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -34373,11 +34374,11 @@ Igg
 ### Seite 74
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 74](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=74>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=74]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 74](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=74>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=74]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=74]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=74]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -35471,11 +35472,11 @@ Un = 12V- 6
 ### Seite 75
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 75](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=75>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=75]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 75](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=75>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=75]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=75]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=75]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -35504,11 +35505,11 @@ die in Reihe geschalten sind:
 ### Seite 76
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 76](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=76>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=76]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 76](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=76>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=76]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=76]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=76]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -35552,11 +35553,11 @@ neuen Gesamtwiderstand der Schaltung.
 ### Seite 78
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 78](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=78>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=78]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 78](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=78>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=78]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=78]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=78]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -35652,11 +35653,11 @@ wird
 ### Seite 79
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 79](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=79>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=79]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 79](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=79>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=79]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=79]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=79]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -35759,11 +35760,11 @@ Aufgabe 1a( = UmA , +=50cms
 ### Seite 80
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 80](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=80>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=80]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 80](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=80>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=80]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=80]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=80]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -35847,11 +35848,11 @@ RüntRi
 ### Seite 81
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 81](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=81>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=81]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 81](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=81>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=81]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=81]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=81]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -35977,11 +35978,11 @@ Rx i
 ### Seite 82
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 82](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=82>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=82]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 82](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=82>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=82]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=82]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=82]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -36221,11 +36222,11 @@ R+ + min)
 ### Seite 83
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 83](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=83>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=83]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 83](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=83>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=83]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=83]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=83]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -36397,11 +36398,11 @@ wie bei al
 ### Seite 84
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 84](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=84>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=84]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 84](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=84>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=84]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=84]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=84]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -36561,11 +36562,11 @@ I
 ### Seite 85
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 85](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=85>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=85]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 85](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=85>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=85]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=85]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=85]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -36722,11 +36723,11 @@ Bereichs
 ### Seite 86
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 86](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=86>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=86]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 86](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=86>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=86]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=86]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=86]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -36868,11 +36869,11 @@ USchritt
 ### Seite 87
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 87](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=87>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=87]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 87](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=87>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=87]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=87]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=87]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -37030,11 +37031,11 @@ PE
 ### Seite 88
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 88](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=88>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=88]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 88](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=88>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=88]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=88]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=88]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -37091,11 +37092,11 @@ Auslösen der vorgeschalteten Sicherheitseinrichtung
 ### Seite 89
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 89](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=89>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=89]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 89](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=89>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=89]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=89]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=89]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -37182,11 +37183,11 @@ es geschehen ?
 ### Seite 90
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 90](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=90>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=90]]`
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 90](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=90>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=90]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=90]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=90]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -37246,3 +37247,403 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 Maßnahmen der Ersten-Hilfe
 ```
 
+### Seite 91
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 91](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=91>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=91]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=91]]
+
+> [!ocr] Visuell transkribiert
+> Aufgaben 1–4 zu USV-Anlagen, handschriftliche Antworten und beschriftetes USV-Blockschaltbild (bereinigt um Linien-Artefakte) aus Sichtprüfung transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+FU-IT: Grundlagen Elektrotechnik (Wild) – USV-Anlagen (Blatt 1)
+
+Schaue dir die Videos zum Thema USV aufmerksam an und beantworte die Fragen 1 bis 5.
+
+1. Wofür stehen die Abkürzungen USV sowie UPS?
+- USV = Unterbrechungsfreie Stromversorgung
+- UPS = Uninterruptible Power Supply (handschriftlich: „Uninteruptible Power Supply“)
+
+2. Worin besteht der Unterschied zwischen einer USV-Anlage und einer Notstromversorgung?
+- USV -> Stromversorgung für wenige Minuten (Überbrückung kurzer Ausfälle / geordnetes Herunterfahren).
+
+3. Vervollständige das nachfolgende Blockschaltbild einer USV und beschrifte die einzelnen Komponenten:
+- Netz -> Umschalter direkt zum Verbraucher (Normalbetrieb) ODER Abzweig über Gleichrichter -> Akkumulator -> Wechselrichter -> Umschalter zum Verbraucher.
+
+4. In welchen Bereichen findet eine USV-Anlage Anwendung?
+- Rechenzentrum, Bürogebäude, Cloud-Service, Sicherheitsbereich, Krankenhäuser.
+```
+
+### Seite 92
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 92](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=92>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=92]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=92]]
+
+> [!ocr] Visuell transkribiert
+> Aufgaben 5–7, Angebotsvergleich (2 Eaton-USV-Modelle aus eingebettetem Screenshot) und Einstieg Offline-USV (VFD) bereinigt aus Sichtprüfung transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+FU-IT: Grundlagen Elektrotechnik (Wild) – USV-Anlagen (Blatt 2)
+
+5. Gegen welche Netzstörungen schützt eine USV-Anlage?
+- Netzausfall, Spannungsschwankungen, Überspannung, Frequenzabweichungen.
+
+6. Um euch künftig vor Datenverlusten durch Stromausfälle zu schützen, sucht ihr im Internet nach einer USV-Anlage für euren Desktop-PC. Auf Anhieb findet ihr nachfolgende Angebote: Durch welche Parameter unterscheiden sich die beiden Angebote bzw. USV-Anlagen?
+- Angebot 1 (Screenshot): Eaton USV Ellipse PRO 1200 DIN – Line Interactive USV (ELP1200DIN), 1200 VA, 8 IEC-Ausgänge, Spannungsregelung (AVR), USV mit Display und USB-Schnittstelle (inkl. USB-Kabel), 296,87 € (UVP 328,00 €).
+- Angebot 2 (Screenshot): Eaton USV Ellipse ECO 1600 USB DIN – Off-line Unterbrechungsfreie Stromversorgung (USV) (EL1600USBDIN), 1600 VA mit Überspannungsschutz, 8 Schuko-Ausgänge, Akku, 234,00 € (UVP 339,00 €).
+- Antwort: USV-Arten, Schutzmechanismen, Ausgangsleistung, Ausgangsarten, Preis, Display.
+
+7. USV-Arten: Lese dir die nachfolgenden Infoabschnitte durch. Ordne anschließend die einzelnen Blockschaltbilder den unterschiedlichen USV-Arten zu. Notiere außerdem die Vor- und Nachteile jeder USV-Art in untenstehender Tabelle.
+
+Offline-USV (VFD = Voltage and Frequency Dependent)
+Die vom Aufbau einfachste und damit günstigste Variante ist eine USV mit Offline-Technologie. Im Normalbetrieb wird die eingehende Netzspannung direkt an den Verbraucher weitergegeben und der Akkumulator der USV geladen. Dadurch liegt an der Last exakt die vom Netz bereitgestellte Spannung an. Nachteil: Änderungen und Störungen ... (Fortsetzung auf Seite 93).
+```
+
+### Seite 93
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 93](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=93>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=93]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=93]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+FU-IT: Grundlagen Elektrotechnik (Wild)
+USV-Anlagen Klasse:
+Name: Datum:
+3
+mit hohen Frequenzen können nicht abgefangen werden. Die USV ist demnach spannungs-
+und frequenzabhängig (VFD)!
+Im Fehlerfall wird automatisch ein Umschalter betätigt. Dieser gibt den Impuls, die Akkus zu
+nutzen und den Ersatzstrom über einen Wechselrichter an den Verbraucher weiterzugeben.
+Die Umschaltzeiten unter zehn Millisekunden sind ausreichend.
+Nachteil: Bei schlechter Netzspannung besteht die Gefahr, dass das System ständig
+umschaltet, obwohl gar kein Stromausfall vorliegt. Folge: Die Akkus werden entweder
+dauerhaft entladen oder ständig nur teilentladen. In jedem Fall erhöht sich der
+Batterieverschleiß. Zudem ist der Wirkungsgrad mit lediglich 90 Prozent gering. Durch die
+Einfachheit der Technologie sind diese USV-Anlagen jedoch vergleichsweise günstig.
+Line-interactive-USV (VI =Voltage Independent)
+Aktive Standby-USVs sind eine Weiterentwicklung der Offline-Technologie. Als aktive
+Komponente dient im Normalbetrieb der automatische Spannungsregulator (Automatic
+Voltage Regulator, AVR). Dieser sorgt für eine konstante Ausgangsspannung. Erst bei
+auftretenden Netzfehlern schaltet die USV auf Akkubetrieb um und der Wechselrichter tritt
+in Aktion. Im Gegensatz zur Offline-Variante ist die USV hier demnach
+spannungsunabhängig (VI)!
+Der große Vorteil der Technik liegt im gesteuerten Spannungsregelkreis des AVR. Dieser
+gewährleistet die Versorgung des angeschlossenen Verbrauchers über einen weiten
+Eingangsspannungs-Bereich. Es muss nicht schon bei geringen Schwankungen in den
+Batteriebetrieb geschaltet werden. Erst wenn die Elektronik einen Netzausfall registriert,
+schaltet auch diese Technologie auf Batteriebetrieb um.
+Online-USV (VFI = Voltage and Frequency Independent)
+Bei diesem dritten Typ generiert die USV eine Wechselspannung und versorgt damit die
+angeschlossenen Geräte über den Wechselrichter. Daher auch die Bezeichnung »Online«.
+Im Normalbetrieb wird die Eingangsspannung gefiltert, gleichgerichtet und zum Laden der
+Akkus genutzt. Anschließend durchläuft die Spannung den Wechselrichter und gelangt zum
+Verbraucher. Durch diese permanente zweifache Spannungswandlung ist der Verbraucher
+komplett vom speisenden Netz getrennt und kann von der USV mit einer sauberen
+Sinusspannung versorgt werden. Die USV ist demnach spannungs- und
+frequenzunabhängig (VFI). Da das angeschlossene Gerät zudem die ganze Zeit vom
+Wechselrichter gespeist wird, gibt es im Fall eines Stromausfalls keinerlei Umschaltzeiten.
+Nachteil: Der Wirkungsgrad ist mit 90 Prozent eher gering. Darüber hinaus ist der Kaufpreis
+```
+
+### Seite 94
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 94](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=94>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=94]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=94]]
+
+> [!ocr] Visuell transkribiert
+> Fortsetzung Online-USV (Bypass) sowie USV-Vergleichstabelle (Offline-USV, Line-interactive-USV) inkl. Hinweis zur vertauschten Schaltbild-Zuordnung zwischen Seite 94 und 95 aus Sichtprüfung transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+FU-IT: Grundlagen Elektrotechnik (Wild) – USV-Anlagen (Blatt 4)
+
+(Fortsetzung Online-USV): ... bei diesen USV-Varianten meist am höchsten. Als Besonderheit besitzen Online-USVs einen Bypass, der zwei Aufgaben erfüllt: Einerseits wird bei auftretenden Lastspitzen, wie beim Einschalten zusätzlicher Endverbraucher, direkt auf das speisende Spannungsnetz umgeschaltet. Zum anderen stellt der Bypass bei einem Defekt innerhalb der USV die Energieversorgung des angeschlossenen Verbrauchers sicher. Der Vorteil dieser Technik liegt in der sauberen Ausgangsspannung (Sinuswelle) für den Verbraucher.
+
+Vergleichstabelle USV-Arten:
+1. Offline-USV (in Mitschrift „offline-USU“):
+   - Normalbetrieb (Schaltbild): Netz direkt über Umschalter zum Verbraucher; parallel Gleichrichter lädt Akkumulator.
+   - Störfall (Schaltbild): Akkumulator speist über Wechselrichter und Umschalter den Verbraucher.
+   - Vorteile: günstig.
+   - Nachteile: Änderungen und Störungen nicht abfangen (spannungs- und frequenzabhängig, VFD).
+
+2. Line-interactive-USV:
+   - Vorteile: spannungsunabhängig (VI).
+   - Nachteile: frequenzabhängig.
+   - [Hinweis aus Sichtprüfung: In der Mitschrift wurde in dieser Zeile versehentlich das Blockschaltbild mit Bypass (= Online-USV) eingeklebt und auf Seite 95 bei Online-USV das Schaltbild mit AVR/Spannungsregler (= Line-interactive-USV). Fachlich gehört das AVR-Schaltbild zur Line-interactive-USV und das Bypass-Schaltbild zur Online-USV.]
+```
+
+### Seite 95
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 95](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=95>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=95]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=95]]
+
+> [!ocr] Visuell transkribiert
+> Tabellenzeile Online-USV und Abschnitt 8 (Dimensionierung einer USV) bereinigt um Linien-Artefakte aus Sichtprüfung transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+FU-IT: Grundlagen Elektrotechnik (Wild) – USV-Anlagen (Blatt 5)
+
+Vergleichstabelle USV-Arten (Fortsetzung):
+3. Online-USV:
+   - Vorteile: keine Umschaltzeiten.
+   - Nachteile: niedriger Wirkungsgrad (und hoher Kaufpreis).
+   - [Hinweis aus Sichtprüfung: Das eingeklebte Schaltbild zeigt AVR/Spannungsregler (= Line-interactive-USV); das eigentliche Online-USV-Schaltbild mit Bypass steht versehentlich auf Seite 94.]
+
+Jeder USV-Typ bringt wie oben erarbeitet gewisse Vor- und Nachteile mit sich und schlägt sich auf den Kaufpreis der USV nieder!
+
+8. Dimensionierung einer USV:
+Die Auswahl einer geeigneten USV-Anlage erfolgt anhand zwei wesentlicher Entscheidungskriterien:
+- Autonomiezeit (Überbrückungszeit)
+- Nennbelastbarkeit (Leistung, die die USV für eine bestimmte Zeit zur Verfügung stellen kann)
+```
+
+### Seite 96
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 96](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=96>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=96]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=96]]
+
+> [!ocr] Visuell transkribiert
+> Theorieabschnitt Parameter Nennbelastbarkeit inkl. handschriftlich ausgefüllter Leistungsformeln (P_el, S_el, cos φ, Blindleistung Q) aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+FU-IT: Grundlagen Elektrotechnik (Wild) – USV-Anlagen (Blatt 6)
+
+Parameter: Nennbelastbarkeit
+Die elektrische Wirkleistung P_el für Gleichstromverbraucher können wir bereits anhand nachstehender Formel berechnen:
+P_el = U · I   (Diese Formel gilt nur bei Gleichstromverbrauchern!)
+
+Die USV-Anlage soll jedoch nicht einzelne Gleichstromverbraucher (z. B. PC-Komponenten) versorgen, sondern Wechselstromverbraucher, wie beispielsweise das PC-Netzteil und den Monitor. Im Falle von Wechselstromverbrauchern gelten folgende Formeln und Einheiten:
+- P_el = U · I · cos φ   |   [P_el] = Watt = W
+- S_el = U · I           |   [S_el] = VoltAmpere = VA
+Hinweis: Ist der Wirkleistungsfaktor cos φ nicht angegeben, so kann mit dem Wert 0,8 gerechnet werden!
+
+Einschub: Bei Wechselstromkomponenten wie beispielsweise PC-Netzteilen mit induktiven und kapazitiven Elementen findet eine zeitliche Verschiebung (sog. Phasenverschiebung) zwischen Strom und Spannung statt (Abbildung 1: Phasenverschiebung von Strom und Spannung mit Gesamtleistung, Wirkleistung, Blindleistung). Das Produkt aus Strom I und Spannung U wird bei Wechselstromverbrauchern deshalb als Scheinleistung S_el bezeichnet. Diese ist durch die Phasenverschiebung von Strom und Spannung höher als die tatsächlich benötigte Wirkleistung P_el. Es besteht folgender Zusammenhang:
+S = sqrt(P^2 + Q^2)
+
+Q_el bzw. Q ist die sogenannte Blindleistung. Diese wird zeitversetzt wieder zurück in das Netz gespeist (Hinweis: Es muss lediglich die Wirkleistung P bezahlt werden!).
+Für den Betrieb der Wechselstromverbraucher muss eine USV demnach nicht nur die Wirkleistung P_el, sondern die sogenannte Scheinleistung S_el zur Verfügung stellen. Im Datenblatt einer USV wird deshalb häufig die Nennbelastbarkeit bezogen auf die ... (Fortsetzung auf Seite 97).
+```
+
+### Seite 97
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 97](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=97>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=97]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=97]]
+
+> [!ocr] Visuell transkribiert
+> Beispielaufgabe Scheinleistung/Stromstärke mit handschriftlichem Rechenweg sowie Formel für die Autonomiedauer t_A aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+FU-IT: Grundlagen Elektrotechnik (Wild) – USV-Anlagen (Blatt 7)
+
+... Scheinleistung S_el angegeben (siehe Angebote Seite 2). Das Verhältnis aus Wirkleistung P_el und Scheinleistung S_el wird als Wirkleistungsfaktor cos φ bezeichnet.
+
+Beispielaufgabe:
+Eine USV-Anlage soll ein PC-Netzteil mit 230 V versorgen. Das PC-Netzteil nimmt an seinem Eingang eine Wirkleistung von 800 W auf. Das Netzteil hat einen Wirkleistungsfaktor cos φ von 0,9.
+Welche Scheinleistung S_el muss die USV-Anlage zur Verfügung stellen und welche Stromstärke I fließt dann zwischen USV und Netzteil?
+
+Rechenweg (handschriftlich):
+Gegeben: P_el = 800 W, cos φ = 0,9, U = 230 V
+P_el = U · I · cos φ = S_el · cos φ
+S_el = P_el / cos φ = 800 W / 0,9 = 888,89 VA
+S_el = U · I  =>  I = S_el / U = 888,89 VA / 230 V = 3,86 A
+
+Parameter: Autonomiedauer
+Die Autonomiedauer t_A bezieht sich auf die Zeitspanne, während der eine USV die angeschlossenen Geräte mit Strom versorgen kann, wenn das Netz ausgefallen ist. Sie lässt sich mit folgender Formel berechnen:
+t_A = (n_Akku · U_Akku · Q_Akku) / S_gesamt
+- n_Akku: Anzahl Akkumulatoren in Stück
+- U_Akku: Spannung der Akkus in V
+- Q_Akku: Kapazität der Akkus in Ah
+
+Beispielaufgabe:
+Zwei Disk-Arrays mit einer Leistungsaufnahme von jeweils 360 VA sollen an eine Online-USV angeschlossen werden. Die USV enthält 24 Akkumulatoren mit jeweils 12 V Spannung und einer Kapazität von jeweils 3,6 Ah. (Fortsetzung auf Seite 98.)
+```
+
+### Seite 98
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 98](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=98>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=98]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=98]]
+
+> [!ocr] Visuell transkribiert
+> Handschriftliche Autonomiezeit-Rechnung sowie eingescannte AP1-Aufgaben Winter 2020/21 (aa, ab) inkl. handschriftlicher Antworten aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+FU-IT: Grundlagen Elektrotechnik (Wild) – USV-Anlagen (Blatt 8)
+
+Beispielaufgabe (Fortsetzung von Seite 97):
+Bei einem Netzausfall soll die USV den Betrieb der Disk-Arrays so lange aufrechterhalten, bis die Akkus eine Restladung von 35 % erreicht haben.
+Berechne die Autonomiezeit t_A, wenn davon ausgegangen wird, dass alle 24 Akkumulatoren bei Eintritt des Stromausfalls zu 100 % aufgeladen sind. Gib das Ergebnis in Minuten und Sekunden an.
+
+Rechenweg (handschriftlich):
+Nutzbare Kapazität: 100 % - 35 % = 65 % = 0,65
+t_A = (n_A · U_A · Q_A · 0,65) / S = (24 · 12 V · 3,6 Ah · 0,65) / (2 · 360 VA)
+t_A = 0,936 h = 56,16 min (in Mitschrift Zahlendreher „65,16 min“) = 56 min + 9,6 s
+
+Auszug Abschlussprüfung Teil 1 Winter 2020/21:
+1. Handlungsschritt (25 Punkte)
+Für die Absicherung der IT-Infrastruktur der CLOUD-Brain UG soll eine USV angeschafft werden.
+
+aa) Nennen Sie zwei Aufgaben einer USV. (2 Punkte)
+Antwort (handschriftlich):
+1. Aufrechterhaltung der Stromversorgung
+2. Schutz vor Spannungsschwankungen
+
+ab) Nennen Sie zwei Kriterien zur Auswahl einer USV. (2 Punkte)
+Antwort (handschriftlich):
+1. Benötigte Scheinleistung
+2. Autonomiezeit
+```
+
+### Seite 99
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 99](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=99>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=99]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=99]]
+
+> [!ocr] Visuell transkribiert
+> Eingescannte AP1-Aufgaben (ac, ad, b, c/ca) sowie handschriftliche Lösungen und Leistungsberechnung mit 25 % Reserve aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+FU-IT: Grundlagen Elektrotechnik (Wild) – USV-Anlagen (Blatt 9)
+
+ac) Bringen Sie die folgenden Schritte zur Vorgehensweise bei der Auswahl einer USV durch Eintragen der Ziffern 1 bis 6 in die richtige Reihenfolge. (3 Punkte)
+- Geeignete USV auswählen: 6
+- Ermittlung des Leistungsbedarfs für jedes angeschlossene Gerät: 2
+- Sicherheitsreserve planen = min. 25 %: 5
+- Leistungsbedarf der USV ermitteln: 3
+- Auflistung aller Geräte, die eine USV benötigen: 1
+- Welche Geräte kommen in absehbarer Zukunft mit welchem Leistungsbedarf hinzu: (offen, entspricht Schritt 4)
+
+ad) Nennen Sie neben dem Server drei weitere IT-Komponenten, die mit einer USV abgesichert werden sollten. (3 Punkte)
+Antwort (handschriftlich): Router, Server [Hinweis: laut Frage neben dem Server z. B. Firewall/NAS/Storage], Switches.
+
+b) USV-Systeme werden in drei Klassen eingeteilt. Benennen Sie diese Klassifizierungen. (3 Punkte)
+Antwort (handschriftlich): Offline, Online, Line-Interactive.
+
+Fortsetzung 1. Handlungsschritt
+c) Die IT-Geräte sollen gegen Störungen der Stromversorgung abgesichert werden.
+ca) Berechnen Sie die Leistung der USV in VA unter Berücksichtigung einer Leistungsreserve von 25 %. (5 Punkte)
+Zu sichernde Geräte: Server 600 W, Firewall 100 VA, Switch 0,8 A / 230 V.
+Berücksichtigen Sie einen Wirkleistungsfaktor von 0,8 für die IT-Komponenten. Der Rechenweg ist anzugeben.
+
+Rechenweg (handschriftlich):
+S_Server = 600 W / 0,8 = 750 VA
+S_Firewall = 100 VA
+S_Switch = 230 V · 0,8 A = 184 VA
+S_gesamt_mit_Reserve = (750 VA + 100 VA + 184 VA) · 1,25 = 1034 VA · 1,25 = 1292,5 VA
+```
+
+### Seite 100
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 100](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=100>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=100]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=100]]
+
+> [!ocr] Visuell transkribiert
+> Eingescannte AP1-Aufgabe cb) mit Autonomiezeit-Kennliniendiagramm (USV A–E) sowie Begründung aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+FU-IT: Grundlagen Elektrotechnik (Wild) – USV-Anlagen (Blatt 10)
+
+cb) Eine Autonomiezeit von 40 Minuten muss für den unter ca) errechneten Leistungsbedarf gewährleistet sein. Ermitteln Sie zeichnerisch die geeignete USV und begründen Sie Ihr Ergebnis. (Ohne Ergebnis aus Aufgabe ca) ist eine Last von 1.400 VA zu berücksichtigen.) (7 Punkte)
+
+Zur Auswahl stehende USV-Modelle (Tabelle neben Kennliniendiagramm Autonomiezeit [min] über Last [VA]):
+- A: 2.000 VA
+- B: 3.000 VA
+- C: 4.000 VA
+- D: 5.000 VA
+- E: 6.000 VA
+
+Zeichnerische Ablesung im Diagramm:
+Eingezeichnete Hilfslinien bei 40 min (y-Achse) und ca. 1.292,5 VA (x-Achse). Bei ca. 1.292,5 VA liegt Kennlinie B bereits unterhalb von 40 min (ca. 35 min), während Kennlinie C deutlich oberhalb von 40 min (ca. 60 min) liegt.
+
+Begründung (Mitschrift):
+C ist im passenden Bereich, B würde die 40 min nicht mehr gewährleisten und es muss immer noch ein Puffer mit einberechnet werden.
+```
+
+### Seite 101
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_AB_Ladung Q.pdf Seite 101](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=101>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=101]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=101]]
+
+> [!ocr] Visuell transkribiert
+> Aufgaben cc–ce inkl. Antworten bereinigt um Linien-Artefakte und Tippfehler aus Sichtprüfung transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+FU-IT: Grundlagen Elektrotechnik (Wild) – USV-Anlagen (Blatt 11)
+
+cc) Nenne drei Gründe, warum bei der Dimensionierung einer USV-Anlage eine Leistungsreserve einberechnet werden sollte.
+Antwort:
+1. Zukünftige Erweiterungen (Anschluss weiterer Geräte).
+2. Alterung der Akkumulatoren (Kapazitätsverlust der Batterien im Laufe der Betriebsjahre).
+3. Abfangen von kurzzeitigen Einschaltströmen (Spitzenlasten) der IT-Geräte.
+
+cd) Welches ist das fehleranfälligste Bauteil einer USV-Anlage und wie oft muss dieses laut Hersteller oder DGUV V3 geprüft werden?
+Antwort:
+Der Akkumulator; diesen am besten jährlich prüfen lassen.
+
+ce) Warum wird eine USV im produktiven Serverbetrieb über ein Datenkabel (USB oder Netzwerkkarte) mit den Servern verbunden?
+Antwort:
+Damit mit dem Server kommuniziert werden kann und Akkustand und Stromausfall mitgeteilt werden können (z. B. für geordnetes Herunterfahren).
+```

@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Elterngeld und Elternzeit** im Fach **PuG Politik und Gesellschaft**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/PUG/Pug.pdf#page=16|Pug S. 16]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=20|Pug S. 20]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=16|Pug S. 16]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20|Pug S. 20]].
 > - **Zentrale Suchbegriffe:** Elterngeld, Elternzeit, Außerordentliche, Kündigung.
 > - **Prüfungsbezug:** AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -51,8 +51,8 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 16](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=16>) | Elterngeld | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=20>) | Außerordentliche Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 16](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=16>) | Elterngeld | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20>) | Außerordentliche Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -61,11 +61,11 @@ tags:
 #### Seite 16: Elterngeld
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 16](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=16>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=16]]`
+> - PDF: [Pug.pdf Seite 16](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=16>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=16]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=16]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Elterngeld und Elternzeit
@@ -80,11 +80,11 @@ und Elternzeit
 #### Seite 20: Außerordentliche Kündigung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=20]]`
+> - PDF: [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=20]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Außerordentliche Kündigung (fristlose Kündigung) Es muss ein wichtiger Grund vorliegen -AN: z .b Ausbleiben des Gehalts -AG : Diebstahl , Schweigepflichtsverletzung Außerordentliche Kündigung muss innerhalb 2 Wochen nach bekannt werden des wichtigen Grundes ausgesprochen werden. Wer hat einen besonderen Kündigungsschutz? -Schwerbehinderte -Schwangere /4 Monate nach Geburt - AN in Pflegezeit/Elternzeit - Betriebsrat/CAV- und ein Jahr nach Beendigung de Tätigkeit als BR/SAV - Datenschutzbeauftragter/Sicherheitsbeauftragter- und ein Jahr nach Beendigung der Tätigkeit als DSB - Freiwilligen Dienst/Wehrdienst - (Azubis) Welche Punkte sind bei einer Kündigung zu beachten ? - Schriftlich (mit Unter …
@@ -160,7 +160,7 @@ worden sein
 - Frage:: Welche Vorgabe nennt die Quelle zu **Außerordentliche Kündigung**?
 - Antwort:: Außerordentliche Kündigung (fristlose Kündigung) Es muss ein wichtiger Grund vorliegen -AN: z .b Ausbleiben des Gehalts -AG : Diebstahl , Schweigepflichtsverletzung Außerordentliche Kündigung muss innerhalb 2 Wochen nach bekannt werden des wichtigen Grundes ausgesprochen werden.
 - Beleg:: Außerordentliche Kündigung (fristlose Kündigung) Es muss ein wichtiger Grund vorliegen -AN: z .b Ausbleiben des Gehalts -AG : Diebstahl , Schweigepflichtsverletzung Außerordentliche Kündigung muss innerhalb 2 Wochen nach bekannt werden des wichtigen Grundes ausgesprochen werden.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=20|Pug S. 20]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20|Pug S. 20]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

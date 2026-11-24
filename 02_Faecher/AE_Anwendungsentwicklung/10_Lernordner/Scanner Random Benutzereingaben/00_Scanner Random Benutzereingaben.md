@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Scanner Random Benutzereingaben** im Fach **AE Anwendungsentwicklung**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01AlgorithmusProgrammSoftwareEVA S. 1]]; [[99_Originale/Basics/JAVA/Java Basics.pdf#page=3|Java Basics S. 3]]; [[99_Originale/Basics/JAVA/Java Basics.pdf#page=4|Java Basics S. 4]]; [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1|02Unternehmenswiki-4.Block S. 1]]; [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11|02Unternehmenswiki-4.Block S. 11]]; [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12|02Unternehmenswiki-4.Block S. 12]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01AlgorithmusProgrammSoftwareEVA S. 1]]; [[99_Originale/Basics/JAVA/Java Basics.pdf#page=3|Java Basics S. 3]]; [[99_Originale/Basics/JAVA/Java Basics.pdf#page=4|Java Basics S. 4]]; [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1|02Unternehmenswiki-4.Block S. 1]]; [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11|02Unternehmenswiki-4.Block S. 11]]; [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12|02Unternehmenswiki-4.Block S. 12]].
 > - **Zentrale Suchbegriffe:** Scanner, Random, Benutzereingaben, Einstieg, Programmierung, scannern, kann, mar, Randome-Klasse, Unternehmenswiki.
 > - **Prüfungsbezug:** AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -62,30 +62,30 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1>) | Einstieg in die Programmierung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1>) | Einstieg in die Programmierung | Quellenreferenz/Keyword/chronologische Themenstruktur |
 | 2 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics\|JAVA_Java_Basics]] | [Java Basics.pdf Seite 3](<../../../../99_Originale/Basics/JAVA/Java Basics.pdf#page=3>) | scannern kann mar | Quellenreferenz/Keyword/chronologische Themenstruktur |
 | 3 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics\|JAVA_Java_Basics]] | [Java Basics.pdf Seite 4](<../../../../99_Originale/Basics/JAVA/Java Basics.pdf#page=4>) | Randome-Klasse | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11>) | Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12>) | Zunächst wird mittels der Tasten das Wifi-Symbol ausgewählt und anschließend das | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22>) | int x, y, z; | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48>) | Wird es nun ausgeführt, erhält man auf der Konsole folgenden Text: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11>) | Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=12>) | Zunächst wird mittels der Tasten das Wifi-Symbol ausgewählt und anschließend das | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22>) | int x, y, z; | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48>) | Wird es nun ausgeführt, erhält man auf der Konsole folgenden Text: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=3>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 17 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=11>) | Dies wird nun um den Code erweitert, dass „Hallo EIT10“ ausgegeben wird. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 18 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=12>) | 2.2 Einbindung von LegoMindstorm | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 19 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 16](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=16>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 20 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=20>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 21 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 29](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=29>) | Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 22 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=30>) | Zunächst wird mittels der Tasten das Wifi-Symbol ausgewählt und anschließend das | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 23 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=33>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 24 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=40>) | int x, y, z; | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11>) | Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12>) | Zunächst wird mittels der Tasten das Wifi-Symbol ausgewählt und anschließend das | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22>) | int x, y, z; | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48>) | Wird es nun ausgeführt, erhält man auf der Konsole folgenden Text: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11>) | Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=12>) | Zunächst wird mittels der Tasten das Wifi-Symbol ausgewählt und anschließend das | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22>) | int x, y, z; | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48>) | Wird es nun ausgeführt, erhält man auf der Konsole folgenden Text: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=3>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 17 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=11>) | Dies wird nun um den Code erweitert, dass „Hallo EIT10“ ausgegeben wird. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 18 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=12>) | 2.2 Einbindung von LegoMindstorm | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 19 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 16](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=16>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 20 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=20>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 21 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 29](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=29>) | Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 22 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=30>) | Zunächst wird mittels der Tasten das Wifi-Symbol ausgewählt und anschließend das | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 23 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=33>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 24 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=40>) | int x, y, z; | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -94,11 +94,11 @@ tags:
 #### Seite 1: Einstieg in die Programmierung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Einstieg in die Programmierung Anwendungsentwicklung Name: Klasse: Datum: Einige Grundbegriffe Die Entwicklung des Computers ermöglichte es, Rechenarbeit von Maschinen erledigen zu lassen. Der Computer kann jedoch allein keine Probleme lösen, ihm muss ein Lösungsweg vorgegeben werden. Dieser Lösungsweg wird dem Computer in Form eines Programms mitgeteilt. Ein Programm, was ist das eigentlich? • Ein Programm ist ein „Rezept“, eine Bearbeitungsvorschrift für einen Computer zur Lösung einer vorgegebenen Aufgabe und … • diese Bearbeitungsvorschrift wird auch Algorithmus genannt und … • der Algorithmus ist in einer speziellen Sprache formuliert, der Programmiersprache. • Die in der Programmierspr …
@@ -256,11 +256,11 @@ speichern
 #### Seite 1: Unternehmenswiki
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Unternehmenswiki Inhaltsverzeichnis 1. Java ........................................................................................................................ 3 1.1. Vorstellung von Java ........................................................................................ 3 1.2. Wichtige Begriffe in Java .................................................................................. 4 IDE ....................................................................................................................... 4 Java Development Kit .......................................................................................... 4 API ........................................................ …
@@ -297,11 +297,11 @@ Funktionsweise und Verarbeitung des Codes in Java...............................
 #### Seite 11: Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und Strichpunkte („Semikolon“). Nun kann der Code mittels des grünen Run-Buttons ausgeführt werden. In der Konsole wird nun folgendes ausgegeben: Somit wurde das erste Programm geschrieben und auch ausgeführt. 2.2 Einbindung von LegoMindstorm 2.2.1. Vorstellung von LegoMindstorm Um den Unterricht praxisnaher zu gestalten und das jeweilige Ergebnis nicht nur auf der Konsole auf dem Bildschirm anzeigen zu lassen, wird im Unterricht mit LegoMindstorm-Robotern gearbeitet. Diese sind bereits zusammengebaut und bieten diverse Möglichkeiten, um den ausgeführten Code anschaulicher wirken zu lassen. 2.2.1. Anbindung von LegoM …
@@ -334,11 +334,11 @@ verbinden, müssen nun folgende Schritte beachtet werden:
 #### Seite 12: Zunächst wird mittels der Tasten das Wifi-Symbol ausgewählt und anschließend das
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Zunächst wird mittels der Tasten das Wifi-Symbol ausgewählt und anschließend das Passwort eingegeben. Anschließend wird der Rechner mit dem Roboter verbunden. Dazu wird in Eclipse die IP-Adresse unter Window -> Preferences eingegeben und mit Apply bestätigt! 2.2.1. Ausgabe der Konsole mittels LegoMindstorm Sollte es zu einer Störung kommen, muss überprüft werden, ob der Roboter noch mit dem WLAN verbunden ist. 2.2.1. Erstellung und Ausführung eines Programms Zunächst muss ein neues Projekt angelegt werden, welches ein spezielles LeJOS EV3 – Projekt ist.
@@ -364,11 +364,11 @@ EV3 – Projekt ist.
 #### Seite 15: Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den Mindstorm-Roboter oder über die Konsole auf dem Bildschirm ausgegeben werden soll. 2.3 Begriffe des ersten Programms Im vorherigen Kapitel wurde das erste Programm geschrieben, ausgeführt und dabei viele neue Begriffe verwendet. Im Folgenden soll nun auf die Bedeutung der Begriffe eingegangen werden: Public class HalloEIT10{ Public static void main(String[] args) { System.out.println(„Hallo EIT10!“); } } Das Schlüsselwort class leitet den Code für eine Klasse ein. Eine Klasse ist ein abgeschlossener Code-Bereich. Dies wird später noch im Kapitel „Objektorientierte Programmierung“ genauer erläutert. Auf class folgt der …
@@ -408,11 +408,11 @@ Methode mit der Signatur "public static void main(String args[])"
 #### Seite 22: int x, y, z;
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > int x, y, z; x = 3; y = x + z; Der Fehler liegt hier darin, dass die Variable z noch nicht initialisiert wurde. 4.4 Zugriff und Ausgaben von Variablen Bisher wurde nun eine Variable deklariert und initialisiert. In der Praxis ist es jedoch erforderlich, dass der Inhalt der Variable abgerufen wird. Dies geschieht mittels der Methode System.out.println(). Die Variable teilnehmernummer wurde in folgendem Beispiel deklariert und initialisiert. Um sie sich nun auf der Konsole (auf dem Bildschirm) anzeigen lassen zu können, muss nur der Bezeichner als sogenannter „Parameter“ in die runden Klammern der Methode geschrieben werden. int teilnehmernummer = 357; // Die Deklaration und Initialisierung er …
@@ -462,11 +462,11 @@ werden. Diese werden in einem späteren Kapitel genauer behandelt.
 #### Seite 48: Wird es nun ausgeführt, erhält man auf der Konsole folgenden Text:
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wird es nun ausgeführt, erhält man auf der Konsole folgenden Text: Hallo Patrick Willkommen in der Klasse! Der Vorteil ist, wie bereits erwähnt, dass diese Methode nun immer wieder aufgerufen und dies auch mit unterschiedlichen Parametern ausgeführt werden kann.
@@ -487,11 +487,11 @@ und dies auch mit unterschiedlichen Parametern ausgeführt werden kann.
 #### Seite 1: Unternehmenswiki
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Unternehmenswiki Inhaltsverzeichnis 1. Java ........................................................................................................................ 3 1.1. Vorstellung von Java ........................................................................................ 3 1.2. Wichtige Begriffe in Java .................................................................................. 4 IDE ....................................................................................................................... 4 Java Development Kit .......................................................................................... 4 API ........................................................ …
@@ -528,11 +528,11 @@ Funktionsweise und Verarbeitung des Codes in Java...............................
 #### Seite 11: Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und Strichpunkte („Semikolon“). Nun kann der Code mittels des grünen Run-Buttons ausgeführt werden. In der Konsole wird nun folgendes ausgegeben: Somit wurde das erste Programm geschrieben und auch ausgeführt. 2.2 Einbindung von LegoMindstorm 2.2.1. Vorstellung von LegoMindstorm Um den Unterricht praxisnaher zu gestalten und das jeweilige Ergebnis nicht nur auf der Konsole auf dem Bildschirm anzeigen zu lassen, wird im Unterricht mit LegoMindstorm-Robotern gearbeitet. Diese sind bereits zusammengebaut und bieten diverse Möglichkeiten, um den ausgeführten Code anschaulicher wirken zu lassen. 2.2.1. Anbindung von LegoM …
@@ -565,11 +565,11 @@ verbinden, müssen nun folgende Schritte beachtet werden:
 #### Seite 12: Zunächst wird mittels der Tasten das Wifi-Symbol ausgewählt und anschließend das
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=12]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=12]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Zunächst wird mittels der Tasten das Wifi-Symbol ausgewählt und anschließend das Passwort eingegeben. Anschließend wird der Rechner mit dem Roboter verbunden. Dazu wird in Eclipse die IP-Adresse unter Window -> Preferences eingegeben und mit Apply bestätigt! 2.2.1. Ausgabe der Konsole mittels LegoMindstorm Sollte es zu einer Störung kommen, muss überprüft werden, ob der Roboter noch mit dem WLAN verbunden ist. 2.2.1. Erstellung und Ausführung eines Programms Zunächst muss ein neues Projekt angelegt werden, welches ein spezielles LeJOS EV3 – Projekt ist.
@@ -595,11 +595,11 @@ EV3 – Projekt ist.
 #### Seite 15: Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den Mindstorm-Roboter oder über die Konsole auf dem Bildschirm ausgegeben werden soll. 2.3 Begriffe des ersten Programms Im vorherigen Kapitel wurde das erste Programm geschrieben, ausgeführt und dabei viele neue Begriffe verwendet. Im Folgenden soll nun auf die Bedeutung der Begriffe eingegangen werden: Public class HalloEIT10{ Public static void main(String[] args) { System.out.println(„Hallo EIT10!“); } } Das Schlüsselwort class leitet den Code für eine Klasse ein. Eine Klasse ist ein abgeschlossener Code-Bereich. Dies wird später noch im Kapitel „Objektorientierte Programmierung“ genauer erläutert. Auf class folgt der …
@@ -639,11 +639,11 @@ Methode mit der Signatur "public static void main(String args[])"
 #### Seite 22: int x, y, z;
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > int x, y, z; x = 3; y = x + z; Der Fehler liegt hier darin, dass die Variable z noch nicht initialisiert wurde. 4.4 Zugriff und Ausgaben von Variablen Bisher wurde nun eine Variable deklariert und initialisiert. In der Praxis ist es jedoch erforderlich, dass der Inhalt der Variable abgerufen wird. Dies geschieht mittels der Methode System.out.println(). Die Variable teilnehmernummer wurde in folgendem Beispiel deklariert und initialisiert. Um sie sich nun auf der Konsole (auf dem Bildschirm) anzeigen lassen zu können, muss nur der Bezeichner als sogenannter „Parameter“ in die runden Klammern der Methode geschrieben werden. int teilnehmernummer = 357; // Die Deklaration und Initialisierung er …
@@ -693,11 +693,11 @@ werden. Diese werden in einem späteren Kapitel genauer behandelt.
 #### Seite 48: Wird es nun ausgeführt, erhält man auf der Konsole folgenden Text:
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wird es nun ausgeführt, erhält man auf der Konsole folgenden Text: Hallo Patrick Willkommen in der Klasse! Der Vorteil ist, wie bereits erwähnt, dass diese Methode nun immer wieder aufgerufen und dies auch mit unterschiedlichen Parametern ausgeführt werden kann. 7. Kontrollstrukturen 7.1 Verzweigungen 7.1.1 Verzweigungen Bei einer Verzweigung wird eine Auswahl zwischen zwei Szenarien getroffen. Verzweigungen ermöglichen es dabei, abhängig von Bedingungen (bedingte Anweisung), unterschiedliche Code-Teil auszuführen. Bei einer einseitigen Verzweigung wird überprüft, ob es bei einer Erfüllung einer Bedingung zu einer Ausführung oder zu einem Überspringen eines Teils eines Programms kommt oder n …
@@ -747,11 +747,11 @@ bestimmte Bedingung erfüllt ist. Der Ausdruck muss dabei einen Wert vom Datenty
 #### Seite 3: Unternehmenswiki
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=3]]`
+> - PDF: [Wiki.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=3]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Unternehmenswiki Inhaltsverzeichnis 1. Java ........................................................................................................................ 2 1.1. Vorstellung von Java ........................................................................................ 2 1.2. Wichtige Begriffe in Java .................................................................................. 2 IDE ....................................................................................................................... 2 Java Development Kit .......................................................................................... 3 API ........................................................ …
@@ -788,11 +788,11 @@ Funktionsweise und Verarbeitung des Codes in Java...............................
 #### Seite 11: Dies wird nun um den Code erweitert, dass „Hallo EIT10“ ausgegeben wird.
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=11]]`
+> - PDF: [Wiki.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=11]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Dies wird nun um den Code erweitert, dass „Hallo EIT10“ ausgegeben wird. Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und Strichpunkte („Semikolon“). Nun kann der Code mittels des grünen Run-Buttons ausgeführt werden. In der Konsole wird nun folgendes ausgegeben: Somit wurde das erste Programm geschrieben und auch ausgeführt.
@@ -814,11 +814,11 @@ Somit wurde das erste Programm geschrieben und auch ausgeführt.
 #### Seite 12: 2.2 Einbindung von LegoMindstorm
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=12]]`
+> - PDF: [Wiki.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=12]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 2.2 Einbindung von LegoMindstorm 2.2.1. Vorstellung von LegoMindstorm Um den Unterricht praxisnaher zu gestalten und das jeweilige Ergebnis nicht nur auf der Konsole auf dem Bildschirm anzeigen zu lassen, wird im Unterricht mit LegoMindstorm-Robotern gearbeitet. Diese sind bereits zusammengebaut und bieten diverse Möglichkeiten, um den ausgeführten Code anschaulicher wirken zu lassen. 2.2.1. Anbindung von LegoMindstorm Der Rechner kann mit dem Roboter unterschiedlich verbunden werden (z. B. Bluetooth, USB oder Wifi). Anschließend werden die Programme mittels einer Entwicklungsumgebung (z. B. Eclipse) auf den Roboter übertragen und ausgeführt. Hier die Vorgehensweise, um den Roboter mit dem R …
@@ -849,11 +849,11 @@ mit Apply bestätigt!
 #### Seite 16: Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 16](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=16>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=16]]`
+> - PDF: [Wiki.pdf Seite 16](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=16>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=16]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=16]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den Mindstorm-Roboter oder über die Konsole auf dem Bildschirm ausgegeben werden soll. 2.3 Begriffe des ersten Programms Im vorherigen Kapitel wurde das erste Programm geschrieben, ausgeführt und dabei viele neue Begriffe verwendet. Im Folgenden soll nun auf die Bedeutung der Begriffe eingegangen werden: Public class HalloEIT10{ Public static void main(String[] args) { System.out.println(„Hallo EIT10!“); } } Das Schlüsselwort class leitet den Code für eine Klasse ein. Eine Klasse ist ein abgeschlossener Code-Bereich. Dies wird später noch im Kapitel „Objektorientierte Programmierung“ genauer erläutert. Auf class folgt der …
@@ -893,11 +893,11 @@ Methode mit der Signatur "public static void main(String args[])"
 #### Seite 20: Unternehmenswiki
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=20]]`
+> - PDF: [Wiki.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=20]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Unternehmenswiki Inhaltsverzeichnis 1. Java ........................................................................................................................ 2 1.1. Vorstellung von Java ........................................................................................ 2 1.2. Wichtige Begriffe in Java .................................................................................. 3 IDE ....................................................................................................................... 3 Java Development Kit .......................................................................................... 3 API ........................................................ …
@@ -934,11 +934,11 @@ Funktionsweise und Verarbeitung des Codes in Java...............................
 #### Seite 29: Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 29](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=29>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=29]]`
+> - PDF: [Wiki.pdf Seite 29](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=29>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=29]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=29]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und Strichpunkte („Semikolon“). Nun kann der Code mittels des grünen Run-Buttons ausgeführt werden. In der Konsole wird nun folgendes ausgegeben: Somit wurde das erste Programm geschrieben und auch ausgeführt. 2.2 Einbindung von LegoMindstorm 2.2.1. Vorstellung von LegoMindstorm Um den Unterricht praxisnaher zu gestalten und das jeweilige Ergebnis nicht nur auf der Konsole auf dem Bildschirm anzeigen zu lassen, wird im Unterricht mit LegoMindstorm-Robotern gearbeitet. Diese sind bereits zusammengebaut und bieten diverse Möglichkeiten, um den ausgeführten Code anschaulicher wirken zu lassen. 2.2.1. Anbindung von LegoM …
@@ -971,11 +971,11 @@ verbinden, müssen nun folgende Schritte beachtet werden:
 #### Seite 30: Zunächst wird mittels der Tasten das Wifi-Symbol ausgewählt und anschließend das
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=30>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=30]]`
+> - PDF: [Wiki.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=30>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=30]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=30]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Zunächst wird mittels der Tasten das Wifi-Symbol ausgewählt und anschließend das Passwort eingegeben. Anschließend wird der Rechner mit dem Roboter verbunden. Dazu wird in Eclipse die IP-Adresse unter Window -> Preferences eingegeben und mit Apply bestätigt! 2.2.1. Ausgabe der Konsole mittels LegoMindstorm Sollte es zu einer Störung kommen, muss überprüft werden, ob der Roboter noch mit dem WLAN verbunden ist. 2.2.1. Erstellung und Ausführung eines Programms Zunächst muss ein neues Projekt angelegt werden, welches ein spezielles LeJOS EV3 – Projekt ist.
@@ -1001,11 +1001,11 @@ EV3 – Projekt ist.
 #### Seite 33: Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=33>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=33]]`
+> - PDF: [Wiki.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=33>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=33]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=33]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den Mindstorm-Roboter oder über die Konsole auf dem Bildschirm ausgegeben werden soll. 2.3 Begriffe des ersten Programms Im vorherigen Kapitel wurde das erste Programm geschrieben, ausgeführt und dabei viele neue Begriffe verwendet. Im Folgenden soll nun auf die Bedeutung der Begriffe eingegangen werden: Public class HalloEIT10{ Public static void main(String[] args) { System.out.println(„Hallo EIT10!“); } } Das Schlüsselwort class leitet den Code für eine Klasse ein. Eine Klasse ist ein abgeschlossener Code-Bereich. Dies wird später noch im Kapitel „Objektorientierte Programmierung“ genauer erläutert. Auf class folgt der …
@@ -1045,11 +1045,11 @@ Methode mit der Signatur "public static void main(String args[])"
 #### Seite 40: int x, y, z;
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=40>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=40]]`
+> - PDF: [Wiki.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=40>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=40]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=40]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > int x, y, z; x = 3; y = x + z; Der Fehler liegt hier darin, dass die Variable z noch nicht initialisiert wurde. 4.4 Zugriff und Ausgaben von Variablen Bisher wurde nun eine Variable deklariert und initialisiert. In der Praxis ist es jedoch erforderlich, dass der Inhalt der Variable abgerufen wird. Dies geschieht mittels der Methode System.out.println(). Die Variable teilnehmernummer wurde in folgendem Beispiel deklariert und initialisiert. Um sie sich nun auf der Konsole (auf dem Bildschirm) anzeigen lassen zu können, muss nur der Bezeichner als sogenannter „Parameter“ in die runden Klammern der Methode geschrieben werden. int teilnehmernummer = 357; // Die Deklaration und Initialisierung er …
@@ -1119,7 +1119,7 @@ werden. Diese werden in einem späteren Kapitel genauer behandelt.
 - Frage:: Welche Vorgabe nennt die Quelle zu **Projekt angelegt**?
 - Antwort:: Erstellung und Ausführung eines Programms Zunächst muss ein neues Projekt angelegt werden, welches ein spezielles LeJOS EV3 – Projekt ist.
 - Beleg:: Erstellung und Ausführung eines Programms Zunächst muss ein neues Projekt angelegt werden, welches ein spezielles LeJOS EV3 – Projekt ist.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12|02_Unternehmenswiki-4.Block S. 12]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12|02_Unternehmenswiki-4.Block S. 12]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1127,7 +1127,7 @@ werden. Diese werden in einem späteren Kapitel genauer behandelt.
 - Frage:: Welche Vorgabe nennt die Quelle zu **WLAN verbunden**?
 - Antwort:: Sollte es zu einer Störung kommen, muss überprüft werden, ob der Roboter noch mit dem WLAN verbunden ist.
 - Beleg:: Sollte es zu einer Störung kommen, muss überprüft werden, ob der Roboter noch mit dem WLAN verbunden ist.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12|02_Unternehmenswiki-4.Block S. 12]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12|02_Unternehmenswiki-4.Block S. 12]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1135,7 +1135,7 @@ werden. Diese werden in einem späteren Kapitel genauer behandelt.
 - Frage:: Was ist der Kernpunkt zu **int x, y, z;** laut Quelle?
 - Antwort:: Die Schlüsselwörter public, private, protected und static sind nur für Klassenvariablen (fields) relevant, also für Variablen, die auf Klassenebene deklariert werden.
 - Beleg:: Die Schlüsselwörter public, private, protected und static sind nur für Klassenvariablen (fields) relevant, also für Variablen, die auf Klassenebene deklariert werden.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22|02_Unternehmenswiki-4.Block S. 22]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22|02_Unternehmenswiki-4.Block S. 22]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1143,7 +1143,7 @@ werden. Diese werden in einem späteren Kapitel genauer behandelt.
 - Frage:: Was ist der Kernpunkt zu **int x, y, z;** laut Quelle?
 - Antwort:: In der Praxis ist es jedoch erforderlich, dass der Inhalt der Variable abgerufen wird.
 - Beleg:: In der Praxis ist es jedoch erforderlich, dass der Inhalt der Variable abgerufen wird.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22|02_Unternehmenswiki-4.Block S. 22]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22|02_Unternehmenswiki-4.Block S. 22]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1151,7 +1151,7 @@ werden. Diese werden in einem späteren Kapitel genauer behandelt.
 - Frage:: Was ist der Kernpunkt zu **Der Vorteil** laut Quelle?
 - Antwort:: Der Vorteil ist, wie bereits erwähnt, dass diese Methode nun immer wieder aufgerufen und dies auch mit unterschiedlichen Parametern ausgeführt werden kann.
 - Beleg:: Der Vorteil ist, wie bereits erwähnt, dass diese Methode nun immer wieder aufgerufen und dies auch mit unterschiedlichen Parametern ausgeführt werden kann.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48|02_Unternehmenswiki-4.Block S. 48]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48|02_Unternehmenswiki-4.Block S. 48]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1159,7 +1159,7 @@ werden. Diese werden in einem späteren Kapitel genauer behandelt.
 - Frage:: Was ist der Kernpunkt zu **Diese Art der Anweisung** laut Quelle?
 - Antwort:: Diese Art der Anweisung wird also nur ausgeführt, wenn eine bestimmte Bedingung erfüllt ist.
 - Beleg:: Diese Art der Anweisung wird also nur ausgeführt, wenn eine bestimmte Bedingung erfüllt ist.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block|Stol_02_Unternehmenswiki_5_Block]], [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48|02_Unternehmenswiki-5.Block S. 48]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block|Stol_02_Unternehmenswiki_5_Block]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48|02_Unternehmenswiki-5.Block S. 48]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

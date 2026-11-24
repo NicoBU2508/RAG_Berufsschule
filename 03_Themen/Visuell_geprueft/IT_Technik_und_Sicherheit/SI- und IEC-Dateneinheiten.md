@@ -2,15 +2,15 @@
 id: vault.thema.visuell.si.und.iec.dateneinheiten
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "SI- und IEC-Dateneinheiten"
 kategorie: IT_Technik_und_Sicherheit
-quellen: 1
-seiten: 2
+quellen: 3
+seiten: 8
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,9 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [4–5](<99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=4>) | loesung | 2 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften\|FU_IT_2LJ_Abded_Mitschriften]] | [6–7](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=6>) | loesung | 2 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell\|FU_IT_2LJ_Ott_OSI_Modell]] | [6–9](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=6>) | loesung | 4 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [4–5](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=4>) | loesung | 2 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

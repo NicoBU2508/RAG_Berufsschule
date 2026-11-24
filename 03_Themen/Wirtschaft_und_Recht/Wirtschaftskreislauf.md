@@ -24,8 +24,8 @@ Im einfachen Wirtschaftskreislauf tauschen Haushalte und Unternehmen Faktorleist
 
 | Quelle | PDF-Seiten | Evidenz |
 |---|---|---|
-| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]] | [22](<../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=22>)–[24](<../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=24>) | direkter Unterrichtsabschnitt zum einfachen und erweiterten Kreislauf |
-| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|Zusammenfassung BGWP]] | [7](<../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7>) | OCR-Zusammenfassung; am Original prüfen |
+| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]] | [22](<../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=22>)–[24](<../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=24>) | direkter Unterrichtsabschnitt zum einfachen und erweiterten Kreislauf |
+| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|Zusammenfassung BGWP]] | [7](<../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7>) | OCR-Zusammenfassung; am Original prüfen |
 
 ## Verwandtes Lernmodul
 

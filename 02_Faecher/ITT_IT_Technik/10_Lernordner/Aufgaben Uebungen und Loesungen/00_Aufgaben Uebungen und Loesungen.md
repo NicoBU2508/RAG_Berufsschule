@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Aufgaben Übungen und Lösungen** im Fach **ITT IT-Technik**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=1|Netzplan251022160116 S. 1]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=2|Netzplan251022160116 S. 2]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=3|Netzplan251022160116 S. 3]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=7|Netzplan251022160116 S. 7]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3|SkriptWittmann S. 3]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=1|Netzplan251022160116 S. 1]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=2|Netzplan251022160116 S. 2]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=3|Netzplan251022160116 S. 3]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=7|Netzplan251022160116 S. 7]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3|SkriptWittmann S. 3]].
 > - **Zentrale Suchbegriffe:** Unberechtigter, Aufgabe, Domaincontroller, über, gefälschte, Webseiten, Wittmann.
 > - **Prüfungsbezug:** AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -55,111 +55,111 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1\|IT_Sicherheit_Aufgabe_1]] | [Aufgabe 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2>) | Unberechtigter | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=1>) | Was ist die Aufgabe eines Sicherheitskonzeptes? | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=2>) | '1) Was ist ein Domaincontroller? | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=3>) | über gefälschte Webseiten oder E-Mails wird versucht an persönliche | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=7>) | Was ist die Aufgabe eines Sicherheitskonzeptes? | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=12>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=14>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=16>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=18>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=19>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=20>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 23](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=23>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 17 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=24>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 18 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 27](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=27>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 19 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=28>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 20 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=31>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 21 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 32](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=32>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 22 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=33>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 23 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=34>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 24 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=35>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 25 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=36>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 26 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 37](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=37>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 27 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=38>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 28 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 42](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=42>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 29 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=43>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 30 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=45>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 31 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=47>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 32 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=49>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 33 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 50](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=50>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 34 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 51](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=51>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 35 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 53](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=53>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 36 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 55](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=55>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 37 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 56](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=56>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 38 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=58>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 39 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 59](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=59>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 40 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 41 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=61>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 42 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 43 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 44 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=3>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 45 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=5>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 46 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 47 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=8>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 48 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=9>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 49 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=10>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 50 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=12>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 51 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=13>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 52 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=16>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 53 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=20>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 54 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=21>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 55 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=24>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 56 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=28>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 57 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 30](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=30>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 58 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=31>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 59 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=35>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 60 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=38>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 61 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 39](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=39>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 62 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 41](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=41>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 63 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 44](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=44>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 64 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=45>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 65 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 46](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=46>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 66 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=47>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 67 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 48](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=48>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 68 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=49>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 69 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 50](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=50>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 70 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 51](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=51>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 71 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 52](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=52>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 72 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 53](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=53>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 73 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 54](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=54>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 74 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 55](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=55>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 75 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=60>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 76 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=61>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 77 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=62>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 78 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 63](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=63>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 79 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 66](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=66>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 80 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 71](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=71>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 81 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 72](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=72>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 82 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 73](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=73>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 83 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 74](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=74>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 84 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 75](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=75>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 85 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 76](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=76>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 86 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 77](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=77>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 87 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 79](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=79>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 88 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 83](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=83>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 89 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 84](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=84>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 90 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 85](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=85>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 91 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 86](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=86>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 92 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 87](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=87>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 93 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=3>) | Nob AD m ett 1. vauıı. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 94 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=5>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 95 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=6>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 96 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=8>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 97 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 98 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 99 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Aufgabenblatt_mogliche_Losung\|Stol_Aufgabenblatt_mogliche_Losung]] | [Aufgabenblatt - mögliche Lösung.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1>) | Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche! | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 100 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=10>) | Gibt es einen Kaufvertrag zwischen Tom und Jakob? | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 101 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=13>) | Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche! | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 102 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=15>) | Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche! | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 103 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=34>) | Übungsaufgaben | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 104 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=35>) | Aufgabe 3 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 105 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=36>) | Aufgabe1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1\|IT_Sicherheit_Aufgabe_1]] | [Aufgabe 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2>) | Unberechtigter | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=1>) | Was ist die Aufgabe eines Sicherheitskonzeptes? | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=2>) | '1) Was ist ein Domaincontroller? | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=3>) | über gefälschte Webseiten oder E-Mails wird versucht an persönliche | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=7>) | Was ist die Aufgabe eines Sicherheitskonzeptes? | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=12>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=14>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=16>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=18>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=19>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=20>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 23](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=23>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 17 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=24>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 18 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 27](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=27>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 19 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=28>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 20 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=31>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 21 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 32](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=32>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 22 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=33>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 23 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=34>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 24 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=35>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 25 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=36>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 26 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 37](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=37>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 27 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=38>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 28 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 42](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=42>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 29 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 30 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=45>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 31 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=47>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 32 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=49>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 33 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 50](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=50>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 34 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 51](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=51>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 35 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 53](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=53>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 36 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 55](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=55>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 37 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 56](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=56>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 38 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 39 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 59](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=59>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 40 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 41 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=61>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 42 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 43 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 44 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=3>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 45 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=5>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 46 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 47 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=8>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 48 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=9>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 49 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=10>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 50 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=12>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 51 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=13>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 52 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=16>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 53 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=20>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 54 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=21>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 55 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=24>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 56 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=28>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 57 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 30](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=30>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 58 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=31>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 59 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=35>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 60 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=38>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 61 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 39](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=39>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 62 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 41](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=41>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 63 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 44](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=44>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 64 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=45>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 65 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 46](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=46>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 66 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=47>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 67 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 48](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=48>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 68 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=49>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 69 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 50](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=50>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 70 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 51](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=51>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 71 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 52](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=52>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 72 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 53](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=53>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 73 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 54](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=54>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 74 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 55](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=55>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 75 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=60>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 76 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=61>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 77 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=62>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 78 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 63](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=63>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 79 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 66](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=66>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 80 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 71](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=71>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 81 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 72](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=72>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 82 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 73](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=73>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 83 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 74](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=74>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 84 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 75](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=75>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 85 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 76](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=76>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 86 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 77](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=77>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 87 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 79](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=79>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 88 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 83](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=83>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 89 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 84](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=84>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 90 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 85](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=85>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 91 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 86](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=86>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 92 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [01_AB_Ladung Q.pdf Seite 87](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=87>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 93 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=3>) | Nob AD m ett 1. vauıı. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 94 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=5>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 95 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=6>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 96 | [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung\|It_Elektro_Wild_Zusammenfassung]] | [Zusammenfassung.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=8>) | FU-IT: Grundlagen Elektrotechnik (Wild) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 97 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 98 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 99 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Aufgabenblatt_mogliche_Losung\|Stol_Aufgabenblatt_mogliche_Losung]] | [Aufgabenblatt - mögliche Lösung.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1>) | Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche! | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 100 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=10>) | Gibt es einen Kaufvertrag zwischen Tom und Jakob? | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 101 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=13>) | Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche! | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 102 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=15>) | Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche! | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 103 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=34>) | Übungsaufgaben | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 104 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=35>) | Aufgabe 3 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 105 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=36>) | Aufgabe1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -168,11 +168,11 @@ tags:
 #### Seite 2: Unberechtigter
 
 > [!referenz] Exakte Referenz
-> - PDF: [Aufgabe 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2]]`
+> - PDF: [Aufgabe 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Unberechtigter Physischer Klima/Umwelt : Zugriff auf Zugang zum Temperatur, Zugriff zum Netzwerkkabel Feuchtigkeit, Raum System Staub und Dreck v - X Unterboden-Verlegung -Klima-Anlage Zugangskontrollen : Zugangskontrollen : -Verdeckte Schächte -Abschließbare - Umgebungs-Kontrollen Server-Schränke -Schließsysteme -Reinigung -Abschließbare - Biometrische Etagenverteiler-Schränke Zugangskontrolle -Gehäuse verschluss - Separate Server-Räume - Kensington-Schloss Fehlertolaranz Redundante Komponenten RAID 1. Lenziele : - ↳Schritte der Sicherheitsprozesse - 4 Gefahren der physischen Sicherheit - Lösungen der G Gefahren
@@ -232,11 +232,11 @@ Lenziele :
 #### Seite 1: Was ist die Aufgabe eines Sicherheitskonzeptes?
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzplan_251022_160116.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=1]]`
+> - PDF: [Netzplan_251022_160116.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Was ist die Aufgabe eines Sicherheitskonzeptes? * Soll die wesentlichen Informationen einer Insitution schützen wie z.B, erforderliche Informationen, damit Geschäftsprozesse reibungslos funktionieren oder Informationen mit Geheimhaltungsbedarf die nur für Befugte zugänglich sein dürfen Welche Angaben braucht man beim Erfassen der Anwendungen? * eine eindeutige Kennung (Name, Kürzel) * eine Namen für die Anwendung • eine kurze Beschreibung des Ziels, der Funktionen und der verarbeiteten Informationen • die für die Anwendung Verantwortlichen Fejsone • die Benutzer dieser Anwendung welche Elemente muss ein Netzplan mindestens enthalten mit Beispielen? • die in das Netz eingebundenen IT-Systeme; …
@@ -285,11 +285,11 @@ Anbindung, DSL)
 #### Seite 2: '1) Was ist ein Domaincontroller?
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzplan_251022_160116.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=2]]`
+> - PDF: [Netzplan_251022_160116.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > '1) Was ist ein Domaincontroller? Server, der Authentifizierungsanfragen beantwortet und Benutzer in einem Computernetzwerk verifiziert 2) Was versteht man unter einem Virtualisierungsserver? Es werden mehrere virtuelle Server auf einem physischen Server erstellt 3) Was macht ein Druckserver? _ Nimmt in einem Rechnernetz Druckauftäge entgegen und leitet sie an Drucker weiter 4) Aufgabe einer Firewall: — Die Firewall überwacht den laufenden Datenverkehr und entscheidet, ob bestimmte Pakete durchgelassen werden oder nicht. So versucht sie, unerlaubte Netzwerkzugriffe zu verhindern • Vertraulichkeit • Integrität • Verfügbarkeit Entweder eine sehr aggressive Ausbreitung, welche das Opfer überwäl …
@@ -318,11 +318,11 @@ um dem Opfer wenig Hinweise auf die Aktivität zu geben.
 #### Seite 3: über gefälschte Webseiten oder E-Mails wird versucht an persönliche
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzplan_251022_160116.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=3]]`
+> - PDF: [Netzplan_251022_160116.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > über gefälschte Webseiten oder E-Mails wird versucht an persönliche Daten zu gelangen. Malware Software (wie z. B. Viren, Würmer usw.), die in Computersysteme eindringen und dort Störungen oder Schäden verursachen kann Für Fragen rund um Informationssicherheit in der Institution zuständig. Zu seinen Aufgaben gehört es, 8 „Erstellung des Sicherheitskonzepts, — -Realisierungsplane für Sicherheitsmaßnahmen anzufertigen sowie Umsetzung zu initiieren, -Leitungsebene über den Status Informationssicherheit zu berichten, -sicherheitsrelevante Vorfälle zu untersuchen sowie -Sensibilisierungen und Schulungen zur Informationssicherheit zu initiieren und zu koordinieren. Spywareist in vermeintlich koste …
@@ -361,11 +361,11 @@ bezeichnet, für die noch kein Patch des Herstellersverfiigbar ist.
 #### Seite 7: Was ist die Aufgabe eines Sicherheitskonzeptes?
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzplan_251022_160116.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=7]]`
+> - PDF: [Netzplan_251022_160116.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=7]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Was ist die Aufgabe eines Sicherheitskonzeptes? + Soll die wesentlichen Informationen einer Insitution schützen wie z.B. erforderliche Informationen, damit Geschäftsprozesse reibungslos funktionieren oder Informationen mit Geheimhaltungsbedarf die nur für Befugte zugänglich sein dürfen Welche Angaben braucht man beim Erfassen der. ‚Anwendungen? * eine eindeutige Kennung (Name, Kürzel) * eine Namen für die Anwendung * eine kurze Beschreibung des Ziels, der Funktionen und der verarbeiteten Informationen + die für die Anwendung Verantwortlichen farsone + die Benutzer dieser Anwendung Welche Elemente muss ein Netzplan mindestens enthalten mit Beispielen? + die in das Netz eingebundenen IT-System …
@@ -462,11 +462,11 @@ Vorgehensweise
 #### Seite 3: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3]]`
+> - PDF: [Skript_Wittmann.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 1 1 Sicherheitsmanagement Jede Institution benutzt Sicherheitstechnik, um sich vor Gefahren aus dem Internet abzusichern. Dazu gehören fast immer Virenschutzprogramme und Spamfilter, oft aber auch komplexere Lösungen wie gestaffelte Firewalls und Software zur Angriffserkennung. Darüber hinaus ergreifen Behörden und Unternehmen organisatorische Maßnahmen, etwa indem sie Richtlinien für die Benutzung mobiler Systeme erlassen oder die ihre Mitarbeiter über Gefahren im Internet informieren. Sowohl die Anwendung von Technik als auch die Einführung organisatorischer Maßnahmen erfolgt oft jedoch ohne Konzept und Erf …
@@ -526,11 +526,11 @@ Act
 #### Seite 8: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8]]`
+> - PDF: [Skript_Wittmann.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 6 2 Strukturanalyse Die Strukturanalyse soll, wie auch die weiteren Schritte der Standard-Absicherung gemäß IT-Grundschutz-Methodik, am Beispiel des fiktiven Unternehmens RECPLAST GmbH verdeutlicht werden – daher vorab ein paar einführende Informationen zu diesem Unternehmen. Geschäftszweck und Standorte Die RECPLAST GmbH hat rund 500 Mitarbeiter und stellt aus Recyclingmaterialien etwa 400 unterschiedliche Kunststoffprodukte her. Verwaltung sowie Produktion und Lager der Firma befinden sich in Bonn, allerdings an unterschiedlichen Standorten: Die Geschäftsführung hat zusammen mit den Verwaltungsabteilungen s …
@@ -583,11 +583,11 @@ Gebäudetechnik
 #### Seite 11: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11]]`
+> - PDF: [Skript_Wittmann.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 9 Anwendungen erheben Anwendungen unterstützen die Geschäftsprozesse und die Erledigung von Fachaufgaben. Aufgrund ihres Bedarfs an Geheimhaltung, Korrektheit und Unverfälschtheit oder Verfügbarkeit erfordern diese Anwendungen einen gewissen Schutz. Zur Identifikation dieser Anwendungen bieten sich Gespräche oder gemeinsame Workshops mit Benutzern, Anwendungs- und Geschäftsprozessverantwortlichen sowie sachkundigen Mitarbeitern der IT-Abteilung an. Für jede als wesentlich identifizierte Anwendung sollten wieder folgende Angaben in einer Tabelle erfasst werden: • eine eindeutige Kennung (Nummer oder Kürzel), • …
@@ -685,11 +685,11 @@ IT-Betrieb
 #### Seite 12: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=12]]`
+> - PDF: [Skript_Wittmann.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=12]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 10 Aufgabe: Entscheide, in welchen Geschäftsprozessen die Anwendungen verwendet werden: Zuordnung der Anwendungen zu Geschäftsprozessen Anwendung Geschäftsprozess A001 A002 ... A009 A010 A013 A014 A015 GP001 Produktion GP002 Angebotswesen GP003 Auftragsabwicklung GP004 Einkauf Netzplan erheben Ein Netzplan ist eine graphische Übersicht über die Komponenten eines Netzes und ihre Verbindungen. Im Einzelnen sollte der Plan mindestens die folgenden Objekte enthalten: • die in das Netz eingebundenen IT-Systeme; dazu zählen Computer (Clients und Server), Netzdrucker sowie aktive Netzkomponenten (Switches, Router, W …
@@ -771,11 +771,11 @@ j
 #### Seite 14: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=14>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=14]]`
+> - PDF: [Skript_Wittmann.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=14>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=14]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=14]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 12 Aufgabe: Recherchieren folgende Begriffe im Internet: 1) Was ist ein Domaincontroller? Bei einer Domäne handelt es sich um einen Netzwerkbereich, in dem User Benutzerrechte gemäß der Organisationsstruktur erhalten. Die Verwaltung der Domäne erfolgt zentral über Domänencontroller. 2) Was versteht man unter einem Virtualisierungsserver? Es werden mehrere virtuelle Server auf einem physischen Server erstellt. 3) Was macht ein Druckserver? Ein Druckserver oder nimmt in einem Rechnernetz Druckaufträge entgegen und leitet sie an Drucker weiter. 4) Aufgabe einer Firewall: Die Firewall überwacht den laufenden Date …
@@ -864,11 +864,11 @@ verhindern
 #### Seite 16: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=16>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=16]]`
+> - PDF: [Skript_Wittmann.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=16>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=16]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=16]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 14 Aufgabe: Kreuze an, welche Netzkomponenten von den Anwendungen genutzt werden. Nutzung der Netzkomponenten Bezeichnung und Beschreibung der Anwendung Router Internet Firewall Switche Router BG-Beuel A001 Lotus Notes A002 Textverarbeitung, Präsentation, Tabellenkalkulation A009 Auftrags- und Kundenverwaltung A010 Active Directory A013 Druckservice BG A014 Druckservice Beuel Räume erheben Wie gut Informationen und Informationstechnik geschützt sind, hängt immer auch von der Sicherheit der räumlichen Umgebung ab, in der diese benutzt oder aufbewahrt werden. Daher erfasst man bei der Strukturanalyse auch alle …
@@ -991,11 +991,11 @@ X
 #### Seite 17: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17]]`
+> - PDF: [Skript_Wittmann.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 15 3 Schutzbedarfsfeststellung Bei der Schutzbedarfsfeststellung ist danach zu fragen, welcher Schaden entstehen kann, wenn für ein Zielobjekt die Grundwerte Vertraulichkeit, Integrität oder Verfügbarkeit verletzt werden. Dies wäre der Fall, wenn • vertrauliche Informationen unberechtigt zur Kenntnis genommen oder weitergegeben werden (Verletzung der Vertraulichkeit), • die Korrektheit der Informationen und der Funktionsweise von Systemen nicht mehr gegeben ist (Verletzung der Integrität), • autorisierte Benutzer am Zugriff auf Informationen und Systeme behindert werden (Verletzung der Verfügbarkeit). Der Sch …
@@ -1094,11 +1094,11 @@ von Daten
 #### Seite 18: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=18>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=18]]`
+> - PDF: [Skript_Wittmann.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=18>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=18]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=18]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 16 c) Was versteht man unter dem Begriff Verfügbarkeit? Überlege dir ein konkretes Beispiel: Verfügbarkeit beschreibt die Zeit, in der das System funktioniert. Beispiel: Ein Stromausfall führt dazu, dass der Mailserver mehrere Stunden nicht funktioniert. Aufgabe 2: Nenne die 3 Schutzbedarfskategorien: o normal: Schadensauswirkungen sind begrenzt o hoch: Schadensaufwirkungen können beträchtlich sein o sehr hoch: Schadensauswirkungen können existentiell bedrohlich sein Aufgabe 3: a) Was versteht man unter dem Maximumprinzip? Der höchste Schutzbedarf der Anwendungen wird auf das Gesamtsystem übernommen. b) Was v …
@@ -1206,11 +1206,11 @@ Hoher
 #### Seite 19: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=19>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=19]]`
+> - PDF: [Skript_Wittmann.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=19>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=19]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=19]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 17 Schutzbedarfsfeststellung für Prozesse und Anwendungen Um die Schäden einzuschätzen, die aus Verletzungen der Integrität, Vertraulichkeit oder Verfügbarkeit bei den Prozessen und Anwendungen entstehen können, sollte man aus Sicht der Anwender realistische Schadensszenarien entwickeln. Dabei kann es helfen, „Was wäre wenn ...?“-Fragen zu jedem Schadensszenario zu formulieren, z. B. was wäre, wenn geheime Geschäftsdaten aus der Anwendung „Finanzbuchhaltung“ bekannt würden? • Gegen welche Gesetze oder Vorschriften wird verstoßen? Welche rechtlichen Konsequenzen oder Sanktionen können mit dem Vorfall verbunden …
@@ -1351,11 +1351,11 @@ werden.
 #### Seite 20: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=20]]`
+> - PDF: [Skript_Wittmann.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=20]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 18 A010 Active Directory Vertraulichkeit: normal Passwörter sind verschlüsselt gespeichert und damit praktisch nicht zugänglich Integrität: hoch Alle Mitarbeiter identifizieren sich mit Passwörtern, daher ist der Schutzbedarf hoch. Verfügbarkeit: sehr hoch Bei Ausfall des Authentisierungssystems können Mitarbeiter sich nicht identifizieren; eine Ausführung von IT-Verfahren ist dann nicht möglich. Ein Ausfall von mehr als 2 Stunden ist nicht tolerabel. Schutzbedarfsfeststellung für IT-Systeme Der Schutzbedarf eines IT-Systems hängt im Wesentlichen von dem Schutzbedarf derjenigen Anwendungen ab, für deren Ausfü …
@@ -1452,11 +1452,11 @@ tolerabel
 #### Seite 23: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 23](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=23>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=23]]`
+> - PDF: [Skript_Wittmann.pdf Seite 23](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=23>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=23]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=23]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 21 Aufgabe: Die folgende Tabelle veranschaulicht, wie kritische Verbindungen dokumentiert werden können. Ergänze den Schutzbedarf der jeweiligen Schutzziele: normal(4x); hoch(8x) Kritische Verbindungen Verbindung Vertraulichkeit Integrität Verfügbarkeit K001: Firmennetz – Internet Hoch: Vertrauliche Informationen können z. B. an den Wettbewerb gelangen Hoch: Falsche Informationen können den Ruf schädigen. Hoch: Ohne diese Außenverbindung kann keine Kommunikation stattfinden. K002: Standleitung Bad Godesberg – Beuel Hoch: Interne Informationen müssen vertraulich übertragen werden. Normal: Verfälschung von Info …
@@ -1612,11 +1612,11 @@ X
 #### Seite 24: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=24>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=24]]`
+> - PDF: [Skript_Wittmann.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=24>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=24]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=24]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 22 4 Modellierung INF.2 Rechenzentrum sowie Serverraum Heute werden fast alle strategischen und operativen Funktionen und Aufgaben durch Informationstechnik maßgeblich unterstützt oder sind ohne IT nicht ausführbar. Dadurch steigen die Anforderungen an die Leistungsfähigkeit und Verfügbarkeit der IT-Systeme und deren Anbindung an die Netzumgebung stetig. Um diesem Leistungsbedarf gerecht zu werden, um entsprechende Reserven vorzuhalten und um die IT auch wirtschaftlich betreiben zu können, konzentrieren Institutionen jeglicher Größe ihre IT-Landschaft in Rechenzentren. Gefährdungslage Fehlerhafte Planung: Wen …
@@ -1687,11 +1687,11 @@ ganz unterbleiben.
 #### Seite 27: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 27](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=27>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=27]]`
+> - PDF: [Skript_Wittmann.pdf Seite 27](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=27>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=27]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=27]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 25 Es SOLLTE auf Basis der aktuell gültigen Norm ein Blitz- und Überspannungsschutzkonzept erstellt und umgesetzt werden. Die energetische Koordination der Überspannungsschutzeinrichtungen SOLLTE in einem Konzept dokumentiert und abgenommen werden. Es SOLLTE sichergestellt werden, dass im Rechenzentrum geeignete klimatische Bedingungen geschaffen und aufrechterhalten werden. Die Klimatisierung SOLLTE für das Rechenzentrum ausreichend dimensioniert sein. Alle relevanten Werte SOLLTEN ständig überwacht werden. Weicht ein Wert von der Norm ab, SOLLTE automatisch alarmiert werden. Die Klimaanlagen SOLLTEN in IT-B …
@@ -1778,11 +1778,11 @@ es nicht sitimm(
 #### Seite 28: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=28>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=28]]`
+> - PDF: [Skript_Wittmann.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=28>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=28]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=28]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 26 Aufgabe 2a: Wie kann Verschmutzung den Grundwert Verfügbarkeit beeinflussen? Verschmutzungen können dazu führen, dass Lüfter sich mit Staub zusetzen und nicht mehr funktionieren. Das Gerät überhitzt und fällt aus. Aufgabe 2b: Nenne 3 Argumente, wie sich eine Fehlerhafte Planung auf den Grundwert Verfügbarkeit auswirkt. Erdbeben oder Hochwasser können die Betriebssicherheit gefährden. Es ist durch fehlerhafte Konzeptionierung nicht genügend Bandbreite verfügbar. Die Energieversorgung reicht nicht aus. Aufgabe 3: Erstelle eine Liste, die die Basis Anforderungen hinsichtlich USV aufzeigt. unterbrechungsfreie …
@@ -1860,11 +1860,11 @@ müssen protokolliert werden
 #### Seite 31: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=31>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=31]]`
+> - PDF: [Skript_Wittmann.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=31>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=31]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=31]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 28 MÜSSEN so gewählt werden, dass eine Beschädigung der verlegten Kabel durch die normale Nutzung des Gebäudes ausgeschlossen ist. Zudem MUSS generell darauf geachtet werden, dass IT-Kabel getrennt von der elektrotechnischen Verkabelung geführt werden. Standard-Anforderungen Grundsätzlich SOLLTEN die Anforderungen analysiert werden, die Einfluss auf eine zukunftssichere, bedarfsgerechte und wirtschaftliche Ausführung der IT-Verkabelung haben. In dieser Anforderungsanalyse SOLLTE zunächst abgeschätzt werden, wie die Benutzer innerhalb der Institution die eingesetzte IT kurzfristig nutzen. Darauf aufbauend SOLL …
@@ -1942,11 +1942,11 @@ die Leitung sowie zur Erkennung von Ausgleichsströmen getroffen werden.
 #### Seite 32: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 32](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=32>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=32]]`
+> - PDF: [Skript_Wittmann.pdf Seite 32](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=32>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=32]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=32]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 29 Aufgabe 1: Welche Grundwerte sind betroffen? (C = Vertraulichkeit, I = Integrität, A = Verfügbarkeit). Schreibe den passenden Buchstaben neben die Gefährdung. Kabelbrand: A Unzureichende Netzdimensionierung: A Unzureichende Dokumentation der Verkabelung: A Unzulässige Kabelverbindungen: C A Leitungsbeschädigungen: A Leitungsbeeinträchtigung: A Abhören und Manipulation von Leitungen: C I A Aufgabe 2: Wie kann die Manipulation von Leitungen zu Integritätsverlust führen? Fehlfunktionen von Leitungen können herbeigeführt werden. Dadurch kann der IT-Betrieb gestört werden, um ihn finanzielle zu schädigen. Aufga …
@@ -2059,11 +2059,11 @@ f
 #### Seite 33: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=33>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=33]]`
+> - PDF: [Skript_Wittmann.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=33>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=33]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=33]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 30 INF.7 Büroarbeitsplatz Ein Büroraum ist der Bereich innerhalb einer Institution, in dem sich ein oder mehrere Mitarbeiter aufhalten, um dort ihre Aufgaben zu erfüllen. In diesem Baustein werden die typischen Gefährdungen und Anforderungen bezüglich der Informationssicherheit für einen Büroraum beschrieben. Gefährdungslage Unbefugter Zutritt: Fehlen Zutrittskontrollen oder sind diese unzureichend, können unberechtigte Personen einen Büroraum betreten und schützenswerte Daten entwenden, Geräte stehlen oder sie manipulieren. Dadurch kann die Verfügbarkeit, Vertraulichkeit oder Integrität von Geräten und Infor …
@@ -2139,11 +2139,11 @@ regelmäßig geprüft werden, ob beim Verlassen des Büroraums die Fenster gesch
 #### Seite 34: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=34>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=34]]`
+> - PDF: [Skript_Wittmann.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=34>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=34]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=34]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 31 abgeschlossen werden. Ebenso MUSS darauf geachtet werden, dass Brand- und Rauchschutztüren tatsächlich geschlossen werden. Standard-Anforderungen Die Stromanschlüsse und Zugänge zum Datennetz im Büroraum SOLLTEN sich dort befinden, wo die IT-Geräte aufgestellt sind. Verkabelungen, die über den Boden verlaufen, SOLLTEN geeignet abgedeckt werden. Es SOLLTE gewährleistet werden, dass Unberechtigte die Büroräume nicht betreten können. Dafür SOLLTE ein Sicherheitskonzept erstellt und umgesetzt werden. Zudem SOLLTE regelmäßig überprüft werden, ob die ergriffenen Maßnahmen wirksam sind. Die Arbeitsplätze aller Mi …
@@ -2227,11 +2227,11 @@ Sicherheitskonzept
 #### Seite 35: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=35>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=35]]`
+> - PDF: [Skript_Wittmann.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=35>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=35]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=35]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 32 Aufgabe 4: Beschrifte alle Komponenten des Büroarbeitsplatzes, die nach Standard-Anforderungen geändert werden müssen mit den entsprechenden Maßnahmen. 1, 2 unberechtigte Zugang - Verkabelung auf boden 4. ungünstige Abeitsbedingung Z 1 3 4
@@ -2262,11 +2262,11 @@ Z
 #### Seite 36: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=36>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=36]]`
+> - PDF: [Skript_Wittmann.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=36>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=36]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=36]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 33 INF.8 Häuslicher Arbeitsplatz Telearbeiter, freie Mitarbeiter oder Selbstständige arbeiten typischerweise von häuslichen Arbeitsplätzen aus. Im Gegensatz zum Arbeitsplatz im Büro nutzen diese Mitarbeiter einen Arbeitsplatz in der eigenen Wohnung. Dabei muss ermöglicht werden, dass die berufliche Umgebung hinreichend von der privaten getrennt ist. Wenn Mitarbeiter häusliche Arbeitsplätze dauerhaft benutzen, müssen zudem diverse rechtliche Anforderungen erfüllt sein, beispielsweise müssen die Arbeitsplätze arbeitsmedizinischen und ergonomischen Bestimmungen entsprechen. Bei einem häuslichen Arbeitsplatz kann …
@@ -2344,11 +2344,11 @@ der technischen Einrichtungen, über den Versuch des „Spielens“ an IT-System
 #### Seite 37: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 37](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=37>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=37]]`
+> - PDF: [Skript_Wittmann.pdf Seite 37](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=37>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=37]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=37]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 34 Komponenten. So kann beispielsweise beim Reinigen versehentlich eine Steckverbindung gelöst werden, Wasser in die IT gelangen, Unterlagen verlegt oder sogar mit dem Abfall entsorgt werden. Erhöhte Diebstahlgefahr am häuslichen Arbeitsplatz: Der häusliche Arbeitsplatz ist meistens nicht so gut abgesichert wie der Arbeitsplatz in einem Unternehmen oder in einer Behörde. Durch aufwendige Vorkehrungen wie z. B. Sicherheitstüren oder einem Pförtnerdienst ist dort die Gefahr, dass jemand unbefugt in das Gebäude eindringt, weitaus geringer als bei einem Privathaus. Einbrecher stehlen meistens vorrangig Gegenständ …
@@ -2416,11 +2416,11 @@ Erhöhte Diebstahlgefahr am häuslichen Arbeitsplatz: C A
 #### Seite 38: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=38>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=38]]`
+> - PDF: [Skript_Wittmann.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=38>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=38]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=38]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 35 Aufgabe 2: Statte einen Heimarbeitsplatz für einen Mitarbeiter nach Standard-Anforderungen aus. Der Mitarbeiter verfügt dafür über eine 12m² großes Zimmer mit abschließbarer Türe. In dem Zimmer sind ausreichend Steckdosen und ein Internetanschluss über LAN ist verfügbar. Gereinigt wird der Raum von einem vorhandenen Saugroboter. Notiere die Maßnahmen und suche im Internet nach passenden Produkten. Erstelle außerdem einen Preiseübersicht. Fertige zudem eine Skizze des eingerichteten Büros an. Anforderung Komponente Preis Tisch 350 Stuhl 150=) PC 850 E Drucker 500E Aktenschrank 350= Pflanze 35E Bildschirm 2 …
@@ -2471,11 +2471,11 @@ Teppich
 #### Seite 42: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 42](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=42>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=42]]`
+> - PDF: [Skript_Wittmann.pdf Seite 42](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=42>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=42]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=42]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 39 Aufgabe 1: Welche Grundwerte sind betroffen? (C = Vertraulichkeit, I = Integrität, A = Verfügbarkeit). Schreibe den passenden Buchstaben neben die Gefährdung. Beeinträchtigung durch wechselnde Einsatzumgebung: C A Diebstahl: C A Ungeordneter Benutzerwechsel bei Laptops: C I Fehler bei der Synchronisation: I A Datenverlust bei mobilem Einsatz: A Datendiebstahl mithilfe von Laptops: C Aufgabe 2: Was versteht man unter einem Synchronisationskonflikt? Recherchiere im Internet! Es wurden beide Versionen geändert. Nun ist zu entscheiden ob die Datei vom Server auf das Notebook überspielt werden oder umgekehrt. A …
@@ -2569,11 +2569,11 @@ Für zwischenprüfung
 #### Seite 43: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=43>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=43]]`
+> - PDF: [Skript_Wittmann.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=43]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 40 APP.5.2 Microsoft Exchange und Outlook Microsoft Exchange ist eine Groupware-Lösung für mittlere bis große Institutionen. Mit ihr können elektronisch Nachrichten übermittelt werden und sie verfügt über weitere Dienste, um Workflows zu unterstützen. Nachrichten, wie E-Mails, können mit Microsoft Exchange zentral verwaltet, zugestellt, gefiltert und versendet werden. Ebenso können typische Groupware- Anwendungen, wie Notizen, Kontaktlisten, Kalender und Aufgabenlisten angeboten und verwaltet werden. Um die Funktionen von Microsoft Exchange nutzen zu können, ist neben dem Server-Dienst eine zusätzliche Client …
@@ -2651,11 +2651,11 @@ automatisierter Datenabfluss sein.
 #### Seite 45: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=45>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=45]]`
+> - PDF: [Skript_Wittmann.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=45>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=45]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=45]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 42 Aufgabe 1: Die folgenden elementaren Gefährdungen sind von Bedeutung. Welche Grundwerte sind betroffen? (C = Vertraulichkeit, I = Integrität, A = Verfügbarkeit). Schreibe den passenden Buchstaben neben die Gefährdung. Fehlende oder unzureichende Regelungen für Microsoft Exchange und Outlook: C I A Fehlerhafte Migration von Microsoft Exchange: I A Unzulässiger Browserzugriff auf Microsoft Exchange: C I A Unerlaubte Anbindung anderer Systeme an Microsoft Exchange: I A Fehlerhafte Administration von Zugangs- und Zugriffsrechten unter Microsoft Exchange und Outlook: C I Fehlfunktionen und Missbrauch selbst ent …
@@ -2770,11 +2770,11 @@ verschlüsseln
 #### Seite 47: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=47>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=47]]`
+> - PDF: [Skript_Wittmann.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=47>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=47]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=47]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=47]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 44 Aufgabe 1: Es soll eine Serverraum (Hardware) geplant werden. Welche Bausteine sind anzuwenden? INF.1 Allgemeines Gebäude, INF.2 Rechenzentrum sowie Serverraum, INF.3 Elektrotechnische Verkabelung, INF.4 IT-Verkabelung Aufgabe 2: Ein Büroraum soll mit WLAN ausgestattet werden. Welche Bausteine sind anzuwenden? NET.1.1 Netzarchitektur und Design, NET.1.2 Netzmanagement, NET.2.1 WLAN-Betrieb, NET.2.2 WLAN-Nutzung, NET.3.1 Router und Switches Anforderungen anpassen Wie bereits erwähnt, beschreiben die IT-Grundschutz-Bausteine Anforderungen, die eine Institution umsetzen MUSS oder SOLLTE. In ihnen ist also dar …
@@ -2885,11 +2885,11 @@ X
 #### Seite 49: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=49>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=49]]`
+> - PDF: [Skript_Wittmann.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=49>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=49]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=49]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=49]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 46 Aufgabe 1: Die nachfolgende Auswahl illustriert das Spektrum der berücksichtigten Bedrohungen. Sowohl höhere Gewalt und technisches Versagen als auch organisatorische Mängel und vorsätzliches oder fahrlässiges menschliches Fehlverhalten werden einbezogen. Beschrifte die jeweils betroffenen Grundwerte: „C“ (Confidentiality, Vertraulichkeit), „I“ (Integrity, Integrität) „A“ (Availability, Verfügbarkeit) Elementare Gefährdungen Gefährdung Betroffene Grundwerte G 0.1 Feuer A G 0.5 Naturkatastrophen A G 0.10 Ausfall oder Störung von Versorgungsnetzen A G 0.15 Abhören C G 0.18 Fehlplanung oder fehlende Anpassung …
@@ -2973,11 +2973,11 @@ I ,
 #### Seite 50: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 50](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=50>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=50]]`
+> - PDF: [Skript_Wittmann.pdf Seite 50](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=50>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=50]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=50]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=50]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 47 Gefährdungsübersicht anlegen Der erste Schritt einer Risikoanalyse ist es, die Risiken zu identifizieren, denen ein Objekt oder ein Sachverhalt ausgesetzt ist. Hierfür ist zunächst zu beschreiben, welchen Gefährdungen das Objekt oder der Sachverhalt unterliegt. Man verwendet hierfür die elementaren Gefährdungen als Ausgangspunkt. Hierbei sind zwei Fälle zu unterscheiden: • Es gibt für ein Zielobjekt keinen passenden Baustein. In diesem Fall zieht man die vollständige Liste der elementaren Gefährdungen hinzu und prüft, welche der Gefährdungen für das betreffende Zielobjekt relevant sind. • Es gibt einen pas …
@@ -3067,11 +3067,11 @@ A
 #### Seite 51: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 51](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=51>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=51]]`
+> - PDF: [Skript_Wittmann.pdf Seite 51](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=51>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=51]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=51]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=51]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 48 Häufigkeit und Auswirkungen einschätzen Die Höhe eines Risikos ergibt sich aus der Häufigkeit einer Gefährdung und der drohenden Schadenshöhe. Ein Risiko ist umso größer, je häufiger eine Gefährdung ist, umgekehrt sinkt es, je geringer der mögliche Schaden ist. Grundsätzlich können beide Größen sowohl quantitativ, also mit genauen Zahlenwerten, als auch qualitativ, also mit Hilfe von Kategorien zur Beschreibung der Größenordnung, bestimmt werden. Erfahrungsgemäß sind jedoch hinreichend verlässliche quantitative Angaben, insbesondere zur Häufigkeit von Schadensereignissen im Bereich der Informationssicherhe …
@@ -3173,11 +3173,11 @@ hoch
 #### Seite 53: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 53](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=53>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=53]]`
+> - PDF: [Skript_Wittmann.pdf Seite 53](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=53>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=53]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=53]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=53]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 50 Aufgabe 1a: Warum verwendet man eine Risikomatrix? Man kann damit eine begründete Entscheidung zum Umgang mit Risiken treffen. Aufgabe 1b: Nenne zwei Möglichkeiten, um eine Gefährdung zu reduzieren. Die Eintrittshäufigkeit verringern und/oder die Eintrittshäufigkeit verringern. Aufgabe 2: Vervollständige die Tabelle: Risikobewertung für die Gefährdung G 0.25 Ausfall von Geräten oder Systemen Da oftmals eine Vielzahl an Gefährdungen zu berücksichtigen sind, kann dies auch tabellarisch ausgeführt werden. Die folgende Tabelle zeigt anhand der Gefährdung G 0.25 eine hinreichende Dokumentation der Risikobewertu …
@@ -3239,11 +3239,11 @@ alles
 #### Seite 55: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 55](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=55>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=55]]`
+> - PDF: [Skript_Wittmann.pdf Seite 55](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=55>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=55]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=55]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=55]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 52 Risiken behandeln In der Regel wird die Gefährdungsbewertung aufzeigen, dass nicht alle Gefährdungen durch das vorhandene Sicherheitskonzept ausreichend abgedeckt sind. In diesem Fall muss man überlegen, wie angemessen mit den verbleibenden Gefährdungen umgegangen werden kann, und eine begründete Entscheidung hierzu treffen. Grundsätzlich können vier Möglichkeiten (Risikooptionen) unterschieden werden, mit Risiken umzugehen: • A: Risikovermeidung durch Umstrukturierung der Geschäftsprozesse Die Risiken können vermieden werden, indem der Informationsverbund so umstrukturiert wird, dass die Gefährdung nicht …
@@ -3305,11 +3305,11 @@ Risiko
 #### Seite 56: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 56](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=56>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=56]]`
+> - PDF: [Skript_Wittmann.pdf Seite 56](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=56>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=56]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=56]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=56]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 53 Beispiel: Die folgende Tabelle zeigt exemplarisch für die beiden zuvor betrachteten Gefährdungen die bei der RECPLAST GmbH für den Virtualisierungsserver getroffenen Entscheidungen zur Risikobehandlung. Behandlung der Risiken Gefährdung Risikokategorie Risikobehandlungsoption G 0.15 Abhören (hier bei Live-Migration) mittel D. Risikoakzeptanz (Risikoübernahme ohne zusätzliche Sicherheitsmaßnahme) Auf das Live-Migration-Netz dürfen nur befugte Administratoren zugreifen. Diesen wird vertraut. Das bestehende Restrisiko wird von der RECPLAST GmbH als vertretbar eingeschätzt und übernommen. G 0.25 Ausfall von Ge …
@@ -3404,11 +3404,11 @@ Service
 #### Seite 58: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=58>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=58]]`
+> - PDF: [Skript_Wittmann.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=58]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 55 6 Umsetzungsplanung Maßnahmen konkretisieren Im ersten Schritt sind die Anforderungen herauszufiltern, die nicht oder nur teilweise erfüllt sind. Eine übersichtliche Dokumentation erhältst du, wenn du die unzureichend erfüllten Anforderungen tabellarisch zusammenstellst und dabei nach den betroffenen Zielobjekten gruppierst, etwa nach bestimmten Räumen und IT-Systemen. Lege anschließend Maßnahmen fest, mit denen diese Sicherheitslücken geschlossen werden können. Anschließend müssen die Maßnahmen im Zusammenhang betrachtet und geprüft werden, • ob einzelne Maßnahmen überflüssig werden, weil andere zu realis …
@@ -3499,11 +3499,11 @@ Werkzeugen) oder
 #### Seite 59: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 59](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=59>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=59]]`
+> - PDF: [Skript_Wittmann.pdf Seite 59](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=59>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=59]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=59]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=59]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 56 • Bereiche betreffen, in denen auffallend viele Sicherheitsmaßnahmen fehlen. • Grundsätzlich sind zunächst Maßnahmen umzusetzen, mit denen Basis-Anforderungen erfüllt werden, dann diejenigen zur Erfüllung von Standard-Anforderungen und erst zuletzt die zur Gewährleistung eines höheren Schutzbedarfs. • Es sind diejenigen Maßnahmen vorzuziehen, deren Umsetzung eine Voraussetzung für die Realisierung weiterer Maßnahmen ist. Die Entscheidungen zur Umsetzungsreihenfolge und deren Begründungen sind sorgfältig zu dokumentieren, damit nachvollziehbar und verständlich wird, warum die aus der zeitlich nachgeordneten …
@@ -3614,11 +3614,11 @@ X
 #### Seite 60: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60]]`
+> - PDF: [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 57 Begleitende Maßnahmen festlegen Der Erfolg einer Maßnahme hängt in einem entscheidenden Umfang davon ab, wie diese von den Mitarbeitern akzeptiert und angewendet wird. Bei Einführung neuer Sicherheitsmaßnahmen müssen die betroffenen Mitarbeiter ausreichend geschult und für mögliche Probleme sensibilisiert werden. Die Einführung neuer Sicherheitsmaßnahmen erfordert immer Schulungen für die betroffenen Mitarbeiter. Was nützt zum Beispiel ein neu angeschaffter Feuerlöscher, wenn die Mitarbeiter im Brandfall nicht sachgerecht mit ihm umgehen können? Drei weitere Beispiele für zweckmäßige Schulungen: • Wenn Sie …
@@ -3725,11 +3725,11 @@ Frau Meyer
 #### Seite 61: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=61>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=61]]`
+> - PDF: [Skript_Wittmann.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=61>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=61]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=61]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=61]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 58 Aufgabe 1: Recherchiere im Internet eine knappe Erläuterung zur Funktionsweise einer Firewall. Die Firewall dient dazu, den Netzwerkzugriff zu beschränken. Sie überwacht den durch die Firewall laufenden Datenverkehr und entscheidet, ob Netzwerkpakete durchgelassen werden. So kann unerlaubter Netzwerkzugriffe unterbunden werden, indem sie beispielsweise Pakete durchlässt, die aus dem internen Netz heraus angefordert wurden, und alle anderen Netzwerkpakete blockiert. Aufgabe 2: Erarbeite einen tabellarischen Umsetzungsplan zu den auf Seite 53 festgelegten Risikobehandlungsoptionen. Ganz simpel: Eine Firewall …
@@ -3777,11 +3777,11 @@ Das
 #### Seite 62: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62]]`
+> - PDF: [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 59 7 Aufrechterhaltung und Verbesserung Im Realisierungsplan wurde festgehalten, welche Maßnahmen des Sicherheitskonzepts zu welchem Zeitpunkt und in welcher Weise umgesetzt sein sollen. Dabei wurden erforderliche Ressourcen, eventuelle Zwischentermine und begleitende Maßnahmen berücksichtigt. Um sicher sein können, dass alles wie geplant umgesetzt ist und funktioniert, muss man die Einhaltung der Planung regelmäßig kontrollieren. Informationssicherheit ist darüber hinaus kein einmalig herzustellender und anschließend stabiler Zustand, sondern ein stetiger Prozess, der immer wieder an sich wandelnde und neue …
@@ -3888,11 +3888,11 @@ I
 #### Seite 2: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 2 Faktor Vorsatz Vorsatzzeichen 10-15 = 0,000000000000001 femto f 10-12 = 0,000000000001 10- = 10- = 10- = milli 100 = 103 = 10 = M 10 = 10 = Umrechnungsbeispiel 1: Der Wert 2500 m soll in mm angegeben werden. Umrechnungsbeispiel 2: Der Wert 2,5 m soll in nm angegeben werden. Aufgabe 2a: Gib die Werte der Tabelle in Potenzschreibweise an bzw. wandle sie in die jeweilige Angabe mit Einheitenvorsatz um! 150 mm = m 38 * 10 –7 F = * 10 –6 F 1,250 m = mm 38 * 10 –7 F = * 10 –9 F 2,5*10 2 V = V 4,7 * 10 4 Wh = * 10 3 Wh 38*10 -2 V = V 4,7 * 10 4 Wh = * 10 6 Wh Die Umrechnung f‰llt dir noch schwer? Schau dir hier n …
@@ -4020,11 +4020,11 @@ m
 #### Seite 3: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=3]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 3 2,5*10 2 V = kV 1,2 * 10 –8 F = 0,012 * 10 F 38*10 -2 V = mV 1,2 * 10 –8 F = 12 * 10 F 20,5 MW = 205 *10 W 63 * 10 5 Wh = 6300 * 10 Wh 0,35 nF = 350 * 10 F 63 * 10 5 Wh = 6,3 * 10 Wh 7 kV = V 18 mV = V 230 V = kV 0,8 V = mV 380 kV = V 122 mV = V 70 mA = A 0,32 A = mA 300 A = kA 0,8 mA = μA 900 μA = mA 122 mA = μA 100 mΩ = Ω 1,5 Ω = mΩ 220 Ω = kΩ 3,3 kΩ = Ω 470 kΩ = MΩ 0,47 kΩ = Ω 100 nF = μF 1,5 μF = nF 220 μF = F 3,3 nF = μF 0,71 As = *100 As 1180 mC = C Aufgabe 2b: Wandle folgende Zahlen in Zehnerpotenzen um (Exponent ein Vielfaches von 3)! 100 = 0,01 = 1 = 0,0000001 = 0,00001 = 1000 = 100 000 = 0,001 = Au …
@@ -4157,11 +4157,11 @@ Schreibe sinnvolle Vors‰tze an!
 #### Seite 5: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=5]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=5]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 5 Aufgabe 3: Forme die gegebene Gleichung nach der gesuchten Grˆﬂe um. U ↑ R u -(c) E - a (13 Ea -Z UE Fu E At i Eni v 2s
@@ -4202,11 +4202,11 @@ v
 #### Seite 6: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=6]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 6 Aufgabe 4: Stelle jeweils nach der Variablen X um. X = A - D - C x=1 X = E - 2B x= = Bit A . 2- B = X E =B 2 - B = x 05 els Strom + Spannung and Potential
@@ -4247,11 +4247,11 @@ Strom
 #### Seite 8: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=8]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 8 4 Operationen mit Zehnerpotenzen (optional) Sollen Zahlenwerte, die mit Einheitenvors‰tzen bzw. Zehnerpotenzen dargestellt werden addiert (+), subtrahiert (-), multipliziert (*) oder dividiert (:) werden, so gibt es bestimmte Regeln zu beachten: Addieren 4 ∗103 + 2 ∗ 103 = (4 + 2) ∗103 = 6 ∗ 103 Subtrahieren 4 ∗103 − 2 ∗ 103 = (4 −2) ∗103 = 2 ∗ 103 Multiplizieren 106 ∗ 103 = 10(6+3) = 109 Dividieren 106 103 = 10(6−3) = 103 Potenzieren (103)3 = 10(3∗3) = 109 Radizieren √106 = 10 6 2 = 103 Hinweis: Die Aufgaben sind ohne Taschenrechner zu bearbeiten! Aufgabe 5a: 6 ∗ 103+ 0,4 *103 + 1000 * 100 + 95 ∗106 = Aufga …
@@ -4301,11 +4301,11 @@ Aufgabe 5b:
 #### Seite 9: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=9]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=9]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 9 Aufgabe 5c: 3 ∗103 V + 5500 mV + 0,01kV + 2 ∗10−3kV = Aufgabe 5d: 1,5 ∗103Ω+ 13Ω+ 18 ∗ 104 mΩ+ 5 ∗ 10−3kΩ= Aufgabe 5e: 8,6 ∗103 𝑚𝐴+ 470 ∗103µ𝐴+ 15 ∗10−1𝐴=
@@ -4335,11 +4335,11 @@ Aufgabe 5e:
 #### Seite 10: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=10]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=10]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Grundlagen Mathematik Klasse: Name: Datum: 10 Aufgabe 5f: Multipliziere bzw. dividiere folgende Potenzen: 102 ∗ 103 = 109 103 = 10−1 ∗1012 = 10−6/10−3 = 103 ∗10−6 = 103/10−6 = Aufgabe 5g: √106 ∗ √104 ∗ √108 ∗ √10−12 / √10−16 = Aufgabe 5h: 7,2 ∗101 + 2,2 ∗102 ∗15 ∗10−1 −4,3 ∗10−2 =
@@ -4380,11 +4380,11 @@ Aufgabe 5h:
 #### Seite 12: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=12]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=12]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Elektrische Ladung Q Klasse: Name: Datum: 2 Protonen und Elektronen nennt man Ladungstr‰ger. Sie tragen die kleinste elektrische Ladung, die mˆglich ist. Diese wird als Elementarladung bezeichnet: Elementarteilchen Elektronen Protonen Ladungsart Formelzeichen Zahlenwert Einheitenname Einheitenzeichen Ein Atom besitzt mehrere Elementarladungen (Protonen und Elektronen). Die gesamte elektrische Ladung Q („Elektrizitätsmenge“) eines Atoms berechnet man aus der Anzahl n der Elementarladungen mal der Elementarladung e: Aufgabe 1: Berechne die Elektrizit‰tsmenge Q des in Abbildung 1 dargestellten Atoms. Aufgabe 2: Aus wie vielen Elektronen besteht die Ladung …
@@ -4474,11 +4474,11 @@ n= = 101
 #### Seite 13: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=13>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=13]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=13>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=13]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=13]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Elektrische Ladung Q Klasse: Name: Datum: 3 Wie in Aufgabe 1 festgestellt, sind Atome grunds‰tzlich elektrisch neutral (d.h. sie haben weder einen Elektronen¸berschuss noch einen Elektronenmangel). Um den elektrischen Strom leiten zu kˆnnen, m¸ssen im Material freie Ladungstr‰ger vorhanden sein. Die Elektronen der meisten Stoffe bzw. Elemente sind jedoch fest in der Atomh¸lle gefangen und Kreisen um den Atomkern. Die meisten Materialien sind deshalb sogenannte Nichtleiter bzw. Isolatoren. Bei Metallen ist dies jedoch anders: Im Metallgitter sind die einzelnen Atome sehr dicht aneinandergedr‰ngt. Die Elektronen der ‰uﬂersten Schalen (sog. Valenzelektron …
@@ -4538,11 +4538,11 @@ Keramik
 #### Seite 16: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=16>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=16]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=16>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=16]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=16]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Spannung und Potenzial Klasse: Name: Datum: 3 Aufgabe 1: a) Bestimme alle Potenziale. b) Beschrifte alle Spannungen. c) Berechne alle Spannungen. Aufgabe 2: Berechne alle Teilspannungen!
@@ -4570,11 +4570,11 @@ Aufgabe 2: Berechne alle Teilspannungen!
 #### Seite 20: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=20]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=20]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Elektrischer Strom Klasse: Name: Datum: 2 Aufgabe 1: Beim Betrieb einer Glühlampe fließt eine Ladungsmenge Q = 0,06 C innerhalb einer Zeit t = 200 ms. Berechne die elektrische Stromstärke I in mA. Aufgabe 2: Innerhalb welcher Zeitdauer t müsste die Ladungsmenge Q = 0,06 C durch die Glühlampe fließen, damit eine elektrische Stromstärke I = 800 mA erreicht wird? Gib das Ergebnis in ms an! Aufgabe 3: Die Stromstärke durch die Glühlampe soll nun I = 150 mA betragen. Wie viele Elementarladungen e = 1,602 *10-19 C werden dann innerhalb einer Zeitdauer von t = 10 ms durch den Leiter transportiert? • • I = Elektronen bewegen sich vom Minuspol zum Pluspol , wob …
@@ -4652,11 +4652,11 @@ Q=n
 #### Seite 21: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=21>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=21]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=21>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=21]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=21]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Elektrischer Strom Klasse: Name: Datum: 2 Aufgabe 1: Beim Betrieb einer Glühlampe fließt eine Ladungsmenge Q = 0,06 C innerhalb einer Zeit t = 200 ms. Berechne die elektrische Stromstärke I in mA. Aufgabe 2: Innerhalb welcher Zeitdauer t müsste die Ladungsmenge Q = 0,06 C durch die Glühlampe fließen, damit eine elektrische Stromstärke I = 800 mA erreicht wird? Gib das Ergebnis in ms an! Aufgabe 3: Die Stromstärke durch die Glühlampe soll nun I = 150 mA betragen. Wie viele Elementarladungen e = 1,602 *10-19 C werden dann innerhalb einer Zeitdauer von t = 10 ms durch den Leiter transportiert? • • I =
@@ -4694,11 +4694,11 @@ I =
 #### Seite 24: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=24>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=24]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=24>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=24]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=24]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 1 1. Erkläre die Aufgabe des PC – Netzteils PSU (AAAAAAAAAAAAAA): 2. Erläutere den Formfaktor ATX: 3. Ergänze die Werte im Typenschild von Rudis PC-Netzteil CHIEFTEC A-80 500W und ordne die Kenngrößen aus der Tabelle dem Typenschild zu. 4. Ergänze die jeweilige Versorgungsspannung für die PC-Komponenten: Komponente Versorgungsspannung Arbeitsspeicher/ Komponenten Mainboard CPU und USB-Schnittstellen CPU, Grafikkarte (und Laufwerke) Standby-Ausgang PC-Netzteil – Funktion und Kennwerte • AAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAA • …
@@ -4792,11 +4792,11 @@ Z
 #### Seite 28: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=28>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=28]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=28>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=28]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=28]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 1 Sichtet in der Gruppe zun‰chst ausf¸hrlich das Datenblatt des euch zugeordneten Grafikspeichers! Bearbeitet anschlieﬂend die nachstehenden Aufgaben! Die elektrische Leistung Pel ist die entscheidende Bemessungsgrˆﬂe, um PC-Komponenten bzw. eine Grafikkarte und ein Netzteil aufeinander abzustimmen! 1. Erg‰nzt die Formel sowie die Einheit der elektrischen Leistung: 2. Unter welcher Einschr‰nkung gilt obige Formel zur Berechnung der Leistung Pel? 3. Wo findet man die Angaben zu Strom, Spannung bzw. Leistung, wie bei der Grafikkarte von Rudi? 4. Wie kˆnnen Strom, Spannung und Leistung in der Praxis ermittelt …
@@ -4871,11 +4871,11 @@ Leistungsmessung
 #### Seite 30: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 30](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=30>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=30]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 30](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=30>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=30]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=30]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 3 9. Berechnet die f¸r den Betrieb der Grafikkarte demnach noch zur Verf¸gung stehende Leistung PNetzteil GK aus PNetzteil max und PKomp.ges . 10. ‹bertragt eure Ergebnisse als ‹bersicht in die betreffende Spalte. Kann Rudi die von euch untersuchte Grafikkarte mit seinem Netzteil betreiben? Maximalstrom Grafikkarte IGK max = Versorgungsspannung Grafikkarte U = Maximale Leistungsaufnahme Grafikkarte PGK max = F¸r Grafikkarte verf¸gbare Leistung PNetzteil GK = Differenz PNetzteil GK - PGK max = Kann die Grafikkarte verwendet werden? Begr¸ndung: • AAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAA • Ihr sei …
@@ -4951,11 +4951,11 @@ Netzteil
 #### Seite 31: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=31>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=31]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=31>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=31]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=31]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 4 11. Formuliert abschlieﬂend eine begr¸ndete Antwort f¸r Rudi: 12. Rudi entscheidet sich in ein leistungsst‰rkeres Netzteil zu investieren. Berechnet die erforderliche Gesamtleistung des Netzteils, wenn Rudi alle bisherigen Komponenten und eine Grafikeinheit vom Typ „ASRock Radeon RX 7900 XT Phantom“ betreiben will. Rechnet f¸r k¸nftige Upgrades zus‰tzlich einen Leistungspuffer von 20% ein! Sucht bei Conrad Electronic nach einem passenden Netzteil mit n‰chstgrˆﬂerer Leistung! • AAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAA …
@@ -5025,11 +5025,11 @@ P= 814,52W
 #### Seite 35: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=35>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=35]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=35>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=35]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=35]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 1 Sichtet zunächst ausführlich das Informationsschreiben der Stadtwerke Inglstadt. Bearbeitet anschließend die nachstehenden Aufgaben und berechnet die auf Rudi zukommenden Energiekosten! 1. Ergänzt die Formel sowie die Einheit der elektrischen Arbeit: Tipp: Rechnet die Zeitdauer t immer in Stunden h um! Dies erleichtert euch die anschließende Energiekostenberechnung! 2. Ergänzt die Formel sowie die Einheit zur Berechnung der Energiekosten: 3. Rudi ist etwas mulmig zumute. Beim gestrigen Abendessen hat ihm sein Vater offenbart, dass er am Ende dieser Woche einen Brief von den Stadtwerken mit der jährlichen …
@@ -5110,11 +5110,11 @@ Ppc
 #### Seite 38: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=38>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=38]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=38>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=38]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=38]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 1 Sichtet zun‰chst ausf¸hrlich (jeder f¸r sich!) das Produktinformationsblatt des euch zugeordneten Netzteils! Bearbeitet anschlieﬂend gemeinsam in der Gruppe die Aufgaben im nachstehenden Beratungsprotokoll. 1. Erg‰nzt die Formel zur Berechnung des Wirkungsgrades eines Netzteils: 2. Notiert die Einheit sowie den mˆglichen Wertebereich des Wirkungsgrades η: 3. Erkl‰rt kurz, wozu die 80PLUS-Zertifizierung des „Bequiet! PURE POWER 12M“ dient: Aus dem Beratungschat liegt euch das PC-Nutzungsprofil von Rudi vor. Es zeigt die vom Netzteil an die PC-Komponenten abgegebene Leistung Pab sowie die t‰glichen Betriebs …
@@ -5167,11 +5167,11 @@ Wirkungsgrad
 #### Seite 39: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 39](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=39>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=39]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 39](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=39>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=39]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=39]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 2 4. F¸r jede Lastphase getrennt: Lest die Zeitdauer t sowie die benˆtigte Leistung Pab aus dem PC-Nutzungsprofil ab. Berechnet anschlieﬂend die prozentuale Auslastung Load des Netzteils. 5. F¸r jede Lastphase getrennt: Ermittelt nun den Wirkungsgrad η (siehe Effizienzkennlinie im Produktblatt eures Netzteils). Berechnet anschlieﬂend die vom Netzteil in der jeweiligen Lastphase aufgenommene Leistung Pzu sowie die benˆtigte elektrische Energie Wel. Tragt eure Ergebnisse aus den Teilaufgaben 4 und 5 in die Tabelle auf Seite 3 ein! 100 % = 750W 1 % = 7 ,55 80% = 600L 40% = 3008 Lastphase 1 : 80 %: 4 = 83 % Ih …
@@ -5247,11 +5247,11 @@ Wh
 #### Seite 41: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 41](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=41>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=41]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 41](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=41>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=41]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=41]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 4 7. Berechnet nun abschlieﬂend die f¸r Rudi auftretenden Gesamtkosten Kgesamt aus KEnergie gesamt und KNetzteil. Erg‰nzt euer Ergebnis ebenfalls in der Tabelle. Wel gesamt KEnergie gesamt KNetzteil Kgesamt F¸r Rudi am rentabelsten: 8. Formuliert abschlieﬂend eine begr¸ndete Antwort f¸r Rudi: Ihr seid schon fertig? Hervorragend! Meldet euch bei Herrn Wild! Scannt nebenstehenden QR-Code und bearbeitet die Zusatzaufgaben! Zusammenfassende Erkenntnis: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAA …
@@ -5348,11 +5348,11 @@ am größten
 #### Seite 44: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 44](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=44>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=44]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 44](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=44>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=44]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=44]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 1 Schulaufgabenvorbereitung Allgemeine Hinweise für die Schulaufgabe: • Erlaubte Materialien und Hilfsmittel: Taschenrechner (nicht vergessen!), Kugelschreiber, Textmarker und Lineal • Eine Formelsammlung wird in der SA zur Verfügung gestellt! • Themen: Ladung Q, Einheitenvorsätze, Spannung U und Potenzial φ, Stromstärke I, Prinzipien der Spannungserzeugung, Netzteil (Typenschild, Sicherungseinrichtungen etc.), Elektrische Leistung Pel, Elektrische Arbeit Wel, Energiekosten K • Übungen zum Wirkungsgrad η können vorerst ausgelassen werden und sind nicht relevant für die Schulaufgabe! • Notiert euch bei der …
@@ -5400,11 +5400,11 @@ Glühweins verwendet er eine mobile Elektroherdplatte.
 #### Seite 45: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=45>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=45]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=45>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=45]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=45]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 2 a) Berechne die Leistungsaufnahme Pel Herd 1…n der Herdplatte für alle sechs Laststufen. (Hinweis: Im Fall von Wärmeverbrauchern, wie Heizlüftern, Herdplatten usw., darf auch bei Wechselstrom mit der Formel Pel = U * I gerechnet werden!) b) Um den Glühwein so schnell wie möglich zu erhitzen, stellt Rudi die Herdplatte für 25 Minuten auf Laststufe 6. Berechne die in dieser Zeitspanne aufgenommene elektrische Energie Wel Herd6. c) Berechne die in dieser Zeit durch die Zuleitung fließende Ladungsmenge Q. Gib das Ergebnis in mC an! Pel = U . h .. m Pe = 230V . 1200mA = 276 W Pelz = 230V . 2240 MA = 515 , 22 …
@@ -5504,11 +5504,11 @@ Q
 #### Seite 46: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 46](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=46>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=46]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 46](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=46>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=46]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=46]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 3 d) Berechne die Anzahl n der in dieser Zeit durch die Zuleitung fließenden Elektronen. e) Nach 25 Minuten ist der Glühwein servierbereit und Rudi dreht die Herdplatte zurück auf Stufe 3. Auf dieser stellt er den Glühwein für ungefähr 3 Stunden 24 Minuten und 36 Sekunden warm. Berechne die in dieser Zeitspanne aufgenommene elektrische Energie Wel Herd3. f) Berechne die gesamte durch die Herdplatte aufgenommene Elektrische Energie Wel Herd sowie die von dieser verursachten Energiekosten KHerd, wenn der Tarif T bei 35,49 Ct/kWh liegt. g) Auch wenn der Glühwein bereits gut einheizt, muss Rudi aufgrund der ni …
@@ -5590,11 +5590,11 @@ Was = 9.673 .242,51)
 #### Seite 47: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=47>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=47]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=47>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=47]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=47]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=47]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 4 h) Um die Hütte zu heizen, lässt Rudi den Heizlüfter den ganzen Abend gemäß nachstehendem Profil laufen. Berechne die in dieser Zeitspanne aufgenommene elektrische Energie Wel Heizlüfter sowie die entstehenden Energiekosten KHeizlüfter, wenn der Tarif T weiterhin bei 35,49 Ct/kWh liegt. P = U . I P = THOW Pc = zow 4 = 2300 1 = 7 In = 100 = 4 , 35 A In= 7 Wa = U . 1 . + Wer Waln+ Welz Wel = U . In ty = 230V. 4,35A . 5h = 5003 Wh Weiz = U . 12. +z = 230V. 8,7A. 7h = 14 . 007Wh Wel = 5003 Wh + 14 . 007 Wh = 19 .010 Uh k = We . T I Kel = 13 .01 kWh · 35, 49 c+ /kWh = 6 , 747
@@ -5672,11 +5672,11 @@ kWh
 #### Seite 48: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 48](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=48>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=48]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 48](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=48>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=48]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=48]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 5 i) Die Lichterkette liegt an 230 V und nimmt einen Strom von 3,9 A auf. Berechne die durch die Lichterkette verursachten Energiekosten KLichterkette, wenn Rudi diese von 16 Uhr bis 4 Uhr ununterbrochen eingeschaltet lässt. Der Tarif T liegt weiterhin bei 35,49 Ct/kWh. j) Berechne die gesamten durch sämtliche Verbraucher im Laufe des Abends entstehenden Energiekosten KAbend aus KHerd, KHeizlüfter und KLichterkette. (Hinweis: Der Elektroweidezaun wird durch eine KFZ-Batterie versorgt und muss bei der Kostenberechnung nicht berücksichtigt werden!) V = 4 . 1 . + k = 0 -T W : 230V 3 ,91 . 124 = 10 . 764 Wh k …
@@ -5725,11 +5725,11 @@ Ci
 #### Seite 49: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=49>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=49]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=49>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=49]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=49]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=49]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 6 k) Rudi versorgt die Herdplatte, den Heizlüfter und die Lichterkette zusammen über nebenstehende Mehrfachsteckdose. Prüfe durch Rechnung, ob der gleichzeitige Betrieb aller Verbraucher bei voller Leistung zulässig ist. Aufgabe 2: Rudi und der Zocker-Abend (Fortsetzung 1) Um für besinnliche Stimmung zu sorgen, lässt Rudi zwischendrin etwas Weihnachtsmusik laufen. Hierfür hat er seinen akkubetriebenen Bluetooth- Lautsprecher mit nebenstehenden Kenndaten mit in die Hütte gebracht. a) Die Akkuversorgungsspannung des Lautsprechers beträgt 11,1 Volt. Gemäß Herstellerangaben gibt der Lautsprecher bei halber bzw …
@@ -5779,11 +5779,11 @@ Sinus-Schallleistung ab. Berechne den Wirkungsgrad η bei halber und voller Laut
 #### Seite 50: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 50](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=50>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=50]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 50](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=50>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=50]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=50]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=50]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 7 b) Der Lautsprecher wird über ein Schaltnetzteil geladen. Auf dem Gehäuse des Netzteils findet sich die Aufschrift „Safety feature SCP“. Erläutere deren Bedeutung. Aufgabe 3: Rudi und der Zocker-Abend (Fortsetzung 2) Zu später Stunde spielt sich in der Zockerhütte eine Tragödie ab. Rudis Zockerkollege Schorschi kippt versehentlich Glühwein über seinen Rechner. Kurze Zeit danach ist es in der Hütte stockdunkel. Der Fehlerstromschutzschalter der Garagenverteilung, an welcher die Hütte angeschlossen ist, hat ausgelöst. Nach dem Einschalten des Schutzschalters wird es wieder hell und die Rechner fahren hoch. …
@@ -5824,11 +5824,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 #### Seite 51: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 51](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=51>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=51]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 51](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=51>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=51]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=51]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=51]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 8 b) Schorschis Rechner ist mit nachstehenden Komponenten ausgestattet. Zeige durch Rechnung, dass Rudis Chieftec A-80 als Notlösung zur Rettung des Abends verwendet werden kann. ↑ ! Y U = phiA-phiB = 40 - up = 3 ,30 - 5V = - y , +V Us = phit-phils = 02-yz = T20 - 12V = OU Ua5 =phiA-phil = Un-95 =IV - 5 = -TIV
@@ -5883,11 +5883,11 @@ Ua5
 #### Seite 52: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 52](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=52>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=52]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 52](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=52>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=52]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=52]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=52]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 9 Nachfolgend sind die beiden Effizienzkennlinien von Schorschis zuvor verwendetem Netzteil BeQuiet Pure Power 750 Watt 80PLUS® GOLD und dem nun verwendeten Netzgerät Chieftec A-80 500 Watt ohne 80PLUS-Zertifizierung dargestellt.
@@ -5912,11 +5912,11 @@ Chieftec A-80 500 Watt ohne 80PLUS-Zertifizierung dargestellt.
 #### Seite 53: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 53](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=53>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=53]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 53](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=53>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=53]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=53]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=53]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 10 c) Wozu dient die sogenannte 80PLUS-Zertifizierung und welche Netzteile erhalten diese? d) Nenne vier 80PLUS-Zertifizierungen in aufsteigender Reihenfolge. e) Berechne die durch die Verlustleistung PV verursachten Energiekosten KVerluste (T = 35,49 Ct/kWh) der beiden Netzteile, wenn Schorschi seinen Rechner für 8 Stunden mit maximaler Leistung betreibt. • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA • AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAA …
@@ -5952,11 +5952,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 #### Seite 54: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 54](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=54>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=54]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 54](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=54>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=54]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=54]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=54]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 11 Noch eine Rudi unabhängige Aufgabe… Aufgabe 4: Ein LCD-Fernsehgerät mit LED-Hintergrundbeleuchtung hat eine durchschnittliche Leistung von 95 W im Betrieb und von 0,3 W im Standby. Das Gerät ist täglich 4 ½ Stunden im Einsatz. Der Arbeitspreis beträgt 0,42 €/kWh. Berechne a) die aufgenommene Arbeit pro Jahr (365 Tage), wenn das Gerät die übrige Zeit ganz ab- geschaltet ist, b) die Kosten pro Jahr,
@@ -5988,11 +5988,11 @@ b) die Kosten pro Jahr,
 #### Seite 55: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 55](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=55>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=55]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 55](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=55>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=55]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=55]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=55]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Schulaufgabenvorbereitung Klasse: Name: Datum: 12 c) die aufgenommene Arbeit pro Jahr, wenn das Gerät die übrige Zeit in den Standby- Modus geschaltet wird, d) die Kosten pro Jahr (Betrieb und Standby).
@@ -6018,11 +6018,11 @@ d) die Kosten pro Jahr (Betrieb und Standby).
 #### Seite 60: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=60>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=60]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=60>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=60]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=60]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=60]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen R Klasse: Name: Datum: 1 1. In einem Stromkreis mit einem Widerstand von 230  wird ein Strom von 2,5 A gemessen. Berechne die Versorgungsspannung. 2. Ein Widerstand liegt an einer Spannung von 1 kV und wird von einem Strom von 100 mA durchflossen. Berechne den Widerstandswert R sowie den Leitwert G. 3. Eine Relaisspule weist einen Widerstand von 18  auf und ist für 133 mA geeignet. Berechne die zulässige Versorgungsspannung. Übungsaufgaben Ohmsches Gesetz Ri U = R . I = 230 1 2 ,5A= 575V R= = = 10.001 = 10kt G = Es =or = 0, 1 mS u = R . 1 = 18 d . 0,133A = 2, 4V
@@ -6070,11 +6070,11 @@ u = R
 #### Seite 61: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=61>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=61]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=61>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=61]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=61]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=61]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen R Klasse: Name: Datum: 2 4. Der Spannungsabfall an einem 4,7 k Widerstand beträgt 12 V. Berechne die Stromstärke! Ermittle den Wert, auf den der Widerstand geändert werden müsste, damit bei gleicher Stromstärke die Spannung auf 14 V ansteigt. 5. Berechne alle fehlenden Ströme und Spannungen mithilfe des Ohmschen Gesetzes. I = E = nor = 0 , 0026A = 2 ,6 mA R= =1 = 54901 #1=== 2 A 45= 15 · 1 = 151 · 2A = JOU R2=== 401 It 50 = 0 ,5 R= 60
@@ -6120,11 +6120,11 @@ R= 60
 #### Seite 62: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=62>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=62]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=62>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=62]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=62]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=62]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen R Klasse: Name: Datum: 3 1. Berechne den Widerstand eines Kupferdrahtes der Lange 140 m und dem Querschnitt 2,5 mm2. 2. Eine Freileitung aus Aluminium ist 18 km lang. Ihr Querschnitt betragt 95 mm2. Berechne den Widerstand des Seils. 3. Eine Aluminiumleitung mit 2,5mm2 Querschnitt soll durch eine Kupferleitung gleicher Länge und gleichem Widerstand ersetzt werden. Berechne den Querschnitt bei Kupfer. Übungsaufgaben Leiterwiderstand : fx = = ,0178 R= 0, 0178 . 140m = 0.997 2.5 im Pa = 0 ,2d R = F = 0,0278 . 16000m Emai = 5, 23 d Ma = 0. 0278 .1 =1,0mm2 ↳ 2 ,5mml
@@ -6177,11 +6177,11 @@ Ma
 #### Seite 63: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 63](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=63>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=63]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 63](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=63>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=63]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=63]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=63]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen R Klasse: Name: Datum: 4 4. Die Wicklung einer Spule besteht aus Kupferdraht mit einem Durchmesser von 0,45 mm. Der Spulenwiderstand betragt 112 Ω. Berechne die Drahtlänge. 5. Eine 70 m lange Aluminiumleitung darf einen maximalen Widerstand von 0,4 Ω haben. Berechne den Mindestdurchmesser der Leitung. R = F = R . A = p .) = B = 1 177 wh . 0 . 45mm 1 = = 1 ,42m 0, 0278 Refom4 di 2. = 2. ma = 2 ,5m
@@ -6231,11 +6231,11 @@ ma
 #### Seite 66: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 66](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=66>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=66]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 66](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=66>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=66]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=66]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=66]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Reihenschaltung Klasse: Name: Datum: 3 7. Messt nun wieder sämtliche Ströme und Spannungen und tragt eure Messwerte in nachstehende Tabelle ein. I1 I2 I3 I4 U U1 U2 U3 U4 Tabelle 2: Messwerte Lichterkette lang 8. Berechnet nun den Gesamtwiderstand der Reihenschaltung „Lichterkette lang“ mithilfe des Ohmschen Gesetzes. 9. Tragt nun alle Messergebnisse (Gesamtspannung U, Teilspannungen U1 – U4, Gesamtwiderstand R und Stromstärke I) zusammenfassend in nachstehende Tabelle ein: U U1 U2 U3 U4 R I P Lichterkette kurz Lichterkette lang Tabelle 3: Zusammenfassung Messwerte 10. Berechnet die in den beiden Messchaltungen umgesetzte Gesamtleistung und tragt eure …
@@ -6317,11 +6317,11 @@ P
 #### Seite 71: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 71](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=71>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=71]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 71](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=71>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=71]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=71]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=71]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen Reihen- und Parallelschaltung Klasse: Name: Datum: 1 1. Die Widerstände R1 = 25  und R2 = 35  liegen in Reihe an 220 V. Berechne den Ersatzwiderstand (= Gesamtwiderstand), die Stromstärke I sowie die Teilspannungen U1 und U2 an beiden Widerständen. 2. Die Widerstände R1 = 1,5 k, R2 = 2,2 k sowie R3 = 6,8 k liegen in Reihe an 220 V. Berechne den Ersatzwiderstand (= Gesamtwiderstand), die Stromstärke I sowie alle Teilspannungen. Übungsaufgaben Reihen- und Parallelschaltung D= Rgo = Ri + Re = 601 I b,6 A 25 U = U = con · 2201 = 91,672 42 = 128 , 330 Rges = Ry + Re +Ry = 1 , 5k2 + 2 , 2 k +6,ko :15k1 1 = 0 . 02 4 = 4 = 15001 · 220V = 31, 43V 1 …
@@ -6396,11 +6396,11 @@ U:
 #### Seite 72: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 72](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=72>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=72]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 72](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=72>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=72]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=72]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=72]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen Reihen- und Parallelschaltung Klasse: Name: Datum: 2 3. Die Widerstände R1 = 50 , R2 = 150  und R3 = 200  sind in Reihe geschaltet. Über dem Widerstand R2 wird eine Spannung von 75 V gemessen. a) Zeichne die Schaltung auf und bezeichne alle Spannungen und Ströme. b) Berechne die Stromstärke I. c) Berechne die Teilspannungen U1 und U3. d) Berechne die Gesamtspannung U. e) Berechne den Gesamtwiderstand. R :50d EiTIO RyiZON r -4- :Fif = U = R . 1 = By 1 : 501 · IA : T Ry . I : ICN · A = zrou Uges : Un +He + Uy = 1000 + 55VC =375V - R=== 17,5
@@ -6448,11 +6448,11 @@ R=== 17,5
 #### Seite 73: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 73](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=73>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=73]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 73](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=73>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=73]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=73]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=73]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen Reihen- und Parallelschaltung Klasse: Name: Datum: 3 4. Die Widerstände R1 = 10 k, R2 = 20 k,, R3 = 30 k und R4 = 40 k sind parallel geschalten und liegen an einer Versorgungsspannung von 230 V. a) Zeichne die Schaltung auf und bezeichne alle Spannungen und Ströme. b) Berechne alle Teilströme sowie die Gesamtstromstärke. c) Berechne den Gesamtwiderstand sowie den Gesamtleitwert. d) Was passiert mit dem Gesamtwiderstand, dem Gesamtleitwert sowie der Gesamtstromstärke, wenn noch weitere Widerstände hinzugeschalten werden? Erläutere kurz. ·in indtdor 1 E In= =30 = 0,023A Iz = 0,01 #=: 0,00 Igg = 0 ,023 A + 0, 612A +0,00PA = 0,0043A = F + +E = …
@@ -6506,11 +6506,11 @@ Igg
 #### Seite 74: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 74](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=74>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=74]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 74](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=74>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=74]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=74]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=74]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen Gruppenschaltung Klasse: Name: Datum: 1 1. Berechne den Ersatzwiderstand, den Gesamtstrom, die Teilströme I12, I3 und I4 sowie die Teilspannungen U123 und U4 der nachfolgenden Gruppenschaltung. Übungsaufgaben Gruppenschaltung 1. Un=. = Toer · 12V= 3 . 75 42= 4: Uz= 8 , 25V In=V = 00375A U = Rez = 3201 2. A Es = Es = = 0,0255A I Rizz = F + F = on + For = 190, Ich 3. 150 , 4 4=. 180 +190 . 42 · 12V = 6, 28 In = Un Un = 12V- 6 , 20 = 5 ,80
@@ -6572,11 +6572,11 @@ Un = 12V- 6
 #### Seite 75: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 75](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=75>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=75]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 75](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=75>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=75]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=75]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=75]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen Gruppenschaltung Klasse: Name: Datum: 2 2. Die nachfolgende Schaltung liegt an einer Gesamtspannung U von 24 V. Der Gesamtstrom beträgt 50 mA. Berechne die fehlenden Teilströme, Teilspannungen und Widerstände. 3. In einem Rechenzentrum werden mehrere IT-Systeme (Server, Storage-Systeme und Netzwerkgeräte) über eine Gruppenschaltung mit elektrischer Energie versorgt. Die Schaltung besteht aus drei Gruppen, die parallel an eine gemeinsame Spannungsquelle mit U = 230 V angeschlossen sind. Jede Gruppe enthält unterschiedlich viele Verbraucher, die in Reihe geschalten sind:
@@ -6607,11 +6607,11 @@ die in Reihe geschalten sind:
 #### Seite 76: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 76](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=76>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=76]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 76](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=76>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=76]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=76]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=76]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen Gruppenschaltung Klasse: Name: Datum: 3 a) Berechne den Gesamtwiderstand jeder einzelnen Gruppe. b) Berechne den Ersatzwiderstand der gesamten Schaltung. c) Berechne die Stromstärke in jeder einzelnen Gruppe. d) Bestimme den Gesamtstrom, den das Rechenzentrum aus dem Netz aufnimmt. e) Berechne die elektrische Leistung, die in jeder einzelnen Gruppe umgesetzt wird. f) In Gruppe 3 fällt die USV aus und verursacht eine Unterbrechung. Berechne den neuen Gesamtwiderstand der Schaltung.
@@ -6640,11 +6640,11 @@ neuen Gesamtwiderstand der Schaltung.
 #### Seite 77: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 77](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=77>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=77]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 77](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=77>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=77]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=77]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=77]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Übungen Gruppenschaltung Klasse: Name: Datum: 4
@@ -6665,11 +6665,11 @@ Datum:
 #### Seite 79: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 79](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=79>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=79]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 79](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=79>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=79]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=79]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=79]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 2 Schaue dir das Video zum Durchströmungsunfall aufmerksam an und beantworte die Fragen 1 bis 4: 1. Weshalb leitet der menschliche Körper den elektrischen Strom so gut? 2. Wie erfolgt die Reizweiterleitung (Sinnesorgane -> Gehirn bzw. Gehirn -> Muskulatur) im menschlichen Körper? 3. Was passiert mit der Reizweiterleitung, wenn der menschliche Körper bei einem Durch- strömungsunfall von einem sogenannten Körperstrom durchflossen wird? 4. Wovon ist die Schwere eines Durchströmungsunfalls abhängig? 5. Gefährdungsbereiche für Erwachsene AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAA …
@@ -6745,11 +6745,11 @@ Aufgabe 1a( = UmA , +=50cms
 #### Seite 83: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 83](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=83>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=83]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 83](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=83>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=83]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=83]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=83]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 6 Übungsaufgabe 1: Autobatterie Rudi möchte die Batterie seines VW-Busses tauschen. Um die Batterie abzuklemmen, berührt er den Pluspol (linke Hand) und den Minuspol (rechte Hand) gleichzeitig für eine Zeitdauer von 5 Sekunden. Hierbei trägt er keine Handschuhe. a) Berechne den Körperwiderstand RK (Strompfad 2) sowie den durch Rudi fließenden Körperstrom IK, wenn die Batteriespannung 12 V beträgt. Mit welchen Folgen muss Rudi rechnen? b) Wie hoch kann der Körperstrom IK bei gleichzeitiger Berührung der Batteriepole schlimmstenfalls werden und welche Auswirkungen hat dies? Un = 12V + = 53 Rki = 1000/ …
@@ -6811,11 +6811,11 @@ wie bei al
 #### Seite 84: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 84](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=84>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=84]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 84](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=84>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=84]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=84]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=84]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 7 Übungsaufgabe 2: Elektrischer Stuhl Der elektrische Stuhl wird heute nur noch in wenigen US- Bundesstaaten als Hinrichtungsmethode eingesetzt. Der Verurteilte wird hier mit mehreren breiten Ledergurten am Stuhl fixiert. Anschließend wird ihm eine Elektrode mittels Kinnriemen am kahlgeschorenen Kopf befestigt. Eine weitere Elektrode wird am rasierten Unterschenkel angebracht. Um einen ausreichenden Stromfluss zu gewährleisten, wird zusätzlich jeweils ein mit gesättigter Kochsalzlösung getränkter Naturschwamm zwischen Elektrode und Haut platziert. Bei der Exekution werden mehrere Stromstöße angewend …
@@ -6877,11 +6877,11 @@ I
 #### Seite 85: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 85](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=85>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=85]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 85](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=85>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=85]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=85]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=85]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 8 Übungsaufgabe 3: Bahnstromunfall Immer wieder kommt es zu Bahnstromunfällen von Kindern, Jugendlichen aber auch von Erwachsenen durch Klettern auf Waggons, Strommasten, abgestellte Züge oder S-Bahnen. Die meisten Unfälle enden mit schwersten Verletzungen oder sogar tödlich. (siehe hierzu auch das Video gemäß nebenstehendem QR- Code). Um die Züge mit elektrischer Energie zu versorgen sind diese mit sogenannten Oberleitungen verbunden. Zwischen den Oberleitungen herrscht eine Spannung von mehr als 15 kV. Bei so hoher Spannung kann es bereits bei einem Abstand von weniger als 1,5 m zur Oberleitung zu …
@@ -6941,11 +6941,11 @@ Bereichs
 #### Seite 86: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 86](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=86>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=86]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 86](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=86>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=86]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=86]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=86]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 9 Übungsaufgabe 4: Blitz tötet Fußballspieler Peru, 05.11.2024: Eigentlich verließen die Spieler gerade bereits den Platz, nachdem das Regionalliga-Match wegen des starken Gewitters unterbrochen wurde. Ein anschließender Blitzeinschlag im Spielfeld tötete jedoch einen Spieler. Vier Weitere wurden schwer verletzt. Auf den Aufnahmen eines lokalen Fernsehsenders ist der dramatische Moment festgehalten (siehe QR-Code). Wichtig: Um etwaige Unfälle zu verhindern, sollte man bei einem Gewitter stets Schutz in geschlossenen Räumen aufsuchen. Darüber hinaus sollte man jeglichen Kontakt mit metallischen Gegen …
@@ -6994,11 +6994,11 @@ USchritt
 #### Seite 87: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_AB_Ladung Q.pdf Seite 87](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=87>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=87]]`
+> - PDF: [01_AB_Ladung Q.pdf Seite 87](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=87>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=87]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=87]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=87]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Gefahren des elektrischen Stroms Klasse: Name: Datum: 10 Übungsaufgabe 5: Tausch eines Servernetzteils Ihr habt die Aufgabe das nebenstehende Servernetzteil mit Einzeladerverdrahtung zu tauschen. Das Netzteil wird mit einer Spannung von 230 V versorgt. Leider habt ihr vergessen den vorgeschalteten Leitungsschutzschalter zu betätigen und ihr kommt mit den stromführenden Leitern L1 und N in Kontakt. a) Berechne den bei Berührung mit linker und rechter Hand auftretenden Körperstrom IK und beurteilt seine Auswirkungen, wenn dieser für eine Zeitdauer von 600ms durch deinen Körper fließt. b) Was würde in der Praxis in so einem Fall tatsächlich passieren? (Ti …
@@ -7040,11 +7040,11 @@ PE
 #### Seite 3: Nob AD m ett 1. vauıı.
 
 > [!referenz] Exakte Referenz
-> - PDF: [Zusammenfassung.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=3]]`
+> - PDF: [Zusammenfassung.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Nob AD m ett 1. vauıı. Ge" > a PC-Netzteil - Funktion und Kennwerte / über weichen Ausgang AZ acer 9 1. Erkläre die Aufgabe des PC - Netzteils PSU ( Pur Swaehy Unit ): ‚NVo@chiedene Gleichspannuna un EN 2. Erläutere den Formfaktor ATX: a „die. Foto. 00.462... hes. (ehe... 5. Erläutere die Sicherungseinrichtungen des PC-Netzteils mithilfe des Internets: ret. one... Scroller abe vum de ap bh ‚Betectien........ | die. max..2ulavine. lest ubesterd.... Ves Volta @ & ef N USG GA am ove | Art..\altase.... |Schadiel.ab.senn. Ausenappamen. Ptetection..... | 20 hoch. ist.avch ber cu hohe. Eimanasunen Potection | Susann. Lb Kabel) couse uvp Undfez...oltase. Schaltet ab..sem. Asssomszunauns Plotecion... …
@@ -7094,11 +7094,11 @@ Pic hein. dO mehr... nn
 #### Seite 5: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [Zusammenfassung.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=5]]`
+> - PDF: [Zusammenfassung.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=5]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 1 Sichtet zun‰chst ausf¸hrlich (jeder f¸r sich!) das Produktinformationsblatt des euch zugeordneten Netzteils! Bearbeitet anschlieﬂend gemeinsam in der Gruppe die Aufgaben im nachstehenden Beratungsprotokoll. 1. Erg‰nzt die Formel zur Berechnung des Wirkungsgrades eines Netzteils: 2. Notiert die Einheit sowie den mˆglichen Wertebereich des Wirkungsgrades η: 3. Erkl‰rt kurz, wozu die 80PLUS-Zertifizierung des „Bequiet! PURE POWER 12M“ dient: Aus dem Beratungschat liegt euch das PC-Nutzungsprofil von Rudi vor. Es zeigt die vom Netzteil an die PC-Komponenten abgegebene Leistung Pab sowie die t‰glichen Betriebs …
@@ -7140,11 +7140,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 #### Seite 6: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [Zusammenfassung.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=6]]`
+> - PDF: [Zusammenfassung.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=6]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 2 4. F¸r jede Lastphase getrennt: Lest die Zeitdauer t sowie die benˆtigte Leistung Pab aus dem PC-Nutzungsprofil ab. Berechnet anschlieﬂend die prozentuale Auslastung Load des Netzteils. 5. F¸r jede Lastphase getrennt: Ermittelt nun den Wirkungsgrad η (siehe Effizienzkennlinie im Produktblatt eures Netzteils). Berechnet anschlieﬂend die vom Netzteil in der jeweiligen Lastphase aufgenommene Leistung Pzu sowie die benˆtigte elektrische Energie Wel. Tragt eure Ergebnisse aus den Teilaufgaben 4 und 5 in die Tabelle auf Seite 3 ein!
@@ -7174,11 +7174,11 @@ Tragt eure Ergebnisse aus den Teilaufgaben 4 und 5 in die Tabelle auf Seite 3 ei
 #### Seite 8: FU-IT: Grundlagen Elektrotechnik (Wild)
 
 > [!referenz] Exakte Referenz
-> - PDF: [Zusammenfassung.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=8]]`
+> - PDF: [Zusammenfassung.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > FU-IT: Grundlagen Elektrotechnik (Wild) Lernsituation - Netzteil Klasse: Name: Datum: 4 7. Berechnet nun abschlieﬂend die f¸r Rudi auftretenden Gesamtkosten Kgesamt aus KEnergie gesamt und KNetzteil. Erg‰nzt euer Ergebnis ebenfalls in der Tabelle. Wel gesamt KEnergie gesamt KNetzteil Kgesamt F¸r Rudi am rentabelsten: 8. Formuliert abschlieﬂend eine begr¸ndete Antwort f¸r Rudi: Ihr seid schon fertig? Hervorragend! Meldet euch bei Herrn Wild! Scannt nebenstehenden QR-Code und bearbeitet die Zusatzaufgaben! Zusammenfassende Erkenntnis: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAA …
@@ -7230,11 +7230,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 #### Seite 8: IPv4-Adressen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8]]`
+> - PDF: [Netzwerkt.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ITS: IPv4-Adressen BS1 IN otma (wo) 20.03.2024 Aufgaben: Lösen Sie die folgenden Aufgaben, indem Sie die angegebenen IP-Adressen und Subnet-Masken binär darstellen! 1.) Welche Adresse ist eine gültige Host-Adresse (d.h. weder Broadcast- noch Netz-Adresse): a) 17.128.0.0/9 b) 17.129.0.0/9 c) 17.0.0.0/9 d) 17.127.255.255/9 e) 17.255.255.255/9 a) IP-Adresse dezimal 17 128 0 0 IP-Adresse binär 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Subnet-Maske binär 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Subnet-Maske dezimal 255 128 0 0 b) IP-Adresse dezimal IP-Adresse binär Subnet-Maske binär Subnet-Maske dezimal c) IP-Adresse dezimal IP-Adresse binär Subnet-Ma …
@@ -7453,11 +7453,11 @@ der
 #### Seite 10: IPv4-Adressen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10]]`
+> - PDF: [Netzwerkt.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ITS: IPv4-Adressen BS1 IN otma (wo) 20.03.2024 Aufgaben: Lösen Sie die folgenden Aufgaben, indem Sie die angegebenen IP-Adressen und Subnet-Masken binär darstellen! 1.) Welche Host-Adresse wird nicht im Internet geroutet und ist nur im LAN gültig? a) 9.15.0.255 b) 10.255.255.254 c) 126.0.0.1 d) 191.168.255.245 e) 172.165.10.1 2.) Welche Adresse ist eine Multicast-Adresse? a) 222.0.0.1 b) 223.10.0.0 c) 224.200.10.0 d) 220.224.0.1 e) 124.1.2.0 3.) Welche Adresse ist eine private Klasse B-Hostadresse? a) 172.15.16.31 b) 172.28.0.0 c) 172.30.28.2 d) 172.32.0.1 4.) Welche Subnet-Maske ist ungültig? a) 255.240.0.0 b) 255.255.280.0 c) 255.255.255.248 d) 255.128.0.0 e) 224.0.0.0 5.) Welche Host-Adre …
@@ -7541,11 +7541,11 @@ X
 #### Seite 1: Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche!
 
 > [!referenz] Exakte Referenz
-> - PDF: [Aufgabenblatt - mögliche Lösung.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1]]`
+> - PDF: [Aufgabenblatt - mögliche Lösung.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT/Elektrotechnik Klasse: Datum: Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche! 1. Was versteht man unter einer Lieferantendatei? Eine Lieferantendatei sammelt Informationen über das Warenangebot, die Lieferbedingungen und Liefermöglichkeiten, die Angebotsmöglichkeiten sowie zusätzliche Informationen, z.B. Zuverlässigkeit und Entgegenkommen in besonderen Situationen. 2. Was versteht man unter einer Artikeldatei? Alle Waren und Artikel mit den entsprechenden Lieferanten die im Sortiment zu finden sind oder einmal angeboten wurden. 3. Welche Bedeutung (Vor- und Nachteile) haben Lieferanten- und Artikeldatei? Vorteile (Lieferantendatei): • Geschäftsbeziehung intensiv …
@@ -7611,11 +7611,11 @@ bzw. -datei.
 #### Seite 10: Gibt es einen Kaufvertrag zwischen Tom und Jakob?
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=10]]`
+> - PDF: [Skript.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=10]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT Klasse: Datum: Gibt es einen Kaufvertrag zwischen Tom und Jakob? I. Grundlage: Zwei gleichlautende Willenserklärungen! a.) Gibt es zwei Willenserklärungen? ___________________________________________________________________________ ___________________________________________________________________________ b.) Sind die Willenserklärungen gleichlautend? ___________________________________________________________________________ ___________________________________________________________________________ II. Gibt es Formvorschriften für einen Kaufvertrag? a.) Welche Formvorschriften gibt es allgemein? ___________________________________________________________________________ ___ …
@@ -7711,11 +7711,11 @@ eine Beweisfunktion
 #### Seite 13: Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche!
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=13>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=13]]`
+> - PDF: [Skript.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=13>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=13]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=13]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT/Elektrotechnik Klasse: Datum: Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche! 1. Was versteht man unter einer Lieferantendatei? ___________________________________________________________________ ___________________________________________________________________ ___________________________________________________________________ 2. Was versteht man unter einer Artikeldatei? ___________________________________________________________________ ___________________________________________________________________ ___________________________________________________________________ 3. Welche Bedeutung (Vor- und Nachteile) haben Lieferanten- und Artikeldatei? __________ …
@@ -7798,11 +7798,11 @@ Zeitaufwendig , keine Erfahrung
 #### Seite 15: Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche!
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=15]]`
+> - PDF: [Skript.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=15]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT/Elektrotechnik Klasse: Datum: Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche! 1. Was versteht man unter einer Lieferantendatei? Eine Lieferantendatei sammelt Informationen über das Warenangebot, die Lieferbedingungen und Liefermöglichkeiten, die Angebotsmöglichkeiten sowie zusätzliche Informationen, z.B. Zuverlässigkeit und Entgegenkommen in besonderen Situationen. 2. Was versteht man unter einer Artikeldatei? Alle Waren und Artikel mit den entsprechenden Lieferanten die im Sortiment zu finden sind oder einmal angeboten wurden. 3. Welche Bedeutung (Vor- und Nachteile) haben Lieferanten- und Artikeldatei? Vorteile (Lieferantendatei): • Geschäftsbeziehung intensiv …
@@ -7866,11 +7866,11 @@ bzw. -datei.
 #### Seite 34: Übungsaufgaben
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=34>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=34]]`
+> - PDF: [Skript.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=34>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=34]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=34]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT Klasse: Datum: Übungsaufgaben Aufgabe 1 Die Schnellversand GmbH muss aus Konkurrenzgründen einen 10er-Pack der USB- Sticks zum Nettoverkaufspreis von 205,00 € anbieten. Auf welchen Einkaufspreis muss Sie beim Lieferanten drängen, wenn Sie mit 25 % Kundenrabatt, 3 % Kundenskonto, 16 % Gewinn, 18 % Handlungskosten, 18,00 € Bezugskosten, 2,5 % Liefererskonto und 20 % Liefererrabatt rechnet? Aufgabe 2 Die Computec GmbH möchte Computer für einen Bruttoverkaufspreis von 1190,00 € je Stück verkaufen. Wie hoch darf der Listeneinkaufspreis (brutto) höchstens sein, wenn folgende Daten zugrunde liegen: Kundenrabatt: 5 % und Kundenskonto: 2 % Gewinnzuschlagssatz: 25 % Handlungskostenzusch …
@@ -7906,11 +7906,11 @@ Der Umsatzsteuersatz beträgt 19 %.
 #### Seite 35: Aufgabe 3
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=35>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=35]]`
+> - PDF: [Skript.pdf Seite 35](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=35>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=35]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=35]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe 3 Wir haben für einen Laptop als Verkaufspreis 245,00 € kalkuliert. Wegen sehr großer Nachfrage nach diesen Laptops müssen wir 100 Laptops nachbestellen. Zwar bleibt der bisherige Listeneinkaufspreis in Höhe von 135,60 € je Laptop unverändert, jedoch müssen 150,00 € Bezugskosten für diese Nachbestellung bezahlt werden. Außerdem entfällt der bisherige Liefererrabatt in Höhe von 10 %. Wie viel Gewinn in Euro und Prozent erzielen wir für die nachbestellte Ware? Wir rechnen bei Laptops mit 30 % Handlungskostenzuschlag und erhalten 3 % Liefererskonto. Die Umsatzsteuer in Höhe von 19 % muss berücksichtigt werden. Aufgabe 4 Wir beziehen 250 Monitore zum Einkaufspreis von 142,50 € (netto) je …
@@ -7942,11 +7942,11 @@ welchem Ladenpreis können wir einen Monitor anbieten, wenn wir bei Monitoren mi
 #### Seite 36: Aufgabe1
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=36>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=36]]`
+> - PDF: [Skript.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=36>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=36]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=36]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe1 : Listeneinkaufspreis 100 % Lieferantenrabatt 20 % 23,32 E 20 % Zieleinkaufspreis 9)3 , 29 E 80 % 100 % Skonto 2, 5 % 2 ,33 E 2 ,5 % =Bareinkaufspreis 90 ,96E 97 ,5 % Bezugskosten 18 ,0 E =Bezugspreis 108 , 96 E Handlungskostenzuschlus 18 % 19 ,67E =Selbstkosten 128 ,5+ E Gewinn 16 % 20.57 E Barverkaufspreis 149 ,14t 97 % 116 % Kundenskonto 4 , 61E 3 % = Zielverkaufspreis 153,75: 75 % 100 % Kundenrabatt 25 % 51,25E 25 % = Nettoverkaufspres 205 ,0:) 100 % Umsatzsteuer 19 % Bruttoverkaufspreis 113 %
@@ -8028,7 +8028,7 @@ Bruttoverkaufspreis
 - Frage:: Was ist **Zero-Day-Exploit** laut Quelle?
 - Antwort:: Als Zero-Day-Exploit wird die Ausnutzung einer Sicherheitslücke bezeichnet, für die noch kein Patch des Herstellersverfiigbar ist.
 - Beleg:: Als Zero-Day-Exploit wird die Ausnutzung einer Sicherheitslücke bezeichnet, für die noch kein Patch des Herstellersverfiigbar ist.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116|IT_Sicherheit_Netzplan_251022_160116]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=3|Netzplan_251022_160116 S. 3]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116|IT_Sicherheit_Netzplan_251022_160116]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=3|Netzplan_251022_160116 S. 3]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -8036,7 +8036,7 @@ Bruttoverkaufspreis
 - Frage:: Welche Vorgabe nennt die Quelle zu **Der Sicherheitsprozess Informationssicherheit**?
 - Antwort:: Der Sicherheitsprozess Informationssicherheit ist kein Zustand, der einmal erreicht wird und dann fortbesteht, sondern ein Prozess, der kontinuierlich angepasst werden muss.
 - Beleg:: Der Sicherheitsprozess Informationssicherheit ist kein Zustand, der einmal erreicht wird und dann fortbesteht, sondern ein Prozess, der kontinuierlich angepasst werden muss.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -8044,7 +8044,7 @@ Bruttoverkaufspreis
 - Frage:: Was ist der Kernpunkt zu **Vielmehr** laut Quelle?
 - Antwort:: Vielmehr ist ein Informationssicherheitsmanagementsystem (ISMS) erforderlich, der dafür sorgt, dass alle Maßnahmen zielgerichtet gesteuert und überwacht werden.
 - Beleg:: Vielmehr ist ein Informationssicherheitsmanagementsystem (ISMS) erforderlich, der dafür sorgt, dass alle Maßnahmen zielgerichtet gesteuert und überwacht werden.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -8052,7 +8052,7 @@ Bruttoverkaufspreis
 - Frage:: Welche Vorgabe nennt die Quelle zu **Objekte gruppieren Ziel der Strukturanalyse**?
 - Antwort:: Objekte gruppieren Ziel der Strukturanalyse ist es, diejenigen Objekte zu identifizieren und in ihrem Zusammenwirken zu beschreiben, für die in einem Sicherheitskonzept angemessene Schutzmaßnahmen festgelegt werden müssen.
 - Beleg:: Objekte gruppieren Ziel der Strukturanalyse ist es, diejenigen Objekte zu identifizieren und in ihrem Zusammenwirken zu beschreiben, für die in einem Sicherheitskonzept angemessene Schutzmaßnahmen festgelegt werden müssen.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8|Skript_Wittmann S. 8]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8|Skript_Wittmann S. 8]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -8060,7 +8060,7 @@ Bruttoverkaufspreis
 - Frage:: Was ist der Kernpunkt zu **Zum Beispiel** laut Quelle?
 - Antwort:: Zum Beispiel ist es zweckmäßig, IT-Systeme, die gleich oder ähnlich konfiguriert sind und für die gleichen Aufgaben genutzt werden, zu einer Gruppe zusammenzufassen. in Bonz Personal Informationstechnik Buchhaltung Haus- und Gebäudetechnik
 - Beleg:: Zum Beispiel ist es zweckmäßig, IT-Systeme, die gleich oder ähnlich konfiguriert sind und für die gleichen Aufgaben genutzt werden, zu einer Gruppe zusammenzufassen. in Bonz Personal Informationstechnik Buchhaltung Haus- und Gebäudetechnik
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8|Skript_Wittmann S. 8]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8|Skript_Wittmann S. 8]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -8068,7 +8068,7 @@ Bruttoverkaufspreis
 - Frage:: Was ist der Kernpunkt zu **In der Regel** laut Quelle?
 - Antwort:: In der Regel wird die Gefährdungsbewertung aufzeigen, dass nicht alle Gefährdungen durch das vorhandene Sicherheitskonzept ausreichend abgedeckt sind.
 - Beleg:: In der Regel wird die Gefährdungsbewertung aufzeigen, dass nicht alle Gefährdungen durch das vorhandene Sicherheitskonzept ausreichend abgedeckt sind.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=55|Skript_Wittmann S. 55]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=55|Skript_Wittmann S. 55]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -8076,7 +8076,7 @@ Bruttoverkaufspreis
 - Frage:: Welche Vorgabe nennt die Quelle zu **Gibt es einen Kaufvertrag zwischen Tom und Jakob?**?
 - Antwort:: Der Käufer ist verpflichtet, den Kaufpreis zu Zahlen und die Ware anzunehmen -> Tom muss den Kaufpreis zahlen und das Tablet annehmen Es gibt einen Kaufvertrag zwischen Jakob und Tom V Für einen Kaufvertrag gibt es zwar keine Form vorschrift , ein schriftliche Vertrag erfüllt allerdings häufig eine Beweisfunktion
 - Beleg:: Der Käufer ist verpflichtet, den Kaufpreis zu Zahlen und die Ware anzunehmen -> Tom muss den Kaufpreis zahlen und das Tablet annehmen Es gibt einen Kaufvertrag zwischen Jakob und Tom V Für einen Kaufvertrag gibt es zwar keine Form vorschrift , ein schriftliche Vertrag erfüllt allerdings häufig eine Beweisfunktion
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=10|Skript S. 10]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=10|Skript S. 10]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -8084,7 +8084,7 @@ Bruttoverkaufspreis
 - Frage:: Welche Vorgabe nennt die Quelle zu **Gibt es einen Kaufvertrag zwischen Tom und Jakob?**?
 - Antwort:: Der Verkäufer ist verpflichtet, die Ware zu übergeben, dem Käufer das Eigentum zu verschaffen und den Kaufpreis anzunehmen -> Jakob muss Tom das Tablet aushändigen und den Kaufpreis annehmen 2.
 - Beleg:: Der Verkäufer ist verpflichtet, die Ware zu übergeben, dem Käufer das Eigentum zu verschaffen und den Kaufpreis anzunehmen -> Jakob muss Tom das Tablet aushändigen und den Kaufpreis annehmen 2.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=10|Skript S. 10]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=10|Skript S. 10]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

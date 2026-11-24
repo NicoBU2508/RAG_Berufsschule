@@ -88,7 +88,7 @@
     "sources": [
       {
         "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Begriffe_Computerwelt_Gitterratsel.md",
-        "pdf_path": "99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf",
+        "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf",
         "audited_pages": 1,
         "first_page": 1,
         "last_page": 1,
@@ -96,7 +96,7 @@
       },
       {
         "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1.md",
-        "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf",
+        "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf",
         "audited_pages": 4,
         "first_page": 1,
         "last_page": 4,
@@ -104,7 +104,7 @@
       },
       {
         "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1_1.md",
-        "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1 (1).pdf",
+        "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1 (1).pdf",
         "audited_pages": 1,
         "first_page": 1,
         "last_page": 1,
@@ -112,7 +112,7 @@
       },
       {
         "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-        "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+        "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
         "audited_pages": 34,
         "first_page": 1,
         "last_page": 34,
@@ -120,7 +120,7 @@
       },
       {
         "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Lernziele.md",
-        "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf",
+        "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf",
         "audited_pages": 2,
         "first_page": 1,
         "last_page": 2,
@@ -128,7 +128,7 @@
       },
       {
         "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md",
-        "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf",
+        "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf",
         "audited_pages": 7,
         "first_page": 1,
         "last_page": 7,
@@ -136,7 +136,7 @@
       },
       {
         "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-        "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+        "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
         "audited_pages": 16,
         "first_page": 1,
         "last_page": 16,
@@ -144,7 +144,7 @@
       },
       {
         "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-        "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+        "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
         "audited_pages": 67,
         "first_page": 1,
         "last_page": 67,
@@ -152,7 +152,7 @@
       },
       {
         "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-        "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+        "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
         "audited_pages": 35,
         "first_page": 1,
         "last_page": 35,
@@ -160,7 +160,7 @@
       },
       {
         "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
-        "pdf_path": "99_Originale/Berufsschule/Religion/Reli Notizen.pdf",
+        "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
         "audited_pages": 6,
         "first_page": 1,
         "last_page": 6,
@@ -168,7 +168,7 @@
       },
       {
         "source_note": "02_Faecher/Vertretung/Quellen/Untitled.md",
-        "pdf_path": "99_Originale/Berufsschule/Vertretung/Untitled.pdf",
+        "pdf_path": "99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf",
         "audited_pages": 4,
         "first_page": 1,
         "last_page": 4,
@@ -1329,7 +1329,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/Begriffe_Computerwelt_Gitterratsel#page=1",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Begriffe_Computerwelt_Gitterratsel.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf",
       "page": 1,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 3261,
@@ -1360,7 +1360,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1#page=1",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf",
       "page": 1,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 3759,
@@ -1396,7 +1396,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1#page=2",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf",
       "page": 2,
       "worklist_source_text_status": "text",
       "source_section_chars": 1043,
@@ -1433,7 +1433,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1#page=3",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf",
       "page": 3,
       "worklist_source_text_status": "text",
       "source_section_chars": 1800,
@@ -1469,7 +1469,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1#page=4",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf",
       "page": 4,
       "worklist_source_text_status": "text",
       "source_section_chars": 1789,
@@ -1504,7 +1504,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1_1#page=1",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1_1.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1 (1).pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1 (1).pdf",
       "page": 1,
       "worklist_source_text_status": "text",
       "source_section_chars": 1059,
@@ -1538,7 +1538,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=1",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 1,
       "worklist_source_text_status": "text",
       "source_section_chars": 714,
@@ -1573,7 +1573,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=2",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 2,
       "worklist_source_text_status": "text",
       "source_section_chars": 531,
@@ -1610,7 +1610,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=3",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 3,
       "worklist_source_text_status": "text",
       "source_section_chars": 570,
@@ -1648,7 +1648,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=4",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 4,
       "worklist_source_text_status": "text",
       "source_section_chars": 580,
@@ -1686,7 +1686,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=5",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 5,
       "worklist_source_text_status": "text",
       "source_section_chars": 650,
@@ -1721,7 +1721,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=6",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 6,
       "worklist_source_text_status": "text",
       "source_section_chars": 691,
@@ -1758,7 +1758,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=7",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 7,
       "worklist_source_text_status": "text",
       "source_section_chars": 566,
@@ -1795,7 +1795,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=8",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 8,
       "worklist_source_text_status": "weak",
       "source_section_chars": 465,
@@ -1831,7 +1831,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=9",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 9,
       "worklist_source_text_status": "text",
       "source_section_chars": 1027,
@@ -1869,7 +1869,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=10",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 10,
       "worklist_source_text_status": "text",
       "source_section_chars": 699,
@@ -1902,7 +1902,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=11",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 11,
       "worklist_source_text_status": "text",
       "source_section_chars": 1153,
@@ -1939,7 +1939,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=12",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 12,
       "worklist_source_text_status": "weak",
       "source_section_chars": 513,
@@ -1972,7 +1972,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=13",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 13,
       "worklist_source_text_status": "text",
       "source_section_chars": 746,
@@ -2006,7 +2006,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=14",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 14,
       "worklist_source_text_status": "text",
       "source_section_chars": 956,
@@ -2040,7 +2040,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=15",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 15,
       "worklist_source_text_status": "text",
       "source_section_chars": 948,
@@ -2074,7 +2074,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=16",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 16,
       "worklist_source_text_status": "text",
       "source_section_chars": 690,
@@ -2108,7 +2108,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=17",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 17,
       "worklist_source_text_status": "text",
       "source_section_chars": 528,
@@ -2143,7 +2143,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=18",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 18,
       "worklist_source_text_status": "text",
       "source_section_chars": 796,
@@ -2178,7 +2178,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=19",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 19,
       "worklist_source_text_status": "text",
       "source_section_chars": 688,
@@ -2213,7 +2213,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=20",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 20,
       "worklist_source_text_status": "text",
       "source_section_chars": 544,
@@ -2246,7 +2246,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=21",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 21,
       "worklist_source_text_status": "text",
       "source_section_chars": 627,
@@ -2278,7 +2278,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=22",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 22,
       "worklist_source_text_status": "text",
       "source_section_chars": 655,
@@ -2310,7 +2310,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=23",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 23,
       "worklist_source_text_status": "text",
       "source_section_chars": 555,
@@ -2343,7 +2343,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=24",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 24,
       "worklist_source_text_status": "text",
       "source_section_chars": 677,
@@ -2376,7 +2376,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=25",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 25,
       "worklist_source_text_status": "text",
       "source_section_chars": 647,
@@ -2412,7 +2412,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=26",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 26,
       "worklist_source_text_status": "text",
       "source_section_chars": 780,
@@ -2445,7 +2445,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=27",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 27,
       "worklist_source_text_status": "text",
       "source_section_chars": 681,
@@ -2480,7 +2480,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=28",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 28,
       "worklist_source_text_status": "text",
       "source_section_chars": 784,
@@ -2516,7 +2516,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=29",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 29,
       "worklist_source_text_status": "text",
       "source_section_chars": 720,
@@ -2552,7 +2552,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=30",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 30,
       "worklist_source_text_status": "text",
       "source_section_chars": 565,
@@ -2584,7 +2584,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=31",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 31,
       "worklist_source_text_status": "text",
       "source_section_chars": 623,
@@ -2619,7 +2619,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=32",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 32,
       "worklist_source_text_status": "text",
       "source_section_chars": 745,
@@ -2654,7 +2654,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=33",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 33,
       "worklist_source_text_status": "text",
       "source_section_chars": 656,
@@ -2690,7 +2690,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe#page=34",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "page": 34,
       "worklist_source_text_status": "text",
       "source_section_chars": 631,
@@ -2725,7 +2725,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Lernziele#page=1",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Lernziele.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf",
       "page": 1,
       "worklist_source_text_status": "text",
       "source_section_chars": 3599,
@@ -2765,7 +2765,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Lernziele#page=2",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Lernziele.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf",
       "page": 2,
       "worklist_source_text_status": "weak",
       "source_section_chars": 452,
@@ -2790,7 +2790,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116#page=1",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf",
       "page": 1,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1795,
@@ -2826,7 +2826,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116#page=2",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf",
       "page": 2,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1561,
@@ -2861,7 +2861,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116#page=3",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf",
       "page": 3,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1750,
@@ -2898,7 +2898,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116#page=4",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf",
       "page": 4,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1225,
@@ -2933,7 +2933,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116#page=5",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf",
       "page": 5,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 637,
@@ -2963,7 +2963,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116#page=6",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf",
       "page": 6,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 637,
@@ -2993,7 +2993,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116#page=7",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf",
       "page": 7,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 637,
@@ -3028,7 +3028,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=1",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 1,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1894,
@@ -3065,7 +3065,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=2",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 2,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1880,
@@ -3099,7 +3099,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=3",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 3,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1773,
@@ -3133,7 +3133,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=4",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 4,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1778,
@@ -3165,7 +3165,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=5",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 5,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1694,
@@ -3197,7 +3197,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=6",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 6,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 2035,
@@ -3232,7 +3232,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=7",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 7,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1752,
@@ -3268,7 +3268,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=8",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 8,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1535,
@@ -3302,7 +3302,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=9",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 9,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 2001,
@@ -3335,7 +3335,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=10",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 10,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1739,
@@ -3366,7 +3366,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=11",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 11,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1811,
@@ -3399,7 +3399,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=12",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 12,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1928,
@@ -3432,7 +3432,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=13",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 13,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 2325,
@@ -3467,7 +3467,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=14",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 14,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 2030,
@@ -3503,7 +3503,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=15",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 15,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 2407,
@@ -3536,7 +3536,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=16",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 16,
       "worklist_source_text_status": "text",
       "source_section_chars": 689,
@@ -3566,7 +3566,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=1",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 1,
       "worklist_source_text_status": "text",
       "source_section_chars": 6628,
@@ -3602,7 +3602,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=2",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 2,
       "worklist_source_text_status": "text",
       "source_section_chars": 1208,
@@ -3630,7 +3630,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=3",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 3,
       "worklist_source_text_status": "text",
       "source_section_chars": 3574,
@@ -3670,7 +3670,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=4",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 4,
       "worklist_source_text_status": "text",
       "source_section_chars": 653,
@@ -3701,7 +3701,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=5",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 5,
       "worklist_source_text_status": "text",
       "source_section_chars": 908,
@@ -3734,7 +3734,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=6",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 6,
       "worklist_source_text_status": "text",
       "source_section_chars": 1085,
@@ -3767,7 +3767,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=7",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 7,
       "worklist_source_text_status": "text",
       "source_section_chars": 745,
@@ -3800,7 +3800,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=8",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 8,
       "worklist_source_text_status": "text",
       "source_section_chars": 2770,
@@ -3837,7 +3837,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=9",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 9,
       "worklist_source_text_status": "text",
       "source_section_chars": 3079,
@@ -3874,7 +3874,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=10",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 10,
       "worklist_source_text_status": "text",
       "source_section_chars": 3530,
@@ -3908,7 +3908,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=11",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 11,
       "worklist_source_text_status": "text",
       "source_section_chars": 3299,
@@ -3945,7 +3945,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=12",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 12,
       "worklist_source_text_status": "text",
       "source_section_chars": 2672,
@@ -3982,7 +3982,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=13",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 13,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1780,
@@ -4013,7 +4013,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=14",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 14,
       "worklist_source_text_status": "text",
       "source_section_chars": 2713,
@@ -4050,7 +4050,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=15",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 15,
       "worklist_source_text_status": "text",
       "source_section_chars": 2968,
@@ -4085,7 +4085,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=16",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 16,
       "worklist_source_text_status": "text",
       "source_section_chars": 3243,
@@ -4121,7 +4121,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=17",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 17,
       "worklist_source_text_status": "text",
       "source_section_chars": 4902,
@@ -4158,7 +4158,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=18",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 18,
       "worklist_source_text_status": "text",
       "source_section_chars": 3921,
@@ -4192,7 +4192,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=19",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 19,
       "worklist_source_text_status": "text",
       "source_section_chars": 3838,
@@ -4226,7 +4226,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=20",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 20,
       "worklist_source_text_status": "text",
       "source_section_chars": 3691,
@@ -4263,7 +4263,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=21",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 21,
       "worklist_source_text_status": "text",
       "source_section_chars": 2858,
@@ -4299,7 +4299,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=22",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 22,
       "worklist_source_text_status": "text",
       "source_section_chars": 3606,
@@ -4335,7 +4335,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=23",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 23,
       "worklist_source_text_status": "text",
       "source_section_chars": 4188,
@@ -4372,7 +4372,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=24",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 24,
       "worklist_source_text_status": "text",
       "source_section_chars": 5850,
@@ -4407,7 +4407,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=25",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 25,
       "worklist_source_text_status": "text",
       "source_section_chars": 6343,
@@ -4440,7 +4440,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=26",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 26,
       "worklist_source_text_status": "text",
       "source_section_chars": 5310,
@@ -4474,7 +4474,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=27",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 27,
       "worklist_source_text_status": "text",
       "source_section_chars": 4911,
@@ -4509,7 +4509,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=28",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 28,
       "worklist_source_text_status": "text",
       "source_section_chars": 2917,
@@ -4542,7 +4542,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=29",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 29,
       "worklist_source_text_status": "text",
       "source_section_chars": 656,
@@ -4574,7 +4574,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=30",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 30,
       "worklist_source_text_status": "text",
       "source_section_chars": 6491,
@@ -4608,7 +4608,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=31",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 31,
       "worklist_source_text_status": "text",
       "source_section_chars": 5684,
@@ -4644,7 +4644,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=32",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 32,
       "worklist_source_text_status": "text",
       "source_section_chars": 2957,
@@ -4677,7 +4677,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=33",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 33,
       "worklist_source_text_status": "text",
       "source_section_chars": 6374,
@@ -4713,7 +4713,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=34",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 34,
       "worklist_source_text_status": "text",
       "source_section_chars": 3599,
@@ -4749,7 +4749,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=35",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 35,
       "worklist_source_text_status": "text",
       "source_section_chars": 819,
@@ -4782,7 +4782,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=36",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 36,
       "worklist_source_text_status": "text",
       "source_section_chars": 6812,
@@ -4821,7 +4821,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=37",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 37,
       "worklist_source_text_status": "text",
       "source_section_chars": 4821,
@@ -4856,7 +4856,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=38",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 38,
       "worklist_source_text_status": "text",
       "source_section_chars": 1361,
@@ -4891,7 +4891,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=39",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 39,
       "worklist_source_text_status": "text",
       "source_section_chars": 672,
@@ -4922,7 +4922,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=40",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 40,
       "worklist_source_text_status": "text",
       "source_section_chars": 6604,
@@ -4962,7 +4962,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=41",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 41,
       "worklist_source_text_status": "text",
       "source_section_chars": 5752,
@@ -5002,7 +5002,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=42",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 42,
       "worklist_source_text_status": "text",
       "source_section_chars": 2397,
@@ -5040,7 +5040,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=43",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 43,
       "worklist_source_text_status": "text",
       "source_section_chars": 6968,
@@ -5078,7 +5078,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=44",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 44,
       "worklist_source_text_status": "text",
       "source_section_chars": 5363,
@@ -5113,7 +5113,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=45",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 45,
       "worklist_source_text_status": "text",
       "source_section_chars": 3421,
@@ -5150,7 +5150,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=46",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 46,
       "worklist_source_text_status": "text",
       "source_section_chars": 4495,
@@ -5185,7 +5185,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=47",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 47,
       "worklist_source_text_status": "text",
       "source_section_chars": 4423,
@@ -5222,7 +5222,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=48",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 48,
       "worklist_source_text_status": "text",
       "source_section_chars": 3308,
@@ -5259,7 +5259,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=49",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 49,
       "worklist_source_text_status": "text",
       "source_section_chars": 2237,
@@ -5295,7 +5295,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=50",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 50,
       "worklist_source_text_status": "text",
       "source_section_chars": 3811,
@@ -5328,7 +5328,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=51",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 51,
       "worklist_source_text_status": "text",
       "source_section_chars": 3995,
@@ -5363,7 +5363,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=52",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 52,
       "worklist_source_text_status": "text",
       "source_section_chars": 2873,
@@ -5398,7 +5398,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=53",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 53,
       "worklist_source_text_status": "text",
       "source_section_chars": 1935,
@@ -5432,7 +5432,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=54",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 54,
       "worklist_source_text_status": "text",
       "source_section_chars": 2460,
@@ -5468,7 +5468,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=55",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 55,
       "worklist_source_text_status": "text",
       "source_section_chars": 3464,
@@ -5504,7 +5504,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=56",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 56,
       "worklist_source_text_status": "text",
       "source_section_chars": 3650,
@@ -5541,7 +5541,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=57",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 57,
       "worklist_source_text_status": "text",
       "source_section_chars": 3255,
@@ -5581,7 +5581,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=58",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 58,
       "worklist_source_text_status": "text",
       "source_section_chars": 5104,
@@ -5619,7 +5619,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=59",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 59,
       "worklist_source_text_status": "text",
       "source_section_chars": 5555,
@@ -5656,7 +5656,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=60",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 60,
       "worklist_source_text_status": "text",
       "source_section_chars": 5759,
@@ -5694,7 +5694,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=61",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 61,
       "worklist_source_text_status": "text",
       "source_section_chars": 1761,
@@ -5729,7 +5729,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=62",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 62,
       "worklist_source_text_status": "text",
       "source_section_chars": 4433,
@@ -5766,7 +5766,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=63",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 63,
       "worklist_source_text_status": "text",
       "source_section_chars": 853,
@@ -5798,7 +5798,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=64",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 64,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 2738,
@@ -5829,7 +5829,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=65",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 65,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 2648,
@@ -5860,7 +5860,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=66",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 66,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 2008,
@@ -5891,7 +5891,7 @@
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=67",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 67,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 1325,
@@ -5922,7 +5922,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=1",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 1,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 519,
@@ -5949,7 +5949,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=2",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 2,
       "worklist_source_text_status": "text",
       "source_section_chars": 1010,
@@ -5982,7 +5982,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=3",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 3,
       "worklist_source_text_status": "text",
       "source_section_chars": 1162,
@@ -6016,7 +6016,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=4",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 4,
       "worklist_source_text_status": "text",
       "source_section_chars": 969,
@@ -6052,7 +6052,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=5",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 5,
       "worklist_source_text_status": "text",
       "source_section_chars": 895,
@@ -6090,7 +6090,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=6",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 6,
       "worklist_source_text_status": "text",
       "source_section_chars": 1736,
@@ -6129,7 +6129,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=7",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 7,
       "worklist_source_text_status": "text",
       "source_section_chars": 1868,
@@ -6166,7 +6166,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=8",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 8,
       "worklist_source_text_status": "text",
       "source_section_chars": 1766,
@@ -6204,7 +6204,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=9",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 9,
       "worklist_source_text_status": "text",
       "source_section_chars": 1066,
@@ -6244,7 +6244,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=10",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 10,
       "worklist_source_text_status": "text",
       "source_section_chars": 1031,
@@ -6277,7 +6277,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=11",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 11,
       "worklist_source_text_status": "text",
       "source_section_chars": 1424,
@@ -6307,7 +6307,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=12",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 12,
       "worklist_source_text_status": "text",
       "source_section_chars": 775,
@@ -6340,7 +6340,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=13",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 13,
       "worklist_source_text_status": "text",
       "source_section_chars": 1305,
@@ -6374,7 +6374,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=14",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 14,
       "worklist_source_text_status": "text",
       "source_section_chars": 789,
@@ -6406,7 +6406,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=15",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 15,
       "worklist_source_text_status": "text",
       "source_section_chars": 1447,
@@ -6436,7 +6436,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=16",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 16,
       "worklist_source_text_status": "weak",
       "source_section_chars": 386,
@@ -6463,7 +6463,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=17",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 17,
       "worklist_source_text_status": "text",
       "source_section_chars": 2460,
@@ -6497,7 +6497,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=18",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 18,
       "worklist_source_text_status": "text",
       "source_section_chars": 1850,
@@ -6530,7 +6530,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=19",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 19,
       "worklist_source_text_status": "text",
       "source_section_chars": 1172,
@@ -6563,7 +6563,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=20",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 20,
       "worklist_source_text_status": "text",
       "source_section_chars": 1294,
@@ -6601,7 +6601,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=21",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 21,
       "worklist_source_text_status": "text",
       "source_section_chars": 1298,
@@ -6635,7 +6635,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=22",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 22,
       "worklist_source_text_status": "text",
       "source_section_chars": 521,
@@ -6666,7 +6666,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=23",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 23,
       "worklist_source_text_status": "text",
       "source_section_chars": 1960,
@@ -6700,7 +6700,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=24",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 24,
       "worklist_source_text_status": "text",
       "source_section_chars": 702,
@@ -6729,7 +6729,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=25",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 25,
       "worklist_source_text_status": "text",
       "source_section_chars": 1144,
@@ -6759,7 +6759,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=26",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 26,
       "worklist_source_text_status": "text",
       "source_section_chars": 1533,
@@ -6794,7 +6794,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=27",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 27,
       "worklist_source_text_status": "text",
       "source_section_chars": 751,
@@ -6825,7 +6825,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=28",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 28,
       "worklist_source_text_status": "text",
       "source_section_chars": 1874,
@@ -6858,7 +6858,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=29",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 29,
       "worklist_source_text_status": "text",
       "source_section_chars": 3395,
@@ -6893,7 +6893,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=30",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 30,
       "worklist_source_text_status": "text",
       "source_section_chars": 2631,
@@ -6924,7 +6924,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=31",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 31,
       "worklist_source_text_status": "text",
       "source_section_chars": 1137,
@@ -6954,7 +6954,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=32",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 32,
       "worklist_source_text_status": "text",
       "source_section_chars": 2670,
@@ -6986,7 +6986,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=33",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 33,
       "worklist_source_text_status": "text",
       "source_section_chars": 2300,
@@ -7021,7 +7021,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=34",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 34,
       "worklist_source_text_status": "text",
       "source_section_chars": 3286,
@@ -7053,7 +7053,7 @@
     {
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=35",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
-      "pdf_path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 35,
       "worklist_source_text_status": "text",
       "source_section_chars": 2177,
@@ -7084,7 +7084,7 @@
     {
       "id": "02_Faecher/Religion/Quellen/Reli_Notizen#page=1",
       "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
-      "pdf_path": "99_Originale/Berufsschule/Religion/Reli Notizen.pdf",
+      "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
       "page": 1,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 570,
@@ -7111,7 +7111,7 @@
     {
       "id": "02_Faecher/Religion/Quellen/Reli_Notizen#page=2",
       "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
-      "pdf_path": "99_Originale/Berufsschule/Religion/Reli Notizen.pdf",
+      "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
       "page": 2,
       "worklist_source_text_status": "text",
       "source_section_chars": 1034,
@@ -7150,7 +7150,7 @@
     {
       "id": "02_Faecher/Religion/Quellen/Reli_Notizen#page=3",
       "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
-      "pdf_path": "99_Originale/Berufsschule/Religion/Reli Notizen.pdf",
+      "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
       "page": 3,
       "worklist_source_text_status": "text",
       "source_section_chars": 1312,
@@ -7188,7 +7188,7 @@
     {
       "id": "02_Faecher/Religion/Quellen/Reli_Notizen#page=4",
       "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
-      "pdf_path": "99_Originale/Berufsschule/Religion/Reli Notizen.pdf",
+      "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
       "page": 4,
       "worklist_source_text_status": "text",
       "source_section_chars": 1540,
@@ -7225,7 +7225,7 @@
     {
       "id": "02_Faecher/Religion/Quellen/Reli_Notizen#page=5",
       "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
-      "pdf_path": "99_Originale/Berufsschule/Religion/Reli Notizen.pdf",
+      "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
       "page": 5,
       "worklist_source_text_status": "text",
       "source_section_chars": 680,
@@ -7257,7 +7257,7 @@
     {
       "id": "02_Faecher/Religion/Quellen/Reli_Notizen#page=6",
       "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
-      "pdf_path": "99_Originale/Berufsschule/Religion/Reli Notizen.pdf",
+      "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
       "page": 6,
       "worklist_source_text_status": "text",
       "source_section_chars": 978,
@@ -7290,7 +7290,7 @@
     {
       "id": "02_Faecher/Vertretung/Quellen/Untitled#page=1",
       "source_note": "02_Faecher/Vertretung/Quellen/Untitled.md",
-      "pdf_path": "99_Originale/Berufsschule/Vertretung/Untitled.pdf",
+      "pdf_path": "99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf",
       "page": 1,
       "worklist_source_text_status": "ocr",
       "source_section_chars": 560,
@@ -7317,7 +7317,7 @@
     {
       "id": "02_Faecher/Vertretung/Quellen/Untitled#page=2",
       "source_note": "02_Faecher/Vertretung/Quellen/Untitled.md",
-      "pdf_path": "99_Originale/Berufsschule/Vertretung/Untitled.pdf",
+      "pdf_path": "99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf",
       "page": 2,
       "worklist_source_text_status": "text",
       "source_section_chars": 1408,
@@ -7350,7 +7350,7 @@
     {
       "id": "02_Faecher/Vertretung/Quellen/Untitled#page=3",
       "source_note": "02_Faecher/Vertretung/Quellen/Untitled.md",
-      "pdf_path": "99_Originale/Berufsschule/Vertretung/Untitled.pdf",
+      "pdf_path": "99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf",
       "page": 3,
       "worklist_source_text_status": "text",
       "source_section_chars": 729,
@@ -7382,7 +7382,7 @@
     {
       "id": "02_Faecher/Vertretung/Quellen/Untitled#page=4",
       "source_note": "02_Faecher/Vertretung/Quellen/Untitled.md",
-      "pdf_path": "99_Originale/Berufsschule/Vertretung/Untitled.pdf",
+      "pdf_path": "99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf",
       "page": 4,
       "worklist_source_text_status": "text",
       "source_section_chars": 880,

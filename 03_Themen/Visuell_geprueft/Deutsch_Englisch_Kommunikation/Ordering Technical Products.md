@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [24–30](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24>) | aufgabe, beispiel, theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [24–30](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24>) | aufgabe, beispiel, theorie | 1 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

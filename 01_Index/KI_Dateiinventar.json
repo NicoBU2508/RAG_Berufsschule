@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "audit_date": "2026-07-13",
+  "audit_date": "2026-11-23",
   "privacy": "Private Dateien wurden nur nach Existenz, Pfad, Typ und Größe inventarisiert; ihr Inhalt wurde nicht gelesen.",
   "retrieval_order": [
     "curated_topic",
@@ -53,22 +53,22 @@
     ]
   },
   "totals": {
-    "files": 631,
+    "files": 733,
     "by_extension": {
       "canvas": 1,
       "css": 2,
       "js": 2,
-      "json": 24,
-      "md": 550,
+      "json": 52,
+      "md": 605,
       "none": 1,
-      "pdf": 37,
+      "pdf": 56,
       "rb": 11,
       "swift": 3
     },
     "by_role": {
       "agent_customization": 1,
       "copilot_prompt": 16,
-      "curated_topic": 101,
+      "curated_topic": 137,
       "duplicate_pdf": 3,
       "entrypoint": 2,
       "exam_archive": 1,
@@ -82,11 +82,11 @@
       "maintenance_tool": 14,
       "navigation_index": 10,
       "obsidian_configuration": 14,
-      "original_pdf": 33,
+      "original_pdf": 52,
       "private_or_archive": 5,
       "project_metadata": 3,
-      "quality_or_navigation": 36,
-      "source_note": 30,
+      "quality_or_navigation": 64,
+      "source_note": 49,
       "subject_index": 18,
       "template": 3,
       "topic_alias": 146,
@@ -97,10 +97,10 @@
     },
     "by_ai_use": {
       "excluded": 383,
-      "navigation": 67,
+      "navigation": 95,
       "operational": 15,
-      "primary": 133,
-      "verify_only": 33
+      "primary": 188,
+      "verify_only": 52
     }
   },
   "files": [
@@ -115,7 +115,7 @@
     {
       "path": ".gitignore",
       "extension": "none",
-      "bytes": 409,
+      "bytes": 619,
       "role": "project_metadata",
       "ai_use": "excluded",
       "reason": "Projekt-, Git- und Auditmetadaten; kein fachlicher Lernbeleg"
@@ -187,7 +187,7 @@
     {
       "path": ".obsidian/plugins/copilot/data.json",
       "extension": "json",
-      "bytes": 23264,
+      "bytes": 27670,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -227,7 +227,7 @@
     {
       "path": ".obsidian/workspace.json",
       "extension": "json",
-      "bytes": 8447,
+      "bytes": 8415,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -255,7 +255,7 @@
     {
       "path": "00_START.md",
       "extension": "md",
-      "bytes": 2865,
+      "bytes": 2867,
       "role": "entrypoint",
       "ai_use": "primary",
       "reason": "Kanonischer Einstieg und Quellenregeln",
@@ -265,7 +265,7 @@
     {
       "path": "00_Vault_Index_Vollständig.md",
       "extension": "md",
-      "bytes": 914023,
+      "bytes": 920513,
       "role": "generated_vault_index",
       "ai_use": "navigation",
       "reason": "Großer Generierungsstand; nur zum Auffinden",
@@ -295,7 +295,231 @@
     {
       "path": "01_Index/Abschlussvalidierung_Visuelle_Quellen.json",
       "extension": "json",
-      "bytes": 6239,
+      "bytes": 6253,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_01_algorithmus_programm_software_eva_s88_100.json",
+      "extension": "json",
+      "bytes": 12920,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_ae_2lj_eix_mitschrift.json",
+      "extension": "json",
+      "bytes": 23551,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_ae_2lj_jac_mitschrift.json",
+      "extension": "json",
+      "bytes": 15414,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_ae_2lj_kislik_lf1_wiederholung.json",
+      "extension": "json",
+      "bytes": 1296,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_ae_2lj_kislik_mitschrift.json",
+      "extension": "json",
+      "bytes": 37940,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_ae_2lj_kislik_skript.json",
+      "extension": "json",
+      "bytes": 46831,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_bgwp_2lj_mitschrift.json",
+      "extension": "json",
+      "bytes": 20393,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_bgwp_s55_83.json",
+      "extension": "json",
+      "bytes": 23543,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_bgwp_schredl_s45_45.json",
+      "extension": "json",
+      "bytes": 1157,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_deutsch_2lj_skript.json",
+      "extension": "json",
+      "bytes": 31834,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_englisch_2lj_conditionals.json",
+      "extension": "json",
+      "bytes": 11728,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_ethik_2lj_skript_gewissen.json",
+      "extension": "json",
+      "bytes": 7527,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_fu_it_2lj_abded_mitschriften.json",
+      "extension": "json",
+      "bytes": 6147,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_fu_it_2lj_ott_osi_modell.json",
+      "extension": "json",
+      "bytes": 24292,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_fu_it_2lj_zielske_ipv4_wiederholung.json",
+      "extension": "json",
+      "bytes": 10891,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_grundausbildung_it.json",
+      "extension": "json",
+      "bytes": 16210,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_it_elektro_wild_01_ab_ladung_q_s91_101.json",
+      "extension": "json",
+      "bytes": 10642,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_it_sicherheit_skript_wittmann_s66_103.json",
+      "extension": "json",
+      "bytes": 34245,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_it_sicherheit_urheberrecht.json",
+      "extension": "json",
+      "bytes": 4941,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_it_tech_2lj_jacob_verstaerkung_daempfung.json",
+      "extension": "json",
+      "bytes": 6451,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_it_tech_2lj_liebscher_mitschrift.json",
+      "extension": "json",
+      "bytes": 16613,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_it_tech_2lj_zielske_node_red.json",
+      "extension": "json",
+      "bytes": 7491,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_otma_netzwerkt_s13_13.json",
+      "extension": "json",
+      "bytes": 1132,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_pug_2lj_mitschrift.json",
+      "extension": "json",
+      "bytes": 13818,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_pug_s36_51.json",
+      "extension": "json",
+      "bytes": 14060,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_reli_notizen_s7_7.json",
+      "extension": "json",
+      "bytes": 1079,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_stol_02_unternehmenswiki_7_block.json",
+      "extension": "json",
+      "bytes": 66771,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261123_stol_skript_s37_54.json",
+      "extension": "json",
+      "bytes": 15968,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -303,7 +527,7 @@
     {
       "path": "01_Index/Auditdaten/PDF_Duplikatnachweis.json",
       "extension": "json",
-      "bytes": 1300,
+      "bytes": 1330,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -311,7 +535,7 @@
     {
       "path": "01_Index/Auditdaten/PDF_Seitenaudit_AE_Allgemein.json",
       "extension": "json",
-      "bytes": 278505,
+      "bytes": 279410,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -319,7 +543,7 @@
     {
       "path": "01_Index/Auditdaten/PDF_Seitenaudit_BGWP_Sprachen.json",
       "extension": "json",
-      "bytes": 68447,
+      "bytes": 68482,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -327,7 +551,7 @@
     {
       "path": "01_Index/Auditdaten/PDF_Seitenaudit_Root.json",
       "extension": "json",
-      "bytes": 19939,
+      "bytes": 19969,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -335,7 +559,7 @@
     {
       "path": "01_Index/Auditdaten/PDF_Seitenaudit_Sicherheit_Gesellschaft.json",
       "extension": "json",
-      "bytes": 259211,
+      "bytes": 260159,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -352,7 +576,7 @@
     {
       "path": "01_Index/Copilot_Allowlist.json",
       "extension": "json",
-      "bytes": 11326,
+      "bytes": 16062,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -360,7 +584,7 @@
     {
       "path": "01_Index/Duplikate und OCR.md",
       "extension": "md",
-      "bytes": 1822,
+      "bytes": 1852,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -453,7 +677,7 @@
     {
       "path": "01_Index/KI_Quellenqualitaet.md",
       "extension": "md",
-      "bytes": 4008,
+      "bytes": 5552,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -500,7 +724,7 @@
     {
       "path": "01_Index/OCRplus_Integrationsbericht.md",
       "extension": "md",
-      "bytes": 20908,
+      "bytes": 21203,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -509,7 +733,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit.json",
       "extension": "json",
-      "bytes": 1292074,
+      "bytes": 1956083,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -517,7 +741,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit.md",
       "extension": "md",
-      "bytes": 7724,
+      "bytes": 10966,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -527,7 +751,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit_Worklist.json",
       "extension": "json",
-      "bytes": 2782203,
+      "bytes": 3922857,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -535,7 +759,7 @@
     {
       "path": "01_Index/PDF_Vollstaendigkeitspruefung.md",
       "extension": "md",
-      "bytes": 7418,
+      "bytes": 7607,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -544,7 +768,7 @@
     {
       "path": "01_Index/Qualitaetsbericht.md",
       "extension": "md",
-      "bytes": 1822,
+      "bytes": 1852,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -553,7 +777,7 @@
     {
       "path": "01_Index/Quellenmatrix.md",
       "extension": "md",
-      "bytes": 26632,
+      "bytes": 44533,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -583,7 +807,7 @@
     {
       "path": "01_Index/Themen_Kategorien.json",
       "extension": "json",
-      "bytes": 470,
+      "bytes": 2775,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -591,7 +815,7 @@
     {
       "path": "01_Index/Themenreferenzen_Visuell_Geprueft.json",
       "extension": "json",
-      "bytes": 364380,
+      "bytes": 607602,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -617,7 +841,7 @@
     {
       "path": "01_Index/Tools/build_ki_manifest.rb",
       "extension": "rb",
-      "bytes": 12631,
+      "bytes": 12767,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -665,7 +889,7 @@
     {
       "path": "01_Index/Tools/import_goodnotes.rb",
       "extension": "rb",
-      "bytes": 38748,
+      "bytes": 39438,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -743,7 +967,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Algorithmus und Programmablauf/00_Algorithmus und Programmablauf.md",
       "extension": "md",
-      "bytes": 175412,
+      "bytes": 176502,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -755,7 +979,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Arrays und Sammlungen/00_Arrays und Sammlungen.md",
       "extension": "md",
-      "bytes": 81783,
+      "bytes": 82273,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -767,7 +991,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md",
       "extension": "md",
-      "bytes": 177062,
+      "bytes": 178132,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -779,7 +1003,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Dokumentation Installation und Anpassung/00_Dokumentation Installation und Anpassung.md",
       "extension": "md",
-      "bytes": 53799,
+      "bytes": 54069,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -791,7 +1015,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/EVA Prinzip/00_EVA Prinzip.md",
       "extension": "md",
-      "bytes": 216521,
+      "bytes": 217771,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -815,7 +1039,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Java Grundlagen und IDE/00_Java Grundlagen und IDE.md",
       "extension": "md",
-      "bytes": 530971,
+      "bytes": 534421,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -827,7 +1051,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Klassen Objekte Attribute/00_Klassen Objekte Attribute.md",
       "extension": "md",
-      "bytes": 362008,
+      "bytes": 364193,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -839,7 +1063,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Methoden Parameter Rueckgabewerte/00_Methoden Parameter Rueckgabewerte.md",
       "extension": "md",
-      "bytes": 301423,
+      "bytes": 303353,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -863,7 +1087,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Operatoren und Bedingungen/00_Operatoren und Bedingungen.md",
       "extension": "md",
-      "bytes": 258608,
+      "bytes": 260173,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -875,7 +1099,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Programm und Software/00_Programm und Software.md",
       "extension": "md",
-      "bytes": 424928,
+      "bytes": 427418,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -887,7 +1111,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Programmiersprachen und Uebersetzer/00_Programmiersprachen und Uebersetzer.md",
       "extension": "md",
-      "bytes": 257354,
+      "bytes": 258804,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -899,7 +1123,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md",
       "extension": "md",
-      "bytes": 11740,
+      "bytes": 11885,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -911,7 +1135,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Scanner Random Benutzereingaben/00_Scanner Random Benutzereingaben.md",
       "extension": "md",
-      "bytes": 81186,
+      "bytes": 81676,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -923,7 +1147,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Schleifen/00_Schleifen.md",
       "extension": "md",
-      "bytes": 154497,
+      "bytes": 155322,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -935,7 +1159,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Softwareentwicklung Vorgehensmodelle Scrum V-Modell/00_Softwareentwicklung Vorgehensmodelle Scrum V-Modell.md",
       "extension": "md",
-      "bytes": 167619,
+      "bytes": 168409,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -947,7 +1171,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Softwarequalitaet Wartbarkeit Usability/00_Softwarequalitaet Wartbarkeit Usability.md",
       "extension": "md",
-      "bytes": 32037,
+      "bytes": 32227,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -959,7 +1183,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Syntax und Code-Struktur/00_Syntax und Code-Struktur.md",
       "extension": "md",
-      "bytes": 452759,
+      "bytes": 455564,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -971,7 +1195,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Unternehmenswiki Projektaufgaben/00_Unternehmenswiki Projektaufgaben.md",
       "extension": "md",
-      "bytes": 467968,
+      "bytes": 471178,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -983,7 +1207,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Unternehmenswiki/00_Unternehmenswiki.md",
       "extension": "md",
-      "bytes": 176873,
+      "bytes": 178023,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -995,7 +1219,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Variablen und Datentypen/00_Variablen und Datentypen.md",
       "extension": "md",
-      "bytes": 436030,
+      "bytes": 438815,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1007,7 +1231,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Werkzeuge Debugging und IDE/00_Werkzeuge Debugging und IDE.md",
       "extension": "md",
-      "bytes": 410899,
+      "bytes": 413329,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1030,7 +1254,57 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
       "extension": "md",
-      "bytes": 219899,
+      "bytes": 262637,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "AE_Anwendungsentwicklung"
+    },
+    {
+      "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift.md",
+      "extension": "md",
+      "bytes": 53736,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "AE_Anwendungsentwicklung"
+    },
+    {
+      "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "extension": "md",
+      "bytes": 39450,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "AE_Anwendungsentwicklung"
+    },
+    {
+      "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_LF1_Wiederholung.md",
+      "extension": "md",
+      "bytes": 3895,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "AE_Anwendungsentwicklung"
+    },
+    {
+      "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift.md",
+      "extension": "md",
+      "bytes": 67646,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "AE_Anwendungsentwicklung"
+    },
+    {
+      "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "extension": "md",
+      "bytes": 77526,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1050,7 +1324,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block.md",
       "extension": "md",
-      "bytes": 85582,
+      "bytes": 86282,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1060,7 +1334,17 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block.md",
       "extension": "md",
-      "bytes": 100475,
+      "bytes": 101295,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "AE_Anwendungsentwicklung"
+    },
+    {
+      "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "extension": "md",
+      "bytes": 128340,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1070,7 +1354,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824.md",
       "extension": "md",
-      "bytes": 11207,
+      "bytes": 11277,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1080,7 +1364,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_AEuP_Stol.md",
       "extension": "md",
-      "bytes": 7106,
+      "bytes": 7161,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1090,7 +1374,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md",
       "extension": "md",
-      "bytes": 10436,
+      "bytes": 10551,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1100,7 +1384,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki.md",
       "extension": "md",
-      "bytes": 55016,
+      "bytes": 55446,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1144,7 +1428,7 @@
     {
       "path": "02_Faecher/Allgemein_Berufsschule/10_Lernordner/Hochverfuegbarkeit und Redundanz/00_Hochverfuegbarkeit und Redundanz.md",
       "extension": "md",
-      "bytes": 6808,
+      "bytes": 6883,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1156,7 +1440,7 @@
     {
       "path": "02_Faecher/Allgemein_Berufsschule/10_Lernordner/IT Sicherheit Ueberblick/00_IT Sicherheit Ueberblick.md",
       "extension": "md",
-      "bytes": 13300,
+      "bytes": 13540,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1168,7 +1452,7 @@
     {
       "path": "02_Faecher/Allgemein_Berufsschule/10_Lernordner/Ransomware und Malware/00_Ransomware und Malware.md",
       "extension": "md",
-      "bytes": 10587,
+      "bytes": 10752,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1203,7 +1487,7 @@
     {
       "path": "02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41.md",
       "extension": "md",
-      "bytes": 11275,
+      "bytes": 11485,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1235,7 +1519,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Angebotsvergleich und Bezugskalkulation/00_Angebotsvergleich und Bezugskalkulation.md",
       "extension": "md",
-      "bytes": 61614,
+      "bytes": 62004,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1247,7 +1531,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md",
       "extension": "md",
-      "bytes": 157828,
+      "bytes": 158858,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1259,7 +1543,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen.md",
       "extension": "md",
-      "bytes": 108686,
+      "bytes": 109476,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1271,7 +1555,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Betriebswirtschaft BGWP/00_Betriebswirtschaft BGWP.md",
       "extension": "md",
-      "bytes": 136878,
+      "bytes": 137748,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1283,7 +1567,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot.md",
       "extension": "md",
-      "bytes": 61670,
+      "bytes": 62090,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1295,7 +1579,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Kaufvertrag und Rechtsgeschaefte/00_Kaufvertrag und Rechtsgeschaefte.md",
       "extension": "md",
-      "bytes": 82747,
+      "bytes": 83237,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1307,7 +1591,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Marktumfeld und Marktformen/00_Marktumfeld und Marktformen.md",
       "extension": "md",
-      "bytes": 63150,
+      "bytes": 63555,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1319,7 +1603,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Materialwirtschaft und Beschaffung/00_Materialwirtschaft und Beschaffung.md",
       "extension": "md",
-      "bytes": 97856,
+      "bytes": 98406,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1331,7 +1615,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Organigramm und Liniensysteme/00_Organigramm und Liniensysteme.md",
       "extension": "md",
-      "bytes": 44314,
+      "bytes": 44544,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1343,7 +1627,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Organisation im Betrieb/00_Organisation im Betrieb.md",
       "extension": "md",
-      "bytes": 174850,
+      "bytes": 176060,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1355,7 +1639,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Personalwirtschaft/00_Personalwirtschaft.md",
       "extension": "md",
-      "bytes": 119589,
+      "bytes": 120299,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1367,7 +1651,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Produktionsfaktoren/00_Produktionsfaktoren.md",
       "extension": "md",
-      "bytes": 211060,
+      "bytes": 212510,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1379,7 +1663,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Projektplanung und Netzplanmethode/00_Projektplanung und Netzplanmethode.md",
       "extension": "md",
-      "bytes": 97903,
+      "bytes": 98573,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1391,7 +1675,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Rechtsformen/00_Rechtsformen.md",
       "extension": "md",
-      "bytes": 72502,
+      "bytes": 72972,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1403,7 +1687,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Unternehmen und betriebliche Funktionen/00_Unternehmen und betriebliche Funktionen.md",
       "extension": "md",
-      "bytes": 232170,
+      "bytes": 233800,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1415,7 +1699,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Unternehmensrecht Handelsregister Vollmachten/00_Unternehmensrecht Handelsregister Vollmachten.md",
       "extension": "md",
-      "bytes": 85126,
+      "bytes": 85636,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1427,7 +1711,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Unternehmensziele/00_Unternehmensziele.md",
       "extension": "md",
-      "bytes": 73738,
+      "bytes": 74168,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1439,7 +1723,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Wirtschaftlichkeit und Rechnungswesen/00_Wirtschaftlichkeit und Rechnungswesen.md",
       "extension": "md",
-      "bytes": 103068,
+      "bytes": 103698,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1451,7 +1735,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Wirtschaftssektoren/00_Wirtschaftssektoren.md",
       "extension": "md",
-      "bytes": 32003,
+      "bytes": 32143,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1474,7 +1758,17 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
       "extension": "md",
-      "bytes": 97599,
+      "bytes": 155209,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "BGWP_Betriebswirtschaft"
+    },
+    {
+      "path": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "extension": "md",
+      "bytes": 39423,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1484,7 +1778,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md",
       "extension": "md",
-      "bytes": 63688,
+      "bytes": 66453,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1494,7 +1788,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP.md",
       "extension": "md",
-      "bytes": 19430,
+      "bytes": 19545,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1526,7 +1820,7 @@
     {
       "path": "02_Faecher/Deutsch/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md",
       "extension": "md",
-      "bytes": 98639,
+      "bytes": 99269,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1550,7 +1844,7 @@
     {
       "path": "02_Faecher/Deutsch/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen.md",
       "extension": "md",
-      "bytes": 40790,
+      "bytes": 41060,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1562,7 +1856,7 @@
     {
       "path": "02_Faecher/Deutsch/10_Lernordner/Das oder Dass/00_Das oder Dass.md",
       "extension": "md",
-      "bytes": 18603,
+      "bytes": 18713,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1574,7 +1868,7 @@
     {
       "path": "02_Faecher/Deutsch/10_Lernordner/Fremdwoerter/00_Fremdwoerter.md",
       "extension": "md",
-      "bytes": 14022,
+      "bytes": 14097,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1586,7 +1880,7 @@
     {
       "path": "02_Faecher/Deutsch/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot.md",
       "extension": "md",
-      "bytes": 103084,
+      "bytes": 103774,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1598,7 +1892,7 @@
     {
       "path": "02_Faecher/Deutsch/10_Lernordner/Kommasetzung/00_Kommasetzung.md",
       "extension": "md",
-      "bytes": 13885,
+      "bytes": 13970,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1610,7 +1904,7 @@
     {
       "path": "02_Faecher/Deutsch/10_Lernordner/Kommunikation Modelle/00_Kommunikation Modelle.md",
       "extension": "md",
-      "bytes": 54007,
+      "bytes": 54377,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1622,7 +1916,7 @@
     {
       "path": "02_Faecher/Deutsch/10_Lernordner/Projektmanagement Lastenheft Pflichtenheft/00_Projektmanagement Lastenheft Pflichtenheft.md",
       "extension": "md",
-      "bytes": 89608,
+      "bytes": 90238,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1634,7 +1928,7 @@
     {
       "path": "02_Faecher/Deutsch/10_Lernordner/Rechtschreibung Gross und Klein/00_Rechtschreibung Gross und Klein.md",
       "extension": "md",
-      "bytes": 45055,
+      "bytes": 45335,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1646,7 +1940,7 @@
     {
       "path": "02_Faecher/Deutsch/10_Lernordner/Rechtschreibung und Grammatik/00_Rechtschreibung und Grammatik.md",
       "extension": "md",
-      "bytes": 46277,
+      "bytes": 46557,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1658,7 +1952,7 @@
     {
       "path": "02_Faecher/Deutsch/10_Lernordner/Sprachtraining und Grammatik/00_Sprachtraining und Grammatik.md",
       "extension": "md",
-      "bytes": 24763,
+      "bytes": 24923,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1670,7 +1964,7 @@
     {
       "path": "02_Faecher/Deutsch/10_Lernordner/Unternehmensleitbild Corporate Identity/00_Unternehmensleitbild Corporate Identity.md",
       "extension": "md",
-      "bytes": 18200,
+      "bytes": 18325,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1693,7 +1987,17 @@
     {
       "path": "02_Faecher/Deutsch/Quellen/Deutsch.md",
       "extension": "md",
-      "bytes": 90187,
+      "bytes": 90887,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "Deutsch"
+    },
+    {
+      "path": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md",
+      "extension": "md",
+      "bytes": 86583,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1703,7 +2007,7 @@
     {
       "path": "02_Faecher/Deutsch/Quellen/Regelsammlung.md",
       "extension": "md",
-      "bytes": 22948,
+      "bytes": 23108,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1713,7 +2017,7 @@
     {
       "path": "02_Faecher/Deutsch/Quellen/Station_1.md",
       "extension": "md",
-      "bytes": 5615,
+      "bytes": 5655,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1745,7 +2049,7 @@
     {
       "path": "02_Faecher/Englisch/10_Lernordner/Applying for a Position/00_Applying for a Position.md",
       "extension": "md",
-      "bytes": 30366,
+      "bytes": 30551,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1757,7 +2061,7 @@
     {
       "path": "02_Faecher/Englisch/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md",
       "extension": "md",
-      "bytes": 20569,
+      "bytes": 20719,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1769,7 +2073,7 @@
     {
       "path": "02_Faecher/Englisch/10_Lernordner/Business Communication English/00_Business Communication English.md",
       "extension": "md",
-      "bytes": 51533,
+      "bytes": 51883,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1781,7 +2085,7 @@
     {
       "path": "02_Faecher/Englisch/10_Lernordner/Company Structure and Departments/00_Company Structure and Departments.md",
       "extension": "md",
-      "bytes": 34087,
+      "bytes": 34377,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1793,7 +2097,7 @@
     {
       "path": "02_Faecher/Englisch/10_Lernordner/Company Websites and Web Design/00_Company Websites and Web Design.md",
       "extension": "md",
-      "bytes": 27341,
+      "bytes": 27591,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1805,7 +2109,7 @@
     {
       "path": "02_Faecher/Englisch/10_Lernordner/Englisch IT Jobs/00_Englisch IT Jobs.md",
       "extension": "md",
-      "bytes": 39981,
+      "bytes": 40226,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1817,7 +2121,7 @@
     {
       "path": "02_Faecher/Englisch/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot.md",
       "extension": "md",
-      "bytes": 16007,
+      "bytes": 16107,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1829,7 +2133,7 @@
     {
       "path": "02_Faecher/Englisch/10_Lernordner/IT Jobs and Roles/00_IT Jobs and Roles.md",
       "extension": "md",
-      "bytes": 48338,
+      "bytes": 48713,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1841,7 +2145,7 @@
     {
       "path": "02_Faecher/Englisch/10_Lernordner/IT Vocabulary and Hardware/00_IT Vocabulary and Hardware.md",
       "extension": "md",
-      "bytes": 46501,
+      "bytes": 46801,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1853,7 +2157,7 @@
     {
       "path": "02_Faecher/Englisch/10_Lernordner/Introducing a Company/00_Introducing a Company.md",
       "extension": "md",
-      "bytes": 44061,
+      "bytes": 44471,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1865,7 +2169,7 @@
     {
       "path": "02_Faecher/Englisch/10_Lernordner/Making Phone Calls and Voicemail/00_Making Phone Calls and Voicemail.md",
       "extension": "md",
-      "bytes": 31029,
+      "bytes": 31244,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1877,7 +2181,7 @@
     {
       "path": "02_Faecher/Englisch/10_Lernordner/Ordering Technical Products/00_Ordering Technical Products.md",
       "extension": "md",
-      "bytes": 54534,
+      "bytes": 54924,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1889,7 +2193,7 @@
     {
       "path": "02_Faecher/Englisch/10_Lernordner/Reading Comprehension and Case Studies/00_Reading Comprehension and Case Studies.md",
       "extension": "md",
-      "bytes": 32258,
+      "bytes": 32488,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1901,7 +2205,7 @@
     {
       "path": "02_Faecher/Englisch/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md",
       "extension": "md",
-      "bytes": 8536,
+      "bytes": 8611,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1913,7 +2217,7 @@
     {
       "path": "02_Faecher/Englisch/10_Lernordner/Useful Phrases and Grammar/00_Useful Phrases and Grammar.md",
       "extension": "md",
-      "bytes": 39339,
+      "bytes": 39649,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1936,7 +2240,17 @@
     {
       "path": "02_Faecher/Englisch/Quellen/Englisch.md",
       "extension": "md",
-      "bytes": 84305,
+      "bytes": 85020,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "Englisch"
+    },
+    {
+      "path": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "extension": "md",
+      "bytes": 23266,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1968,7 +2282,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md",
       "extension": "md",
-      "bytes": 366685,
+      "bytes": 368855,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1980,7 +2294,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Backup und Datensicherung/00_Backup und Datensicherung.md",
       "extension": "md",
-      "bytes": 94723,
+      "bytes": 95133,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -1992,7 +2306,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Begriffe Computerwelt Gitterraetsel/00_Begriffe Computerwelt Gitterraetsel.md",
       "extension": "md",
-      "bytes": 8174,
+      "bytes": 8228,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2004,7 +2318,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Beschaffung Angebot und Kalkulation/00_Beschaffung Angebot und Kalkulation.md",
       "extension": "md",
-      "bytes": 83854,
+      "bytes": 84444,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2016,7 +2330,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen.md",
       "extension": "md",
-      "bytes": 47930,
+      "bytes": 48220,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2028,7 +2342,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Betriebswirtschaft BGWP/00_Betriebswirtschaft BGWP.md",
       "extension": "md",
-      "bytes": 66168,
+      "bytes": 66578,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2040,7 +2354,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Computergrundbegriffe/00_Computergrundbegriffe.md",
       "extension": "md",
-      "bytes": 201817,
+      "bytes": 202747,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2052,7 +2366,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Datenschutz und Rollen/00_Datenschutz und Rollen.md",
       "extension": "md",
-      "bytes": 90126,
+      "bytes": 90516,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2064,7 +2378,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Elektrische Ladung/00_Elektrische Ladung.md",
       "extension": "md",
-      "bytes": 52290,
+      "bytes": 52655,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2076,7 +2390,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Elektrische Leistung und Netzteil/00_Elektrische Leistung und Netzteil.md",
       "extension": "md",
-      "bytes": 143101,
+      "bytes": 144176,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2088,7 +2402,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Elektrotechnik Aufgaben und Loesungen/00_Elektrotechnik Aufgaben und Loesungen.md",
       "extension": "md",
-      "bytes": 183116,
+      "bytes": 184601,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2100,7 +2414,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Elektrotechnik Grundlagen Mathematik/00_Elektrotechnik Grundlagen Mathematik.md",
       "extension": "md",
-      "bytes": 251821,
+      "bytes": 253846,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2112,7 +2426,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot.md",
       "extension": "md",
-      "bytes": 27678,
+      "bytes": 27853,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2124,7 +2438,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Hochverfuegbarkeit und Redundanz/00_Hochverfuegbarkeit und Redundanz.md",
       "extension": "md",
-      "bytes": 45065,
+      "bytes": 45350,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2136,7 +2450,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/IPv4 Subnetting und Binaerzahlen/00_IPv4 Subnetting und Binaerzahlen.md",
       "extension": "md",
-      "bytes": 39007,
+      "bytes": 39237,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2148,7 +2462,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/IT Sicherheit Grundlagen/00_IT Sicherheit Grundlagen.md",
       "extension": "md",
-      "bytes": 431742,
+      "bytes": 434432,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2160,7 +2474,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Kryptografie Verschluesselung Hash Signatur/00_Kryptografie Verschluesselung Hash Signatur.md",
       "extension": "md",
-      "bytes": 151532,
+      "bytes": 152382,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2172,7 +2486,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Malware und Angriffe/00_Malware und Angriffe.md",
       "extension": "md",
-      "bytes": 139637,
+      "bytes": 140367,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2184,7 +2498,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Netzplan und Netzwerktechnik/00_Netzplan und Netzwerktechnik.md",
       "extension": "md",
-      "bytes": 179042,
+      "bytes": 180052,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2196,7 +2510,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Netzteil/00_Netzteil.md",
       "extension": "md",
-      "bytes": 70187,
+      "bytes": 70687,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2208,7 +2522,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Recht Kaufvertrag Geschaeftsfaehigkeit/00_Recht Kaufvertrag Geschaeftsfaehigkeit.md",
       "extension": "md",
-      "bytes": 46756,
+      "bytes": 47071,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2220,7 +2534,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md",
       "extension": "md",
-      "bytes": 7406,
+      "bytes": 7506,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2232,7 +2546,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Risikoanalyse und Schutzbedarf/00_Risikoanalyse und Schutzbedarf.md",
       "extension": "md",
-      "bytes": 230033,
+      "bytes": 230983,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2244,7 +2558,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Risikoanalyse/00_Risikoanalyse.md",
       "extension": "md",
-      "bytes": 3365,
+      "bytes": 3410,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2256,7 +2570,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Sicherheitsmanagement und Massnahmen/00_Sicherheitsmanagement und Massnahmen.md",
       "extension": "md",
-      "bytes": 259105,
+      "bytes": 260215,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2268,7 +2582,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Sicherheitsprozess PDCA und ISMS/00_Sicherheitsprozess PDCA und ISMS.md",
       "extension": "md",
-      "bytes": 63278,
+      "bytes": 63603,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2280,7 +2594,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Sicherheitsprozess PDCA/00_Sicherheitsprozess PDCA.md",
       "extension": "md",
-      "bytes": 35800,
+      "bytes": 35980,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2292,7 +2606,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Spannung Strom Widerstand/00_Spannung Strom Widerstand.md",
       "extension": "md",
-      "bytes": 56835,
+      "bytes": 57260,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2315,7 +2629,47 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/Begriffe_Computerwelt_Gitterratsel.md",
       "extension": "md",
-      "bytes": 4965,
+      "bytes": 5010,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "ITT_IT_Technik"
+    },
+    {
+      "path": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften.md",
+      "extension": "md",
+      "bytes": 11025,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "ITT_IT_Technik"
+    },
+    {
+      "path": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell.md",
+      "extension": "md",
+      "bytes": 41486,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "ITT_IT_Technik"
+    },
+    {
+      "path": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung.md",
+      "extension": "md",
+      "bytes": 23928,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "ITT_IT_Technik"
+    },
+    {
+      "path": "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT.md",
+      "extension": "md",
+      "bytes": 30013,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2325,7 +2679,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1.md",
       "extension": "md",
-      "bytes": 10949,
+      "bytes": 11019,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2335,7 +2689,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1_1.md",
       "extension": "md",
-      "bytes": 2030,
+      "bytes": 2040,
       "role": "excluded_source_note",
       "ai_use": "excluded",
       "reason": "Quellnotiz ist als visuell unbrauchbar oder exakt doppelt technisch ausgeschlossen",
@@ -2345,7 +2699,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md",
       "extension": "md",
-      "bytes": 12652,
+      "bytes": 12662,
       "role": "excluded_source_note",
       "ai_use": "excluded",
       "reason": "Quellnotiz ist als visuell unbrauchbar oder exakt doppelt technisch ausgeschlossen",
@@ -2355,7 +2709,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Lernziele.md",
       "extension": "md",
-      "bytes": 2243,
+      "bytes": 2253,
       "role": "excluded_source_note",
       "ai_use": "excluded",
       "reason": "Quellnotiz ist als visuell unbrauchbar oder exakt doppelt technisch ausgeschlossen",
@@ -2365,7 +2719,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md",
       "extension": "md",
-      "bytes": 10258,
+      "bytes": 10328,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2375,7 +2729,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
       "extension": "md",
-      "bytes": 34019,
+      "bytes": 34254,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2385,7 +2739,47 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
       "extension": "md",
-      "bytes": 229090,
+      "bytes": 304518,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "ITT_IT_Technik"
+    },
+    {
+      "path": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Urheberrecht.md",
+      "extension": "md",
+      "bytes": 10694,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "ITT_IT_Technik"
+    },
+    {
+      "path": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md",
+      "extension": "md",
+      "bytes": 14397,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "ITT_IT_Technik"
+    },
+    {
+      "path": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "extension": "md",
+      "bytes": 27179,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "ITT_IT_Technik"
+    },
+    {
+      "path": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Zielske_Node_RED.md",
+      "extension": "md",
+      "bytes": 13115,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2395,7 +2789,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "extension": "md",
-      "bytes": 195338,
+      "bytes": 219779,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2405,7 +2799,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md",
       "extension": "md",
-      "bytes": 17453,
+      "bytes": 17568,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2415,7 +2809,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt.md",
       "extension": "md",
-      "bytes": 26371,
+      "bytes": 27690,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2425,7 +2819,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Aufgabenblatt_mogliche_Losung.md",
       "extension": "md",
-      "bytes": 9557,
+      "bytes": 9627,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2435,7 +2829,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
       "extension": "md",
-      "bytes": 64337,
+      "bytes": 92539,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2445,7 +2839,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Zusammenfassung_260120_080521.md",
       "extension": "md",
-      "bytes": 8623,
+      "bytes": 8693,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2477,7 +2871,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md",
       "extension": "md",
-      "bytes": 18038,
+      "bytes": 18158,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2489,7 +2883,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Ausbildung und Beruf/00_Ausbildung und Beruf.md",
       "extension": "md",
-      "bytes": 58567,
+      "bytes": 58997,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2501,7 +2895,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Ausbildungsvertrag und BBiG/00_Ausbildungsvertrag und BBiG.md",
       "extension": "md",
-      "bytes": 56593,
+      "bytes": 56953,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2513,7 +2907,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen.md",
       "extension": "md",
-      "bytes": 61279,
+      "bytes": 61709,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2525,7 +2919,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Betriebsrat und Betriebsverfassung/00_Betriebsrat und Betriebsverfassung.md",
       "extension": "md",
-      "bytes": 35432,
+      "bytes": 35642,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2537,7 +2931,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Bundesurlaubsgesetz/00_Bundesurlaubsgesetz.md",
       "extension": "md",
-      "bytes": 35296,
+      "bytes": 35546,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2549,7 +2943,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Elterngeld und Elternzeit/00_Elterngeld und Elternzeit.md",
       "extension": "md",
-      "bytes": 7414,
+      "bytes": 7469,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2561,7 +2955,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Jugendarbeitsschutz/00_Jugendarbeitsschutz.md",
       "extension": "md",
-      "bytes": 25152,
+      "bytes": 25342,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2573,7 +2967,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Kuendigung und Arbeitsrecht/00_Kuendigung und Arbeitsrecht.md",
       "extension": "md",
-      "bytes": 56742,
+      "bytes": 57152,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2585,7 +2979,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Mutterschutz/00_Mutterschutz.md",
       "extension": "md",
-      "bytes": 30272,
+      "bytes": 30482,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2597,7 +2991,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Recht und Vertraege/00_Recht und Vertraege.md",
       "extension": "md",
-      "bytes": 90158,
+      "bytes": 90808,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2609,7 +3003,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md",
       "extension": "md",
-      "bytes": 3853,
+      "bytes": 3878,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2621,7 +3015,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Schwerbehinderung/00_Schwerbehinderung.md",
       "extension": "md",
-      "bytes": 30078,
+      "bytes": 30268,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2633,7 +3027,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Tarifvertrag und Koalitionsrecht/00_Tarifvertrag und Koalitionsrecht.md",
       "extension": "md",
-      "bytes": 28194,
+      "bytes": 28379,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2654,9 +3048,19 @@
       "status": "semantisch-geprueft"
     },
     {
+      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "extension": "md",
+      "bytes": 31362,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "PuG_Politik_und_Gesellschaft"
+    },
+    {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
       "extension": "md",
-      "bytes": 56554,
+      "bytes": 85410,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2688,7 +3092,7 @@
     {
       "path": "02_Faecher/Religion/10_Lernordner/Freiheit und Selbstbestimmung/00_Freiheit und Selbstbestimmung.md",
       "extension": "md",
-      "bytes": 16306,
+      "bytes": 16431,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2700,7 +3104,7 @@
     {
       "path": "02_Faecher/Religion/10_Lernordner/Gewissen und Verantwortung/00_Gewissen und Verantwortung.md",
       "extension": "md",
-      "bytes": 11359,
+      "bytes": 11429,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2712,7 +3116,7 @@
     {
       "path": "02_Faecher/Religion/10_Lernordner/Karwoche und Kirchenjahr/00_Karwoche und Kirchenjahr.md",
       "extension": "md",
-      "bytes": 5862,
+      "bytes": 5892,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2724,7 +3128,7 @@
     {
       "path": "02_Faecher/Religion/10_Lernordner/Nelson Mandela und Vorbilder/00_Nelson Mandela und Vorbilder.md",
       "extension": "md",
-      "bytes": 4732,
+      "bytes": 4757,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2736,7 +3140,7 @@
     {
       "path": "02_Faecher/Religion/10_Lernordner/Paulus und christliche Freiheit/00_Paulus und christliche Freiheit.md",
       "extension": "md",
-      "bytes": 6790,
+      "bytes": 6825,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2760,7 +3164,7 @@
     {
       "path": "02_Faecher/Religion/10_Lernordner/Religion Ethik und Menschenbild/00_Religion Ethik und Menschenbild.md",
       "extension": "md",
-      "bytes": 17767,
+      "bytes": 17897,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2772,7 +3176,7 @@
     {
       "path": "02_Faecher/Religion/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md",
       "extension": "md",
-      "bytes": 3735,
+      "bytes": 3760,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2784,7 +3188,7 @@
     {
       "path": "02_Faecher/Religion/10_Lernordner/Symbole und Glaube/00_Symbole und Glaube.md",
       "extension": "md",
-      "bytes": 6118,
+      "bytes": 6148,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2794,9 +3198,19 @@
       "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
     },
     {
+      "path": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "extension": "md",
+      "bytes": 11099,
+      "role": "source_note",
+      "ai_use": "primary",
+      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "typ": "quelle",
+      "fach": "Religion"
+    },
+    {
       "path": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
       "extension": "md",
-      "bytes": 8960,
+      "bytes": 10022,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2839,7 +3253,7 @@
     {
       "path": "02_Faecher/Vertretung/10_Lernordner/Einheiten Umrechnen/00_Einheiten Umrechnen.md",
       "extension": "md",
-      "bytes": 7908,
+      "bytes": 7958,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2851,7 +3265,7 @@
     {
       "path": "02_Faecher/Vertretung/10_Lernordner/Elektrotechnik Rechenuebungen/00_Elektrotechnik Rechenuebungen.md",
       "extension": "md",
-      "bytes": 9769,
+      "bytes": 9844,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2863,7 +3277,7 @@
     {
       "path": "02_Faecher/Vertretung/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md",
       "extension": "md",
-      "bytes": 3696,
+      "bytes": 3721,
       "role": "generated_learning_module",
       "ai_use": "excluded",
       "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
@@ -2875,7 +3289,7 @@
     {
       "path": "02_Faecher/Vertretung/Quellen/Untitled.md",
       "extension": "md",
-      "bytes": 5453,
+      "bytes": 5508,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2896,7 +3310,7 @@
     {
       "path": "03_Themen/00_Kuratierte_Themen.md",
       "extension": "md",
-      "bytes": 12023,
+      "bytes": 16278,
       "role": "topic_index",
       "ai_use": "navigation",
       "reason": "Einstieg in die vollständig visuell geprüften Themen",
@@ -2906,7 +3320,7 @@
     {
       "path": "03_Themen/Allgemein/Religion Ethik.md",
       "extension": "md",
-      "bytes": 2389,
+      "bytes": 2409,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -2916,7 +3330,7 @@
     {
       "path": "03_Themen/Anwendungsentwicklung/Algorithmus.md",
       "extension": "md",
-      "bytes": 5740,
+      "bytes": 5845,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -2926,7 +3340,7 @@
     {
       "path": "03_Themen/Anwendungsentwicklung/EVA Prinzip.md",
       "extension": "md",
-      "bytes": 7254,
+      "bytes": 7434,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -2936,7 +3350,7 @@
     {
       "path": "03_Themen/Anwendungsentwicklung/Java Grundlagen.md",
       "extension": "md",
-      "bytes": 10286,
+      "bytes": 10541,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -2946,7 +3360,7 @@
     {
       "path": "03_Themen/Anwendungsentwicklung/Operatoren und Bedingungen.md",
       "extension": "md",
-      "bytes": 6969,
+      "bytes": 7119,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -2956,7 +3370,7 @@
     {
       "path": "03_Themen/Anwendungsentwicklung/Programm und Software.md",
       "extension": "md",
-      "bytes": 7747,
+      "bytes": 7927,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -2966,7 +3380,7 @@
     {
       "path": "03_Themen/Anwendungsentwicklung/Schleifen.md",
       "extension": "md",
-      "bytes": 3667,
+      "bytes": 3712,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -2976,7 +3390,7 @@
     {
       "path": "03_Themen/Anwendungsentwicklung/Unternehmenswiki.md",
       "extension": "md",
-      "bytes": 5960,
+      "bytes": 6095,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -2986,7 +3400,7 @@
     {
       "path": "03_Themen/Anwendungsentwicklung/Variablen und Datentypen.md",
       "extension": "md",
-      "bytes": 8895,
+      "bytes": 9100,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -2996,7 +3410,7 @@
     {
       "path": "03_Themen/Deutsch_Englisch_Kommunikation/Englisch IT Jobs.md",
       "extension": "md",
-      "bytes": 2743,
+      "bytes": 2788,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -3006,7 +3420,7 @@
     {
       "path": "03_Themen/Deutsch_Englisch_Kommunikation/Geschäftsbrief.md",
       "extension": "md",
-      "bytes": 6669,
+      "bytes": 6819,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -3016,7 +3430,7 @@
     {
       "path": "03_Themen/Deutsch_Englisch_Kommunikation/Listening Comprehension.md",
       "extension": "md",
-      "bytes": 1229,
+      "bytes": 1234,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -3026,7 +3440,7 @@
     {
       "path": "03_Themen/Deutsch_Englisch_Kommunikation/Rechtschreibung und Grammatik.md",
       "extension": "md",
-      "bytes": 3674,
+      "bytes": 3734,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -3036,7 +3450,7 @@
     {
       "path": "03_Themen/Elektrotechnik/Elektrische Ladung.md",
       "extension": "md",
-      "bytes": 2907,
+      "bytes": 2952,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -3046,7 +3460,7 @@
     {
       "path": "03_Themen/Elektrotechnik/Elektrische Leistung.md",
       "extension": "md",
-      "bytes": 4043,
+      "bytes": 4113,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -3056,7 +3470,7 @@
     {
       "path": "03_Themen/Elektrotechnik/Netzteil.md",
       "extension": "md",
-      "bytes": 4553,
+      "bytes": 4633,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -3066,7 +3480,7 @@
     {
       "path": "03_Themen/Elektrotechnik/Spannung Strom Widerstand.md",
       "extension": "md",
-      "bytes": 2594,
+      "bytes": 2639,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -3076,7 +3490,7 @@
     {
       "path": "03_Themen/IT_Technik_und_Sicherheit/Binärzahlen.md",
       "extension": "md",
-      "bytes": 1631,
+      "bytes": 1641,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -3086,7 +3500,7 @@
     {
       "path": "03_Themen/IT_Technik_und_Sicherheit/IT Sicherheit.md",
       "extension": "md",
-      "bytes": 5434,
+      "bytes": 5559,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -3096,7 +3510,7 @@
     {
       "path": "03_Themen/IT_Technik_und_Sicherheit/Malware und Angriffe.md",
       "extension": "md",
-      "bytes": 5105,
+      "bytes": 5195,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -3106,7 +3520,7 @@
     {
       "path": "03_Themen/IT_Technik_und_Sicherheit/Netzwerkgrundlagen.md",
       "extension": "md",
-      "bytes": 10404,
+      "bytes": 10689,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -3116,7 +3530,7 @@
     {
       "path": "03_Themen/IT_Technik_und_Sicherheit/Risikoanalyse.md",
       "extension": "md",
-      "bytes": 2029,
+      "bytes": 2039,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -3126,7 +3540,7 @@
     {
       "path": "03_Themen/IT_Technik_und_Sicherheit/SI- und IEC-Dateneinheiten.md",
       "extension": "md",
-      "bytes": 1437,
+      "bytes": 1447,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -3136,7 +3550,7 @@
     {
       "path": "03_Themen/IT_Technik_und_Sicherheit/Sicherheitsprozess PDCA.md",
       "extension": "md",
-      "bytes": 3170,
+      "bytes": 3210,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -3146,7 +3560,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Algorithmus.md",
       "extension": "md",
-      "bytes": 1510,
+      "bytes": 1515,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3157,7 +3571,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Arrays und Datenstrukturen.md",
       "extension": "md",
-      "bytes": 1725,
+      "bytes": 2191,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3166,9 +3580,53 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Barrierefreies Arbeiten und digitale Barrierefreiheit.md",
+      "extension": "md",
+      "bytes": 1605,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Barrierefreies Arbeiten und digitale Barrierefreiheit",
+      "status": "visuell_geprueft"
+    },
+    {
+      "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankgrundlagen und Datenbankentwicklung.md",
+      "extension": "md",
+      "bytes": 2028,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Datenbankgrundlagen und Datenbankentwicklung",
+      "status": "visuell_geprueft"
+    },
+    {
+      "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell.md",
+      "extension": "md",
+      "bytes": 1761,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Datenbankmodellierung und ER-Modell",
+      "status": "visuell_geprueft"
+    },
+    {
+      "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenherkunft und Informationsbeschaffung.md",
+      "extension": "md",
+      "bytes": 1574,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Datenherkunft und Informationsbeschaffung",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/EVA-Prinzip.md",
       "extension": "md",
-      "bytes": 1425,
+      "bytes": 1909,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3179,7 +3637,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Entwicklungswerkzeuge und Debugging.md",
       "extension": "md",
-      "bytes": 2492,
+      "bytes": 3246,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3190,7 +3648,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java-Grundlagen.md",
       "extension": "md",
-      "bytes": 3019,
+      "bytes": 3317,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3201,7 +3659,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Methoden Parameter und Rückgabewerte.md",
       "extension": "md",
-      "bytes": 2226,
+      "bytes": 2929,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3212,7 +3670,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Objektorientierung.md",
       "extension": "md",
-      "bytes": 2340,
+      "bytes": 3055,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3223,7 +3681,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Operatoren und Bedingungen.md",
       "extension": "md",
-      "bytes": 2859,
+      "bytes": 3603,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3232,9 +3690,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Power Apps und Power Automate.md",
+      "extension": "md",
+      "bytes": 1446,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Power Apps und Power Automate",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programm und Software.md",
       "extension": "md",
-      "bytes": 2163,
+      "bytes": 2431,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3245,7 +3714,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programmablaufdarstellungen.md",
       "extension": "md",
-      "bytes": 1553,
+      "bytes": 1821,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3256,7 +3725,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programmiersprachen und Übersetzer.md",
       "extension": "md",
-      "bytes": 2442,
+      "bytes": 2925,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3265,9 +3734,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Python-Grundlagen.md",
+      "extension": "md",
+      "bytes": 1671,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Python-Grundlagen",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Rekursion und Iteration.md",
       "extension": "md",
-      "bytes": 1496,
+      "bytes": 1501,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3276,9 +3756,42 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/SQL-Aggregatfunktionen und Gruppierung.md",
+      "extension": "md",
+      "bytes": 1779,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "SQL-Aggregatfunktionen und Gruppierung",
+      "status": "visuell_geprueft"
+    },
+    {
+      "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/SQL-Datenmanipulation INSERT UPDATE DELETE.md",
+      "extension": "md",
+      "bytes": 1803,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "SQL-Datenmanipulation INSERT UPDATE DELETE",
+      "status": "visuell_geprueft"
+    },
+    {
+      "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/SQL-Grundlagen und SELECT-Abfragen.md",
+      "extension": "md",
+      "bytes": 2053,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "SQL-Grundlagen und SELECT-Abfragen",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Schleifen.md",
       "extension": "md",
-      "bytes": 1654,
+      "bytes": 2332,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3289,7 +3802,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwareanpassung und Dokumentation.md",
       "extension": "md",
-      "bytes": 1546,
+      "bytes": 1774,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3300,7 +3813,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwarelebenszyklus und Vorgehensmodelle.md",
       "extension": "md",
-      "bytes": 1588,
+      "bytes": 1822,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3311,7 +3824,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwarequalität und Wartbarkeit.md",
       "extension": "md",
-      "bytes": 1549,
+      "bytes": 1777,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3320,9 +3833,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwaretest und Testverfahren.md",
+      "extension": "md",
+      "bytes": 1531,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Softwaretest und Testverfahren",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Suchalgorithmen.md",
       "extension": "md",
-      "bytes": 1457,
+      "bytes": 1462,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3331,9 +3855,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/UML-Diagramme.md",
+      "extension": "md",
+      "bytes": 1644,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "UML-Diagramme",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Unternehmenswiki.md",
       "extension": "md",
-      "bytes": 1900,
+      "bytes": 2178,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3344,7 +3879,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Variablen und Datentypen.md",
       "extension": "md",
-      "bytes": 2734,
+      "bytes": 3495,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3355,7 +3890,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Applying for a Position.md",
       "extension": "md",
-      "bytes": 1388,
+      "bytes": 1393,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3364,9 +3899,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Arbeitszeugnis.md",
+      "extension": "md",
+      "bytes": 1410,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Arbeitszeugnis",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Business Communication English.md",
       "extension": "md",
-      "bytes": 1484,
+      "bytes": 1705,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3377,7 +3923,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Company Structure and Departments.md",
       "extension": "md",
-      "bytes": 1444,
+      "bytes": 1449,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3388,7 +3934,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Company Websites and Web Design.md",
       "extension": "md",
-      "bytes": 1427,
+      "bytes": 1432,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3399,7 +3945,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Fremdwörter.md",
       "extension": "md",
-      "bytes": 1370,
+      "bytes": 1375,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3410,7 +3956,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Geschäftsbrief.md",
       "extension": "md",
-      "bytes": 1579,
+      "bytes": 1803,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3419,9 +3965,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Geschäftsmail.md",
+      "extension": "md",
+      "bytes": 1414,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Geschäftsmail",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Groß- und Kleinschreibung.md",
       "extension": "md",
-      "bytes": 1585,
+      "bytes": 1824,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3432,7 +3989,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/IT Jobs and Roles.md",
       "extension": "md",
-      "bytes": 1402,
+      "bytes": 1407,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3443,7 +4000,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/IT Vocabulary and Hardware.md",
       "extension": "md",
-      "bytes": 1423,
+      "bytes": 1637,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3454,7 +4011,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Introducing a Company.md",
       "extension": "md",
-      "bytes": 1412,
+      "bytes": 1417,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3465,7 +4022,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Kommasetzung.md",
       "extension": "md",
-      "bytes": 1370,
+      "bytes": 1613,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3476,7 +4033,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Kommunikation Modelle.md",
       "extension": "md",
-      "bytes": 1402,
+      "bytes": 1407,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3487,7 +4044,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Making Phone Calls and Voicemail.md",
       "extension": "md",
-      "bytes": 1438,
+      "bytes": 1443,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3498,7 +4055,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Ordering Technical Products.md",
       "extension": "md",
-      "bytes": 1437,
+      "bytes": 1442,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3509,7 +4066,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Projektmanagement Lastenheft Pflichtenheft.md",
       "extension": "md",
-      "bytes": 1519,
+      "bytes": 1524,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3520,7 +4077,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Reading Comprehension and Case Studies.md",
       "extension": "md",
-      "bytes": 1464,
+      "bytes": 1704,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3529,9 +4086,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/S-Schreibung.md",
+      "extension": "md",
+      "bytes": 1389,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "S-Schreibung",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Unternehmensleitbild Corporate Identity.md",
       "extension": "md",
-      "bytes": 1481,
+      "bytes": 1486,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3542,7 +4110,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Useful Phrases and Grammar.md",
       "extension": "md",
-      "bytes": 1423,
+      "bytes": 1651,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3553,7 +4121,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/das oder dass.md",
       "extension": "md",
-      "bytes": 1374,
+      "bytes": 1616,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3564,7 +4132,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Elektrische Arbeit und Energiekosten.md",
       "extension": "md",
-      "bytes": 1544,
+      "bytes": 1799,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3575,7 +4143,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Elektrische Ladung.md",
       "extension": "md",
-      "bytes": 1460,
+      "bytes": 1465,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3586,7 +4154,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Elektrische Leistung.md",
       "extension": "md",
-      "bytes": 1705,
+      "bytes": 1997,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3597,7 +4165,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Elektrische Sicherheit und Erste Hilfe.md",
       "extension": "md",
-      "bytes": 1522,
+      "bytes": 1527,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3608,7 +4176,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Elektrischer Strom und Messtechnik.md",
       "extension": "md",
-      "bytes": 1524,
+      "bytes": 1529,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3619,7 +4187,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Elektrotechnik-Rechenmethoden.md",
       "extension": "md",
-      "bytes": 1907,
+      "bytes": 1922,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3630,7 +4198,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Gefahren des elektrischen Stroms.md",
       "extension": "md",
-      "bytes": 1491,
+      "bytes": 1496,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3641,7 +4209,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Netzteil-Wirkungsgrad und 80 PLUS.md",
       "extension": "md",
-      "bytes": 1763,
+      "bytes": 2023,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3652,7 +4220,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Netzteil.md",
       "extension": "md",
-      "bytes": 1646,
+      "bytes": 1656,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3663,7 +4231,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand.md",
       "extension": "md",
-      "bytes": 1505,
+      "bytes": 1994,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3674,7 +4242,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen.md",
       "extension": "md",
-      "bytes": 1524,
+      "bytes": 1816,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3685,7 +4253,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/SI-Vorsätze und Einheitenumrechnung.md",
       "extension": "md",
-      "bytes": 1447,
+      "bytes": 1452,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3696,7 +4264,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Spannung Strom und Widerstand.md",
       "extension": "md",
-      "bytes": 1498,
+      "bytes": 1699,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3705,9 +4273,31 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Elektrotechnik/USV-Anlagen.md",
+      "extension": "md",
+      "bytes": 1432,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "USV-Anlagen",
+      "status": "visuell_geprueft"
+    },
+    {
+      "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Verstärkung Dämpfung und Pegelrechnung.md",
+      "extension": "md",
+      "bytes": 1590,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Verstärkung Dämpfung und Pegelrechnung",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/BSI-Modellierung.md",
       "extension": "md",
-      "bytes": 1452,
+      "bytes": 1457,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3718,7 +4308,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Backup und Datensicherung.md",
       "extension": "md",
-      "bytes": 1482,
+      "bytes": 1951,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3729,7 +4319,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Binärzahlen.md",
       "extension": "md",
-      "bytes": 1368,
+      "bytes": 2053,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3740,7 +4330,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Computergrundbegriffe.md",
       "extension": "md",
-      "bytes": 1470,
+      "bytes": 1675,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3749,9 +4339,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Cyberphysische Systeme und Automatisierungspyramide.md",
+      "extension": "md",
+      "bytes": 1615,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Cyberphysische Systeme und Automatisierungspyramide",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Datenschutz und Rollen.md",
       "extension": "md",
-      "bytes": 1475,
+      "bytes": 1760,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3760,9 +4361,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Digitaltechnik und Logikschaltungen.md",
+      "extension": "md",
+      "bytes": 1955,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Digitaltechnik und Logikschaltungen",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Exchange- und Outlook-Sicherheit.md",
       "extension": "md",
-      "bytes": 1498,
+      "bytes": 1503,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3771,9 +4383,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Hexadezimalsystem.md",
+      "extension": "md",
+      "bytes": 1632,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Hexadezimalsystem",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Hochverfügbarkeit und Redundanz.md",
       "extension": "md",
-      "bytes": 2213,
+      "bytes": 2487,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3784,7 +4407,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting.md",
       "extension": "md",
-      "bytes": 1459,
+      "bytes": 1977,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3795,7 +4418,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IT-Sicherheit Grundlagen.md",
       "extension": "md",
-      "bytes": 1753,
+      "bytes": 2785,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3806,7 +4429,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Kryptografie Hash und Signatur.md",
       "extension": "md",
-      "bytes": 1516,
+      "bytes": 1792,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3815,9 +4438,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Künstliche Intelligenz und Prompting.md",
+      "extension": "md",
+      "bytes": 1477,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Künstliche Intelligenz und Prompting",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Malware und Angriffe.md",
       "extension": "md",
-      "bytes": 2435,
+      "bytes": 2479,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3828,7 +4462,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Mobile Sicherheit.md",
       "extension": "md",
-      "bytes": 1439,
+      "bytes": 1444,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3839,7 +4473,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Netzwerktechnik und Netzplan.md",
       "extension": "md",
-      "bytes": 2009,
+      "bytes": 2553,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3848,9 +4482,31 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Node-RED und IoT-Flows.md",
+      "extension": "md",
+      "bytes": 1711,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Node-RED und IoT-Flows",
+      "status": "visuell_geprueft"
+    },
+    {
+      "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/OSI-Schichtenmodell.md",
+      "extension": "md",
+      "bytes": 1977,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "OSI-Schichtenmodell",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Physische Sicherheit und Infrastruktur.md",
       "extension": "md",
-      "bytes": 1995,
+      "bytes": 2010,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3859,9 +4515,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/RAID-Systeme.md",
+      "extension": "md",
+      "bytes": 1435,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "RAID-Systeme",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Risikoanalyse.md",
       "extension": "md",
-      "bytes": 1434,
+      "bytes": 1439,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3872,7 +4539,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/SI- und IEC-Dateneinheiten.md",
       "extension": "md",
-      "bytes": 1424,
+      "bytes": 1893,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3883,7 +4550,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Schutzbedarfsfeststellung.md",
       "extension": "md",
-      "bytes": 1719,
+      "bytes": 1729,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3894,7 +4561,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Sicherheitsmanagement und ISMS.md",
       "extension": "md",
-      "bytes": 2456,
+      "bytes": 2491,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3905,7 +4572,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Sicherheitsmanagement und Maßnahmen.md",
       "extension": "md",
-      "bytes": 2220,
+      "bytes": 2240,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3916,7 +4583,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Strukturanalyse und Informationsverbund.md",
       "extension": "md",
-      "bytes": 2042,
+      "bytes": 2057,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3927,7 +4594,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Umsetzungsplanung.md",
       "extension": "md",
-      "bytes": 1439,
+      "bytes": 1444,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3936,9 +4603,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Zeichencodierung und ASCII.md",
+      "extension": "md",
+      "bytes": 1853,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Zeichencodierung und ASCII",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Religion_Ethik/Freiheit und Selbstbestimmung.md",
       "extension": "md",
-      "bytes": 1419,
+      "bytes": 1424,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3949,7 +4627,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Religion_Ethik/Gewissen und Verantwortung.md",
       "extension": "md",
-      "bytes": 1407,
+      "bytes": 1647,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3960,7 +4638,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Religion_Ethik/Karwoche und Kirchenjahr.md",
       "extension": "md",
-      "bytes": 1395,
+      "bytes": 1400,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3971,7 +4649,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Religion_Ethik/Nelson Mandela und Vorbilder.md",
       "extension": "md",
-      "bytes": 1411,
+      "bytes": 1416,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3982,7 +4660,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Religion_Ethik/Religion Ethik und Menschenbild.md",
       "extension": "md",
-      "bytes": 1423,
+      "bytes": 1428,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3993,7 +4671,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Religion_Ethik/Symbole und Glaube.md",
       "extension": "md",
-      "bytes": 1371,
+      "bytes": 1388,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4004,7 +4682,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Angebotsvergleich und Nutzwertanalyse.md",
       "extension": "md",
-      "bytes": 1737,
+      "bytes": 1767,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4015,7 +4693,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Ausbildungsvertrag und BBiG.md",
       "extension": "md",
-      "bytes": 1414,
+      "bytes": 1605,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4026,7 +4704,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Beschaffungsquellen und Stammdaten.md",
       "extension": "md",
-      "bytes": 1938,
+      "bytes": 1967,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4037,7 +4715,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Besitz Eigentum und Rechtssubjekte.md",
       "extension": "md",
-      "bytes": 1459,
+      "bytes": 1464,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4048,7 +4726,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Betrieb und Unternehmen.md",
       "extension": "md",
-      "bytes": 1611,
+      "bytes": 1621,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4059,7 +4737,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Betriebsrat und Betriebsverfassung.md",
       "extension": "md",
-      "bytes": 1438,
+      "bytes": 1443,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4070,7 +4748,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Bezugskalkulation und Verkaufskalkulation.md",
       "extension": "md",
-      "bytes": 1477,
+      "bytes": 1503,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4081,7 +4759,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Bundesurlaubsgesetz.md",
       "extension": "md",
-      "bytes": 1385,
+      "bytes": 1390,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4090,9 +4768,64 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Deckungsbeitrag und Gewinnschwelle.md",
+      "extension": "md",
+      "bytes": 1474,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Deckungsbeitrag und Gewinnschwelle",
+      "status": "visuell_geprueft"
+    },
+    {
+      "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Direkter und indirekter Vertrieb.md",
+      "extension": "md",
+      "bytes": 1447,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Direkter und indirekter Vertrieb",
+      "status": "visuell_geprueft"
+    },
+    {
+      "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Ereignisgesteuerte Prozessketten EPK.md",
+      "extension": "md",
+      "bytes": 1526,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Ereignisgesteuerte Prozessketten EPK",
+      "status": "visuell_geprueft"
+    },
+    {
+      "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Gemeinnützige Organisationen.md",
+      "extension": "md",
+      "bytes": 1428,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Gemeinnützige Organisationen",
+      "status": "visuell_geprueft"
+    },
+    {
+      "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte.md",
+      "extension": "md",
+      "bytes": 1548,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Grundgesetz Staatsprinzipien und Grundrechte",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Jugendarbeitsschutz.md",
       "extension": "md",
-      "bytes": 1391,
+      "bytes": 1396,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4103,7 +4836,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Kaufvertrag und Geschäftsfähigkeit.md",
       "extension": "md",
-      "bytes": 1715,
+      "bytes": 1725,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4114,7 +4847,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Kündigung und Arbeitsrecht.md",
       "extension": "md",
-      "bytes": 1417,
+      "bytes": 1612,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4123,9 +4856,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Lohn- und Gehaltsabrechnung.md",
+      "extension": "md",
+      "bytes": 1439,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Lohn- und Gehaltsabrechnung",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Marktumfeld und Marktformen.md",
       "extension": "md",
-      "bytes": 1627,
+      "bytes": 1827,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4136,7 +4880,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Mutterschutz.md",
       "extension": "md",
-      "bytes": 1357,
+      "bytes": 1362,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4147,7 +4891,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Organisation im Betrieb.md",
       "extension": "md",
-      "bytes": 1654,
+      "bytes": 2037,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4156,9 +4900,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Personalwirtschaft und Personalentwicklung.md",
+      "extension": "md",
+      "bytes": 1466,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Personalwirtschaft und Personalentwicklung",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Produktionsfaktoren.md",
       "extension": "md",
-      "bytes": 1573,
+      "bytes": 1583,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4169,7 +4924,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Projektplanung und Netzplanmethode.md",
       "extension": "md",
-      "bytes": 1697,
+      "bytes": 1714,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4178,9 +4933,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Prozessmanagement und Geschäftsprozesse.md",
+      "extension": "md",
+      "bytes": 1511,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Prozessmanagement und Geschäftsprozesse",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Rechtsformen.md",
       "extension": "md",
-      "bytes": 1350,
+      "bytes": 1389,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4191,7 +4957,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Schwerbehinderung.md",
       "extension": "md",
-      "bytes": 1363,
+      "bytes": 1630,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4200,9 +4966,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Sozialversicherung.md",
+      "extension": "md",
+      "bytes": 1400,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Sozialversicherung",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Tarifvertrag und Koalitionsrecht.md",
       "extension": "md",
-      "bytes": 1437,
+      "bytes": 1442,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4213,7 +4990,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Unternehmensrecht Handelsregister Vollmachten.md",
       "extension": "md",
-      "bytes": 1482,
+      "bytes": 1487,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4224,7 +5001,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Unternehmensziele.md",
       "extension": "md",
-      "bytes": 1585,
+      "bytes": 1595,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4233,9 +5010,42 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Urheberrecht.md",
+      "extension": "md",
+      "bytes": 1664,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Urheberrecht",
+      "status": "visuell_geprueft"
+    },
+    {
+      "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Weimarer Verfassung und Grundgesetz.md",
+      "extension": "md",
+      "bytes": 1506,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Weimarer Verfassung und Grundgesetz",
+      "status": "visuell_geprueft"
+    },
+    {
+      "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Wettbewerbsrecht und Unternehmenszusammenschlüsse.md",
+      "extension": "md",
+      "bytes": 1512,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Wettbewerbsrecht und Unternehmenszusammenschlüsse",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Wirtschaftlichkeit und Rechnungswesen.md",
       "extension": "md",
-      "bytes": 1657,
+      "bytes": 1849,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4246,7 +5056,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Wirtschaftssektoren.md",
       "extension": "md",
-      "bytes": 1585,
+      "bytes": 1595,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -5717,7 +6527,7 @@
     {
       "path": "03_Themen/Wirtschaft_und_Recht/Arbeitsteilung.md",
       "extension": "md",
-      "bytes": 1339,
+      "bytes": 1354,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -5727,7 +6537,7 @@
     {
       "path": "03_Themen/Wirtschaft_und_Recht/Ausbildung und Beruf.md",
       "extension": "md",
-      "bytes": 4299,
+      "bytes": 4374,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -5737,7 +6547,7 @@
     {
       "path": "03_Themen/Wirtschaft_und_Recht/Betrieb und Unternehmen.md",
       "extension": "md",
-      "bytes": 7925,
+      "bytes": 8150,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -5747,7 +6557,7 @@
     {
       "path": "03_Themen/Wirtschaft_und_Recht/Betriebswirtschaft BGWP.md",
       "extension": "md",
-      "bytes": 6370,
+      "bytes": 6545,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -5757,7 +6567,7 @@
     {
       "path": "03_Themen/Wirtschaft_und_Recht/Recht und Politik PuG.md",
       "extension": "md",
-      "bytes": 3844,
+      "bytes": 3904,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -5767,7 +6577,7 @@
     {
       "path": "03_Themen/Wirtschaft_und_Recht/Wirtschaftskreislauf.md",
       "extension": "md",
-      "bytes": 1226,
+      "bytes": 1241,
       "role": "legacy_topic",
       "ai_use": "excluded",
       "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
@@ -6104,7 +6914,7 @@
     {
       "path": "98_Archiv_nicht_lernen/Quellen_Duplikate/Anwendugse.md",
       "extension": "md",
-      "bytes": 185064,
+      "bytes": 186384,
       "role": "private_or_archive",
       "ai_use": "excluded",
       "reason": "Archiv, Duplikat oder ausdrücklich nicht für KI",
@@ -6114,7 +6924,7 @@
     {
       "path": "98_Archiv_nicht_lernen/Quellen_Duplikate/IT_Sicherheit_Aufgabe_1_1_2.md",
       "extension": "md",
-      "bytes": 6285,
+      "bytes": 6360,
       "role": "private_or_archive",
       "ai_use": "excluded",
       "reason": "Archiv, Duplikat oder ausdrücklich nicht für KI",
@@ -6124,7 +6934,7 @@
     {
       "path": "98_Archiv_nicht_lernen/Quellen_Duplikate/Unbenanntes_Notizbuch.md",
       "extension": "md",
-      "bytes": 7493,
+      "bytes": 7598,
       "role": "private_or_archive",
       "ai_use": "excluded",
       "reason": "Archiv, Duplikat oder ausdrücklich nicht für KI",
@@ -6140,15 +6950,15 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf",
+      "path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
       "extension": "pdf",
-      "bytes": 26434855,
+      "bytes": 27499051,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/AE/Anwendugse.pdf",
+      "path": "99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf",
       "extension": "pdf",
       "bytes": 26434855,
       "role": "duplicate_pdf",
@@ -6156,7 +6966,7 @@
       "reason": "Vollständig gerendert und visuell pixelidentisch mit einer aktiven kanonischen PDF"
     },
     {
-      "path": "99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf",
+      "path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "extension": "pdf",
       "bytes": 1250040,
       "role": "original_pdf",
@@ -6164,7 +6974,7 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf",
+      "path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "extension": "pdf",
       "bytes": 1345656,
       "role": "original_pdf",
@@ -6172,7 +6982,15 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf",
+      "path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "extension": "pdf",
+      "bytes": 1551161,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf",
       "extension": "pdf",
       "bytes": 1209435,
       "role": "original_pdf",
@@ -6180,7 +6998,7 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf",
+      "path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf",
       "extension": "pdf",
       "bytes": 2435819,
       "role": "original_pdf",
@@ -6188,7 +7006,7 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/AE/Stößl/Stößl.pdf",
+      "path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf",
       "extension": "pdf",
       "bytes": 2013970,
       "role": "original_pdf",
@@ -6196,7 +7014,7 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/AE/Stößl/Wiki.pdf",
+      "path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "extension": "pdf",
       "bytes": 1541018,
       "role": "original_pdf",
@@ -6204,63 +7022,47 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/BGWP/BGWP.pdf",
+      "path": "99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf",
       "extension": "pdf",
-      "bytes": 8991989,
+      "bytes": 3278793,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf",
+      "path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf",
       "extension": "pdf",
-      "bytes": 8848312,
+      "bytes": 5281703,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf",
+      "path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
       "extension": "pdf",
-      "bytes": 4270811,
+      "bytes": 5596450,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/Deutsch/Deutsch.pdf",
+      "path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/LF1_DaWarDochNochWas_1_18Sep26.pdf",
       "extension": "pdf",
-      "bytes": 8946482,
+      "bytes": 156538,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf",
+      "path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
       "extension": "pdf",
-      "bytes": 1363832,
+      "bytes": 5385095,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/Deutsch/Station 1.pdf",
-      "extension": "pdf",
-      "bytes": 165483,
-      "role": "original_pdf",
-      "ai_use": "verify_only",
-      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
-    },
-    {
-      "path": "99_Originale/Berufsschule/Englisch/Englisch.pdf",
-      "extension": "pdf",
-      "bytes": 23997104,
-      "role": "original_pdf",
-      "ai_use": "verify_only",
-      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
-    },
-    {
-      "path": "99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf",
+      "path": "99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf",
       "extension": "pdf",
       "bytes": 6285528,
       "role": "original_pdf",
@@ -6268,15 +7070,103 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf",
+      "path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
       "extension": "pdf",
-      "bytes": 1677499,
+      "bytes": 11644712,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1 (1).pdf",
+      "path": "99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf",
+      "extension": "pdf",
+      "bytes": 12125856,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf",
+      "extension": "pdf",
+      "bytes": 4270811,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "extension": "pdf",
+      "bytes": 2776868,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf",
+      "extension": "pdf",
+      "bytes": 8946482,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf",
+      "extension": "pdf",
+      "bytes": 1363832,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf",
+      "extension": "pdf",
+      "bytes": 165483,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
+      "extension": "pdf",
+      "bytes": 4781095,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf",
+      "extension": "pdf",
+      "bytes": 23997104,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "extension": "pdf",
+      "bytes": 1844608,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf",
+      "extension": "pdf",
+      "bytes": 14389134,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/00_Skript_Urheberrecht.pdf",
+      "extension": "pdf",
+      "bytes": 2076990,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1 (1).pdf",
       "extension": "pdf",
       "bytes": 1959442,
       "role": "original_pdf",
@@ -6284,7 +7174,7 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf",
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf",
       "extension": "pdf",
       "bytes": 6285555,
       "role": "duplicate_pdf",
@@ -6292,7 +7182,7 @@
       "reason": "Vollständig gerendert und visuell pixelidentisch mit einer aktiven kanonischen PDF"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf",
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf",
       "extension": "pdf",
       "bytes": 6285555,
       "role": "original_pdf",
@@ -6300,7 +7190,7 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf",
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf",
       "extension": "pdf",
       "bytes": 846212,
       "role": "original_pdf",
@@ -6308,7 +7198,7 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf",
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf",
       "extension": "pdf",
       "bytes": 1306829,
       "role": "original_pdf",
@@ -6316,7 +7206,7 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf",
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf",
       "extension": "pdf",
       "bytes": 2992451,
       "role": "original_pdf",
@@ -6324,7 +7214,7 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "extension": "pdf",
       "bytes": 17165026,
       "role": "original_pdf",
@@ -6332,23 +7222,31 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf",
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "extension": "pdf",
-      "bytes": 29840229,
+      "bytes": 64213238,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf",
       "extension": "pdf",
-      "bytes": 28290549,
+      "bytes": 1677499,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf",
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "extension": "pdf",
+      "bytes": 30289321,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf",
       "extension": "pdf",
       "bytes": 3297905,
       "role": "original_pdf",
@@ -6356,15 +7254,15 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf",
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf",
       "extension": "pdf",
-      "bytes": 13124231,
+      "bytes": 13144626,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf",
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf",
       "extension": "pdf",
       "bytes": 267456,
       "role": "original_pdf",
@@ -6372,15 +7270,15 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT/Stößl/Skript.pdf",
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
       "extension": "pdf",
-      "bytes": 3787811,
+      "bytes": 4731305,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf",
+      "path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf",
       "extension": "pdf",
       "bytes": 1819135,
       "role": "original_pdf",
@@ -6388,23 +7286,79 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/PUG/Pug.pdf",
+      "path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf",
       "extension": "pdf",
-      "bytes": 9800569,
+      "bytes": 3930867,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/Religion/Reli Notizen.pdf",
+      "path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
       "extension": "pdf",
-      "bytes": 2070629,
+      "bytes": 29292189,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf",
+      "path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf",
+      "extension": "pdf",
+      "bytes": 1922929,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
+      "extension": "pdf",
+      "bytes": 1244059,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "extension": "pdf",
+      "bytes": 3271815,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Zielske/Unbenannt.pdf",
+      "extension": "pdf",
+      "bytes": 972150,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
+      "extension": "pdf",
+      "bytes": 11620889,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "extension": "pdf",
+      "bytes": 2661158,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
+      "extension": "pdf",
+      "bytes": 2151331,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf",
       "extension": "pdf",
       "bytes": 2070629,
       "role": "duplicate_pdf",
@@ -6412,7 +7366,15 @@
       "reason": "Vollständig gerendert und visuell pixelidentisch mit einer aktiven kanonischen PDF"
     },
     {
-      "path": "99_Originale/Berufsschule/Vertretung/Untitled.pdf",
+      "path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "extension": "pdf",
+      "bytes": 3797607,
+      "role": "original_pdf",
+      "ai_use": "verify_only",
+      "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
+    },
+    {
+      "path": "99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf",
       "extension": "pdf",
       "bytes": 802285,
       "role": "original_pdf",
@@ -6566,7 +7528,7 @@
     {
       "path": "manifest.json",
       "extension": "json",
-      "bytes": 1598,
+      "bytes": 1633,
       "role": "project_metadata",
       "ai_use": "excluded",
       "reason": "Projekt-, Git- und Auditmetadaten; kein fachlicher Lernbeleg"

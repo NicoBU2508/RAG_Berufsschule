@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Kryptografie Verschlüsselung Hash Signatur** im Fach **ITT IT-Technik**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=3|Fachbegriffe S. 3]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=4|Fachbegriffe S. 4]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=12|Fachbegriffe S. 12]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=13|Fachbegriffe S. 13]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=14|Fachbegriffe S. 14]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=15|Fachbegriffe S. 15]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=3|Fachbegriffe S. 3]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=4|Fachbegriffe S. 4]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=12|Fachbegriffe S. 12]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=13|Fachbegriffe S. 13]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=14|Fachbegriffe S. 14]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=15|Fachbegriffe S. 15]].
 > - **Zentrale Suchbegriffe:** Kryptografie, Verschlüsselung, Hash, Signatur, Beispiel, Verschlüsselungstrojaner, Authentizität, Symmetrisches, Verschlüsslungsverfahren, Asymmetrisches.
 > - **Prüfungsbezug:** AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -61,45 +61,45 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=3>) | Beispiel für | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=4>) | Verschlüsselungstrojaner | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=12>) | Authentizität | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=13>) | Symmetrisches Verschlüsslungsverfahren | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=14>) | Asymmetrisches Verschlüsselungsverfahren | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=15>) | Hybride Verschlüsselungsverfahren | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=16>) | Hash-Verfahren | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=17>) | Advanced Encryption Standard | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=18>) | Asymmetrisches kryptographisches Verfahren, das zum | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=19>) | Secure Hash Algorithm bezeichnet eine Gruppe standardisierter | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 27](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=27>) | CA steht für Certification Authority. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=28>) | Zertifikat | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=29>) | Digitale | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=2>) | (Trojaner) verleiten z.B. falsches Virenschutzprogramm | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=7>) | Verschlüsselungstrojaner | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=8>) | Die Authentifizierung sorgt im Computer- und Internetumfeld dafür, | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 17 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=9>) | Zertifikate | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 18 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=11>) | Beispiele für infrastrukturelle Sicherheitsmaßnahmen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 19 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=12>) | Asymmetrisches Verschlüsselungsverfahren | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 20 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=13>) | Hybride Verschlüsselungsverfahren | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 21 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=14>) | Symmetetsches_ Derschlüsselungsverfahren - | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 22 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=15>) | Aufgabe 1: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 23 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=16>) | lernen (PP bis Folie S) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 24 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 25 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 26 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=20>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 27 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=21>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 28 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 23](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=23>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 29 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=36>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 30 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 41](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=41>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 31 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=43>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 32 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 44](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=44>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 33 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=45>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 34 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 52](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=52>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 35 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 56](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=56>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 36 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=58>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 37 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 59](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=59>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 38 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 39 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=3>) | Beispiel für | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=4>) | Verschlüsselungstrojaner | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=12>) | Authentizität | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=13>) | Symmetrisches Verschlüsslungsverfahren | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=14>) | Asymmetrisches Verschlüsselungsverfahren | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=15>) | Hybride Verschlüsselungsverfahren | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=16>) | Hash-Verfahren | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=17>) | Advanced Encryption Standard | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=18>) | Asymmetrisches kryptographisches Verfahren, das zum | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=19>) | Secure Hash Algorithm bezeichnet eine Gruppe standardisierter | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 27](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=27>) | CA steht für Certification Authority. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=28>) | Zertifikat | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=29>) | Digitale | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=2>) | (Trojaner) verleiten z.B. falsches Virenschutzprogramm | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=7>) | Verschlüsselungstrojaner | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=8>) | Die Authentifizierung sorgt im Computer- und Internetumfeld dafür, | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 17 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=9>) | Zertifikate | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 18 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=11>) | Beispiele für infrastrukturelle Sicherheitsmaßnahmen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 19 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=12>) | Asymmetrisches Verschlüsselungsverfahren | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 20 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=13>) | Hybride Verschlüsselungsverfahren | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 21 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=14>) | Symmetetsches_ Derschlüsselungsverfahren - | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 22 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=15>) | Aufgabe 1: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 23 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=16>) | lernen (PP bis Folie S) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 24 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 25 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 26 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=20>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 27 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=21>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 28 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 23](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=23>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 29 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=36>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 30 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 41](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=41>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 31 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 32 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 44](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=44>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 33 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=45>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 34 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 52](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=52>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 35 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 56](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=56>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 36 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 37 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 59](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=59>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 38 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 39 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -108,11 +108,11 @@ tags:
 #### Seite 3: Beispiel für
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=3]]`
+> - PDF: [Fachbegriffe.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Laden … Beispiel für Erpressung Ransomware: Dabei werden Daten verschlüsselt und nur bei der Bezahlung von Lösegeld wieder freigegeben.
@@ -130,11 +130,11 @@ Bezahlung von Lösegeld wieder freigegeben.
 #### Seite 4: Verschlüsselungstrojaner
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=4]]`
+> - PDF: [Fachbegriffe.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Verschlüsselungstrojaner Computerprogramm, das als nützliche Anwendung getarnt ist, im Hintergrund ohne Wissen des Anwenders Daten verschlüsselt.
@@ -150,11 +150,11 @@ im Hintergrund ohne Wissen des Anwenders Daten verschlüsselt.
 #### Seite 12: Authentizität
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=12]]`
+> - PDF: [Fachbegriffe.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=12]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Authentizität Die Daten können jederzeit ihrem Ursprung zugeordnet werden.
@@ -169,11 +169,11 @@ Die Daten können jederzeit ihrem Ursprung zugeordnet werden.
 #### Seite 13: Symmetrisches Verschlüsslungsverfahren
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=13>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=13]]`
+> - PDF: [Fachbegriffe.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=13>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=13]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=13]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Symmetrisches Verschlüsslungsverfahren Ver- und Entschlüsselung werden mit demselben Schlüssel durchgeführt. Das heißt, Sender und Empfänger müssen vorab diesen geheimen Schlüssel vereinbart haben und der Schlüssel muss geheim gehalten werden. Ein Sicherheitsproblem stellt hier die Schlüsselübergabe dar.
@@ -193,11 +193,11 @@ Ein Sicherheitsproblem stellt hier die Schlüsselübergabe dar.
 #### Seite 14: Asymmetrisches Verschlüsselungsverfahren
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=14>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=14]]`
+> - PDF: [Fachbegriffe.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=14>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=14]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=14]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Asymmetrisches Verschlüsselungsverfahren Es gibt zwei Schlüssel zum ver- und entschlüsseln. Einen öffentlichen, der für jeden zugänglich ist, und einen privaten, der geheim gehalten werden muss. Der Text wird mit dem öffentlichen Schlüssel verschlüsselt und mit dem privaten Schlüssel entschlüsselt . Der Verschlüsselungsschlüssel muss nicht geheim gehalten werden, es muss aber sichergestellt werden, dass der öffentliche Schlüssel auch wirklich zu dem Empfänger gehört. Asymmetrische Verfahren sind meist langsamer.
@@ -220,11 +220,11 @@ Asymmetrische Verfahren sind meist langsamer.
 #### Seite 15: Hybride Verschlüsselungsverfahren
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=15]]`
+> - PDF: [Fachbegriffe.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=15]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Hybride Verschlüsselungsverfahren Kombination aus asymmetrischer Verschlüsselung und symmetrischer Verschlüsselung. Der Sender wählt einen zufälligen symmetrischen Schlüssel, der Session-Key genannt wird. Mit diesem Session-Key werden die Daten symmetrisch verschlüsselt. Anschließend wird der Session-Key asymmetrisch mit dem öffentlichen Schlüssel des Empfängers verschlüsselt. Das Vorgehen löst das Schlüsselverteilungsproblem und erhält dabei den Geschwindigkeitsvorteil der symmetrischen Verschlüsselung.
@@ -247,11 +247,11 @@ dabei den Geschwindigkeitsvorteil der symmetrischen Verschlüsselung.
 #### Seite 16: Hash-Verfahren
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=16>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=16]]`
+> - PDF: [Fachbegriffe.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=16>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=16]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=16]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Hash-Verfahren Eine Hashfunktion ist eine Abbildung, die eine große Eingabemenge, die Schlüssel, auf eine kleinere Zielmenge, die Hashwerte, abbildet. Der Name Hashfunktion stammt vom englischen Verb to hash, das sich mit „zerhacken“ übersetzen lässt.
@@ -269,11 +269,11 @@ mit „zerhacken“ übersetzen lässt.
 #### Seite 17: Advanced Encryption Standard
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=17>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=17]]`
+> - PDF: [Fachbegriffe.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=17>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=17]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=17]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > AE S Advanced Encryption Standard der Schlüssel zum Ver- und Entschlüsseln ist identisch.
@@ -290,11 +290,11 @@ der Schlüssel zum Ver- und Entschlüsseln ist identisch.
 #### Seite 18: Asymmetrisches kryptographisches Verfahren, das zum
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=18>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=18]]`
+> - PDF: [Fachbegriffe.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=18>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=18]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=18]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > RS A Asymmetrisches kryptographisches Verfahren, das zum Verschlüsseln als auch zum digitalen Signieren verwendet werden kann. Es verwendet ein privaten Schlüssel, der zum Entschlüsseln oder Signieren von Daten verwendet wird, und einem öffentlichen Schlüssel, mit dem man Verschlüsselungen oder Signaturen prüft. Der private Schlüssel wird geheim gehalten.
@@ -316,11 +316,11 @@ Der private Schlüssel wird geheim gehalten.
 #### Seite 19: Secure Hash Algorithm bezeichnet eine Gruppe standardisierter
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=19>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=19]]`
+> - PDF: [Fachbegriffe.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=19>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=19]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=19]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > SH A Secure Hash Algorithm bezeichnet eine Gruppe standardisierter kryptologischer Hashfunktionen. Diese dienen zur Berechnung eines Prüfwerts für beliebige digitale Daten und sind unter anderem die Grundlage zur Erstellung einer digitalen Signatur.
@@ -340,11 +340,11 @@ digitalen Signatur.
 #### Seite 27: CA steht für Certification Authority.
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 27](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=27>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=27]]`
+> - PDF: [Fachbegriffe.pdf Seite 27](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=27>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=27]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=27]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > CA s CA steht für Certification Authority. Sie stellt in der elektronischen Kommunikation eine vertrauenswürdige dritte Instanz dar. Mit Hilfe der von der CA ausgestellten digitalen Zertifikate können Identitäten im Internet überprüft werden.
@@ -364,11 +364,11 @@ Zertifikate können Identitäten im Internet überprüft werden.
 #### Seite 28: Zertifikat
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=28>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=28]]`
+> - PDF: [Fachbegriffe.pdf Seite 28](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=28>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=28]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=28]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Zertifikat e Ein digitales Zertifikat ist ein digitaler Datensatz, der bestimmte Eigenschaften von Personen oder Objekten bestätigt und dessen Authentizität und Integrität durch kryptografische Verfahren geprüft werden kann. Die Ausstellung des Zertifikats erfolgt durch eine offizielle Zertifizierungsstelle, die Certification Authority (CA).
@@ -390,11 +390,11 @@ Zertifizierungsstelle, die Certification Authority (CA).
 #### Seite 29: Digitale
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=29>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=29]]`
+> - PDF: [Fachbegriffe.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=29>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=29]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=29]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Laden … Digitale Signaturen Asymmetrisches Kryptosystem, bei dem ein Sender mit Hilfe eines geheimen Private Key zu einer digitalen Nachricht einen Wert berechnet. Dieser Wert ermöglicht es jedem, mit Hilfe des Public Key die Urheberschaft und Integrität der Nachricht zu prüfen.
@@ -417,11 +417,11 @@ die Urheberschaft und Integrität der Nachricht zu prüfen.
 #### Seite 2: (Trojaner) verleiten z.B. falsches Virenschutzprogramm
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=2]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > (Trojaner) verleiten z.B. falsches Virenschutzprogramm e Ransomware: Blockiert Zugriff auf Computer/ Computerdaten (ggf. Durch Verschlüsselung) und fordert Benutzer zur Zahlung von Lösegeld auf • — Rootkits: versteckt Schadsoftware und unerwünschte Vorgänge auf System durch Manipultaion von Kernel-Code und -Prozessen e E-Mail-Anhänge (mit vermeintlich wichtigen Dokumenten) • Drive-by-Download (Schwachstellen im Browser) e Manuelle Installation durch Angreifer “ DoS = Denial-of-Service-Angriffe DoS: Bezeichnet den Ausfall eines Dienstes im Netzwerk (Phishing: Versuch über gefälschte E-Mails oder Webseiten an persönliche Daten des-Benutzers zu kommen ey Ww Übersicht über die Schutzmechanismen …
@@ -459,11 +459,11 @@ zugänglich sein. Systemen. werden können.
 #### Seite 7: Verschlüsselungstrojaner
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=7]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=7]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Verschlüsselungstrojaner Computerprogramm, das als nützliche Anwendung getarnt ist, im Hintergrund ohne Wissen des Anwenders Daten verschlüsselt. Informationssicherheitsprozess. Initiierung des = • Übernahme der Verantwortung durch • Bereitstellung vonfinanziellen, die Leitungsebene personellen und zeitlichen Ressourcen 6 • Konzeption und Planung des • Entscheidung füfeine Vorgehensweise Sicherheitsprozesses a, Erstellung der Leitlinie zur Informationssicherheit | | Organisation des Sicherheitgprozesses | | Erstellung einer Sicherheitgkonzeption | I / Umsetzung der Sicherheifskonzepion | EB Aufrechterhaltung und Verbesserung • Fortentwicklung des ISMS e Er citerundaevahiten a Vgrgehensweise …
@@ -504,11 +504,11 @@ TCP-Verbindung.
 #### Seite 8: Die Authentifizierung sorgt im Computer- und Internetumfeld dafür,
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=8]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Die Authentifizierung sorgt im Computer- und Internetumfeld dafür, dass die Identität eines Benutzers gegenüber einem System nachgewiesen und verifiziert werden kann. https Hypertext Transfer Protocol Secure ist ein Kommunikationsprotokoll, mit dem Daten abhörsicher übertragen werden können SSH Secure Shell ist ein Netzwerkprotokoll für den sicheren Betrieb von Netzwerkdiensten über ungesicherte Netzwerke. Genutzt wird dies z. B. zur Fernwartung eines in einem entfernten Rechenzentrum stehenden Servers. Digitale Signaturen Asymmetrisches Kryptosystem, bei dem ein Sender mit Hilfe eines geheimen Private Key zu einer digitalen Nachricht einen Wert berechnet Dieser Wert ermöglicht es jedem, mit …
@@ -538,11 +538,11 @@ die Urheberschaft und Integrität der Nachricht zu prüfen.
 #### Seite 9: Zertifikate
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=9]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=9]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Zertifikate Ein digitales Zertifikat ist ein digitaler Datensatz, der bestimmte Eigenschaften von Personen oder Objekten bestätigt und dessen Authentizität und Integrität durch kryptografische Verfahren geprüft werden kann. Die Ausstellung des Zertifikats erfolgt durch eine offizielle Zertifizierungsstelle, die Certification Authority (CA). CAs V CA steht für Certification Authority. G Sie stellt in der elektronischen Kommunikation eine vertrauenswürdige dritte Instanz dar. Mit Hilfe der von der CA ausgestellten digitalen Zertifikate können Identitäten im Internet überprüft werden. ‚Zugangs und Zugriffskontrollen Es wird sichergestellt, dass z. B. ein Rechner nur mit berechtigten Nutzern kom …
@@ -586,11 +586,11 @@ biometrische Merkmale (z.B. Fingerabdruck)
 #### Seite 11: Beispiele für infrastrukturelle Sicherheitsmaßnahmen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=11]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=11]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Beispiele für infrastrukturelle Sicherheitsmaßnahmen Energieversorgung, Alarmanlagen, Einbruchschutz, etc SHA- Secure Hash Algorithm bezeichnet eine Gruppe standardisierten kryptologischer Hashfunktionen. Diese dienen zur Berechnung einesPrüfwertd für beliebige digitale Daten und sind unter anderem die Grundlage zur Erstellung einer digitalen Signatur. RSA Asymmetrisches kryptographisches Verfahren, das zum verschlüsselmals auch zum digitälenisignieremwverwendet werden kann. Es verwendet ein YEivatenischlüsselndenzummEntschlüsselm oder Signieren von Daten verwendet wird, und einem öffentlichen Schlüssel, mit dem man Verschlüsselungen oder ‚Signaturen prüft. Der private Schlüssel wird@@hteifm …
@@ -627,11 +627,11 @@ mit „zerhacken“ übersetzen lässt.
 #### Seite 12: Asymmetrisches Verschlüsselungsverfahren
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=12]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=12]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > - Asymmetrisches Verschlüsselungsverfahren Es gibt zwei Schlüssel zum ver- und entschlüsseln. Einen öffentlichen, der für jeden zugänglich ist, und einen privaten, der geheim gehalten werden muss. Der Text wird mit dem öffentlichen Schlüssel verschlüsselt und mit dem privaten Schlüssel entschlüsselt . Der Verschlüsselungsschlüssel muss nicht geheim gehalten werden, es muss aber sichergestellt werden, dass der öffentliche Schlüssel auch wirklich zu dem Empfänger gehört. Asymmetrische Verfahren sind meist langsamer. Symmetrisches Verschlüsslungsverfahren ) & Ver- und Entschlüsselung werden mit demselben Schlüssel durchgeführt. Das heißt, Sender und Empfänger müssen vorab diesen geheimen Schlüs …
@@ -679,11 +679,11 @@ _Datenschutzbeauftragter
 #### Seite 13: Hybride Verschlüsselungsverfahren
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=13>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=13]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=13>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=13]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=13]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Hybride Verschlüsselungsverfahren Kombination aus aS¥MimMetriseher Verschlüsselung und symmetrischen Verschlüsselung. Der Sender wählt einen zufälligen @¥mmethisehen Schlüssel, der Sessionskepgenannt wird. Mit diesem Session-Key werden die Daten S¥mmetriseP verschlüsselt. Anschließend wird der SSSSiOh=Keyasymimettischmit dem öffentlichen Schlüssebdes Empfängers verschlüsselt. Das Vorgehen löst das SChlüsselverteilingspröblem und erhält dabei den Geschwindigkeitsvorteil der symmetrischen Verschlüsselung. Definition personenbezogene Daten Personenbezogene Daten sind Informationen, die sich auf eine Person Beziehen. Zwischen einer Information und einer Person muss also eine Verbindung herstellb …
@@ -725,11 +725,11 @@ z.B. Webcams, Sprachassistenten
 #### Seite 14: Symmetetsches_ Derschlüsselungsverfahren |
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=14>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=14]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=14>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=14]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=14]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Symmetetsches_ Derschlüsselungsverfahren | | e + ler & Entschlüsselung & | gletiher Schlüsse \ + Seqdec & Empfänger |uorab ocreinbarving gleichen geheimen Sch 5 Se) \ - Risiko Schlesaluberg gee | Asyrometrtscnes +” | +2) Schlüsee\ für _ger= & entschlüsseln | A| öffentlichen | 4 |scheim - | Ra) Ver mise. | und anti mil geheimen [privates N -_sichersigilung oMenil Zu Empfänger gehen | 2 mcis4 langsamen v | Hybeiste + Kombe aus syrn und asym "| Seqoler oa ht “Session Uey| +o) damit| werden Darden symevioch Lenshl ‚Session Ley mil offeot\: |von | Empfange anischlässct Cc - | fo sh chump becericllagspeob' de Pecsoncabeesgene Daten -| Jofeemeten + Person = Grrbinglang Cmte) un Telefon-/ Seziah_ la …
@@ -786,11 +786,11 @@ r
 #### Seite 15: Aufgabe 1:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=15]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=15]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe 1: Eine Information ist nur für einen beschränkten Empfängerkreis vorgesehen Beispiel: E-Mail wird verschlüsselt übermittelt b) Was versteht man unter dem Begriff Integrität? Überlege dir ein konkretes Beispiel: Daten müssen korret sein und dürfen nicht unbemerkt verändert werden Beispiel: Shared User Accounts zerstören leicht die Integrität von Datenbeständen Fragen/Notizen: 15 Wittmann Datum: c) Was versteht man unter dem Begriff Verfügbarkeit? Überlege dir ein konkretes Beispiel: Verfügbarkeit beschreibt die Zeit, in der das System funktioniert Beispiel: Ein Stromausfall führt dazu, dass der Mailserver mehrere Stunden nicht funktioniert Aufgabe 2: Nenne die 3 Schutzbedarfskategori …
@@ -830,11 +830,11 @@ Anwendung den gleichen Schutzbedarf aufweisen
 #### Seite 16: lernen (PP bis Folie S)
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=16>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=16]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=16>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=16]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=16]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Was in Ex war nicht lernen (PP bis Folie S) Authentiritäl CAs o Schlüsselungsverfahrert Zertifikat & Hash verfahren j https o & AES ㅱ Authentifizierung RSA 잉 SSH 8 SHA ㅱ Telenet (waslassen) Sicherung! Ankreuzfragen
@@ -877,11 +877,11 @@ Ankreuzfragen
 #### Seite 11: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11]]`
+> - PDF: [Skript_Wittmann.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 9 Anwendungen erheben Anwendungen unterstützen die Geschäftsprozesse und die Erledigung von Fachaufgaben. Aufgrund ihres Bedarfs an Geheimhaltung, Korrektheit und Unverfälschtheit oder Verfügbarkeit erfordern diese Anwendungen einen gewissen Schutz. Zur Identifikation dieser Anwendungen bieten sich Gespräche oder gemeinsame Workshops mit Benutzern, Anwendungs- und Geschäftsprozessverantwortlichen sowie sachkundigen Mitarbeitern der IT-Abteilung an. Für jede als wesentlich identifizierte Anwendung sollten wieder folgende Angaben in einer Tabelle erfasst werden: • eine eindeutige Kennung (Nummer oder Kürzel), • …
@@ -979,11 +979,11 @@ IT-Betrieb
 #### Seite 17: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17]]`
+> - PDF: [Skript_Wittmann.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 15 3 Schutzbedarfsfeststellung Bei der Schutzbedarfsfeststellung ist danach zu fragen, welcher Schaden entstehen kann, wenn für ein Zielobjekt die Grundwerte Vertraulichkeit, Integrität oder Verfügbarkeit verletzt werden. Dies wäre der Fall, wenn • vertrauliche Informationen unberechtigt zur Kenntnis genommen oder weitergegeben werden (Verletzung der Vertraulichkeit), • die Korrektheit der Informationen und der Funktionsweise von Systemen nicht mehr gegeben ist (Verletzung der Integrität), • autorisierte Benutzer am Zugriff auf Informationen und Systeme behindert werden (Verletzung der Verfügbarkeit). Der Sch …
@@ -1082,11 +1082,11 @@ von Daten
 #### Seite 20: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=20]]`
+> - PDF: [Skript_Wittmann.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=20]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 18 A010 Active Directory Vertraulichkeit: normal Passwörter sind verschlüsselt gespeichert und damit praktisch nicht zugänglich Integrität: hoch Alle Mitarbeiter identifizieren sich mit Passwörtern, daher ist der Schutzbedarf hoch. Verfügbarkeit: sehr hoch Bei Ausfall des Authentisierungssystems können Mitarbeiter sich nicht identifizieren; eine Ausführung von IT-Verfahren ist dann nicht möglich. Ein Ausfall von mehr als 2 Stunden ist nicht tolerabel. Schutzbedarfsfeststellung für IT-Systeme Der Schutzbedarf eines IT-Systems hängt im Wesentlichen von dem Schutzbedarf derjenigen Anwendungen ab, für deren Ausfü …
@@ -1183,11 +1183,11 @@ tolerabel
 #### Seite 21: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=21>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=21]]`
+> - PDF: [Skript_Wittmann.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=21>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=21]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=21]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 19 Schutzbedarfsfeststellung für IT-Systeme Bezeichnung und Beschreibung Schutzziel und Schutzbedarf Begründung S007 Virtualisierungs -server Vertraulichkeit: hoch Maximumprinzip: Der Domain Controller beinhaltet das Active Directory und damit die Anmeldeinformationen aller Mitarbeiter. Integrität: hoch Maximumprinzip: Der Dateiserver verwaltet Dateien, deren Korrektheit für den Geschäftsbetrieb sichergestellt sein muss. Verfügbarkeit: hoch Kumulationseffekt: Sowohl der Domain Controller als auch der Dateiserver haben sehr hohe Verfügbarkeitsanforderungen. Daraus ergibt sich für den Virtualisierungsserver ein …
@@ -1316,11 +1316,11 @@ toleriet werden
 #### Seite 23: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 23](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=23>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=23]]`
+> - PDF: [Skript_Wittmann.pdf Seite 23](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=23>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=23]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=23]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 21 Aufgabe: Die folgende Tabelle veranschaulicht, wie kritische Verbindungen dokumentiert werden können. Ergänze den Schutzbedarf der jeweiligen Schutzziele: normal(4x); hoch(8x) Kritische Verbindungen Verbindung Vertraulichkeit Integrität Verfügbarkeit K001: Firmennetz – Internet Hoch: Vertrauliche Informationen können z. B. an den Wettbewerb gelangen Hoch: Falsche Informationen können den Ruf schädigen. Hoch: Ohne diese Außenverbindung kann keine Kommunikation stattfinden. K002: Standleitung Bad Godesberg – Beuel Hoch: Interne Informationen müssen vertraulich übertragen werden. Normal: Verfälschung von Info …
@@ -1476,11 +1476,11 @@ X
 #### Seite 36: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=36>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=36]]`
+> - PDF: [Skript_Wittmann.pdf Seite 36](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=36>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=36]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=36]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 33 INF.8 Häuslicher Arbeitsplatz Telearbeiter, freie Mitarbeiter oder Selbstständige arbeiten typischerweise von häuslichen Arbeitsplätzen aus. Im Gegensatz zum Arbeitsplatz im Büro nutzen diese Mitarbeiter einen Arbeitsplatz in der eigenen Wohnung. Dabei muss ermöglicht werden, dass die berufliche Umgebung hinreichend von der privaten getrennt ist. Wenn Mitarbeiter häusliche Arbeitsplätze dauerhaft benutzen, müssen zudem diverse rechtliche Anforderungen erfüllt sein, beispielsweise müssen die Arbeitsplätze arbeitsmedizinischen und ergonomischen Bestimmungen entsprechen. Bei einem häuslichen Arbeitsplatz kann …
@@ -1558,11 +1558,11 @@ der technischen Einrichtungen, über den Versuch des „Spielens“ an IT-System
 #### Seite 41: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 41](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=41>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=41]]`
+> - PDF: [Skript_Wittmann.pdf Seite 41](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=41>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=41]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=41]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 38 MUSS sichergestellt werden, dass sowohl das Scan-Programm als auch die Signaturen stets auf dem aktuellen Stand sind. Die Benutzer MÜSSEN mit der Antivirensoftware vertraut gemacht werden, besonders auch mit On-Demand-Scans. Der gesamte Datenbestand der Laptops MUSS regelmäßig auf Schadprogramme geprüft werden. Wenn der Laptop infiziert ist, MUSS im Offlinebetrieb untersucht werden, ob das gefundene Schadprogramm bereits vertrauliche Daten gesammelt, Schutzfunktionen deaktiviert oder Code aus dem Internet nachgeladen hat. Das Antivirenprogramm MUSS zudem nach Schadsoftware suchen, wenn Dateien ausgetauscht …
@@ -1643,11 +1643,11 @@ gutes Schloss geachtet werden.
 #### Seite 43: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=43>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=43]]`
+> - PDF: [Skript_Wittmann.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=43]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 40 APP.5.2 Microsoft Exchange und Outlook Microsoft Exchange ist eine Groupware-Lösung für mittlere bis große Institutionen. Mit ihr können elektronisch Nachrichten übermittelt werden und sie verfügt über weitere Dienste, um Workflows zu unterstützen. Nachrichten, wie E-Mails, können mit Microsoft Exchange zentral verwaltet, zugestellt, gefiltert und versendet werden. Ebenso können typische Groupware- Anwendungen, wie Notizen, Kontaktlisten, Kalender und Aufgabenlisten angeboten und verwaltet werden. Um die Funktionen von Microsoft Exchange nutzen zu können, ist neben dem Server-Dienst eine zusätzliche Client …
@@ -1725,11 +1725,11 @@ automatisierter Datenabfluss sein.
 #### Seite 44: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 44](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=44>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=44]]`
+> - PDF: [Skript_Wittmann.pdf Seite 44](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=44>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=44]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=44]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 41 Basis-Anforderungen Bevor Microsoft Exchange und Outlook eingesetzt werden, MUSS die Institution deren Einsatz sorgfältig planen. Dabei MUSS sie mindestens folgende Punkte beachten: • Aufbau der E-Mail-Infrastruktur, • anzubindende Clients beziehungsweise Server, • Nutzung von funktionalen Erweiterungen sowie • die zu verwendenden Protokolle. Der IT-Betrieb MUSS auf Basis der Planung des Einsatzes von Microsoft Exchange entscheiden, mit welchen Systemen und Anwendungskomponenten sowie in welcher hierarchischen Abstufung die Microsoft Exchange-Infrastruktur realisiert wird. Im Rahmen der Auswahl MUSS auch e …
@@ -1813,11 +1813,11 @@ Absicherung der Daten in einer PST-Datei genutzt werden.
 #### Seite 45: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=45>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=45]]`
+> - PDF: [Skript_Wittmann.pdf Seite 45](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=45>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=45]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=45]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 42 Aufgabe 1: Die folgenden elementaren Gefährdungen sind von Bedeutung. Welche Grundwerte sind betroffen? (C = Vertraulichkeit, I = Integrität, A = Verfügbarkeit). Schreibe den passenden Buchstaben neben die Gefährdung. Fehlende oder unzureichende Regelungen für Microsoft Exchange und Outlook: C I A Fehlerhafte Migration von Microsoft Exchange: I A Unzulässiger Browserzugriff auf Microsoft Exchange: C I A Unerlaubte Anbindung anderer Systeme an Microsoft Exchange: I A Fehlerhafte Administration von Zugangs- und Zugriffsrechten unter Microsoft Exchange und Outlook: C I Fehlfunktionen und Missbrauch selbst ent …
@@ -1932,11 +1932,11 @@ verschlüsseln
 #### Seite 52: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 52](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=52>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=52]]`
+> - PDF: [Skript_Wittmann.pdf Seite 52](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=52>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=52]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=52]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=52]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 49 Zur Darstellung von Eintrittshäufigkeiten, Schadensauswirkungen und Risiken ist eine Risikomatrix ein gebräuchliches und sehr anschauliches Instrument: Die Risikobewertung nimmt man vor, um begründete Entscheidungen zum Umgang mit möglichen Gefährdungen treffen zu können. Eine solche Entscheidung kann sein, durch zusätzliche Maßnahmen die Eintrittshäufigkeit und/oder die Auswirkungen einer Gefährdung zu verringern. Als Beispiel für die Risikobewertung werden zwei Gefährdungen für den Virtualisierungsserver S007 bei der RECPLAST GmbH betrachtet. Die Risiken werden mit Hilfe der zuvor beschriebenen Kategorie …
@@ -2011,11 +2011,11 @@ Risiko.
 #### Seite 56: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 56](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=56>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=56]]`
+> - PDF: [Skript_Wittmann.pdf Seite 56](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=56>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=56]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=56]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=56]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 53 Beispiel: Die folgende Tabelle zeigt exemplarisch für die beiden zuvor betrachteten Gefährdungen die bei der RECPLAST GmbH für den Virtualisierungsserver getroffenen Entscheidungen zur Risikobehandlung. Behandlung der Risiken Gefährdung Risikokategorie Risikobehandlungsoption G 0.15 Abhören (hier bei Live-Migration) mittel D. Risikoakzeptanz (Risikoübernahme ohne zusätzliche Sicherheitsmaßnahme) Auf das Live-Migration-Netz dürfen nur befugte Administratoren zugreifen. Diesen wird vertraut. Das bestehende Restrisiko wird von der RECPLAST GmbH als vertretbar eingeschätzt und übernommen. G 0.25 Ausfall von Ge …
@@ -2110,11 +2110,11 @@ Service
 #### Seite 58: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=58>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=58]]`
+> - PDF: [Skript_Wittmann.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=58]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 55 6 Umsetzungsplanung Maßnahmen konkretisieren Im ersten Schritt sind die Anforderungen herauszufiltern, die nicht oder nur teilweise erfüllt sind. Eine übersichtliche Dokumentation erhältst du, wenn du die unzureichend erfüllten Anforderungen tabellarisch zusammenstellst und dabei nach den betroffenen Zielobjekten gruppierst, etwa nach bestimmten Räumen und IT-Systemen. Lege anschließend Maßnahmen fest, mit denen diese Sicherheitslücken geschlossen werden können. Anschließend müssen die Maßnahmen im Zusammenhang betrachtet und geprüft werden, • ob einzelne Maßnahmen überflüssig werden, weil andere zu realis …
@@ -2205,11 +2205,11 @@ Werkzeugen) oder
 #### Seite 59: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 59](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=59>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=59]]`
+> - PDF: [Skript_Wittmann.pdf Seite 59](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=59>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=59]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=59]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=59]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 56 • Bereiche betreffen, in denen auffallend viele Sicherheitsmaßnahmen fehlen. • Grundsätzlich sind zunächst Maßnahmen umzusetzen, mit denen Basis-Anforderungen erfüllt werden, dann diejenigen zur Erfüllung von Standard-Anforderungen und erst zuletzt die zur Gewährleistung eines höheren Schutzbedarfs. • Es sind diejenigen Maßnahmen vorzuziehen, deren Umsetzung eine Voraussetzung für die Realisierung weiterer Maßnahmen ist. Die Entscheidungen zur Umsetzungsreihenfolge und deren Begründungen sind sorgfältig zu dokumentieren, damit nachvollziehbar und verständlich wird, warum die aus der zeitlich nachgeordneten …
@@ -2320,11 +2320,11 @@ X
 #### Seite 60: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60]]`
+> - PDF: [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 57 Begleitende Maßnahmen festlegen Der Erfolg einer Maßnahme hängt in einem entscheidenden Umfang davon ab, wie diese von den Mitarbeitern akzeptiert und angewendet wird. Bei Einführung neuer Sicherheitsmaßnahmen müssen die betroffenen Mitarbeiter ausreichend geschult und für mögliche Probleme sensibilisiert werden. Die Einführung neuer Sicherheitsmaßnahmen erfordert immer Schulungen für die betroffenen Mitarbeiter. Was nützt zum Beispiel ein neu angeschaffter Feuerlöscher, wenn die Mitarbeiter im Brandfall nicht sachgerecht mit ihm umgehen können? Drei weitere Beispiele für zweckmäßige Schulungen: • Wenn Sie …
@@ -2431,11 +2431,11 @@ Frau Meyer
 #### Seite 62: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62]]`
+> - PDF: [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 59 7 Aufrechterhaltung und Verbesserung Im Realisierungsplan wurde festgehalten, welche Maßnahmen des Sicherheitskonzepts zu welchem Zeitpunkt und in welcher Weise umgesetzt sein sollen. Dabei wurden erforderliche Ressourcen, eventuelle Zwischentermine und begleitende Maßnahmen berücksichtigt. Um sicher sein können, dass alles wie geplant umgesetzt ist und funktioniert, muss man die Einhaltung der Planung regelmäßig kontrollieren. Informationssicherheit ist darüber hinaus kein einmalig herzustellender und anschließend stabiler Zustand, sondern ein stetiger Prozess, der immer wieder an sich wandelnde und neue …
@@ -2544,7 +2544,7 @@ I
 - Frage:: Was ist der Kernpunkt zu **Hash-Verfahren** laut Quelle?
 - Antwort:: Hash-Verfahren Eine Hashfunktion ist eine Abbildung, die eine große Eingabemenge, die Schlüssel, auf eine kleinere Zielmenge, die Hashwerte, abbildet.
 - Beleg:: Hash-Verfahren Eine Hashfunktion ist eine Abbildung, die eine große Eingabemenge, die Schlüssel, auf eine kleinere Zielmenge, die Hashwerte, abbildet.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=16|Fachbegriffe S. 16]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=16|Fachbegriffe S. 16]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2552,7 +2552,7 @@ I
 - Frage:: Was ist der Kernpunkt zu **Advanced Encryption Standard** laut Quelle?
 - Antwort:: AE S Advanced Encryption Standard der Schlüssel zum Ver- und Entschlüsseln ist identisch.
 - Beleg:: AE S Advanced Encryption Standard der Schlüssel zum Ver- und Entschlüsseln ist identisch.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=17|Fachbegriffe S. 17]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=17|Fachbegriffe S. 17]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2560,7 +2560,7 @@ I
 - Frage:: Was ist **Kryptografie Verschlüsselung Hash Signatur** laut Quelle?
 - Antwort:: SH A Secure Hash Algorithm bezeichnet eine Gruppe standardisierter kryptologischer Hashfunktionen.
 - Beleg:: SH A Secure Hash Algorithm bezeichnet eine Gruppe standardisierter kryptologischer Hashfunktionen.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=19|Fachbegriffe S. 19]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=19|Fachbegriffe S. 19]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2568,7 +2568,7 @@ I
 - Frage:: Was ist der Kernpunkt zu **Zertifikat** laut Quelle?
 - Antwort:: Zertifikat e Ein digitales Zertifikat ist ein digitaler Datensatz, der bestimmte Eigenschaften von Personen oder Objekten bestätigt und dessen Authentizität und Integrität durch kryptografische Verfahren geprüft werden kann.
 - Beleg:: Zertifikat e Ein digitales Zertifikat ist ein digitaler Datensatz, der bestimmte Eigenschaften von Personen oder Objekten bestätigt und dessen Authentizität und Integrität durch kryptografische Verfahren geprüft werden kann.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=28|Fachbegriffe S. 28]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=28|Fachbegriffe S. 28]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2576,7 +2576,7 @@ I
 - Frage:: Was ist **Zertifikate** laut Quelle?
 - Antwort:: Die Inanspruchnahme von Datenverarbeitungsanlagen wird als Zugriffskontrolle bezeichnet.
 - Beleg:: Die Inanspruchnahme von Datenverarbeitungsanlagen wird als Zugriffskontrolle bezeichnet.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|IT_Sicherheit_Sicherheitsmanagement]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=9|Sicherheitsmanagement S. 9]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|IT_Sicherheit_Sicherheitsmanagement]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=9|Sicherheitsmanagement S. 9]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2584,7 +2584,7 @@ I
 - Frage:: Was ist der Kernpunkt zu **Zertifikate** laut Quelle?
 - Antwort:: Zertifikate Ein digitales Zertifikat ist ein digitaler Datensatz, der bestimmte Eigenschaften von Personen oder Objekten bestätigt und dessen Authentizität und Integrität durch kryptografische Verfahren geprüft werden kann.
 - Beleg:: Zertifikate Ein digitales Zertifikat ist ein digitaler Datensatz, der bestimmte Eigenschaften von Personen oder Objekten bestätigt und dessen Authentizität und Integrität durch kryptografische Verfahren geprüft werden kann.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|IT_Sicherheit_Sicherheitsmanagement]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=9|Sicherheitsmanagement S. 9]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|IT_Sicherheit_Sicherheitsmanagement]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=9|Sicherheitsmanagement S. 9]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2592,7 +2592,7 @@ I
 - Frage:: Was ist **Beispiele für infrastrukturelle Sicherheitsmaßnahmen** laut Quelle?
 - Antwort:: Beispiele für infrastrukturelle Sicherheitsmaßnahmen Energieversorgung, Alarmanlagen, Einbruchschutz, etc SHASecure Hash Algorithm bezeichnet eine Gruppe standardisierten kryptologischer Hashfunktionen.
 - Beleg:: Beispiele für infrastrukturelle Sicherheitsmaßnahmen Energieversorgung, Alarmanlagen, Einbruchschutz, etc SHASecure Hash Algorithm bezeichnet eine Gruppe standardisierten kryptologischer Hashfunktionen.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|IT_Sicherheit_Sicherheitsmanagement]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=11|Sicherheitsmanagement S. 11]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|IT_Sicherheit_Sicherheitsmanagement]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=11|Sicherheitsmanagement S. 11]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2600,7 +2600,7 @@ I
 - Frage:: Was ist der Kernpunkt zu **Benutzers bestätigt und der Zugriff** laut Quelle?
 - Antwort:: Ist die Signatur gültig, ist die Identität des Benutzers bestätigt und der Zugriff wird gewährt. -Anforderungen herausfinden die nicht oder teilweise erfülltsind - diese tabellarisch Zusammenstellen - Maßnahmen zur Schließung der sicherheitslücke festlegen -Maßnahmen prüfen I X E X
 - Beleg:: Ist die Signatur gültig, ist die Identität des Benutzers bestätigt und der Zugriff wird gewährt. -Anforderungen herausfinden die nicht oder teilweise erfülltsind - diese tabellarisch Zusammenstellen - Maßnahmen zur Schließung der sicherheitslücke festlegen -Maßnahmen prüfen I X E X
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=59|Skript_Wittmann S. 59]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=59|Skript_Wittmann S. 59]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

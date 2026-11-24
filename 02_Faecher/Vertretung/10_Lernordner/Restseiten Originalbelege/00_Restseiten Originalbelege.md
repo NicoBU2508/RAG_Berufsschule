@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Restseiten Originalbelege** im Fach **Vertretung**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=1|Untitled S. 1]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=1|Untitled S. 1]].
 > - **Zentrale Suchbegriffe:** Restseiten, Originalbelege, Untitled.
 > - **Prüfungsbezug:** AP1/AP2 Lernbasis.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -51,7 +51,7 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Vertretung/Quellen/Untitled\|Untitled]] | [Untitled.pdf Seite 1](<../../../../99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=1>) | Untitled Seite 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Vertretung/Quellen/Untitled\|Untitled]] | [Untitled.pdf Seite 1](<../../../../99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=1>) | Untitled Seite 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -60,11 +60,11 @@ tags:
 #### Seite 1: Untitled Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF: [Untitled.pdf Seite 1](<../../../../99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=1]]`
+> - PDF: [Untitled.pdf Seite 1](<../../../../99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=1]]
+> ![[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 

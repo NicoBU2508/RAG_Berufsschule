@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Datenschutz und Rollen** im Fach **ITT IT-Technik**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=10|Fachbegriffe S. 10]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=26|Fachbegriffe S. 26]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=10|SkriptWittmann S. 10]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11|SkriptWittmann S. 11]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17|SkriptWittmann S. 17]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=10|Fachbegriffe S. 10]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=26|Fachbegriffe S. 26]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=10|SkriptWittmann S. 10]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11|SkriptWittmann S. 11]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17|SkriptWittmann S. 17]].
 > - **Zentrale Suchbegriffe:** Datenschutz, Rollen, Datenschutzbeauftragter, Definition, personenbezogene, Daten, Zugangs, Wittmann, ausreichende, Stromversorgung.
 > - **Prüfungsbezug:** AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -56,22 +56,22 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=10>) | Datenschutzbeauftragter | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11>) | Definition personenbezogene Daten | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 26](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=26>) | Zugangs und | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=10>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=24>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=29>) | ausreichende Stromversorgung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=31>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=33>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 40](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=40>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 46](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=46>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=49>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=58>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=10>) | Datenschutzbeauftragter | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11>) | Definition personenbezogene Daten | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 26](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=26>) | Zugangs und | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=10>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=24>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=29>) | ausreichende Stromversorgung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=31>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=33>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 40](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=40>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 46](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=46>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=49>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -80,11 +80,11 @@ tags:
 #### Seite 10: Datenschutzbeauftragter
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=10]]`
+> - PDF: [Fachbegriffe.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=10]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Datenschutzbeauftragter Beratung der Beschäftigte zu ihren Pflichten und Datenschutzvorschriften. Überwachung der Einhaltung dieser Vorschriften Überwachung des Auftragsverarbeiters für den Schutz personenbezogener Daten Zusammenarbeit mit der Aufsichtsbehörde
@@ -102,11 +102,11 @@ Zusammenarbeit mit der Aufsichtsbehörde
 #### Seite 11: Definition personenbezogene Daten
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11]]`
+> - PDF: [Fachbegriffe.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Laden … Definition personenbezogene Daten Personenbezogene Daten sind Informationen, die sich auf eine Person Beziehen. Zwischen einer Information und einer Person muss also eine Verbindung herstellbar sein, unmittelbar oder mittelbar. Eine unmittelbare Verbindung ist beispielsweise mit dem Namen, der Anschrift oder dem Geburtsdatum gegeben. Eine mittelbare Verbindung erfolgt etwa mittels Zusatzwissen, beispielsweise bei Telefon-, Matrikel- und Sozialversicherungsnummern oder Online-Kennungen wie IP-Adressen und Cookie-Kennungen. Ausreichend ist, wenn die Information die Identifizierung der betroffenen Person theoretisch ermöglicht, es kommt nicht darauf an, ob die Person tatsächlich identif …
@@ -133,11 +133,11 @@ an, ob die Person tatsächlich identifiziert wird.
 #### Seite 26: Zugangs und
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 26](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=26>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=26]]`
+> - PDF: [Fachbegriffe.pdf Seite 26](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=26>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=26]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=26]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Zugangs und Zugriffskontrollen Es wird sichergestellt, dass z. B. ein Rechner nur mit berechtigten Nutzern kommunizieren kann. Beim Zugang zu Grundstücken und Räumen, einschließlich aller Datenverarbeitungsanlagen spricht man von Zugangskontrollen. Die Inanspruchnahme von Datenverarbeitungsanlagen wird als Zugriffskontrolle bezeichnet.
@@ -162,11 +162,11 @@ als Zugriffskontrolle bezeichnet.
 #### Seite 10: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=10]]`
+> - PDF: [Skript_Wittmann.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=10]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 8 Geschäftsprozesse erheben Ein Sicherheitskonzept soll die wesentlichen Informationen einer Institution schützen. Welche dazu zählen, wird in der Regel bei einer Betrachtung der Geschäftsprozesse deutlich: Welche Informationen sind erforderlich, damit diese reibungslos funktionieren? Welche haben einen besonderen Geheimhaltungsbedarf und dürfen daher nur Befugten zugänglich sein? Ergebnisdarstellung Die Ergebnisse werden in Tabellen dargestellt. Für jeden Geschäftsprozess sollte man die folgenden Angaben vermerken: • eine eindeutige Kennung (Nummer oder Kürzel), • einen Namen für den Prozess, • eine kurze Be …
@@ -245,11 +245,11 @@ Einkauf
 #### Seite 11: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11]]`
+> - PDF: [Skript_Wittmann.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 9 Anwendungen erheben Anwendungen unterstützen die Geschäftsprozesse und die Erledigung von Fachaufgaben. Aufgrund ihres Bedarfs an Geheimhaltung, Korrektheit und Unverfälschtheit oder Verfügbarkeit erfordern diese Anwendungen einen gewissen Schutz. Zur Identifikation dieser Anwendungen bieten sich Gespräche oder gemeinsame Workshops mit Benutzern, Anwendungs- und Geschäftsprozessverantwortlichen sowie sachkundigen Mitarbeitern der IT-Abteilung an. Für jede als wesentlich identifizierte Anwendung sollten wieder folgende Angaben in einer Tabelle erfasst werden: • eine eindeutige Kennung (Nummer oder Kürzel), • …
@@ -347,11 +347,11 @@ IT-Betrieb
 #### Seite 17: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17]]`
+> - PDF: [Skript_Wittmann.pdf Seite 17](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 15 3 Schutzbedarfsfeststellung Bei der Schutzbedarfsfeststellung ist danach zu fragen, welcher Schaden entstehen kann, wenn für ein Zielobjekt die Grundwerte Vertraulichkeit, Integrität oder Verfügbarkeit verletzt werden. Dies wäre der Fall, wenn • vertrauliche Informationen unberechtigt zur Kenntnis genommen oder weitergegeben werden (Verletzung der Vertraulichkeit), • die Korrektheit der Informationen und der Funktionsweise von Systemen nicht mehr gegeben ist (Verletzung der Integrität), • autorisierte Benutzer am Zugriff auf Informationen und Systeme behindert werden (Verletzung der Verfügbarkeit). Der Sch …
@@ -450,11 +450,11 @@ von Daten
 #### Seite 24: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=24>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=24]]`
+> - PDF: [Skript_Wittmann.pdf Seite 24](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=24>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=24]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=24]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 22 4 Modellierung INF.2 Rechenzentrum sowie Serverraum Heute werden fast alle strategischen und operativen Funktionen und Aufgaben durch Informationstechnik maßgeblich unterstützt oder sind ohne IT nicht ausführbar. Dadurch steigen die Anforderungen an die Leistungsfähigkeit und Verfügbarkeit der IT-Systeme und deren Anbindung an die Netzumgebung stetig. Um diesem Leistungsbedarf gerecht zu werden, um entsprechende Reserven vorzuhalten und um die IT auch wirtschaftlich betreiben zu können, konzentrieren Institutionen jeglicher Größe ihre IT-Landschaft in Rechenzentren. Gefährdungslage Fehlerhafte Planung: Wen …
@@ -525,11 +525,11 @@ ganz unterbleiben.
 #### Seite 29: ausreichende Stromversorgung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=29>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=29]]`
+> - PDF: [Skript_Wittmann.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=29>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=29]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=29]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > - ausreichende Stromversorgung - Rauch-Feuermelde - ausreichende Dimensionierung USV - ausreichende überwachung - ausreichende Sicherheitskontrollen - passende Temperatur - funktionen regelmäßig überprüfen
@@ -552,11 +552,11 @@ Temperatur
 #### Seite 31: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=31>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=31]]`
+> - PDF: [Skript_Wittmann.pdf Seite 31](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=31>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=31]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=31]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 28 MÜSSEN so gewählt werden, dass eine Beschädigung der verlegten Kabel durch die normale Nutzung des Gebäudes ausgeschlossen ist. Zudem MUSS generell darauf geachtet werden, dass IT-Kabel getrennt von der elektrotechnischen Verkabelung geführt werden. Standard-Anforderungen Grundsätzlich SOLLTEN die Anforderungen analysiert werden, die Einfluss auf eine zukunftssichere, bedarfsgerechte und wirtschaftliche Ausführung der IT-Verkabelung haben. In dieser Anforderungsanalyse SOLLTE zunächst abgeschätzt werden, wie die Benutzer innerhalb der Institution die eingesetzte IT kurzfristig nutzen. Darauf aufbauend SOLL …
@@ -634,11 +634,11 @@ die Leitung sowie zur Erkennung von Ausgleichsströmen getroffen werden.
 #### Seite 33: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=33>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=33]]`
+> - PDF: [Skript_Wittmann.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=33>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=33]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=33]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 30 INF.7 Büroarbeitsplatz Ein Büroraum ist der Bereich innerhalb einer Institution, in dem sich ein oder mehrere Mitarbeiter aufhalten, um dort ihre Aufgaben zu erfüllen. In diesem Baustein werden die typischen Gefährdungen und Anforderungen bezüglich der Informationssicherheit für einen Büroraum beschrieben. Gefährdungslage Unbefugter Zutritt: Fehlen Zutrittskontrollen oder sind diese unzureichend, können unberechtigte Personen einen Büroraum betreten und schützenswerte Daten entwenden, Geräte stehlen oder sie manipulieren. Dadurch kann die Verfügbarkeit, Vertraulichkeit oder Integrität von Geräten und Infor …
@@ -714,11 +714,11 @@ regelmäßig geprüft werden, ob beim Verlassen des Büroraums die Fenster gesch
 #### Seite 40: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 40](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=40>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=40]]`
+> - PDF: [Skript_Wittmann.pdf Seite 40](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=40>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=40]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=40]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 37 SYS.3.1 Laptops Die Geräte sind in den meisten Institutionen verbreitet und ersetzen für einige Mitarbeiter den klassischen Desktop-PC. Da Laptops häufig mobil genutzt werden, sind sie oft nicht permanent am LAN der Institution angeschlossen. Stattdessen können sie sich in der Regel per Virtual Private Network (VPN) über das Internet oder andere Datennetze verbinden, um so auf die Ressourcen des LANs zuzugreifen. Auch die Infrastruktur einer klassischen Büroumgebung, wie kontrollierbare Umwelteinflüsse, eine stabile Stromversorgung oder zutrittsgeschützte Bereiche kann für den mobilen Einsatz von Laptops n …
@@ -794,11 +794,11 @@ vorhandenen Schutzmechanismen MUSS auf allen Laptops der Institution ein Antivir
 #### Seite 46: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 46](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=46>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=46]]`
+> - PDF: [Skript_Wittmann.pdf Seite 46](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=46>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=46]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=46]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 43 Vorgehen Bei der Modellierung wählt man diejenigen Bausteine aus, die man für die Sicherheit des betrachteten Informationsverbundes benötigt. Folgende Punkte müssen bei der Modellierung berücksichtigt werden: • Die prozessorientierten Bausteine beschreiben Aspekte, die den technischen Aspekten eines Informationsverbundes übergeordnet und üblicherweise einheitlich zu regeln sind. Diese Bausteine sind daher in der Regel einmal pro Informationsverbund anzuwenden. Besonders wichtig sind die Bausteine zum Informationssicherheitsmanagement, der Organisation des IT-Betriebs, der Schulung und Sensibilisierung des …
@@ -893,11 +893,11 @@ Rollen und Verantwortlichkeiten in den Bausteinen hilfreich sein.
 #### Seite 49: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=49>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=49]]`
+> - PDF: [Skript_Wittmann.pdf Seite 49](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=49>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=49]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=49]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=49]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 46 Aufgabe 1: Die nachfolgende Auswahl illustriert das Spektrum der berücksichtigten Bedrohungen. Sowohl höhere Gewalt und technisches Versagen als auch organisatorische Mängel und vorsätzliches oder fahrlässiges menschliches Fehlverhalten werden einbezogen. Beschrifte die jeweils betroffenen Grundwerte: „C“ (Confidentiality, Vertraulichkeit), „I“ (Integrity, Integrität) „A“ (Availability, Verfügbarkeit) Elementare Gefährdungen Gefährdung Betroffene Grundwerte G 0.1 Feuer A G 0.5 Naturkatastrophen A G 0.10 Ausfall oder Störung von Versorgungsnetzen A G 0.15 Abhören C G 0.18 Fehlplanung oder fehlende Anpassung …
@@ -981,11 +981,11 @@ I ,
 #### Seite 58: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=58>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=58]]`
+> - PDF: [Skript_Wittmann.pdf Seite 58](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=58]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 55 6 Umsetzungsplanung Maßnahmen konkretisieren Im ersten Schritt sind die Anforderungen herauszufiltern, die nicht oder nur teilweise erfüllt sind. Eine übersichtliche Dokumentation erhältst du, wenn du die unzureichend erfüllten Anforderungen tabellarisch zusammenstellst und dabei nach den betroffenen Zielobjekten gruppierst, etwa nach bestimmten Räumen und IT-Systemen. Lege anschließend Maßnahmen fest, mit denen diese Sicherheitslücken geschlossen werden können. Anschließend müssen die Maßnahmen im Zusammenhang betrachtet und geprüft werden, • ob einzelne Maßnahmen überflüssig werden, weil andere zu realis …
@@ -1076,11 +1076,11 @@ Werkzeugen) oder
 #### Seite 60: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60]]`
+> - PDF: [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 57 Begleitende Maßnahmen festlegen Der Erfolg einer Maßnahme hängt in einem entscheidenden Umfang davon ab, wie diese von den Mitarbeitern akzeptiert und angewendet wird. Bei Einführung neuer Sicherheitsmaßnahmen müssen die betroffenen Mitarbeiter ausreichend geschult und für mögliche Probleme sensibilisiert werden. Die Einführung neuer Sicherheitsmaßnahmen erfordert immer Schulungen für die betroffenen Mitarbeiter. Was nützt zum Beispiel ein neu angeschaffter Feuerlöscher, wenn die Mitarbeiter im Brandfall nicht sachgerecht mit ihm umgehen können? Drei weitere Beispiele für zweckmäßige Schulungen: • Wenn Sie …
@@ -1187,11 +1187,11 @@ Frau Meyer
 #### Seite 62: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62]]`
+> - PDF: [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 59 7 Aufrechterhaltung und Verbesserung Im Realisierungsplan wurde festgehalten, welche Maßnahmen des Sicherheitskonzepts zu welchem Zeitpunkt und in welcher Weise umgesetzt sein sollen. Dabei wurden erforderliche Ressourcen, eventuelle Zwischentermine und begleitende Maßnahmen berücksichtigt. Um sicher sein können, dass alles wie geplant umgesetzt ist und funktioniert, muss man die Einhaltung der Planung regelmäßig kontrollieren. Informationssicherheit ist darüber hinaus kein einmalig herzustellender und anschließend stabiler Zustand, sondern ein stetiger Prozess, der immer wieder an sich wandelnde und neue …
@@ -1300,7 +1300,7 @@ I
 - Frage:: Was ist der Kernpunkt zu **Definition personenbezogene Daten** laut Quelle?
 - Antwort:: Ausreichend ist, wenn die Information die Identifizierung der betroffenen Person theoretisch ermöglicht, es kommt nicht darauf an, ob die Person tatsächlich identifiziert wird.
 - Beleg:: Ausreichend ist, wenn die Information die Identifizierung der betroffenen Person theoretisch ermöglicht, es kommt nicht darauf an, ob die Person tatsächlich identifiziert wird.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1308,7 +1308,7 @@ I
 - Frage:: Was ist **Definition personenbezogene Daten** laut Quelle?
 - Antwort:: Laden … Definition personenbezogene Daten Personenbezogene Daten sind Informationen, die sich auf eine Person Beziehen.
 - Beleg:: Laden … Definition personenbezogene Daten Personenbezogene Daten sind Informationen, die sich auf eine Person Beziehen.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1316,7 +1316,7 @@ I
 - Frage:: Was ist der Kernpunkt zu **In der Einkaufsabteilung** laut Quelle?
 - Antwort:: Leiter Auftragsabwicklung/ Vertrieb GP004: Einkauf (unterstützender Prozess): In der Einkaufsabteilung werden alle erforderlichen Artikel bestellt, die nicht für den Produktionsprozess erforderlich sind.
 - Beleg:: Leiter Auftragsabwicklung/ Vertrieb GP004: Einkauf (unterstützender Prozess): In der Einkaufsabteilung werden alle erforderlichen Artikel bestellt, die nicht für den Produktionsprozess erforderlich sind.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=10|Skript_Wittmann S. 10]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=10|Skript_Wittmann S. 10]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1324,7 +1324,7 @@ I
 - Frage:: Welche Vorgabe nennt die Quelle zu **Der Drucker**?
 - Antwort:: Der Drucker ist auf dem Druckserver in Bad Godesberg verfügbar, kann aber bei Bedarf auch auf dem Druckserver in Beuel gestartet werden.
 - Beleg:: Der Drucker ist auf dem Druckserver in Bad Godesberg verfügbar, kann aber bei Bedarf auch auf dem Druckserver in Beuel gestartet werden.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11|Skript_Wittmann S. 11]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11|Skript_Wittmann S. 11]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1332,7 +1332,7 @@ I
 - Frage:: Welche Vorgabe nennt die Quelle zu **Der Drucker**?
 - Antwort:: Der Drucker ist auf dem Druckserver in Beuel verfügbar, kann aber bei Bedarf auch auf dem Druckserver in Bad Godesberg gestartet werden.
 - Beleg:: Der Drucker ist auf dem Druckserver in Beuel verfügbar, kann aber bei Bedarf auch auf dem Druckserver in Bad Godesberg gestartet werden.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=11|Skript_Wittmann S. 11]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11|Skript_Wittmann S. 11]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1340,7 +1340,7 @@ I
 - Frage:: Welche Vorgabe nennt die Quelle zu **Datenschutz und Rollen**?
 - Antwort:: 15 3 Schutzbedarfsfeststellung Bei der Schutzbedarfsfeststellung ist danach zu fragen, welcher Schaden entstehen kann, wenn für ein Zielobjekt die Grundwerte Vertraulichkeit, Integrität oder Verfügbarkeit verletzt werden.
 - Beleg:: 15 3 Schutzbedarfsfeststellung Bei der Schutzbedarfsfeststellung ist danach zu fragen, welcher Schaden entstehen kann, wenn für ein Zielobjekt die Grundwerte Vertraulichkeit, Integrität oder Verfügbarkeit verletzt werden.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=17|Skript_Wittmann S. 17]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17|Skript_Wittmann S. 17]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1348,7 +1348,7 @@ I
 - Frage:: Was ist der Kernpunkt zu **Akku leer** laut Quelle?
 - Antwort:: So können zum Beispiel die Daten eines Laptops temporär nicht verfügbar sein, wenn der Akku leer ist.
 - Beleg:: So können zum Beispiel die Daten eines Laptops temporär nicht verfügbar sein, wenn der Akku leer ist.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=40|Skript_Wittmann S. 40]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=40|Skript_Wittmann S. 40]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1356,7 +1356,7 @@ I
 - Frage:: Was ist der Kernpunkt zu **Datenschutz und Rollen** laut Quelle?
 - Antwort:: Dokumentation Ein Beispiel dafür, wie man die vorgenommene Modellierung dokumentieren kann, ist in folgendem Auszug aus der Modellierung für die RECPLAST GmbH.
 - Beleg:: Dokumentation Ein Beispiel dafür, wie man die vorgenommene Modellierung dokumentieren kann, ist in folgendem Auszug aus der Modellierung für die RECPLAST GmbH.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=46|Skript_Wittmann S. 46]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=46|Skript_Wittmann S. 46]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

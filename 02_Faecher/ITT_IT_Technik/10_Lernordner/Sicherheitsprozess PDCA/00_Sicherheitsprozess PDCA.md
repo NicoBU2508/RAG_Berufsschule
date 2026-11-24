@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Sicherheitsprozess PDCA** im Fach **ITT IT-Technik**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=8|Fachbegriffe S. 8]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=9|Fachbegriffe S. 9]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1|SkriptWittmann S. 1]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3|SkriptWittmann S. 3]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=57|SkriptWittmann S. 57]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62|SkriptWittmann S. 62]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=8|Fachbegriffe S. 8]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=9|Fachbegriffe S. 9]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1|SkriptWittmann S. 1]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3|SkriptWittmann S. 3]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57|SkriptWittmann S. 57]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62|SkriptWittmann S. 62]].
 > - **Zentrale Suchbegriffe:** Sicherheitsprozess, PDCA, Informationssicherheitsprozess, Informationssicherheitsbeauftragter, ISB, Wittmann.
 > - **Prüfungsbezug:** AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -55,12 +55,12 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=8>) | Informationssicherheitsprozess | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=9>) | Informationssicherheitsbeauftragter (ISB) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 57](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=57>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=8>) | Informationssicherheitsprozess | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=9>) | Informationssicherheitsbeauftragter (ISB) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 57](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -69,11 +69,11 @@ tags:
 #### Seite 8: Informationssicherheitsprozess
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=8]]`
+> - PDF: [Fachbegriffe.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Informationssicherheitsprozess
@@ -87,11 +87,11 @@ Informationssicherheitsprozess
 #### Seite 9: Informationssicherheitsbeauftragter (ISB)
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=9]]`
+> - PDF: [Fachbegriffe.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=9]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Informationssicherheitsbeauftragter (ISB) Für Fragen rund um Informationssicherheit in der Institution zuständig. Zu seinen Aufgaben gehört es, -Sicherheitsprozess koordinieren, -Leitung bei der Erstellung der Sicherheitsleitlinie zu unterstützen, -Erstellung des Sicherheitskonzepts, -Realisierungspläne für Sicherheitsmaßnahmen anzufertigen sowie Umsetzung zu initiieren, -Leitungsebene über den Status Informationssicherheit zu berichten, -sicherheitsrelevante Vorfälle zu untersuchen sowie -Sensibilisierungen und Schulungen zur Informationssicherheit zu initiieren und zu koordinieren.
@@ -117,11 +117,11 @@ Zu seinen Aufgaben gehört es,
 #### Seite 1: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1]]`
+> - PDF: [Skript_Wittmann.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ I Inhalt 1 Sicherheitsmanagement ................................................................................................................................................ 1 Der Sicherheitsprozess .................................................................................................................................................. 1 Grundwissen in der IT-Sicherheit .................................................................................................................................. 2 Schutzziele der IT-Sicherheit .................................................................... …
@@ -177,11 +177,11 @@ Aufwände schätzen ............................................................
 #### Seite 3: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3]]`
+> - PDF: [Skript_Wittmann.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 1 1 Sicherheitsmanagement Jede Institution benutzt Sicherheitstechnik, um sich vor Gefahren aus dem Internet abzusichern. Dazu gehören fast immer Virenschutzprogramme und Spamfilter, oft aber auch komplexere Lösungen wie gestaffelte Firewalls und Software zur Angriffserkennung. Darüber hinaus ergreifen Behörden und Unternehmen organisatorische Maßnahmen, etwa indem sie Richtlinien für die Benutzung mobiler Systeme erlassen oder die ihre Mitarbeiter über Gefahren im Internet informieren. Sowohl die Anwendung von Technik als auch die Einführung organisatorischer Maßnahmen erfolgt oft jedoch ohne Konzept und Erf …
@@ -241,11 +241,11 @@ Act
 #### Seite 57: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 57](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=57>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=57]]`
+> - PDF: [Skript_Wittmann.pdf Seite 57](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=57]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 54 Nächste Schritte Als Abschluss der Risikoanalyse sind die zusätzlichen Maßnahmen, deren Umsetzung beschlossen wurde, in das vorhandene Sicherheitskonzept zu integrieren (= Konsolidierung des Sicherheitskonzepts) und ist darauf aufbauend ist der Sicherheitsprozess fortzusetzen. Konsolidierung des Sicherheitskonzepts In diesem Schritt muss die Eignung, Angemessenheit und Benutzerfreundlichkeit der zusätzlichen Sicherheitsmaßnahmen geprüft werden, sowie deren Zusammenwirken mit anderen Maßnahmen. Diese Konsolidierung des Sicherheitskonzepts kann sowohl zu Anpassungen bei den zusätzlich ausgewählten Maßnahmen …
@@ -345,11 +345,11 @@ X
 #### Seite 62: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62]]`
+> - PDF: [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 59 7 Aufrechterhaltung und Verbesserung Im Realisierungsplan wurde festgehalten, welche Maßnahmen des Sicherheitskonzepts zu welchem Zeitpunkt und in welcher Weise umgesetzt sein sollen. Dabei wurden erforderliche Ressourcen, eventuelle Zwischentermine und begleitende Maßnahmen berücksichtigt. Um sicher sein können, dass alles wie geplant umgesetzt ist und funktioniert, muss man die Einhaltung der Planung regelmäßig kontrollieren. Informationssicherheit ist darüber hinaus kein einmalig herzustellender und anschließend stabiler Zustand, sondern ein stetiger Prozess, der immer wieder an sich wandelnde und neue …
@@ -458,7 +458,7 @@ I
 - Frage:: Welche Vorgabe nennt die Quelle zu **Der Sicherheitsprozess Informationssicherheit**?
 - Antwort:: Der Sicherheitsprozess Informationssicherheit ist kein Zustand, der einmal erreicht wird und dann fortbesteht, sondern ein Prozess, der kontinuierlich angepasst werden muss.
 - Beleg:: Der Sicherheitsprozess Informationssicherheit ist kein Zustand, der einmal erreicht wird und dann fortbesteht, sondern ein Prozess, der kontinuierlich angepasst werden muss.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -466,7 +466,7 @@ I
 - Frage:: Was ist der Kernpunkt zu **Vielmehr** laut Quelle?
 - Antwort:: Vielmehr ist ein Informationssicherheitsmanagementsystem (ISMS) erforderlich, der dafür sorgt, dass alle Maßnahmen zielgerichtet gesteuert und überwacht werden.
 - Beleg:: Vielmehr ist ein Informationssicherheitsmanagementsystem (ISMS) erforderlich, der dafür sorgt, dass alle Maßnahmen zielgerichtet gesteuert und überwacht werden.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3|Skript_Wittmann S. 3]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -474,7 +474,7 @@ I
 - Frage:: Was ist der Kernpunkt zu **Als Abschluss der Risikoanalyse** laut Quelle?
 - Antwort:: Als Abschluss der Risikoanalyse sind die zusätzlichen Maßnahmen, deren Umsetzung beschlossen wurde, in das vorhandene Sicherheitskonzept zu integrieren (= Konsolidierung des Sicherheitskonzepts) und ist darauf aufbauend ist der Sicherheitsprozess fortzusetzen.
 - Beleg:: Als Abschluss der Risikoanalyse sind die zusätzlichen Maßnahmen, deren Umsetzung beschlossen wurde, in das vorhandene Sicherheitskonzept zu integrieren (= Konsolidierung des Sicherheitskonzepts) und ist darauf aufbauend ist der Sicherheitsprozess fortzusetzen.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=57|Skript_Wittmann S. 57]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57|Skript_Wittmann S. 57]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -482,7 +482,7 @@ I
 - Frage:: Welche Vorgabe nennt die Quelle zu **Wann**?
 - Antwort:: Frage 6: Wann ist die Risikoakzeptanz grundsätzlich unzulässig? o bei der Nichterfüllung von Basis-Anforderungen o beim Vorhandensein von elementaren Gefährdungen o bei sehr hohem Schutzbedarf o bei Nichterfüllung von Standard-Anforderungen
 - Beleg:: Frage 6: Wann ist die Risikoakzeptanz grundsätzlich unzulässig? o bei der Nichterfüllung von Basis-Anforderungen o beim Vorhandensein von elementaren Gefährdungen o bei sehr hohem Schutzbedarf o bei Nichterfüllung von Standard-Anforderungen
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=57|Skript_Wittmann S. 57]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57|Skript_Wittmann S. 57]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -490,7 +490,7 @@ I
 - Frage:: Welche Vorgabe nennt die Quelle zu **Informationssicherheit**?
 - Antwort:: Informationssicherheit ist darüber hinaus kein einmalig herzustellender und anschließend stabiler Zustand, sondern ein stetiger Prozess, der immer wieder an sich wandelnde und neue Herausforderungen angepasst werden muss.
 - Beleg:: Informationssicherheit ist darüber hinaus kein einmalig herzustellender und anschließend stabiler Zustand, sondern ein stetiger Prozess, der immer wieder an sich wandelnde und neue Herausforderungen angepasst werden muss.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62|Skript_Wittmann S. 62]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62|Skript_Wittmann S. 62]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -498,7 +498,7 @@ I
 - Frage:: Welche Vorgabe nennt die Quelle zu **Sicherheitsprozess PDCA**?
 - Antwort:: Um sicher sein können, dass alles wie geplant umgesetzt ist und funktioniert, muss man die Einhaltung der Planung regelmäßig kontrollieren.
 - Beleg:: Um sicher sein können, dass alles wie geplant umgesetzt ist und funktioniert, muss man die Einhaltung der Planung regelmäßig kontrollieren.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62|Skript_Wittmann S. 62]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62|Skript_Wittmann S. 62]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

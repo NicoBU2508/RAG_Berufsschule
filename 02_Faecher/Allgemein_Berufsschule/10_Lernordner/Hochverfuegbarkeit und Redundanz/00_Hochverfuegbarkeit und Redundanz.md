@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Hochverfügbarkeit und Redundanz** im Fach **Allgemein Berufsschule**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3|Gescanntes Dokument 16.09.25 um 11.21.41 S. 3]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3|Gescanntes Dokument 16.09.25 um 11.21.41 S. 3]].
 > - **Zentrale Suchbegriffe:** Hochverfügbarkeit, Redundanz, Wittmann.
 > - **Prüfungsbezug:** AP1/AP2 Lernbasis.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -51,7 +51,7 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41\|Gescanntes_Dokument_16_09_25_um_11_21_41]] | [Gescanntes Dokument 16.09.25 um 11.21.41.pdf Seite 3](<../../../../99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41\|Gescanntes_Dokument_16_09_25_um_11_21_41]] | [Gescanntes Dokument 16.09.25 um 11.21.41.pdf Seite 3](<../../../../99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -60,11 +60,11 @@ tags:
 #### Seite 3: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Gescanntes Dokument 16.09.25 um 11.21.41.pdf Seite 3](<../../../../99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3]]`
+> - PDF: [Gescanntes Dokument 16.09.25 um 11.21.41.pdf Seite 3](<../../../../99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3]]
+> ![[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum HochverfigbarkeitisteineWeiterfuhrungderFehlertoleranzDabeisindSystemealsganzemehrfachvorhanden EstehtnurdieHardwareredundantzurVerfugungundmuszunachst InstalationeinesBetriebsystemsundWiedereinspielenvonBackupsfunktionstuichtig gemachtwerden EinErsatzsystemkanbeiBedarfhochgefahrenwerdenundieFunktiondes ausgefalenenSystemsuibernehmen EinErsatzsystemuibernimtautomatischundsofortdieFunktiondes ausgefalenenSystems auolunJwMa COTOTO Ein schleustsichinComputerPrograme TOIOTOE1O 0007559 einundverbreitetsichselbst eineDateialsWirtindemsiesich versteckenkinen Virenhabenmeistenseinen hdieFunktiondes ComputersystemszubeintrachtigenBetriebsystemoder uweodsauniuam Sn20 900 S TOTOLOTO ETTZ …

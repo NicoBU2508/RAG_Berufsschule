@@ -2,8 +2,8 @@
 typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
-original_pfad: "99_Originale/Berufsschule/ITT/Stößl/Skript.pdf"
-seiten: 36
+original_pfad: "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf"
+seiten: 54
 pruefung: "AP1, WiSo"
 cssclasses:
   - lernquelle
@@ -12,33 +12,37 @@ tags:
   - quelle
   - itt_it_technik
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-07-13"
+seitenaudit_datum: "2026-11-23"
 kanonische_referenzen: true
-kanonische_themen: 6
-seiten_mit_kanonischem_thema: 36
-ki_sensitive_seiten: [17,19,22,23,24,29]
+kanonische_themen: 10
+seiten_mit_kanonischem_thema: 54
+ki_sensitive_seiten: [17,19,22,23,24,29,47,48,49,50,51,52]
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=17, redacted_summary=6, partial=13)"
-textzeichen: 41838
+textstatus: "gemischt: visuell geprüft (ok=29, redacted_summary=12, partial=13)"
+textzeichen: 57234
 ---
 # 📄 Stol Skript
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
-> - **Original-PDF:** [Skript.pdf](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf>)
-> - **Seiten:** 36
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=17, redacted_summary=6, partial=13)
+> - **Original-PDF:** [Skript.pdf](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf>)
+> - **Seiten:** 54
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=29, redacted_summary=12, partial=13)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
 
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
-| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Angebotsvergleich und Nutzwertanalyse\|Angebotsvergleich und Nutzwertanalyse]] | Prüfungsrahmen der Quelle | 20–29 | Visuell bestätigt auf 10 Seite(n); bei 8 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Beschaffungsquellen und Stammdaten\|Beschaffungsquellen und Stammdaten]] | Prüfungsrahmen der Quelle | 13–16 | Visuell bestätigt auf 4 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Angebotsvergleich und Nutzwertanalyse\|Angebotsvergleich und Nutzwertanalyse]] | Prüfungsrahmen der Quelle | 20–29, 46–54 | Visuell bestätigt auf 19 Seite(n); bei 14 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Beschaffungsquellen und Stammdaten\|Beschaffungsquellen und Stammdaten]] | Prüfungsrahmen der Quelle | 13–16, 46 | Visuell bestätigt auf 5 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Besitz Eigentum und Rechtssubjekte\|Besitz, Eigentum und Rechtssubjekte]] | Prüfungsrahmen der Quelle | 4–6 | Visuell bestätigt auf 3 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Bezugskalkulation und Verkaufskalkulation\|Bezugskalkulation und Verkaufskalkulation]] | Prüfungsrahmen der Quelle | 30–36 | Visuell bestätigt auf 7 Seite(n); bei 7 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Bezugskalkulation und Verkaufskalkulation\|Bezugskalkulation und Verkaufskalkulation]] | Prüfungsrahmen der Quelle | 30–36, 47–53 | Visuell bestätigt auf 14 Seite(n); bei 13 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Deckungsbeitrag und Gewinnschwelle\|Deckungsbeitrag und Gewinnschwelle]] | Prüfungsrahmen der Quelle | 37–41, 43–44 | Visuell bestätigt auf 7 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Direkter und indirekter Vertrieb\|Direkter und indirekter Vertrieb]] | Prüfungsrahmen der Quelle | 42, 45 | Visuell bestätigt auf 2 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Geschäftsbrief\|Geschäftsbrief]] | Prüfungsrahmen der Quelle | 17–19 | Visuell bestätigt auf 3 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Kaufvertrag und Geschäftsfähigkeit\|Kaufvertrag und Geschäftsfähigkeit]] | Prüfungsrahmen der Quelle | 1–3, 7–12 | Visuell bestätigt auf 9 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Marktumfeld und Marktformen\|Marktumfeld und Marktformen]] | Prüfungsrahmen der Quelle | 42, 45 | Visuell bestätigt auf 2 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Wirtschaftlichkeit und Rechnungswesen\|Wirtschaftlichkeit und Rechnungswesen]] | Prüfungsrahmen der Quelle | 37–39 | Visuell bestätigt auf 3 Seite(n). |
 
 ## 🧠 Lernstruktur
 
@@ -52,11 +56,11 @@ textzeichen: 41838
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 1](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=1]]`
+> - PDF-Seite: [Skript.pdf Seite 1](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=1]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -103,11 +107,11 @@ Vertreters ab.
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 2](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=2]]`
+> - PDF-Seite: [Skript.pdf Seite 2](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -160,11 +164,11 @@ die Erfüllung der sich aus einem solchen Verhältnis ergebenden Verpflichtung b
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 3](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=3]]`
+> - PDF-Seite: [Skript.pdf Seite 3](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -273,11 +277,11 @@ Rechtsgeschäftes
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 4](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=4]]`
+> - PDF-Seite: [Skript.pdf Seite 4](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -316,11 +320,11 @@ Rechtsfähigkeit beendet ist.
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 5](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=5]]`
+> - PDF-Seite: [Skript.pdf Seite 5](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=5]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -374,11 +378,11 @@ Körperschaften, Anstalten des öffentlichen Rechts und Stiftungen öffentlichen
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 6](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=6]]`
+> - PDF-Seite: [Skript.pdf Seite 6](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=6]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -434,11 +438,11 @@ Eigentümer --- Auflassung --- Neuer
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 7](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=7]]`
+> - PDF-Seite: [Skript.pdf Seite 7](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=7]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=7]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -485,11 +489,11 @@ Allgemeines zum Kaufvertrag
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 8](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=8]]`
+> - PDF-Seite: [Skript.pdf Seite 8](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=8]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -520,11 +524,11 @@ Notar beurkundet wird.
 ### Seite 9
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 9](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=9>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=9]]`
+> - PDF-Seite: [Skript.pdf Seite 9](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=9>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=9]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=9]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -560,11 +564,11 @@ Abschluss eines Kaufvertrages bei Antrag durch den Käufer
 ### Seite 10
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 10](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=10>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=10]]`
+> - PDF-Seite: [Skript.pdf Seite 10](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=10>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=10]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=10]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -658,11 +662,11 @@ eine Beweisfunktion
 ### Seite 11
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 11](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=11>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=11]]`
+> - PDF-Seite: [Skript.pdf Seite 11](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=11>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=11]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=11]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -752,11 +756,11 @@ Kaufvertragsarten …
 ### Seite 12
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 12](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=12>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=12]]`
+> - PDF-Seite: [Skript.pdf Seite 12](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=12>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=12]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=12]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -829,11 +833,11 @@ Kaufvertragsarten …
 ### Seite 13
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 13](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=13>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=13]]`
+> - PDF-Seite: [Skript.pdf Seite 13](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=13>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=13]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=13]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -918,11 +922,11 @@ Zeitaufwendig , keine Erfahrung
 ### Seite 14
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 14](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=14>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=14]]`
+> - PDF-Seite: [Skript.pdf Seite 14](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=14>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=14]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=14]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -970,11 +974,11 @@ v Risikomanagement
 ### Seite 15
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 15](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=15>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=15]]`
+> - PDF-Seite: [Skript.pdf Seite 15](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=15>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=15]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=15]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1040,11 +1044,11 @@ bzw. -datei.
 ### Seite 16
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 16](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=16>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=16]]`
+> - PDF-Seite: [Skript.pdf Seite 16](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=16>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=16]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=16]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1119,11 +1123,11 @@ Bessere Alternativen wie kürzere Lieferzeiten oder günstigere Preise
 
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 17](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=17>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=17]]`
+> - PDF-Seite: [Skript.pdf Seite 17](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=17>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=17]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=17]]
 
 
 
@@ -1139,11 +1143,11 @@ Bessere Alternativen wie kürzere Lieferzeiten oder günstigere Preise
 ### Seite 18
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 18](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=18>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=18]]`
+> - PDF-Seite: [Skript.pdf Seite 18](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=18>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=18]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=18]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1191,11 +1195,11 @@ X
 
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 19](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=19>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=19]]`
+> - PDF-Seite: [Skript.pdf Seite 19](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=19>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=19]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=19]]
 
 #### Datenschutzsichere Inhaltszusammenfassung
 
@@ -1210,11 +1214,11 @@ X
 ### Seite 20
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 20](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=20>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=20]]`
+> - PDF-Seite: [Skript.pdf Seite 20](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=20>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=20]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=20]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1257,11 +1261,11 @@ Berechnung des quantitativen Angebotsvergleiches
 ### Seite 21
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 21](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=21>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=21]]`
+> - PDF-Seite: [Skript.pdf Seite 21](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=21>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=21]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=21]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1397,11 +1401,11 @@ O
 
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 22](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=22>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=22]]`
+> - PDF-Seite: [Skript.pdf Seite 22](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=22>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=22]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=22]]
 
 #### Datenschutzsichere Inhaltszusammenfassung
 
@@ -1419,11 +1423,11 @@ O
 
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 23](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=23>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=23]]`
+> - PDF-Seite: [Skript.pdf Seite 23](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=23>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=23]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=23]]
 
 #### Datenschutzsichere Inhaltszusammenfassung
 
@@ -1441,11 +1445,11 @@ O
 
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 24](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=24>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=24]]`
+> - PDF-Seite: [Skript.pdf Seite 24](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=24>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=24]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=24]]
 
 #### Datenschutzsichere Inhaltszusammenfassung
 
@@ -1460,11 +1464,11 @@ O
 ### Seite 25
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 25](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=25>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=25]]`
+> - PDF-Seite: [Skript.pdf Seite 25](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=25>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=25]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=25]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1526,11 +1530,11 @@ Vorgehensweise zur Erstellung der Entscheidungsmatrix
 ### Seite 26
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 26](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=26>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=26]]`
+> - PDF-Seite: [Skript.pdf Seite 26](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=26>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=26]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=26]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1580,11 +1584,11 @@ höchsten Punktzahl ausgewählt werden sollte.
 ### Seite 27
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 27](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=27>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=27]]`
+> - PDF-Seite: [Skript.pdf Seite 27](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=27>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=27]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=27]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1747,11 +1751,11 @@ Shop de
 ### Seite 28
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 28](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=28>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=28]]`
+> - PDF-Seite: [Skript.pdf Seite 28](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=28>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=28]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=28]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1784,11 +1788,11 @@ hoch.
 
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 29](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=29>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=29]]`
+> - PDF-Seite: [Skript.pdf Seite 29](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=29>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=29]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=29]]
 
 #### Datenschutzsichere Inhaltszusammenfassung
 
@@ -1803,11 +1807,11 @@ hoch.
 ### Seite 30
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 30](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=30>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=30]]`
+> - PDF-Seite: [Skript.pdf Seite 30](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=30>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=30]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=30]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1843,11 +1847,11 @@ Zielverkaufspreis noch der Kundenrabatt hinzugerechnet.
 ### Seite 31
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 31](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=31>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=31]]`
+> - PDF-Seite: [Skript.pdf Seite 31](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=31>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=31]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=31]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1869,11 +1873,11 @@ zu berechnen bzw. ob die Ware überhaupt rentabel ist.
 ### Seite 32
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 32](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=32>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=32]]`
+> - PDF-Seite: [Skript.pdf Seite 32](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=32>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=32]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=32]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1946,11 +1950,11 @@ Umsatzsteuer
 ### Seite 33
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 33](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=33>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=33]]`
+> - PDF-Seite: [Skript.pdf Seite 33](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=33>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=33]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=33]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2034,11 +2038,11 @@ in Prozent :
 ### Seite 34
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 34](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=34>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=34]]`
+> - PDF-Seite: [Skript.pdf Seite 34](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=34>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=34]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=34]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2084,11 +2088,11 @@ Der Umsatzsteuersatz beträgt 19 %.
 ### Seite 35
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 35](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=35>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=35]]`
+> - PDF-Seite: [Skript.pdf Seite 35](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=35>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=35]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=35]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2119,11 +2123,11 @@ welchem Ladenpreis können wir einen Monitor anbieten, wenn wir bei Monitoren mi
 ### Seite 36
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Skript.pdf Seite 36](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=36>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=36]]`
+> - PDF-Seite: [Skript.pdf Seite 36](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=36>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=36]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=36]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2195,3 +2199,649 @@ Bruttoverkaufspreis
 113 %
 ```
 
+### Seite 37
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 37](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=37>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=37]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=37]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Fachbereich IT Klasse: Datum:
+Der Deckungsbeitrag
+Die Deckungsbeitragsrechnung ermittelt, ob die Verkaufserlöse neben den
+variablen Kosten (die nur dann anfallen, wenn dieses Produkt geführt wird) auch
+noch Teile der fixen Kosten (die immer anfallen, auch wenn dieses Produkt nicht
+geführt wird) decken.
+Beispiel:
+Die Schnellversand GmbH hat fixe Kosten in Höhe von jährlich 90.000,00 € (z.B.
+Miete, Gehälter u.v.a.).
+Die Schnellversand GmbH überlegt nun, ob sie das Produkt A in ihr Sortiment
+aufnehmen soll. Sie könnte das Produkt A zu 50,00 € pro Stück verkaufen. Jedoch
+entstehen bei der Aufnahme in das Sortiment auch variable Kosten (z.B.
+Einstandspreis) in Höhe von 20,00 € pro Stück. Dadurch trägt jede verkaufte Einheit
+30,00 € (= Deckungsbeitrag pro Stück) zur Deckung der fixen Kosten bei. Der
+Deckungsbeitrag berechnet sich also wie folgt:
+Verkaufserlöse pro Stück 50,00
+- variable Kosten pro Stück 20,00
+= Deckungsbeitrag pro Stück 30,00
+Solange der Deckungsbeitrag positiv ist, wird das Produkt in das Sortiment
+aufgenommen bzw. verbleibt im Sortiment. Bei einem negativen Deckungsbeitrag
+wird das Produkt nicht in das Sortiment aufgenommen bzw. aus dem Sortiment
+gestrichen. Denn dieses Produkt trägt nicht zur Deckung der fixen Kosten bei.
+Da Produkt A zur Deckung der fixen Kosten mit 30,00 € je Einheit beiträgt, wird es in
+das Sortiment aufgenommen. Um die gesamten Kosten (variable Kosten + fixe
+Kosten) zu decken, müssen
+fixe Kosten 90.000,00 €
+= = 3.000 Stück
+Deckungsbeitrag pro Stück 30,00 €
+verkauft werden.
+```
+
+### Seite 38
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 38](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=38>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=38]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=38]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Fachbereich IT Klasse: Datum:
+Kann die Schnellversand GmbH mehr als 3.000 Stück verkaufen, so erwirtschaftet
+sie ein positives Betriebsergebnis. Diese Menge, ab der sie in die Gewinnzone
+kommt, nennt man Break-even-Point (Gewinnschwelle). In diesem Fall liegt der
+Break-even-Point bei 3.000,00 Stück. Ab 3.001 verkauften Stück macht die
+Schnellversand GmbH also einen Gewinn.
+Verkauft sie 3.200 Stück, dann erwirtschaftet sie ein positives Betriebsergebnis
+(Gewinn) von 6.000,00 €. Dieses berechnet sich wie folgt:
+Verkaufserlös 3.200 St. * 50,00 € 160.000,00
+- variable Kosten 3.200 St. * 20,00 € 64.000,00
+= Deckungsbeitrag 3.200 St. * 30,00 € 96.000,00
+- fixe Kosten 90.000,00
+= Betriebsergebnis 6.000,00
+Zusammenfassung der Formeln:
+Deckungsbeitrag: Differenz zwischen den Umsatzerlösen und den variablen
+Kosten
+Gesamt (pro Periode): (p*m)-Kv = DB
+pro Stück: p-kv = db
+Break-Even-Point der Punkt, an dem der Betrieb in die Gewinnzone
+(Gewinnschwelle): eintritt
+Erlös = Kosten (p*m = kv*m +Kf)
+Gewinnschwellen- Menge, bei der die Gewinnzone erreicht wird.
+menge: (Deckungsbeitrag deckt die fixen Kosten)
+Kf/db
+Langfristige Preisuntergrenze: DB = Kf (db = kf)  Betriebsgewinn = 0
+Kurzfristige Preisuntergrenze: E = Kv (p = kv)  Verlust = Kf (kf)
+Betriebserfolg: Summe der Deckungsbeiträge aller Kostenträger pro
+Periode
+- Fixkosten
+= Betriebsgewinn/Betriebsverlust
+Mehrstufige DB-Rechnung: Umsatzerlöse
+- variable Kosten
+= DB I
+- erzeugnisfixe Kosten
+= DB II
+```
+
+### Seite 39
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 39](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=39>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=39]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=39]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Fachbereich IT Klasse: Datum:
+Fixe und variable
+Kosten
+z.B.
+Steuern, Versicherung
+Instandhaltung
+Abschreibung
+Zinsen
+Gehälter
+z.B.
+Rohstoffe
+Hilfsstoffe
+Energie
+Löhne
+= fixe Kosten (Kf)
+fallen unabhängig von der
+Produktionsmenge bzw. dem
+Beschäftigungsgrad in gleicher
+Höhe an.
+= variable Kosten (Kv)
+sind von der Produktionsmenge
+bzw. dem Beschäftigungsgrad
+abhängig.
+Gesamtkosten (Kg)
+in einer bestimmten Periode (z.B. Monat)
+```
+
+### Seite 40
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 40](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=40>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=40]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=40]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Fachbereich IT Klasse: Datum:
+Übungsaufgaben zur Ermittlung der Gewinnschwelle
+Aufgabe 1:
+Das Konkurrenzunternehmen TopShop KG stellt VR-Brillen her, die zu einem Preis von 90,00 € verkauft
+werden sollen. Die variablen Stückkosten betragen 50,00 € und die Fixkosten der Produktion 60.000,00 €.
+Ermitteln Sie die Gewinnschwelle auf graphischem Wege mit Hilfe der Deckungsbeitragsrechnung!
+m KF db DB Verlust/Gewinn
+1.000
+2.000
+3.000
+1.000 2.000 3.000
+Aufgabe 2:
+Die PC-Kontor KG stellt VR-Brillen her, die zu 55,00 € je Stück verkauft werden sollen.
+Es sind folgende monatliche Kosten bekannt: Gehälter 9.000,00 €, Miete 1.600,00 €, Nebenkosten
+(Heizung, Licht, Reinigung) 400,00 €, Fremdkapitalzinsen 3.000,00 €, Abschreibung der
+Maschinen und Werkzeuge 6.000,00 €.
+Jede VR-Brille verursacht zusätzliche Kosten in Höhe von 30,00 €.
+Ermitteln Sie die Gewinnschwelle …
+m
+20.000
+40.000
+120.000
+60.000
+100.000
+80.000
+￼
+```
+
+### Seite 41
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 41](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=41>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=41]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=41]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+a) auf mathematischem Wege!
+b) auf grafischem Wege!
+Weiterführung von Aufgabe 2:
+c) In der PC-Kontor KG gehen verschiedene Anfragen ein. Der Geschäftsführer überlegt, ob er die
+Aufträge annehmen soll.
+Anfrage 1: 500 Stück à 40,00 €
+Anfrage 2: 500 Stück à 35,00 €
+Anfrage 3: 500 Stück à 25,00 €
+Anfrage 4: 500 Stück à 30,00 €
+d) In der PC-Kontor KG sinken die variablen Stückkosten kv von 30,00 € auf 20,00 €. Wie wirkt
+sich das auf den Stückdeckungsbeitrag db und die Gewinnschwelle aus?
+e) Durch Gehaltserhöhungen steigen die variablen Stückkosten kv von 30,00 € auf 34,00 €. Wie
+wirkt sich das auf den Stückdeckungsbeitrag db und die Gewinnschwelle aus?
+f) Die Fixkosten erhöhen sich um 6.000,00 €. Wie viele VR-Brillen müssen zusätzlich verkauft
+werden, um das Betriebsergebnis zu halten?
+```
+
+### Seite 42
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 42](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=42>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=42]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=42]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Aufgabe 3:
+Informiere dich mittels Internetrecherche über die Begriffe direkter und indirekter Vertrieb. Stell die
+jeweiligen Merkmale und Unterschiede heraus!
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+```
+
+### Seite 43
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 43](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=43>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=43]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=43]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Fachbereich IT Klasse: Datum:
+STAATLICHE
+BERUFSSCHULE 1
+INGOLSTADT
+Übungsaufgaben zur Ermittlung der Gewinnschwelle
+Aufgabe 1:
+Das Konkurrenzunternehmen TopShop KG stellt VR-Brillen her, die zu einem Preis von 90,00 ¤
+verkauft werden sollen. Die variablen Stückkosten betragen 50,00 ¤ und die Fixkosten der
+Produktion 60.000,00 ¤.
+Ermitteln Sie die Gewinnschwelle auf graphischem Wege mit Hilfe der
+Deckungsbeitragsrechnung!
+m KF db DB Verlust/Gewinn
+1.000 60.000 40 40.000 - 20.000
+2.000 60.000 40 80.000 + 20.000
+3.000 60.000 40 120.000 + 60.000
+1.000 2.000 3.000
+20.000
+40.000
+60.000
+80.000
+100.000
+120.000
+m
+GS = 1.500 KF = 60.000
+DB = 40 x m
+Aufgabe 2:
+Die PC-Kontor KG stellt VR-Brillen her, die zu 55,00 ¤ je Stück verkauft werden sollen.
+Es sind folgende monatliche Kosten bekannt: Gehälter 9.000,00 ¤, Miete 1.600,00 ¤,
+Nebenkosten (Heizung, Licht, Reinigung) 400,00 ¤, Fremdkapitalzinsen 3.000,00 ¤, Abschreibung
+der Maschinen und Werkzeuge 6.000,00 ¤.
+Jede VR-Brille verursacht zusätzliche Kosten in Höhe von 30,00 ¤.
+Ermitteln Sie die Gewinnschwelle ...
+```
+
+### Seite 44
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 44](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=44>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=44]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=44]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+a) auf mathematischem Wege!
+KF = 9.000 + 1.600 + 400 + 3.000 + 6.000 = 20.000,00 ¤
+db = p - kv = 55,00 - 30,00 = 25,00 ¤
+Gewinnschwelle: m* = KF / db = 20.000 / 25 = 800 Stück
+b) auf grafischem Wege!
+GS bei m = 800: DB-Linie schneidet KF-Linie.
+Weiterführung von Aufgabe 2:
+c) In der PC-Kontor KG gehen verschiedene Anfragen ein. Der Geschäftsführer überlegt, ob er die Aufträge
+annehmen soll.
+Anfrage 1: 500 Stück à 40,00 ¤
+db = 40,00 - 30,00 = +10,00 ¤ -> ANNEHMEN (positiver Deckungsbeitrag)
+Anfrage 2: 500 Stück à 35,00 ¤
+db = 35,00 - 30,00 = +5,00 ¤ -> ANNEHMEN (positiver Deckungsbeitrag)
+Anfrage 3: 500 Stück à 25,00 ¤
+db = 25,00 - 30,00 = -5,00 ¤ -> ABLEHNEN (negativer Deckungsbeitrag)
+Anfrage 4: 500 Stück à 30,00 ¤
+db = 30,00 - 30,00 = 0,00 ¤ -> NEUTRAL (kein Beitrag zur Fixkostendeckung)
+d) In der PC-Kontor KG sinken die variablen Stückkosten kv von 30,00 ¤ auf 20,00 ¤. Wie wirkt sich das auf
+den Stückdeckungsbeitrag db und die Gewinnschwelle aus?
+db = 55,00 - 20,00 = 35,00 ¤ (steigt um 10,00 ¤)
+Gewinnschwelle: m* = 20.000 / 35 = 571 Stück (Gewinnschwelle sinkt)
+e) Durch Gehaltserhöhungen steigen die variablen Stückkosten kv von 30,00 ¤ auf 34,00 ¤. Wie wirkt sich das
+auf den Stückdeckungsbeitrag db und die Gewinnschwelle aus?
+db = 55,00 - 34,00 = 21,00 ¤ (sinkt um 4,00 ¤)
+Gewinnschwelle: m* = 20.000 / 21 = 953 Stück (Gewinnschwelle steigt)
+f) Die Fixkosten erhöhen sich um 6.000,00 ¤. Wie viele VR-Brillen müssen zusätzlich verkauft werden, um das
+Betriebsergebnis zu halten?
+Zusätzliche Stück = delta KF / db = 6.000 / 25 = 240 Stück
+Es müssen 240 VR-Brillen zusätzlich verkauft werden.
+```
+
+### Seite 45
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 45](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=45>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=45]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=45]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Aufgabe 3:
+Informiere dich mittels Internetrecherche über die Begriffe direkter und indirekter Vertrieb. Stell die
+jeweiligen Merkmale und Unterschiede heraus!
+Direkter Vertrieb: Das Unternehmen verkauft Produkte ohne Zwischenhändler direkt an den Endkunden.
+Beispiele für direkten Vertrieb: eigener Online-Shop, Werksverkauf, Außendienst, eigene Filialen.
+Merkmale direkter Vertrieb: direkter Kundenkontakt, volle Kontrolle über Preis und Markenauftritt,
+höhere Marge möglich, da kein Händler beteiligt ist. Nachteil: höhere eigene Vertriebskosten.
+Indirekter Vertrieb: Der Hersteller nutzt Zwischenhändler (Groß- oder Einzelhändler,
+Distributoren, Handelsvertreter), um Produkte an den Endkunden zu bringen.
+Merkmale indirekter Vertrieb: größere Marktreichweite durch bestehendes Händlernetz,
+geringerer eigener Vertriebsaufwand. Nachteil: weniger Kontrolle, Marge wird geteilt.
+Hauptunterschiede:
+Kundenkontakt: direkt (direkt) vs. über Händler (indirekt)
+Kontrolle über Preis/Präsentation: hoch (direkt) vs. gering (indirekt)
+Gewinnmarge: höher (direkt) vs. niedriger, da Händlermarge abgezogen (indirekt)
+Marktreichweite: geringer (direkt) vs. größer durch Händlernetz (indirekt)
+Vertriebsaufwand: höher (direkt) vs. geringer (indirekt)
+Fazit: Direkter Vertrieb eignet sich für hochpreisige, erklärungsbedürftige Produkte
+oder wenn enger Kundenkontakt wichtig ist. Indirekter Vertrieb eignet sich für eine
+breite Marktabdeckung mit geringem Eigenaufwand.
+Viele Unternehmen kombinieren beide Wege (Multi-Channel-Strategie), um sowohl
+maximale Kontrolle als auch größte Reichweite zu erzielen.
+```
+
+### Seite 46
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 46](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=46>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=46]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=46]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Fachbereich IT Klasse: Datum:
+Notizen zu Geschäftspartnern
+Geschäftspartner Die ComputerProfis OHG, Telestraße 12, 18055
+Rostock
+Informationen - Komponenten lassen sich mit vorhandener
+Technik verbinden
+- Standort ist in Rostock
+- Sehr gute Beratung durch die Mitarbeiter
+- Bisherige Beanstandungen wurden ohne
+Probleme bearbeitet
+- Die Komponenten werden unter möglichst
+umweltgerechten Bedingungen hergestellt
+Geschäftspartner PC-Kontor OHG, Rammstraße 12, 80331
+München
+Informationen - Produkte werden durch nachhaltiges
+Produktionsverfahren hergestellt
+- Sehr einfaches Verbinden der Schnittstellen
+mit anderen Geräten
+- Der Standort ist durch die Autobahnanbindung
+schnell zu erreichen
+- Service und die Beratung durch die Mitarbeiter
+waren ohne Beanstandungen
+- Einwandfreies Reklamationsmanagement
+Geschäftspartner E-TopShop KG, Ringstraße 258, 60486
+Frankfurt
+Informationen - Die Produkte der E-TopShop wurden in einer
+Fachzeitschrift unter anderem zu den
+kompatibelsten Komponenten gewählt
+- Haben uns in der Vergangenheit wegen zwei
+Tagen Verspätung bereits eine Mahnung
+geschrieben
+- Bei der Beratung musste mehrmals telefoniert
+werden, da die Erklärung nicht immer eindeutig
+war
+- Das Lager für eventuelle
+Ersatzteile/Kundendienst der E-TopShop KG
+befindet sich in Frankfurt
+- Es ist nicht bekannt wie die Komponenten
+gefertigt werden
+```
+
+### Seite 47
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 47](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=47>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=47]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=47]]
+
+#### Datenschutzsichere Inhaltszusammenfassung
+
+> [!privacy] Rohdaten aus diesem Seitenblock entfernt
+> Personen-, Firmen-, Kontakt-, Bank-, Register- und vergleichbare Identifikationsdaten sowie problematische unkontextualisierte Formulierungen werden nicht an KI-Systeme weitergegeben. Für Zahlen oder Layout ist die lokale Originalseite maßgeblich.
+
+- Visuell bestätigtes Hauptthema: **Angebotsvergleich und Nutzwertanalyse**
+- Kanonische Themen: **Angebotsvergleich und Nutzwertanalyse, Bezugskalkulation und Verkaufskalkulation**
+- Ergänzende Einordnung: Lieferantenangebot 1 (Positionen), Bezugskalkulation
+- Inhaltstyp: beispiel
+
+### Seite 48
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 48](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=48>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=48]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=48]]
+
+#### Datenschutzsichere Inhaltszusammenfassung
+
+> [!privacy] Rohdaten aus diesem Seitenblock entfernt
+> Personen-, Firmen-, Kontakt-, Bank-, Register- und vergleichbare Identifikationsdaten sowie problematische unkontextualisierte Formulierungen werden nicht an KI-Systeme weitergegeben. Für Zahlen oder Layout ist die lokale Originalseite maßgeblich.
+
+- Visuell bestätigtes Hauptthema: **Angebotsvergleich und Nutzwertanalyse**
+- Kanonische Themen: **Angebotsvergleich und Nutzwertanalyse, Bezugskalkulation und Verkaufskalkulation**
+- Ergänzende Einordnung: Lieferantenangebot 1 (Konditionen), Rabatt und Skonto
+- Inhaltstyp: beispiel
+
+### Seite 49
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 49](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=49>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=49]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=49]]
+
+#### Datenschutzsichere Inhaltszusammenfassung
+
+> [!privacy] Rohdaten aus diesem Seitenblock entfernt
+> Personen-, Firmen-, Kontakt-, Bank-, Register- und vergleichbare Identifikationsdaten sowie problematische unkontextualisierte Formulierungen werden nicht an KI-Systeme weitergegeben. Für Zahlen oder Layout ist die lokale Originalseite maßgeblich.
+
+- Visuell bestätigtes Hauptthema: **Angebotsvergleich und Nutzwertanalyse**
+- Kanonische Themen: **Angebotsvergleich und Nutzwertanalyse, Bezugskalkulation und Verkaufskalkulation**
+- Ergänzende Einordnung: Lieferantenangebot 2 (Positionen), Bezugskalkulation
+- Inhaltstyp: beispiel
+
+### Seite 50
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 50](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=50>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=50]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=50]]
+
+#### Datenschutzsichere Inhaltszusammenfassung
+
+> [!privacy] Rohdaten aus diesem Seitenblock entfernt
+> Personen-, Firmen-, Kontakt-, Bank-, Register- und vergleichbare Identifikationsdaten sowie problematische unkontextualisierte Formulierungen werden nicht an KI-Systeme weitergegeben. Für Zahlen oder Layout ist die lokale Originalseite maßgeblich.
+
+- Visuell bestätigtes Hauptthema: **Angebotsvergleich und Nutzwertanalyse**
+- Kanonische Themen: **Angebotsvergleich und Nutzwertanalyse, Bezugskalkulation und Verkaufskalkulation**
+- Ergänzende Einordnung: Lieferantenangebot 2 (Konditionen), Treuerabatt und Versandkosten
+- Inhaltstyp: beispiel
+
+### Seite 51
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 51](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=51>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=51]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=51]]
+
+#### Datenschutzsichere Inhaltszusammenfassung
+
+> [!privacy] Rohdaten aus diesem Seitenblock entfernt
+> Personen-, Firmen-, Kontakt-, Bank-, Register- und vergleichbare Identifikationsdaten sowie problematische unkontextualisierte Formulierungen werden nicht an KI-Systeme weitergegeben. Für Zahlen oder Layout ist die lokale Originalseite maßgeblich.
+
+- Visuell bestätigtes Hauptthema: **Angebotsvergleich und Nutzwertanalyse**
+- Kanonische Themen: **Angebotsvergleich und Nutzwertanalyse, Bezugskalkulation und Verkaufskalkulation**
+- Ergänzende Einordnung: Lieferantenangebot 3 (Positionen), Bezugskalkulation
+- Inhaltstyp: beispiel
+
+### Seite 52
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 52](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=52>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=52]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=52]]
+
+#### Datenschutzsichere Inhaltszusammenfassung
+
+> [!privacy] Rohdaten aus diesem Seitenblock entfernt
+> Personen-, Firmen-, Kontakt-, Bank-, Register- und vergleichbare Identifikationsdaten sowie problematische unkontextualisierte Formulierungen werden nicht an KI-Systeme weitergegeben. Für Zahlen oder Layout ist die lokale Originalseite maßgeblich.
+
+- Visuell bestätigtes Hauptthema: **Angebotsvergleich und Nutzwertanalyse**
+- Kanonische Themen: **Angebotsvergleich und Nutzwertanalyse, Bezugskalkulation und Verkaufskalkulation**
+- Ergänzende Einordnung: Lieferantenangebot 3 (Konditionen), Skonto und Versandkosten
+- Inhaltstyp: beispiel
+
+### Seite 53
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 53](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=53>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=53]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=53]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Fachbereich IT/Elektrotechnik Klasse: Datum:
+Vergleich der Angebote der Lieferanten für die Schnellversand GmbH
+Formel Lieferant: Lieferant: Lieferant:
+E-TopShop Computerprofis PC-Kontor
+Listeneinkaufspreis
+- Liefererrabatt
+= Zieleinkaufspreis
+- Liefererskonto
+= Bareinkaufspreis
++ Bezugskosten
+= Bezugspreis
+5.604,51 EUR
+504,45 EUR
+5.044,06 EUR
+151,32 EUR
+4.892,74 EUR
+0,00 EUR
+4.892,74 EUR
+6.048,36 EUR
+907,25 EUR
+5.141,11 EUR
+0,00 EUR
+5.141,11 EUR
+46,40 EUR
+5.187,51 EUR
+5.134,77 EUR
+0,00 EUR
+5.134,77 EUR
+102,70 EUR
+5.032,07 EUR
+50,00 EUR
+5.082,07 EUR
+```
+
+### Seite 54
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Skript.pdf Seite 54](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=54>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=54]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=54]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Fachbereich IT/Elektrotechnik Klasse: Datum:
+Entscheidungsmatrix für den qualitativen
+Angebotsvergleich der Schnellversand GmbH
+Lieferantenbeurteilung Lieferant: Lieferant: Lieferant:
+Entscheidungskriterien Gewichtung Bewertung Gesamt Bewertung Gesamt Bewertung Gesamt
+Summe der
+vergebenen Punkte
+100
+Rangfolge der
+Lieferanten
+Begründung für die Auswahl des Lieferanten und Entscheidung gegen die restlichen Lieferanten:
+________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________
+Computerprofis PC-Kontor E-TopShop
+Kompatibilität 25
+Standort/Erreichbarkeit 15
+Beratung/Service 20
+Reklamationsmanagement 15
+Nachhaltigkeit 15
+Zahlungsbedingungen 10
+4 100
+1 15
+5 100
+5 75
+4 60
+3 30
+380
+5 125
+5 75
+4 80
+5 75
+5 75
+2 20
+450
+5 125
+3 45
+2 40
+2 30
+1 15
+5 50
+305
+2. Rang 1. Rang 3. Rang
+Auswahl: PC-Kontor. Mit 450 Punkten erzielt der Lieferant die beste qualitative Gesamtbewertung.
+Besonders stark sind Kompatibilität, Erreichbarkeit, Reklamationsmanagement und Nachhaltigkeit.
+E-TopShop ist zwar preislich am günstigsten, schneidet bei Beratung, Kulanz und Nachhaltigkeit aber schwach ab.
+```

@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [4–6](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=4>) | formular, theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [4–6](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=4>) | formular, theorie | 1 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

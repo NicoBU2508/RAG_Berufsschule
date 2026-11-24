@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **IPv4 Subnetting und Binaerzahlen** im Fach **ITT IT-Technik**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2|Netzwerkt S. 2]]; [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=3|Netzwerkt S. 3]]; [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7|Netzwerkt S. 7]]; [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8|Netzwerkt S. 8]]; [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=9|Netzwerkt S. 9]]; [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10|Netzwerkt S. 10]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2|Netzwerkt S. 2]]; [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=3|Netzwerkt S. 3]]; [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7|Netzwerkt S. 7]]; [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8|Netzwerkt S. 8]]; [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9|Netzwerkt S. 9]]; [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10|Netzwerkt S. 10]].
 > - **Zentrale Suchbegriffe:** IPv4, Subnetting, Binaerzahlen, Vernetze, Systeme, IPv4-Adressen.
 > - **Prüfungsbezug:** AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -54,14 +54,14 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2>) | Vernetze Systeme | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=3>) | Vernetze Systeme | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=9>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=11>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=12>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2>) | Vernetze Systeme | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=3>) | Vernetze Systeme | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=11>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=12>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -70,11 +70,11 @@ tags:
 #### Seite 2: Vernetze Systeme
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2]]`
+> - PDF: [Netzwerkt.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Vernetze Systeme Jgst. 10 BS 1 Ingolstadt 14.11.24 pima Die Binäruhr Binärzahlen sind in der IT enorm wichtig, z.B. für das Verständnis von IPv4-Adressen oder zur Entschlüsselung der über ein Netzwerk verschickten Daten. Darum beschäftigen Sie sich nun mit diesem Zahlensystem. Es gibt hier nur 2 Ziffern: 0 und 1. So ist z.B. 1+1=10. Anhand des folgenden Beispiels erarbeiten Sie sich alle wichtigen Informationen zu diesem Zahlensystem. Zeichen Sie eine Momentaufnahme der im Browser gezeigten Uhr auf Ihr Blatt. Wofür stehen die 3 Bereiche? __________________________________________________________________________________ Der rechte Bereich wird schnell hochgezählt. Nun sollten Sie versuchen da …
@@ -180,11 +180,11 @@ immer
 #### Seite 3: Vernetze Systeme
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=3]]`
+> - PDF: [Netzwerkt.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Vernetze Systeme Jgst. 10 BS 1 Ingolstadt 14.11.24 pima Wichtige Informationen zu den 1. 8 Stellen. Füllen Sie die Tabelle aus. Nr. der Stelle 1 Wert der Stelle Wert der Stelle in Potenzschreibweise Höchste mögliche Dezimalzahl bis zu der jeweiligen Stelle Anzahl der möglichen Binärzahlen(-kombinationen) bis zu der jeweiligen Stelle Anzahl der möglichen Binär- zahlen bis zu der jeweiligen Stelle in Potenzschreibweise Im Bereich der IT werden die einzelnen binären Stellen als Bit (b) bezeichnet. 4 Bit ergeben ein Halbbyte oder Nibble. 8 Bit werden Byte (B) genannt. Um die Lesbarkeit zu erhöhen, schreiben Sie bitte 8 Bit in der im Folgenden dargestellten Weise. Rechnen Sie die folgenden Bi …
@@ -290,11 +290,11 @@ ________________________________________________________________________________
 #### Seite 7: IPv4-Adressen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7]]`
+> - PDF: [Netzwerkt.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ITS: IPv4-Adressen BS1 IN otma (wo) 20.03.2024 IPv4-Adresse und Subnet-Maske Eine IP-Adresse (IP-Version 4) besteht aus 32 Bit und wird aus zwei Teilen zusammengesetzt: - dem Netz-teil (Netz-ID) und - dem Host-teil (Host-ID). 0 31 Bit Nr. Netz-ID Host-ID IP-Adresse Subnet-Maske 1111 .... 11111 00000 .... 000000 0 31 Die Subnet-Maske trennt den Netzteil vom Hostteil der IP-Adresse. Sie besteht ebenfalls aus 32 Bit. Die Bit-Stellen, an denen die Subnet-Maske eine binäre 1 besitzt, gehören bei der IP-Adresse zur Netz-ID. Die Bit-Stellen, an denen die Subnet-Maske eine binäre 0 besitzt, gehören bei der IP-Adresse zur Host-ID. Die Subnet-Maske beginnt mit 1en für Netz-Bits danach stehen nur 0en f …
@@ -388,11 +388,11 @@ enthält mindestens eine 1und eine O
 #### Seite 8: IPv4-Adressen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8]]`
+> - PDF: [Netzwerkt.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ITS: IPv4-Adressen BS1 IN otma (wo) 20.03.2024 Aufgaben: Lösen Sie die folgenden Aufgaben, indem Sie die angegebenen IP-Adressen und Subnet-Masken binär darstellen! 1.) Welche Adresse ist eine gültige Host-Adresse (d.h. weder Broadcast- noch Netz-Adresse): a) 17.128.0.0/9 b) 17.129.0.0/9 c) 17.0.0.0/9 d) 17.127.255.255/9 e) 17.255.255.255/9 a) IP-Adresse dezimal 17 128 0 0 IP-Adresse binär 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Subnet-Maske binär 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Subnet-Maske dezimal 255 128 0 0 b) IP-Adresse dezimal IP-Adresse binär Subnet-Maske binär Subnet-Maske dezimal c) IP-Adresse dezimal IP-Adresse binär Subnet-Ma …
@@ -611,11 +611,11 @@ der
 #### Seite 9: IPv4-Adressen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=9]]`
+> - PDF: [Netzwerkt.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=9]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ITS: IPv4-Adressen BS1 IN otma (wo) 20.03.2024 IP-Adressklassen Klasse IP-Adressbereich (binär) von - bis IP-Adressbereich (dezimal) von - bis Standard Subnet- Maske A 00000000 00000000 00000000 00000000 - 01111111 11111111 11111111 11111111 255.0.0.0 (/ ) B 10000000 00000000 00000000 00000000 - 10111111 11111111 11111111 11111111 255.255.0.0 (/ ) C 11000000 00000000 00000000 00000000 - 11011111 11111111 11111111 11111111 255.255.255.0(/ ) D 11100000 00000000 00000000 00000000 - 11101111 11111111 11111111 11111111 Multicastbereich (/ ) E 11110000 00000000 00000000 00000000 - 11111111 11111111 11111111 11111111 Experimentell (/ ) 1.) Ergänzen Sie die Adressbereiche der einzelnen Klassen in ge …
@@ -784,11 +784,11 @@ erkant
 #### Seite 10: IPv4-Adressen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10]]`
+> - PDF: [Netzwerkt.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ITS: IPv4-Adressen BS1 IN otma (wo) 20.03.2024 Aufgaben: Lösen Sie die folgenden Aufgaben, indem Sie die angegebenen IP-Adressen und Subnet-Masken binär darstellen! 1.) Welche Host-Adresse wird nicht im Internet geroutet und ist nur im LAN gültig? a) 9.15.0.255 b) 10.255.255.254 c) 126.0.0.1 d) 191.168.255.245 e) 172.165.10.1 2.) Welche Adresse ist eine Multicast-Adresse? a) 222.0.0.1 b) 223.10.0.0 c) 224.200.10.0 d) 220.224.0.1 e) 124.1.2.0 3.) Welche Adresse ist eine private Klasse B-Hostadresse? a) 172.15.16.31 b) 172.28.0.0 c) 172.30.28.2 d) 172.32.0.1 4.) Welche Subnet-Maske ist ungültig? a) 255.240.0.0 b) 255.255.280.0 c) 255.255.255.248 d) 255.128.0.0 e) 224.0.0.0 5.) Welche Host-Adre …
@@ -870,11 +870,11 @@ X
 #### Seite 11: IPv4-Adressen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=11]]`
+> - PDF: [Netzwerkt.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=11]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ITS: IPv4-Adressen BS1 IN otma (wo) 20.03.2024 Wie kann ich IPv4-Adressen besser verstehen? Ich könnte folgendermaßen vorgehen: ✓ IP-Adresse dezimal und binär angeben ✓ Subnet-Maske dezimal und binär angeben ✓ Trennung zwischen Netz-ID und Host-ID der IP-Adresse einzeichnen ✓ zutreffende Aussagen zu Adress-Art, Adress-Klasse, öffentliche bzw. private Adresse machen Beispiel zu 17.128.0.0/9 IP-Adresse dezimal 17 128 0 0 IP-Adresse binär 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Subnet-Maske binär 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Subnet-Maske dezimal 255 128 0 0 O Host-Adresse O Klasse A O öffentliche IP-Adresse O Netz-Adresse O Klasse B O p …
@@ -999,11 +999,11 @@ Host-ID
 #### Seite 12: IPv4-Adressen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=12]]`
+> - PDF: [Netzwerkt.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=12]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ITS: IPv4-Adressen BS1 IN otma (wo) 20.03.2024 IP-Adresse dezimal IP-Adresse binär Subnet-Maske binär Subnet-Maske dezimal O Host-Adresse O Klasse A O öffentliche IP-Adresse O Netz-Adresse O Klasse B O private IP-Adresse O Broadcast-Adresse O Klasse C O Klasse D O Klasse E IP-Adresse dezimal IP-Adresse binär Subnet-Maske binär Subnet-Maske dezimal O Host-Adresse O Klasse A O öffentliche IP-Adresse O Netz-Adresse O Klasse B O private IP-Adresse O Broadcast-Adresse O Klasse C O Klasse D O Klasse E IP-Adresse dezimal IP-Adresse binär Subnet-Maske binär Subnet-Maske dezimal O Host-Adresse O Klasse A O öffentliche IP-Adresse O Netz-Adresse O Klasse B O private IP-Adresse O Broadcast-Adresse O Kla …
@@ -1128,7 +1128,7 @@ O Klasse E
 - Frage:: Was ist der Kernpunkt zu **Vernetze Systeme** laut Quelle?
 - Antwort:: 10 BS 1 Ingolstadt 14.11.24 pima Die Binäruhr Binärzahlen sind in der IT enorm wichtig, z.B. für das Verständnis von IPv4-Adressen oder zur Entschlüsselung der über ein Netzwerk verschickten Daten.
 - Beleg:: 10 BS 1 Ingolstadt 14.11.24 pima Die Binäruhr Binärzahlen sind in der IT enorm wichtig, z.B. für das Verständnis von IPv4-Adressen oder zur Entschlüsselung der über ein Netzwerk verschickten Daten.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2|Netzwerkt S. 2]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2|Netzwerkt S. 2]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1136,7 +1136,7 @@ O Klasse E
 - Frage:: Was ist der Kernpunkt zu **IPv4-Adressen** laut Quelle?
 - Antwort:: Die Adresse des Netzes in der sich eine gegebene IP-Adresse befindet, kann auch durch eine bitweise UND-Verknüpfung von IP-Adresse und Subnet-Maske errechnet werden: Netz=IP UND Maske Ist die 1.
 - Beleg:: Die Adresse des Netzes in der sich eine gegebene IP-Adresse befindet, kann auch durch eine bitweise UND-Verknüpfung von IP-Adresse und Subnet-Maske errechnet werden: Netz=IP UND Maske Ist die 1.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7|Netzwerkt S. 7]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7|Netzwerkt S. 7]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1144,7 +1144,7 @@ O Klasse E
 - Frage:: Was ist der Kernpunkt zu **IPv4-Adressen** laut Quelle?
 - Antwort:: Die gebräuchlichste (aber nicht die klarste) Darstellung von IP-Adressen ist die gepunktete Dezimaldarstellung: Die IP-Adresse wird in 4 Gruppen zu je 8-Bit (Oktette) aufgeteilt.
 - Beleg:: Die gebräuchlichste (aber nicht die klarste) Darstellung von IP-Adressen ist die gepunktete Dezimaldarstellung: Die IP-Adresse wird in 4 Gruppen zu je 8-Bit (Oktette) aufgeteilt.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7|Netzwerkt S. 7]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7|Netzwerkt S. 7]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1152,7 +1152,7 @@ O Klasse E
 - Frage:: Was ist der Kernpunkt zu **IPv4-Adressen** laut Quelle?
 - Antwort:: 1.) Welche Adresse ist eine gültige Host-Adresse (d.h. weder Broadcast- noch Netz-Adresse):
 - Beleg:: 1.) Welche Adresse ist eine gültige Host-Adresse (d.h. weder Broadcast- noch Netz-Adresse):
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8|Netzwerkt S. 8]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8|Netzwerkt S. 8]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1160,7 +1160,7 @@ O Klasse E
 - Frage:: Welche Vorgabe nennt die Quelle zu **IPv4-Adressen**?
 - Antwort:: 255: 255 Für alle unbekannten Netzwerkadressen beim Routing und falls seine Hostadresse einem Hust nicht bekannt ist (DHCP) Dieser Adressbereich darf nicht im Internet genutzt weder Hostadressen aus diesem Bereich weisen heute auf ein Problem in der Netzwekkonfiguration hin.
 - Beleg:: 255: 255 Für alle unbekannten Netzwerkadressen beim Routing und falls seine Hostadresse einem Hust nicht bekannt ist (DHCP) Dieser Adressbereich darf nicht im Internet genutzt weder Hostadressen aus diesem Bereich weisen heute auf ein Problem in der Netzwekkonfiguration hin.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=9|Netzwerkt S. 9]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9|Netzwerkt S. 9]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1168,7 +1168,7 @@ O Klasse E
 - Frage:: Was ist der Kernpunkt zu **IPv4-Adressen** laut Quelle?
 - Antwort:: Das Netzwerk ist lokal auf einen PC beschränkt Zimmer Blöcke umrechnen da in I 0 .
 - Beleg:: Das Netzwerk ist lokal auf einen PC beschränkt Zimmer Blöcke umrechnen da in I 0 .
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=9|Netzwerkt S. 9]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9|Netzwerkt S. 9]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1176,7 +1176,7 @@ O Klasse E
 - Frage:: Was ist der Kernpunkt zu **IPv4-Adressen** laut Quelle?
 - Antwort:: 1.) Welche Host-Adresse wird nicht im Internet geroutet und ist nur im LAN gültig? a) 9.15.0.255 b) 10.255.255.254 c) 126.0.0.1 d) 191.168.255.245 e) 172.165.10.1
 - Beleg:: 1.) Welche Host-Adresse wird nicht im Internet geroutet und ist nur im LAN gültig? a) 9.15.0.255 b) 10.255.255.254 c) 126.0.0.1 d) 191.168.255.245 e) 172.165.10.1
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10|Netzwerkt S. 10]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10|Netzwerkt S. 10]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1184,7 +1184,7 @@ O Klasse E
 - Frage:: Was ist der Kernpunkt zu **IPv4-Adressen** laut Quelle?
 - Antwort:: Subnetting Unterteilen eines bestehenden Netztes in Teilnetze Vorgehen: Die Netz-ID wird durch Bits der Host-ID erweitert d.h. die max.
 - Beleg:: Subnetting Unterteilen eines bestehenden Netztes in Teilnetze Vorgehen: Die Netz-ID wird durch Bits der Host-ID erweitert d.h. die max.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10|Netzwerkt S. 10]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10|Netzwerkt S. 10]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

@@ -2,7 +2,7 @@
 typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
-original_pfad: "99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf"
+original_pfad: "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf"
 seiten: 4
 pruefung: "AP1, WiSo"
 cssclasses:
@@ -23,7 +23,7 @@ textzeichen: 5496
 # 📄 Stol Aufgabenblatt mogliche Losung
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
-> - **Original-PDF:** [Aufgabenblatt - mögliche Lösung.pdf](<99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf>)
+> - **Original-PDF:** [Aufgabenblatt - mögliche Lösung.pdf](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf>)
 > - **Seiten:** 4
 > - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=3, partial=1)
 > - **Aktive Lernquelle:** ja
@@ -47,11 +47,11 @@ textzeichen: 5496
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Aufgabenblatt - mögliche Lösung.pdf Seite 1](<99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1]]`
+> - PDF-Seite: [Aufgabenblatt - mögliche Lösung.pdf Seite 1](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=1]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -117,11 +117,11 @@ bzw. -datei.
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Aufgabenblatt - mögliche Lösung.pdf Seite 2](<99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=2]]`
+> - PDF-Seite: [Aufgabenblatt - mögliche Lösung.pdf Seite 2](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -193,11 +193,11 @@ Bessere Alternativen wie kürzere Lieferzeiten oder günstigere Preise
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Aufgabenblatt - mögliche Lösung.pdf Seite 3](<99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=3]]`
+> - PDF-Seite: [Aufgabenblatt - mögliche Lösung.pdf Seite 3](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -232,11 +232,11 @@ AV :
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Aufgabenblatt - mögliche Lösung.pdf Seite 4](<99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=4]]`
+> - PDF-Seite: [Aufgabenblatt - mögliche Lösung.pdf Seite 4](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 

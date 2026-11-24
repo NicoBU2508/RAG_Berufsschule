@@ -2,15 +2,15 @@
 id: vault.thema.visuell.ohmsches.gesetz.und.leiterwiderstand
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Ohmsches Gesetz und Leiterwiderstand"
 kategorie: Elektrotechnik
-quellen: 1
-seiten: 8
+quellen: 3
+seiten: 10
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,9 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [56–63](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=56>) | loesung | 8 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT\|Grundausbildung_IT]] | [1](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=1>) | theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung\|IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung]] | [5](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf#page=5>) | loesung | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [56–63](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=56>) | loesung | 8 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

@@ -1,0 +1,519 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md (Seiten 1–18)",
+  "replaces_existing": false,
+  "topic_categories": {
+    "Cyberphysische Systeme und Automatisierungspyramide": "IT_Technik_und_Sicherheit",
+    "Node-RED und IoT-Flows": "IT_Technik_und_Sicherheit",
+    "OSI-Schichtenmodell": "IT_Technik_und_Sicherheit",
+    "Digitaltechnik und Logikschaltungen": "IT_Technik_und_Sicherheit"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 2,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": true,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 4,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+          "IT-Sicherheit Grundlagen"
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide",
+          "IT-Sicherheit Grundlagen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 7,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 8,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 9,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 10,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 11,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 12,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+          "IT-Sicherheit Grundlagen"
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide",
+          "IT-Sicherheit Grundlagen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 13,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+          "OSI-Schichtenmodell"
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide",
+          "OSI-Schichtenmodell"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 14,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+          "Digitaltechnik und Logikschaltungen",
+          "EVA-Prinzip"
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide",
+          "Digitaltechnik und Logikschaltungen",
+          "EVA-Prinzip"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 15,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Cyberphysische Systeme und Automatisierungspyramide",
+        "secondary_topics": [
+          "Node-RED und IoT-Flows"
+        ],
+        "recommended_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide",
+          "Node-RED und IoT-Flows"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 16,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Elektrische Leistung",
+        "secondary_topics": [
+          "Elektrische Arbeit und Energiekosten",
+          "Netzteil-Wirkungsgrad und 80 PLUS",
+          "Cyberphysische Systeme und Automatisierungspyramide"
+        ],
+        "recommended_topics": [
+          "Elektrische Leistung",
+          "Elektrische Arbeit und Energiekosten",
+          "Netzteil-Wirkungsgrad und 80 PLUS",
+          "Cyberphysische Systeme und Automatisierungspyramide"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 17,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Elektrische Leistung",
+        "secondary_topics": [
+          "Elektrische Arbeit und Energiekosten",
+          "Netzteil-Wirkungsgrad und 80 PLUS",
+          "Cyberphysische Systeme und Automatisierungspyramide"
+        ],
+        "recommended_topics": [
+          "Elektrische Leistung",
+          "Elektrische Arbeit und Energiekosten",
+          "Netzteil-Wirkungsgrad und 80 PLUS",
+          "Cyberphysische Systeme und Automatisierungspyramide"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf",
+      "page": 18,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Node-RED und IoT-Flows",
+        "secondary_topics": [
+          "Cyberphysische Systeme und Automatisierungspyramide",
+          "IPv4-Adressierung und Subnetting"
+        ],
+        "recommended_topics": [
+          "Node-RED und IoT-Flows",
+          "Cyberphysische Systeme und Automatisierungspyramide",
+          "IPv4-Adressierung und Subnetting"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    }
+  ]
+}

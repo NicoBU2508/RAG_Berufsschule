@@ -2,8 +2,8 @@
 typ: quelle
 fach: "Religion"
 fach_anzeige: "Religion"
-original_pfad: "99_Originale/Berufsschule/Religion/Reli Notizen.pdf"
-seiten: 6
+original_pfad: "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf"
+seiten: 7
 pruefung: "WiSo"
 cssclasses:
   - lernquelle
@@ -12,23 +12,23 @@ tags:
   - quelle
   - religion
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-07-13"
+seitenaudit_datum: "2026-11-23"
 kanonische_referenzen: true
 kanonische_themen: 6
-seiten_mit_kanonischem_thema: 5
+seiten_mit_kanonischem_thema: 6
 ki_exclude_seiten: [1]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 ki_sensitive_seiten: [2]
 lernstatus: "aktiv"
-textstatus: "eingeschränkt: visuell geprüft (redacted_summary=1, ocr_error=4)"
-textzeichen: 2878
+textstatus: "eingeschränkt: visuell geprüft (ocr_verified=1, redacted_summary=1, ocr_error=4)"
+textzeichen: 3160
 ---
 # 📄 Reli Notizen
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/Religion/Religion|Religion]]
-> - **Original-PDF:** [Reli Notizen.pdf](<99_Originale/Berufsschule/Religion/Reli Notizen.pdf>)
-> - **Seiten:** 6
-> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (redacted_summary=1, ocr_error=4)
+> - **Original-PDF:** [Reli Notizen.pdf](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf>)
+> - **Seiten:** 7
+> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=1, redacted_summary=1, ocr_error=4)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -40,7 +40,7 @@ textzeichen: 2878
 | [[03_Themen/Visuell_geprueft/Religion_Ethik/Karwoche und Kirchenjahr\|Karwoche und Kirchenjahr]] | Prüfungsrahmen der Quelle | 6 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Religion_Ethik/Nelson Mandela und Vorbilder\|Nelson Mandela und Vorbilder]] | Prüfungsrahmen der Quelle | 5 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Religion_Ethik/Religion Ethik und Menschenbild\|Religion Ethik und Menschenbild]] | Prüfungsrahmen der Quelle | 2 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/Religion_Ethik/Symbole und Glaube\|Symbole und Glaube]] | Prüfungsrahmen der Quelle | 2 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Religion_Ethik/Symbole und Glaube\|Symbole und Glaube]] | Prüfungsrahmen der Quelle | 2, 7 | Visuell bestätigt auf 2 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
 
@@ -62,11 +62,11 @@ textzeichen: 2878
 
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Reli Notizen.pdf Seite 2](<99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2]]`
+> - PDF-Seite: [Reli Notizen.pdf Seite 2](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2]]
 
 #### Datenschutzsichere Inhaltszusammenfassung
 
@@ -81,11 +81,11 @@ textzeichen: 2878
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Reli Notizen.pdf Seite 3](<99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=3]]`
+> - PDF-Seite: [Reli Notizen.pdf Seite 3](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=3]]
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -174,11 +174,11 @@ Hinweis auf Gott
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Reli Notizen.pdf Seite 4](<99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=4]]`
+> - PDF-Seite: [Reli Notizen.pdf Seite 4](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=4]]
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -296,11 +296,11 @@ München
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Reli Notizen.pdf Seite 5](<99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=5]]`
+> - PDF-Seite: [Reli Notizen.pdf Seite 5](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=5]]
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -332,11 +332,11 @@ nur auf das wesentliche Fokussieren
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Reli Notizen.pdf Seite 6](<99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=6]]`
+> - PDF-Seite: [Reli Notizen.pdf Seite 6](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=6]]
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -400,3 +400,36 @@ Frauen
 Emausgang
 ```
 
+### Seite 7
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Reli Notizen.pdf Seite 7](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=7]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=7]]
+
+> [!ocr] Visuell transkribiert
+> Handschriftliche zweispaltige Übersicht „Jesus“ (Titel/Bilder Jesu mit Bibelstellen) aus Sichtprüfung bereinigt. Die eingebettete Originalseite bleibt maßgeblich.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Jesus (Hoheitstitel und Bilder Jesu)
+
+Linke Spalte:
+- Sohn Gottes
+- Messias (Jo 1,41)
+- Retter
+- König der Juden
+- Erlöser (handschriftl. Bibelstelle: Jo 14,9 / 14,7)
+- Christus (Mat 16,16)
+
+Rechte Spalte:
+- Lamm Gottes
+- Hirte (Jo 10,11)
+- Weinstock (Jo 15,1)
+- Heil
+- Herr
+- Rabbi
+```

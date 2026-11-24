@@ -1,0 +1,2242 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md (Seiten 1–71)",
+  "replaces_existing": false,
+  "topic_categories": {
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+
+        ],
+        "content_type": "index",
+        "source_text_match": "ok",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 2,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "recommended_topics": [
+
+        ],
+        "content_type": "index",
+        "source_text_match": "ok",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Java-Grundlagen",
+        "secondary_topics": [
+          "Unternehmenswiki",
+          "Programm und Software",
+          "Inhaltsverzeichnis"
+        ],
+        "recommended_topics": [
+          "Java-Grundlagen",
+          "Programm und Software",
+          "Programmiersprachen und Übersetzer",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 4,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Programmiersprachen und Übersetzer",
+        "secondary_topics": [
+          "Java",
+          "IDE",
+          "Compiler",
+          "Bytecode",
+          "JVM",
+          "JDK"
+        ],
+        "recommended_topics": [
+          "Entwicklungswerkzeuge und Debugging",
+          "Java-Grundlagen",
+          "Programmiersprachen und Übersetzer",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Programmiersprachen und Übersetzer",
+        "secondary_topics": [
+          "API",
+          "Editor",
+          "Compiler",
+          "Bytecode",
+          "JVM"
+        ],
+        "recommended_topics": [
+          "Entwicklungswerkzeuge und Debugging",
+          "Java-Grundlagen",
+          "Programmiersprachen und Übersetzer",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Programmiersprachen und Übersetzer",
+        "secondary_topics": [
+          "JVM",
+          "JRE",
+          "Interpreter",
+          "Compiler"
+        ],
+        "recommended_topics": [
+          "Entwicklungswerkzeuge und Debugging",
+          "Java-Grundlagen",
+          "Programmiersprachen und Übersetzer",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 7,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Programmiersprachen und Übersetzer",
+        "secondary_topics": [
+          "Zweistufige Übersetzung",
+          "Compiler",
+          "Interpreter",
+          "Bytecode"
+        ],
+        "recommended_topics": [
+          "Java-Grundlagen",
+          "Programmiersprachen und Übersetzer",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 8,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Java-Grundlagen",
+        "secondary_topics": [
+          "JVM",
+          "Plattformunabhängigkeit",
+          "Eclipse",
+          "IDE"
+        ],
+        "recommended_topics": [
+          "Entwicklungswerkzeuge und Debugging",
+          "Java-Grundlagen",
+          "Programmiersprachen und Übersetzer",
+          "Unternehmenswiki"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 9,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Java-Grundlagen",
+        "secondary_topics": [
+          "IDE",
+          "Eclipse",
+          "Lego Mindstorms",
+          "Unternehmenswiki"
+        ],
+        "recommended_topics": [
+          "Entwicklungswerkzeuge und Debugging",
+          "Java-Grundlagen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 10,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Java-Grundlagen",
+        "secondary_topics": [
+          "IDE",
+          "Eclipse",
+          "Lego Mindstorms",
+          "Unternehmenswiki"
+        ],
+        "recommended_topics": [
+          "Entwicklungswerkzeuge und Debugging",
+          "Java-Grundlagen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 11,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Java-Grundlagen",
+        "secondary_topics": [
+          "IDE",
+          "Eclipse",
+          "Lego Mindstorms",
+          "Unternehmenswiki"
+        ],
+        "recommended_topics": [
+          "Entwicklungswerkzeuge und Debugging",
+          "Java-Grundlagen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 12,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Java-Grundlagen",
+        "secondary_topics": [
+          "IDE",
+          "Eclipse",
+          "Lego Mindstorms",
+          "Unternehmenswiki"
+        ],
+        "recommended_topics": [
+          "Entwicklungswerkzeuge und Debugging",
+          "Java-Grundlagen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 13,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Java-Grundlagen",
+        "secondary_topics": [
+          "IDE",
+          "Eclipse",
+          "Lego Mindstorms",
+          "Unternehmenswiki"
+        ],
+        "recommended_topics": [
+          "Entwicklungswerkzeuge und Debugging",
+          "Java-Grundlagen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 14,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Java-Grundlagen",
+        "secondary_topics": [
+          "IDE",
+          "Eclipse",
+          "Lego Mindstorms",
+          "Unternehmenswiki"
+        ],
+        "recommended_topics": [
+          "Entwicklungswerkzeuge und Debugging",
+          "Java-Grundlagen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 15,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Java-Grundlagen",
+        "secondary_topics": [
+          "class",
+          "main-Methode",
+          "Codeblock",
+          "Lego Mindstorms"
+        ],
+        "recommended_topics": [
+          "Entwicklungswerkzeuge und Debugging",
+          "Java-Grundlagen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 16,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Java-Grundlagen",
+        "secondary_topics": [
+          "main-Methode",
+          "public static void",
+          "System.out.println"
+        ],
+        "recommended_topics": [
+          "Java-Grundlagen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 17,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Java-Grundlagen",
+        "secondary_topics": [
+          "Kommentare",
+          "Syntax",
+          "Bezeichner"
+        ],
+        "recommended_topics": [
+          "Java-Grundlagen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 18,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Variablen und Datentypen",
+        "secondary_topics": [
+          "Syntax",
+          "Bezeichner",
+          "Unternehmenswiki"
+        ],
+        "recommended_topics": [
+          "Java-Grundlagen",
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 19,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Variablen und Datentypen",
+        "secondary_topics": [
+          "Deklaration",
+          "Initialisierung",
+          "Variablenarten",
+          "Unternehmenswiki"
+        ],
+        "recommended_topics": [
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 20,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Variablen und Datentypen",
+        "secondary_topics": [
+          "Deklaration",
+          "Initialisierung",
+          "Variablenarten",
+          "Unternehmenswiki"
+        ],
+        "recommended_topics": [
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 21,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Variablen und Datentypen",
+        "secondary_topics": [
+          "Deklaration",
+          "Initialisierung",
+          "Variablenarten",
+          "Unternehmenswiki"
+        ],
+        "recommended_topics": [
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 22,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Variablen und Datentypen",
+        "secondary_topics": [
+          "Deklaration",
+          "Initialisierung",
+          "Variablenarten",
+          "Unternehmenswiki"
+        ],
+        "recommended_topics": [
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 23,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Variablen und Datentypen",
+        "secondary_topics": [
+          "Deklaration",
+          "Initialisierung",
+          "Variablenarten",
+          "Unternehmenswiki"
+        ],
+        "recommended_topics": [
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 24,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Variablen und Datentypen",
+        "secondary_topics": [
+          "Primitive Datentypen",
+          "Komplexe Datentypen",
+          "Wertebereiche"
+        ],
+        "recommended_topics": [
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 25,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Variablen und Datentypen",
+        "secondary_topics": [
+          "Primitive Datentypen",
+          "Komplexe Datentypen",
+          "Wertebereiche"
+        ],
+        "recommended_topics": [
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 26,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Variablen und Datentypen",
+        "secondary_topics": [
+          "Primitive Datentypen",
+          "Komplexe Datentypen",
+          "Wertebereiche"
+        ],
+        "recommended_topics": [
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 27,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Variablen und Datentypen",
+        "secondary_topics": [
+          "Primitive Datentypen",
+          "Komplexe Datentypen",
+          "Wertebereiche"
+        ],
+        "recommended_topics": [
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 28,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Operatoren und Bedingungen",
+        "secondary_topics": [
+          "String-Verkettung",
+          "Konkatenation",
+          "Variablen"
+        ],
+        "recommended_topics": [
+          "Operatoren und Bedingungen",
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 29,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Variablen und Datentypen",
+        "secondary_topics": [
+          "Konstanten",
+          "Typkompatibilität",
+          "Typkonversion"
+        ],
+        "recommended_topics": [
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 30,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Operatoren und Bedingungen",
+        "secondary_topics": [
+          "Arithmetische Operatoren",
+          "Modulo",
+          "Inkrement",
+          "Dekrement"
+        ],
+        "recommended_topics": [
+          "Operatoren und Bedingungen",
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 31,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Operatoren und Bedingungen",
+        "secondary_topics": [
+          "Arithmetische Operatoren",
+          "Modulo",
+          "Inkrement",
+          "Dekrement"
+        ],
+        "recommended_topics": [
+          "Operatoren und Bedingungen",
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 32,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Operatoren und Bedingungen",
+        "secondary_topics": [
+          "Arithmetische Operatoren",
+          "Modulo",
+          "Inkrement",
+          "Dekrement"
+        ],
+        "recommended_topics": [
+          "Operatoren und Bedingungen",
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 33,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Operatoren und Bedingungen",
+        "secondary_topics": [
+          "Arithmetische Operatoren",
+          "Modulo",
+          "Inkrement",
+          "Dekrement"
+        ],
+        "recommended_topics": [
+          "Operatoren und Bedingungen",
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 34,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Objektorientierung",
+        "secondary_topics": [
+          "Prozedurale vs. objektorientierte Programmierung",
+          "Klassen",
+          "Objekte",
+          "Modulo"
+        ],
+        "recommended_topics": [
+          "Objektorientierung",
+          "Operatoren und Bedingungen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 35,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Objektorientierung",
+        "secondary_topics": [
+          "Klassen",
+          "Objekte",
+          "Instanziierung",
+          "Attribute"
+        ],
+        "recommended_topics": [
+          "Objektorientierung",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 36,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Objektorientierung",
+        "secondary_topics": [
+          "Klassen",
+          "Objekte",
+          "Instanziierung",
+          "Attribute"
+        ],
+        "recommended_topics": [
+          "Objektorientierung",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 37,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Objektorientierung",
+        "secondary_topics": [
+          "Klassen",
+          "Objekte",
+          "Instanziierung",
+          "Attribute"
+        ],
+        "recommended_topics": [
+          "Objektorientierung",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 38,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Objektorientierung",
+        "secondary_topics": [
+          "Klassen",
+          "Objekte",
+          "Instanziierung",
+          "Attribute"
+        ],
+        "recommended_topics": [
+          "Objektorientierung",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 39,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Objektorientierung",
+        "secondary_topics": [
+          "Attribute",
+          "Methoden",
+          "Zustand und Verhalten"
+        ],
+        "recommended_topics": [
+          "Methoden, Parameter und Rückgabewerte",
+          "Objektorientierung",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 40,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Methoden, Parameter und Rückgabewerte",
+        "secondary_topics": [
+          "Objektorientierung",
+          "Prozeduren",
+          "Funktionen",
+          "Parameter",
+          "Rückgabewerte"
+        ],
+        "recommended_topics": [
+          "Methoden, Parameter und Rückgabewerte",
+          "Objektorientierung",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 41,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Methoden, Parameter und Rückgabewerte",
+        "secondary_topics": [
+          "Objektorientierung",
+          "Prozeduren",
+          "Funktionen",
+          "Parameter",
+          "Rückgabewerte"
+        ],
+        "recommended_topics": [
+          "Methoden, Parameter und Rückgabewerte",
+          "Objektorientierung",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 42,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Methoden, Parameter und Rückgabewerte",
+        "secondary_topics": [
+          "Objektorientierung",
+          "Prozeduren",
+          "Funktionen",
+          "Parameter",
+          "Rückgabewerte"
+        ],
+        "recommended_topics": [
+          "Methoden, Parameter und Rückgabewerte",
+          "Objektorientierung",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 43,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Methoden, Parameter und Rückgabewerte",
+        "secondary_topics": [
+          "Objektorientierung",
+          "Prozeduren",
+          "Funktionen",
+          "Parameter",
+          "Rückgabewerte"
+        ],
+        "recommended_topics": [
+          "Methoden, Parameter und Rückgabewerte",
+          "Objektorientierung",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 44,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Methoden, Parameter und Rückgabewerte",
+        "secondary_topics": [
+          "Objektorientierung",
+          "Prozeduren",
+          "Funktionen",
+          "Parameter",
+          "Rückgabewerte"
+        ],
+        "recommended_topics": [
+          "Methoden, Parameter und Rückgabewerte",
+          "Objektorientierung",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 45,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Methoden, Parameter und Rückgabewerte",
+        "secondary_topics": [
+          "Objektorientierung",
+          "Prozeduren",
+          "Funktionen",
+          "Parameter",
+          "Rückgabewerte"
+        ],
+        "recommended_topics": [
+          "Methoden, Parameter und Rückgabewerte",
+          "Objektorientierung",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 46,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Methoden, Parameter und Rückgabewerte",
+        "secondary_topics": [
+          "Objektorientierung",
+          "Prozeduren",
+          "Funktionen",
+          "Parameter",
+          "Rückgabewerte"
+        ],
+        "recommended_topics": [
+          "Methoden, Parameter und Rückgabewerte",
+          "Objektorientierung",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 47,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Methoden, Parameter und Rückgabewerte",
+        "secondary_topics": [
+          "Objektorientierung",
+          "Prozeduren",
+          "Funktionen",
+          "Parameter",
+          "Rückgabewerte"
+        ],
+        "recommended_topics": [
+          "Methoden, Parameter und Rückgabewerte",
+          "Objektorientierung",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 48,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Operatoren und Bedingungen",
+        "secondary_topics": [
+          "Verzweigungen",
+          "if-Anweisung",
+          "Parameter"
+        ],
+        "recommended_topics": [
+          "Methoden, Parameter und Rückgabewerte",
+          "Operatoren und Bedingungen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 49,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Operatoren und Bedingungen",
+        "secondary_topics": [
+          "if-Anweisung",
+          "Boolesche Ausdrücke",
+          "Struktogramm"
+        ],
+        "recommended_topics": [
+          "Operatoren und Bedingungen",
+          "Programmablaufdarstellungen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 50,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Operatoren und Bedingungen",
+        "secondary_topics": [
+          "Vergleichsoperatoren",
+          "Logische Operatoren",
+          "if-else",
+          "switch-case"
+        ],
+        "recommended_topics": [
+          "Operatoren und Bedingungen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 51,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Operatoren und Bedingungen",
+        "secondary_topics": [
+          "Vergleichsoperatoren",
+          "Logische Operatoren",
+          "if-else",
+          "switch-case"
+        ],
+        "recommended_topics": [
+          "Operatoren und Bedingungen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 52,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Operatoren und Bedingungen",
+        "secondary_topics": [
+          "Vergleichsoperatoren",
+          "Logische Operatoren",
+          "if-else",
+          "switch-case"
+        ],
+        "recommended_topics": [
+          "Operatoren und Bedingungen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 53,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Operatoren und Bedingungen",
+        "secondary_topics": [
+          "Vergleichsoperatoren",
+          "Logische Operatoren",
+          "if-else",
+          "switch-case"
+        ],
+        "recommended_topics": [
+          "Operatoren und Bedingungen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 54,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Operatoren und Bedingungen",
+        "secondary_topics": [
+          "Vergleichsoperatoren",
+          "Logische Operatoren",
+          "if-else",
+          "switch-case"
+        ],
+        "recommended_topics": [
+          "Operatoren und Bedingungen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 55,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Operatoren und Bedingungen",
+        "secondary_topics": [
+          "Vergleichsoperatoren",
+          "Logische Operatoren",
+          "if-else",
+          "switch-case"
+        ],
+        "recommended_topics": [
+          "Operatoren und Bedingungen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 56,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Schleifen",
+        "secondary_topics": [
+          "switch-case",
+          "Schleifensteuerung",
+          "Schleifenrumpf"
+        ],
+        "recommended_topics": [
+          "Operatoren und Bedingungen",
+          "Schleifen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 57,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Schleifen",
+        "secondary_topics": [
+          "Kopfgesteuerte Schleife",
+          "Fußgesteuerte Schleife",
+          "while-Schleife"
+        ],
+        "recommended_topics": [
+          "Schleifen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 58,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Schleifen",
+        "secondary_topics": [
+          "while-Schleife",
+          "do-while-Schleife",
+          "Struktogramm"
+        ],
+        "recommended_topics": [
+          "Programmablaufdarstellungen",
+          "Schleifen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 59,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Schleifen",
+        "secondary_topics": [
+          "while-Schleife",
+          "do-while-Schleife",
+          "Struktogramm"
+        ],
+        "recommended_topics": [
+          "Programmablaufdarstellungen",
+          "Schleifen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 60,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Schleifen",
+        "secondary_topics": [
+          "do-while-Schleife",
+          "for-Schleife"
+        ],
+        "recommended_topics": [
+          "Schleifen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 61,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Schleifen",
+        "secondary_topics": [
+          "for-Schleife",
+          "Struktogramm"
+        ],
+        "recommended_topics": [
+          "Programmablaufdarstellungen",
+          "Schleifen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 62,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arrays und Datenstrukturen",
+        "secondary_topics": [
+          "for-Schleife",
+          "Referenzdatentyp"
+        ],
+        "recommended_topics": [
+          "Arrays und Datenstrukturen",
+          "Schleifen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 63,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arrays und Datenstrukturen",
+        "secondary_topics": [
+          "Referenzdatentyp",
+          "Primitive Datentypen",
+          "Array-Länge"
+        ],
+        "recommended_topics": [
+          "Arrays und Datenstrukturen",
+          "Unternehmenswiki",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 64,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arrays und Datenstrukturen",
+        "secondary_topics": [
+          "Array-Aufbau",
+          "Deklaration",
+          "Initialisierung",
+          "Index",
+          "Referenzen"
+        ],
+        "recommended_topics": [
+          "Arrays und Datenstrukturen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 65,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arrays und Datenstrukturen",
+        "secondary_topics": [
+          "Array-Aufbau",
+          "Deklaration",
+          "Initialisierung",
+          "Index",
+          "Referenzen"
+        ],
+        "recommended_topics": [
+          "Arrays und Datenstrukturen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 66,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arrays und Datenstrukturen",
+        "secondary_topics": [
+          "Array-Aufbau",
+          "Deklaration",
+          "Initialisierung",
+          "Index",
+          "Referenzen"
+        ],
+        "recommended_topics": [
+          "Arrays und Datenstrukturen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 67,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arrays und Datenstrukturen",
+        "secondary_topics": [
+          "Array-Aufbau",
+          "Deklaration",
+          "Initialisierung",
+          "Index",
+          "Referenzen"
+        ],
+        "recommended_topics": [
+          "Arrays und Datenstrukturen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 68,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arrays und Datenstrukturen",
+        "secondary_topics": [
+          "Array-Aufbau",
+          "Deklaration",
+          "Initialisierung",
+          "Index",
+          "Referenzen"
+        ],
+        "recommended_topics": [
+          "Arrays und Datenstrukturen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 69,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arrays und Datenstrukturen",
+        "secondary_topics": [
+          "Array-Ausgabe",
+          "Arrays.sort",
+          "Array-Befüllung",
+          "for-Schleife",
+          "length"
+        ],
+        "recommended_topics": [
+          "Arrays und Datenstrukturen",
+          "Schleifen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 70,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arrays und Datenstrukturen",
+        "secondary_topics": [
+          "Array-Ausgabe",
+          "Arrays.sort",
+          "Array-Befüllung",
+          "for-Schleife",
+          "length"
+        ],
+        "recommended_topics": [
+          "Arrays und Datenstrukturen",
+          "Schleifen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf",
+      "page": 71,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Arrays und Datenstrukturen",
+        "secondary_topics": [
+          "Array-Ausgabe",
+          "Arrays.sort",
+          "Array-Befüllung",
+          "for-Schleife",
+          "length"
+        ],
+        "recommended_topics": [
+          "Arrays und Datenstrukturen",
+          "Schleifen",
+          "Unternehmenswiki"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    }
+  ]
+}

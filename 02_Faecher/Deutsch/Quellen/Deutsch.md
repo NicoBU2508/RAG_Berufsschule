@@ -2,7 +2,7 @@
 typ: quelle
 fach: "Deutsch"
 fach_anzeige: "Deutsch"
-original_pfad: "99_Originale/Berufsschule/Deutsch/Deutsch.pdf"
+original_pfad: "99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf"
 seiten: 46
 pruefung: "AP1, WiSo"
 cssclasses:
@@ -24,7 +24,7 @@ textzeichen: 66963
 # 📄 Deutsch
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/Deutsch/Deutsch|Deutsch]]
-> - **Original-PDF:** [Deutsch.pdf](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf>)
+> - **Original-PDF:** [Deutsch.pdf](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf>)
 > - **Seiten:** 46
 > - **KI-Lesbarkeit:** gut: visuell geprüft (ok=46)
 > - **Aktive Lernquelle:** ja
@@ -50,11 +50,11 @@ textzeichen: 66963
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 1](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1]]`
+> - PDF-Seite: [Deutsch.pdf Seite 1](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -131,11 +131,11 @@ Seitennummerierung
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 2](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=2]]`
+> - PDF-Seite: [Deutsch.pdf Seite 2](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -228,11 +228,11 @@ BIC: DUEHSZE65TF
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 3](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=3]]`
+> - PDF-Seite: [Deutsch.pdf Seite 3](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=3]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -306,11 +306,11 @@ IN Bike
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 4](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4]]`
+> - PDF-Seite: [Deutsch.pdf Seite 4](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -366,11 +366,11 @@ Grußformel
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 5](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=5]]`
+> - PDF-Seite: [Deutsch.pdf Seite 5](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=5]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -453,11 +453,11 @@ Geschäftsangaben
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 6](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6]]`
+> - PDF-Seite: [Deutsch.pdf Seite 6](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -512,11 +512,11 @@ Gefühl.
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 7](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=7]]`
+> - PDF-Seite: [Deutsch.pdf Seite 7](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=7]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=7]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -603,11 +603,11 @@ Konkrete ZIELE
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 8](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8]]`
+> - PDF-Seite: [Deutsch.pdf Seite 8](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -669,11 +669,11 @@ Präambel
 ### Seite 9
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 9](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=9>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=9]]`
+> - PDF-Seite: [Deutsch.pdf Seite 9](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=9]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -723,11 +723,11 @@ Communication
 ### Seite 10
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 10](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10]]`
+> - PDF-Seite: [Deutsch.pdf Seite 10](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -791,11 +791,11 @@ Der Auftraggeber kann zu dem projektdurchführenden Unternehmen gehören
 ### Seite 11
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 11](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11]]`
+> - PDF-Seite: [Deutsch.pdf Seite 11](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -859,11 +859,11 @@ Evtl. betroffene Organisationen
 ### Seite 12
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 12](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=12>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=12]]`
+> - PDF-Seite: [Deutsch.pdf Seite 12](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=12>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=12]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=12]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -937,11 +937,11 @@ Argumentationsstärke ,
 ### Seite 13
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 13](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=13>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=13]]`
+> - PDF-Seite: [Deutsch.pdf Seite 13](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=13>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=13]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=13]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1023,11 +1023,11 @@ des Projektes
 ### Seite 14
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 14](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=14>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=14]]`
+> - PDF-Seite: [Deutsch.pdf Seite 14](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=14>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=14]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=14]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -1049,11 +1049,11 @@ Kommasetzung etc.)
 ### Seite 15
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 15](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=15>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=15]]`
+> - PDF-Seite: [Deutsch.pdf Seite 15](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=15>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=15]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=15]]
 
 > [!verified] Quelltext aus der unveränderten Audit-Arbeitsliste wiederhergestellt
 > Die Seite war irrtümlich als reine Navigation gesperrt. Sichtprüfung und Teilreport bestätigen eigenständigen fachlichen Inhalt.
@@ -1119,11 +1119,11 @@ Zeit: ca. 15 – 20 Minuten
 ### Seite 16
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 16](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=16>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=16]]`
+> - PDF-Seite: [Deutsch.pdf Seite 16](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=16>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=16]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=16]]
 
 > [!verified] Quelltext aus der unveränderten Audit-Arbeitsliste wiederhergestellt
 > Die Seite war irrtümlich als reine Navigation gesperrt. Sichtprüfung und Teilreport bestätigen eigenständigen fachlichen Inhalt.
@@ -1165,11 +1165,11 @@ Zeit: ca. 15 Minuten
 ### Seite 17
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 17](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=17>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=17]]`
+> - PDF-Seite: [Deutsch.pdf Seite 17](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=17>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=17]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=17]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1236,11 +1236,11 @@ Projektdesign
 ### Seite 18
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 18](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=18>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=18]]`
+> - PDF-Seite: [Deutsch.pdf Seite 18](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=18>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=18]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=18]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1321,11 +1321,11 @@ werden nicht erreicht
 ### Seite 19
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 19](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=19>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=19]]`
+> - PDF-Seite: [Deutsch.pdf Seite 19](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=19]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1401,11 +1401,11 @@ Kosten
 ### Seite 20
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 20](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=20>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=20]]`
+> - PDF-Seite: [Deutsch.pdf Seite 20](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=20>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=20]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=20]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1480,11 +1480,11 @@ auch Firmnexten
 ### Seite 21
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 21](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=21>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=21]]`
+> - PDF-Seite: [Deutsch.pdf Seite 21](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=21>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=21]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=21]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1573,11 +1573,11 @@ Projektziel
 ### Seite 22
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 22](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=22>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=22]]`
+> - PDF-Seite: [Deutsch.pdf Seite 22](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=22>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=22]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=22]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1636,11 +1636,11 @@ im Einkauf
 ### Seite 23
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 23](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=23>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=23]]`
+> - PDF-Seite: [Deutsch.pdf Seite 23](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=23>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=23]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=23]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1693,11 +1693,11 @@ Beziehungsregeln
 ### Seite 24
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 24](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=24>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=24]]`
+> - PDF-Seite: [Deutsch.pdf Seite 24](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=24>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=24]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=24]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1766,11 +1766,11 @@ Ein Beispiel für ein Lastenheft findest du auf Teams.
 ### Seite 25
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 25](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=25>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=25]]`
+> - PDF-Seite: [Deutsch.pdf Seite 25](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=25>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=25]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=25]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1788,11 +1788,11 @@ Spektrum Akademischer Verlag GmbH, Heidelberg/Berlin.
 ### Seite 26
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 26](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=26>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=26]]`
+> - PDF-Seite: [Deutsch.pdf Seite 26](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=26>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=26]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=26]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1855,11 +1855,11 @@ Dokumenten und in späteren Phasen darauf beziehen zu können.
 ### Seite 27
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 27](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=27>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=27]]`
+> - PDF-Seite: [Deutsch.pdf Seite 27](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=27>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=27]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=27]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1901,11 +1901,11 @@ Ein Beispiel für ein Pflichtenheft findest du auf Teams.
 ### Seite 28
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 28](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=28>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=28]]`
+> - PDF-Seite: [Deutsch.pdf Seite 28](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=28>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=28]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=28]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1923,11 +1923,11 @@ Spektrum Akademischer Verlag GmbH, Heidelberg/Berlin.
 ### Seite 29
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 29](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=29>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=29]]`
+> - PDF-Seite: [Deutsch.pdf Seite 29](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=29>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=29]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=29]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -2011,11 +2011,11 @@ Lizenzen aufgeführt werden.
 ### Seite 30
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 30](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=30>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=30]]`
+> - PDF-Seite: [Deutsch.pdf Seite 30](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=30>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=30]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=30]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2053,11 +2053,11 @@ sind möglich
 ### Seite 31
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 31](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=31>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=31]]`
+> - PDF-Seite: [Deutsch.pdf Seite 31](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=31>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=31]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=31]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2119,11 +2119,11 @@ PC5
 ### Seite 32
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 32](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=32>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=32]]`
+> - PDF-Seite: [Deutsch.pdf Seite 32](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=32>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=32]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=32]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2189,11 +2189,11 @@ es dringend ?
 ### Seite 33
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 33](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=33>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=33]]`
+> - PDF-Seite: [Deutsch.pdf Seite 33](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=33>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=33]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=33]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2278,11 +2278,11 @@ sehr langsam!
 ### Seite 34
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 34](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=34>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=34]]`
+> - PDF-Seite: [Deutsch.pdf Seite 34](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=34>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=34]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=34]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2371,11 +2371,11 @@ Praxis
 ### Seite 35
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 35](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=35>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=35]]`
+> - PDF-Seite: [Deutsch.pdf Seite 35](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=35>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=35]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=35]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2447,11 +2447,11 @@ Qualitätsanforderungen
 ### Seite 36
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 36](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=36>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=36]]`
+> - PDF-Seite: [Deutsch.pdf Seite 36](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=36]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2525,11 +2525,11 @@ Mimik
 ### Seite 37
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 37](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37]]`
+> - PDF-Seite: [Deutsch.pdf Seite 37](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2592,11 +2592,11 @@ Fehler bei der
 ### Seite 38
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 38](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38]]`
+> - PDF-Seite: [Deutsch.pdf Seite 38](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2719,11 +2719,11 @@ visuell
 ### Seite 39
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 39](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39]]`
+> - PDF-Seite: [Deutsch.pdf Seite 39](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2765,11 +2765,11 @@ die Regel.
 ### Seite 40
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 40](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=40>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=40]]`
+> - PDF-Seite: [Deutsch.pdf Seite 40](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=40>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=40]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=40]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2819,11 +2819,11 @@ https://www.youtube.com/watch?v=USEM11RElsQ
 ### Seite 41
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 41](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=41>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=41]]`
+> - PDF-Seite: [Deutsch.pdf Seite 41](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=41]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2887,11 +2887,11 @@ Beziehungsebene
 ### Seite 42
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 42](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=42>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=42]]`
+> - PDF-Seite: [Deutsch.pdf Seite 42](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=42>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=42]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=42]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2983,11 +2983,11 @@ Es gilt, diese Persönlichkeitsunterschiede von vornherein in der Gesprächsfüh
 ### Seite 43
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 43](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=43>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=43]]`
+> - PDF-Seite: [Deutsch.pdf Seite 43](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=43>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=43]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=43]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3082,11 +3082,11 @@ nicht
 ### Seite 44
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 44](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=44>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=44]]`
+> - PDF-Seite: [Deutsch.pdf Seite 44](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=44>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=44]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=44]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3119,11 +3119,11 @@ die Preise
 ### Seite 45
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 45](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=45>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=45]]`
+> - PDF-Seite: [Deutsch.pdf Seite 45](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=45>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=45]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=45]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3208,11 +3208,11 @@ ben und wird in Pädagogik, Psychologie und Wirtschaft häufig verwendet.
 ### Seite 46
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Deutsch.pdf Seite 46](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=46>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=46]]`
+> - PDF-Seite: [Deutsch.pdf Seite 46](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=46>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=46]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=46]]
 
 #### Extrahierter Originaltext für Suche und KI
 

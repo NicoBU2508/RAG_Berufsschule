@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Aufgaben Übungen und Lösungen** im Fach **PuG Politik und Gesellschaft**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/PUG/Pug.pdf#page=8|Pug S. 8]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=9|Pug S. 9]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=21|Pug S. 21]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=33|Pug S. 33]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8|Pug S. 8]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9|Pug S. 9]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=21|Pug S. 21]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33|Pug S. 33]].
 > - **Zentrale Suchbegriffe:** Jugendarbeitsschutzgesetz, Hinreis, Abholung, Abgabe, Betriebsrat, Betriebsverfassungsgesetz.
 > - **Prüfungsbezug:** AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -53,10 +53,10 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 8](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=8>) | Das Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 9](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=9>) | Das Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 21](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=21>) | Hinreis auf Abholung/Abgabe | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 33](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=33>) | Betriebsrat - Betriebsverfassungsgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 8](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8>) | Das Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 9](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9>) | Das Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 21](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=21>) | Hinreis auf Abholung/Abgabe | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 33](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33>) | Betriebsrat - Betriebsverfassungsgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -65,11 +65,11 @@ tags:
 #### Seite 8: Das Jugendarbeitsschutzgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 8](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=8]]`
+> - PDF: [Pug.pdf Seite 8](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=8]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Das Jugendarbeitsschutzgesetz PuG Name: Klasse: Datum: 2 Übungssituation Situation Lösung Kerstin Na wie läuft es bei dir in der Ausbildung? Sebastian Ich bin völlig erledigt. Ich arbeite jeden Tag 11 Stunden, da bei uns die Grippe ausgebrochen ist. Und morgen soll ich auch noch nach der Berufsschule in den Betrieb. Mein Chef hat mir auch schon angekündigt, dass ich nächste Woche evtl. sogar noch vor der Schule arbeiten muss. Wenn das so weitergeht, brauche ich schon bald Urlaub. Wie viele Tage Urlaub hast du Kerstin? Kerstin 27 Tage! Sebastian 27 Tage, Mensch hast es du gut….. ich habe nur 24 Tage. Ich glaub ich bin im falschen Betrieb….. Kerstin Tja…. Aber Mittag hast du doch sicherlich? S …
@@ -170,11 +170,11 @@ So nicht möglich
 #### Seite 9: Das Jugendarbeitsschutzgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 9](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=9]]`
+> - PDF: [Pug.pdf Seite 9](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=9]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Das Jugendarbeitsschutzgesetz PuG Name: Klasse: Datum: 3 Zusätzliche Übungsaufgaben Peter ist 16 Jahre alt, kaufmännischer Auszubildender. Letzte Woche musste er beim Entladen eines LKW´s mithelfen und so schwere Pakete tragen, dass er 3 Tage lang Rückenschmerzen hatte. Ist diese Arbeit rechtens? Begründen Sie Ihre Antwort. Der Auszubildende Fritz 16 Jahre alt, geb. am 12. März verlangt 30 Werktage Urlaub. Sein Ausbilder meint, dass ihm nur 27 Werktage zustehen. Welche Aussage ist richtig? Begründen Sie Ihre Antwort. Welche Möglichkeiten hat ein Jugendlicher, wenn sein Betrieb gegen die Vorschriften des Jugendarbeitsschutzgesetzes verstößt.
@@ -208,11 +208,11 @@ Vorschriften des Jugendarbeitsschutzgesetzes verstößt.
 #### Seite 21: Hinreis auf Abholung/Abgabe
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 21](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=21>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=21]]`
+> - PDF: [Pug.pdf Seite 21](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=21>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=21]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=21]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > - Hinreis auf Abholung/Abgabe von Unterlagen Sinnvoll : · Arbeitszeugnis beantragen · Achte auf Formulierungen · Empfang bestätigen lassen Wie lange kann eine Klage gegen eine Kündigung beim Gericht eingereicht werden ? 3 Wochen nach Zugang der Kündigung kann sich Franz auf das Kündigungsschutzgesetz berufen ? Es müssen 3 Voraussetzungen erfüllt sein : -Volljährigkeit - Arbeitsvertrag muss länger vie 6 Monate bestehen Johne Unterbrechung) - Mehr als 10 AN im Betrieb beschäftigt (Azubis zählen nicht dazu) Wenn diese Voraussetzungen vorliegen kann der AG nur aus folgenden Gründen Kündigen : (ansonsten ist Kündigung sozial ungerechtfertigt a) Personenbedingte Gründe z.B längere Krankheit b) Bet …
@@ -278,11 +278,11 @@ Drohungen ,Mobbing , Schweigepflichtverletzung
 #### Seite 33: Betriebsrat - Betriebsverfassungsgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 33](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=33>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=33]]`
+> - PDF: [Pug.pdf Seite 33](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=33]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Betriebsrat - Betriebsverfassungsgesetz PuG Name: Klasse: Datum: 2 Wahl wird organisiert vom Wahlvorstand: Drei Wahlberechtigte, die vom Betriebsrat bzw. der Betriebsversammlung bestellt werden. Soll zum ersten Mal gewählt werden, laden drei Mitarbeiter zur Betriebsversammlung ein. Die erste Wahl kann jederzeit stattfinden. Betriebsversammlung Der Betriebsrat muss vierteljährlich alle Arbeitnehmer zu Betriebsversammlungen einberufen, und sie dort über seine Arbeit und aktuelle betriebliche Angelegenheiten informieren. Betriebsversammlungen finden in der bezahlten Arbeitszeit statt. BETRIEBSRAT 􀃂 Wählt aus seiner Mitte einen Vorsitzenden mit Stellvertreter § 26 BetrVG 􀃂 Bildet evtl. einen Bet …
@@ -337,7 +337,7 @@ Schwerbehinderte)
 - Frage:: Was ist der Kernpunkt zu **Das Jugendarbeitsschutzgesetz** laut Quelle?
 - Antwort:: Ich arbeite jeden Tag 11 Stunden, da bei uns die Grippe ausgebrochen ist.
 - Beleg:: Ich arbeite jeden Tag 11 Stunden, da bei uns die Grippe ausgebrochen ist.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=8|Pug S. 8]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8|Pug S. 8]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -345,7 +345,7 @@ Schwerbehinderte)
 - Frage:: Welche Vorgabe nennt die Quelle zu **Das Jugendarbeitsschutzgesetz**?
 - Antwort:: Mein Chef hat mir auch schon angekündigt, dass ich nächste Woche evtl. sogar noch vor der Schule arbeiten muss.
 - Beleg:: Mein Chef hat mir auch schon angekündigt, dass ich nächste Woche evtl. sogar noch vor der Schule arbeiten muss.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=8|Pug S. 8]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8|Pug S. 8]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -353,7 +353,7 @@ Schwerbehinderte)
 - Frage:: Was ist der Kernpunkt zu **Betriebsrat - Betriebsverfassungsgesetz** laut Quelle?
 - Antwort:: Drei Wahlberechtigte, die vom Betriebsrat bzw. der Betriebsversammlung bestellt werden.
 - Beleg:: Drei Wahlberechtigte, die vom Betriebsrat bzw. der Betriebsversammlung bestellt werden.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=33|Pug S. 33]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33|Pug S. 33]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -361,7 +361,7 @@ Schwerbehinderte)
 - Frage:: Was ist der Kernpunkt zu **Betriebsrat - Betriebsverfassungsgesetz** laut Quelle?
 - Antwort:: Wahl wird organisiert vom Wahlvorstand: Drei Wahlberechtigte, die vom Betriebsrat bzw. der Betriebsversammlung bestellt werden.
 - Beleg:: Wahl wird organisiert vom Wahlvorstand: Drei Wahlberechtigte, die vom Betriebsrat bzw. der Betriebsversammlung bestellt werden.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=33|Pug S. 33]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33|Pug S. 33]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

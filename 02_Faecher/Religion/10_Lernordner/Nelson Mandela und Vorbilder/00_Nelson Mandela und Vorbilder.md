@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Nelson Mandela und Vorbilder** im Fach **Religion**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=5|Reli Notizen S. 5]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=5|Reli Notizen S. 5]].
 > - **Zentrale Suchbegriffe:** Nelson, Mandela, Vorbilder, Nebun.
 > - **Prüfungsbezug:** AP1/AP2 Lernbasis.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -51,7 +51,7 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Religion/Quellen/Reli_Notizen\|Reli_Notizen]] | [Reli Notizen.pdf Seite 5](<../../../../99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=5>) | Nebun Mandela | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Religion/Quellen/Reli_Notizen\|Reli_Notizen]] | [Reli Notizen.pdf Seite 5](<../../../../99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=5>) | Nebun Mandela | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -60,11 +60,11 @@ tags:
 #### Seite 5: Nebun Mandela
 
 > [!referenz] Exakte Referenz
-> - PDF: [Reli Notizen.pdf Seite 5](<../../../../99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=5]]`
+> - PDF: [Reli Notizen.pdf Seite 5](<../../../../99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=5]]
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Referat über Nebun Mandela 1 . Biographie 2. Entscheidung/Tat Warum hat die Person sich so entschieden 3. Warum ausgesuchtheutiges Vermächtniss G . Quellen mit gamma Al bit zum nächsten Block fatig 5-7 Min . Präsi/keine unnötigen Bilder nur auf das wesentliche Fokussieren

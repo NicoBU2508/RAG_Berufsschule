@@ -63,22 +63,22 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 2](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=2>) | Ausbildung und Beruf - Ausbildungsvertrag | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 3](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=3>) | Ausbildung und Beruf - Ausbildungsvertrag | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 4](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=4>) | Berufsbildungsgesetz (BBIG) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 5](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=5>) | Kündigung durch AG | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 9](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=9>) | Das Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 13](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=13>) | Arbeitsrecht - Mutterschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 17](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=17>) | Arbeitsrecht - Schwerbehinderung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 18](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=18>) | Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 19](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=19>) | Kündigung und Kündigungsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=20>) | Außerordentliche Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 21](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=21>) | Hinreis auf Abholung/Abgabe | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 23](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=23>) | Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 26](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=26>) | Arbeitsrecht - Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 27](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=27>) | kann nicht gekündigt werden 23 Jahr | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 33](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=33>) | Betriebsrat - Betriebsverfassungsgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 34](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=34>) | Betriebsrat – Betriebsverfassungsgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 2](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=2>) | Ausbildung und Beruf - Ausbildungsvertrag | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 3](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=3>) | Ausbildung und Beruf - Ausbildungsvertrag | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 4](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4>) | Berufsbildungsgesetz (BBIG) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 5](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5>) | Kündigung durch AG | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 9](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9>) | Das Jugendarbeitsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 13](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=13>) | Arbeitsrecht - Mutterschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 17](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17>) | Arbeitsrecht - Schwerbehinderung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 18](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18>) | Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 19](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19>) | Kündigung und Kündigungsschutzgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20>) | Außerordentliche Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 21](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=21>) | Hinreis auf Abholung/Abgabe | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 23](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23>) | Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 26](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26>) | Arbeitsrecht - Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 27](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=27>) | kann nicht gekündigt werden 23 Jahr | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 33](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33>) | Betriebsrat - Betriebsverfassungsgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 34](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=34>) | Betriebsrat – Betriebsverfassungsgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -87,11 +87,11 @@ tags:
 #### Seite 2: Ausbildung und Beruf - Ausbildungsvertrag
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 2](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=2]]`
+> - PDF: [Pug.pdf Seite 2](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=2]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Ausbildung und Beruf - Ausbildungsvertrag PuG Name: Klasse: Datum: Fall: Carmen Scheuer ist 16 Jahre alt. Sie hat am 01. September zu arbeiten angefangen. Als Ansprechpartner wurde ihr Herr Huber als Ausbildungsbeauftragter vorgestellt. Nach drei Wochen wird sie von ihrem Ausbilder aufgefordert Überstunden zu machen. Carmen möchte diese gerne verweigern, ihre Eltern meinen jedoch, dass dies Nachteile für Carmen hätte. Gibt es Regelungen für diesen Vertrag? Falls ja, was wird darin geregelt? Informieren Sie Carmen über den abgeschlossenen Vertrag insbesondere zu der Problematik der Überstunden.
@@ -127,11 +127,11 @@ insbesondere zu der Problematik der Überstunden.
 #### Seite 3: Ausbildung und Beruf - Ausbildungsvertrag
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 3](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=3]]`
+> - PDF: [Pug.pdf Seite 3](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=3]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Ausbildung und Beruf - Ausbildungsvertrag PuG Name: Klasse: Datum: Arbeitsaufträge zu Berufsbildungsgesetz: 1. Informieren Sie sich (mit Hilfe des BBIG ) über ➢ Die Mindestbestimmungen der Ausbildungsordnung Stellen Sie diese Ihren Mitschülern vor. 2. Informieren Sie sich (mit Hilfe des BBIG) über ➢ Die Inhalte der Ausbildungsvertrages (Mindestangaben) ➢ Stellen Sie fest, ob die Schriftform gesetzlich vorgeschrieben ist. ➢ Begründen Sie warum diese Regelungen sinnvoll sind. Stellen Sie Ihre Ergebnisse Ihrem Partner vor. (Partner kontrolliert anhand seiner Ergebnisse) Stellen Sie Ihre gemeinsamen Ergebnisse Ihren Mitschülern vor. 3. Informieren Sie sich (mit Hilfe des BBIG) die Rechte und Pfl …
@@ -170,11 +170,11 @@ Pflichten des Auszubildenden bzw. des Ausbilders.
 #### Seite 4: Berufsbildungsgesetz (BBIG)
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 4](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=4]]`
+> - PDF: [Pug.pdf Seite 4](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=4]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Berufsbildungsgesetz (BBIG) 55 511 mind. 1M , max le & 17 BBIG , Tarifrotray Urlaubsgesetz (volljahr . 24 Wektage))Arschlije nach Alter , indu. Vertrag schriftform erforderlich , bei Minderjährigen müssen eltern ebenfalls unterschreiben & 3 . Beginn und Dauer , in der Regel beginn : 01 . 09 , Ende 31 . 08 , mit Bestehen der Abschlussprüfung 10. Schriftform erforderlich ,bei Minderjährigen müssen Eltern ebenfalls unterschlieben In der Probezeit : Fristlos (Arbeitgeber als auch Azubi) , grundlos Nach der Probezeit : Frist 4 Wochen (Arbeitgeber als auch Azubi), Grund muss angegeben werden (AG als auch Azubil
@@ -231,11 +231,11 @@ werden (AG als auch Azubil
 #### Seite 5: Kündigung durch AG
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 5](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=5]]`
+> - PDF: [Pug.pdf Seite 5](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=5]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Kündigung durch AG : aus wichtigen Grund z. B . Pflichtverletzung,betrieblichen Kündigung durch Azubi : nur wenn, die Ausbildung beendet wird oder ein anderer Ausbildungsberuf begonnen wird. Rechte des Azubis : Pflichten des Azubis : -Vergütung - Lernpflicht - Urlaub - Sorgfaltspflicht - Fachspezifische Ausbildung - Weisungen befolgen -Ausbildungsmittel - Berichtsheft - Fürsorge - Besuch der Berufsschule - Freistellung Berufsschule -Teilnahme an Prüfungen -Kündigung -Schweigepflicht für Ex rechte und pflichten und Jugenarbeitssurtzy
@@ -286,11 +286,11 @@ Jugenarbeitssurtzy
 #### Seite 9: Das Jugendarbeitsschutzgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 9](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=9]]`
+> - PDF: [Pug.pdf Seite 9](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=9]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Das Jugendarbeitsschutzgesetz PuG Name: Klasse: Datum: 3 Zusätzliche Übungsaufgaben Peter ist 16 Jahre alt, kaufmännischer Auszubildender. Letzte Woche musste er beim Entladen eines LKW´s mithelfen und so schwere Pakete tragen, dass er 3 Tage lang Rückenschmerzen hatte. Ist diese Arbeit rechtens? Begründen Sie Ihre Antwort. Der Auszubildende Fritz 16 Jahre alt, geb. am 12. März verlangt 30 Werktage Urlaub. Sein Ausbilder meint, dass ihm nur 27 Werktage zustehen. Welche Aussage ist richtig? Begründen Sie Ihre Antwort. Welche Möglichkeiten hat ein Jugendlicher, wenn sein Betrieb gegen die Vorschriften des Jugendarbeitsschutzgesetzes verstößt.
@@ -324,11 +324,11 @@ Vorschriften des Jugendarbeitsschutzgesetzes verstößt.
 #### Seite 13: Arbeitsrecht - Mutterschutzgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 13](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=13>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=13]]`
+> - PDF: [Pug.pdf Seite 13](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=13>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=13]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=13]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Arbeitsrecht - Mutterschutzgesetz PuG Name: Klasse: Datum: 1 Sie sind Auszubildendensprecher für das 1. Lehrjahr in Ihrem Betrieb. Die Auszubildende Sabine Maier bittet Sie um ein Gespräch. In diesem Gespräch berichtet sie Ihnen, dass sie die Vermutung hat, schwanger zu sein. Frau Maier ist verunsichert, wie es weitergehen soll. Nachdem Sie selber in diesem Thema noch kein tiefergehendes Wissen besitzen, notieren Sie alle Fragen, die Frau Maier an Sie stellt. Sie versprechen Frau Maier, sich zu informieren und anschließend alle Fragen in einem Gespräch mit ihr zu beantworten. 1. Gibt es ein passendes Gesetz? 2. Dürfen werdende Mütter beschäftigt werden? 3. Ist eine werdende Mutter kündbar? 4 …
@@ -375,11 +375,11 @@ Urlaub?
 #### Seite 17: Arbeitsrecht - Schwerbehinderung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 17](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=17>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=17]]`
+> - PDF: [Pug.pdf Seite 17](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=17]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Arbeitsrecht - Schwerbehinderung PuG Name: Klasse: Datum: 1 Sie lernen in Ihrer Freizeit Fritz, einen jungen Mann kennen, der erzählt, dass er trotz einer Vielzahl an Bewerbungen keinen Arbeits- bzw. Ausbildungsplatz findet. Er glaubt, dass es daran liegt, dass er bei einem Unfall einen Arm verloren hat. Sie stellen sich nun deshalb folgende Fragen: 1. Wer ist Schwerbehindert? Wenn körperliche, geistige Fähigkeit oder seelische Gesundheit länger als 6 Monate von dem für das Lebensalter typischen Zustand abweicht Behinderungsgrad von mind. 50 % 2. Wer muss Schwerbehinderte beschäftigen? Jeder AG (private und öffentliche) mit 20 Arbeitsplätzen(6%) wenn die Zahl der Arbeitslosen nicht um 25 % i …
@@ -469,11 +469,11 @@ Zusatzurlaub
 #### Seite 18: Kündigung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 18](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=18>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=18]]`
+> - PDF: [Pug.pdf Seite 18](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=18]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Kündigung PuG Name: Klasse: Datum: 1 Situation Max Huber ist Jugend- und Auszubildenden Vertreter in der IT-Syst GmbH. Dienstag steht er für Fragen und Probleme jugendlicher Arbeitnehmer zur Verfügung. Aktuell sind bei der IT-Syst GmbH 100 Arbeitnehmer be- schäftigt. Franz Schmidt 17, Hilfsarbeiter, seit 7 Monaten bei der IT-Syst GmbH beschäftigt, hat Probleme mit seinem Vorgesetzten. Dieser hat ihm nun angedroht, Franz zu kündigen. Franz ist auf die Arbeit, angewiesen, da er nächstes Jahr ein Studium beginnen möchte und dafür das Geld sparen muss. Franz bittet Sie um Information, ob ihn sein Vorgesetzter einfach kündigen kann. Sie bitten Franz nächste Woche wieder zu kommen, damit sich ausf …
@@ -520,11 +520,11 @@ Franz auf einem Informationsblatt mit.
 #### Seite 19: Kündigung und Kündigungsschutzgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 19](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=19>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=19]]`
+> - PDF: [Pug.pdf Seite 19](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=19]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Kündigung und Kündigungsschutzgesetz Wie kann ein Arbeitsvertrag beendet werden ? · Kündigung (AG/AN) (1 Willenserklärung, empfangsbedürftig) - Ordentliche Kündigung - Außerordentliche Kündigung (fristlose K . ) · Befristung (zeitlich , Grundl · Aufhebungsvertrag (2 Willenserklärungen , empfangsbedürftig Welche Kündigungsfristen gibt es ? · Ordentliche Kündigung : 5622 BGB a) Probezeit : innerhalb der Probezeit 14 Tage, grundlos (beim Arbeitsvertrag) b) Grundkündigungsfrist ↳Wochen (28 Tage) zum 15 . oder Ende des Monats 2) Verlängerte Kündigungsfrist Nur wenn Arbeitgeber kündigt # besteht länger wie 2 Jahre Immer zum Monatsende d) Tarifvertragliche Kündigungsfrist im TV können Kündigungsfri …
@@ -574,11 +574,11 @@ im Arbeitsvertrag verlängert werden
 #### Seite 20: Außerordentliche Kündigung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=20]]`
+> - PDF: [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=20]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Außerordentliche Kündigung (fristlose Kündigung) Es muss ein wichtiger Grund vorliegen -AN: z .b Ausbleiben des Gehalts -AG : Diebstahl , Schweigepflichtsverletzung Außerordentliche Kündigung muss innerhalb 2 Wochen nach bekannt werden des wichtigen Grundes ausgesprochen werden. Wer hat einen besonderen Kündigungsschutz? -Schwerbehinderte -Schwangere /4 Monate nach Geburt - AN in Pflegezeit/Elternzeit - Betriebsrat/CAV- und ein Jahr nach Beendigung de Tätigkeit als BR/SAV - Datenschutzbeauftragter/Sicherheitsbeauftragter- und ein Jahr nach Beendigung der Tätigkeit als DSB - Freiwilligen Dienst/Wehrdienst - (Azubis) Welche Punkte sind bei einer Kündigung zu beachten ? - Schriftlich (mit Unter …
@@ -650,11 +650,11 @@ worden sein
 #### Seite 21: Hinreis auf Abholung/Abgabe
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 21](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=21>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=21]]`
+> - PDF: [Pug.pdf Seite 21](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=21>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=21]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=21]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > - Hinreis auf Abholung/Abgabe von Unterlagen Sinnvoll : · Arbeitszeugnis beantragen · Achte auf Formulierungen · Empfang bestätigen lassen Wie lange kann eine Klage gegen eine Kündigung beim Gericht eingereicht werden ? 3 Wochen nach Zugang der Kündigung kann sich Franz auf das Kündigungsschutzgesetz berufen ? Es müssen 3 Voraussetzungen erfüllt sein : -Volljährigkeit - Arbeitsvertrag muss länger vie 6 Monate bestehen Johne Unterbrechung) - Mehr als 10 AN im Betrieb beschäftigt (Azubis zählen nicht dazu) Wenn diese Voraussetzungen vorliegen kann der AG nur aus folgenden Gründen Kündigen : (ansonsten ist Kündigung sozial ungerechtfertigt a) Personenbedingte Gründe z.B längere Krankheit b) Bet …
@@ -720,11 +720,11 @@ Drohungen ,Mobbing , Schweigepflichtverletzung
 #### Seite 23: Kündigung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 23](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=23>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=23]]`
+> - PDF: [Pug.pdf Seite 23](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=23]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Kündigung PuG Name: Klasse: Datum: 1 Fragen zum Thema Kündigung 1. Wie lautet die gesetzliche Grundkündigungsfrist nach BGB? 2. Kann diese Grundkündigungsfrist a) vom AG alleine b) von den Tarifparteien (Gewerkschaft – Arbeitgeberverband) abgeändert werden? 3. Frau Sybille Maier ist 43 Jahre alt und seit 8 Jahren im Betrieb. Aufgrund der Auftragslage befürchtet sie, dass ihr Arbeitgeber sie kündigen könnte. Als Kündigungstermin vermutet sie den 30. April d. J.. Bis wann müsste die Kündigung Frau Maier spätestens zugegangen sein? 4. Frau Maier möchte gegen diese Kündigung bei Gericht Einspruch erheben. Wie lange hat sie dafür Zeit? 5. Herr Herbert Schmidt ist im selben Betrieb seit drei Monat …
@@ -782,11 +782,11 @@ Arbeitsverhältnis von Herrn Kuhn aus?
 #### Seite 26: Arbeitsrecht - Kündigung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 26](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=26>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=26]]`
+> - PDF: [Pug.pdf Seite 26](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=26]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Arbeitsrecht - Kündigung PuG Name: Klasse: Datum: 2 Liste der möglichen Mitarbeiter 1. Anne König, 43 Jahre, Sachbearbeiterin im Vertrieb, verheiratet, 2 Kinder, seit 23 Jahren im Betrieb 2. Georg Müller, 29 Jahre, Lagerist, ledig, Schwerbehindert, seit 3 Jahren im Betrieb 3. Petra Kuhn, 20 Jahre, Fachinformatiker seit 4 Jahren im Betrieb (inkl. Ausbildung). Sie war bis vor 6 Monaten Jugend- und Auszubildendenvertreterin 4. Philipp Manier, 38 Jahre, Fachinformatiker, alleinerziehend, 5 Kinder, seit 7 Jahren im Betrieb 5. Caroline Ungemach, 49 Jahre, Buffetkraft in der Kantine, seit 5 Jahren im Betrieb. Sie ist wiederholt unentschuldigt der Arbeit ferngeblieben. Sie aus diesem Grund bereits z …
@@ -839,11 +839,11 @@ Jahr im Betrieb.
 #### Seite 27: kann nicht gekündigt werden 23 Jahr
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 27](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=27>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=27]]`
+> - PDF: [Pug.pdf Seite 27](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=27>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=27]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=27]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 1. kann nicht gekündigt werden 23 Jahr im Befiel 2. kann nicht gekündigt reden (Behindel) 3. Nein , da besonderer Kündigungsschutz 4. Alleinerziehend viele Kinder 5. Da Vorhaltersbedingt 2.. 2 M kein K-Schutz, Ordentliche Kündigung K-Frist 2 Monate 6. Ja da Probezeit 1 . Zw - kein K-Schutz, Probereit K-Frist 2 Wochen 7. Nein da Aubi &. Nein, da schwange 9. Ja , da nur kur im Betrieb 3. W
@@ -894,11 +894,11 @@ im Betrieb 3. W
 #### Seite 33: Betriebsrat - Betriebsverfassungsgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 33](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=33>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=33]]`
+> - PDF: [Pug.pdf Seite 33](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=33]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Betriebsrat - Betriebsverfassungsgesetz PuG Name: Klasse: Datum: 2 Wahl wird organisiert vom Wahlvorstand: Drei Wahlberechtigte, die vom Betriebsrat bzw. der Betriebsversammlung bestellt werden. Soll zum ersten Mal gewählt werden, laden drei Mitarbeiter zur Betriebsversammlung ein. Die erste Wahl kann jederzeit stattfinden. Betriebsversammlung Der Betriebsrat muss vierteljährlich alle Arbeitnehmer zu Betriebsversammlungen einberufen, und sie dort über seine Arbeit und aktuelle betriebliche Angelegenheiten informieren. Betriebsversammlungen finden in der bezahlten Arbeitszeit statt. BETRIEBSRAT 􀃂 Wählt aus seiner Mitte einen Vorsitzenden mit Stellvertreter § 26 BetrVG 􀃂 Bildet evtl. einen Bet …
@@ -949,11 +949,11 @@ Schwerbehinderte)
 #### Seite 34: Betriebsrat – Betriebsverfassungsgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 34](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=34>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=34]]`
+> - PDF: [Pug.pdf Seite 34](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=34>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=34]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=34]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Betriebsrat – Betriebsverfassungsgesetz PuG Name: Klasse: Datum: 1 Fall: Die IT-Syst GmbH ist ein erfolgreiches, aufstrebendes Software-Unternehmen mit 61 Beschäftigten. Vor zwei Wochen hat die Geschäftsführung eine Änderung der Arbeits- und Pausenzeiten angeordnet, mit der viele Mitarbeiter unzufrieden sind. Um in Zukunft die Interessen der Beschäftigten besser vertreten zu können, planen drei Mitarbeiter nun die Gründung eines Betriebsrates. Zunächst wollen sie sich informieren, ob die IT-Syst GmbH überhaupt genügend Mitarbeiter für die Einrichtung eines Betriebsrates hat und wer sich an der Betriebsratswahl beteiligen darf. Informationen zur Personalstruktur der IT-Syst GmbH: 􀃔 54 Arbeitn …
@@ -1038,7 +1038,7 @@ Die Wahl erfolgt alle vier Jahre im Zeitraum von März bis Mai als geheime und u
 - Frage:: Was ist der Kernpunkt zu **Ausbildung und Beruf - Ausbildungsvertrag** laut Quelle?
 - Antwort:: Informieren Sie sich (mit Hilfe des BBIG) über ➢ Die Inhalte der Ausbildungsvertrages (Mindestangaben) ➢ Stellen Sie fest, ob die Schriftform gesetzlich vorgeschrieben ist. ➢ Begründen Sie warum diese Regelungen sinnvoll sind.
 - Beleg:: Informieren Sie sich (mit Hilfe des BBIG) über ➢ Die Inhalte der Ausbildungsvertrages (Mindestangaben) ➢ Stellen Sie fest, ob die Schriftform gesetzlich vorgeschrieben ist. ➢ Begründen Sie warum diese Regelungen sinnvoll sind.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=3|Pug S. 3]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=3|Pug S. 3]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1046,7 +1046,7 @@ Die Wahl erfolgt alle vier Jahre im Zeitraum von März bis Mai als geheime und u
 - Frage:: Was ist der Kernpunkt zu **Ausbildung beendet** laut Quelle?
 - Antwort:: Pflichtverletzung,betrieblichen Kündigung durch Azubi : nur wenn, die Ausbildung beendet wird oder ein anderer Ausbildungsberuf begonnen wird.
 - Beleg:: Pflichtverletzung,betrieblichen Kündigung durch Azubi : nur wenn, die Ausbildung beendet wird oder ein anderer Ausbildungsberuf begonnen wird.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=5|Pug S. 5]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5|Pug S. 5]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1054,7 +1054,7 @@ Die Wahl erfolgt alle vier Jahre im Zeitraum von März bis Mai als geheime und u
 - Frage:: Welche Vorgabe nennt die Quelle zu **Außerordentliche Kündigung**?
 - Antwort:: Außerordentliche Kündigung (fristlose Kündigung) Es muss ein wichtiger Grund vorliegen -AN: z .b Ausbleiben des Gehalts -AG : Diebstahl , Schweigepflichtsverletzung Außerordentliche Kündigung muss innerhalb 2 Wochen nach bekannt werden des wichtigen Grundes ausgesprochen werden.
 - Beleg:: Außerordentliche Kündigung (fristlose Kündigung) Es muss ein wichtiger Grund vorliegen -AN: z .b Ausbleiben des Gehalts -AG : Diebstahl , Schweigepflichtsverletzung Außerordentliche Kündigung muss innerhalb 2 Wochen nach bekannt werden des wichtigen Grundes ausgesprochen werden.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=20|Pug S. 20]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20|Pug S. 20]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1062,7 +1062,7 @@ Die Wahl erfolgt alle vier Jahre im Zeitraum von März bis Mai als geheime und u
 - Frage:: Was ist der Kernpunkt zu **Kündigung** laut Quelle?
 - Antwort:: Herr Herbert Schmidt ist im selben Betrieb seit drei Monaten beschäftigt.
 - Beleg:: Herr Herbert Schmidt ist im selben Betrieb seit drei Monaten beschäftigt.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=23|Pug S. 23]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23|Pug S. 23]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1070,7 +1070,7 @@ Die Wahl erfolgt alle vier Jahre im Zeitraum von März bis Mai als geheime und u
 - Frage:: Was ist der Kernpunkt zu **Betriebsrat - Betriebsverfassungsgesetz** laut Quelle?
 - Antwort:: Drei Wahlberechtigte, die vom Betriebsrat bzw. der Betriebsversammlung bestellt werden.
 - Beleg:: Drei Wahlberechtigte, die vom Betriebsrat bzw. der Betriebsversammlung bestellt werden.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=33|Pug S. 33]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33|Pug S. 33]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1078,7 +1078,7 @@ Die Wahl erfolgt alle vier Jahre im Zeitraum von März bis Mai als geheime und u
 - Frage:: Was ist der Kernpunkt zu **Betriebsrat - Betriebsverfassungsgesetz** laut Quelle?
 - Antwort:: Wahl wird organisiert vom Wahlvorstand: Drei Wahlberechtigte, die vom Betriebsrat bzw. der Betriebsversammlung bestellt werden.
 - Beleg:: Wahl wird organisiert vom Wahlvorstand: Drei Wahlberechtigte, die vom Betriebsrat bzw. der Betriebsversammlung bestellt werden.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=33|Pug S. 33]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33|Pug S. 33]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1086,7 +1086,7 @@ Die Wahl erfolgt alle vier Jahre im Zeitraum von März bis Mai als geheime und u
 - Frage:: Was ist der Kernpunkt zu **Betriebsrat – Betriebsverfassungsgesetz** laut Quelle?
 - Antwort:: Die IT-Syst GmbH ist ein erfolgreiches, aufstrebendes Software-Unternehmen mit 61 Beschäftigten.
 - Beleg:: Die IT-Syst GmbH ist ein erfolgreiches, aufstrebendes Software-Unternehmen mit 61 Beschäftigten.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=34|Pug S. 34]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=34|Pug S. 34]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1094,7 +1094,7 @@ Die Wahl erfolgt alle vier Jahre im Zeitraum von März bis Mai als geheime und u
 - Frage:: Welche Vorgabe nennt die Quelle zu **Betriebsrat – Betriebsverfassungsgesetz**?
 - Antwort:: Wählbar sind 51 Mitarbeiter, da man für die Wählbarkeit volljährig sein und mindestens sechs Monate dem Betrieb angehören muss.
 - Beleg:: Wählbar sind 51 Mitarbeiter, da man für die Wählbarkeit volljährig sein und mindestens sechs Monate dem Betrieb angehören muss.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=34|Pug S. 34]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=34|Pug S. 34]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

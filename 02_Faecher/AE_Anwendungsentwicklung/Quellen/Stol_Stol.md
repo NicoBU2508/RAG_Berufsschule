@@ -2,7 +2,7 @@
 typ: quelle
 fach: "AE_Anwendungsentwicklung"
 fach_anzeige: "AE Anwendungsentwicklung"
-original_pfad: "99_Originale/Berufsschule/AE/Stößl/Stößl.pdf"
+original_pfad: "99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf"
 seiten: 8
 pruefung: "AP2"
 cssclasses:
@@ -26,7 +26,7 @@ textzeichen: 4938
 # 📄 Stol Stol
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/AE_Anwendungsentwicklung/AE_Anwendungsentwicklung|AE Anwendungsentwicklung]]
-> - **Original-PDF:** [Stößl.pdf](<99_Originale/Berufsschule/AE/Stößl/Stößl.pdf>)
+> - **Original-PDF:** [Stößl.pdf](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf>)
 > - **Seiten:** 8
 > - **KI-Lesbarkeit:** gut: visuell geprüft (ok=7)
 > - **Aktive Lernquelle:** ja
@@ -52,11 +52,11 @@ textzeichen: 4938
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Stößl.pdf Seite 1](<99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=1]]`
+> - PDF-Seite: [Stößl.pdf Seite 1](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=1]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=1]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -102,11 +102,11 @@ laengey
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Stößl.pdf Seite 3](<99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=3]]`
+> - PDF-Seite: [Stößl.pdf Seite 3](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=3]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -152,11 +152,11 @@ public static void main(String[] args) {
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Stößl.pdf Seite 4](<99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=4]]`
+> - PDF-Seite: [Stößl.pdf Seite 4](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=4]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -207,11 +207,11 @@ werden und als Differenz (diff) auf der Konsole ausgegeben werden. Hinweis:
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Stößl.pdf Seite 5](<99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=5]]`
+> - PDF-Seite: [Stößl.pdf Seite 5](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=5]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -225,11 +225,11 @@ public class subtraction {
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Stößl.pdf Seite 6](<99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=6]]`
+> - PDF-Seite: [Stößl.pdf Seite 6](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=6]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -272,11 +272,11 @@ kein return
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Stößl.pdf Seite 7](<99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=7]]`
+> - PDF-Seite: [Stößl.pdf Seite 7](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=7]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=7]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -307,11 +307,11 @@ erfolgen soll.
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Stößl.pdf Seite 8](<99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=8]]`
+> - PDF-Seite: [Stößl.pdf Seite 8](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=8]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=8]]
 
 #### Extrahierter Originaltext für Suche und KI
 

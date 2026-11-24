@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Softwarequalität Wartbarkeit Usability** im Fach **AE Anwendungsentwicklung**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01AlgorithmusProgrammSoftwareEVA S. 44]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01AlgorithmusProgrammSoftwareEVA S. 59]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=78|01AlgorithmusProgrammSoftwareEVA S. 78]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=79|01AlgorithmusProgrammSoftwareEVA S. 79]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=80|01AlgorithmusProgrammSoftwareEVA S. 80]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=81|01AlgorithmusProgrammSoftwareEVA S. 81]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01AlgorithmusProgrammSoftwareEVA S. 44]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01AlgorithmusProgrammSoftwareEVA S. 59]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=78|01AlgorithmusProgrammSoftwareEVA S. 78]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=79|01AlgorithmusProgrammSoftwareEVA S. 79]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=80|01AlgorithmusProgrammSoftwareEVA S. 80]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=81|01AlgorithmusProgrammSoftwareEVA S. 81]].
 > - **Zentrale Suchbegriffe:** Softwarequalität, Wartbarkeit, Usability, Nun, geht, Such-Algorithmen, Werkzeuge, Software-Entwicklung, Anforderungen, entwickelnde.
 > - **Prüfungsbezug:** AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -55,12 +55,12 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44>) | Nun geht es um Such-Algorithmen! | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 59](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 78](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=78>) | Anforderungen an eine zu entwickelnde Software – Software-Qualität | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 79](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=79>) | Software-Qualität nach ISO/IEC 25010 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 80](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=80>) | 4. Benutzbarkeit (Usability) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 81](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=81>) | 7. Wartbarkeit (Maintainability) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44>) | Nun geht es um Such-Algorithmen! | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 59](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 78](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=78>) | Anforderungen an eine zu entwickelnde Software – Software-Qualität | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 79](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=79>) | Software-Qualität nach ISO/IEC 25010 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 80](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=80>) | 4. Benutzbarkeit (Usability) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 81](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=81>) | 7. Wartbarkeit (Maintainability) | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -69,11 +69,11 @@ tags:
 #### Seite 44: Nun geht es um Such-Algorithmen!
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Nun geht es um Such-Algorithmen! Oft ist es erforderlich, ein Array (Feld) nach einem bestimmten Element zu durchsuchen. Hierfür gibt es verschiedene Suchalgorithmen, die sich in Aufbau und Effizienz unterscheiden. Wir be- trachten nun zwei Suchverfahren: Die lineare Suche und die binäre Suche. Zuerst betrachten wir die lineare Suche: Sie ist der einfachste Suchalgorithmus und auch unter dem Namen sequentielle Suche bekannt. Nun möchte man in einem Array mit n Elementen ein bestimmtes Element (z.B. eine konkrete Zahl bzw. das kleinste oder das größte Feldelement) suchen. Bei der linearen Suche geht man jetzt dieses Feld Element für Element durch und ver- sucht durch die entsprechenden Vergle …
@@ -135,11 +135,11 @@ Ausgegeben wird am Bildschirm:
 #### Seite 59: Werkzeuge der Software-Entwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 59](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 59](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Werkzeuge der Software-Entwicklung Anwendungsentwicklung Name: Klasse: Datum: Infodokument 2 zu „Programme erstellen“ • Visual Studio und die Code-Übersetzung in Common Intermediate Language: In Wikipedia finden sich dazu folgende Auszüge: Visual Studio Visual Studio gilt als komfortable Entwicklungsumgebung mit vielen Funktionen. Der Editor unterstützt z. B. eine von der Cursorposition abhängige Online-Hilfe, das Ein- und Ausblenden von Codeblöcken, farbliche Hervorhebung von Schlüsselwörtern, automatische Syntaxprüfung und IntelliSense, die automatische Methoden- und Funktionsergänzung während der Quelltext- Eingabe. Des Weiteren bietet die Entwicklungsumgebung grafische Schnittstellen zur …
@@ -208,11 +208,11 @@ an denen normale Funktionen erlaubt sind (z. B. bei Funktionspointern). …
 #### Seite 78: Anforderungen an eine zu entwickelnde Software – Software-Qualität
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 78](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=78>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=78]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 78](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=78>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=78]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=78]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=78]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Anforderungen an eine zu entwickelnde Software – Software-Qualität Die Qualitätsanforderungen für Software sind u.a. in der ISO/IEC 25010 beschrieben. Dort finden sich konkrete Merkmale dazu. Geben Sie diese an und erläutern Sie, was jeweils damit gemeint ist!
@@ -230,11 +230,11 @@ Geben Sie diese an und erläutern Sie, was jeweils damit gemeint ist!
 #### Seite 79: Software-Qualität nach ISO/IEC 25010
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 79](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=79>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=79]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 79](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=79>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=79]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=79]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=79]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Software-Qualität nach ISO/IEC 25010 Die Norm ISO/IEC 25010 ist der internationale Standard für die Bewertung von Softwarequalität. Sie definiert ein Qualitätsmodell mit acht Hauptmerkmalen, um die Qualität von Softwareprodukten messbar und vergleichbar zu machen. 1. Funktionale Tauglichkeit (Functional Suitability) Beschreibt, inwieweit die Software die festgelegten Anforderungen und Benutzerbedürfnisse erfüllt. Funktionale Vollständigkeit: Sind alle notwendigen Funktionen vorhanden? Funktionale Korrektheit: Liefert die Software die richtigen Ergebnisse? Funktionale Angemessenheit: Unterstützt die Software die Aufgaben des Nutzers effizient? 2. Leistungseffizienz (Performance Efficiency) Da …
@@ -277,11 +277,11 @@ Interoperabilität: Fähigkeit zum Datenaustausch mit anderen Systemen.
 #### Seite 80: 4. Benutzbarkeit (Usability)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 80](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=80>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=80]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 80](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=80>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=80]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=80]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=80]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 4. Benutzbarkeit (Usability) Wie einfach und effektiv die Software von den Zielbenutzern bedient werden kann. Erlernbarkeit: Wie schnell verstehen neue Nutzer das System? Bedienbarkeit: Logische und komfortable Steuerung. Fehlerschutz: Vermeidung von Fehlbedienungen durch den Nutzer. Barrierefreiheit: Nutzbarkeit für Menschen mit Einschränkungen. Ästhetik der Benutzeroberfläche: Ansprechendes Design der UI. 5. Zuverlässigkeit (Reliability) Die Fähigkeit des Systems, seine Funktion unter definierten Bedingungen aufrechtzuerhalten. Reife: Häufigkeit von Fehlern im Normalbetrieb. Verfügbarkeit: Zeitanteil, in dem das System betriebsbereit ist. Fehlertoleranz: Weiterbetrieb trotz Fehlern in Hard …
@@ -329,11 +329,11 @@ Authentizität: Sicherstellung der Identität des Kommunikationspartners.
 #### Seite 81: 7. Wartbarkeit (Maintainability)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 81](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=81>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=81]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 81](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=81>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=81]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=81]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=81]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 7. Wartbarkeit (Maintainability) Wie leicht die Software modifiziert, korrigiert oder erweitert werden kann. Modularität: Aufbau aus unabhängigen Komponenten. Wiederverwendbarkeit: Nutzung von Komponenten in anderen Systemen. Analysierbarkeit: Leichtigkeit der Fehlersuche im Code. Modifizierbarkeit: Aufwand für Änderungen am System. Testbarkeit: Effizienz, mit der die Software geprüft werden kann. 8. Übertragbarkeit (Portability) Wie leicht die Software in eine andere Betriebsumgebung überführt werden kann. Anpassungsfähigkeit: Eignung für verschiedene Hardware- oder Softwareplattformen. Installierbarkeit: Einfachheit des Installationsvorgangs. Austauschbarkeit: Eignung, ein anderes Software …
@@ -372,7 +372,7 @@ Erstellt gemäß ISO/IEC 25010 Standard
 - Frage:: Was ist der Kernpunkt zu **Nun geht es um Such-Algorithmen!** laut Quelle?
 - Antwort:: Effizienter als die lineare Suche hingegen ist die binäre Suche: Sie kann aber nur bei bereits geordneten Elementen (bei einem nach Größe der Elemente sortierten Array) eingesetzt werden!
 - Beleg:: Effizienter als die lineare Suche hingegen ist die binäre Suche: Sie kann aber nur bei bereits geordneten Elementen (bei einem nach Größe der Elemente sortierten Array) eingesetzt werden!
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01_Algorithmus_Programm_Software_EVA S. 44]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01_Algorithmus_Programm_Software_EVA S. 44]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -380,7 +380,7 @@ Erstellt gemäß ISO/IEC 25010 Standard
 - Frage:: Welche Vorgabe nennt die Quelle zu **Nun geht es um Such-Algorithmen!**?
 - Antwort:: Ist dieses größer als das gesuchte Element, so muss nur noch in der unteren Hälfte des geordneten Arrays gesucht werden.
 - Beleg:: Ist dieses größer als das gesuchte Element, so muss nur noch in der unteren Hälfte des geordneten Arrays gesucht werden.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01_Algorithmus_Programm_Software_EVA S. 44]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01_Algorithmus_Programm_Software_EVA S. 44]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -388,7 +388,7 @@ Erstellt gemäß ISO/IEC 25010 Standard
 - Frage:: Welche Vorgabe nennt die Quelle zu **Werkzeuge der Software-Entwicklung**?
 - Antwort:: Auch kann die Orthogonalität der Sprache erhöht werden, da beispielsweise Funktionen aus der Standardbibliothek normale Funktionen sind, also an allen Stellen verwendet werden dürfen, an denen normale Funktionen erlaubt sind (z.
 - Beleg:: Auch kann die Orthogonalität der Sprache erhöht werden, da beispielsweise Funktionen aus der Standardbibliothek normale Funktionen sind, also an allen Stellen verwendet werden dürfen, an denen normale Funktionen erlaubt sind (z.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01_Algorithmus_Programm_Software_EVA S. 59]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01_Algorithmus_Programm_Software_EVA S. 59]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -396,7 +396,7 @@ Erstellt gemäß ISO/IEC 25010 Standard
 - Frage:: Was ist **Werkzeuge der Software-Entwicklung** laut Quelle?
 - Antwort:: Unter einer Standardbibliothek versteht man eine Sammlung von implementierten Funktionalitäten, wie mathematische Funktionen sowie Funktionen, mit denen man auf Dateien zugreifen kann, etc.
 - Beleg:: Unter einer Standardbibliothek versteht man eine Sammlung von implementierten Funktionalitäten, wie mathematische Funktionen sowie Funktionen, mit denen man auf Dateien zugreifen kann, etc.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01_Algorithmus_Programm_Software_EVA S. 59]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59|01_Algorithmus_Programm_Software_EVA S. 59]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -404,7 +404,7 @@ Erstellt gemäß ISO/IEC 25010 Standard
 - Frage:: Was ist der Kernpunkt zu **Die Qualitätsanforderungen für Software** laut Quelle?
 - Antwort:: Die Qualitätsanforderungen für Software sind u.a. in der ISO/IEC 25010 beschrieben.
 - Beleg:: Die Qualitätsanforderungen für Software sind u.a. in der ISO/IEC 25010 beschrieben.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=78|01_Algorithmus_Programm_Software_EVA S. 78]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=78|01_Algorithmus_Programm_Software_EVA S. 78]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -412,7 +412,7 @@ Erstellt gemäß ISO/IEC 25010 Standard
 - Frage:: Was ist der Kernpunkt zu **Software-Qualität nach ISO/IEC 25010** laut Quelle?
 - Antwort:: Software-Qualität nach ISO/IEC 25010 Die Norm ISO/IEC 25010 ist der internationale Standard für die Bewertung von Softwarequalität.
 - Beleg:: Software-Qualität nach ISO/IEC 25010 Die Norm ISO/IEC 25010 ist der internationale Standard für die Bewertung von Softwarequalität.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=79|01_Algorithmus_Programm_Software_EVA S. 79]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=79|01_Algorithmus_Programm_Software_EVA S. 79]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -420,7 +420,7 @@ Erstellt gemäß ISO/IEC 25010 Standard
 - Frage:: Was ist der Kernpunkt zu **Benutzbarkeit (Usability)** laut Quelle?
 - Antwort:: Benutzbarkeit (Usability) Wie einfach und effektiv die Software von den Zielbenutzern bedient werden kann.
 - Beleg:: Benutzbarkeit (Usability) Wie einfach und effektiv die Software von den Zielbenutzern bedient werden kann.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=80|01_Algorithmus_Programm_Software_EVA S. 80]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=80|01_Algorithmus_Programm_Software_EVA S. 80]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -428,7 +428,7 @@ Erstellt gemäß ISO/IEC 25010 Standard
 - Frage:: Was ist der Kernpunkt zu **Wartbarkeit (Maintainability)** laut Quelle?
 - Antwort:: Wartbarkeit (Maintainability) Wie leicht die Software modifiziert, korrigiert oder erweitert werden kann.
 - Beleg:: Wartbarkeit (Maintainability) Wie leicht die Software modifiziert, korrigiert oder erweitert werden kann.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=81|01_Algorithmus_Programm_Software_EVA S. 81]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=81|01_Algorithmus_Programm_Software_EVA S. 81]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

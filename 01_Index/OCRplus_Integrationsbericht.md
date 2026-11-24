@@ -92,61 +92,61 @@ tags:
 ## Verbleibende schwache Seiten im Gesamtbestand
 | Quelle | Seite | Zeichen | Original-PDF |
 |---|---:|---:|---|
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 3 | 0 | `99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf` |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 9 | 101 | `99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf` |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 11 | 0 | `99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf` |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 14 | 80 | `99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf` |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 28 | 0 | `99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf` |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 30 | 0 | `99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf` |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 35 | 17 | `99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf` |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 36 | 0 | `99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf` |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 37 | 43 | `99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf` |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 48 | 0 | `99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf` |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 64 | 24 | `99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf` |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 3 | 0 | `99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf` |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 9 | 101 | `99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf` |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 11 | 0 | `99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf` |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 14 | 80 | `99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf` |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 28 | 0 | `99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf` |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 30 | 0 | `99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf` |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 35 | 17 | `99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf` |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 36 | 0 | `99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf` |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 37 | 43 | `99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf` |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 48 | 0 | `99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf` |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md` | 64 | 24 | `99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf` |
 | `02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics.md` | 1 | 0 | `99_Originale/Basics/JAVA/Java Basics.pdf` |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md` | 2 | 0 | `99_Originale/Berufsschule/AE/Stößl/Stößl.pdf` |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md` | 5 | 78 | `99_Originale/Berufsschule/AE/Stößl/Stößl.pdf` |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki.md` | 1 | 0 | `99_Originale/Berufsschule/AE/Stößl/Wiki.pdf` |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki.md` | 2 | 0 | `99_Originale/Berufsschule/AE/Stößl/Wiki.pdf` |
-| `02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41.md` | 1 | 25 | `99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf` |
-| `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md` | 39 | 51 | `99_Originale/Berufsschule/BGWP/BGWP.pdf` |
-| `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md` | 44 | 51 | `99_Originale/Berufsschule/BGWP/BGWP.pdf` |
-| `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md` | 50 | 91 | `99_Originale/Berufsschule/BGWP/BGWP.pdf` |
-| `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md` | 54 | 16 | `99_Originale/Berufsschule/BGWP/BGWP.pdf` |
-| `02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md` | 20 | 18 | `99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf` |
-| `02_Faecher/Deutsch/Quellen/Deutsch.md` | 14 | 0 | `99_Originale/Berufsschule/Deutsch/Deutsch.pdf` |
-| `02_Faecher/Deutsch/Quellen/Deutsch.md` | 29 | 46 | `99_Originale/Berufsschule/Deutsch/Deutsch.pdf` |
-| `02_Faecher/Englisch/Quellen/Englisch.md` | 1 | 0 | `99_Originale/Berufsschule/Englisch/Englisch.pdf` |
-| `02_Faecher/Englisch/Quellen/Englisch.md` | 9 | 56 | `99_Originale/Berufsschule/Englisch/Englisch.pdf` |
-| `02_Faecher/Englisch/Quellen/Englisch.md` | 11 | 13 | `99_Originale/Berufsschule/Englisch/Englisch.pdf` |
-| `02_Faecher/Englisch/Quellen/Englisch.md` | 12 | 0 | `99_Originale/Berufsschule/Englisch/Englisch.pdf` |
-| `02_Faecher/Englisch/Quellen/Englisch.md` | 13 | 45 | `99_Originale/Berufsschule/Englisch/Englisch.pdf` |
-| `02_Faecher/Englisch/Quellen/Englisch.md` | 19 | 57 | `99_Originale/Berufsschule/Englisch/Englisch.pdf` |
-| `02_Faecher/Englisch/Quellen/Englisch.md` | 22 | 0 | `99_Originale/Berufsschule/Englisch/Englisch.pdf` |
-| `02_Faecher/Englisch/Quellen/Englisch.md` | 26 | 37 | `99_Originale/Berufsschule/Englisch/Englisch.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1.md` | 1 | 25 | `99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md` | 2 | 96 | `99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md` | 8 | 30 | `99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md` | 12 | 74 | `99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md` | 17 | 89 | `99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md` | 20 | 105 | `99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md` | 23 | 116 | `99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Lernziele.md` | 2 | 29 | `99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md` | 5 | 0 | `99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md` | 6 | 0 | `99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md` | 13 | 94 | `99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md` | 64 | 0 | `99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md` | 65 | 0 | `99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md` | 66 | 0 | `99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md` | 67 | 0 | `99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md` | 7 | 93 | `99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md` | 77 | 96 | `99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md` | 1 | 0 | `99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt.md` | 1 | 0 | `99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt.md` | 4 | 115 | `99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt.md` | 6 | 0 | `99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf` |
-| `02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md` | 17 | 0 | `99_Originale/Berufsschule/ITT/Stößl/Skript.pdf` |
-| `02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md` | 1 | 0 | `99_Originale/Berufsschule/PUG/Pug.pdf` |
-| `02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md` | 16 | 25 | `99_Originale/Berufsschule/PUG/Pug.pdf` |
-| `02_Faecher/Religion/Quellen/Reli_Notizen.md` | 1 | 0 | `99_Originale/Berufsschule/Religion/Reli Notizen.pdf` |
-| `02_Faecher/Vertretung/Quellen/Untitled.md` | 1 | 0 | `99_Originale/Berufsschule/Vertretung/Untitled.pdf` |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md` | 2 | 0 | `99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf` |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md` | 5 | 78 | `99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf` |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki.md` | 1 | 0 | `99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf` |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki.md` | 2 | 0 | `99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf` |
+| `02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41.md` | 1 | 25 | `99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf` |
+| `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md` | 39 | 51 | `99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf` |
+| `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md` | 44 | 51 | `99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf` |
+| `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md` | 50 | 91 | `99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf` |
+| `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md` | 54 | 16 | `99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf` |
+| `02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md` | 20 | 18 | `99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf` |
+| `02_Faecher/Deutsch/Quellen/Deutsch.md` | 14 | 0 | `99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf` |
+| `02_Faecher/Deutsch/Quellen/Deutsch.md` | 29 | 46 | `99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf` |
+| `02_Faecher/Englisch/Quellen/Englisch.md` | 1 | 0 | `99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf` |
+| `02_Faecher/Englisch/Quellen/Englisch.md` | 9 | 56 | `99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf` |
+| `02_Faecher/Englisch/Quellen/Englisch.md` | 11 | 13 | `99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf` |
+| `02_Faecher/Englisch/Quellen/Englisch.md` | 12 | 0 | `99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf` |
+| `02_Faecher/Englisch/Quellen/Englisch.md` | 13 | 45 | `99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf` |
+| `02_Faecher/Englisch/Quellen/Englisch.md` | 19 | 57 | `99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf` |
+| `02_Faecher/Englisch/Quellen/Englisch.md` | 22 | 0 | `99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf` |
+| `02_Faecher/Englisch/Quellen/Englisch.md` | 26 | 37 | `99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1.md` | 1 | 25 | `99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md` | 2 | 96 | `99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md` | 8 | 30 | `99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md` | 12 | 74 | `99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md` | 17 | 89 | `99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md` | 20 | 105 | `99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe.md` | 23 | 116 | `99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Lernziele.md` | 2 | 29 | `99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md` | 5 | 0 | `99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md` | 6 | 0 | `99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md` | 13 | 94 | `99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md` | 64 | 0 | `99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md` | 65 | 0 | `99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md` | 66 | 0 | `99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md` | 67 | 0 | `99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md` | 7 | 93 | `99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md` | 77 | 96 | `99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md` | 1 | 0 | `99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt.md` | 1 | 0 | `99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt.md` | 4 | 115 | `99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt.md` | 6 | 0 | `99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf` |
+| `02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md` | 17 | 0 | `99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf` |
+| `02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md` | 1 | 0 | `99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf` |
+| `02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md` | 16 | 25 | `99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf` |
+| `02_Faecher/Religion/Quellen/Reli_Notizen.md` | 1 | 0 | `99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf` |
+| `02_Faecher/Vertretung/Quellen/Untitled.md` | 1 | 0 | `99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf` |

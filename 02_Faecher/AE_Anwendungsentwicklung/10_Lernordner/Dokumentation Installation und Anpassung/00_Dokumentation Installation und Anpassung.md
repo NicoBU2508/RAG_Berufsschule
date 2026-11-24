@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Dokumentation Installation und Anpassung** im Fach **AE Anwendungsentwicklung**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01AlgorithmusProgrammSoftwareEVA S. 1]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27|01AlgorithmusProgrammSoftwareEVA S. 27]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31|01AlgorithmusProgrammSoftwareEVA S. 31]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=77|01AlgorithmusProgrammSoftwareEVA S. 77]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82|01AlgorithmusProgrammSoftwareEVA S. 82]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=83|01AlgorithmusProgrammSoftwareEVA S. 83]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01AlgorithmusProgrammSoftwareEVA S. 1]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27|01AlgorithmusProgrammSoftwareEVA S. 27]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31|01AlgorithmusProgrammSoftwareEVA S. 31]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=77|01AlgorithmusProgrammSoftwareEVA S. 77]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82|01AlgorithmusProgrammSoftwareEVA S. 82]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=83|01AlgorithmusProgrammSoftwareEVA S. 83]].
 > - **Zentrale Suchbegriffe:** Dokumentation, Installation, Anpassung, Einstieg, Programmierung, Grundlagen, Software-Entwicklung, Methoden, schrittweisen, Verfeinerung.
 > - **Prüfungsbezug:** AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -59,16 +59,16 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1>) | Einstieg in die Programmierung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 27](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27>) | Grundlagen der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 31](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31>) | Methoden der schrittweisen Verfeinerung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 77](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=77>) | Das agile Vorgehensmodell | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 82](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82>) | Neuentwicklung und Anpassung von Software | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 83](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=83>) | Dokumentation von Software | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 84](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=84>) | Aufgabenblatt zu „Neuentwicklung und Anpassung sowie Dokumentation von Software“ | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 85](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=85>) | Fach: Anwendungsentwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 86](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86>) | Zur Unterstützungssoftware gehören beispielsweise Programme wie Editoren und | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 87](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=87>) | Installationsanleitung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1>) | Einstieg in die Programmierung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 27](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27>) | Grundlagen der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 31](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31>) | Methoden der schrittweisen Verfeinerung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 77](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=77>) | Das agile Vorgehensmodell | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 82](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82>) | Neuentwicklung und Anpassung von Software | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 83](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=83>) | Dokumentation von Software | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 84](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=84>) | Aufgabenblatt zu „Neuentwicklung und Anpassung sowie Dokumentation von Software“ | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 85](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=85>) | Fach: Anwendungsentwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 86](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86>) | Zur Unterstützungssoftware gehören beispielsweise Programme wie Editoren und | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 87](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=87>) | Installationsanleitung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -77,11 +77,11 @@ tags:
 #### Seite 1: Einstieg in die Programmierung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Einstieg in die Programmierung Anwendungsentwicklung Name: Klasse: Datum: Einige Grundbegriffe Die Entwicklung des Computers ermöglichte es, Rechenarbeit von Maschinen erledigen zu lassen. Der Computer kann jedoch allein keine Probleme lösen, ihm muss ein Lösungsweg vorgegeben werden. Dieser Lösungsweg wird dem Computer in Form eines Programms mitgeteilt. Ein Programm, was ist das eigentlich? • Ein Programm ist ein „Rezept“, eine Bearbeitungsvorschrift für einen Computer zur Lösung einer vorgegebenen Aufgabe und … • diese Bearbeitungsvorschrift wird auch Algorithmus genannt und … • der Algorithmus ist in einer speziellen Sprache formuliert, der Programmiersprache. • Die in der Programmierspr …
@@ -138,11 +138,11 @@ EVA - PRINZIP
 #### Seite 27: Grundlagen der Software-Entwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 27](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 27](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Grundlagen der Software-Entwicklung Anwendungsentwicklung Name: Klasse: Datum: 1 Phase 2: Entwurf (Design) Aufgabe: Wie ist die Software zu realisieren? Drei zentrale Punkte, die festzulegen sind: • Wie strukturiert man den Programmentwurf? Mit „Top-Down“ oder „Bottom Up“ … • Wie beschreiben wir die Algorithmen? Mittels STG, PAP, Pseudocode etc. • Mit welcher Programmiersprache erfolgt die Implementierung? Java, Python, C++, ... Test: • Entwurfstest der Dokumente und des Designs (z.B. mit Schreibtischtest etc.). • Funktionstest eines eventuell vorhandenen Prototyps. Ergebnis: Die Beschreibung des Entwurfs bzw. die Softwarespezifikation. Phase 3: Implementierung (Codierung) Aufgabe: Der Progr …
@@ -221,11 +221,11 @@ zum Entwicklungsprozess!
 #### Seite 31: Methoden der schrittweisen Verfeinerung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 31](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 31](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Mt - Methoden der schrittweisen Verfeinerung /stepwise refinement) : · Top-Down : Gesamtaufgabe in Teilalgorithmen zerlegt · Bottom-Up : einzelne Module zu Gesamtsystem zusammenfügen (wenn Aufgabenstellung nicht exakt beschrieben) · Up-Down : Kritische Teilaufgaben durch Bottom-Up ; Gesamtaufgabe durch Top-Down verfeinern _ = Gegenstromverfahren _ oder = Middle-Out-Verfahren M8 _ Vorteile : Modularitätsprinzip Abstraktionsprinzip · Module unabhängig realisierbar Schnittstelle Interface · Module durch Schnittstellen leicht Tauschbar · ~ einzeln auf Funktionalität und 오 Korrektheit prüfen /leicht Fehler finden ! Phasen Software Lebenszyklus : Module in anderen Programmen verwenden (Wiederverwe …
@@ -348,11 +348,11 @@ Pseudocode
 #### Seite 77: Das agile Vorgehensmodell
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 77](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=77>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=77]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 77](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=77>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=77]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=77]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=77]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Das agile Vorgehensmodell Scrum – Dritte Infos dazu: • Was sind denn die „Vorteile“ von Scrum? Da sich der Ablauf hauptsächlich auf die Akteure Product Owner, Scrum Master und Development Team beschränkt, sind hier die Kommunikationswege sehr kurz: Sie stehen im ständigen Kontakt mit- einander. Der Product Owner hält zudem den Kontakt zu den Stakeholdern. Wichtige Personen aus dieser Gruppe können auch an bestimmten Meetings teilnehmen. Die Scrum-Regeln selbst sind nicht kompliziert und von der Anzahl her überschaubar - Jemanden in den Ablauf zu integrieren, dürfte somit nicht allzu schwer sein. Das Development Team plant, welche Anforderungen des Product Backlogs im nächsten Sprint umge- se …
@@ -409,11 +409,11 @@ che bei Scrum mehr Handlungsvorgaben oder Handlungsempfehlungen.
 #### Seite 82: Neuentwicklung und Anpassung von Software
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 82](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 82](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Neuentwicklung und Anpassung von Software Zur Softwareentwicklung gehört neben der Neuentwicklung von Systemen auch die Anpassung be- stehender Systeme. Da gibt es nun verschiedene Möglichkeiten. Handelt es sich um eine Individualsoftware, so ist in der Regel der Quellcode bekannt und die vom Auftraggeber gewünschten Änderungen lassen sich programmtechnisch umsetzen. Verwendet der Kunde aber eine Standard- software und möchte er diese an seine persönlichen Anforderungen oder auf seine betriebliche Ablauforganisation anpassen, so bezeichnet man das als Customizing. Da bei einer Standardsoftware der Quellcode in der Regel weder bekannt und zugänglich ist, wird beim Customizing der Quellcode de …
@@ -467,11 +467,11 @@ toren und Compiler.
 #### Seite 83: Dokumentation von Software
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 83](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=83>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=83]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 83](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=83>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=83]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=83]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=83]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Dokumentation von Software Bei immer komplexer werdenden Abläufen oder Programmen, ist es sowohl für die Entwickler, Programmierer und Tester als auch für die Benutzer der Software essenziell notwendig, umfassend und verständlich darüber informiert zu werden. Dazu dienen die entsprechenden Dokumentationen. Für die Entwickler, Programmierer und Tester der Software sind es vor allem die Projektdokumen- tation, die Systemdokumentation und auch die Testdokumentation. Oft ist es ja so, dass über den Software-Lebenszyklus betrachtet, die ursprünglichen Entwickler und Programmierer in andere Pro- jekte eingebunden und deshalb nicht greifbar sind oder vielleicht auch gar nicht mehr der Firma angehör …
@@ -535,11 +535,11 @@ lassen sich nachvollziehen.
 #### Seite 84: Aufgabenblatt zu „Neuentwicklung und Anpassung sowie Dokumentation von Software“
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 84](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=84>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=84]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 84](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=84>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=84]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=84]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=84]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabenblatt zu „Neuentwicklung und Anpassung sowie Dokumentation von Software“ 1. Warum ist es in der Regel einfacher, eine Individualsoftware an die Wünsche des Kunden anzupassen, als eine Standardsoftware? 2. Was versteht man in Bezug auf die Anpassung von Standardsoftware unter Customizing? 3. Sollte das Customizing nicht ausreichen, was bietet sich eventuell daran an? Erläutere auch, was damit konkret gemeint ist. 4. Was versteht man unter einer Datenmigration? 5. Bei der Einteilung von Software ergänzen wir die Unterteilung in „Systemsoftware“ und „Anwendersoftware“ um die „Unterstützungssoftware“. Was ist damit gemeint? 6. Auch wenn deren Erstellung oft nur reduziert oder so nebenbei …
@@ -576,11 +576,11 @@ tation von Software für alle Beteiligten (Hersteller wie Benutzer) von großer 
 #### Seite 85: Fach: Anwendungsentwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 85](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=85>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=85]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 85](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=85>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=85]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=85]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=85]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Name: __________________________ Datum: ___________ Klasse: _________________________ Fach: Anwendungsentwicklung AUFGABEN- UND LERNBLATT Neuentwicklung, Anpassung und Dokumentation von Software 1. Warum ist es in der Regel einfacher, eine Individualsoftware an die Wünsche des Kunden anzupassen, als eine Standardsoftware? Bei einer Individualsoftware ist in der Regel der Quellcode bekannt, wodurch sich die vom Auftraggeber gewünschten Änderungen programmtechnisch umsetzen lassen. Bei einer Standardsoftware hingegen ist der Quellcode meist weder bekannt noch zugänglich. 2. Was versteht man in Bezug auf die Anpassung von Standardsoftware unter Customizing? Unter Customizing versteht man die An …
@@ -627,11 +627,11 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 #### Seite 86: Zur Unterstützungssoftware gehören beispielsweise Programme wie Editoren und
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 86](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 86](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Zur Unterstützungssoftware gehören beispielsweise Programme wie Editoren und Compiler. 6. Auch wenn deren Erstellung oft nur reduziert oder so nebenbei erfolgt - Warum ist die Dokumentation von Software für alle Beteiligten (Hersteller wie Benutzer) von großer Bedeutung? Aufgrund immer komplexer werdender Programme und Abläufe ist es für Entwickler und Benutzer essenziell, umfassend und verständlich informiert zu werden. Für Hersteller ist dies wichtig, da ursprüngliche Entwickler oft später in andere Projekte eingebunden sind oder die Firma verlassen haben. Neue Kollegen müssen sich schnell einarbeiten können, um Wartungen oder Änderungen vorzunehmen. Für Benutzer ist die Dokumentation unve …
@@ -695,11 +695,11 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 #### Seite 87: Installationsanleitung:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 87](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=87>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 87](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=87>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Installationsanleitung: Hier finden sich Anforderungen an Hardware, Betriebssystem und Softwareumgebung, Anweisungen zur Installation und Deinstallation sowie das Vorgehen bei Updates. Schulungsunterlagen: Diese werden häufig zur Verfügung gestellt, damit der Kunde den Umgang mit der Software anhand praxisnaher Beispiele erlernen kann. 10. Nenne vier Punkte, die eine gute Dokumentation von Software ausmachen. Die gewünschten Infos lassen sich schnell und einfach finden. Die Infos sind verständlich und widerspruchsfrei formuliert sowie schnell zu lesen. Die Infos sind vollständig und stets auf dem aktuellen Stand. Die Infos haben einen Bezug zur Praxis und lassen sich nachvollziehen. • • • • …
@@ -734,7 +734,7 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 - Frage:: Was ist der Kernpunkt zu **Das agile Vorgehensmodell** laut Quelle?
 - Antwort:: In der Regel sind solche Prozesse effektiver, als wenn sie von außen organisiert oder vorgegeben werden.
 - Beleg:: In der Regel sind solche Prozesse effektiver, als wenn sie von außen organisiert oder vorgegeben werden.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=77|01_Algorithmus_Programm_Software_EVA S. 77]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=77|01_Algorithmus_Programm_Software_EVA S. 77]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -742,7 +742,7 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 - Frage:: Was ist der Kernpunkt zu **Das agile Vorgehensmodell** laut Quelle?
 - Antwort:: Regel sind solche Prozesse effektiver, als wenn sie von außen organisiert oder vorgegeben werden.
 - Beleg:: Regel sind solche Prozesse effektiver, als wenn sie von außen organisiert oder vorgegeben werden.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=77|01_Algorithmus_Programm_Software_EVA S. 77]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=77|01_Algorithmus_Programm_Software_EVA S. 77]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -750,7 +750,7 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 - Frage:: Was ist der Kernpunkt zu **Neuentwicklung und Anpassung von Software** laut Quelle?
 - Antwort:: Da bei einer Standardsoftware der Quellcode in der Regel weder bekannt und zugänglich ist, wird beim Customizing der Quellcode der Standardsoftware auch nicht verändert.
 - Beleg:: Da bei einer Standardsoftware der Quellcode in der Regel weder bekannt und zugänglich ist, wird beim Customizing der Quellcode der Standardsoftware auch nicht verändert.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82|01_Algorithmus_Programm_Software_EVA S. 82]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82|01_Algorithmus_Programm_Software_EVA S. 82]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -758,7 +758,7 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 - Frage:: Was ist der Kernpunkt zu **Dokumentation von Software** laut Quelle?
 - Antwort:: Dokumentation von Software Bei immer komplexer werdenden Abläufen oder Programmen, ist es sowohl für die Entwickler, Programmierer und Tester als auch für die Benutzer der Software essenziell notwendig, umfassend und verständlich darüber informiert zu werden.
 - Beleg:: Dokumentation von Software Bei immer komplexer werdenden Abläufen oder Programmen, ist es sowohl für die Entwickler, Programmierer und Tester als auch für die Benutzer der Software essenziell notwendig, umfassend und verständlich darüber informiert zu werden.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=83|01_Algorithmus_Programm_Software_EVA S. 83]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=83|01_Algorithmus_Programm_Software_EVA S. 83]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -766,7 +766,7 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 - Frage:: Was ist der Kernpunkt zu **Dokumentation von Software** laut Quelle?
 - Antwort:: Wichtig ist auch die Dokumentation der Software-Tests: Von der Testplanung, der Festlegung der Testfälle, der Auswahl der Tests, deren Durchführung, bis hin zur Bewertung der Testergebnisse gehört alles da rein.
 - Beleg:: Wichtig ist auch die Dokumentation der Software-Tests: Von der Testplanung, der Festlegung der Testfälle, der Auswahl der Tests, deren Durchführung, bis hin zur Bewertung der Testergebnisse gehört alles da rein.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=83|01_Algorithmus_Programm_Software_EVA S. 83]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=83|01_Algorithmus_Programm_Software_EVA S. 83]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -774,7 +774,7 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 - Frage:: Was ist der Kernpunkt zu **Fach: Anwendungsentwicklung** laut Quelle?
 - Antwort:: Stößt auch das an seine Grenzen, ist oftmals eine Neuentwicklung sinnvoll, bei der ein auf die Bedürfnisse zugeschnittenes System individuell erstellt wird.
 - Beleg:: Stößt auch das an seine Grenzen, ist oftmals eine Neuentwicklung sinnvoll, bei der ein auf die Bedürfnisse zugeschnittenes System individuell erstellt wird.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=85|01_Algorithmus_Programm_Software_EVA S. 85]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=85|01_Algorithmus_Programm_Software_EVA S. 85]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -782,7 +782,7 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 - Frage:: Was ist der Kernpunkt zu **Aufgrund immer komplexer** laut Quelle?
 - Antwort:: Aufgrund immer komplexer werdender Programme und Abläufe ist es für Entwickler und Benutzer essenziell, umfassend und verständlich informiert zu werden.
 - Beleg:: Aufgrund immer komplexer werdender Programme und Abläufe ist es für Entwickler und Benutzer essenziell, umfassend und verständlich informiert zu werden.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86|01_Algorithmus_Programm_Software_EVA S. 86]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86|01_Algorithmus_Programm_Software_EVA S. 86]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -790,7 +790,7 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 - Frage:: Was ist der Kernpunkt zu **Dokumentation Installation und Anpassung** laut Quelle?
 - Antwort:: Benutzerhandbuch: Es beschreibt, was die Software kann, wie die Oberfläche aufgebaut ist und bedient wird, wie mit Fehlern umzugehen ist und wie man Kontakt zum Hersteller aufnimmt. • • • • Aufgabenblatt: Software-Engineering & Dokumentation
 - Beleg:: Benutzerhandbuch: Es beschreibt, was die Software kann, wie die Oberfläche aufgebaut ist und bedient wird, wie mit Fehlern umzugehen ist und wie man Kontakt zum Hersteller aufnimmt. • • • • Aufgabenblatt: Software-Engineering & Dokumentation
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86|01_Algorithmus_Programm_Software_EVA S. 86]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86|01_Algorithmus_Programm_Software_EVA S. 86]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

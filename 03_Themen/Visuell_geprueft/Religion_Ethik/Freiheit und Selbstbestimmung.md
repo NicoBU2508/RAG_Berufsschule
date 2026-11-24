@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Religion/Quellen/Reli_Notizen\|Reli_Notizen]] | [2–4](<99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2>) | loesung | 3 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/Religion/Quellen/Reli_Notizen\|Reli_Notizen]] | [2–4](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2>) | loesung | 3 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

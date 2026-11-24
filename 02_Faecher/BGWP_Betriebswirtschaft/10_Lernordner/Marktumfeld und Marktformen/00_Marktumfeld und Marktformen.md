@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Marktumfeld und Marktformen** im Fach **BGWP Betriebswirtschaft**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=22|BGWP S. 22]]; [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=23|BGWP S. 23]]; [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=24|BGWP S. 24]]; [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=25|BGWP S. 25]]; [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=26|BGWP S. 26]]; [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=27|BGWP S. 27]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=22|BGWP S. 22]]; [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=23|BGWP S. 23]]; [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=24|BGWP S. 24]]; [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=25|BGWP S. 25]]; [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=26|BGWP S. 26]]; [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=27|BGWP S. 27]].
 > - **Zentrale Suchbegriffe:** Marktumfeld, Marktformen, meines, Ausbildungsbetriebes.
 > - **Prüfungsbezug:** AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -62,23 +62,23 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 22](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=22>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 23](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=23>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 24](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=24>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 25](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=25>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 26](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=26>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 27](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=27>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 28](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=28>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 29](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=29>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 30](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=30>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 31](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=31>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 32](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=32>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 33](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=33>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 34](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=34>) | Angebotsüberschuss | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 35](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=35>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 36](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=36>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 37](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=37>) | BGWP Seite 37 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 17 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7>) | 1. Betriebsorganisation - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 22](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=22>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 23](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=23>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 24](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=24>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 25](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=25>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 26](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=26>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 27](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=27>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 28](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=28>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 29](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=29>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 30](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=30>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 31](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=31>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 32](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=32>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 33](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=33>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 34](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=34>) | Angebotsüberschuss | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 35](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=35>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 36](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=36>) | 07 Das Marktumfeld meines Ausbildungsbetriebes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 37](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=37>) | BGWP Seite 37 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 17 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7>) | 1. Betriebsorganisation - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -87,11 +87,11 @@ tags:
 #### Seite 22: 07 Das Marktumfeld meines Ausbildungsbetriebes
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 22](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=22>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=22]]`
+> - PDF: [BGWP.pdf Seite 22](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=22>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=22]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=22]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 07 Das Marktumfeld meines Ausbildungsbetriebes Klasse: Datum: Station 1 Aufgabe: Lies dir den Infotext aufmerksam durch. Markiere wichtige Informationen. Bearbeite anschließend die Übungsaufgabe. Um das Marktumfeld und die Marktsituation deines Ausbildungsbetriebes und anderer Unternehmen im Umfeld (Kunden, Lieferanten, …) besser beschreiben zu können, wird der Wirtschaftskreislauf modellhaft betrachtet. Doch zuerst stellt sich die Frage: Was ist ein Markt? Wirtschaftskreisläufe beschreiben einfache und erweiterte Geldkreisläufe in einer Volkswirtschaft modellhaft. Diese sind im Folgenden dargestellt: 1.1 der einfache Wirtschaftskreislauf Das Schaubild zeigt, dass die Haushalte (En …
@@ -126,11 +126,11 @@ Geld) und Boden (z.B. Grundstücke) den Unternehmen zur Verfügung stellen,
 #### Seite 23: 07 Das Marktumfeld meines Ausbildungsbetriebes
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 23](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=23>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=23]]`
+> - PDF: [BGWP.pdf Seite 23](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=23>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=23]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=23]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 07 Das Marktumfeld meines Ausbildungsbetriebes Klasse: Datum: damit diese sie einsetzen, um Konsumgüter zu erstellen. Die Unternehmen produzieren Konsumgüter, die wiederum die Haushalte kaufen. Das Geld, das die Haushalte für die Konsumgüter als Konsumausgaben zahlen, erhalten die Unternehmen. Die Unternehmen können dafür Löhne, Gehälter, Miete, Pacht oder Zinsen zahlen. 1.2 der erweiterte Wirtschaftskreislauf des Geldes Die volkswirtschaftliche Betrachtung unter 1.1 ist reduziert auf die Wirtschaftssubjekte Haushalte und Unternehmen. Andere Subjekte wurden ausgenommen. Da die wirtschaftlichen Zusammenhänge wesentlich komplizierter sind, wird ein erweiterter Wirtschaftskreislauf mi …
@@ -176,11 +176,11 @@ Staatseinnahmen muss er die Staatsausgaben für seine gesetzlichen Aufgaben
 #### Seite 24: 07 Das Marktumfeld meines Ausbildungsbetriebes
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 24](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=24>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=24]]`
+> - PDF: [BGWP.pdf Seite 24](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=24>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=24]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=24]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 07 Das Marktumfeld meines Ausbildungsbetriebes Klasse: Datum: Haushalten Transferzahlen (z. B. Kindergeld, Sparzulage, Sozialhilfe) ermöglichen oder den Unternehmen Subventionen (z. B. zur Investitionsförderung oder zur Arbeitsplatzschaffung) zahlen. In unsere Betrachtungen des Wirtschaftskreislaufs des Geldes wird zuletzt das Ausland einbezogen. Im Zuge der Globalisierung und damit der Öffnung der Weltmärkte nimmt das Ausland eine wichtige Rolle ein. Deutschland ist einerseits „Exportweltmeister", wodurch viel Geld aus dem Ausland nach Deutschland fließt, andererseits auch „Reiseweltmeister", wodurch die Deutschen viel Geld ins Ausland bringen.
@@ -208,11 +208,11 @@ Ausland bringen.
 #### Seite 25: 07 Das Marktumfeld meines Ausbildungsbetriebes
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 25](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=25>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=25]]`
+> - PDF: [BGWP.pdf Seite 25](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=25>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=25]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=25]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 07 Das Marktumfeld meines Ausbildungsbetriebes Klasse: Datum: Station 1 Übung Aufgabe: Ordne die mit Ziffern bezeichneten Geldströme den Zahlungsvorgängen von a) bis l) richtig zu. a) Ein japanisches Unternehmen überweist deutschen Aktionären ihre Dividende aus den Unternehmensaktien. b) Die JIKU IT Solutions erhält einen Kredit von der Bank gutgeschrieben. c) Das Kindergeld wird ausgezahlt. d) Jedes Jahr schreiben Banken Milliarden Euro an Zinsen Privatleuten gut. e) Ausländer legen ihr Geld wegen hoher Zinsen in Deutschland an. f) Ein US-amerikanischer IT-Konzern mit Sitz in Deutschland kauft Computer in China. g) Deutsche kaufen verstärkt Aktien asiatischer und osteuropäischer U …
@@ -262,11 +262,11 @@ I
 #### Seite 26: 07 Das Marktumfeld meines Ausbildungsbetriebes
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 26](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=26>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=26]]`
+> - PDF: [BGWP.pdf Seite 26](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=26>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=26]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=26]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 07 Das Marktumfeld meines Ausbildungsbetriebes Klasse: Datum: Station 2 Für Unternehmen ist es wichtig festzulegen, in welchen Märkten sie aktiv sein wollen. Allgemein lassen sich Märkte in folgende Marktarten unterscheiden. Nach der Art der angebotenen und nachgefragten Güter unterscheidet man: Verkäufermarkt: Markt, bei dem die Anbieter eine starke Position besitzen. Käufermarkt: Markt, bei dem die Nachfrager eine starke Position besitzen. Außerdem wird zwischen einem freien und geschlossenen Markt unterschieden. Aufgabe: Ordne den Marktarten die richtige Erläuterung zu. Freier Markt Nicht jeder hat Zugang zum Markt, z. B. Waffenmarkt, Großhandel (Metro) Geschlossener Markt Märkt …
@@ -312,11 +312,11 @@ Lebensmittelmarkt, Automarkt
 #### Seite 27: 07 Das Marktumfeld meines Ausbildungsbetriebes
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 27](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=27>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=27]]`
+> - PDF: [BGWP.pdf Seite 27](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=27>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=27]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=27]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 07 Das Marktumfeld meines Ausbildungsbetriebes Klasse: Datum: Exkurs: Im ITK-Bereich ist es üblich, Marktteilnehmer nach Marktbeziehungen oder Transaktionsbereiche zu unterscheiden. Die derzeit bedeutendsten E-Commerce- Anwendungen finden zwischen Unternehmen (Business-to-Business oder kurz B2B) sowie zwischen Unternehmen und Verbrauchern (Business-to-consumer oder kurz B2C) statt. Auch Behörden und Verwaltungen und damit der Administrationsbereich versuchen verstärkt, mithilfe von E-Commerce-Anwendungen Dienstleistungen besser und kostengünstiger anzubieten und zu verwalten.
@@ -344,11 +344,11 @@ besser und kostengünstiger anzubieten und zu verwalten.
 #### Seite 28: 07 Das Marktumfeld meines Ausbildungsbetriebes
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 28](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=28>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=28]]`
+> - PDF: [BGWP.pdf Seite 28](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=28>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=28]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=28]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 07 Das Marktumfeld meines Ausbildungsbetriebes Klasse: Datum: Station 3 Um im Markt einen möglichst perfekten Wettbewerb zu ermöglichen, müssen die Bedingungen im Markt vollkommen sein. Ein Markt ist vollkommen, wenn alle folgenden Bedingungen erfüllt sind: Aufgabe: Begründe zu jeder Annahme, wieso diese in der Realität nicht erfüllt ist. Du benötigst Hilfe? Sieh dir zur Erläuterung dieses kurze Video dazu an. Klicke auf den Link zum Video https://www.youtube.com/watch?v=0jKEY8WV2t8 oder scanne den QR-Code: & -> Polypol Große Unternehmen mit hohem Marktanteil z .b . Mobilfunkanbieter - Unternehmen heben sich durch individuelle Produkte von der Konkurrenz ab es ist nicht möglich , j …
@@ -408,11 +408,11 @@ werden
 #### Seite 29: 07 Das Marktumfeld meines Ausbildungsbetriebes
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 29](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=29>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=29]]`
+> - PDF: [BGWP.pdf Seite 29](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=29>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=29]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=29]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 07 Das Marktumfeld meines Ausbildungsbetriebes Klasse: Datum: Station 4 Die vollständige Konkurrenz in einem Markt und damit die Marktsituation eines Polypols sind für Volkswirtschaften anzustreben, um einen möglichst großen Nutzen für Käufer und eine möglichst aktive und innovative Entwicklung der Wirtschaft zu erreichen. In unvollkommenen Märkten können sich Monopole oder Oligopole bilden und damit ihre Marktmacht ausnutzen. Aber was ist das eigentlich? Aufgabe: Informiere dich nachfolgend über die verschiedenen Marktformen. 1. Monopol Ein Monopol ist eine Marktform, in der für ein Wirtschaftsgut nur ein Anbieter (Angebotsmonopol), ein Nachfrager (Nachfragemonopol) oder zweiseiti …
@@ -450,11 +450,11 @@ Wettbewerbsvorteile.
 #### Seite 30: 07 Das Marktumfeld meines Ausbildungsbetriebes
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 30](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=30>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=30]]`
+> - PDF: [BGWP.pdf Seite 30](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=30>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=30]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=30]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 07 Das Marktumfeld meines Ausbildungsbetriebes Klasse: Datum: 2. Oligopol Das Angebotsoligopol ist eine Marktform, in der vielen Nachfragern wenige Anbieter gegenüberstehen. Beispiele sind im Strom-, Mineralöl-, Mobilfunk-, Rolltreppen- oder Spielkonsolenmarkt zu finden. 3. Polypol Das Polypol ist die vom Staat bevorzugte oder angestrebte Marktform (zur Erreichung eines vollkommenen Marktes), bei der einer Vielzahl von Anbietern eine Vielzahl von Nachfragern gegenübersteht. Durch das Konkurrenzverhalten entsteht der Marktpreis durch Angebot und Nachfrage und ist optimal für Kunden. Näheres zur Preisbildung erfährst du in den folgenden Stunden. Die Märkte werden klassifiziert nach d …
@@ -488,11 +488,11 @@ Scanne den QR-Code und bearbeite die Übungsaufgabe zu den Marktformen.
 #### Seite 31: 07 Das Marktumfeld meines Ausbildungsbetriebes
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 31](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=31>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=31]]`
+> - PDF: [BGWP.pdf Seite 31](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=31>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=31]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=31]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 07 Das Marktumfeld meines Ausbildungsbetriebes Klasse: Datum: Anbieter- und Nachfragerverhalten am Markt Situation: Max Fröling und Stefan Becker von der IN Bike wollen einen neuen Verkaufsraum gestalten. Dabei machen sie sich Gedanken zu folgenden Punkten: Welche Fahrräder sollen wir anbieten? Und zu welchem Preis? Was werden die Kunden wohl kaufen? 1. Bestimmungsgründe für die Nachfrage privater Haushalte 2. Bestimmungsgründe für das Angebot von Unternehmen Individueller Nutzen Höhe des verfügbaren Einkommens Preis des Gutes Preis anderer Güter Preis des Gutes Kosten der Produktionsfaktoren Marktposition des Anbieters tatsächliche bzu . erwartete Marktlage
@@ -537,11 +537,11 @@ bzu . erwartete Marktlage
 #### Seite 32: 07 Das Marktumfeld meines Ausbildungsbetriebes
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 32](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=32>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=32]]`
+> - PDF: [BGWP.pdf Seite 32](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=32>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=32]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=32]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 07 Das Marktumfeld meines Ausbildungsbetriebes Klasse: Datum: Wiederholung: Um im Markt einen möglichst perfekten Wettbewerb zu ermöglichen, müssen die Bedingungen im Markt vollkommen sein. Ein Markt ist vollkommen, wenn alle folgenden Bedingungen erfüllt sind: Situation: Der Landwirt Herr Hahn verkauft auf dem Bauernmarkt in Ingolstadt seine Eier der Güterklasse A. Er möchte wissen, bei welchem Preis er alle seine Eier verkaufen kann. Er hat gehört, dass der Stückpreis, davon anhängig ist, welche Mengen Eier angeboten, nachgefragt und umgesetzt werden. Folgende Information vom Bauernmarkt hat er von Bekannten erhalten: Handlungsaufträge: 1. Stellen Sie obige Situation (Angebots- u …
@@ -576,11 +576,11 @@ Marktgleichgewicht
 #### Seite 33: 07 Das Marktumfeld meines Ausbildungsbetriebes
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 33](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=33>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=33]]`
+> - PDF: [BGWP.pdf Seite 33](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=33>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=33]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=33]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 07 Das Marktumfeld meines Ausbildungsbetriebes Klasse: Datum: Vollkommener Markt – Übung Situation: In den letzten Jahren wurde an den Warenbörsen festgestellt, dass der Preis für die dort gehandelten Rohkaffeebohnen sehr niedrig ist. Besonders betroffen davon sind Länder in Lateinamerika und Afrika, die zu den Haupterzeugerländern von Kaffee zählen. Aufgabe 1: An einer Warenbörse für Rohkaffee gehen folgende Kauf- und Verkaufsaufträge ein: Preis pro kg Angebots- menge Nachfrage- menge 1,50 € kg kg 3,00 € kg kg 4,50 € kg kg 6,00 € kg kg 7,50 € kg kg 1.1 Ermitteln Sie grafisch den Gleichgewichtspreis und die Gleichgewichtsmenge für den Rohkaffee. 1.2 Nennen Sie die Verkäufer, die be …
@@ -638,11 +638,11 @@ d) Erziehungsfunktion
 #### Seite 34: Angebotsüberschuss
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 34](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=34>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=34]]`
+> - PDF: [BGWP.pdf Seite 34](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=34>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=34]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=34]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 1 . Preis in E ↑ 0 .31 - X xA - Angebotsüberschuss 0 .29 - X X p=Opt---- - Gleichgewichts I Preis 0 .27- I - X I X ↓ N 025 -- , I z Nachfrage überschuss I I I zo "Menge in Stück O 100 3000 5000 **= 4. 000 Stück Gleichgewichtmenge 2. Angebot : Pa(x) = 160 .000x + 0.24 Nachfrage : Pr(x) = - pox + 0 , 63 Gleichsetzen : Angebot-Nachfrage 1 10000x + 0, 24 = - 800x + 0 ,3) 1 100 . 00X - 0 . 09 = - 600x 9 - 0,09 = - 600. 000 X 4 .000 = X = x* = 4000 Stick p * = PA(x) = 100 . 00 - 4 . 000 + 0. 24 = 0 . 287)
@@ -746,11 +746,11 @@ p
 #### Seite 35: 07 Das Marktumfeld meines Ausbildungsbetriebes
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 35](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=35>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=35]]`
+> - PDF: [BGWP.pdf Seite 35](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=35>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=35]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=35]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 07 Das Marktumfeld meines Ausbildungsbetriebes Klasse: Datum: Vollkommener Markt – Übung Situation: In den letzten Jahren wurde an den Warenbörsen festgestellt, dass der Preis für die dort gehandelten Rohkaffeebohnen sehr niedrig ist. Besonders betroffen davon sind Länder in Lateinamerika und Afrika, die zu den Haupterzeugerländern von Kaffee zählen. Aufgabe 1: An einer Warenbörse für Rohkaffee gehen folgende Kauf- und Verkaufsaufträge ein: Preis pro kg Angebots- menge Nachfrage- menge 1,50 € kg kg 3,00 € kg kg 4,50 € kg kg 6,00 € kg kg 7,50 € kg kg 1.1 Ermitteln Sie grafisch den Gleichgewichtspreis und die Gleichgewichtsmenge für den Rohkaffee. 1.2 Nennen Sie die Verkäufer, die be …
@@ -808,11 +808,11 @@ d) Erziehungsfunktion
 #### Seite 36: 07 Das Marktumfeld meines Ausbildungsbetriebes
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 36](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=36>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=36]]`
+> - PDF: [BGWP.pdf Seite 36](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=36>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=36]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=36]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 07 Das Marktumfeld meines Ausbildungsbetriebes Klasse: Datum: Aufgabe 2: Aufgrund eines starken Befalls der Kaffeepflanzen durch Schädlinge fiel die Kaffeeernte deutlich geringer aus. 2.1 Beschreiben Sie die Veränderung der Marktsituation bei unveränderter Nachfrage. 2.2 Welche Auswirkung ergibt sich auf Grund der veränderten Marktsituation für Preis und Menge der gehandelten Kaffeebohnen? Aufgabe 3: Anders als im Modell haben Sie in der Realität täglich die Wahl zwischen vielen Kaffeesorten mit sehr unterschiedlichen Preisen. Nennen Sie 3 Gründe für die unterschiedlichen Kaffeepreise. das Angebot sinkt Preis steigt Menge sinkt - Qualität - Herkunf -Marke - Produktionsbedingungen
@@ -850,11 +850,11 @@ Menge sinkt
 #### Seite 37: BGWP Seite 37
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 37](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=37>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=37]]`
+> - PDF: [BGWP.pdf Seite 37](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=37>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=37]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=37]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 1 . Preis in E ↑ 7 - X -A 6 - X T 5- X 4 3- X T 2 - X X 1 - s I I I I I I 111 I 19 Menge in Stück ⑧ 2000 4000 600 das 10008 12 .000 2 Va , V Angebotsüberschuss 4 . a) Wert eines Gutes/Knappheit b) Der Preis bringt Angebot und Nachfrage ins Gleichgewicht 2) Falsch wirtschaftende Unternehmen bestehen nicht d) Der Preis erzieht wirtschaftlich zu handeln
@@ -940,11 +940,11 @@ zu handeln
 #### Seite 7: 1. Betriebsorganisation - Grundlagen
 
 > [!referenz] Exakte Referenz
-> - PDF: [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7]]`
+> - PDF: [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 1. Betriebsorganisation - Grundlagen « Definition: Aufstellung von Verhaltens- und Arbeitsregeln für Menschen sowie Funktionsregeln für Maschinen (= geschaffene Ordnung). « _Organisationsgrade:lmprovisation: Intuitive Entscheidung bei unvorhersehbaren/nicht planbaren Situationen. Ziel: Wirtschaftlichkeit. ¢ © Disposition: Fallweise (spontane) Regelungen, wenn noch keine endgültigen Regeln existieren. Ziel: Flexibilität. ¢ Organisation: Generelle, dauerhafte Regelungen für optimale Ordnung. Ziel: ‚Stabilität. « © Organisationsgrundsätze: Muss wirtschaftlich (Minimal-/Maximalprinzip), zweckmäßig, flexibel & stabil zugleich sowie klar sein. * Arten der Organisation: Aufbauorganisation: Festgele …
@@ -1238,7 +1238,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Das Marktumfeld meines Ausbildungsbetriebes** laut Quelle?
 - Antwort:: Um das Marktumfeld und die Marktsituation deines Ausbildungsbetriebes und anderer Unternehmen im Umfeld (Kunden, Lieferanten, …) besser beschreiben zu können, wird der Wirtschaftskreislauf modellhaft betrachtet.
 - Beleg:: Um das Marktumfeld und die Marktsituation deines Ausbildungsbetriebes und anderer Unternehmen im Umfeld (Kunden, Lieferanten, …) besser beschreiben zu können, wird der Wirtschaftskreislauf modellhaft betrachtet.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=22|BGWP S. 22]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=22|BGWP S. 22]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1246,7 +1246,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Das Marktumfeld meines Ausbildungsbetriebes** laut Quelle?
 - Antwort:: 1.2 der erweiterte Wirtschaftskreislauf des Geldes Die volkswirtschaftliche Betrachtung unter 1.1 ist reduziert auf die Wirtschaftssubjekte Haushalte und Unternehmen.
 - Beleg:: 1.2 der erweiterte Wirtschaftskreislauf des Geldes Die volkswirtschaftliche Betrachtung unter 1.1 ist reduziert auf die Wirtschaftssubjekte Haushalte und Unternehmen.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=23|BGWP S. 23]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=23|BGWP S. 23]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1254,7 +1254,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Das Marktumfeld meines Ausbildungsbetriebes** laut Quelle?
 - Antwort:: Da die wirtschaftlichen Zusammenhänge wesentlich komplizierter sind, wird ein erweiterter Wirtschaftskreislauf mit Banken, dem Staat und dem Ausland als weitere agierende Wirtschaftssubjekte betrachtet.
 - Beleg:: Da die wirtschaftlichen Zusammenhänge wesentlich komplizierter sind, wird ein erweiterter Wirtschaftskreislauf mit Banken, dem Staat und dem Ausland als weitere agierende Wirtschaftssubjekte betrachtet.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=23|BGWP S. 23]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=23|BGWP S. 23]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1262,7 +1262,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Das Marktumfeld meines Ausbildungsbetriebes** laut Quelle?
 - Antwort:: Deutschland ist einerseits „Exportweltmeister", wodurch viel Geld aus dem Ausland nach Deutschland fließt, andererseits auch „Reiseweltmeister", wodurch die Deutschen viel Geld ins Ausland bringen.
 - Beleg:: Deutschland ist einerseits „Exportweltmeister", wodurch viel Geld aus dem Ausland nach Deutschland fließt, andererseits auch „Reiseweltmeister", wodurch die Deutschen viel Geld ins Ausland bringen.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=24|BGWP S. 24]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=24|BGWP S. 24]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1270,7 +1270,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Das Marktumfeld meines Ausbildungsbetriebes** laut Quelle?
 - Antwort:: Er hat gehört, dass der Stückpreis, davon anhängig ist, welche Mengen Eier angeboten, nachgefragt und umgesetzt werden.
 - Beleg:: Er hat gehört, dass der Stückpreis, davon anhängig ist, welche Mengen Eier angeboten, nachgefragt und umgesetzt werden.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=32|BGWP S. 32]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=32|BGWP S. 32]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1278,7 +1278,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Betriebsorganisation - Grundlagen** laut Quelle?
 - Antwort:: Unternehmensziele « (Ökonomische Ziele: Oberziel ist die Gewinnmaximierung. {Monetär: In Geld messbar (z.
 - Beleg:: Unternehmensziele « (Ökonomische Ziele: Oberziel ist die Gewinnmaximierung. {Monetär: In Geld messbar (z.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1286,7 +1286,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist **Betriebsorganisation - Grundlagen** laut Quelle?
 - Antwort:: « Definition: Aufstellung von Verhaltens- und Arbeitsregeln für Menschen sowie Funktionsregeln für Maschinen (= geschaffene Ordnung).
 - Beleg:: « Definition: Aufstellung von Verhaltens- und Arbeitsregeln für Menschen sowie Funktionsregeln für Maschinen (= geschaffene Ordnung).
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

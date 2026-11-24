@@ -2,15 +2,15 @@
 id: vault.thema.visuell.geschaftsbrief
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Geschäftsbrief"
 kategorie: Deutsch_Englisch_Kommunikation
-quellen: 2
-seiten: 9
+quellen: 3
+seiten: 12
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,8 +25,9 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [1–5, 14](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1>) | aufgabe, beispiel, fragment, theorie | 1 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [17–19](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=17>) | beispiel | 3 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [1–5, 14](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1>) | aufgabe, beispiel, fragment, theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript\|Deutsch_2LJ_Skript]] | [22, 29–30](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=22>) | aufgabe, theorie | 2 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [17–19](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=17>) | beispiel | 3 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

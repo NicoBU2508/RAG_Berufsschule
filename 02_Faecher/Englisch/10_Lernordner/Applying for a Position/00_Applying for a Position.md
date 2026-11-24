@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Applying for a Position** im Fach **Englisch**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2|Englisch S. 2]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3|Englisch S. 3]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4|Englisch S. 4]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29|Englisch S. 29]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30|Englisch S. 30]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37|Englisch S. 37]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2|Englisch S. 2]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3|Englisch S. 3]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4|Englisch S. 4]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29|Englisch S. 29]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30|Englisch S. 30]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37|Englisch S. 37]].
 > - **Zentrale Suchbegriffe:** Applying, for, Position, English, EIT, People, and, Communication, E-Mails, writing.
 > - **Prüfungsbezug:** Berufsschule/Kommunikation, prüfungsnahes Fachvokabular.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -56,13 +56,13 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29>) | Communication: E-Mails | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 30](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30>) | I am writing to confirm your application for a stand at the Technical Trades Fair. The sta … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37>) | responsibilities | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40>) | English -IT - computer hardware- date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29>) | Communication: E-Mails | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 30](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30>) | I am writing to confirm your application for a stand at the Technical Trades Fair. The sta … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37>) | responsibilities | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40>) | English -IT - computer hardware- date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -71,11 +71,11 @@ tags:
 #### Seite 2: English – EIT – People and jobs in IT – Date:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2]]`
+> - PDF: [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > English – EIT – People and jobs in IT – Date: __________________________ JOB DESCRIPTIONS Today computers are everywhere you turn – not only in office jobs, but also in engineering, production, en- tertainment and many more. In fact, it is hard to imag- ine working in a job that does not use a computer at some point. Despite this, only a small majority of com- puter users can be called experts, and an even smaller number of people understand what happens behind the screen. It takes IT experts to create and service the machines and applications that so many people depend on. And these experts need to have a wide range of qualifications and skills to provide the quality and support necessary. …
@@ -162,11 +162,11 @@ design, and an eye for detail.”
 #### Seite 3: English – EIT – People and jobs in IT – Date:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3]]`
+> - PDF: [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > English – EIT – People and jobs in IT – Date: __________________________ TASK Read the four texts again and make a list outlining the responsibilities, skills and qualifications required for each job. JOB RESPONSIBILITES SKILLS QUALIFICATIONS IT consultant Network Administrator Computer Programmer Web Developer https://www.prospects.ac.uk/job-profiles/browse-sector/information-technology applying IT to business analytical, comunication Computer Science, busnes education - install, upgrade , troubleshoot analytical, communication broad education in IT-Systems networks international reconized cetificates · maintenance LANIVAN develope new applications problem solving programminy languages upda …
@@ -264,11 +264,11 @@ graphik design, software engineering
 #### Seite 4: English – EIT – People and jobs in IT – Date:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4]]`
+> - PDF: [Englisch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > English – EIT – People and jobs in IT – Date: __________________________ APPLYING FOR A POSITION Nearing the end of your apprenticeship you will be searching for permanent employment. Maybe you will consider working abroad so you will keep your eyes open for relevant job offers. In doing so, you encounter the following adver- tisement. For more information please apply online to: personnel@IT-comp... TASK Find equivalents for the following German terms and phrases in the job advertisement above!  Sozialkompetenz  erstrangiges Unternehmen  ein breites Spektrum an Fähigkeiten  unerlässlich, unentbehrlich  Verantwortlichkeiten  Kommunikationsfähigkeit  Network Administrator / Network Su …
@@ -337,11 +337,11 @@ E
 #### Seite 29: Communication: E-Mails
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29]]`
+> - PDF: [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: Communication: E-Mails Situation: You are getting work experience at HardWareHouse, an IT hardware wholesaler. Your supervisor asks you to take care of a customer enquiry. 1) Giving the E-Mail Address over the phone. Match the symbols (1-6) to the words (a-f). 1 + 4 - a at d plus 2 _ 5 . b dot e number 3 @ 6 3 c hyphen f underscore 2) Listen to your supervisor and a customer on the phone. Which E-Mail Address is correct? 1 1 a tm.martin@hard_warehouse.co.uk a maryannbrown@5+5_services.net b tmmartin@hardware-house.co.uk b mary-anne-brown@5+5services.net c tm.martin@hardware_house.co.uk c maryann-brown@5+5services.net 3) Work with a partner. Study the subject lines (1-6) be …
@@ -439,11 +439,11 @@ O
 #### Seite 30: I am writing to confirm your application for a stand at the Technical Trades Fair. The sta …
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 30](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30]]`
+> - PDF: [Englisch.pdf Seite 30](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 4 I am writing to confirm your application for a stand at the Technical Trades Fair. The stand number is CO2208. _______________________________________________________________________________ 5 As promised, here is the link to the website www.tipsformails.com. _______________________________________________________________________________ 6 This is just to let you know that I am interviewing a new technician at 12:30. _______________________________________________________________________________ 6 A Z
@@ -482,11 +482,11 @@ Z
 #### Seite 37: responsibilities
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37]]`
+> - PDF: [Englisch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > responsibilities Aufgaben / Verantwortlichkeiten troubleshoot Fehler beheben implement / implementation umsetzen / Umsetzung maintain / maintenance warten / Wartung confidential vertraulich analytical skills analytische Fähigkeiten communication skills Kommunikationsfähigkeit people skills Sozialkompetenz broad range of skills breites Spektrum an Fähigkeiten essential unerlässlich / unentbehrlich leading blue chip company erstrangiges Unternehmen debug Fehler im Code suchen defect Fehler / Mangel apply IT to business processes IT auf Geschäftsprozesse anwenden keep up to date auf dem neuesten Stand bleiben advise clients Kunden beraten LAN / WAN lokales / weiträumiges Netzwerk data visualiza …
@@ -577,11 +577,11 @@ Ich sorge dafür, dass er die Nachricht erhält.
 #### Seite 40: English -IT - computer hardware- date:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40]]`
+> - PDF: [Englisch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > English -IT - computer hardware- date: C Assemblingacomputer In ihrer Klasse haben Sie zurzeit einen Austauschschüler aus England, der ein Praktikumin Ihrem.Betrieb absolviert.Der Austauschschüler bittet Sie, ihm im Rahmen des Projekts „Aufbau eines PCs" zu helfen. TASK Übertragen Sie folgende Montageanleitung stichwortartig ins Englische. Benutze die Anweisungen und die verfügbare Hardware und baue den Computer schrittweise zusammen. a) Das Gehäuse Öffne die seitliche Gehäusewand und lege daș Gehäuse auf seine linke Seite (von vorne gesehen). b) Das Netzteil Setzte das Netzteil im oberen Bereich des Gehäuses ein. Achte darauf, dass das Netzteil so eingebaut ist, dass die Lüfter frei liegen …
@@ -627,7 +627,7 @@ Netzteil.
 - Frage:: Was ist der Kernpunkt zu **English – EIT – People and jobs in IT – Date:** laut Quelle?
 - Antwort:: People skills and the ability to communicate are essential for the position.
 - Beleg:: People skills and the ability to communicate are essential for the position.
-- Quelle:: [[02_Faecher/Englisch/Quellen/Englisch|Englisch]], [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4|Englisch S. 4]]
+- Quelle:: [[02_Faecher/Englisch/Quellen/Englisch|Englisch]], [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4|Englisch S. 4]]
 - Prüfung:: Berufsschule/Kommunikation, prüfungsnahes Fachvokabular
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -635,7 +635,7 @@ Netzteil.
 - Frage:: Was ist der Kernpunkt zu **English -IT - computer hardware- date:** laut Quelle?
 - Antwort:: Achte darauf, dass das Netzteil so eingebaut ist, dass die Lüfter frei liegen und nicht von der Gehäusewand verdeckt sind c) Das Mainboard Montiere das Mainboard in das Gehäuse.
 - Beleg:: Achte darauf, dass das Netzteil so eingebaut ist, dass die Lüfter frei liegen und nicht von der Gehäusewand verdeckt sind c) Das Mainboard Montiere das Mainboard in das Gehäuse.
-- Quelle:: [[02_Faecher/Englisch/Quellen/Englisch|Englisch]], [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40|Englisch S. 40]]
+- Quelle:: [[02_Faecher/Englisch/Quellen/Englisch|Englisch]], [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40|Englisch S. 40]]
 - Prüfung:: Berufsschule/Kommunikation, prüfungsnahes Fachvokabular
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -643,7 +643,7 @@ Netzteil.
 - Frage:: Welche Vorgabe nennt die Quelle zu **English -IT - computer hardware- date:**?
 - Antwort:: Anschließend muss das Mainboard an das Netzteil angeschlossen werden. d) Der Prozessor Die CPU ist bereits samt Lüfter auf dem Mainboard montiert.
 - Beleg:: Anschließend muss das Mainboard an das Netzteil angeschlossen werden. d) Der Prozessor Die CPU ist bereits samt Lüfter auf dem Mainboard montiert.
-- Quelle:: [[02_Faecher/Englisch/Quellen/Englisch|Englisch]], [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40|Englisch S. 40]]
+- Quelle:: [[02_Faecher/Englisch/Quellen/Englisch|Englisch]], [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40|Englisch S. 40]]
 - Prüfung:: Berufsschule/Kommunikation, prüfungsnahes Fachvokabular
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

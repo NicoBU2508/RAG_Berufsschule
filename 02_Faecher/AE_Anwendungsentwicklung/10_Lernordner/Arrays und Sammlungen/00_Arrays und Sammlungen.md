@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Arrays und Sammlungen** im Fach **AE Anwendungsentwicklung**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01AlgorithmusProgrammSoftwareEVA S. 7]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=32|01AlgorithmusProgrammSoftwareEVA S. 32]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33|01AlgorithmusProgrammSoftwareEVA S. 33]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34|01AlgorithmusProgrammSoftwareEVA S. 34]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=35|01AlgorithmusProgrammSoftwareEVA S. 35]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=37|01AlgorithmusProgrammSoftwareEVA S. 37]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01AlgorithmusProgrammSoftwareEVA S. 7]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=32|01AlgorithmusProgrammSoftwareEVA S. 32]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33|01AlgorithmusProgrammSoftwareEVA S. 33]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34|01AlgorithmusProgrammSoftwareEVA S. 34]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=35|01AlgorithmusProgrammSoftwareEVA S. 35]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=37|01AlgorithmusProgrammSoftwareEVA S. 37]].
 > - **Zentrale Suchbegriffe:** Arrays, Sammlungen, Darstellungsform, Programmabläufe, Eindimensionale, Felder, Aufgabe, bedingten, Lösungsvorschlag, zahlen.
 > - **Prüfungsbezug:** AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -62,28 +62,28 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7>) | Eine Darstellungsform für Programmabläufe ist das | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 32](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=32>) | Eindimensionale Arrays/Felder | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33>) | Aufgabe zu Arrays und zu bedingten Wiederholungen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 34](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34>) | Aufgabe zu Arrays und zu bedingten Wiederholungen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 35](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=35>) | Lösungsvorschlag: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=37>) | zahlen [100] ; | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38>) | Beispiel zu einem zweidimensionalen Array - Lösung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 39](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39>) | Die Feldwerte ergeben sich aus dem Produkt der beiden Laufvariablen i | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=40>) | Aufgabe zu einem zweidimensionalen Array. Das vorgegebene Array heißt | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=41>) | 2. für das Struktogramm: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44>) | Nun geht es um Such-Algorithmen! | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 45](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=45>) | Aufgabenstellung zur linearen Suche: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=46>) | Er löst eine Aufgabe / ein Problem mit Hilfe von _____________________________. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 49](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=49>) | So findet man das häufig in mathematischen Formelsammlungen etc. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 69](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=69>) | Das agile Vorgehensmodell Scrum – Erste Infos dazu: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 70](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=70>) | Das agile Vorgehensmodell | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7>) | Eine Darstellungsform für Programmabläufe ist das | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 32](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=32>) | Eindimensionale Arrays/Felder | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33>) | Aufgabe zu Arrays und zu bedingten Wiederholungen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 34](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34>) | Aufgabe zu Arrays und zu bedingten Wiederholungen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 35](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=35>) | Lösungsvorschlag: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=37>) | zahlen [100] ; | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38>) | Beispiel zu einem zweidimensionalen Array - Lösung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 39](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39>) | Die Feldwerte ergeben sich aus dem Produkt der beiden Laufvariablen i | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=40>) | Aufgabe zu einem zweidimensionalen Array. Das vorgegebene Array heißt | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=41>) | 2. für das Struktogramm: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44>) | Nun geht es um Such-Algorithmen! | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 45](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=45>) | Aufgabenstellung zur linearen Suche: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=46>) | Er löst eine Aufgabe / ein Problem mit Hilfe von _____________________________. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 49](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=49>) | So findet man das häufig in mathematischen Formelsammlungen etc. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 69](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=69>) | Das agile Vorgehensmodell Scrum – Erste Infos dazu: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 70](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=70>) | Das agile Vorgehensmodell | Quellenreferenz/Keyword/chronologische Themenstruktur |
 | 17 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics\|JAVA_Java_Basics]] | [Java Basics.pdf Seite 4](<../../../../99_Originale/Basics/JAVA/Java Basics.pdf#page=4>) | Randome-Klasse | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 18 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26>) | Der einfachste Datentyp ist boolean. Ein Attribut vom Datentyp boolean kann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 19 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41>) | Wichtig ist, dass dem Methodennamen runde Klammer folgen, auch wenn keine | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 20 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=26>) | Der einfachste Datentyp ist boolean. Ein Attribut vom Datentyp boolean kann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 21 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=41>) | Wichtig ist, dass dem Methodennamen runde Klammer folgen, auch wenn keine | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 22 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=44>) | Der einfachste Datentyp ist boolean. Ein Attribut vom Datentyp boolean kann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 18 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26>) | Der einfachste Datentyp ist boolean. Ein Attribut vom Datentyp boolean kann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 19 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41>) | Wichtig ist, dass dem Methodennamen runde Klammer folgen, auch wenn keine | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 20 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=26>) | Der einfachste Datentyp ist boolean. Ein Attribut vom Datentyp boolean kann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 21 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=41>) | Wichtig ist, dass dem Methodennamen runde Klammer folgen, auch wenn keine | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 22 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=44>) | Der einfachste Datentyp ist boolean. Ein Attribut vom Datentyp boolean kann | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -92,11 +92,11 @@ tags:
 #### Seite 7: Eine Darstellungsform für Programmabläufe ist das
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Eine Darstellungsform für Programmabläufe ist das Struktogramm (auch: Nassi-Shneiderman-Diagramm) STG (Struktogramm) zur Aufgabe „3%-Rabatt auf Einkaufswert über 1000 €“: Einseitig bedingte Auswahl bzw. Bedingte Anweisung Struktogramme stellen den Programmablauf in Form eines geschlossenen Blocks dar. Würde man „rabatt := 0“ in das leere Feld unter „Nein“ schreiben, so könnte man sich eine Zeile sparen. Es handelt sich dann aber um die zweiseitig bedingte Auswahl bzw. Verzweigung oder Alter- native. Sequenz bzw. Folgestruktur Beginn rabatt := 0 Ausgabe (“Preis eingeben:“) Eingabe (preis) Ja Nein rabatt := preis * 0.03 * endpreis := preis - rabatt Ausgabe (“Zu zahlen:“) Ausgabe (endpreis) End …
@@ -147,11 +147,11 @@ Verarbeitung
 #### Seite 32: Eindimensionale Arrays/Felder
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 32](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=32>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=32]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 32](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=32>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=32]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=32]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 쯔 Eindimensionale Arrays/Felder -caireanftiounI 3 5 a I whar deiflouomauts · Kopfgesteuerte bedingte Schleife · fußgesteuerte zählergesteuerte Schleife · Mehrfache Verzweigung · Einseitig bedingte Auswahl ↳Bedingte Anreisung · Zweiseitig … Anweisung Verzweigung Geschachtelte Verzweigung anlegen von Variablen Deklaration U Anweisung erste Wertzuweisung Initialisierung Declaration Initialisierung
@@ -193,11 +193,11 @@ Initialisierung
 #### Seite 33: Aufgabe zu Arrays und zu bedingten Wiederholungen
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe zu Arrays und zu bedingten Wiederholungen Ausgangslage: Die Brauerei Schluckspecht gewährt ihren Kunden  bei einer Mindestabnahme von 10 Kästen 5 % Rabatt,  bei einer Mindestabnahme von 50 Kästen 7 % Rabatt und  bei einer Mindestabnahme von 100 Kästen 10 % Rabatt. Diese Regelung soll durch einen Programmbaustein automatisch berücksichtigt werden. Gegeben ist nun folgender Struktogrammauszug mit zugehöriger Wertetabelle. Die Wertetabelle besteht aus zwei eindimensionalen Arrays: „Wert1“ und „Wert2“. In „Wert1“ sind die Anzahl der Kästen hinterlegt, ab denen ein bestimmter Rabatt gilt. In „Wert2“ sind die zugehörigen Rabatte als Prozentzahlen eingetragen. Beide Arrays (sowohl „Wert1 …
@@ -279,11 +279,11 @@ Widerholung
 #### Seite 34: Aufgabe zu Arrays und zu bedingten Wiederholungen
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 34](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 34](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe zu Arrays und zu bedingten Wiederholungen Ausgangslage: Die Brauerei Schluckspecht gewährt ihren Kunden  bei einer Mindestabnahme von 10 Kästen 5 % Rabatt,  bei einer Mindestabnahme von 50 Kästen 7 % Rabatt und  bei einer Mindestabnahme von 100 Kästen 10 % Rabatt. Diese Regelung soll durch einen Programmbaustein automatisch berücksichtigt werden. Gegeben ist nun folgender Struktogrammauszug mit zugehöriger Wertetabelle. Die Wertetabelle besteht aus zwei eindimensionalen Arrays: „Wert1“ und „Wert2“. In „Wert1“ sind die Anzahl der Kästen hinterlegt, ab denen ein bestimmter Rabatt gilt. In „Wert2“ sind die zugehörigen Rabatte als Prozentzahlen eingetragen. Beide Arrays (sowohl „Wert1 …
@@ -360,11 +360,11 @@ Feld
 #### Seite 35: Lösungsvorschlag:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 35](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=35>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=35]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 35](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=35>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=35]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=35]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Lösungsvorschlag:
@@ -378,11 +378,11 @@ Lösungsvorschlag:
 #### Seite 37: zahlen [100] ;
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=37>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=37]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=37>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=37]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=37]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > integer zahlen [100] ; for i : = 0 to 99 do
@@ -402,11 +402,11 @@ do
 #### Seite 38: Beispiel zu einem zweidimensionalen Array - Lösung:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Beispiel zu einem zweidimensionalen Array - Lösung: Damit du die nachfolgende Aufgabe selbst lösen kannst, gehen wir dieses Beispiel ge- meinsam durch. Zurück zur Aufgabenstellung: In einem zweidimensionalen Feld/Ar- ray sollen doch die Produkte der Zahlen 1 bis 10 (z.B. 1*1=1 etc.) abgelegt werden: (1*1 =) 1 (1*2 =) 2 (1*3 =) 3 … (1*10 =) 10 (2*1 =) 2 (2*2 =) 4 (2*10 =) 20 … (10*1 =) 10 (10*10 =) 100 Lösen wir diese Aufgabe gemeinsam: Wir brauchen also ein zweidimensionales Feld/Array (nennen wir es ruhig „produkt“), das Ganzzahlen aufnehmen kann. Hier bietet sich der Datentyp Integer an. Wir schrei- ben den Programmablauf nicht in einer konkreten Programmiersprache, sondern in ei- nem Pseu …
@@ -466,11 +466,11 @@ d.h. das Feld „produkt“ wird somit zeilenweise mit Werten belegt.
 #### Seite 39: Die Feldwerte ergeben sich aus dem Produkt der beiden Laufvariablen i
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 39](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 39](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > zu 4: Die Feldwerte ergeben sich aus dem Produkt der beiden Laufvariablen i und j. Da die Indizes bei „0“ beginnen, müssen beide Laufvariablen für die Berechnungen um 1 erhöht werden. Damit du den Ablauf besser nachvollziehen kannst, habe ich ihn detailliert ausgeführt: Frage an dich: Wie viele Schleifendurchläufe gibt es hier insgesamt? _________ Aufgabe zu einem zweidimensionalen Array. Das vorgegebene Array heißt „arStat“ und ist nullindiziert! Es beinhaltet die Zahlen von 1 bis 12. Die Werte jeweils einer Zeile sind miteinander zu multiplizieren. Die entstehenden Pro- dukte (die Produkte der einzelnen Zeilen) sind zu addieren und die Gesamtsumme ist auszugeben.Verwendet werden sollen die …
@@ -527,11 +527,11 @@ weiter!
 #### Seite 40: Aufgabe zu einem zweidimensionalen Array. Das vorgegebene Array heißt
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=40>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=40>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe zu einem zweidimensionalen Array. Das vorgegebene Array heißt „arStat“ und ist nullindiziert! Es beinhaltet die Zahlen von 1 bis 12. Die Werte jeweils einer Zeile sind miteinander zu multiplizieren. Die entstehenden Produkte (die Produkte der einzelnen Zeilen) sind zu addieren und die Gesamtsumme ist auszugeben.Verwendet werden sollen die Variablen … • produkt • summe • i (für den Zeilenindex) • j (für den Spaltenindex) … und das zweidim.Array/Feld arStat[ i , j ]. 1. Schreibe den Pseudocode. Deklariere dazu auch alle Variablen (z.B. „integer summe;“ …). Für die Ausgabe nimm ruhig: „Ausgabe (“Die Summe ist: “ + summe);“. 2. Führe deinen Pseudocode in ein Struktogramm (STG) über. Beac …
@@ -605,11 +605,11 @@ End
 #### Seite 41: 2. für das Struktogramm:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=41>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=41]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=41>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=41]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=41]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 2. für das Struktogramm: Ausgabe (“Die Summe ist: “ + summe) Für i := 0 bis 3 wiederhole (mit Schrittweite 1) produkt := produkt * arStat[ i , j ] summe := summe + produkt produkt := 1 Beginn integer summe, produkt, i, j integer arStat[4,3] summe := 0 produkt := 1 arStat[0,0] := 1 … arStat[3,2] := 12 Für j := 0 bis 2 wiederhole (mit Schrittweite 1) Ende
@@ -639,11 +639,11 @@ Ende
 #### Seite 44: Nun geht es um Such-Algorithmen!
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Nun geht es um Such-Algorithmen! Oft ist es erforderlich, ein Array (Feld) nach einem bestimmten Element zu durchsuchen. Hierfür gibt es verschiedene Suchalgorithmen, die sich in Aufbau und Effizienz unterscheiden. Wir be- trachten nun zwei Suchverfahren: Die lineare Suche und die binäre Suche. Zuerst betrachten wir die lineare Suche: Sie ist der einfachste Suchalgorithmus und auch unter dem Namen sequentielle Suche bekannt. Nun möchte man in einem Array mit n Elementen ein bestimmtes Element (z.B. eine konkrete Zahl bzw. das kleinste oder das größte Feldelement) suchen. Bei der linearen Suche geht man jetzt dieses Feld Element für Element durch und ver- sucht durch die entsprechenden Vergle …
@@ -705,11 +705,11 @@ Ausgegeben wird am Bildschirm:
 #### Seite 45: Aufgabenstellung zur linearen Suche:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 45](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=45>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=45]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 45](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=45>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=45]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=45]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabenstellung zur linearen Suche: Du sollst innerhalb eines unsortierten Feldes/Arrays feld[] mit n Elementen den größten Wert feld[max] - also das Maximum - suchen und mit seiner Po- sition max im Array ausgeben. Das Feld ist nullindiziert und es beinhaltet folgende Werte: 10, 11, 12, 15, 13, 14. Unterziehe nun in schriftlicher Form das vorgegebenen Struktogramm mit den gegebenen konkreten Werten ei- nem vollständigen Schreibtischtest! Denk‘ bitte dran: Schreibtischtest in schriftlicher Form! Ausgegeben wird am Bildschirm: 15 3 Ausgegeben wird am Bildschirm: Lösungsvorschlag für den Schreibtischtest: Die Position max hat als Wert die „3“ (das ist ja der Index). Da das Feld nullindiziert …
@@ -748,11 +748,11 @@ um das vierte Feldelement!
 #### Seite 46: Er löst eine Aufgabe / ein Problem mit Hilfe von _____________________________.
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=46>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=46]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=46>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=46]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=46]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ____________________________________________ Er löst eine Aufgabe / ein Problem mit Hilfe von _____________________________. Gegeben ist folgender Java-Code: Deine Aufgabe: Unterziehe diesen in Java-Code vorliegenden Algorithmus einem Schreibtischtest! Startwert: ___________ x while (x > 1) result = result * x x = x - 1 return result Der Aufruf dieser Methode erfolgt mittels „compFact(5)“ Iterativer Algorithmus Schleifendurchläufen x = 5 5 true 5 4 i true 20 3 Hive 60 true 120 1 1 false 12
@@ -809,11 +809,11 @@ false
 #### Seite 49: So findet man das häufig in mathematischen Formelsammlungen etc.
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 49](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=49>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=49]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 49](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=49>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=49]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=49]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=49]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > So findet man das häufig in mathematischen Formelsammlungen etc. Jetzt bist du an der Reihe: Unterziehe nun den gegebenen Algorithmus einem Schreibtischtest und zwar in schriftlicher Form! Setze für n = 4: Gesucht ist somit sum(4). Es wird hier mittels des Algorithmus die Summe 1 + 2 + 3 + 4 berechnet und das Ergebnis ist 10.
@@ -832,11 +832,11 @@ und das Ergebnis ist 10.
 #### Seite 69: Das agile Vorgehensmodell Scrum – Erste Infos dazu:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 69](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=69>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=69]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 69](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=69>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=69]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=69]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=69]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Das agile Vorgehensmodell Scrum – Erste Infos dazu: Die Darstellung stammt aus Westermann-Verlag „IT-Berufe Grundstufe Lernfelder 1 - 5“ • Schauen wir uns zuerst die drei Rollen an, die es bei Scrum gibt: 1. Der Product Owner trägt die Verantwortung für das Produkt, das entstehen soll. 2. Der Scrum Master kümmert sich um die Einhaltung der Scrum-Regeln und sorgt dafür, dass Scrum im Team und im Betrieb weiter optimiert wird. 3. Das Development Team (Entwicklungsteam) erstellt das Produkt. • Jetzt betrachten wir die fünf Ereignisse (Rituale) die es bei Scrum gibt. Sie machen den Ablauf trans- parent, überprüfbar und helfen, ihn kontinuierlich zu verbessern. 1. Der Sprint ist ein Zyklus / Durc …
@@ -885,11 +885,11 @@ gehören die Kunden, das Management, die Benutzer des Produkts (bei uns der Soft
 #### Seite 70: Das agile Vorgehensmodell
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 70](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=70>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=70]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 70](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=70>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=70]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=70]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=70]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Das agile Vorgehensmodell Scrum – Zweite Infos dazu: • Wie ist denn der grundsätzliche Ablauf? Der Product Owner trägt die Anforderungen an das zu erstellende Produkt ins Product Backlog ein. Er versucht, diese Einträge klar und verständ- lich zu formulieren und sie richtig zu priorisieren. Im Sprint Planning (das bei einem einmonatigen Sprint auf maximal 8 Stunden begrenzt ist) stimmen Product Owner und Development Team ab, was im anstehenden Sprint erstellt werden soll. Der Scrum Master sorgt hier für den regelkonformen Ablauf. Das Development Team bestückt anhand der ge- wonnenen Informationen für den ersten (und später für den nächstfolgenden) Sprint das Sprint Backlog. Dazu übernimmt es …
@@ -992,11 +992,11 @@ speichern
 #### Seite 26: Der einfachste Datentyp ist boolean. Ein Attribut vom Datentyp boolean kann
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > • Der einfachste Datentyp ist boolean. Ein Attribut vom Datentyp boolean kann genau zwei Werte annehmen: true (wahr) und false (falsch). • Ein weiterer einfacher Datentyp ist der sogenannte Character, in Java durch den Datentyp char dargestellt wird. Ein Attribut von diesem Datentyp kann alle Unicode-Zeichen enthalten. Die maximale Länge umfasst 16 Bit. Der Wertebereich reicht von 0 bis 65535. • Der Datentyp byte ist eine mit Vorzeichen behaftete Ganzzahl. Der Wertebereich (8 Bit) reicht von -128(-2^7) bis +127((2^7) -1). Dieser Datentyp wird häufig im Bereich der Datendateiverarbeitung oder der grafischen Datenverarbeitung verwendet. Dazu verwendet man häufig sogenannte Byte- Arrays. Arrays …
@@ -1054,11 +1054,11 @@ Zeichenketten. Auf komplexe Datentypen werden wir später noch näher eingehen.
 #### Seite 41: Wichtig ist, dass dem Methodennamen runde Klammer folgen, auch wenn keine
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > } } Wichtig ist, dass dem Methodennamen runde Klammer folgen, auch wenn keine Parameter übergeben werden. 6.5.3 Operatoren zum Aufrufen () Methodenaufruf [] Zugriff auf Felder (Arrays) . Zugriff auf Objekte, Methoden … 6.5.3.1 Methodenaufruf innerhalb der Klasse Ein Methodenaufruf kann innerhalb der Klasse erfolgen. Dies geschieht allgemein mittels folgendem Befehl: methodenName(); 1. Beispiel: Class Robot{ void speak(){ System.out.println(„Hallo“); } } In der Klasse Robot soll nun die Methode speak implementiert werden. Dabei wird die Anweisung zwischen die geschweiften Klammern geschrieben, welche ausgeführt wird wenn die Methode aufgerufen wird. Void bedeutet, dass die Methode keinen Wert …
@@ -1115,11 +1115,11 @@ void sayHello() {
 #### Seite 26: Der einfachste Datentyp ist boolean. Ein Attribut vom Datentyp boolean kann
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=26>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=26]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=26>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=26]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=26]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > • Der einfachste Datentyp ist boolean. Ein Attribut vom Datentyp boolean kann genau zwei Werte annehmen: true (wahr) und false (falsch). • Ein weiterer einfacher Datentyp ist der sogenannte Character, in Java durch den Datentyp char dargestellt wird. Ein Attribut von diesem Datentyp kann alle Unicode-Zeichen enthalten. Die maximale Länge umfasst 16 Bit. Der Wertebereich reicht von 0 bis 65535. • Der Datentyp byte ist eine mit Vorzeichen behaftete Ganzzahl. Der Wertebereich (8 Bit) reicht von -128(-2^7) bis +127((2^7) -1). Dieser Datentyp wird häufig im Bereich der Datendateiverarbeitung oder der grafischen Datenverarbeitung verwendet. Dazu verwendet man häufig sogenannte Byte- Arrays. Arrays …
@@ -1177,11 +1177,11 @@ Zeichenketten. Auf komplexe Datentypen werden wir später noch näher eingehen.
 #### Seite 41: Wichtig ist, dass dem Methodennamen runde Klammer folgen, auch wenn keine
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=41>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=41]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=41>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=41]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=41]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > } } Wichtig ist, dass dem Methodennamen runde Klammer folgen, auch wenn keine Parameter übergeben werden. 6.5.3 Operatoren zum Aufrufen () Methodenaufruf [] Zugriff auf Felder (Arrays) . Zugriff auf Objekte, Methoden … 6.5.3.1 Methodenaufruf innerhalb der Klasse Ein Methodenaufruf kann innerhalb der Klasse erfolgen. Dies geschieht allgemein mittels folgendem Befehl: methodenName(); 1. Beispiel: Class Robot{ void speak(){ System.out.println(„Hallo“); } } In der Klasse Robot soll nun die Methode speak implementiert werden. Dabei wird die Anweisung zwischen die geschweiften Klammern geschrieben, welche ausgeführt wird wenn die Methode aufgerufen wird. Void bedeutet, dass die Methode keinen Wert …
@@ -1238,11 +1238,11 @@ void sayHello() {
 #### Seite 44: Der einfachste Datentyp ist boolean. Ein Attribut vom Datentyp boolean kann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=44>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=44]]`
+> - PDF: [Wiki.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=44>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=44]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=44]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > • Der einfachste Datentyp ist boolean. Ein Attribut vom Datentyp boolean kann genau zwei Werte annehmen: true (wahr) und false (falsch). • Ein weiterer einfacher Datentyp ist der sogenannte Character, in Java durch den Datentyp char dargestellt wird. Ein Attribut von diesem Datentyp kann alle Unicode-Zeichen enthalten. Die maximale Länge umfasst 16 Bit. Der Wertebereich reicht von 0 bis 65535. • Der Datentyp byte ist eine mit Vorzeichen behaftete Ganzzahl. Der Wertebereich (8 Bit) reicht von -128(-2^7) bis +127((2^7) -1). Dieser Datentyp wird häufig im Bereich der Datendateiverarbeitung oder der grafischen Datenverarbeitung verwendet. Dazu verwendet man häufig sogenannte Byte- Arrays. Arrays …
@@ -1304,7 +1304,7 @@ Zeichenketten. Auf komplexe Datentypen werden wir später noch näher eingehen.
 - Frage:: Was ist **Beispiel zu einem zweidimensionalen Array - Lösung:** laut Quelle?
 - Antwort:: Die Pseudocodes sind meist der Syntax bekannter Programmiersprachen angenähert und wenn man eine dieser Sprachen kann, versteht man in der Regel auch einen Pseudocode.
 - Beleg:: Die Pseudocodes sind meist der Syntax bekannter Programmiersprachen angenähert und wenn man eine dieser Sprachen kann, versteht man in der Regel auch einen Pseudocode.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38|01_Algorithmus_Programm_Software_EVA S. 38]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38|01_Algorithmus_Programm_Software_EVA S. 38]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1312,7 +1312,7 @@ Zeichenketten. Auf komplexe Datentypen werden wir später noch näher eingehen.
 - Frage:: Was ist der Kernpunkt zu **Beispiel zu einem zweidimensionalen Array - Lösung:** laut Quelle?
 - Antwort:: In unserem Pseudocode ist die Lösung folgende: … 1. integer produkt[10, 10]; 2. for i := 0 to 9 do 3. for j := 0 to 9 do 4. produkt[i, j] := ( i + 1 ) * ( j + 1 ); end do end do … zu 1: Ein Array “produkt[ ]” wird angelegt.
 - Beleg:: In unserem Pseudocode ist die Lösung folgende: … 1. integer produkt[10, 10]; 2. for i := 0 to 9 do 3. for j := 0 to 9 do 4. produkt[i, j] := ( i + 1 ) * ( j + 1 ); end do end do … zu 1: Ein Array “produkt[ ]” wird angelegt.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38|01_Algorithmus_Programm_Software_EVA S. 38]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38|01_Algorithmus_Programm_Software_EVA S. 38]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1320,7 +1320,7 @@ Zeichenketten. Auf komplexe Datentypen werden wir später noch näher eingehen.
 - Frage:: Welche Vorgabe nennt die Quelle zu **Nun geht es um Such-Algorithmen!**?
 - Antwort:: Ist das mittlere Element dagegen kleiner als das gesuchte Element, so muss nur noch in der oberen Hälfte des geordneten Arrays gesucht werden.
 - Beleg:: Ist das mittlere Element dagegen kleiner als das gesuchte Element, so muss nur noch in der oberen Hälfte des geordneten Arrays gesucht werden.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01_Algorithmus_Programm_Software_EVA S. 44]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01_Algorithmus_Programm_Software_EVA S. 44]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1328,7 +1328,7 @@ Zeichenketten. Auf komplexe Datentypen werden wir später noch näher eingehen.
 - Frage:: Welche Vorgabe nennt die Quelle zu **Nun geht es um Such-Algorithmen!**?
 - Antwort:: Ist dieses größer als das gesuchte Element, so muss nur noch in der unteren Hälfte des geordneten Arrays gesucht werden.
 - Beleg:: Ist dieses größer als das gesuchte Element, so muss nur noch in der unteren Hälfte des geordneten Arrays gesucht werden.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01_Algorithmus_Programm_Software_EVA S. 44]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44|01_Algorithmus_Programm_Software_EVA S. 44]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1336,7 +1336,7 @@ Zeichenketten. Auf komplexe Datentypen werden wir später noch näher eingehen.
 - Frage:: Was ist der Kernpunkt zu **Das agile Vorgehensmodell Scrum – Erste Infos dazu:** laut Quelle?
 - Antwort:: • Nun geht es um die drei Artefakte (das sind Dokumente und „Dinge“, die erzeugt werden) bei Scrum: 1.
 - Beleg:: • Nun geht es um die drei Artefakte (das sind Dokumente und „Dinge“, die erzeugt werden) bei Scrum: 1.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=69|01_Algorithmus_Programm_Software_EVA S. 69]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|01_Algorithmus_Programm_Software_EVA]], [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=69|01_Algorithmus_Programm_Software_EVA S. 69]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1344,7 +1344,7 @@ Zeichenketten. Auf komplexe Datentypen werden wir später noch näher eingehen.
 - Frage:: Was ist **Arrays und Sammlungen** laut Quelle?
 - Antwort:: Dezimal ausgedrückt fängt der vorzeichenbehaftete bei -32768 (-2^15) an und endet bei 32767 ((2^15) -1). • Als int wird ein weiterer vorzeichenbehafteter Ganzzahl-Datentyp bezeichnet.
 - Beleg:: Dezimal ausgedrückt fängt der vorzeichenbehaftete bei -32768 (-2^15) an und endet bei 32767 ((2^15) -1). • Als int wird ein weiterer vorzeichenbehafteter Ganzzahl-Datentyp bezeichnet.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26|02_Unternehmenswiki-4.Block S. 26]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26|02_Unternehmenswiki-4.Block S. 26]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1352,7 +1352,7 @@ Zeichenketten. Auf komplexe Datentypen werden wir später noch näher eingehen.
 - Frage:: Was ist der Kernpunkt zu **Datentyp boolean** laut Quelle?
 - Antwort:: Ein Attribut vom Datentyp boolean kann genau zwei Werte annehmen: true (wahr) und false (falsch). • Ein weiterer einfacher Datentyp ist der sogenannte Character, in Java durch den Datentyp char dargestellt wird.
 - Beleg:: Ein Attribut vom Datentyp boolean kann genau zwei Werte annehmen: true (wahr) und false (falsch). • Ein weiterer einfacher Datentyp ist der sogenannte Character, in Java durch den Datentyp char dargestellt wird.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26|02_Unternehmenswiki-4.Block S. 26]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26|02_Unternehmenswiki-4.Block S. 26]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1360,7 +1360,7 @@ Zeichenketten. Auf komplexe Datentypen werden wir später noch näher eingehen.
 - Frage:: Was ist der Kernpunkt zu **Parameter** laut Quelle?
 - Antwort:: Wichtig ist, dass dem Methodennamen runde Klammer folgen, auch wenn keine Parameter übergeben werden.
 - Beleg:: Wichtig ist, dass dem Methodennamen runde Klammer folgen, auch wenn keine Parameter übergeben werden.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41|02_Unternehmenswiki-4.Block S. 41]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41|02_Unternehmenswiki-4.Block S. 41]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

@@ -1,0 +1,411 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md (Seiten 1–14)",
+  "replaces_existing": false,
+  "topic_categories": {
+    "Grundgesetz Staatsprinzipien und Grundrechte": "Wirtschaft_und_Recht",
+    "Weimarer Verfassung und Grundgesetz": "Wirtschaft_und_Recht"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Grundgesetz Staatsprinzipien und Grundrechte",
+        "secondary_topics": [
+          "Staatsaufgaben",
+          "Fallbeispiel Gestrandet"
+        ],
+        "recommended_topics": [
+          "Grundgesetz Staatsprinzipien und Grundrechte"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "page": 2,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Grundgesetz Staatsprinzipien und Grundrechte",
+        "secondary_topics": [
+          "Aufgaben des Staates",
+          "Mindmap"
+        ],
+        "recommended_topics": [
+          "Grundgesetz Staatsprinzipien und Grundrechte"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Grundgesetz Staatsprinzipien und Grundrechte",
+        "secondary_topics": [
+          "Grundrechte Art. 1–19 GG",
+          "Menschenrechte und Bürgerrechte"
+        ],
+        "recommended_topics": [
+          "Grundgesetz Staatsprinzipien und Grundrechte"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Artikelnummern und handschriftliche Kennzeichnung M/B aus Mindmap visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "page": 4,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Grundgesetz Staatsprinzipien und Grundrechte",
+        "secondary_topics": [
+          "Art. 20 GG",
+          "Sozialstaatsprinzip"
+        ],
+        "recommended_topics": [
+          "Grundgesetz Staatsprinzipien und Grundrechte"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Ziele und Maßnahmen des Sozialstaats visuell zugeordnet."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Grundgesetz Staatsprinzipien und Grundrechte",
+        "secondary_topics": [
+          "Rechtsstaatsprinzip",
+          "Grundgesetz-Artikel"
+        ],
+        "recommended_topics": [
+          "Grundgesetz Staatsprinzipien und Grundrechte"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftlich ausgefüllter Lückentext visuell zusammengeführt."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Grundgesetz Staatsprinzipien und Grundrechte",
+        "secondary_topics": [
+          "Gewaltenteilung",
+          "Montesquieu",
+          "Legislative Exekutive Judikative"
+        ],
+        "recommended_topics": [
+          "Grundgesetz Staatsprinzipien und Grundrechte"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Erläuterung und senkrechte Beschriftungen (Vertikale Gewaltenteilung: Bund, Länder, Kommunen) visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "page": 7,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Grundgesetz Staatsprinzipien und Grundrechte",
+        "secondary_topics": [
+          "Bundesstaat",
+          "Föderalismus",
+          "Republik"
+        ],
+        "recommended_topics": [
+          "Grundgesetz Staatsprinzipien und Grundrechte"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Lückentext-Einträge (inkl. 16 Bundesländer) visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "page": 8,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Grundgesetz Staatsprinzipien und Grundrechte",
+        "secondary_topics": [
+          "Demokratie",
+          "Volkssouveränität",
+          "Wahlgrundsätze"
+        ],
+        "recommended_topics": [
+          "Grundgesetz Staatsprinzipien und Grundrechte"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Eingebettete Grafik zu den Wahlgrundsätzen (Art. 28, 38 GG) visuell ergänzt."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "page": 9,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Grundgesetz Staatsprinzipien und Grundrechte",
+        "secondary_topics": [
+          "Wehrhafte Demokratie",
+          "Ewigkeitsklausel",
+          "Parteienverbot",
+          "Widerstandsrecht"
+        ],
+        "recommended_topics": [
+          "Grundgesetz Staatsprinzipien und Grundrechte",
+          "Weimarer Verfassung und Grundgesetz"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "page": 10,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Grundgesetz Staatsprinzipien und Grundrechte",
+        "secondary_topics": [
+          "Demokratie",
+          "Wehrhafte Demokratie",
+          "Aufgaben"
+        ],
+        "recommended_topics": [
+          "Grundgesetz Staatsprinzipien und Grundrechte"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Antworten inkl. korrigierter GG-Artikel in Aufgabe 6 visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "page": 11,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Weimarer Verfassung und Grundgesetz",
+        "secondary_topics": [
+          "Weimarer Reichsverfassung",
+          "Struktur der WRV"
+        ],
+        "recommended_topics": [
+          "Weimarer Verfassung und Grundgesetz"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Eingebettetes Schaubild zur Struktur der Weimarer Verfassung visuell ergänzt."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "page": 12,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Weimarer Verfassung und Grundgesetz",
+        "secondary_topics": [
+          "Verhältniswahlrecht",
+          "Volksbegehren",
+          "Reichstag vs. Bundestag",
+          "Reichspräsident vs. Bundespräsident"
+        ],
+        "recommended_topics": [
+          "Weimarer Verfassung und Grundgesetz",
+          "Grundgesetz Staatsprinzipien und Grundrechte"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Vergleichseinträge zur BRD visuell zugeordnet."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "page": 13,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Weimarer Verfassung und Grundgesetz",
+        "secondary_topics": [
+          "Schwächen der WRV",
+          "5 %-Hürde",
+          "Art. 21 Abs. 2 GG",
+          "Art. 79 GG"
+        ],
+        "recommended_topics": [
+          "Weimarer Verfassung und Grundgesetz",
+          "Grundgesetz Staatsprinzipien und Grundrechte"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Vergleichseinträge zum Grundgesetz visuell zugeordnet."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "page": 14,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Weimarer Verfassung und Grundgesetz",
+        "secondary_topics": [
+          "Scheitern der Weimarer Republik",
+          "Machtergreifung 1933",
+          "NS-Diktatur"
+        ],
+        "recommended_topics": [
+          "Weimarer Verfassung und Grundgesetz"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Teilweise handschriftlich ausgefüllte Zeitleiste (1933) visuell zugeordnet."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

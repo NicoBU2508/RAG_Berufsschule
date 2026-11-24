@@ -2,7 +2,7 @@
 typ: quelle
 fach: "Vertretung"
 fach_anzeige: "Vertretung"
-original_pfad: "99_Originale/Berufsschule/Vertretung/Untitled.pdf"
+original_pfad: "99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf"
 seiten: 4
 pruefung: "AP1/AP2 Elektrotechnik Rechenübungen"
 cssclasses:
@@ -25,7 +25,7 @@ textzeichen: 1823
 # 📄 Untitled
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/Vertretung/Vertretung|Vertretung]]
-> - **Original-PDF:** [Untitled.pdf](<99_Originale/Berufsschule/Vertretung/Untitled.pdf>)
+> - **Original-PDF:** [Untitled.pdf](<99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf>)
 > - **Seiten:** 4
 > - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (partial=1, ocr_error=2)
 > - **Aktive Lernquelle:** ja
@@ -54,11 +54,11 @@ textzeichen: 1823
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Untitled.pdf Seite 2](<99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=2]]`
+> - PDF-Seite: [Untitled.pdf Seite 2](<99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -104,11 +104,11 @@ U = 0, 005V + 8 · 10−2mV + 14 · 10−4V + 3, 6 · 101µV + 4200 · 10−2µV
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Untitled.pdf Seite 3](<99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=3]]`
+> - PDF-Seite: [Untitled.pdf Seite 3](<99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=3]]
+> ![[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -156,11 +156,11 @@ TG132
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Untitled.pdf Seite 4](<99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=4]]`
+> - PDF-Seite: [Untitled.pdf Seite 4](<99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Vertretung/Untitled.pdf#page=4]]
+> ![[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 

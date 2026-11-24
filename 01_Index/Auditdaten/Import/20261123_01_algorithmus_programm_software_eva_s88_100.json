@@ -1,0 +1,379 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md (Seiten 88–100)",
+  "replaces_existing": false,
+  "topic_categories": {
+    "Softwaretest und Testverfahren": "Anwendungsentwicklung",
+    "Barrierefreies Arbeiten und digitale Barrierefreiheit": "Anwendungsentwicklung",
+    "Datenherkunft und Informationsbeschaffung": "Anwendungsentwicklung"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 88,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Softwaretest und Testverfahren",
+        "secondary_topics": [
+          "Testablauf",
+          "Funktionale und nicht-funktionale Anforderungen",
+          "Statische und dynamische Testverfahren"
+        ],
+        "recommended_topics": [
+          "Softwaretest und Testverfahren",
+          "Softwarequalität und Wartbarkeit",
+          "Softwarelebenszyklus und Vorgehensmodelle"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 89,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Softwaretest und Testverfahren",
+        "secondary_topics": [
+          "Statische Testverfahren",
+          "Review",
+          "Walkthrough",
+          "Audit",
+          "Inspection",
+          "Statische Code-Analyse"
+        ],
+        "recommended_topics": [
+          "Softwaretest und Testverfahren"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 90,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Softwaretest und Testverfahren",
+        "secondary_topics": [
+          "Dynamische Testverfahren",
+          "Black-Box-Test",
+          "White-Box-Test",
+          "Grenzwertanalyse",
+          "Teststufen"
+        ],
+        "recommended_topics": [
+          "Softwaretest und Testverfahren",
+          "Softwarelebenszyklus und Vorgehensmodelle"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 91,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Softwaretest und Testverfahren",
+        "secondary_topics": [
+          "Alpha-Test",
+          "Beta-Test",
+          "Release Candidate",
+          "Testdokumentation ISO 29119"
+        ],
+        "recommended_topics": [
+          "Softwaretest und Testverfahren",
+          "Softwareanpassung und Dokumentation"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 92,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Softwaretest und Testverfahren",
+        "secondary_topics": [
+          "Aufgabenblatt Testen von Software"
+        ],
+        "recommended_topics": [
+          "Softwaretest und Testverfahren"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 93,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Softwaretest und Testverfahren",
+        "secondary_topics": [
+          "Lösungen Testen von Software"
+        ],
+        "recommended_topics": [
+          "Softwaretest und Testverfahren"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 94,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Barrierefreies Arbeiten und digitale Barrierefreiheit",
+        "secondary_topics": [
+          "SGB IX",
+          "ArbStättV",
+          "BITV 2.0",
+          "BFSG"
+        ],
+        "recommended_topics": [
+          "Barrierefreies Arbeiten und digitale Barrierefreiheit",
+          "Schwerbehinderung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 95,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Barrierefreies Arbeiten und digitale Barrierefreiheit",
+        "secondary_topics": [
+          "Physische Barrierefreiheit",
+          "Ergonomie am Arbeitsplatz",
+          "Zwei-Sinne-Prinzip"
+        ],
+        "recommended_topics": [
+          "Barrierefreies Arbeiten und digitale Barrierefreiheit"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 96,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Barrierefreies Arbeiten und digitale Barrierefreiheit",
+        "secondary_topics": [
+          "WCAG",
+          "Digitale Barrierefreiheit",
+          "Assistive Technologien"
+        ],
+        "recommended_topics": [
+          "Barrierefreies Arbeiten und digitale Barrierefreiheit"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 97,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Barrierefreies Arbeiten und digitale Barrierefreiheit",
+        "secondary_topics": [
+          "ArbStättV § 3a",
+          "ASR V3a.2",
+          "Zwei-Sinne-Prinzip"
+        ],
+        "recommended_topics": [
+          "Barrierefreies Arbeiten und digitale Barrierefreiheit",
+          "Schwerbehinderung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 98,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Barrierefreies Arbeiten und digitale Barrierefreiheit",
+        "secondary_topics": [
+          "Ergonomie",
+          "Braillezeile und Screenreader",
+          "EN 301 549",
+          "WCAG 2.2",
+          "BFSG",
+          "BITV 2.0"
+        ],
+        "recommended_topics": [
+          "Barrierefreies Arbeiten und digitale Barrierefreiheit"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 99,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Datenherkunft und Informationsbeschaffung",
+        "secondary_topics": [
+          "Interne und externe Informationsquellen",
+          "Primär- und Sekundärdaten",
+          "Datenschutz vs Datensicherheit vs Informationssicherheit"
+        ],
+        "recommended_topics": [
+          "Datenherkunft und Informationsbeschaffung",
+          "Datenschutz und Rollen",
+          "IT-Sicherheit Grundlagen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 100,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Datenherkunft und Informationsbeschaffung",
+        "secondary_topics": [
+          "Primär- und Sekundärdaten",
+          "BDSG",
+          "Datensicherheit"
+        ],
+        "recommended_topics": [
+          "Datenherkunft und Informationsbeschaffung",
+          "Datenschutz und Rollen",
+          "IT-Sicherheit Grundlagen"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

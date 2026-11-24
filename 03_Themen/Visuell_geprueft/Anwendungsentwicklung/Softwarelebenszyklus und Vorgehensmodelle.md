@@ -2,15 +2,15 @@
 id: vault.thema.visuell.softwarelebenszyklus.und.vorgehensmodelle
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Softwarelebenszyklus und Vorgehensmodelle"
 kategorie: Anwendungsentwicklung
-quellen: 1
-seiten: 12
+quellen: 2
+seiten: 15
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,8 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [26–28, 69–77](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=26>) | beispiel, loesung, theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [26–28, 69–77, 88, 90](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=26>) | beispiel, loesung, theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift\|AE_2LJ_Jac_Mitschrift]] | [1](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=1>) | theorie | 1 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

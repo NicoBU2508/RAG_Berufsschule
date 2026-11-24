@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt.md (Seiten 13–13)",
+  "replaces_existing": false,
+  "topic_categories": {
+    "Zeichencodierung und ASCII": "IT_Technik_und_Sicherheit"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf",
+      "page": 13,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Zeichencodierung und ASCII",
+        "secondary_topics": [
+          "ASCII-Decodierung"
+        ],
+        "recommended_topics": [
+          "Zeichencodierung und ASCII"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche ASCII-Decodierung aus Sichtprüfung bereinigt transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

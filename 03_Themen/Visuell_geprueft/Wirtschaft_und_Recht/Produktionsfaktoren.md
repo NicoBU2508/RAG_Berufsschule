@@ -25,8 +25,8 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [3](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=3>) | aufgabe | Text für Zitate geeignet |
-| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [5–6](<99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=5>) | theorie | 2 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [3](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3>) | aufgabe | Text für Zitate geeignet |
+| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [5–6](<99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=5>) | theorie | 2 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

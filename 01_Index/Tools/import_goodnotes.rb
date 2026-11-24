@@ -48,7 +48,7 @@ FACH_CONFIG = {
   },
   "Allgemein_Berufsschule" => {
     anzeige: "Allgemein Berufsschule",
-    pdf_dir: "99_Originale/Berufsschule",
+    pdf_dir: "99_Originale/Berufsschule/Allgemein",
     pruefung: "AP1, AP2",
     tag: "allgemein_berufsschule",
     aliases: %w[allgemein berufsschule]
@@ -212,13 +212,22 @@ module Helpers
     segments = VaultSupport.nfc(rel_or_abs_path.to_s).split("/").map(&:downcase)
     return "AE_Anwendungsentwicklung" if segments.any? { |s| s.match?(/\A(ae|aeup|java|anwendungsentwicklung)\z/) || s.include?("anwendungsentwicklung") }
     return "BGWP_Betriebswirtschaft" if segments.any? { |s| s.include?("bgwp") || s.include?("betriebswirtschaft") || s == "bwl" }
-    return "ITT_IT_Technik" if segments.any? { |s| s.match?(/\Aitt\b/) || s.include?("it sicherheit") || s.include?("elektro") || s.include?("netzwerk") || s == "otma" }
+    return "ITT_IT_Technik" if segments.any? { |s| s.match?(/\A(itt|it-tech|fu-it)\b/) || s.include?("it sicherheit") || s.include?("elektro") || s.include?("netzwerk") || s == "otma" }
     return "Deutsch" if segments.any? { |s| s == "deutsch" }
     return "Englisch" if segments.any? { |s| s == "englisch" || s == "english" }
     return "PuG_Politik_und_Gesellschaft" if segments.any? { |s| s == "pug" || s.include?("politik") }
     return "Religion" if segments.any? { |s| s == "religion" || s == "reli" || s == "ethik" }
     return "Vertretung" if segments.any? { |s| s == "vertretung" }
 
+    nil
+  end
+
+  def infer_lehrjahr_from_path(rel_or_abs_path)
+    segments = VaultSupport.nfc(rel_or_abs_path.to_s).split("/")
+    segments.each do |seg|
+      match = seg.match(/\A([1-3])[._\-\s]?lj\z/i)
+      return "#{match[1]}_LJ" if match
+    end
     nil
   end
 
@@ -523,15 +532,18 @@ class Scanner
       path_suffix_match = rec_norm.end_with?("/#{rel_norm}") || rec_norm == "99_originale/#{rel_norm}"
       name_match = rec_base == base_norm
 
-      # Schnellfilter für nicht-namensgleiche Dateien: Seite 1 (oder Seite 2 bei neuem Deckblatt) prüfen
+      # Schnellfilter für nicht-namensgleiche Dateien: Seite 1 (oder Seite 2 bei neuem Deckblatt) prüfen.
+      # Einseitige PDFs nicht fälschlich gegen Seite 1 eines mehrseitigen fremden PDFs matchen (z.B. leeres Blatt).
       unless path_suffix_match || name_match
+        next nil if [old_prints.length, new_prints.length].min == 1 && old_prints.length != new_prints.length
+
         first_hit = VisualMatch.same_page?(old_prints[0], new_prints[0]) ||
           (old_prints.length > 1 && new_prints.length > 1 && VisualMatch.same_page?(old_prints[1], new_prints[1]))
         next nil unless first_hit
       end
 
       overlap = VisualMatch.overlap_ratio(old_prints, new_prints)
-      next nil unless path_suffix_match || name_match || overlap >= 0.6
+      next nil unless path_suffix_match || name_match || overlap >= 0.7
 
       score = overlap * 100.0
       score += 10.0 if path_suffix_match
@@ -598,7 +610,9 @@ class Preparer
     fach = Helpers.resolve_fach(options[:fach])
     cfg = FACH_CONFIG.fetch(fach)
 
-    dest_rel = options[:pdf_dest] || File.join(cfg[:pdf_dir], input_pdf.basename.to_s)
+    lj = Helpers.infer_lehrjahr_from_path(input_pdf.to_s)
+    default_dir = lj && cfg[:pdf_dir].start_with?("99_Originale/Berufsschule") ? File.join(cfg[:pdf_dir], lj) : cfg[:pdf_dir]
+    dest_rel = options[:pdf_dest] || File.join(default_dir, input_pdf.basename.to_s)
     abort "--pdf-dest muss unter 99_Originale/ liegen" unless dest_rel.start_with?("99_Originale/")
     abort "Dateipfad darf kein Komma enthalten: #{dest_rel}" if dest_rel.include?(",")
 

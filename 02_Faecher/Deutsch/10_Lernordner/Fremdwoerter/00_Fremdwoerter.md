@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Fremdwörter** im Fach **Deutsch**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8|Regelsammlung S. 8]]; [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9|Regelsammlung S. 9]]; [[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10|Regelsammlung S. 10]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8|Regelsammlung S. 8]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9|Regelsammlung S. 9]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10|Regelsammlung S. 10]].
 > - **Zentrale Suchbegriffe:** Fremdwörter, Station, Aufgabe, Auto, homo, poly.
 > - **Prüfungsbezug:** AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -52,9 +52,9 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8>) | Station 4 – Fremdwörter | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9>) | Aufgabe 1: Auto, homo, poly - Fremdwörter mit griechischer Wurzel | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10>) | Aufgabe 2: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8>) | Station 4 – Fremdwörter | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9>) | Aufgabe 1: Auto, homo, poly - Fremdwörter mit griechischer Wurzel | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [Regelsammlung.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10>) | Aufgabe 2: | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -63,11 +63,11 @@ tags:
 #### Seite 8: Station 4 – Fremdwörter
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8]]`
+> - PDF: [Regelsammlung.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Station 4 – Fremdwörter Situation Frau Müller, Mitarbeiterin der IN Bike GmbH, trifft Herrn Schuster nach dessen Abteilungsleiter-Fortbil- dung in der Kantine: Was ist ein Fremdwort? Fremdwörter sind Wörter, die aus anderen Sprachen übernommen wurden und die in der Regel durch ihre abweichende Aussprache, Wortbildung, Lautung und Schreibweise auffallen, wie zum Beispiel „En- gagement“, „Portemonnaie“. Welche fremden Einflüsse wirken auf die deutsche Sprache? Geht man von einem Bestand von etwa 500 000 Wörtern im Deutschen aus, sind gut ein Fünftel Fremd- wörter. Untersuchungen von Zeitungsartikeln ergaben laut Duden einen Fremdwortanteil von 8 bis 9 …
@@ -123,11 +123,11 @@ nen und so…
 #### Seite 9: Aufgabe 1: Auto, homo, poly - Fremdwörter mit griechischer Wurzel
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9]]`
+> - PDF: [Regelsammlung.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Aufgabe 1: Auto, homo, poly - Fremdwörter mit griechischer Wurzel Viele Fremdwörter, die wir benutzen, haben ihren Ursprung in der griechischen Sprache. Diese Tabelle gibt dir einen Überblick über Vorsilben, die häufig in Fremdwörtern vorkommen. Vorsilbe Bedeutung Beispiele a-/an- Verneinung der Analphabet anti-/ant- gegen, wider die Antipathie auto- selbst automatisch homo- gleich homogen poly- viel polyglott tele- fern das Telefon Arbeitsaufträge: 1. Erkläre die Beispiele aus der Tabelle mit eigenen Worten. Dabei kannst du ein (Online)-Wörterbuch zu Hilfe nehmen. Die Bedeutungen der Vorsilben helfen dir dabei. 2. Trage je zwei weitere Beispiele in …
@@ -184,11 +184,11 @@ Telepathie
 #### Seite 10: Aufgabe 2:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Regelsammlung.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10]]`
+> - PDF: [Regelsammlung.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 01 Rechtschreibung Klasse: Datum: Aufgabe 2: Viele griechische Fremdwörter benutzen wir selbstverständlich in unserem Alltag. Andere hingegen kom- men nur in Fachsprachen wie zum Beispiel in der Medizin oder der Mathematik vor. Im folgenden Silben- rätsel findest du eine Mischung aus alltäglichen und fachspezifischen Ausdrücken. AM – AN – ÄT – AU – BI – CHRO – DI – DIA – DIA – DIA – DO – EN – FIE – GRA – GRAMM – LEKT – LOG – LY – NI – NO – NYM – ON – OR – PA – PHI – PROG – PSEU – SA – SE – SE – SYMP – SYN – THIE – THO – TI – TI – TO – TOM 1. Unterschrift eines Prominenten: ……………………………………………………. 2. Abneigung gegen einen anderen Menschen: …………………………………….. 3. Tiere, die sowohl auf dem L …

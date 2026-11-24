@@ -2,7 +2,7 @@
 typ: quelle
 fach: "AE_Anwendungsentwicklung"
 fach_anzeige: "AE Anwendungsentwicklung"
-original_pfad: "99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf"
+original_pfad: "99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf"
 seiten: 3
 pruefung: "AP1, AP2"
 cssclasses:
@@ -24,7 +24,7 @@ textzeichen: 2431
 # 📄 Stol Lernzettel AEuP Stol
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/AE_Anwendungsentwicklung/AE_Anwendungsentwicklung|AE Anwendungsentwicklung]]
-> - **Original-PDF:** [Lernzettel _AEuP_Stößl.pdf](<99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf>)
+> - **Original-PDF:** [Lernzettel _AEuP_Stößl.pdf](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf>)
 > - **Seiten:** 3
 > - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=2, ocr_verified=1)
 > - **Aktive Lernquelle:** ja
@@ -52,11 +52,11 @@ textzeichen: 2431
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Lernzettel _AEuP_Stößl.pdf Seite 1](<99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf#page=1]]`
+> - PDF-Seite: [Lernzettel _AEuP_Stößl.pdf Seite 1](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf#page=1]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf#page=1]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -107,11 +107,11 @@ zutrifft
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Lernzettel _AEuP_Stößl.pdf Seite 2](<99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf#page=2]]`
+> - PDF-Seite: [Lernzettel _AEuP_Stößl.pdf Seite 2](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf#page=2]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf#page=2]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -149,11 +149,11 @@ Ausführungsreihenfolge (Priorität)
 
 ### Seite 3
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Lernzettel _AEuP_Stößl.pdf Seite 3](<99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf#page=3]]`
+> - PDF-Seite: [Lernzettel _AEuP_Stößl.pdf Seite 3](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Lernzettel _AEuP_Stößl.pdf#page=3]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf#page=3]]
 
 #### Verifizierter OCR-Nachtrag für Suche
 

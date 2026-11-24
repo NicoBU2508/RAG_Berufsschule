@@ -2,15 +2,15 @@
 id: vault.thema.visuell.symbole.und.glaube
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Symbole und Glaube"
 kategorie: Religion_Ethik
 quellen: 1
-seiten: 1
+seiten: 2
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Religion/Quellen/Reli_Notizen\|Reli_Notizen]] | [2](<99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2>) | loesung | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/Religion/Quellen/Reli_Notizen\|Reli_Notizen]] | [2, 7](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2>) | loesung, theorie | 2 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

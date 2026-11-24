@@ -17,9 +17,9 @@ def load_duplicate_pdfs_nfc
   end
 
   [
-    "99_Originale/Berufsschule/AE/Anwendugse.pdf",
-    "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf",
-    "99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf"
+    "99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf",
+    "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf",
+    "99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf"
   ].map { |path| VaultSupport.nfc(path) }
 end
 
@@ -133,6 +133,7 @@ class ManifestBuilder
       Dir.glob("**/*", File::FNM_DOTMATCH)
         .select { |path| File.file?(path) }
         .reject { |path| IGNORED_PREFIXES.any? { |prefix| path.start_with?(prefix) } || File.basename(path) == ".DS_Store" }
+        .reject { |path| path.start_with?("00_Posteingang_GoodNotes/") && path != "00_Posteingang_GoodNotes/README.md" }
         .sort
     end
   end

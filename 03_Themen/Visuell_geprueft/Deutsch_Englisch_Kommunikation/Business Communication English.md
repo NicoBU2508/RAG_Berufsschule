@@ -2,15 +2,15 @@
 id: vault.thema.visuell.business.communication.english
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Business Communication English"
 kategorie: Deutsch_Englisch_Kommunikation
-quellen: 1
-seiten: 15
+quellen: 2
+seiten: 18
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,8 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [22–30, 35–37, 42–44](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=22>) | aufgabe, beispiel, index, loesung, theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [22–30, 35–37, 42–44](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=22>) | aufgabe, beispiel, index, loesung, theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals\|Englisch_2LJ_Conditionals]] | [4–6](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=4>) | aufgabe, theorie | Text für Zitate geeignet |
 
 ## Belegregel für GPT
 

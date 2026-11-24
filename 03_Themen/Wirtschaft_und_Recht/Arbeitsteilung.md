@@ -24,8 +24,8 @@ Arbeitsteilung zerlegt eine Gesamtleistung in Teilleistungen und führt sie ansc
 
 | Quelle | PDF-Seiten | Evidenz |
 |---|---|---|
-| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]] | [19](<../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=19>) | direkter Unterrichtsabschnitt „Arbeitsteilung“ |
-| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|Zusammenfassung BGWP]] | [6](<../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6>)–[7](<../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7>) | OCR-Zusammenfassung; am Original prüfen |
+| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|BGWP]] | [19](<../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=19>) | direkter Unterrichtsabschnitt „Arbeitsteilung“ |
+| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|Zusammenfassung BGWP]] | [6](<../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6>)–[7](<../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7>) | OCR-Zusammenfassung; am Original prüfen |
 
 ## Verwandte Lernmodule
 

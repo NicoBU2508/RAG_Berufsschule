@@ -2,7 +2,7 @@
 typ: quelle
 fach: "Deutsch"
 fach_anzeige: "Deutsch"
-original_pfad: "99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf"
+original_pfad: "99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf"
 seiten: 10
 pruefung: "WiSo"
 cssclasses:
@@ -23,7 +23,7 @@ textzeichen: 15976
 # 📄 Regelsammlung
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/Deutsch/Deutsch|Deutsch]]
-> - **Original-PDF:** [Regelsammlung.pdf](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf>)
+> - **Original-PDF:** [Regelsammlung.pdf](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf>)
 > - **Seiten:** 10
 > - **KI-Lesbarkeit:** gut: visuell geprüft (ok=10)
 > - **Aktive Lernquelle:** ja
@@ -49,11 +49,11 @@ textzeichen: 15976
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Regelsammlung.pdf Seite 1](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=1]]`
+> - PDF-Seite: [Regelsammlung.pdf Seite 1](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=1]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -126,11 +126,11 @@ e) bestimmte Titel und Namen
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Regelsammlung.pdf Seite 2](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=2]]`
+> - PDF-Seite: [Regelsammlung.pdf Seite 2](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -238,11 +238,11 @@ Finde die Fehler in den Kästchen mit falscher Groß- und Kleinschreibung und ve
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Regelsammlung.pdf Seite 3](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3]]`
+> - PDF-Seite: [Regelsammlung.pdf Seite 3](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -315,11 +315,11 @@ in dem
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Regelsammlung.pdf Seite 4](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4]]`
+> - PDF-Seite: [Regelsammlung.pdf Seite 4](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -364,11 +364,11 @@ Es ärgert mich, dass es heute regnet.
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Regelsammlung.pdf Seite 5](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5]]`
+> - PDF-Seite: [Regelsammlung.pdf Seite 5](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -434,11 +434,11 @@ dass
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Regelsammlung.pdf Seite 6](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6]]`
+> - PDF-Seite: [Regelsammlung.pdf Seite 6](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -491,11 +491,11 @@ Das Komma trennt einen Vergleichssatz vom übergeordneten Satz.
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Regelsammlung.pdf Seite 7](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7]]`
+> - PDF-Seite: [Regelsammlung.pdf Seite 7](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -593,11 +593,11 @@ I
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Regelsammlung.pdf Seite 8](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8]]`
+> - PDF-Seite: [Regelsammlung.pdf Seite 8](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -656,11 +656,11 @@ nen und so…
 ### Seite 9
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Regelsammlung.pdf Seite 9](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9]]`
+> - PDF-Seite: [Regelsammlung.pdf Seite 9](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=9]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -722,11 +722,11 @@ Telepathie
 ### Seite 10
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Regelsammlung.pdf Seite 10](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10]]`
+> - PDF-Seite: [Regelsammlung.pdf Seite 10](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=10]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10]]
 
 #### Extrahierter Originaltext für Suche und KI
 

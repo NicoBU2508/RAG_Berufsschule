@@ -2,10 +2,10 @@
 typ: quelle
 fach: "Religion"
 fach_anzeige: "Religion"
-original_pfad: "99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf"
+original_pfad: "99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf"
 seiten: 6
 textzeichen: 3504
-textstatus: "duplikat_deaktiviert; aktive Quelle: Berufsschule/Religion/Reli Notizen.pdf"
+textstatus: "duplikat_deaktiviert; aktive Quelle: Berufsschule/Religion/1_LJ/Reli Notizen.pdf"
 lernstatus: "archiv_duplikat"
 pruefung: "Zusatz/Quelle prüfen"
 cssclasses:
@@ -17,7 +17,7 @@ tags:
 ---
 # 📄 Unbenanntes Notizbuch
 > [!warning] Duplikat deaktiviert
-> Diese Notiz ist im Archiv, weil der PDF-Text mit **Berufsschule/Religion/Reli Notizen.pdf** übereinstimmt. Für Lernreferenzen wird nur die aktive Originalquelle verwendet.
+> Diese Notiz ist im Archiv, weil der PDF-Text mit **Berufsschule/Religion/1_LJ/Reli Notizen.pdf** übereinstimmt. Für Lernreferenzen wird nur die aktive Originalquelle verwendet.
 ## 🎯 Geprüfte und sinnvolle Referenzen
 
 ## 🧠 Lernstruktur
@@ -32,11 +32,11 @@ tags:
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Unbenanntes Notizbuch.pdf Seite 1](<99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=1]]`
+> - PDF-Seite: [Unbenanntes Notizbuch.pdf Seite 1](<99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=1]]
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=1]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -44,11 +44,11 @@ tags:
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Unbenanntes Notizbuch.pdf Seite 2](<99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=2]]`
+> - PDF-Seite: [Unbenanntes Notizbuch.pdf Seite 2](<99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -116,11 +116,11 @@ Christenmörde
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Unbenanntes Notizbuch.pdf Seite 3](<99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=3]]`
+> - PDF-Seite: [Unbenanntes Notizbuch.pdf Seite 3](<99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=3]]
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -209,11 +209,11 @@ Hinweis auf Gott
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Unbenanntes Notizbuch.pdf Seite 4](<99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=4]]`
+> - PDF-Seite: [Unbenanntes Notizbuch.pdf Seite 4](<99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=4]]
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -331,11 +331,11 @@ München
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Unbenanntes Notizbuch.pdf Seite 5](<99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=5]]`
+> - PDF-Seite: [Unbenanntes Notizbuch.pdf Seite 5](<99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=5]]
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -367,11 +367,11 @@ nur auf das wesentliche Fokussieren
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Unbenanntes Notizbuch.pdf Seite 6](<99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=6]]`
+> - PDF-Seite: [Unbenanntes Notizbuch.pdf Seite 6](<99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Religion/Unbenanntes Notizbuch.pdf#page=6]]
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 

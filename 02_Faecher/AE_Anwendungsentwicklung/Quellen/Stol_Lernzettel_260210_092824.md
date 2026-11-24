@@ -2,7 +2,7 @@
 typ: quelle
 fach: "AE_Anwendungsentwicklung"
 fach_anzeige: "AE Anwendungsentwicklung"
-original_pfad: "99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf"
+original_pfad: "99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf"
 seiten: 4
 pruefung: "AP1, AP2"
 cssclasses:
@@ -24,7 +24,7 @@ textzeichen: 4949
 # 📄 Stol Lernzettel 260210 092824
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/AE_Anwendungsentwicklung/AE_Anwendungsentwicklung|AE Anwendungsentwicklung]]
-> - **Original-PDF:** [Lernzettel_260210_092824.pdf](<99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf>)
+> - **Original-PDF:** [Lernzettel_260210_092824.pdf](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf>)
 > - **Seiten:** 4
 > - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=3, ocr_verified=1)
 > - **Aktive Lernquelle:** ja
@@ -56,11 +56,11 @@ textzeichen: 4949
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Lernzettel_260210_092824.pdf Seite 1](<99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=1]]`
+> - PDF-Seite: [Lernzettel_260210_092824.pdf Seite 1](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=1]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=1]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -95,11 +95,11 @@ N t ‘
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Lernzettel_260210_092824.pdf Seite 2](<99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=2]]`
+> - PDF-Seite: [Lernzettel_260210_092824.pdf Seite 2](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=2]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=2]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -141,11 +141,11 @@ Komplexe Datentypen
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Lernzettel_260210_092824.pdf Seite 3](<99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=3]]`
+> - PDF-Seite: [Lernzettel_260210_092824.pdf Seite 3](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=3]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=3]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -187,11 +187,11 @@ Zugriff (Punkt-Operator)
 
 ### Seite 4
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Lernzettel_260210_092824.pdf Seite 4](<99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=4]]`
+> - PDF-Seite: [Lernzettel_260210_092824.pdf Seite 4](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=4]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=4]]
 
 #### Verifizierter OCR-Nachtrag für Suche
 

@@ -2,7 +2,7 @@
 typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
-original_pfad: "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1 (1).pdf"
+original_pfad: "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1 (1).pdf"
 seiten: 1
 pruefung: "AP1 IT-Sicherheit / physische Sicherheit"
 cssclasses:
@@ -27,7 +27,7 @@ textzeichen: 0
 # 📄 IT Sicherheit Aufgabe 1 1
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
-> - **Original-PDF:** [Aufgabe 1 (1).pdf](<99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1 (1).pdf>)
+> - **Original-PDF:** [Aufgabe 1 (1).pdf](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1 (1).pdf>)
 > - **Seiten:** 1
 > - **KI-Lesbarkeit:** kritisch: Exakte Seitendublette von IT_Sicherheit_Aufgabe_1.md, Seite 2
 > - **Aktive Lernquelle:** nein – technisch ausgeschlossen

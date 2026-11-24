@@ -2,15 +2,15 @@
 id: vault.thema.visuell.netzwerktechnik.und.netzplan
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Netzwerktechnik und Netzplan"
 kategorie: IT_Technik_und_Sicherheit
-quellen: 3
-seiten: 16
+quellen: 5
+seiten: 35
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,9 +25,11 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [1–2](<99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=1>) | loesung | 2 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [3–5, 8–9](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=3>) | loesung | 5 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [8–16](<99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8>) | aufgabe, beispiel, theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell\|FU_IT_2LJ_Ott_OSI_Modell]] | [1, 3–11, 13, 15–16, 19, 22, 24–25, 28](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=1>) | aufgabe, loesung, theorie | 12 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung\|FU_IT_2LJ_Zielske_IPv4_Wiederholung]] | [5](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=5>) | theorie | Text für Zitate geeignet |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [1–2](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=1>) | loesung | 2 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [3–5, 8–9](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=3>) | loesung | 5 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [8–16](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8>) | aufgabe, beispiel, theorie | 1 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

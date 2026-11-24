@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Restseiten Originalbelege** im Fach **Religion**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=1|Reli Notizen S. 1]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=1|Reli Notizen S. 1]].
 > - **Zentrale Suchbegriffe:** Restseiten, Originalbelege, ReliNotizen.
 > - **Prüfungsbezug:** AP1/AP2 Lernbasis.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -51,7 +51,7 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Religion/Quellen/Reli_Notizen\|Reli_Notizen]] | [Reli Notizen.pdf Seite 1](<../../../../99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=1>) | Reli_Notizen Seite 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Religion/Quellen/Reli_Notizen\|Reli_Notizen]] | [Reli Notizen.pdf Seite 1](<../../../../99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=1>) | Reli_Notizen Seite 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -60,11 +60,11 @@ tags:
 #### Seite 1: Reli_Notizen Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF: [Reli Notizen.pdf Seite 1](<../../../../99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=1]]`
+> - PDF: [Reli Notizen.pdf Seite 1](<../../../../99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=1]]
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 

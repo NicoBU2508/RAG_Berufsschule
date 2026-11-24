@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **IT Jobs and Roles** im Fach **Englisch**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=1|Englisch S. 1]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2|Englisch S. 2]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3|Englisch S. 3]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4|Englisch S. 4]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5|Englisch S. 5]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=6|Englisch S. 6]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=1|Englisch S. 1]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2|Englisch S. 2]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3|Englisch S. 3]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4|Englisch S. 4]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5|Englisch S. 5]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=6|Englisch S. 6]].
 > - **Zentrale Suchbegriffe:** Jobs, and, Roles, Englisch, English, EIT, People, thorough, Introducing, company.
 > - **Prüfungsbezug:** Berufsschule/Kommunikation, prüfungsnahes Fachvokabular.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -62,23 +62,23 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 1](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=1>) | Englisch Seite 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 5](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5>) | thorough | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 6](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=6>) | Introducing a company | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 7](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=7>) | Corelsen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 8](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=8>) | DNV (LSTADT | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 9](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=9>) | Hello and | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 16](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=16>) | is a Company | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=21>) | The structure of a company | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 30](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30>) | I am writing to confirm your application for a stand at the Technical Trades Fair. The sta … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 33](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=33>) | Making a telephone call | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36>) | Sales and Marketing | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37>) | responsibilities | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=38>) | STAATLICHE BERUFSSCHULEA | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 17 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=42>) | STAATLICHE | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 1](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=1>) | Englisch Seite 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 5](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5>) | thorough | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 6](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=6>) | Introducing a company | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 7](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=7>) | Corelsen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 8](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=8>) | DNV (LSTADT | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 9](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=9>) | Hello and | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 16](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=16>) | is a Company | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=21>) | The structure of a company | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 30](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30>) | I am writing to confirm your application for a stand at the Technical Trades Fair. The sta … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 33](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=33>) | Making a telephone call | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36>) | Sales and Marketing | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37>) | responsibilities | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=38>) | STAATLICHE BERUFSSCHULEA | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 17 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=42>) | STAATLICHE | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -87,11 +87,11 @@ tags:
 #### Seite 1: Englisch Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 1](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=1]]`
+> - PDF: [Englisch.pdf Seite 1](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=1]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 
@@ -105,11 +105,11 @@ tags:
 #### Seite 2: English – EIT – People and jobs in IT – Date:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2]]`
+> - PDF: [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > English – EIT – People and jobs in IT – Date: __________________________ JOB DESCRIPTIONS Today computers are everywhere you turn – not only in office jobs, but also in engineering, production, en- tertainment and many more. In fact, it is hard to imag- ine working in a job that does not use a computer at some point. Despite this, only a small majority of com- puter users can be called experts, and an even smaller number of people understand what happens behind the screen. It takes IT experts to create and service the machines and applications that so many people depend on. And these experts need to have a wide range of qualifications and skills to provide the quality and support necessary. …
@@ -196,11 +196,11 @@ design, and an eye for detail.”
 #### Seite 3: English – EIT – People and jobs in IT – Date:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3]]`
+> - PDF: [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > English – EIT – People and jobs in IT – Date: __________________________ TASK Read the four texts again and make a list outlining the responsibilities, skills and qualifications required for each job. JOB RESPONSIBILITES SKILLS QUALIFICATIONS IT consultant Network Administrator Computer Programmer Web Developer https://www.prospects.ac.uk/job-profiles/browse-sector/information-technology applying IT to business analytical, comunication Computer Science, busnes education - install, upgrade , troubleshoot analytical, communication broad education in IT-Systems networks international reconized cetificates · maintenance LANIVAN develope new applications problem solving programminy languages upda …
@@ -298,11 +298,11 @@ graphik design, software engineering
 #### Seite 4: English – EIT – People and jobs in IT – Date:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4]]`
+> - PDF: [Englisch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > English – EIT – People and jobs in IT – Date: __________________________ APPLYING FOR A POSITION Nearing the end of your apprenticeship you will be searching for permanent employment. Maybe you will consider working abroad so you will keep your eyes open for relevant job offers. In doing so, you encounter the following adver- tisement. For more information please apply online to: personnel@IT-comp... TASK Find equivalents for the following German terms and phrases in the job advertisement above!  Sozialkompetenz  erstrangiges Unternehmen  ein breites Spektrum an Fähigkeiten  unerlässlich, unentbehrlich  Verantwortlichkeiten  Kommunikationsfähigkeit  Network Administrator / Network Su …
@@ -371,11 +371,11 @@ E
 #### Seite 5: thorough
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 5](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5]]`
+> - PDF: [Englisch.pdf Seite 5](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=5]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > thorough gründlich confidential vertraulich maintenance Instandhaltung to maintain Warten to troubleshoot Fehlerbehebung responsibility Verantwortung import Import, Einfuhr task Aufgabe capabilities Fähigkeiten appientice Lehrling internship Praktikum evaluate auswerten overtime überstunden shifts schicht department Abteilung
@@ -418,11 +418,11 @@ Abteilung
 #### Seite 6: Introducing a company
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 6](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=6]]`
+> - PDF: [Englisch.pdf Seite 6](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=6]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: Introducing a company Name oft he company Sector Head Office Size BCC Electronics International Solutions Nilsson Construction Han Gao Jahn Services Aikn I elektronik London mediu sizz equitment # Berlin Startup building Stockholm bigmultinational metall Hong-Kong global automotiva minder large medical studger smal
@@ -480,11 +480,11 @@ smal
 #### Seite 7: Corelsen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 7](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=7]]`
+> - PDF: [Englisch.pdf Seite 7](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=7]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > c 2u18 Corelsen Verlaa GmbH. Berlin. Alle Rechte vorbehalten ITMATTERS Name: Kopiervorlage 1.1 Datum: Unit1:Compoundwords&questions(Foundation) A Takeawordfromeachboxandbuildanewone. Thentranslateitasin theexample. autometive • factory • family • electrical • electronic • head-•industrial• mechanical• global • IT • vocational business • engineering • cables • player • specialist • equipment • training • office • secter • electronics • automation English automotive sector neadotic German Automobilbranche B Asking for information: Write questions to match the answers on the right. I work for Nilsson Electronics. It's located in Stockholm. Ithas250employees. We are in the electronics sector. It …
@@ -578,11 +578,11 @@ your job
 #### Seite 8: DNV (LSTADT
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 8](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=8]]`
+> - PDF: [Englisch.pdf Seite 8](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=8]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > |I1i name: BERuFs Sc LE. date: class: DNV (LSTADT Useful Phrases Describing jobs and responsibilities olk inateam o sHuecke HoFels Ich arbeite in einem Team von Software-Testern Lkall/ k/epl ce /irspe) Ich installiere/teste/ersetztelkontrolliere. refk S stems ncintain/|eail, Ich wartelrepariere Netzwerksysteme. sterotldeas sdae ch behebe Software-Probleme/stelle Software- Probleme fest. ogale eo haie pexdas Ich stelle sicher, dass unsere Software-Produkte 1seren Kunden/Kundinnen geliefert werden. oel C og sokefea moolaig* Ich bin dafür verantwortlich, die Datenbank zu Ol pflegen. (daah ay epuk Jiehl t fhe pojk Ich erstatte direkt dem/der Projektmanager/in Bericht. ponaoeC E fied ho6/a 3Ih k …
@@ -651,11 +651,11 @@ to your leftright can you see
 #### Seite 9: Hello and
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 9](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=9]]`
+> - PDF: [Englisch.pdf Seite 9](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=9]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 1. Fr . Jäh 2 . Hello and welcome to... Im Stefan Becker
@@ -677,11 +677,11 @@ Becker
 #### Seite 16: is a Company
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 16](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=16>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=16]]`
+> - PDF: [Englisch.pdf Seite 16](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=16>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=16]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=16]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > PSW is a Company based in Germany and is a subsidiary from Audi. The headquate is in Gaimesheim, and theres another office in Neckesulm . Together PSU has around 1000 employees , 900 in Gaimesheim and 100 in Neckesulm. Our main buisness is engeneering work and technical developent in the automotive sector. The companies biggest project was the e-tron gt where PSW was the main technical developer. PSU only works inside theVW concern for brands like Audi , Lambogini , Bentley
@@ -739,11 +739,11 @@ Audi , Lambogini , Bentley
 #### Seite 21: The structure of a company
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=21>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=21]]`
+> - PDF: [Englisch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=21>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=21]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=21]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: The structure of a company CEO CTO CDO Head of Sotwear Head of IT Engineering Operations Quality assurance Project Manages Manages responsibility goals system data technology clients software projects products testing hacore
@@ -785,11 +785,11 @@ hacore
 #### Seite 30: I am writing to confirm your application for a stand at the Technical Trades Fair. The sta …
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 30](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30]]`
+> - PDF: [Englisch.pdf Seite 30](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 4 I am writing to confirm your application for a stand at the Technical Trades Fair. The stand number is CO2208. _______________________________________________________________________________ 5 As promised, here is the link to the website www.tipsformails.com. _______________________________________________________________________________ 6 This is just to let you know that I am interviewing a new technician at 12:30. _______________________________________________________________________________ 6 A Z
@@ -828,11 +828,11 @@ Z
 #### Seite 33: Making a telephone call
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 33](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=33>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=33]]`
+> - PDF: [Englisch.pdf Seite 33](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=33>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=33]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=33]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Name: Klasse: Datum: Making a telephone call 1) 2) Work with a partner. Use the phrases in exercise 1 and note above to complete the voicemail message. “Good morning. This is _____________________________________________ from Hamm Machines. I’m calling ________________________________________________________ my supervisor, John Hall. I’d like to ____________________________________ Mr Dalton, the __________________________________.It’s ____________________________ service checks on your lathes. The _____________________________________________. We’ll be sending ______________________________________________________ to your factory at 8:30 on Tuesday, 7 June. All checks should be completed by …
@@ -906,11 +906,11 @@ you
 #### Seite 36: Sales and Marketing
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36]]`
+> - PDF: [Englisch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Sales and Marketing Vertrieb und Marketing Production Planning Produktionsplanung Accounts / Finance Buchhaltung / Finanzen HR (Human Resources) Personalabteilung Production Produktion Logistics Logistik Purchasing / Ordering Einkauf / Bestellung Customer Service Kundendienst R&D (Research and Development) Forschung und Entwicklung IT (Information Technology) IT-Abteilung Quality Control / Quality Assurance Qualitätssicherung Administration Verwaltung Reception Empfang Legal Department Rechtsabteilung Hardware Support Hardware-Support Software Development Softwareentwicklung Design Designabteilung distribute verteilen / vertreiben advertise and sell werben und verkaufen recruit and train ein …
@@ -1011,11 +1011,11 @@ Qualifikationen
 #### Seite 37: responsibilities
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37]]`
+> - PDF: [Englisch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=37]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > responsibilities Aufgaben / Verantwortlichkeiten troubleshoot Fehler beheben implement / implementation umsetzen / Umsetzung maintain / maintenance warten / Wartung confidential vertraulich analytical skills analytische Fähigkeiten communication skills Kommunikationsfähigkeit people skills Sozialkompetenz broad range of skills breites Spektrum an Fähigkeiten essential unerlässlich / unentbehrlich leading blue chip company erstrangiges Unternehmen debug Fehler im Code suchen defect Fehler / Mangel apply IT to business processes IT auf Geschäftsprozesse anwenden keep up to date auf dem neuesten Stand bleiben advise clients Kunden beraten LAN / WAN lokales / weiträumiges Netzwerk data visualiza …
@@ -1106,11 +1106,11 @@ Ich sorge dafür, dass er die Nachricht erhält.
 #### Seite 38: STAATLICHE BERUFSSCHULEA
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=38>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=38]]`
+> - PDF: [Englisch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=38>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=38]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=38]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Name: Klasse: STAATLICHE BERUFSSCHULEA INGOLSTADT Datum: Safety advice for PC builders 1) Read the first part of the article again and find words which have the same meaning as the German expressions below. WerkzeugeSchraubendreher ZangeKantenKabelsteckerReinigungsmitel ScrewdireAnti-State Wis-Stop Cuttels FlashlightA Dister Tips to keep you - and your computer - safe when instaling parts General tips • Make sure you have the right tools for the job. You're not going to need many but you will need two types of screwdriver - Phillips and flat-head - as well as pliers. 3 • PC components are often extremely delicate. Handle them with care and try to pick them up by their edges to avoid damage. …
@@ -1515,11 +1515,11 @@ static.
 #### Seite 42: STAATLICHE
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=42>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=42]]`
+> - PDF: [Englisch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=42>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=42]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=42]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: STAATLICHE BERufS SCHULE1 酒 ⼝菌⼝⾃員 INGOLSTADT date: Promoting your productsand services 1)ReadthebrochureandnotedownthekeyinformationaboutQARMedicalinGerman. QAR Medical Augmenting medical specialists Since our startjust nine years ago, we'vehad great success in establishing a reputation as the most trusted brand in medical education. Alter der Firma Our educational platformis the bestin the businessandhas beenbuiltto accompany students for their entire careers- a constant partner in development. Client testimonials tell usthat weexceed expectation of delivered service over 25% of the time. Kernpunkte Hauptkunden Our flagship product, HoloMedEd, combines our expertise in medical …
@@ -1625,7 +1625,7 @@ any othe learning Material
 - Frage:: Was ist der Kernpunkt zu **English – EIT – People and jobs in IT – Date:** laut Quelle?
 - Antwort:: JOB DESCRIPTIONS Today computers are everywhere you turn – not only in office jobs, but also in engineering, production, entertainment and many more.
 - Beleg:: JOB DESCRIPTIONS Today computers are everywhere you turn – not only in office jobs, but also in engineering, production, entertainment and many more.
-- Quelle:: [[02_Faecher/Englisch/Quellen/Englisch|Englisch]], [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2|Englisch S. 2]]
+- Quelle:: [[02_Faecher/Englisch/Quellen/Englisch|Englisch]], [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2|Englisch S. 2]]
 - Prüfung:: Berufsschule/Kommunikation, prüfungsnahes Fachvokabular
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

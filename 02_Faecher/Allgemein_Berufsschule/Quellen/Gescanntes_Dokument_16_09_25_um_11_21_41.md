@@ -2,7 +2,7 @@
 typ: quelle
 fach: "Allgemein_Berufsschule"
 fach_anzeige: "Allgemein Berufsschule"
-original_pfad: "99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf"
+original_pfad: "99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf"
 seiten: 4
 pruefung: "AP1/AP2 IT-Sicherheit"
 cssclasses:
@@ -23,7 +23,7 @@ textzeichen: 6412
 # 📄 Gescanntes Dokument 16 09 25 um 11 21 41
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/Allgemein_Berufsschule/Allgemein_Berufsschule|Allgemein Berufsschule]]
-> - **Original-PDF:** [Gescanntes Dokument 16.09.25 um 11.21.41.pdf](<99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf>)
+> - **Original-PDF:** [Gescanntes Dokument 16.09.25 um 11.21.41.pdf](<99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf>)
 > - **Seiten:** 4
 > - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (partial=2, ocr_error=2)
 > - **Aktive Lernquelle:** ja
@@ -49,11 +49,11 @@ textzeichen: 6412
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Gescanntes Dokument 16.09.25 um 11.21.41.pdf Seite 1](<99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=1]]`
+> - PDF-Seite: [Gescanntes Dokument 16.09.25 um 11.21.41.pdf Seite 1](<99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=1]]
+> ![[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=1]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -109,11 +109,11 @@ Fragen/Notizen:
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Gescanntes Dokument 16.09.25 um 11.21.41.pdf Seite 2](<99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=2]]`
+> - PDF-Seite: [Gescanntes Dokument 16.09.25 um 11.21.41.pdf Seite 2](<99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -168,11 +168,11 @@ Lenziele :
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Gescanntes Dokument 16.09.25 um 11.21.41.pdf Seite 3](<99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3]]`
+> - PDF-Seite: [Gescanntes Dokument 16.09.25 um 11.21.41.pdf Seite 3](<99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3]]
+> ![[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -264,11 +264,11 @@ E
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Gescanntes Dokument 16.09.25 um 11.21.41.pdf Seite 4](<99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=4]]`
+> - PDF-Seite: [Gescanntes Dokument 16.09.25 um 11.21.41.pdf Seite 4](<99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=4]]
+> ![[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 

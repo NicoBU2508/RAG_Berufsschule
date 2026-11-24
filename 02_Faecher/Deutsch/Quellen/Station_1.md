@@ -2,7 +2,7 @@
 typ: quelle
 fach: "Deutsch"
 fach_anzeige: "Deutsch"
-original_pfad: "99_Originale/Berufsschule/Deutsch/Station 1.pdf"
+original_pfad: "99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf"
 seiten: 2
 pruefung: "Deutsch Rechtschreibung / Grammatik"
 cssclasses:
@@ -23,7 +23,7 @@ textzeichen: 3281
 # 📄 Station 1
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/Deutsch/Deutsch|Deutsch]]
-> - **Original-PDF:** [Station 1.pdf](<99_Originale/Berufsschule/Deutsch/Station 1.pdf>)
+> - **Original-PDF:** [Station 1.pdf](<99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf>)
 > - **Seiten:** 2
 > - **KI-Lesbarkeit:** gut: visuell geprüft (ok=2)
 > - **Aktive Lernquelle:** ja
@@ -46,11 +46,11 @@ textzeichen: 3281
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Station 1.pdf Seite 1](<99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=1]]`
+> - PDF-Seite: [Station 1.pdf Seite 1](<99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=1]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=1]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -158,11 +158,11 @@ Finde die Fehler in den Kästchen mit falscher Groß- und Kleinschreibung und ve
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Station 1.pdf Seite 2](<99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=2]]`
+> - PDF-Seite: [Station 1.pdf Seite 2](<99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 

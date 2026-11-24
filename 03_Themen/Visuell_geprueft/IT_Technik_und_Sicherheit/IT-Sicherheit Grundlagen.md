@@ -2,15 +2,15 @@
 id: vault.thema.visuell.it.sicherheit.grundlagen
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "IT-Sicherheit Grundlagen"
 kategorie: IT_Technik_und_Sicherheit
-quellen: 2
-seiten: 3
+quellen: 6
+seiten: 11
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,8 +25,12 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41\|Gescanntes_Dokument_16_09_25_um_11_21_41]] | [2, 4](<99_Originale/Berufsschule/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=2>) | aufgabe, loesung | 2 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [2](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=2>) | loesung | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [99–100](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=99>) | aufgabe, theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41\|Gescanntes_Dokument_16_09_25_um_11_21_41]] | [2, 4](<99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=2>) | aufgabe, loesung | 2 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften\|FU_IT_2LJ_Abded_Mitschriften]] | [5](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=5>) | aufgabe | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [2](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=2>) | loesung | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [70, 83, 100](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=70>) | loesung, theorie | 2 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift\|IT_Tech_2LJ_Liebscher_Mitschrift]] | [5, 12](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf#page=5>) | theorie | 1 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

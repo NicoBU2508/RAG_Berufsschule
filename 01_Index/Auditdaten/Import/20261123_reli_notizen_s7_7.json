@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/Religion/Quellen/Reli_Notizen.md (Seiten 7–7)",
+  "replaces_existing": false,
+  "topic_categories": {},
+  "pages": [
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
+      "page": 7,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Symbole und Glaube",
+        "secondary_topics": [
+          "Jesus",
+          "Hoheitstitel Jesu",
+          "Bibelstellen"
+        ],
+        "recommended_topics": [
+          "Symbole und Glaube"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche zweispaltige Übersicht mit Bibelstellen visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

@@ -2,10 +2,10 @@
 typ: quelle
 fach: "AE_Anwendungsentwicklung"
 fach_anzeige: "AE Anwendungsentwicklung"
-original_pfad: "99_Originale/Berufsschule/AE/Anwendugse.pdf"
+original_pfad: "99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf"
 seiten: 87
 textzeichen: 145216
-textstatus: "duplikat_deaktiviert; aktive Quelle: Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf"
+textstatus: "duplikat_deaktiviert; aktive Quelle: Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf"
 lernstatus: "archiv_duplikat"
 pruefung: "Zusatz/Quelle prüfen"
 cssclasses:
@@ -17,7 +17,7 @@ tags:
 ---
 # 📄 Anwendugse
 > [!warning] Duplikat deaktiviert
-> Diese Notiz ist im Archiv, weil der PDF-Text mit **Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf** übereinstimmt. Für Lernreferenzen wird nur die aktive Originalquelle verwendet.
+> Diese Notiz ist im Archiv, weil der PDF-Text mit **Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf** übereinstimmt. Für Lernreferenzen wird nur die aktive Originalquelle verwendet.
 ## 🎯 Geprüfte und sinnvolle Referenzen
 
 ## 🧠 Lernstruktur
@@ -32,11 +32,11 @@ tags:
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 1](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=1]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 1](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=1]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=1]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -101,11 +101,11 @@ EVA - PRINZIP
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 2](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=2]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 2](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=2]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -169,11 +169,11 @@ wertet diese in der gewünschten Form entsprechend aus.
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 3](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=3]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 3](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=3]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=3]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -181,11 +181,11 @@ wertet diese in der gewünschten Form entsprechend aus.
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 4](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=4]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 4](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=4]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -245,11 +245,11 @@ V
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 5](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=5]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 5](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=5]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -289,11 +289,11 @@ Ausgabe (Urlaub)
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 6](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=6]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 6](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=6]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -317,11 +317,11 @@ Ausgabe
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 7](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=7]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 7](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=7]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=7]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -419,11 +419,11 @@ Verarbeitung
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 8](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=8]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 8](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=8]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=8]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -496,11 +496,11 @@ Ende vorhanden!
 ### Seite 9
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 9](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=9>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=9]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 9](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=9>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=9]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=9]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -511,11 +511,11 @@ Beispiel für Programmablaufpläne (PAP = Programmablaufplan), wie sie in der Pr
 ### Seite 10
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 10](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=10>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=10]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 10](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=10>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=10]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=10]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -607,11 +607,11 @@ Ende
 ### Seite 11
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 11](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=11>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=11]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 11](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=11>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=11]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=11]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -619,11 +619,11 @@ Ende
 ### Seite 12
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 12](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=12>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=12]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 12](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=12>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=12]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=12]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -638,11 +638,11 @@ code.
 ### Seite 13
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 13](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=13>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=13]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 13](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=13>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=13]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=13]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -681,11 +681,11 @@ rechts) als mehrfache Verzweigung dargestellt!
 ### Seite 14
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 14](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=14>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=14]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 14](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=14>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=14]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=14]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -703,11 +703,11 @@ zu
 ### Seite 15
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 15](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=15>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=15]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 15](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=15>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=15]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=15]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -759,11 +759,11 @@ klammern
 ### Seite 16
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 16](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=16>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=16]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 16](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=16>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=16]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=16]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -781,11 +781,11 @@ Optimierung: Abweichend vom vorgegebenen PAP wäre folgende Lösung sinnvoller!
 ### Seite 17
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 17](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=17>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=17]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 17](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=17>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=17]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=17]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -851,11 +851,11 @@ Zusammenfassung für St
 ### Seite 18
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 18](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=18>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=18]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 18](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=18>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=18]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=18]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -930,11 +930,11 @@ ebenfalls Rechtecke.
 ### Seite 19
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 19](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=19>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=19]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 19](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=19>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=19]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=19]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1121,11 +1121,11 @@ Variablen klein schreiben : Position, nu, umsatz, art
 ### Seite 20
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 20](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=20>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=20]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 20](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=20>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=20]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=20]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1180,11 +1180,11 @@ O
 ### Seite 21
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 21](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=21>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=21]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 21](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=21>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=21]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=21]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1233,11 +1233,11 @@ summe
 ### Seite 22
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 22](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=22>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=22]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 22](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=22>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=22]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=22]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1345,11 +1345,11 @@ wieder geschlossen
 ### Seite 23
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 23](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=23>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=23]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 23](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=23>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=23]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=23]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1463,11 +1463,11 @@ Initialisierung
 ### Seite 24
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 24](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=24>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=24]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 24](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=24>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=24]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=24]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1522,11 +1522,11 @@ Bottom-Up
 ### Seite 25
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 25](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=25>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=25]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 25](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=25>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=25]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=25]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1625,11 +1625,11 @@ wir nicht !
 ### Seite 26
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 26](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=26>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=26]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 26](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=26>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=26]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=26]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1767,11 +1767,11 @@ beschriebenen Anforderungen
 ### Seite 27
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 27](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=27>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=27]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 27](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=27>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=27]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=27]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1867,11 +1867,11 @@ zum Entwicklungsprozess!
 ### Seite 28
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 28](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=28>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=28]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 28](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=28>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=28]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=28]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -1879,11 +1879,11 @@ zum Entwicklungsprozess!
 ### Seite 29
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 29](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=29>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=29]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 29](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=29>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=29]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=29]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1975,11 +1975,11 @@ nummer: = nummer * nummer
 ### Seite 30
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 30](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=30>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=30]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 30](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=30>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=30]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=30]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -1987,11 +1987,11 @@ nummer: = nummer * nummer
 ### Seite 31
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 31](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=31>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=31]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 31](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=31>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=31]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=31]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2111,11 +2111,11 @@ Pseudocode
 ### Seite 32
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 32](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=32>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=32]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 32](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=32>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=32]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=32]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2154,11 +2154,11 @@ Initialisierung
 ### Seite 33
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 33](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=33>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=33]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 33](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=33>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=33]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=33]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2237,11 +2237,11 @@ Widerholung
 ### Seite 34
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 34](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=34>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=34]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 34](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=34>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=34]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=34]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2315,11 +2315,11 @@ Feld
 ### Seite 35
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 35](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=35>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=35]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 35](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=35>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=35]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=35]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2330,11 +2330,11 @@ Lösungsvorschlag:
 ### Seite 36
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 36](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=36>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=36]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 36](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=36>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=36]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=36]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -2342,11 +2342,11 @@ Lösungsvorschlag:
 ### Seite 37
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 37](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=37>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=37]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 37](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=37>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=37]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=37]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2363,11 +2363,11 @@ do
 ### Seite 38
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 38](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=38>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=38]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 38](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=38>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=38]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=38]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2424,11 +2424,11 @@ d.h. das Feld „produkt“ wird somit zeilenweise mit Werten belegt.
 ### Seite 39
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 39](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=39>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=39]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 39](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=39>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=39]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=39]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2482,11 +2482,11 @@ weiter!
 ### Seite 40
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 40](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=40>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=40]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 40](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=40>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=40]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=40]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2595,11 +2595,11 @@ End
 ### Seite 41
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 41](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=41>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=41]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 41](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=41>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=41]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=41]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2719,11 +2719,11 @@ Ende
 ### Seite 42
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 42](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=42>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=42]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 42](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=42>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=42]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=42]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2773,11 +2773,11 @@ Y
 ### Seite 43
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 43](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=43>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=43]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 43](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=43>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=43]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=43]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2792,11 +2792,11 @@ fünf Lösungen. Kennzeichne zudem bei den übrigen Lösungsvorschlägen, was al
 ### Seite 44
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 44](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=44>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=44]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 44](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=44>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=44]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=44]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2867,11 +2867,11 @@ Ausgegeben wird am Bildschirm:
 ### Seite 45
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 45](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=45>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=45]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 45](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=45>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=45]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=45]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2907,11 +2907,11 @@ um das vierte Feldelement!
 ### Seite 46
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 46](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=46>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=46]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 46](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=46>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=46]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=46]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2993,11 +2993,11 @@ false
 ### Seite 47
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 47](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=47>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=47]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 47](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=47>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=47]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=47]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=47]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3018,11 +3018,11 @@ Auch: Abbruchbedingung
 ### Seite 48
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 48](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=48>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=48]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 48](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=48>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=48]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=48]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -3030,11 +3030,11 @@ Auch: Abbruchbedingung
 ### Seite 49
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 49](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=49>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=49]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 49](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=49>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=49]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=49]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=49]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3050,11 +3050,11 @@ und das Ergebnis ist 10.
 ### Seite 50
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 50](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=50>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=50]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 50](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=50>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=50]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=50]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=50]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3145,11 +3145,11 @@ Beispiel:    3 + 4  ➔  summe = 3 + 4
 ### Seite 51
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 51](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=51>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=51]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 51](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=51>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=51]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=51]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=51]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3226,11 +3226,11 @@ Antwort:
 ### Seite 52
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 52](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=52>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=52]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 52](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=52>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=52]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=52]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=52]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3290,11 +3290,11 @@ Eigenschaften
 ### Seite 53
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 53](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=53>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=53]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 53](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=53>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=53]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=53]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=53]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3397,11 +3397,11 @@ Verwendung im Hauptprogramm:
 ### Seite 54
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 54](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=54>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=54]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 54](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=54>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=54]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=54]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=54]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3447,11 +3447,11 @@ Programmierkenntnissen vertraut machen. Das Hamster-Modell ist z.B. an Java ange
 ### Seite 55
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 55](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=55>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=55]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 55](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=55>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=55]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=55]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=55]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3530,11 +3530,11 @@ Interpreter gelesen und ausgeführt
 ### Seite 56
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 56](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=56>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=56]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 56](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=56>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=56]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=56]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=56]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3607,11 +3607,11 @@ in
 ### Seite 57
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 57](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=57>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=57]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 57](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=57>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=57]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=57]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=57]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3670,11 +3670,11 @@ anderen Compiler nötig.
 ### Seite 58
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 58](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=58>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=58]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 58](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=58>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=58]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=58]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=58]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3713,11 +3713,11 @@ Die Kombination aus Binder und Lader ist der Bindelader: Er kombiniert die Aufga
 ### Seite 59
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 59](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=59>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=59]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 59](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=59>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=59]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=59]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=59]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3787,11 +3787,11 @@ an denen normale Funktionen erlaubt sind (z. B. bei Funktionspointern). …
 ### Seite 60
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 60](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=60>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=60]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 60](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=60>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=60]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=60]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=60]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3876,11 +3876,11 @@ neu
 ### Seite 61
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 61](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=61>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=61]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 61](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=61>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=61]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=61]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=61]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3972,11 +3972,11 @@ wird verringst
 ### Seite 62
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 62](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=62>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=62]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 62](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=62>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=62]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=62]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=62]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4009,11 +4009,11 @@ Schleifenarten getestet werden können.
 ### Seite 63
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 63](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=63>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=63]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 63](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=63>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=63]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=63]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=63]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4039,11 +4039,11 @@ IDE von Robot Karol und IDE von BlueJ:
 ### Seite 64
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 64](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=64>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=64]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 64](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=64>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=64]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=64]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=64]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4057,11 +4057,11 @@ Robot Karol:
 ### Seite 65
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 65](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=65>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=65]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 65](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=65>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=65]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=65]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=65]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4126,11 +4126,11 @@ ist es immer sinnvoll, das Programm mit bekannten
 ### Seite 66
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 66](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=66>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=66]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 66](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=66>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=66]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=66]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=66]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4179,11 +4179,11 @@ nen wir uns das Debuggen näher ansehen. Das Programm heißt „Urlaubsanspruech
 ### Seite 67
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 67](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=67>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=67]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 67](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=67>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=67]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=67]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=67]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4245,11 +4245,11 @@ wirksames Werkzeug, um logische Fehler im Programm erkennen zu können. Nutze di
 ### Seite 68
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 68](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=68>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=68]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 68](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=68>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=68]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=68]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=68]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4351,11 +4351,11 @@ Assemble
 ### Seite 69
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 69](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=69>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=69]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 69](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=69>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=69]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=69]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=69]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4401,11 +4401,11 @@ gehören die Kunden, das Management, die Benutzer des Produkts (bei uns der Soft
 ### Seite 70
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 70](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=70>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=70]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 70](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=70>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=70]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=70]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=70]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4470,11 +4470,11 @@ Die Darstellung stammt aus Westermann-Verlag „IT-Berufe Grundstufe Lernfelder 
 ### Seite 71
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 71](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=71>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=71]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 71](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=71>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=71]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=71]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=71]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4569,11 +4569,11 @@ Produkte
 ### Seite 72
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 72](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=72>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=72]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 72](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=72>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=72]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=72]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=72]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4654,11 +4654,11 @@ Einsatz und Wartung
 ### Seite 73
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 73](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=73>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=73]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 73](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=73>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=73]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=73]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=73]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4749,11 +4749,11 @@ Quelle: Wikipedia – mit Ergänzungen
 ### Seite 74
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 74](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=74>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=74]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 74](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=74>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=74]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=74]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=74]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4842,11 +4842,11 @@ Vertikaler Prototyp (er geht durch alle Ebenen)
 ### Seite 75
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 75](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=75>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=75]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 75](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=75>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=75]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=75]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=75]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4911,11 +4911,11 @@ schreiben.
 ### Seite 76
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 76](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=76>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=76]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 76](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=76>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=76]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=76]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=76]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5012,11 +5012,11 @@ Systemsoftware). 
 ### Seite 77
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 77](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=77>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=77]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 77](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=77>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=77]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=77]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=77]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5073,11 +5073,11 @@ che bei Scrum mehr Handlungsvorgaben oder Handlungsempfehlungen.
 ### Seite 78
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 78](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=78>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=78]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 78](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=78>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=78]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=78]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=78]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5092,11 +5092,11 @@ Geben Sie diese an und erläutern Sie, was jeweils damit gemeint ist!
 ### Seite 79
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 79](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=79>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=79]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 79](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=79>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=79]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=79]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=79]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5136,11 +5136,11 @@ Interoperabilität: Fähigkeit zum Datenaustausch mit anderen Systemen.
 ### Seite 80
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 80](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=80>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=80]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 80](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=80>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=80]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=80]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=80]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5185,11 +5185,11 @@ Authentizität: Sicherstellung der Identität des Kommunikationspartners.
 ### Seite 81
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 81](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=81>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=81]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 81](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=81>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=81]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=81]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=81]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5221,11 +5221,11 @@ Erstellt gemäß ISO/IEC 25010 Standard
 ### Seite 82
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 82](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=82>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=82]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 82](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=82>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=82]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=82]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=82]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5277,11 +5277,11 @@ toren und Compiler.
 ### Seite 83
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 83](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=83>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=83]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 83](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=83>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=83]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=83]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=83]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5342,11 +5342,11 @@ lassen sich nachvollziehen.
 ### Seite 84
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 84](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=84>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=84]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 84](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=84>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=84]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=84]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=84]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5380,11 +5380,11 @@ tation von Software für alle Beteiligten (Hersteller wie Benutzer) von großer 
 ### Seite 85
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 85](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=85>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=85]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 85](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=85>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=85]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=85]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=85]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5428,11 +5428,11 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 ### Seite 86
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 86](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=86>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=86]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 86](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=86>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=86]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=86]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=86]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5493,11 +5493,11 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 ### Seite 87
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Anwendugse.pdf Seite 87](<99_Originale/Berufsschule/AE/Anwendugse.pdf#page=87>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=87]]`
+> - PDF-Seite: [Anwendugse.pdf Seite 87](<99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=87>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=87]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Anwendugse.pdf#page=87]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf#page=87]]
 
 #### Extrahierter Originaltext für Suche und KI
 

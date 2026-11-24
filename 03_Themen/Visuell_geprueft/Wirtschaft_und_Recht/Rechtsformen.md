@@ -2,15 +2,15 @@
 id: vault.thema.visuell.rechtsformen
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Rechtsformen"
 kategorie: Wirtschaft_und_Recht
 quellen: 1
-seiten: 3
+seiten: 19
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [51–53](<99_Originale/Berufsschule/BGWP/BGWP.pdf#page=51>) | formular, theorie | Text für Zitate geeignet |
+| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [51–53, 55, 57–70, 72](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=51>) | formular, loesung, theorie | 1 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

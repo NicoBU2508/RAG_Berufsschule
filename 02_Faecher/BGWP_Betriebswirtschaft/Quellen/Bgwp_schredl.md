@@ -2,8 +2,8 @@
 typ: quelle
 fach: "BGWP_Betriebswirtschaft"
 fach_anzeige: "BGWP Betriebswirtschaft"
-original_pfad: "99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf"
-seiten: 44
+original_pfad: "99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf"
+seiten: 45
 pruefung: "AP1, WiSo"
 cssclasses:
   - lernquelle
@@ -12,22 +12,22 @@ tags:
   - quelle
   - bgwp_betriebswirtschaft
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-07-13"
+seitenaudit_datum: "2026-11-23"
 kanonische_referenzen: true
 kanonische_themen: 2
-seiten_mit_kanonischem_thema: 42
+seiten_mit_kanonischem_thema: 43
 ki_exclude_seiten: [16,20]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
-textstatus: "gut: visuell geprüft (ok=42)"
-textzeichen: 43267
+textstatus: "gemischt: visuell geprüft (ok=42, ocr_verified=1)"
+textzeichen: 44613
 ---
 # 📄 Bgwp schredl
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/BGWP_Betriebswirtschaft/BGWP_Betriebswirtschaft|BGWP Betriebswirtschaft]]
-> - **Original-PDF:** [Bgwp schredl.pdf](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf>)
-> - **Seiten:** 44
-> - **KI-Lesbarkeit:** gut: visuell geprüft (ok=42)
+> - **Original-PDF:** [Bgwp schredl.pdf](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf>)
+> - **Seiten:** 45
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=42, ocr_verified=1)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -35,7 +35,7 @@ textzeichen: 43267
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Organisation im Betrieb\|Organisation im Betrieb]] | Prüfungsrahmen der Quelle | 1–15, 17, 19, 21–36 | Visuell bestätigt auf 33 Seite(n). |
-| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Projektplanung und Netzplanmethode\|Projektplanung und Netzplanmethode]] | Prüfungsrahmen der Quelle | 17–19, 21–30, 37–44 | Visuell bestätigt auf 21 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Projektplanung und Netzplanmethode\|Projektplanung und Netzplanmethode]] | Prüfungsrahmen der Quelle | 17–19, 21–30, 37–45 | Visuell bestätigt auf 22 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
 
@@ -49,11 +49,11 @@ textzeichen: 43267
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 1](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=1]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 1](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=1]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=1]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -154,11 +154,11 @@ Wie sollen die Aufgaben bearbeitet werden?
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 2](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 2](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=2]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -297,11 +297,11 @@ klar seit
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 3](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 3](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=3]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -370,11 +370,11 @@ I
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 4](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=4]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 4](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=4]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -507,11 +507,11 @@ Informatik
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 5](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=5]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 5](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=5]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -571,11 +571,11 @@ Spatenorganisation
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 6](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=6]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 6](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=6]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -658,11 +658,11 @@ Objektprinzip
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 7](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=7]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 7](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=7]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=7]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -837,11 +837,11 @@ X
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 8](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=8]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 8](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=8]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=8]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -925,11 +925,11 @@ stablinien
 ### Seite 9
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 9](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=9>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=9]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 9](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=9>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=9]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=9]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -969,11 +969,11 @@ Nachteile:
 ### Seite 10
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 10](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=10>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=10]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 10](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=10>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=10]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=10]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1011,11 +1011,11 @@ Fehlerhafte Entscheidungen können leicht dem Stab zugeschoben werden
 ### Seite 11
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 11](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=11>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=11]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 11](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=11>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=11]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=11]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1050,11 +1050,11 @@ Schwierige Fehlerzuweisung
 ### Seite 12
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 12](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=12>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=12]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 12](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=12>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=12]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=12]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1084,11 +1084,11 @@ Balkendiagramm
 ### Seite 13
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 13](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=13>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=13]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 13](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=13>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=13]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=13]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1236,11 +1236,11 @@ Rechnung prüfen
 ### Seite 14
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 14](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=14>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=14]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 14](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=14>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=14]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=14]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1319,11 +1319,11 @@ Eintragung der zutreffenden Anzeiger.
 ### Seite 15
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 15](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=15>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=15]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 15](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=15>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=15]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=15]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1595,11 +1595,11 @@ D
 ### Seite 17
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 17](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=17>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=17]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 17](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=17>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=17]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=17]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1772,11 +1772,11 @@ T
 ### Seite 18
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 18](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=18>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=18]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 18](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=18>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=18]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=18]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1803,11 +1803,11 @@ nicht viele Infos eingetragen werden
 ### Seite 19
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 19](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=19>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=19]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 19](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=19>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=19]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=19]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1867,11 +1867,11 @@ Kapazitäts- und Kostenplanung.
 ### Seite 21
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 21](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=21>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=21]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 21](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=21>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=21]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=21]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1896,11 +1896,11 @@ Diese Vorgänge werden den Objekten zugeordnet.
 ### Seite 22
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 22](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=22>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=22]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 22](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=22>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=22]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=22]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1920,11 +1920,11 @@ Staatliche BS1 Ingolstadt
 ### Seite 23
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 23](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=23>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=23]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 23](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=23>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=23]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=23]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2001,11 +2001,11 @@ Lagerung
 ### Seite 24
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 24](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=24>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=24]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 24](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=24>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=24]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=24]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2030,11 +2030,11 @@ Anzeiger
 ### Seite 25
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 25](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=25>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=25]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 25](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=25>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=25]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=25]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2062,11 +2062,11 @@ Staatliche BS1 Ingolstadt
 ### Seite 26
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 26](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=26>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=26]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 26](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=26>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=26]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=26]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2100,11 +2100,11 @@ X
 ### Seite 27
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 27](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=27>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=27]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 27](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=27>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=27]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=27]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2126,11 +2126,11 @@ Staatliche BS1 Ingolstadt
 ### Seite 28
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 28](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=28>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=28]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 28](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=28>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=28]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=28]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2205,11 +2205,11 @@ T
 ### Seite 29
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 29](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=29>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=29]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 29](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=29>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=29]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=29]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2226,11 +2226,11 @@ Staatliche BS1 Ingolstadt
 ### Seite 30
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 30](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=30>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=30]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 30](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=30>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=30]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=30]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2250,11 +2250,11 @@ Staatliche BS1 Ingolstadt
 ### Seite 31
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 31](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=31>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=31]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 31](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=31>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=31]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=31]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2328,11 +2328,11 @@ haben schulpflichtige Kinder (Ferien 22. bis einschließlich 27. KW)!
 ### Seite 32
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 32](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=32>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=32]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 32](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=32>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=32]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=32]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2487,11 +2487,11 @@ Verbesserungsvorschläge:
 ### Seite 33
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 33](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=33>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=33]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 33](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=33>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=33]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=33]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2579,11 +2579,11 @@ um Rechnung
 ### Seite 34
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 34](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=34>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=34]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 34](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=34>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=34]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=34]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2637,11 +2637,11 @@ Verpackung
 ### Seite 35
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 35](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=35>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=35]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 35](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=35>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=35]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=35]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2679,11 +2679,11 @@ Normen wie diesen (Symbolen) sind die Vorteile nicht immer erkennbar.
 ### Seite 36
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 36](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=36>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=36]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 36](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=36>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=36]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=36]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2748,11 +2748,11 @@ Bearbeiten
 ### Seite 37
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 37](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=37>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=37]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 37](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=37>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=37]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=37]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2852,11 +2852,11 @@ Welcher Vorgang beendet sein muss, damit dieser Vorgang beginnen kann.
 ### Seite 38
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 38](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=38>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=38]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 38](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=38>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=38]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=38]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3067,11 +3067,11 @@ Tätig
 ### Seite 39
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 39](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=39>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=39]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 39](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=39>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=39]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=39]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3139,11 +3139,11 @@ H Entouf
 ### Seite 40
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 40](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=40>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=40]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 40](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=40>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=40]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=40]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3241,11 +3241,11 @@ GP
 ### Seite 41
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 41](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=41>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=41]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 41](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=41>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=41]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=41]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3409,11 +3409,11 @@ Leitungsverlegung
 ### Seite 42
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 42](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=42>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=42]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 42](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=42>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=42]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=42]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3482,11 +3482,11 @@ j
 ### Seite 43
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 43](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=43>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=43]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 43](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=43>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=43]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=43]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3536,11 +3536,11 @@ FD :F
 ### Seite 44
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Bgwp schredl.pdf Seite 44](<99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=44>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=44]]`
+> - PDF-Seite: [Bgwp schredl.pdf Seite 44](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=44>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf#page=44]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=44]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3759,3 +3759,49 @@ Ju
 15. 6
 ```
 
+### Seite 45
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Bgwp schredl.pdf Seite 45](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=45>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=45]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=45]]
+
+> [!ocr] Visuell transkribiert
+> Abgefoto­grafierte Prüfungsaufgabe (Netzplan „StreamQueen GmbH“) und handschriftliche Berechnung aus Sichtprüfung transkribiert. Die eingebettete Originalseite bleibt maßgeblich.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Prüfungsaufgabe Netzplan (Projekt „StreamQueen GmbH“, 14 Punkte)
+aa) Erstellen Sie anhand der folgenden Vorgangsliste den Netzplan und kennzeichnen Sie den kritischen Pfad.
+
+Vorgangsliste:
+- Vorgang A | Dauer: 2 Tage | Nachfolger: B
+- Vorgang B | Dauer: 4 Tage | Nachfolger: C, D
+- Vorgang C | Dauer: 6 Tage | Nachfolger: F
+- Vorgang D | Dauer: 3 Tage | Nachfolger: E
+- Vorgang E | Dauer: 2 Tage | Nachfolger: F
+- Vorgang F | Dauer: 3 Tage | Nachfolger: -
+
+Legende / Formeln:
+- FAZ = Frühester Anfangszeitpunkt
+- FEZ = Frühester Endzeitpunkt
+- SAZ = Spätester Anfangszeitpunkt
+- SEZ = Spätester Endzeitpunkt
+- GP = Gesamtpuffer = SAZ - FAZ oder SEZ - FEZ
+- FP = Freier Puffer = FAZ des Nachfolgers - FEZ des Vorgangs
+
+Berechneter Netzplan (A und B im Foto, C–F handschriftlich ergänzt):
+- A: FAZ=0, FEZ=2, Dauer=2, GP=0, FP=0, SAZ=0, SEZ=2 -> Nachfolger: B
+- B: FAZ=2, FEZ=6, Dauer=4, GP=0, FP=0, SAZ=2, SEZ=6 -> Nachfolger: C, D
+- C: FAZ=6, FEZ=12, Dauer=6, GP=0, FP=0, SAZ=6, SEZ=12 -> Nachfolger: F
+- D: FAZ=6, FEZ=9, Dauer=3, GP=1, FP=0, SAZ=7, SEZ=10 -> Nachfolger: E
+- E: FAZ=9, FEZ=11, Dauer=2, GP=1, FP=1, SAZ=10, SEZ=12 -> Nachfolger: F
+- F: FAZ=12, FEZ=15, Dauer=3, GP=0, FP=0, SAZ=12, SEZ=15
+
+Gesamtprojektdauer: 15 Tage
+Kritischer Pfad (GP = 0 und FP = 0): A -> B -> C -> F
+(Unten auf der Seite: leeres Netzplan-Schema für C, D, E, F)
+```

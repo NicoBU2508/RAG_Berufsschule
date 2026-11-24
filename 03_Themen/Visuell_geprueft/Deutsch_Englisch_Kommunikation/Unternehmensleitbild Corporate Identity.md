@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [6–9, 14](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6>) | aufgabe, fragment, theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [6–9, 14](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6>) | aufgabe, fragment, theorie | 1 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Werkzeuge Debugging und IDE** im Fach **AE Anwendungsentwicklung**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01AlgorithmusProgrammSoftwareEVA S. 1]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01AlgorithmusProgrammSoftwareEVA S. 7]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15|01AlgorithmusProgrammSoftwareEVA S. 15]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01AlgorithmusProgrammSoftwareEVA S. 20]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01AlgorithmusProgrammSoftwareEVA S. 23]]; [[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25|01AlgorithmusProgrammSoftwareEVA S. 25]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1|01AlgorithmusProgrammSoftwareEVA S. 1]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7|01AlgorithmusProgrammSoftwareEVA S. 7]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15|01AlgorithmusProgrammSoftwareEVA S. 15]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20|01AlgorithmusProgrammSoftwareEVA S. 20]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23|01AlgorithmusProgrammSoftwareEVA S. 23]]; [[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25|01AlgorithmusProgrammSoftwareEVA S. 25]].
 > - **Zentrale Suchbegriffe:** Werkzeuge, Debugging, IDE, Einstieg, Programmierung, Darstellungsform, Programmabläufe, Erstelle, anhand, vorgegebenen.
 > - **Prüfungsbezug:** AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -62,124 +62,124 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1>) | Einstieg in die Programmierung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7>) | Eine Darstellungsform für Programmabläufe ist das | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15>) | Erstelle anhand des vorgegebenen Programmablaufplans das entsprechende | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20>) | Die „bedingte Schleife“ … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23>) | 4. Mit welchem der gegebenen Testdatenbestände lässt sich die Logik des vorgegebenen Progr … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25>) | Bei der Software-Erstellung/Entwicklung sind i.d.R. Vorgehensmodelle notwendig, um den Ent … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 27](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27>) | Grundlagen der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 31](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31>) | Methoden der schrittweisen Verfeinerung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33>) | Aufgabe zu Arrays und zu bedingten Wiederholungen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 34](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34>) | Aufgabe zu Arrays und zu bedingten Wiederholungen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 39](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39>) | Die Feldwerte ergeben sich aus dem Produkt der beiden Laufvariablen i | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=40>) | Aufgabe zu einem zweidimensionalen Array. Das vorgegebene Array heißt | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 42](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=42>) | Der Datenflussplan (auch: data flow chart) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 43](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=43>) | Aufgabe „Urlaubsansprüche“ zum Datenflussplan | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44>) | Nun geht es um Such-Algorithmen! | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 50](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=50>) | Programmiersprachen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 17 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 53](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=53>) | Programmiersprachen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 18 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 54](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=54>) | Programmiersprachen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 19 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 55](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=55>) | Klassifizierung von Programmiersprachen (abgekürzt: PS) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 20 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 56](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=56>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 21 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 57](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=57>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 22 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 58](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=58>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 23 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 59](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 24 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 60](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=60>) | Werkzeuge der Softwareentwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 25 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 61](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=61>) | Werkzeuge der Softwareentwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 26 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 62](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=62>) | IDE - Integrierte Entwicklungsumgebung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 27 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 63](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=63>) | IDE - Häufige Komponenten: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 28 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 64](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=64>) | Robot Karol: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 29 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 65](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=65>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 30 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 66](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=66>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 31 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 67](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=67>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 32 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 68](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=68>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 33 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 69](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=69>) | Das agile Vorgehensmodell Scrum – Erste Infos dazu: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 34 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 73](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=73>) | Vorgehensmodelle | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 35 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 75](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=75>) | Vorgehensmodelle | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 36 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 76](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=76>) | Vorgehensmodelle – Teil 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 37 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 77](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=77>) | Das agile Vorgehensmodell | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 38 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 80](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=80>) | 4. Benutzbarkeit (Usability) | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 39 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 82](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82>) | Neuentwicklung und Anpassung von Software | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 40 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 83](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=83>) | Dokumentation von Software | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 41 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 86](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86>) | Zur Unterstützungssoftware gehören beispielsweise Programme wie Editoren und | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 42 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 87](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=87>) | Installationsanleitung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 43 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 44 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3>) | 6.5.4. Die Unterscheidung von Methoden ................................................... … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 45 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4>) | 1.2. Wichtige Begriffe in Java | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 46 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5>) | Compiler | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 47 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6>) | unsere Programme als Java-Qellcode in der Entwicklungsumgebung Eclipse und | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 48 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7>) | Quelle: In Anlehnung an https://miro.medium.com/max/549/1*cvCmPzIDxzSs-YhR0iHs4g.jpeg | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 49 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11>) | Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 50 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 51 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 17](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=17>) | Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 52 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=18>) | Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 53 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=19>) | Sie dürfen keine Leer-/Sonderzeichen enthalten | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 54 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22>) | int x, y, z; | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 55 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23>) | Im folgenden Beispiel ist ersichtlich, dass eine Variable auch mehrmals benutzt | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 56 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24>) | Zahlen sind sogenannte numerische Daten. Diese werden dann eingesetzt, | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 57 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=25>) | Wertebereich | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 58 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 28](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28>) | 4.5.2 Verkettung von Datentypen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 59 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=30>) | int num = (int) 3.57; Hier wird eine sogeannnte explizite | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 60 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=37>) | einer Klasse beliebig viele Objekte (Instanzen) erstellt werden (beispielsweise durch | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 61 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=38>) | 6.4. Attribute (Eigenschaften) von Klassen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 62 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=46>) | 6.5.5.1 Parameter | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 63 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 64 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=3>) | 6.5.4. Die Unterscheidung von Methoden ................................................... … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 65 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=4>) | Interpreter wird auch virtuelle Maschine genannt. Daneben existiert noch eine Reihe | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 66 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=5>) | Compiler | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 67 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=6>) | unsere Programme als Java-Qellcode in der Entwicklungsumgebung Eclipse und | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 68 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=7>) | Quelle: In Anlehnung an https://miro.medium.com/max/549/1*cvCmPzIDxzSs-YhR0iHs4g.jpeg | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 69 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11>) | Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 70 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 71 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 17](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=17>) | Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 72 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=18>) | Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 73 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=19>) | Sie dürfen keine Leer-/Sonderzeichen enthalten | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 74 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22>) | int x, y, z; | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 75 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=23>) | Im folgenden Beispiel ist ersichtlich, dass eine Variable auch mehrmals benutzt | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 76 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=24>) | Zahlen sind sogenannte numerische Daten. Diese werden dann eingesetzt, | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 77 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=25>) | Wertebereich | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 78 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 28](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=28>) | 4.5.2 Verkettung von Datentypen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 79 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=30>) | int num = (int) 3.57; Hier wird eine sogeannnte explizite | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 80 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=37>) | einer Klasse beliebig viele Objekte (Instanzen) erstellt werden (beispielsweise durch | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 81 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=38>) | 6.4. Attribute (Eigenschaften) von Klassen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 82 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=46>) | 6.5.5.1 Parameter | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 83 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48>) | Wird es nun ausgeführt, erhält man auf der Konsole folgenden Text: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 84 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 51](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=51>) | 7.1.1.3 Logische Operatoren | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 85 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 52](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=52>) | Bei primitiven Datentypen (beispielsweise int, float, double) vergleicht man mit "==", | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 86 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 53](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=53>) | 7.1.1.3.3 Logisches ODER | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 87 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 54](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=54>) | „false“ zurückgeben, werden statt der if-Bedingung die Befehle, die nach else in | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 88 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824\|Stol_Lernzettel_260210_092824]] | [Lernzettel_260210_092824.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=1>) | 1. Begriffe | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 89 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824\|Stol_Lernzettel_260210_092824]] | [Lernzettel_260210_092824.pdf Seite 2](<../../../../99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=2>) | 2. Kommentare, Main-Methode, Syntax | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 90 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824\|Stol_Lernzettel_260210_092824]] | [Lernzettel_260210_092824.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=4>) | 1. Begriffe | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 91 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=3>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 92 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=4>) | 3. Syntax ................................................................................ … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 93 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=5>) | Werkzeuge bereit, die dem Softwareentwickler häufig wiederkehrende Aufgaben | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 94 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=6>) | Bytecode | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 95 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=7>) | Es gibt dabei, je nach gewählter Programmiersprache, Möglichkeiten zur Übersetzung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 96 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 8](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=8>) | Quelle: In Anlehnung an https://miro.medium.com/max/549/1*cvCmPzIDxzSs-YhR0iHs4g.jpeg | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 97 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=12>) | 2.2 Einbindung von LegoMindstorm | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 98 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 16](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=16>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 99 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=18>) | Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 100 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=19>) | Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 101 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=20>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 102 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 21](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=21>) | 3. Syntax ................................................................................ … | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 103 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=22>) | ➔ Er unterscheidet sich nicht für verschiedene Plattformen (bspw. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 104 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=23>) | Der Java-Editor ist ein Editor zum Programmieren mit der Programmiersprache Java | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 105 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=24>) | Funktionsweise und Verarbeitung des Codes in Java | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 106 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=25>) | Die zweistufige Übersetzung kommt im Bereich Java zum Tragen. Die folgende | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 107 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=26>) | werden kann. Im Gegensatz dazu wären EXE-Dateien nur auf die Windows-Welt | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 108 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 29](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=29>) | Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 109 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=33>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 110 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 35](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=35>) | Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 111 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 36](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=36>) | Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 112 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=37>) | Sie dürfen keine Leer-/Sonderzeichen enthalten | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 113 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=40>) | int x, y, z; | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 114 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=41>) | Im folgenden Beispiel ist ersichtlich, dass eine Variable auch mehrmals benutzt | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 115 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 42](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=42>) | Zahlen sind sogenannte numerische Daten. Diese werden dann eingesetzt, | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 116 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 43](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=43>) | Wertebereich | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 117 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=46>) | 4.5.2 Verkettung von Datentypen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 118 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=48>) | int num = (int) 3.57; Hier wird eine sogeannnte explizite | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1>) | Einstieg in die Programmierung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7>) | Eine Darstellungsform für Programmabläufe ist das | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15>) | Erstelle anhand des vorgegebenen Programmablaufplans das entsprechende | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20>) | Die „bedingte Schleife“ … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23>) | 4. Mit welchem der gegebenen Testdatenbestände lässt sich die Logik des vorgegebenen Progr … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25>) | Bei der Software-Erstellung/Entwicklung sind i.d.R. Vorgehensmodelle notwendig, um den Ent … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 27](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27>) | Grundlagen der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 31](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31>) | Methoden der schrittweisen Verfeinerung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33>) | Aufgabe zu Arrays und zu bedingten Wiederholungen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 34](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34>) | Aufgabe zu Arrays und zu bedingten Wiederholungen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 39](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39>) | Die Feldwerte ergeben sich aus dem Produkt der beiden Laufvariablen i | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=40>) | Aufgabe zu einem zweidimensionalen Array. Das vorgegebene Array heißt | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 42](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=42>) | Der Datenflussplan (auch: data flow chart) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 43](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=43>) | Aufgabe „Urlaubsansprüche“ zum Datenflussplan | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44>) | Nun geht es um Such-Algorithmen! | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 50](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=50>) | Programmiersprachen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 17 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 53](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=53>) | Programmiersprachen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 18 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 54](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=54>) | Programmiersprachen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 19 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 55](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=55>) | Klassifizierung von Programmiersprachen (abgekürzt: PS) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 20 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 56](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=56>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 21 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 57](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=57>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 22 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 58](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=58>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 23 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 59](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 24 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 60](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=60>) | Werkzeuge der Softwareentwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 25 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 61](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=61>) | Werkzeuge der Softwareentwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 26 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 62](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=62>) | IDE - Integrierte Entwicklungsumgebung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 27 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 63](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=63>) | IDE - Häufige Komponenten: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 28 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 64](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=64>) | Robot Karol: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 29 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 65](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=65>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 30 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 66](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=66>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 31 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 67](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=67>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 32 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 68](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=68>) | Werkzeuge der Software-Entwicklung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 33 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 69](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=69>) | Das agile Vorgehensmodell Scrum – Erste Infos dazu: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 34 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 73](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=73>) | Vorgehensmodelle | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 35 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 75](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=75>) | Vorgehensmodelle | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 36 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 76](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=76>) | Vorgehensmodelle – Teil 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 37 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 77](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=77>) | Das agile Vorgehensmodell | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 38 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 80](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=80>) | 4. Benutzbarkeit (Usability) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 39 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 82](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82>) | Neuentwicklung und Anpassung von Software | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 40 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 83](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=83>) | Dokumentation von Software | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 41 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 86](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86>) | Zur Unterstützungssoftware gehören beispielsweise Programme wie Editoren und | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 42 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] | [01_Algorithmus_Programm_Software_EVA.pdf Seite 87](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=87>) | Installationsanleitung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 43 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 44 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3>) | 6.5.4. Die Unterscheidung von Methoden ................................................... … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 45 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4>) | 1.2. Wichtige Begriffe in Java | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 46 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5>) | Compiler | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 47 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6>) | unsere Programme als Java-Qellcode in der Entwicklungsumgebung Eclipse und | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 48 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7>) | Quelle: In Anlehnung an https://miro.medium.com/max/549/1*cvCmPzIDxzSs-YhR0iHs4g.jpeg | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 49 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11>) | Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 50 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 51 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 17](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=17>) | Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 52 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=18>) | Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 53 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=19>) | Sie dürfen keine Leer-/Sonderzeichen enthalten | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 54 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22>) | int x, y, z; | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 55 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23>) | Im folgenden Beispiel ist ersichtlich, dass eine Variable auch mehrmals benutzt | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 56 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24>) | Zahlen sind sogenannte numerische Daten. Diese werden dann eingesetzt, | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 57 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=25>) | Wertebereich | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 58 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 28](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28>) | 4.5.2 Verkettung von Datentypen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 59 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=30>) | int num = (int) 3.57; Hier wird eine sogeannnte explizite | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 60 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=37>) | einer Klasse beliebig viele Objekte (Instanzen) erstellt werden (beispielsweise durch | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 61 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=38>) | 6.4. Attribute (Eigenschaften) von Klassen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 62 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [02_Unternehmenswiki-4.Block.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=46>) | 6.5.5.1 Parameter | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 63 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 64 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=3>) | 6.5.4. Die Unterscheidung von Methoden ................................................... … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 65 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=4>) | Interpreter wird auch virtuelle Maschine genannt. Daneben existiert noch eine Reihe | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 66 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=5>) | Compiler | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 67 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=6>) | unsere Programme als Java-Qellcode in der Entwicklungsumgebung Eclipse und | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 68 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=7>) | Quelle: In Anlehnung an https://miro.medium.com/max/549/1*cvCmPzIDxzSs-YhR0iHs4g.jpeg | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 69 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11>) | Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 70 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 71 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 17](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=17>) | Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 72 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=18>) | Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 73 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=19>) | Sie dürfen keine Leer-/Sonderzeichen enthalten | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 74 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22>) | int x, y, z; | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 75 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=23>) | Im folgenden Beispiel ist ersichtlich, dass eine Variable auch mehrmals benutzt | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 76 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=24>) | Zahlen sind sogenannte numerische Daten. Diese werden dann eingesetzt, | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 77 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=25>) | Wertebereich | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 78 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 28](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=28>) | 4.5.2 Verkettung von Datentypen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 79 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=30>) | int num = (int) 3.57; Hier wird eine sogeannnte explizite | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 80 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=37>) | einer Klasse beliebig viele Objekte (Instanzen) erstellt werden (beispielsweise durch | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 81 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=38>) | 6.4. Attribute (Eigenschaften) von Klassen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 82 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=46>) | 6.5.5.1 Parameter | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 83 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48>) | Wird es nun ausgeführt, erhält man auf der Konsole folgenden Text: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 84 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 51](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=51>) | 7.1.1.3 Logische Operatoren | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 85 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 52](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=52>) | Bei primitiven Datentypen (beispielsweise int, float, double) vergleicht man mit "==", | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 86 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 53](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=53>) | 7.1.1.3.3 Logisches ODER | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 87 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [02_Unternehmenswiki-5.Block.pdf Seite 54](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=54>) | „false“ zurückgeben, werden statt der if-Bedingung die Befehle, die nach else in | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 88 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824\|Stol_Lernzettel_260210_092824]] | [Lernzettel_260210_092824.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=1>) | 1. Begriffe | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 89 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824\|Stol_Lernzettel_260210_092824]] | [Lernzettel_260210_092824.pdf Seite 2](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=2>) | 2. Kommentare, Main-Methode, Syntax | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 90 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824\|Stol_Lernzettel_260210_092824]] | [Lernzettel_260210_092824.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=4>) | 1. Begriffe | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 91 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=3>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 92 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=4>) | 3. Syntax ................................................................................ … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 93 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=5>) | Werkzeuge bereit, die dem Softwareentwickler häufig wiederkehrende Aufgaben | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 94 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=6>) | Bytecode | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 95 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=7>) | Es gibt dabei, je nach gewählter Programmiersprache, Möglichkeiten zur Übersetzung: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 96 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 8](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=8>) | Quelle: In Anlehnung an https://miro.medium.com/max/549/1*cvCmPzIDxzSs-YhR0iHs4g.jpeg | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 97 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=12>) | 2.2 Einbindung von LegoMindstorm | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 98 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 16](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=16>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 99 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=18>) | Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 100 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=19>) | Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 101 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=20>) | Unternehmenswiki | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 102 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 21](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=21>) | 3. Syntax ................................................................................ … | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 103 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=22>) | ➔ Er unterscheidet sich nicht für verschiedene Plattformen (bspw. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 104 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=23>) | Der Java-Editor ist ein Editor zum Programmieren mit der Programmiersprache Java | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 105 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=24>) | Funktionsweise und Verarbeitung des Codes in Java | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 106 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=25>) | Die zweistufige Übersetzung kommt im Bereich Java zum Tragen. Die folgende | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 107 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=26>) | werden kann. Im Gegensatz dazu wären EXE-Dateien nur auf die Windows-Welt | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 108 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 29](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=29>) | Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 109 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=33>) | Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 110 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 35](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=35>) | Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 111 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 36](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=36>) | Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 112 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=37>) | Sie dürfen keine Leer-/Sonderzeichen enthalten | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 113 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=40>) | int x, y, z; | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 114 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=41>) | Im folgenden Beispiel ist ersichtlich, dass eine Variable auch mehrmals benutzt | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 115 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 42](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=42>) | Zahlen sind sogenannte numerische Daten. Diese werden dann eingesetzt, | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 116 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 43](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=43>) | Wertebereich | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 117 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=46>) | 4.5.2 Verkettung von Datentypen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 118 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [Wiki.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=48>) | int num = (int) 3.57; Hier wird eine sogeannnte explizite | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -188,11 +188,11 @@ tags:
 #### Seite 1: Einstieg in die Programmierung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Einstieg in die Programmierung Anwendungsentwicklung Name: Klasse: Datum: Einige Grundbegriffe Die Entwicklung des Computers ermöglichte es, Rechenarbeit von Maschinen erledigen zu lassen. Der Computer kann jedoch allein keine Probleme lösen, ihm muss ein Lösungsweg vorgegeben werden. Dieser Lösungsweg wird dem Computer in Form eines Programms mitgeteilt. Ein Programm, was ist das eigentlich? • Ein Programm ist ein „Rezept“, eine Bearbeitungsvorschrift für einen Computer zur Lösung einer vorgegebenen Aufgabe und … • diese Bearbeitungsvorschrift wird auch Algorithmus genannt und … • der Algorithmus ist in einer speziellen Sprache formuliert, der Programmiersprache. • Die in der Programmierspr …
@@ -249,11 +249,11 @@ EVA - PRINZIP
 #### Seite 7: Eine Darstellungsform für Programmabläufe ist das
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Eine Darstellungsform für Programmabläufe ist das Struktogramm (auch: Nassi-Shneiderman-Diagramm) STG (Struktogramm) zur Aufgabe „3%-Rabatt auf Einkaufswert über 1000 €“: Einseitig bedingte Auswahl bzw. Bedingte Anweisung Struktogramme stellen den Programmablauf in Form eines geschlossenen Blocks dar. Würde man „rabatt := 0“ in das leere Feld unter „Nein“ schreiben, so könnte man sich eine Zeile sparen. Es handelt sich dann aber um die zweiseitig bedingte Auswahl bzw. Verzweigung oder Alter- native. Sequenz bzw. Folgestruktur Beginn rabatt := 0 Ausgabe (“Preis eingeben:“) Eingabe (preis) Ja Nein rabatt := preis * 0.03 * endpreis := preis - rabatt Ausgabe (“Zu zahlen:“) Ausgabe (endpreis) End …
@@ -304,11 +304,11 @@ Verarbeitung
 #### Seite 15: Erstelle anhand des vorgegebenen Programmablaufplans das entsprechende
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Erstelle anhand des vorgegebenen Programmablaufplans das entsprechende Struktogramm (auch Nassi-Shneiderman-Diagramm): Aufgabenstellung: Ein Fahrkartenautomat gibt Einzel-, Wochen- und Monatskarten für die Tarifzone 1 (Innenraum-Bereich) und für die Tarifzone 2 (Innen- und Außenraum-Bereich) aus. Das untenstehende Programm simuliert so einen Automaten und berechnet den jeweiligen Fahrpreis. Hinweis: Der vorgegebene PAP ist nicht fehlerfrei und die Art der Darstellung entspricht nicht unseren vereinbarten Konventionen! Arbeitsauftrag 1: Markiere im PAP die Stellen, die „verbesserungswürdig“ sind. Schaue dabei auf inhaltliche Fehler und auf Abweichungen bezüglich unserer Konventionen! Arbeitsa …
@@ -349,11 +349,11 @@ klammern
 #### Seite 20: Die „bedingte Schleife“ …
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Die „bedingte Schleife“ …  umfasst die kopfgesteuerte bedingte Schleife und die fußgesteuerte bedingte Schleife.  Bei beiden Schleifen ist von Beginn an nicht bekannt, wie oft die Schleifen durchlaufen werden.  Die kopfgesteuerte bedingte Schleife … o heißt auch abweisende oder vorprüfende Schleife. o Die Überprüfung der Schleifenbedingung erfolgt hier vor der Ausführung des Anweisungsteils. o Ist die Schleifenbedingung erfüllt, so wird der Anweisungsteil im Schleifenrumpf ausgeführt, ist sie dagegen nicht mehr erfüllt, so wird die Schleife beendet und das Programm mit der ersten Anweisung nach dieser Kontrollstruktur fortgesetzt. o Ist das Ergebnis der Bedingung bereits von Beginn an nic …
@@ -401,11 +401,11 @@ O
 #### Seite 23: 4. Mit welchem der gegebenen Testdatenbestände lässt sich die Logik des vorgegebenen Progr …
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 4. Mit welchem der gegebenen Testdatenbestände lässt sich die Logik des vorgegebenen Programmentwurfs bestmöglichst überprüfen? Bestand 1 mnr zeit 1 5 1 10 1 12 1 8 Bestand 2 mnr zeit 1 3 2 6 3 4 4 3 Bestand 3 mnr zeit 1 3 2 6 2 24 3 8 Bestand 4 mnr zeit 2 5 3 12 3 20 4 34 Bestand 5 mnr zeit 2 8 2 12 2 6 2 7 4 6 5. Bei der Implementierung des STG-Entwurfs in deine bevorzugte Programmiersprache stellst du fest, dass die beiden kopfgesteuerten bedingten Schleifen sich dort nicht umsetzen lassen. Ändere nun folgende Schleife in eine gleichwertige fußgesteuerte bedingte Schleife/Wiederholung ab. Ergänze dazu die passende Zeile! 1. Wiederhole bis mnr = vmnr und nicht EOF 2. Wiederhole bis mnr != …
@@ -525,11 +525,11 @@ Initialisierung
 #### Seite 25: Bei der Software-Erstellung/Entwicklung sind i.d.R. Vorgehensmodelle notwendig, um den Ent …
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Bei der Software-Erstellung/Entwicklung sind i.d.R. Vorgehensmodelle notwendig, um den Entwick- lungsprozess in verwaltbare und kontrollierbare Teile zu gliedern – Hierfür helfen uns auch: • Methoden der schrittweisen Verfeinerung – Beantworte die Fragen mit dem zugehörigen Infoblatt: 1. Der englischsprachige Fachbegriff hierfür lautet? __________________________________ 2. Nenne die drei Methoden der schrittweisen Verfeinerung: __________________________________________________________________________ 3. Für die letzte der drei Methoden gibt es weitere Begriffe: __________________________________________________________________________ 4. Welche der Methoden ist geeignet, wenn die Aufgabens …
@@ -625,11 +625,11 @@ wir nicht !
 #### Seite 27: Grundlagen der Software-Entwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 27](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 27](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Grundlagen der Software-Entwicklung Anwendungsentwicklung Name: Klasse: Datum: 1 Phase 2: Entwurf (Design) Aufgabe: Wie ist die Software zu realisieren? Drei zentrale Punkte, die festzulegen sind: • Wie strukturiert man den Programmentwurf? Mit „Top-Down“ oder „Bottom Up“ … • Wie beschreiben wir die Algorithmen? Mittels STG, PAP, Pseudocode etc. • Mit welcher Programmiersprache erfolgt die Implementierung? Java, Python, C++, ... Test: • Entwurfstest der Dokumente und des Designs (z.B. mit Schreibtischtest etc.). • Funktionstest eines eventuell vorhandenen Prototyps. Ergebnis: Die Beschreibung des Entwurfs bzw. die Softwarespezifikation. Phase 3: Implementierung (Codierung) Aufgabe: Der Progr …
@@ -708,11 +708,11 @@ zum Entwicklungsprozess!
 #### Seite 31: Methoden der schrittweisen Verfeinerung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 31](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 31](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Mt - Methoden der schrittweisen Verfeinerung /stepwise refinement) : · Top-Down : Gesamtaufgabe in Teilalgorithmen zerlegt · Bottom-Up : einzelne Module zu Gesamtsystem zusammenfügen (wenn Aufgabenstellung nicht exakt beschrieben) · Up-Down : Kritische Teilaufgaben durch Bottom-Up ; Gesamtaufgabe durch Top-Down verfeinern _ = Gegenstromverfahren _ oder = Middle-Out-Verfahren M8 _ Vorteile : Modularitätsprinzip Abstraktionsprinzip · Module unabhängig realisierbar Schnittstelle Interface · Module durch Schnittstellen leicht Tauschbar · ~ einzeln auf Funktionalität und 오 Korrektheit prüfen /leicht Fehler finden ! Phasen Software Lebenszyklus : Module in anderen Programmen verwenden (Wiederverwe …
@@ -835,11 +835,11 @@ Pseudocode
 #### Seite 33: Aufgabe zu Arrays und zu bedingten Wiederholungen
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe zu Arrays und zu bedingten Wiederholungen Ausgangslage: Die Brauerei Schluckspecht gewährt ihren Kunden  bei einer Mindestabnahme von 10 Kästen 5 % Rabatt,  bei einer Mindestabnahme von 50 Kästen 7 % Rabatt und  bei einer Mindestabnahme von 100 Kästen 10 % Rabatt. Diese Regelung soll durch einen Programmbaustein automatisch berücksichtigt werden. Gegeben ist nun folgender Struktogrammauszug mit zugehöriger Wertetabelle. Die Wertetabelle besteht aus zwei eindimensionalen Arrays: „Wert1“ und „Wert2“. In „Wert1“ sind die Anzahl der Kästen hinterlegt, ab denen ein bestimmter Rabatt gilt. In „Wert2“ sind die zugehörigen Rabatte als Prozentzahlen eingetragen. Beide Arrays (sowohl „Wert1 …
@@ -921,11 +921,11 @@ Widerholung
 #### Seite 34: Aufgabe zu Arrays und zu bedingten Wiederholungen
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 34](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 34](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe zu Arrays und zu bedingten Wiederholungen Ausgangslage: Die Brauerei Schluckspecht gewährt ihren Kunden  bei einer Mindestabnahme von 10 Kästen 5 % Rabatt,  bei einer Mindestabnahme von 50 Kästen 7 % Rabatt und  bei einer Mindestabnahme von 100 Kästen 10 % Rabatt. Diese Regelung soll durch einen Programmbaustein automatisch berücksichtigt werden. Gegeben ist nun folgender Struktogrammauszug mit zugehöriger Wertetabelle. Die Wertetabelle besteht aus zwei eindimensionalen Arrays: „Wert1“ und „Wert2“. In „Wert1“ sind die Anzahl der Kästen hinterlegt, ab denen ein bestimmter Rabatt gilt. In „Wert2“ sind die zugehörigen Rabatte als Prozentzahlen eingetragen. Beide Arrays (sowohl „Wert1 …
@@ -1002,11 +1002,11 @@ Feld
 #### Seite 39: Die Feldwerte ergeben sich aus dem Produkt der beiden Laufvariablen i
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 39](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 39](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > zu 4: Die Feldwerte ergeben sich aus dem Produkt der beiden Laufvariablen i und j. Da die Indizes bei „0“ beginnen, müssen beide Laufvariablen für die Berechnungen um 1 erhöht werden. Damit du den Ablauf besser nachvollziehen kannst, habe ich ihn detailliert ausgeführt: Frage an dich: Wie viele Schleifendurchläufe gibt es hier insgesamt? _________ Aufgabe zu einem zweidimensionalen Array. Das vorgegebene Array heißt „arStat“ und ist nullindiziert! Es beinhaltet die Zahlen von 1 bis 12. Die Werte jeweils einer Zeile sind miteinander zu multiplizieren. Die entstehenden Pro- dukte (die Produkte der einzelnen Zeilen) sind zu addieren und die Gesamtsumme ist auszugeben.Verwendet werden sollen die …
@@ -1063,11 +1063,11 @@ weiter!
 #### Seite 40: Aufgabe zu einem zweidimensionalen Array. Das vorgegebene Array heißt
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=40>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=40>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe zu einem zweidimensionalen Array. Das vorgegebene Array heißt „arStat“ und ist nullindiziert! Es beinhaltet die Zahlen von 1 bis 12. Die Werte jeweils einer Zeile sind miteinander zu multiplizieren. Die entstehenden Produkte (die Produkte der einzelnen Zeilen) sind zu addieren und die Gesamtsumme ist auszugeben.Verwendet werden sollen die Variablen … • produkt • summe • i (für den Zeilenindex) • j (für den Spaltenindex) … und das zweidim.Array/Feld arStat[ i , j ]. 1. Schreibe den Pseudocode. Deklariere dazu auch alle Variablen (z.B. „integer summe;“ …). Für die Ausgabe nimm ruhig: „Ausgabe (“Die Summe ist: “ + summe);“. 2. Führe deinen Pseudocode in ein Struktogramm (STG) über. Beac …
@@ -1141,11 +1141,11 @@ End
 #### Seite 42: Der Datenflussplan (auch: data flow chart)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 42](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=42>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=42]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 42](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=42>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=42]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=42]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Der Datenflussplan (auch: data flow chart) Der DFP beschreibt in grafischer Form den Verlauf der Daten (Eingabevorgänge, Verarbeitungsvor- gänge und Ausgabevorgänge) in einem System. Er zeigt, welche Teile eines Programms von den Daten durchlaufen werden und er zeigt auch, welche Art der Bearbeitung innerhalb der Programme erfolgt. Für die Symbole von DFP und PAP gibt es die DIN-Norm 66001, aus der einige ausgewählte Symbole hier abgebildet sind: Symbol für eine Eingabeeinheit Symbol für eine Verarbeitung (allgemein) Symbol für eine manuelle Verarbeitung Symbol für Daten auf einem Schriftstück (z.B. Ausdruck) Symbol für eine Bildschirmausgabe Symbol für Daten auf einem Speicher mit sequenzie …
@@ -1195,11 +1195,11 @@ Y
 #### Seite 43: Aufgabe „Urlaubsansprüche“ zum Datenflussplan
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 43](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=43>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=43]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 43](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=43>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=43]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=43]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Aufgabe „Urlaubsansprüche“ zum Datenflussplan Setze dich mit dem vorgegebenen Datenflussplan auseinander und entscheide dich für eine der fünf Lösungen. Kennzeichne zudem bei den übrigen Lösungsvorschlägen, was alles falsch ist!
@@ -1216,11 +1216,11 @@ fünf Lösungen. Kennzeichne zudem bei den übrigen Lösungsvorschlägen, was al
 #### Seite 44: Nun geht es um Such-Algorithmen!
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Nun geht es um Such-Algorithmen! Oft ist es erforderlich, ein Array (Feld) nach einem bestimmten Element zu durchsuchen. Hierfür gibt es verschiedene Suchalgorithmen, die sich in Aufbau und Effizienz unterscheiden. Wir be- trachten nun zwei Suchverfahren: Die lineare Suche und die binäre Suche. Zuerst betrachten wir die lineare Suche: Sie ist der einfachste Suchalgorithmus und auch unter dem Namen sequentielle Suche bekannt. Nun möchte man in einem Array mit n Elementen ein bestimmtes Element (z.B. eine konkrete Zahl bzw. das kleinste oder das größte Feldelement) suchen. Bei der linearen Suche geht man jetzt dieses Feld Element für Element durch und ver- sucht durch die entsprechenden Vergle …
@@ -1282,11 +1282,11 @@ Ausgegeben wird am Bildschirm:
 #### Seite 50: Programmiersprachen
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 50](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=50>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=50]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 50](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=50>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=50]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=50]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=50]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Programmiersprachen AE Name: Klasse: Datum: 1 Klassifizierung von Programmiersprachen Es existiert eine Vielzahl von Programmiersprachen. Im Gegensatz zu den natürlichen Sprachen, wie Deutsch, Französisch, Englisch etc., gehören sie zu den formalen oder künstlichen Sprachen. Die Programmiersprachen lassen sich auf mehrere Arten klassifizieren bzw. einteilen oder einordnen. Wir sehen uns ihre Klassifizierungen nach der historischen Entwicklung sowie nach den zugrunde liegenden Programmiertechniken und Konzepten an. Wir beginnen mit der historischen Entwicklung: 1. Einteilung der Programmiersprachen nach Generationen 1 GL - Erste Generation: Maschinensprachen (GL steht für Generation Language) …
@@ -1368,11 +1368,11 @@ Beispiel: 3 + 4 ➔ summe = 3 + 4
 #### Seite 53: Programmiersprachen
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 53](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=53>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=53]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 53](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=53>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=53]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=53]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=53]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Programmiersprachen AE Name: Klasse: Datum: 2 2.3 Funktionale Programmiersprachen – Jedes Programm ist eine Funktion. – Es werden nur Ausdrücke und Funktionen verwendet. – Eine Funktion kann auch andere Funktionen aufrufen. – Das Ergebnis einer Funktion kann als Übergabepara- meter für eine andere Funktion benutzt werden. Beispiele: Lisp, LOGO, ML, ... 2.4 Logische Programmiersprachen – Sie sind für die Lösung bestimmter Probleme entwickelt, z. B.: Datenabfragen, mathe- matische Beweise. – Um ein Problem zu lösen, werden Fakten / Daten und Regeln angegeben / definiert. – Ein Algorithmus wird hier nicht benötigt. – Um das Problem zu lösen, werden Beziehungen zwischen den Fakten / Daten ermitt …
@@ -1474,11 +1474,11 @@ ergebnis = calcSum ( calcSum (5,25) , calcSum(-3,0) );
 #### Seite 54: Programmiersprachen
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 54](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=54>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=54]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 54](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=54>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=54]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=54]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=54]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Programmiersprachen AE Name: Klasse: Datum: 3 nen Interpreter ausgeführt werden: Der Code, den der Programmierer geschrieben hat, wird zur Laufzeit des Programms Zeile für Zeile vom Interpreter gelesen und entsprechend ausgeführt. Den Gegensatz dazu bilden die Compiler-Sprachen: Diese übersetzen den vom Programmierer geschriebenen Code vor der Ausführung in Binärcode. Dieser lässt sich dann am Computer ausführen. Auf Compiler und Interpreter werden wir aber noch gesondert eingehen! Skriptsprachen wie z.B. Bash oder PowerShell lassen sich auf der Kommandozeile ausführen. Sie fassen eine Reihe von Befehlen zusammen und dienen somit der Automatisierung von Ab- läufen. Auf Anwendungsebene können …
@@ -1526,11 +1526,11 @@ Programmierkenntnissen vertraut machen. Das Hamster-Modell ist z.B. an Java ange
 #### Seite 55: Klassifizierung von Programmiersprachen (abgekürzt: PS)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 55](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=55>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=55]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 55](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=55>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=55]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=55]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=55]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Klassifizierung von Programmiersprachen (abgekürzt: PS) Beantworte die folgenden Punkte mit Hilfe der Infotexte: 1. Was ist mit „Klassifizierung“ gemeint? _______________________________________________ 2. Sprachen wie Italienisch, Englisch etc. sind natürliche Sprachen. Wie bezeichnet man dann die Programmiersprachen? ___________________________________________________________ 3. Der Hintergrund für die erste Klassifizierung der PS ist: ___________________________________ 4. Die zweite Klassifizierung erfolgt aufgrund ____________________________________________ 5. Die Reihenfolge für die erste Klassifizierung ist folgende: _________________________________ _________________________________ …
@@ -1612,11 +1612,11 @@ Interpreter gelesen und ausgeführt
 #### Seite 56: Werkzeuge der Software-Entwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 56](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=56>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=56]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 56](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=56>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=56]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=56]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=56]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Werkzeuge der Software-Entwicklung Anwendungsentwicklung Name: Klasse: Datum: Programme erstellen • Quelltext eingeben Bei der Programmierung wird üblicherweise ein Quelltext erstellt. Zur Eingabe dient ein soge- nannter Editor, eine Software zur Bearbeitung von Texten. Ein Editor unterscheidet sich von einer Textverarbeitung dadurch, dass er keine Formatierungsanweisungen in den Text einfügt. Auch Entwicklungsumgebungen (z.B.: MS-Visual-Studio, Eclipse oder BlueJ) für bestimmte Pro- grammiersprachen besitzen in der Regel einen eigenen Texteditor, der u.a. eine (farbliche) Hervor- hebung der Syntax, Möglichkeiten zur Codevervollständigung und integrierte Programmierhilfen bietet. • Vom Quell …
@@ -1680,11 +1680,11 @@ in
 #### Seite 57: Werkzeuge der Software-Entwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 57](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=57>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=57]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 57](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=57>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=57]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=57]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=57]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Werkzeuge der Software-Entwicklung Anwendungsentwicklung Name: Klasse: Datum: Die verschiedenen Übersetzer • Interpreter: Übersetzung während der Programmausführung ➢ Der Interpreter übersetzt ein Programm zeilenweise. ➢ Jede Zeile wird einer Syntaxüberprüfung unterzogen. ➢ Ist die Zeile korrekt, wird sie vom Interpreter in Anweisungen für den Prozessor übersetzt und ausgeführt. ➢ Tritt ein Syntaxfehler auf, wird der Übersetzungsvorgang abgebrochen und eine Fehlermel- dung ausgegeben. Das Programm ist aber bereits bis zu der Fehlerstelle ausgeführt worden! Leichter portierbar, d.h. auf ein anderes System, wie z.B. Linux, übertragbar. Langsam, da die Übersetzung und Feh- lerprüfung zur Laufze …
@@ -1737,11 +1737,11 @@ anderen Compiler nötig.
 #### Seite 58: Werkzeuge der Software-Entwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 58](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=58>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=58]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 58](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=58>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=58]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=58]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=58]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Werkzeuge der Software-Entwicklung Anwendungsentwicklung Name: Klasse: Datum: • Binden und Laden In der letzten Phase der Übersetzung werden die Teile des Codes aus der getrennten Übersetzung der Unterprogramme zum endgültigen Programm zusammengesetzt, dazu dient der Binder (Lin- ker). Der Vorgang selbst wird Binden genannt. Quelle: Herdt - Programmierung Grundlagen Ein Programm besitzt vor seiner Ausführung nur relative Adressangaben, d.h. die Positionen in- nerhalb eines Programms werden relativ zu seiner Basisadresse angegeben. Der Lader (Loader) hat die Aufgabe, das übersetzte Programm in den Arbeitsspeicher zu laden. Dabei berechnet er aus den relativen Adressen die tatsächlichen Adress …
@@ -1777,11 +1777,11 @@ Die Kombination aus Binder und Lader ist der Bindelader: Er kombiniert die Aufga
 #### Seite 59: Werkzeuge der Software-Entwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 59](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 59](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Werkzeuge der Software-Entwicklung Anwendungsentwicklung Name: Klasse: Datum: Infodokument 2 zu „Programme erstellen“ • Visual Studio und die Code-Übersetzung in Common Intermediate Language: In Wikipedia finden sich dazu folgende Auszüge: Visual Studio Visual Studio gilt als komfortable Entwicklungsumgebung mit vielen Funktionen. Der Editor unterstützt z. B. eine von der Cursorposition abhängige Online-Hilfe, das Ein- und Ausblenden von Codeblöcken, farbliche Hervorhebung von Schlüsselwörtern, automatische Syntaxprüfung und IntelliSense, die automatische Methoden- und Funktionsergänzung während der Quelltext- Eingabe. Des Weiteren bietet die Entwicklungsumgebung grafische Schnittstellen zur …
@@ -1850,11 +1850,11 @@ an denen normale Funktionen erlaubt sind (z. B. bei Funktionspointern). …
 #### Seite 60: Werkzeuge der Softwareentwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 60](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=60>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=60]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 60](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=60>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=60]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=60]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=60]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Werkzeuge der Softwareentwicklung Beantworte die folgenden Punkte mit Hilfe des „Infodokuments 1“. 1. Zur Eingabe des Quellcodes, formuliert in der geeigneten Programmiersprache (PS), dient in der Regel ein Editor. Neben der Texteingabe kann so ein Editor auch noch folgendes: ______________ ______________________________________________________________________________ 2. Damit der Quellcode (auch: Quelltext) vom Computer ausgeführt werden kann, muss er ent- sprechend vorbereitet werden. Wie? ________________________________________________ 3. Je nach verwendeter PS gibt es dafür verschiedene „Möglichkeiten“ – Wie viele sind es? ________ 4. Betrachten wir die „erste Möglichkeit“: Wann erfolgt …
@@ -1942,11 +1942,11 @@ neu
 #### Seite 61: Werkzeuge der Softwareentwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 61](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=61>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=61]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 61](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=61>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=61]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=61]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=61]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Werkzeuge der Softwareentwicklung Beantworte die folgenden Punkte mit Hilfe der Infodokumente 1, 2 sowie dem zur IDE. 9. Es gibt Compiler, die einen Maschinencode für eine andere Plattform (z.B. Linux) erzeugen als die, auf der sie selbst ausgeführt werden (z.B. Windows). Man nennt sie ____________________. Das nächste „Werkzeug“ kann vor dem eigentlichen Kompiliervorgang noch Änderungen im Quelltext vornehmen: So können Kommentare ignoriert (z.B. durch Leerzeichen ersetzt) und weitere Quell- textdateien eingebunden werden. Man nimmt dazu den ________________________________. 10. Java oder die .NET-Plattform gehen bei der Übersetzung einen zweistufigen Weg. Bei kompilierten Programmen kann b …
@@ -2041,11 +2041,11 @@ wird verringst
 #### Seite 62: IDE - Integrierte Entwicklungsumgebung:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 62](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=62>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=62]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 62](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=62>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=62]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=62]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=62]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > IDE - Integrierte Entwicklungsumgebung: I ntegrated (Integrierte) D evelopment (Entwicklungs-) E nvironment (Umgebung) Eine IDE ist eine Sammlung von Programmierwerkzeugen. Ziel: Erleichterung bei der Erstellung von Programmen. Beispiele:  Visual Studio von Microsoft: VB.NET, C++, C#  NetBeans von Oracle: Java, C, C++, Fortran, JavaScript, PHP, Python, …  Eclipse von Eclipse Foundation: Java, C, C++, Perl, PHP, Python, Fortran, …  BlueJ von BlueJ Group, University of Kent: IDE für Java speziell für Ausbildungszwecke  MonoDevelop von Mono-Projekt: C#, VB.NET, Java, Boo, Nemerle Visual Studio: Hier wird ein Programm in VB.NET erstellt, mit dem die verschiedenen Schleifenarten getestet wer …
@@ -2077,11 +2077,11 @@ Schleifenarten getestet werden können.
 #### Seite 63: IDE - Häufige Komponenten:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 63](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=63>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=63]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 63](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=63>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=63]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=63]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=63]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > IDE - Häufige Komponenten:  Graphische Bedienoberfläche  Quelltexteditor o mit farblicher Syntaxhervorhebung o mit integrierten Programmierhilfen o mit automatischer Codevervollständigung  Projektverwaltung  Compiler bzw. Interpreter  Linker  Debugger  meist mit Unterstützung für Entwicklung in Teams  meist mit Versionierungswerkzeugen IDE von Robot Karol und IDE von BlueJ:
@@ -2109,11 +2109,11 @@ IDE von Robot Karol und IDE von BlueJ:
 #### Seite 64: Robot Karol:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 64](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=64>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=64]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 64](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=64>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=64]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=64]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=64]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BlueJ: Robot Karol:
@@ -2129,11 +2129,11 @@ Robot Karol:
 #### Seite 65: Werkzeuge der Software-Entwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 65](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=65>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=65]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 65](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=65>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=65]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=65]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=65]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Werkzeuge der Software-Entwicklung Anwendungsentwicklung Name: Klasse: Datum: Debugger Debugging nennt man die Fehlersuche in einem Programm. Der Debugger hilft uns dabei, die logischen Fehler in einem Programm zu finden. Logische Fehler? Darunter verstehen wir solche Fehler, die bei der Programmausführung falsche Ergebnisse bei Berechnungen liefern oder falsche Daten anzeigen. Es geht hier also nicht um Feh- ler, die die Syntax der Programmiersprache verletzen (wie z.B. bei Java ein vergessener Strichpunkt am Ende einer Anweisung), denn solche Fehler würde der Compiler erkennen und entsprechend reagieren. Es geht hier auch nicht um Fehler, die einen Absturz des Programms bewirken, dies würd …
@@ -2186,11 +2186,11 @@ um logische Fehler auszuschließen.
 #### Seite 66: Werkzeuge der Software-Entwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 66](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=66>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=66]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 66](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=66>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=66]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=66]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=66]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Werkzeuge der Software-Entwicklung Anwendungsentwicklung Name: Klasse: Datum: Wie funktioniert nun das Debuggen konkret bei der IDE BlueJ? Schreiben wir Java-Schlüsselwörter falsch oder vergessen wir den Strichpunkt am Ende der Pro- grammzeile, dann merken wir das spätestens beim Übersetzungsvorgang: Dieser wird mit einer ent- sprechenden Fehlermeldung abgebrochen - man spricht hier von Syntaxfehlern. Aber wie kommt man Fehlern auf die Spur, die weder beim Kompilieren noch beim Starten des Programms angezeigt werden? Man spricht dann von logischen Fehlern: Das sind Fehler, die weder die Syntax der Programmiersprache verletzen noch einen Absturz des Programms bewirken (z.B. bei einer Division …
@@ -2237,11 +2237,11 @@ nen wir uns das Debuggen näher ansehen. Das Programm heißt „Urlaubsanspruech
 #### Seite 67: Werkzeuge der Software-Entwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 67](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=67>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=67]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 67](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=67>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=67]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=67]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=67]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Werkzeuge der Software-Entwicklung Anwendungsentwicklung Name: Klasse: Datum: Zeile 25: Um das Programm an einer bestimmen Stelle bei seiner Ausführung unterbrechen zu können, setzen wir im Quellcode einen entsprechenden Haltepunkt (Breakpoint). Dazu klickst du einfach auf die Zeilennummer. Dort erscheint dann ein kleines rotes „Stoppschild“. Du kannst auch mehrere Haltepunkte setzen, uns genügt aber dieser eine. Nun startest du wie gewohnt das Programm, indem du die Main-Methode auf- rufst. Der Code bis inklusiv Zeile 24 wird ausgeführt, dann stoppt das Programm an der Zeile 25: Diese wird nun nicht mehr automatisch ausgeführt. Zusätzlich zum Quellcode siehst du nun das Debug-Fenster und da …
@@ -2300,11 +2300,11 @@ wirksames Werkzeug, um logische Fehler im Programm erkennen zu können. Nutze di
 #### Seite 68: Werkzeuge der Software-Entwicklung
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 68](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=68>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=68]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 68](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=68>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=68]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=68]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=68]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Werkzeuge der Software-Entwicklung Anwendungsentwicklung Name: Klasse: Datum: Aufgabe: Ordne die folgenden Begriffe den Beschreibungen in der Tabelle zu. Ein Computerprogramm, das einen Programm-Quellcode einliest, analysiert und ausführt. Die Analyse des Quellcodes erfolgt also zur Laufzeit des Programms. Werden mehrere Übersetzungsdurchläufe benötigt, so wird der erste Durchlauf meist von dieser Compilerart durchgeführt. Das sind Compiler, die andere Compiler aus Sprachbeschreibungen generieren. Diese Compiler erzeugen einen Maschinencode für eine andere Computer-Platt- form als die, auf der sie ausgeführt werden. Die einzelnen kompilierten Module eines Programms sind noch nicht lauffähig. …
@@ -2391,11 +2391,11 @@ Assemble
 #### Seite 69: Das agile Vorgehensmodell Scrum – Erste Infos dazu:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 69](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=69>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=69]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 69](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=69>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=69]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=69]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=69]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Das agile Vorgehensmodell Scrum – Erste Infos dazu: Die Darstellung stammt aus Westermann-Verlag „IT-Berufe Grundstufe Lernfelder 1 - 5“ • Schauen wir uns zuerst die drei Rollen an, die es bei Scrum gibt: 1. Der Product Owner trägt die Verantwortung für das Produkt, das entstehen soll. 2. Der Scrum Master kümmert sich um die Einhaltung der Scrum-Regeln und sorgt dafür, dass Scrum im Team und im Betrieb weiter optimiert wird. 3. Das Development Team (Entwicklungsteam) erstellt das Produkt. • Jetzt betrachten wir die fünf Ereignisse (Rituale) die es bei Scrum gibt. Sie machen den Ablauf trans- parent, überprüfbar und helfen, ihn kontinuierlich zu verbessern. 1. Der Sprint ist ein Zyklus / Durc …
@@ -2444,11 +2444,11 @@ gehören die Kunden, das Management, die Benutzer des Produkts (bei uns der Soft
 #### Seite 73: Vorgehensmodelle
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 73](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=73>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=73]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 73](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=73>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=73]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=73]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=73]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Vorgehensmodelle Anwendungsentwicklung Name: Klasse: Datum: 2 Das V- Modell: • Das V-Modell ist eine Erweiterung des Wasser- fall-Modells. Dazu gehört die Qualitätssicherung. • Es ist ein sehr umfangreiches und aufwendiges Modell. Das V-Modell XT ist bei Ausschrei- bungen der öffentlichen Hand (Software für Be- hörden etc.) und auch im militärischen Bereich Pflicht. Unternehmen setzen es ebenfalls ein. Vorteile • Es ist geeignet für große und komplexe Projekte. • Es integriert die Systemerstellung (SE), das Qualitätsmanagement (QM), das Konfigurations- management (KM) und das Projektmanagement (PM). Auf Qualität wird großen Wert gelegt. • Damit lassen sich Risiken minimieren, Kosten kontroll …
@@ -2528,11 +2528,11 @@ Quelle: Wikipedia – mit Ergänzungen
 #### Seite 75: Vorgehensmodelle
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 75](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=75>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=75]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 75](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=75>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=75]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=75]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=75]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Vorgehensmodelle Anwendungsentwicklung Name: Klasse: Datum: 4 Labor-Prototyp / Labormuster (technische / vertikale Prototypen) • Er beantwortet und prüft konstruktionsbezogene Fragen. • Er liefert Alternativen als Entscheidungsgrundlage. • Er prüft die technische Umsetzbarkeit. • Er bezieht sich meist auf die Softwarearchitektur oder die Funktionalität. • Der Endbenutzer nimmt in der Regel nicht Teil. Pilot-Prototyp / Pilotsystem • Er ist der Kern des späteren Produktes. • Der Prototyp selbst wird im Verlauf der Entwicklung zum späteren Produkt. • Die Entwicklung erfolgt in mehreren Zyklen bzw. Iterationen. • Er benötigt einen sorgfältigen technischen Entwurf. • Die Weiterentwicklung orienti …
@@ -2591,11 +2591,11 @@ schreiben.
 #### Seite 76: Vorgehensmodelle – Teil 1
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 76](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=76>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=76]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 76](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=76>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=76]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=76]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=76]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Vorgehensmodelle – Teil 1 Beantworte anhand des Info-Dokuments folgende Fragen: 1. Welches Ziel verfolgt man mit dem Einsatz von Vorgehensmodellen? _________________________________________________________________________________ 2. Neben den „klassischen“ Modellen haben „agile“ Modelle heutzutage eine große Bedeutung. Warum ist das so? _________________________________________________________________________________ 3. Wieso ist das „Wasserfall-Modell“ nicht für flexible Entwicklungsprozesse, bei denen sich die Anfor- derungen auch häufig wandeln können, geeignet? _________________________________________________________________________________ 4. Der Management-Aufwand beim „Wasserfall-Mod …
@@ -2689,11 +2689,11 @@ Systemsoftware).
 #### Seite 77: Das agile Vorgehensmodell
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 77](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=77>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=77]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 77](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=77>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=77]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=77]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=77]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Das agile Vorgehensmodell Scrum – Dritte Infos dazu: • Was sind denn die „Vorteile“ von Scrum? Da sich der Ablauf hauptsächlich auf die Akteure Product Owner, Scrum Master und Development Team beschränkt, sind hier die Kommunikationswege sehr kurz: Sie stehen im ständigen Kontakt mit- einander. Der Product Owner hält zudem den Kontakt zu den Stakeholdern. Wichtige Personen aus dieser Gruppe können auch an bestimmten Meetings teilnehmen. Die Scrum-Regeln selbst sind nicht kompliziert und von der Anzahl her überschaubar - Jemanden in den Ablauf zu integrieren, dürfte somit nicht allzu schwer sein. Das Development Team plant, welche Anforderungen des Product Backlogs im nächsten Sprint umge- se …
@@ -2750,11 +2750,11 @@ che bei Scrum mehr Handlungsvorgaben oder Handlungsempfehlungen.
 #### Seite 80: 4. Benutzbarkeit (Usability)
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 80](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=80>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=80]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 80](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=80>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=80]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=80]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=80]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 4. Benutzbarkeit (Usability) Wie einfach und effektiv die Software von den Zielbenutzern bedient werden kann. Erlernbarkeit: Wie schnell verstehen neue Nutzer das System? Bedienbarkeit: Logische und komfortable Steuerung. Fehlerschutz: Vermeidung von Fehlbedienungen durch den Nutzer. Barrierefreiheit: Nutzbarkeit für Menschen mit Einschränkungen. Ästhetik der Benutzeroberfläche: Ansprechendes Design der UI. 5. Zuverlässigkeit (Reliability) Die Fähigkeit des Systems, seine Funktion unter definierten Bedingungen aufrechtzuerhalten. Reife: Häufigkeit von Fehlern im Normalbetrieb. Verfügbarkeit: Zeitanteil, in dem das System betriebsbereit ist. Fehlertoleranz: Weiterbetrieb trotz Fehlern in Hard …
@@ -2802,11 +2802,11 @@ Authentizität: Sicherstellung der Identität des Kommunikationspartners.
 #### Seite 82: Neuentwicklung und Anpassung von Software
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 82](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 82](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Neuentwicklung und Anpassung von Software Zur Softwareentwicklung gehört neben der Neuentwicklung von Systemen auch die Anpassung be- stehender Systeme. Da gibt es nun verschiedene Möglichkeiten. Handelt es sich um eine Individualsoftware, so ist in der Regel der Quellcode bekannt und die vom Auftraggeber gewünschten Änderungen lassen sich programmtechnisch umsetzen. Verwendet der Kunde aber eine Standard- software und möchte er diese an seine persönlichen Anforderungen oder auf seine betriebliche Ablauforganisation anpassen, so bezeichnet man das als Customizing. Da bei einer Standardsoftware der Quellcode in der Regel weder bekannt und zugänglich ist, wird beim Customizing der Quellcode de …
@@ -2860,11 +2860,11 @@ toren und Compiler.
 #### Seite 83: Dokumentation von Software
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 83](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=83>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=83]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 83](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=83>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=83]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=83]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=83]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Dokumentation von Software Bei immer komplexer werdenden Abläufen oder Programmen, ist es sowohl für die Entwickler, Programmierer und Tester als auch für die Benutzer der Software essenziell notwendig, umfassend und verständlich darüber informiert zu werden. Dazu dienen die entsprechenden Dokumentationen. Für die Entwickler, Programmierer und Tester der Software sind es vor allem die Projektdokumen- tation, die Systemdokumentation und auch die Testdokumentation. Oft ist es ja so, dass über den Software-Lebenszyklus betrachtet, die ursprünglichen Entwickler und Programmierer in andere Pro- jekte eingebunden und deshalb nicht greifbar sind oder vielleicht auch gar nicht mehr der Firma angehör …
@@ -2928,11 +2928,11 @@ lassen sich nachvollziehen.
 #### Seite 86: Zur Unterstützungssoftware gehören beispielsweise Programme wie Editoren und
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 86](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 86](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Zur Unterstützungssoftware gehören beispielsweise Programme wie Editoren und Compiler. 6. Auch wenn deren Erstellung oft nur reduziert oder so nebenbei erfolgt - Warum ist die Dokumentation von Software für alle Beteiligten (Hersteller wie Benutzer) von großer Bedeutung? Aufgrund immer komplexer werdender Programme und Abläufe ist es für Entwickler und Benutzer essenziell, umfassend und verständlich informiert zu werden. Für Hersteller ist dies wichtig, da ursprüngliche Entwickler oft später in andere Projekte eingebunden sind oder die Firma verlassen haben. Neue Kollegen müssen sich schnell einarbeiten können, um Wartungen oder Änderungen vorzunehmen. Für Benutzer ist die Dokumentation unve …
@@ -2996,11 +2996,11 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 #### Seite 87: Installationsanleitung:
 
 > [!referenz] Exakte Referenz
-> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 87](<../../../../99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=87>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]`
+> - PDF: [01_Algorithmus_Programm_Software_EVA.pdf Seite 87](<../../../../99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=87>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Installationsanleitung: Hier finden sich Anforderungen an Hardware, Betriebssystem und Softwareumgebung, Anweisungen zur Installation und Deinstallation sowie das Vorgehen bei Updates. Schulungsunterlagen: Diese werden häufig zur Verfügung gestellt, damit der Kunde den Umgang mit der Software anhand praxisnaher Beispiele erlernen kann. 10. Nenne vier Punkte, die eine gute Dokumentation von Software ausmachen. Die gewünschten Infos lassen sich schnell und einfach finden. Die Infos sind verständlich und widerspruchsfrei formuliert sowie schnell zu lesen. Die Infos sind vollständig und stets auf dem aktuellen Stand. Die Infos haben einen Bezug zur Praxis und lassen sich nachvollziehen. • • • • …
@@ -3033,11 +3033,11 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 #### Seite 1: Unternehmenswiki
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Unternehmenswiki Inhaltsverzeichnis 1. Java ........................................................................................................................ 3 1.1. Vorstellung von Java ........................................................................................ 3 1.2. Wichtige Begriffe in Java .................................................................................. 4 IDE ....................................................................................................................... 4 Java Development Kit .......................................................................................... 4 API ........................................................ …
@@ -3074,11 +3074,11 @@ Funktionsweise und Verarbeitung des Codes in Java...............................
 #### Seite 3: 6.5.4. Die Unterscheidung von Methoden ................................................... …
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 6.5.4. Die Unterscheidung von Methoden .......................................................... 42 6.5.5.1 Parameter .............................................................................................. 46 1. Java 1.1. Vorstellung von Java Java ist eine sogenannte objektorientierte Programmiersprache, die sich durch einige zentrale Eigenschaften auszeichnet. Diese machen sie universell einsetzbar und für die Industrie als robuste Programmiersprache interessant. Da Java objektorientiertes Programmieren ermöglicht, können Entwickler moderne und wiederverwertbare Softwarekomponenten programmieren. Heute ist Java die Basis sehr erfolgreicher Produkte. Dazu zählen Facebook, LinkedIn, T …
@@ -3117,11 +3117,11 @@ weiterer Begriffe, die im folgenden Kapitel erklärt werden.
 #### Seite 4: 1.2. Wichtige Begriffe in Java
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 1.2. Wichtige Begriffe in Java IDE Eine integrierte Entwicklungsumgebung (IDE, von englisch integrated development environment) ist eine Sammlung von Computerprogrammen und stellen hilfreiche Werkzeuge bereit, die dem Softwareentwickler häufig wiederkehrende Aufgaben abnehmen, einen schnellen Zugriff auf einzelne Funktionen bieten, mit denen die Arbeits(zwischen)ergebnisse verwaltet und in spätere Bearbeitungsfunktionen direkt überführt werden können. Eine IDE enthält normalerweise den Editor für Quelltexte, die Möglichkeit zur Verwaltung von Projekten, einen Compiler sowie einen Debugger. Dieser Debugger hilft dabei, um beispielsweise Logikfehler in der Programmierung aufzuspüren. Das Progr …
@@ -3172,11 +3172,11 @@ grafischen Oberflächen (GUIs) und interaktives Erzeugen von Objekten.
 #### Seite 5: Compiler
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Compiler Der Compiler javac übersetzt den Quellcode einer Datei in Java-Bytecode. Jede in einer Datei deklarierte Klasse übersetzt der Compiler in eine eigene Klassendatei. Wenn bei einer Klasse (nennen wir sie A) eine Abhängigkeit zu einer anderen Klasse (nennen wir sie B) besteht – wenn zum Beispiel A von B erbt – und B nicht als Bytecode-Datei vorliegt, dann verarbeitet der Compiler B automatisch mit. Bytecode Der Bytecode ist in der Informatik eine Sammlung von Befehlen für eine virtuelle Maschine. Bei Kompilierung eines Quelltextes mancher Programmiersprachen oder Umgebungen – wie beispielsweise Java – wird nicht direkt Maschinencode, sondern ein Zwischencode, der Bytecode, erstellt. Ja …
@@ -3218,11 +3218,11 @@ dieses Quelltextes durch den PC ist aber so noch nicht möglich. Bisher schreibe
 #### Seite 6: unsere Programme als Java-Qellcode in der Entwicklungsumgebung Eclipse und
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > unsere Programme als Java-Qellcode in der Entwicklungsumgebung Eclipse und lassen dann anschließend die Befehle ausführen. Diesen Quellcode selbst kann der Computer aber nicht „lesen“, da er nur 0 und 1 kennt. Mit Hilfe des grünen Run-Buttons wird also zunächst eine Übersetzung des Quellcodes in eine für den Computer verständliche Sprache, die sogenannte Maschinensprache/Maschinencode, vorgenommen. Es gibt dabei, je nach gewählter Programmiersprache, Möglichkeiten zur Übersetzung: Komplette Übersetzung bei der Programmausführung mit einem sogenannten Interpreter Ein Interpreter übersetzt dabei, während das Programm läuft, den Quelltext in die Maschinensprache. Dabei wird jede Zeile abgearbei …
@@ -3270,11 +3270,11 @@ Grafik soll dies noch einmal verdeutlichen:
 #### Seite 7: Quelle: In Anlehnung an https://miro.medium.com/max/549/1*cvCmPzIDxzSs-YhR0iHs4g.jpeg
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Quelle: In Anlehnung an https://miro.medium.com/max/549/1*cvCmPzIDxzSs-YhR0iHs4g.jpeg Was nun sehr umständlich erscheint, hat den Vorteil, dass ein einmal kompiliertes Java-Programm unter jedem von Java unterstützen Betriebssystem ausgeführt werden kann. Im Gegensatz dazu wären EXE-Dateien nur auf die Windows-Welt beschränkt. Java nutzt Mischform aus Interpretation und Kompilation als Kompromiss: • Java-Compiler übersetzt Quelltext in einen portablen (plattformunabhängigen) Bytecode. Im Anschluss erfolgt die Ausführung des Bytecodes durch die Java Virtual Machine (JVM) auf dem jeweiligen Betriebssystem. Java - Code Compiler Byte - Code JVM JVM JVM Windows Linux Mac
@@ -3304,11 +3304,11 @@ Mac
 #### Seite 11: Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und Strichpunkte („Semikolon“). Nun kann der Code mittels des grünen Run-Buttons ausgeführt werden. In der Konsole wird nun folgendes ausgegeben: Somit wurde das erste Programm geschrieben und auch ausgeführt. 2.2 Einbindung von LegoMindstorm 2.2.1. Vorstellung von LegoMindstorm Um den Unterricht praxisnaher zu gestalten und das jeweilige Ergebnis nicht nur auf der Konsole auf dem Bildschirm anzeigen zu lassen, wird im Unterricht mit LegoMindstorm-Robotern gearbeitet. Diese sind bereits zusammengebaut und bieten diverse Möglichkeiten, um den ausgeführten Code anschaulicher wirken zu lassen. 2.2.1. Anbindung von LegoM …
@@ -3341,11 +3341,11 @@ verbinden, müssen nun folgende Schritte beachtet werden:
 #### Seite 15: Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den Mindstorm-Roboter oder über die Konsole auf dem Bildschirm ausgegeben werden soll. 2.3 Begriffe des ersten Programms Im vorherigen Kapitel wurde das erste Programm geschrieben, ausgeführt und dabei viele neue Begriffe verwendet. Im Folgenden soll nun auf die Bedeutung der Begriffe eingegangen werden: Public class HalloEIT10{ Public static void main(String[] args) { System.out.println(„Hallo EIT10!“); } } Das Schlüsselwort class leitet den Code für eine Klasse ein. Eine Klasse ist ein abgeschlossener Code-Bereich. Dies wird später noch im Kapitel „Objektorientierte Programmierung“ genauer erläutert. Auf class folgt der …
@@ -3385,11 +3385,11 @@ Methode mit der Signatur "public static void main(String args[])"
 #### Seite 17: Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 17](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=17>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=17]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 17](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=17>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=17]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=17]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede Anweisung (Befehl an den Computer) damit endet! 2.4 Kommentare in Java Kommentare helfen, vor allem bei längeren Quellcodes, die Übersicht zu bewahren und gegebenenfalls anderen Personen, die daran arbeiten, zu informieren und bestimmte Sachverhalte zu erklären. Der Quellcode wird dabei vom Compiler nicht ausgeführt und somit bei der Programmausführung ignoriert. Um Kommentare für Quellcodes einzufügen, werden diese wie folgt gekennzeichnet: Um einzeilige Kommentare zu vermerken, werden diese durch einen Doppel-Slash (//…) kenntlich gemacht. Diese erscheinen in eclipse anschließend in grüner Farbe. Public class Hal …
@@ -3440,11 +3440,11 @@ Variablen, Konstanten und Methoden gemeint.
 #### Seite 18: Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt:
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=18>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=18]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=18>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=18]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=18]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt: ➔ Alle Anweisungen müssen mit einem Strichpunkt (Semikolon) beendet werden ➔ Der Code wird in geschwungenen Klammern {…} geschrieben ➔ Das Einrücken des Codes (Tab-Taste) ist optional ➔ Leerzeichen und Zeilenumbrüche werden in Java akzeptiert ➔ Groß- und Kleinschreibung beachten; Java unterscheidet hier! o Klassennamen werden großgeschrieben und dürfen keine Leer- oder Sonderzeichen enthalten und sollten mit einem Großbuchstaben beginnen o Objekte, Attribute und Methodennamen werden kleingeschrieben ➔ Dezimalzahlen werden durch einen Punkt getrennt ➔ Jede Variable muss vor ihrer Verwendung mit einem Datentyp deklariert wer …
@@ -3489,11 +3489,11 @@ Bezeichnern:
 #### Seite 19: Sie dürfen keine Leer-/Sonderzeichen enthalten
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=19>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=19]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=19>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=19]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=19]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > - Sie dürfen keine Leer-/Sonderzeichen enthalten - Achtung bei Groß- und Kleinschreibung; Java unterscheidet hier! - Reservierte Wörter (bspw. if, else, public…) dürfen nicht als Bezeichner verwendet werden! Ein Beispiel: Es soll ein Mitarbeiter am Rechner seines Arbeitsplatzes begrüßt werden. Da jeder Mitarbeiter logischerweise einen eigenen, individuellen Namen besitzt, kann dieser nicht standardmäßig hinterlegt werden. Aus diesem Grund wird hierfür eine Variable benötigt, um beispielsweise folgenden Text ausgeben zu lassen: „Guten Morgen {Name}, willkommen an Ihrem Arbeitsplatz.“ Um dies umsetzen zu können, wird also eine Variable „name“ benötigt („name“, da es den englischen Konventionen …
@@ -3543,11 +3543,11 @@ innerhalb von Methoden genutzt werden.
 #### Seite 22: int x, y, z;
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > int x, y, z; x = 3; y = x + z; Der Fehler liegt hier darin, dass die Variable z noch nicht initialisiert wurde. 4.4 Zugriff und Ausgaben von Variablen Bisher wurde nun eine Variable deklariert und initialisiert. In der Praxis ist es jedoch erforderlich, dass der Inhalt der Variable abgerufen wird. Dies geschieht mittels der Methode System.out.println(). Die Variable teilnehmernummer wurde in folgendem Beispiel deklariert und initialisiert. Um sie sich nun auf der Konsole (auf dem Bildschirm) anzeigen lassen zu können, muss nur der Bezeichner als sogenannter „Parameter“ in die runden Klammern der Methode geschrieben werden. int teilnehmernummer = 357; // Die Deklaration und Initialisierung er …
@@ -3597,11 +3597,11 @@ werden. Diese werden in einem späteren Kapitel genauer behandelt.
 #### Seite 23: Im folgenden Beispiel ist ersichtlich, dass eine Variable auch mehrmals benutzt
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Im folgenden Beispiel ist ersichtlich, dass eine Variable auch mehrmals benutzt werden kann. Code-Beispiel: public static void main(String[] args){ String output; output = „Hallo Chef!“; System.out.println(output); System.out.println(output); } } Der Datentyp „String“ wird hier einmalig zu Beginn angegeben, nach der Initialisierung (Anlegen der Variable) wird er nicht mehr weiter separat hingeschrieben. Bei der Initialisierung (Neuanlegen einer Variablen) muss der Datentyp nur zu Beginn hingeschrieben werden, danach nicht mehr. Class XXX public static void main(String[] args) { String output = „Hallo Chef“; System.out.println(output); output = „Hallo Kunde!“ System.out.println(output) } } Va …
@@ -3649,11 +3649,11 @@ verarbeitet werden, lassen sich folgendermaßen unterscheiden:
 #### Seite 24: Zahlen sind sogenannte numerische Daten. Diese werden dann eingesetzt,
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > - Zahlen sind sogenannte numerische Daten. Diese werden dann eingesetzt, wenn etwas berechnet, aufgezählt oder nummeriert werden soll. - Zeichen sind alphanumerische Daten - Boolesche Daten werden auch logische Daten genannt Um zu überprüfen, welche Daten zulässig sind, werden sogenannte einfache/primitive Datentypen verwendet. Ihr Unterschied liegt im zulässigen Wertebereich sowie in der Größe des jeweils benötigten Speichers. Somit wird festgelegt, welche Daten jeweils zulässig sind. Hinweis: String ist der einzige Datentyp, welcher großgeschrieben wird; alle anderen Datentypen werden kleingeschrieben. Name Größe (8 Bit = 1 Byte) Wertebereich byte 8 bit -128 bis +127 short 16 bit -32.768 b …
@@ -3700,11 +3700,11 @@ float.
 #### Seite 25: Wertebereich
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=25>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=25]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=25>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=25]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=25]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Name Größe Wertebereich float 32 Bit 1,40239846E-45 bis 3,40282347E+38 double 64 Bit 494065645841246544E-324 bis 1,79769131486231570E+308 Neben diesen Datentypen gibt es noch folgende Datentypen: Der Datentyp char beinhaltet einen Buchstaben oder ein Zeichen. Der Datentyp String umfasst Zeichenketten, in denen Texte/Zeichenketten gespeichert werden können und somit nichts anderes als eine Aneinanderreihung von Characters („chars“). Name Art Beispiel char Buchstabe, Zeichen char country = „d“; boolean Nicht definiert true/false String Text, Zeichenkette String name = „Robbi“; Eclipse erkennt dabei, wenn einer Variablen ein falscher Wert zugeteilt wurde und zeigt eine dementsprechende, rot unt …
@@ -3760,11 +3760,11 @@ In Java gibt es acht primitive Datentypen:
 #### Seite 28: 4.5.2 Verkettung von Datentypen
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 28](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 28](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 4.5.2 Verkettung von Datentypen Um eine Verkettung von Datentypen zu erreichen, muss dies mittels „+“ durchgeführt werden. Void print (){ String output = „Hallo Chef“; System.out.println(output + „!“); } Void print(){ String welcome = „Hallo“; String name = „Chef“; System.out.println(welcome + „“ + name); } Dabei muss jedoch auf Leerzeichen geachtet werden! Bei einer Verkettung von Variablen müssen dabei unbedingt die Datentypen beachtet werden, da diese für das Ergebnis entscheidend sind! Fall 1. Fall 2. Fall Code void print(){ String first = "5"; String second = "5"; System.out.println(first + second); } void print(){ int number1 = 5; int number2 = 5; System.out.println(number1 + number2); …
@@ -3824,11 +3824,11 @@ String eine Verkettung von Zeichen („Konkatenation“) erfolgt.
 #### Seite 30: int num = (int) 3.57; Hier wird eine sogeannnte explizite
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=30>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=30]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=30>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=30]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=30]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > int num = (int) 3.57; Hier wird eine sogeannnte explizite Datentypkonvertierung vorgenommen. Der Variablen num wird nun der Wert 3 zugewiesen, die beiden Dezimalstellen entfallen. Dies nennt man auch type cast. 5. Mathematische Operatoren Als Operatoren versteht man bestimmte Zeichen, die in Kombination mit Operanden verwendet werden, um einen Ausdruck zu berechnen bzw. ihn zu ermitteln: Ausdruck 1. Operand Additions-Operator 2. Operand Der Ausdruck selbst muss nicht unbedingt eine komplexe Berechnung sein. Er kann auch eine Variable oder Konstante sein. Java kennt eine Vielzahl von arithmetischen, logischen, und relationalen Operatoren. Zuweisungen bei Operatoren erfolgen durch den Zuweisun …
@@ -3874,11 +3874,11 @@ Double
 #### Seite 37: einer Klasse beliebig viele Objekte (Instanzen) erstellt werden (beispielsweise durch
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=37>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=37]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=37>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=37]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=37]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > einer Klasse beliebig viele Objekte (Instanzen) erstellt werden (beispielsweise durch die Fertigung am Band), die sich jeweils in der Ausprägung der einzelnen Eigenschaftswerte unterscheiden. 6.4.1. Objekte aus Klassen instanziieren Als Objekt bezeichnet man also eine konkrete Umsetzung einer Klasse. Objekte einer Klasse können sich dabei unterscheiden. Dies bedeutet, dass ihre Attribute andere Werte haben können. Dadurch wird der Zustand eines Objekts bestimmt. Da der Zustand eines Objekts sich auf sein Verhalten auswirkt, können sich Objekte bei unterschiedlichem Zustand folglich auch unterschiedlich verhalten. Im folgenden Beispiel ist die Klasse Robot kein Roboter, sondern nur eine Art B …
@@ -3924,11 +3924,11 @@ Objekt zur Verfügung stehen.
 #### Seite 38: 6.4. Attribute (Eigenschaften) von Klassen
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=38>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=38]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=38>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=38]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=38]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 6.4. Attribute (Eigenschaften) von Klassen Eine Klasse besteht grundsätzlich aus Attributen und Methoden. Attribute definieren Eigenschaften von Objekten, Methoden hingegen legen das Verhalten fest. Diese Attribute stellen somit die Merkmale eines Objekts dar. Die gesamten Objekte einer Klasse besitzen die gleichen Attribute, allerdings unterscheiden sich hierbei die Werte der Attribute. Mit Hilfe von Methoden kann auf Attribute kann ein Lesen oder eine Veränderung von Attributen vorgenommen werden. Der Zustand (state) eines Objekts wird durch Attribute beschrieben. Attribute werden dabei innerhalb der Klasse definiert, wobei alle Objekte einer Klasse die gleichen Attribute besitzen. Im Code …
@@ -3977,11 +3977,11 @@ public static void main (String[] args) {
 #### Seite 46: 6.5.5.1 Parameter
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=46>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=46]]`
+> - PDF: [02_Unternehmenswiki-4.Block.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=46>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=46]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=46]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 6.5.5.1 Parameter Als Parameter versteht man Variablen von Methoden, die beim Aufruf der Methode befüllt werden und die zur Erfüllung der Aufgabe der Methode nötig sind. Die Syntax lautet allgemein: <Datentyp> <Methodenbezeichner> (<Datentyp> <Parameterbezeichner>) Der Zugriff erfolgt dabei innerhalb der Methode mit Hilfe des Parameterbezeichners. 6.5.3.1 Methoden mit Parametern Beide Arten von Methoden (also Prozeduren und Funktionen) können Parameter verlangen bzw. übergeben bekommen. Beispiel: public class HalloEIT10 { public static void main(String[] args) { sayHello(„Patrick“); } public static void sayHello(String name){ System.out.println(„Hallo“ + name); System.out.println(„Willkommen …
@@ -4029,11 +4029,11 @@ Im blauen Kasten wird die Methode aufgerufen.
 #### Seite 1: Unternehmenswiki
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Unternehmenswiki Inhaltsverzeichnis 1. Java ........................................................................................................................ 3 1.1. Vorstellung von Java ........................................................................................ 3 1.2. Wichtige Begriffe in Java .................................................................................. 4 IDE ....................................................................................................................... 4 Java Development Kit .......................................................................................... 4 API ........................................................ …
@@ -4070,11 +4070,11 @@ Funktionsweise und Verarbeitung des Codes in Java...............................
 #### Seite 3: 6.5.4. Die Unterscheidung von Methoden ................................................... …
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=3]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=3]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 6.5.4. Die Unterscheidung von Methoden .......................................................... 42 6.5.5.1 Parameter .............................................................................................. 46 7. Kontrollstrukturen ................................................................................................. 48 7.1 Verzweigungen ................................................................................................ 48 7.1.1 Verzweigungen ......................................................................................... 48 7.2.1 Fallunterscheidungen ................................................................................ 55 1. Java 1.1. Vorst …
@@ -4115,11 +4115,11 @@ jeweiligen Plattform wie beispielsweise Windows oder Linux auszuführen. Der Jav
 #### Seite 4: Interpreter wird auch virtuelle Maschine genannt. Daneben existiert noch eine Reihe
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=4]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=4]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Interpreter wird auch virtuelle Maschine genannt. Daneben existiert noch eine Reihe weiterer Begriffe, die im folgenden Kapitel erklärt werden. 1.2. Wichtige Begriffe in Java IDE Eine integrierte Entwicklungsumgebung (IDE, von englisch integrated development environment) ist eine Sammlung von Computerprogrammen und stellen hilfreiche Werkzeuge bereit, die dem Softwareentwickler häufig wiederkehrende Aufgaben abnehmen, einen schnellen Zugriff auf einzelne Funktionen bieten, mit denen die Arbeits(zwischen)ergebnisse verwaltet und in spätere Bearbeitungsfunktionen direkt überführt werden können. Eine IDE enthält normalerweise den Editor für Quelltexte, die Möglichkeit zur Verwaltung von Projekt …
@@ -4172,11 +4172,11 @@ grafischen Oberflächen (GUIs) und interaktives Erzeugen von Objekten.
 #### Seite 5: Compiler
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=5]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=5]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Compiler Der Compiler javac übersetzt den Quellcode einer Datei in Java-Bytecode. Jede in einer Datei deklarierte Klasse übersetzt der Compiler in eine eigene Klassendatei. Wenn bei einer Klasse (nennen wir sie A) eine Abhängigkeit zu einer anderen Klasse (nennen wir sie B) besteht – wenn zum Beispiel A von B erbt – und B nicht als Bytecode-Datei vorliegt, dann verarbeitet der Compiler B automatisch mit. Bytecode Der Bytecode ist in der Informatik eine Sammlung von Befehlen für eine virtuelle Maschine. Bei Kompilierung eines Quelltextes mancher Programmiersprachen oder Umgebungen – wie beispielsweise Java – wird nicht direkt Maschinencode, sondern ein Zwischencode, der Bytecode, erstellt. Ja …
@@ -4218,11 +4218,11 @@ dieses Quelltextes durch den PC ist aber so noch nicht möglich. Bisher schreibe
 #### Seite 6: unsere Programme als Java-Qellcode in der Entwicklungsumgebung Eclipse und
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=6]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=6]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > unsere Programme als Java-Qellcode in der Entwicklungsumgebung Eclipse und lassen dann anschließend die Befehle ausführen. Diesen Quellcode selbst kann der Computer aber nicht „lesen“, da er nur 0 und 1 kennt. Mit Hilfe des grünen Run-Buttons wird also zunächst eine Übersetzung des Quellcodes in eine für den Computer verständliche Sprache, die sogenannte Maschinensprache/Maschinencode, vorgenommen. Es gibt dabei, je nach gewählter Programmiersprache, Möglichkeiten zur Übersetzung: Komplette Übersetzung bei der Programmausführung mit einem sogenannten Interpreter Ein Interpreter übersetzt dabei, während das Programm läuft, den Quelltext in die Maschinensprache. Dabei wird jede Zeile abgearbei …
@@ -4270,11 +4270,11 @@ Grafik soll dies noch einmal verdeutlichen:
 #### Seite 7: Quelle: In Anlehnung an https://miro.medium.com/max/549/1*cvCmPzIDxzSs-YhR0iHs4g.jpeg
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=7]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=7]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Quelle: In Anlehnung an https://miro.medium.com/max/549/1*cvCmPzIDxzSs-YhR0iHs4g.jpeg Was nun sehr umständlich erscheint, hat den Vorteil, dass ein einmal kompiliertes Java-Programm unter jedem von Java unterstützen Betriebssystem ausgeführt werden kann. Im Gegensatz dazu wären EXE-Dateien nur auf die Windows-Welt beschränkt. Java nutzt Mischform aus Interpretation und Kompilation als Kompromiss: • Java-Compiler übersetzt Quelltext in einen portablen (plattformunabhängigen) Bytecode. Im Anschluss erfolgt die Ausführung des Bytecodes durch die Java Virtual Machine (JVM) auf dem jeweiligen Betriebssystem. Java - Code Compiler Byte - Code JVM JVM JVM Windows Linux Mac
@@ -4304,11 +4304,11 @@ Mac
 #### Seite 11: Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 11](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und Strichpunkte („Semikolon“). Nun kann der Code mittels des grünen Run-Buttons ausgeführt werden. In der Konsole wird nun folgendes ausgegeben: Somit wurde das erste Programm geschrieben und auch ausgeführt. 2.2 Einbindung von LegoMindstorm 2.2.1. Vorstellung von LegoMindstorm Um den Unterricht praxisnaher zu gestalten und das jeweilige Ergebnis nicht nur auf der Konsole auf dem Bildschirm anzeigen zu lassen, wird im Unterricht mit LegoMindstorm-Robotern gearbeitet. Diese sind bereits zusammengebaut und bieten diverse Möglichkeiten, um den ausgeführten Code anschaulicher wirken zu lassen. 2.2.1. Anbindung von LegoM …
@@ -4341,11 +4341,11 @@ verbinden, müssen nun folgende Schritte beachtet werden:
 #### Seite 15: Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 15](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den Mindstorm-Roboter oder über die Konsole auf dem Bildschirm ausgegeben werden soll. 2.3 Begriffe des ersten Programms Im vorherigen Kapitel wurde das erste Programm geschrieben, ausgeführt und dabei viele neue Begriffe verwendet. Im Folgenden soll nun auf die Bedeutung der Begriffe eingegangen werden: Public class HalloEIT10{ Public static void main(String[] args) { System.out.println(„Hallo EIT10!“); } } Das Schlüsselwort class leitet den Code für eine Klasse ein. Eine Klasse ist ein abgeschlossener Code-Bereich. Dies wird später noch im Kapitel „Objektorientierte Programmierung“ genauer erläutert. Auf class folgt der …
@@ -4385,11 +4385,11 @@ Methode mit der Signatur "public static void main(String args[])"
 #### Seite 17: Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 17](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=17>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=17]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 17](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=17>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=17]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=17]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede Anweisung (Befehl an den Computer) damit endet! 2.4 Kommentare in Java Kommentare helfen, vor allem bei längeren Quellcodes, die Übersicht zu bewahren und gegebenenfalls anderen Personen, die daran arbeiten, zu informieren und bestimmte Sachverhalte zu erklären. Der Quellcode wird dabei vom Compiler nicht ausgeführt und somit bei der Programmausführung ignoriert. Um Kommentare für Quellcodes einzufügen, werden diese wie folgt gekennzeichnet: Um einzeilige Kommentare zu vermerken, werden diese durch einen Doppel-Slash (//…) kenntlich gemacht. Diese erscheinen in eclipse anschließend in grüner Farbe. Public class Hal …
@@ -4440,11 +4440,11 @@ Variablen, Konstanten und Methoden gemeint.
 #### Seite 18: Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt:
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=18>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=18]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=18>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=18]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=18]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt: ➔ Alle Anweisungen müssen mit einem Strichpunkt (Semikolon) beendet werden ➔ Der Code wird in geschwungenen Klammern {…} geschrieben ➔ Das Einrücken des Codes (Tab-Taste) ist optional ➔ Leerzeichen und Zeilenumbrüche werden in Java akzeptiert ➔ Groß- und Kleinschreibung beachten; Java unterscheidet hier! o Klassennamen werden großgeschrieben und dürfen keine Leer- oder Sonderzeichen enthalten und sollten mit einem Großbuchstaben beginnen o Objekte, Attribute und Methodennamen werden kleingeschrieben ➔ Dezimalzahlen werden durch einen Punkt getrennt ➔ Jede Variable muss vor ihrer Verwendung mit einem Datentyp deklariert wer …
@@ -4489,11 +4489,11 @@ Bezeichnern:
 #### Seite 19: Sie dürfen keine Leer-/Sonderzeichen enthalten
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=19>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=19]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=19>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=19]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=19]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > - Sie dürfen keine Leer-/Sonderzeichen enthalten - Achtung bei Groß- und Kleinschreibung; Java unterscheidet hier! - Reservierte Wörter (bspw. if, else, public…) dürfen nicht als Bezeichner verwendet werden! Ein Beispiel: Es soll ein Mitarbeiter am Rechner seines Arbeitsplatzes begrüßt werden. Da jeder Mitarbeiter logischerweise einen eigenen, individuellen Namen besitzt, kann dieser nicht standardmäßig hinterlegt werden. Aus diesem Grund wird hierfür eine Variable benötigt, um beispielsweise folgenden Text ausgeben zu lassen: „Guten Morgen {Name}, willkommen an Ihrem Arbeitsplatz.“ Um dies umsetzen zu können, wird also eine Variable „name“ benötigt („name“, da es den englischen Konventionen …
@@ -4543,11 +4543,11 @@ innerhalb von Methoden genutzt werden.
 #### Seite 22: int x, y, z;
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=22]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > int x, y, z; x = 3; y = x + z; Der Fehler liegt hier darin, dass die Variable z noch nicht initialisiert wurde. 4.4 Zugriff und Ausgaben von Variablen Bisher wurde nun eine Variable deklariert und initialisiert. In der Praxis ist es jedoch erforderlich, dass der Inhalt der Variable abgerufen wird. Dies geschieht mittels der Methode System.out.println(). Die Variable teilnehmernummer wurde in folgendem Beispiel deklariert und initialisiert. Um sie sich nun auf der Konsole (auf dem Bildschirm) anzeigen lassen zu können, muss nur der Bezeichner als sogenannter „Parameter“ in die runden Klammern der Methode geschrieben werden. int teilnehmernummer = 357; // Die Deklaration und Initialisierung er …
@@ -4597,11 +4597,11 @@ werden. Diese werden in einem späteren Kapitel genauer behandelt.
 #### Seite 23: Im folgenden Beispiel ist ersichtlich, dass eine Variable auch mehrmals benutzt
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=23>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=23]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=23>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=23]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=23]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Im folgenden Beispiel ist ersichtlich, dass eine Variable auch mehrmals benutzt werden kann. Code-Beispiel: public static void main(String[] args){ String output; output = „Hallo Chef!“; System.out.println(output); System.out.println(output); } } Der Datentyp „String“ wird hier einmalig zu Beginn angegeben, nach der Initialisierung (Anlegen der Variable) wird er nicht mehr weiter separat hingeschrieben. Bei der Initialisierung (Neuanlegen einer Variablen) muss der Datentyp nur zu Beginn hingeschrieben werden, danach nicht mehr. Class XXX public static void main(String[] args) { String output = „Hallo Chef“; System.out.println(output); output = „Hallo Kunde!“ System.out.println(output) } } Va …
@@ -4649,11 +4649,11 @@ verarbeitet werden, lassen sich folgendermaßen unterscheiden:
 #### Seite 24: Zahlen sind sogenannte numerische Daten. Diese werden dann eingesetzt,
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=24>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=24]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=24>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=24]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=24]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > - Zahlen sind sogenannte numerische Daten. Diese werden dann eingesetzt, wenn etwas berechnet, aufgezählt oder nummeriert werden soll. - Zeichen sind alphanumerische Daten - Boolesche Daten werden auch logische Daten genannt Um zu überprüfen, welche Daten zulässig sind, werden sogenannte einfache/primitive Datentypen verwendet. Ihr Unterschied liegt im zulässigen Wertebereich sowie in der Größe des jeweils benötigten Speichers. Somit wird festgelegt, welche Daten jeweils zulässig sind. Hinweis: String ist der einzige Datentyp, welcher großgeschrieben wird; alle anderen Datentypen werden kleingeschrieben. Name Größe (8 Bit = 1 Byte) Wertebereich byte 8 bit -128 bis +127 short 16 bit -32.768 b …
@@ -4700,11 +4700,11 @@ float.
 #### Seite 25: Wertebereich
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=25>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=25]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=25>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=25]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=25]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Name Größe Wertebereich float 32 Bit 1,40239846E-45 bis 3,40282347E+38 double 64 Bit 494065645841246544E-324 bis 1,79769131486231570E+308 Neben diesen Datentypen gibt es noch folgende Datentypen: Der Datentyp char beinhaltet einen Buchstaben oder ein Zeichen. Der Datentyp String umfasst Zeichenketten, in denen Texte/Zeichenketten gespeichert werden können und somit nichts anderes als eine Aneinanderreihung von Characters („chars“). Name Art Beispiel char Buchstabe, Zeichen char country = „d“; boolean Nicht definiert true/false String Text, Zeichenkette String name = „Robbi“; Eclipse erkennt dabei, wenn einer Variablen ein falscher Wert zugeteilt wurde und zeigt eine dementsprechende, rot unt …
@@ -4760,11 +4760,11 @@ In Java gibt es acht primitive Datentypen:
 #### Seite 28: 4.5.2 Verkettung von Datentypen
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 28](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=28>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=28]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 28](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=28>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=28]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=28]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 4.5.2 Verkettung von Datentypen Um eine Verkettung von Datentypen zu erreichen, muss dies mittels „+“ durchgeführt werden. Void print (){ String output = „Hallo Chef“; System.out.println(output + „!“); } Void print(){ String welcome = „Hallo“; String name = „Chef“; System.out.println(welcome + „“ + name); } Dabei muss jedoch auf Leerzeichen geachtet werden! Bei einer Verkettung von Variablen müssen dabei unbedingt die Datentypen beachtet werden, da diese für das Ergebnis entscheidend sind! Fall 1. Fall 2. Fall Code void print(){ String first = "5"; String second = "5"; System.out.println(first + second); } void print(){ int number1 = 5; int number2 = 5; System.out.println(number1 + number2); …
@@ -4824,11 +4824,11 @@ String eine Verkettung von Zeichen („Konkatenation“) erfolgt.
 #### Seite 30: int num = (int) 3.57; Hier wird eine sogeannnte explizite
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=30>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=30]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 30](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=30>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=30]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=30]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > int num = (int) 3.57; Hier wird eine sogeannnte explizite Datentypkonvertierung vorgenommen. Der Variablen num wird nun der Wert 3 zugewiesen, die beiden Dezimalstellen entfallen. Dies nennt man auch type cast. 5. Mathematische Operatoren Als Operatoren versteht man bestimmte Zeichen, die in Kombination mit Operanden verwendet werden, um einen Ausdruck zu berechnen bzw. ihn zu ermitteln: Ausdruck 1. Operand Additions-Operator 2. Operand Der Ausdruck selbst muss nicht unbedingt eine komplexe Berechnung sein. Er kann auch eine Variable oder Konstante sein. Java kennt eine Vielzahl von arithmetischen, logischen, und relationalen Operatoren. Zuweisungen bei Operatoren erfolgen durch den Zuweisun …
@@ -4874,11 +4874,11 @@ Double
 #### Seite 37: einer Klasse beliebig viele Objekte (Instanzen) erstellt werden (beispielsweise durch
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=37>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=37]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=37>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=37]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=37]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > einer Klasse beliebig viele Objekte (Instanzen) erstellt werden (beispielsweise durch die Fertigung am Band), die sich jeweils in der Ausprägung der einzelnen Eigenschaftswerte unterscheiden. 6.4.1. Objekte aus Klassen instanziieren Als Objekt bezeichnet man also eine konkrete Umsetzung einer Klasse. Objekte einer Klasse können sich dabei unterscheiden. Dies bedeutet, dass ihre Attribute andere Werte haben können. Dadurch wird der Zustand eines Objekts bestimmt. Da der Zustand eines Objekts sich auf sein Verhalten auswirkt, können sich Objekte bei unterschiedlichem Zustand folglich auch unterschiedlich verhalten. Im folgenden Beispiel ist die Klasse Robot kein Roboter, sondern nur eine Art B …
@@ -4924,11 +4924,11 @@ Objekt zur Verfügung stehen.
 #### Seite 38: 6.4. Attribute (Eigenschaften) von Klassen
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=38>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=38]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 38](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=38>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=38]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=38]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 6.4. Attribute (Eigenschaften) von Klassen Eine Klasse besteht grundsätzlich aus Attributen und Methoden. Attribute definieren Eigenschaften von Objekten, Methoden hingegen legen das Verhalten fest. Diese Attribute stellen somit die Merkmale eines Objekts dar. Die gesamten Objekte einer Klasse besitzen die gleichen Attribute, allerdings unterscheiden sich hierbei die Werte der Attribute. Mit Hilfe von Methoden kann auf Attribute kann ein Lesen oder eine Veränderung von Attributen vorgenommen werden. Der Zustand (state) eines Objekts wird durch Attribute beschrieben. Attribute werden dabei innerhalb der Klasse definiert, wobei alle Objekte einer Klasse die gleichen Attribute besitzen. Im Code …
@@ -4977,11 +4977,11 @@ public static void main (String[] args) {
 #### Seite 46: 6.5.5.1 Parameter
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=46>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=46]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=46>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=46]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=46]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 6.5.5.1 Parameter Als Parameter versteht man Variablen von Methoden, die beim Aufruf der Methode befüllt werden und die zur Erfüllung der Aufgabe der Methode nötig sind. Die Syntax lautet allgemein: <Datentyp> <Methodenbezeichner> (<Datentyp> <Parameterbezeichner>) Der Zugriff erfolgt dabei innerhalb der Methode mit Hilfe des Parameterbezeichners. 6.5.3.1 Methoden mit Parametern Beide Arten von Methoden (also Prozeduren und Funktionen) können Parameter verlangen bzw. übergeben bekommen. Beispiel: public class HalloEIT10 { public static void main(String[] args) { sayHello(„Patrick“); } public static void sayHello(String name){ System.out.println(„Hallo“ + name); System.out.println(„Willkommen …
@@ -5027,11 +5027,11 @@ Im blauen Kasten wird die Methode aufgerufen.
 #### Seite 48: Wird es nun ausgeführt, erhält man auf der Konsole folgenden Text:
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wird es nun ausgeführt, erhält man auf der Konsole folgenden Text: Hallo Patrick Willkommen in der Klasse! Der Vorteil ist, wie bereits erwähnt, dass diese Methode nun immer wieder aufgerufen und dies auch mit unterschiedlichen Parametern ausgeführt werden kann. 7. Kontrollstrukturen 7.1 Verzweigungen 7.1.1 Verzweigungen Bei einer Verzweigung wird eine Auswahl zwischen zwei Szenarien getroffen. Verzweigungen ermöglichen es dabei, abhängig von Bedingungen (bedingte Anweisung), unterschiedliche Code-Teil auszuführen. Bei einer einseitigen Verzweigung wird überprüft, ob es bei einer Erfüllung einer Bedingung zu einer Ausführung oder zu einem Überspringen eines Teils eines Programms kommt oder n …
@@ -5079,11 +5079,11 @@ bestimmte Bedingung erfüllt ist. Der Ausdruck muss dabei einen Wert vom Datenty
 #### Seite 51: 7.1.1.3 Logische Operatoren
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 51](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=51>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=51]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 51](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=51>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=51]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=51]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=51]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 7.1.1.3 Logische Operatoren Es ist oft erforderlich, dass nicht nur eine, sondern mehrere Bedingungen erfüllt werden müssen. Um dies abbilden zu können, werden sogenannte logische Operatoren benötigt. Im Bereich der logischen Operatoren stößt man immer wieder auf die sogenannte „Negation“, was bedeutet, dass der Wahrheitswert getauscht bzw. umgedreht („invertiert“) wird. Das Symbol hierfür ist das Ausrufezeichen „!“. Das Ergebnis ist also wahr, wenn der Ausdruck falsch ist. Dies klingt zu Beginn verwirrend, soll aber mittels der Grafik deutlicher werden: A A! Falsch Wahr Wahr Falsch In folgender Tabelle sind die wichtigsten logischen Operatoren aufgeführt: Operator Name Bedeutung Beispiel ! …
@@ -5154,11 +5154,11 @@ false ^ false -> false
 #### Seite 52: Bei primitiven Datentypen (beispielsweise int, float, double) vergleicht man mit "==",
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 52](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=52>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=52]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 52](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=52>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=52]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=52]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=52]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Bei primitiven Datentypen (beispielsweise int, float, double) vergleicht man mit "==", Referenztypen (z. B. Strings) jedoch mit .equals(). Beispiel: String engagement = „hoch“; if (engagement.equals („hoch“)){ System.out.println(„Lobenswert!“) 7.1.1.3.1 Logisches NICHT Aufgabe des NICHT-Operators ist es, Bedingungen abzulehnen (negieren) und somit Aussagen umzudrehen. Dadurch kann überprüft werden, ob eine Bedingung nicht erfüllt wird. boolean tired = false; if(!tired){ System.out.println(„Du darfst weiterarbeiten!“); } 7.1.1.3.2 Logisches UND Es können also auch Bedingungen mit den Operatoren verknüpft werden. Bei dem Operator „UND“ ist dabei wichtig, dass zwei Bedingungen erfüllt sein müss …
@@ -5202,11 +5202,11 @@ System.out.println("a und b sind gleich!");
 #### Seite 53: 7.1.1.3.3 Logisches ODER
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 53](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=53>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=53]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 53](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=53>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=53]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=53]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=53]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > } 7.1.1.3.3 Logisches ODER Bei dem Operator „ODER“ ist wichtig, dass mindestens eine von zwei Bedingungen erfüllt sein muss. Dies wird mittels des Symbols „| |“ dargestellt. Das Ergebnis ist dementsprechend wahr, wenn mindestens ein Ausdruck wahr ist. Der ODER-Operator verknüpft, ähnlich wie der UND-Operator, auch zwei Bedingungen miteinander. Allerdings ist es beim ODER-Operator ausreichend, dass nur eine der beiden Teilbedingungen erfüllt sein muss, damit true geliefert wird. boolean cash = true; boolean creditCard = false; if(cash == true) || creditCard == true) { System.out.println(„Du darfst bei uns einkaufen!“); } 7.1.1.4 Ausführungsreihenfolge Es kommt immer wieder vor, dass die genan …
@@ -5250,11 +5250,11 @@ wird die sogenannte if-else-Verzweigung verwendet. Sollte die if-Bedingung ein
 #### Seite 54: „false“ zurückgeben, werden statt der if-Bedingung die Befehle, die nach else in
 
 > [!referenz] Exakte Referenz
-> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 54](<../../../../99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=54>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=54]]`
+> - PDF: [02_Unternehmenswiki-5.Block.pdf Seite 54](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=54>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=54]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=54]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=54]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > „false“ zurückgeben, werden statt der if-Bedingung die Befehle, die nach else in den Klammern stehen, ausgeführt. Auf Deutsch könnte man dies mit „entweder-oder“ übersetzen. Hinter „else“ stehen dabei keine runden Klammern ()! Die Bedingung wird auch hier hinter if in runden Klammern geschrieben. Zwischen den geschweiften Klammern steht, was passieren soll, wenn die Bedingung erfüllt ist. Nach else steht in geschweiften Klammern, was passieren soll, wenn die Bedingung nicht erfüllt ist. Wichtig: Entweder es wird die if-Bedingung oder die else-Bedingung ausgeführt, niemals werden aber die Befehle beider Bedingungen ausgeführt! if (Bedingung) { // Anweisung } else { // Andere Anweisungen } Zus …
@@ -5297,11 +5297,11 @@ Ampelschaltung der Fall, bei der als Fahrer zuerst geprüft, ob die Ampel grün 
 #### Seite 1: 1. Begriffe
 
 > [!referenz] Exakte Referenz
-> - PDF: [Lernzettel_260210_092824.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=1]]`
+> - PDF: [Lernzettel_260210_092824.pdf Seite 1](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=1]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 1. Begriffe ‘+ IDE (Integrated Development Environment): Programmiersammlung (Editor, Compiler, Debugger, Projektverwaltung). Hilft bei wiederkehrenden Aufgaben. Bsp.: Eclipse. ‘+ JDK (Java Development Kit): „Werkzeugkasten“. Zwingend nötig zum Entwickeln und Kompilieren. Enthält Compiler + JRE. = JRE (Java Runtime Environment): Laufzeitumgebung. Nötig zum Ausführen fertiger Programme. Enthält JVM. ‘+ API (Application Programming Interface): Schnittstelle. Verbindet Soft-/ Hardwarekomponenten, erleichtert Datenaustausch. + Editor: Erstellung Quellcode (.java). Mensch lesbar, Computer nicht. ‘= Compiler (javac): Übersetzt Quellcode vor Ausführung in Bytecode. Prüft Syntax. ‘+ Bytecode (.class …
@@ -5337,11 +5337,11 @@ N t ‘
 #### Seite 2: 2. Kommentare, Main-Methode, Syntax
 
 > [!referenz] Exakte Referenz
-> - PDF: [Lernzettel_260210_092824.pdf Seite 2](<../../../../99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=2]]`
+> - PDF: [Lernzettel_260210_092824.pdf Seite 2](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=2]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 2. Kommentare, Main-Methode, Syntax Kommentare (werden vom Compiler ignoriert) © Einzeilig: // Das ist Kommentar + Mehrzeilig: /* ...*/ _Main-Methode * Signatur: public static void main(String|] args). * Funktion: Startpunkt jeder Java-Anwendung. * public: Offentlich/Zugriff von außen. • static: Ohne Objekt-Erzeugung ausführbar. + void: Kein Rückgabewert. Syntax (Schreibregeln) * Case-sensitive: Groß-/Kleinschreibung wird unterschieden. * Abschluss: Jede Anweisung endet mit Semikolon ;. * Blöcke: Code steht in geschweiften Klammern {}. + Namenskonvention: Klassen groß (Robot), Variablen/Methoden klein (name). 3. Datentypen Primitive Datentypen + boolean: Wahrheitswerte (true, false) • char: …
@@ -5384,11 +5384,11 @@ Komplexe Datentypen
 #### Seite 4: 1. Begriffe
 
 > [!referenz] Exakte Referenz
-> - PDF: [Lernzettel_260210_092824.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=4]]`
+> - PDF: [Lernzettel_260210_092824.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=4]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 1. Begriffe + IDE (Integrated Development Environment): Programmiersammlung (Editor, Compiler, Debugger, Projektverwaltung). Hilft bei wiederkehrenden Aufgaben. Bsp.: Eclipse. = JDK (Java Development Kit): „Werkzeugkasten“. Zwingend nötig zum Entwickeln und Kompilieren. Enthält Compiler + JRE. = JRE (Java Runtime Environment): Laufzeitumgebung. Nötig zum Ausführen fertiger Programme. Enthält JVM. = API (Application Programming Interface): Schnittstelle. Verbindet Soft-/ Hardwarekomponenten, erleichtert Datenaustausch. » Editor: Erstellung Quellcode (.java). Mensch lesbar, Computer nicht. ‘+ Compiler (javac): Übersetzt Quellcode vor Ausführung in Bytecode. Prüft Syntax. ‘+ Bytecode (.class): …
@@ -5533,11 +5533,11 @@ void getName() { }
 #### Seite 3: Unternehmenswiki
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=3]]`
+> - PDF: [Wiki.pdf Seite 3](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=3]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Unternehmenswiki Inhaltsverzeichnis 1. Java ........................................................................................................................ 2 1.1. Vorstellung von Java ........................................................................................ 2 1.2. Wichtige Begriffe in Java .................................................................................. 2 IDE ....................................................................................................................... 2 Java Development Kit .......................................................................................... 3 API ........................................................ …
@@ -5574,11 +5574,11 @@ Funktionsweise und Verarbeitung des Codes in Java...............................
 #### Seite 4: 3. Syntax ................................................................................ …
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=4]]`
+> - PDF: [Wiki.pdf Seite 4](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=4]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 3. Syntax ................................................................................................................... 16 1. Java 1.1. Vorstellung von Java Java ist eine sogenannte objektorientierte Programmiersprache, die sich durch einige zentrale Eigenschaften auszeichnet. Diese machen sie universell einsetzbar und für die Industrie als robuste Programmiersprache interessant. Da Java objektorientiertes Programmieren ermöglicht, können Entwickler moderne und wiederverwertbare Softwarekomponenten programmieren. Heute ist Java die Basis sehr erfolgreicher Produkte. Dazu zählen Facebook, LinkedIn, Twitter, Amazon, eBay. Auf der Client- Seite ist Java seltener zu finden, das Spiel Minec …
@@ -5620,11 +5620,11 @@ environment) ist eine Sammlung von Computerprogrammen und stellen hilfreiche
 #### Seite 5: Werkzeuge bereit, die dem Softwareentwickler häufig wiederkehrende Aufgaben
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=5]]`
+> - PDF: [Wiki.pdf Seite 5](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=5]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Werkzeuge bereit, die dem Softwareentwickler häufig wiederkehrende Aufgaben abnehmen, einen schnellen Zugriff auf einzelne Funktionen bieten, mit denen die Arbeits(zwischen)ergebnisse verwaltet und in spätere Bearbeitungsfunktionen direkt überführt werden können. Eine IDE enthält normalerweise den Editor für Quelltexte, die Möglichkeit zur Verwaltung von Projekten, einen Compiler sowie einen Debugger. Dieser Debugger hilft dabei, um beispielsweise Logikfehler in der Programmierung aufzuspüren. Das Programm Eclipse wäre ein Beispiel für eine IDE. Java Development Kit Um selbst Programme für Java entwickeln und kompilieren zu können, benötigt man das sogenannte Java Development Kit (JDK). API …
@@ -5672,11 +5672,11 @@ Bytecode-Datei vorliegt, dann verarbeitet der Compiler B automatisch mit.
 #### Seite 6: Bytecode
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=6]]`
+> - PDF: [Wiki.pdf Seite 6](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=6]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Bytecode Der Bytecode ist in der Informatik eine Sammlung von Befehlen für eine virtuelle Maschine. Bei Kompilierung eines Quelltextes mancher Programmiersprachen oder Umgebungen – wie beispielsweise Java – wird nicht direkt Maschinencode, sondern ein Zwischencode, der Bytecode, erstellt. Java Virtual Machine Java Virtual Machine (JVM) ist eine Software, die zur Ausführung von Java- Programmen benötigt wird und Bestandteil der Java Runtime Environment (JRE) ist. Im Gegensatz zu Java-Programmen selbst ist die JVM nicht plattformunabhängig, sondern ein natives Programm für die jeweilige Zielplattform. Zusammenfassung der Virtuellen Maschine: In Java wird durch den Compiler aus dem Quelltext ei …
@@ -5722,11 +5722,11 @@ vorgenommen.
 #### Seite 7: Es gibt dabei, je nach gewählter Programmiersprache, Möglichkeiten zur Übersetzung:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=7]]`
+> - PDF: [Wiki.pdf Seite 7](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=7]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Es gibt dabei, je nach gewählter Programmiersprache, Möglichkeiten zur Übersetzung: Komplette Übersetzung bei der Programmausführung mit einem sogenannten Interpreter Ein Interpreter übersetzt dabei, während das Programm läuft, den Quelltext in die Maschinensprache. Dabei wird jede Zeile abgearbeitet und auf syntaktische Fehler geprüft, was unter Umständen sehr lange dauert. Komplette Übersetzung bei der Programmerstellung mit einem Compiler Ein Compiler wandelt im Gegensatz zum Interpreter bereits vor der Laufzeit den Quelltext in Maschinenbefehle um. Dies geschieht allerdings ohne die Ausführung der Befehle, jedoch mit Überprüfung der Korrektheit der Syntax. Zweistufe Übersetzung 1. Überse …
@@ -5763,11 +5763,11 @@ Grafik soll dies noch einmal verdeutlichen:
 #### Seite 8: Quelle: In Anlehnung an https://miro.medium.com/max/549/1*cvCmPzIDxzSs-YhR0iHs4g.jpeg
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 8](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=8]]`
+> - PDF: [Wiki.pdf Seite 8](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=8]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Quelle: In Anlehnung an https://miro.medium.com/max/549/1*cvCmPzIDxzSs-YhR0iHs4g.jpeg Was nun sehr umständlich erscheint, hat den Vorteil, dass ein einmal kompiliertes Java-Programm unter jedem von Java unterstützen Betriebssystem ausgeführt werden kann. Im Gegensatz dazu wären EXE-Dateien nur auf die Windows-Welt beschränkt. Java nutzt Mischform aus Interpretation und Kompilation als Kompromiss: • Java-Compiler übersetzt Quelltext in einen portablen (plattformunabhängigen) Bytecode. Im Anschluss erfolgt die Ausführung des Bytecodes durch die Java Virtual Machine (JVM) auf dem jeweiligen Betriebssystem. 2. Der Programmcode in java 2.1. Verwendung von eclipse und das erste Programm Für die Pr …
@@ -5801,11 +5801,11 @@ Mac
 #### Seite 12: 2.2 Einbindung von LegoMindstorm
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=12]]`
+> - PDF: [Wiki.pdf Seite 12](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=12]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 2.2 Einbindung von LegoMindstorm 2.2.1. Vorstellung von LegoMindstorm Um den Unterricht praxisnaher zu gestalten und das jeweilige Ergebnis nicht nur auf der Konsole auf dem Bildschirm anzeigen zu lassen, wird im Unterricht mit LegoMindstorm-Robotern gearbeitet. Diese sind bereits zusammengebaut und bieten diverse Möglichkeiten, um den ausgeführten Code anschaulicher wirken zu lassen. 2.2.1. Anbindung von LegoMindstorm Der Rechner kann mit dem Roboter unterschiedlich verbunden werden (z. B. Bluetooth, USB oder Wifi). Anschließend werden die Programme mittels einer Entwicklungsumgebung (z. B. Eclipse) auf den Roboter übertragen und ausgeführt. Hier die Vorgehensweise, um den Roboter mit dem R …
@@ -5836,11 +5836,11 @@ mit Apply bestätigt!
 #### Seite 16: Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 16](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=16>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=16]]`
+> - PDF: [Wiki.pdf Seite 16](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=16>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=16]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=16]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den Mindstorm-Roboter oder über die Konsole auf dem Bildschirm ausgegeben werden soll. 2.3 Begriffe des ersten Programms Im vorherigen Kapitel wurde das erste Programm geschrieben, ausgeführt und dabei viele neue Begriffe verwendet. Im Folgenden soll nun auf die Bedeutung der Begriffe eingegangen werden: Public class HalloEIT10{ Public static void main(String[] args) { System.out.println(„Hallo EIT10!“); } } Das Schlüsselwort class leitet den Code für eine Klasse ein. Eine Klasse ist ein abgeschlossener Code-Bereich. Dies wird später noch im Kapitel „Objektorientierte Programmierung“ genauer erläutert. Auf class folgt der …
@@ -5880,11 +5880,11 @@ Methode mit der Signatur "public static void main(String args[])"
 #### Seite 18: Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=18>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=18]]`
+> - PDF: [Wiki.pdf Seite 18](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=18>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=18]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=18]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede Anweisung (Befehl an den Computer) damit endet! 2.4 Kommentare in Java Kommentare helfen, vor allem bei längeren Quellcodes, die Übersicht zu bewahren und gegebenenfalls anderen Personen, die daran arbeiten, zu informieren und bestimmte Sachverhalte zu erklären. Der Quellcode wird dabei vom Compiler nicht ausgeführt und somit bei der Programmausführung ignoriert. Um Kommentare für Quellcodes einzufügen, werden diese wie folgt gekennzeichnet: Um einzeilige Kommentare zu vermerken, werden diese durch einen Doppel-Slash (//…) kenntlich gemacht. Diese erscheinen in eclipse anschließend in grüner Farbe. Public class Hal …
@@ -5925,11 +5925,11 @@ Variablen, Konstanten und Methoden gemeint.
 #### Seite 19: Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=19>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=19]]`
+> - PDF: [Wiki.pdf Seite 19](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=19>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=19]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=19]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt:  Alle Anweisungen müssen mit einem Strichpunkt (Semikolon) beendet werden  Der Code wird in geschwungenen Klammern {…} geschrieben  Das Einrücken des Codes (Tab-Taste) ist optional  Leerzeichen und Zeilenumbrüche werden in Java akzeptiert  Groß- und Kleinschreibung beachten; Java unterscheidet hier! o Klassennamen werden großgeschrieben und dürfen keine Leer- oder Sonderzeichen enthalten und sollten mit einem Großbuchstaben beginnen o Objekte, Attribute und Methodennamen werden kleingeschrieben  Dezimalzahlen werden durch einen Punkt getrennt  Jede Variable muss vor ihrer Verwendung mit einem Datentyp deklariert wer …
@@ -5958,11 +5958,11 @@ ist am Ende dieser Datei ersichtlich
 #### Seite 20: Unternehmenswiki
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=20]]`
+> - PDF: [Wiki.pdf Seite 20](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=20]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Unternehmenswiki Inhaltsverzeichnis 1. Java ........................................................................................................................ 2 1.1. Vorstellung von Java ........................................................................................ 2 1.2. Wichtige Begriffe in Java .................................................................................. 3 IDE ....................................................................................................................... 3 Java Development Kit .......................................................................................... 3 API ........................................................ …
@@ -5999,11 +5999,11 @@ Funktionsweise und Verarbeitung des Codes in Java...............................
 #### Seite 21: 3. Syntax ................................................................................ …
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 21](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=21>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=21]]`
+> - PDF: [Wiki.pdf Seite 21](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=21>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=21]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=21]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 3. Syntax ................................................................................................................... 16 4. Variablen und die verschiedenen Datentypen ...................................................... 17 4.1 Definition von Variablen .................................................................................. 17 4.2 Deklaration von Variablen ............................................................................... 19 4.3 Initialisierung von Variablen............................................................................. 20 4.4 Zugriff und Ausgaben von Variablen ............................................................... 21 4.5 Datentypen .... …
@@ -6044,11 +6044,11 @@ Der Bytecode hat somit folgende Eigenschaften:
 #### Seite 22: ➔ Er unterscheidet sich nicht für verschiedene Plattformen (bspw.
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=22>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=22]]`
+> - PDF: [Wiki.pdf Seite 22](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=22>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=22]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=22]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ➔ Er unterscheidet sich nicht für verschiedene Plattformen (bspw. Windows/Linux) ➔ Er kann nicht direkt ausgeführt werden; er benötigt einen Interpreter Der Interpreter ist plattformunabhängig und ist in der Lage, den Bytecode auf der jeweiligen Plattform wie beispielsweise Windows oder Linux auszuführen. Der Java- Interpreter wird auch virtuelle Maschine genannt. Daneben existiert noch eine Reihe weiterer Begriffe, die im folgenden Kapitel erklärt werden. 1.2. Wichtige Begriffe in Java IDE Eine integrierte Entwicklungsumgebung (IDE, von englisch integrated development environment) ist eine Sammlung von Computerprogrammen und stellen hilfreiche Werkzeuge bereit, die dem Softwareentwickler hä …
@@ -6101,11 +6101,11 @@ https://docs.oracle.com/javase/7/docs/api/ hinterlegt.
 #### Seite 23: Der Java-Editor ist ein Editor zum Programmieren mit der Programmiersprache Java
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=23>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=23]]`
+> - PDF: [Wiki.pdf Seite 23](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=23>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=23]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=23]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Editor Der Java-Editor ist ein Editor zum Programmieren mit der Programmiersprache Java unter Windows. Der Java-Editor ermöglicht das Modellieren von Klassen durch grafische Bedienelemente und in einer UML-Ansicht sowie das Gestalten von grafischen Oberflächen (GUIs) und interaktives Erzeugen von Objekten. Compiler Der Compiler javac übersetzt den Quellcode einer Datei in Java-Bytecode. Jede in einer Datei deklarierte Klasse übersetzt der Compiler in eine eigene Klassendatei. Wenn bei einer Klasse (nennen wir sie A) eine Abhängigkeit zu einer anderen Klasse (nennen wir sie B) besteht – wenn zum Beispiel A von B erbt – und B nicht als Bytecode-Datei vorliegt, dann verarbeitet der Compiler B a …
@@ -6147,11 +6147,11 @@ Java-Bytecode übersetzt.
 #### Seite 24: Funktionsweise und Verarbeitung des Codes in Java
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=24>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=24]]`
+> - PDF: [Wiki.pdf Seite 24](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=24>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=24]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=24]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Funktionsweise und Verarbeitung des Codes in Java Um ein Programm zu erstellen, wird dies üblicherweise mittels eines Quelltextes gemacht. Dazu benötigt man einen Editor, der beispielsweise standardmäßig von Windows geliefert oder Notepad++, was weitere Funktionen bietet. Eine Ausführung dieses Quelltextes durch den PC ist aber so noch nicht möglich. Bisher schreiben wir unsere Programme als Java-Qellcode in der Entwicklungsumgebung Eclipse und lassen dann anschließend die Befehle ausführen. Diesen Quellcode selbst kann der Computer aber nicht „lesen“, da er nur 0 und 1 kennt. Mit Hilfe des grünen Run-Buttons wird also zunächst eine Übersetzung des Quellcodes in eine für den Computer verstän …
@@ -6202,11 +6202,11 @@ Diese Interpreter werden auch virtuelle Maschinen (JVM) genannt.
 #### Seite 25: Die zweistufige Übersetzung kommt im Bereich Java zum Tragen. Die folgende
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=25>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=25]]`
+> - PDF: [Wiki.pdf Seite 25](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=25>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=25]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=25]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Die zweistufige Übersetzung kommt im Bereich Java zum Tragen. Die folgende Grafik soll dies noch einmal verdeutlichen: Quelle: In Anlehnung an https://miro.medium.com/max/549/1*cvCmPzIDxzSs-YhR0iHs4g.jpeg Was nun sehr umständlich erscheint, hat den Vorteil, dass ein einmal kompiliertes Java-Programm unter jedem von Java unterstützen Betriebssystem ausgeführt Java - Code Compiler Byte - Code JVM JVM JVM Windows Linux Mac
@@ -6234,11 +6234,11 @@ Mac
 #### Seite 26: werden kann. Im Gegensatz dazu wären EXE-Dateien nur auf die Windows-Welt
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=26>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=26]]`
+> - PDF: [Wiki.pdf Seite 26](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=26>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=26]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=26]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > werden kann. Im Gegensatz dazu wären EXE-Dateien nur auf die Windows-Welt beschränkt. Java nutzt Mischform aus Interpretation und Kompilation als Kompromiss: • Java-Compiler übersetzt Quelltext in einen portablen (plattformunabhängigen) Bytecode. Im Anschluss erfolgt die Ausführung des Bytecodes durch die Java Virtual Machine (JVM) auf dem jeweiligen Betriebssystem. 2. Der Programmcode in java 2.1. Verwendung von eclipse und das erste Programm Für die Praxisbeispiele wird die Software eclipse verwendet. Im Folgenden soll nun das erste Programm damit umgesetzt werden: Dazu muss zunächst ein neues Projekt angelegt werden. Dies erfolgt über „File“ – „New“ – „Java Project“. Im Anschluss muss ein …
@@ -6265,11 +6265,11 @@ Im Anschluss muss ein Name für das Projekt vergeben werden. Im Beispiel wird di
 #### Seite 29: Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 29](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=29>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=29]]`
+> - PDF: [Wiki.pdf Seite 29](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=29>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=29]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=29]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Geben Sie diesen Code exakt so ein. Dies bezieht sich auch auf die Klammern und Strichpunkte („Semikolon“). Nun kann der Code mittels des grünen Run-Buttons ausgeführt werden. In der Konsole wird nun folgendes ausgegeben: Somit wurde das erste Programm geschrieben und auch ausgeführt. 2.2 Einbindung von LegoMindstorm 2.2.1. Vorstellung von LegoMindstorm Um den Unterricht praxisnaher zu gestalten und das jeweilige Ergebnis nicht nur auf der Konsole auf dem Bildschirm anzeigen zu lassen, wird im Unterricht mit LegoMindstorm-Robotern gearbeitet. Diese sind bereits zusammengebaut und bieten diverse Möglichkeiten, um den ausgeführten Code anschaulicher wirken zu lassen. 2.2.1. Anbindung von LegoM …
@@ -6302,11 +6302,11 @@ verbinden, müssen nun folgende Schritte beachtet werden:
 #### Seite 33: Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=33>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=33]]`
+> - PDF: [Wiki.pdf Seite 33](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=33>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=33]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=33]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Im folgenden Fenster soll nun ausgewählt werden, ob das Programm über den Mindstorm-Roboter oder über die Konsole auf dem Bildschirm ausgegeben werden soll. 2.3 Begriffe des ersten Programms Im vorherigen Kapitel wurde das erste Programm geschrieben, ausgeführt und dabei viele neue Begriffe verwendet. Im Folgenden soll nun auf die Bedeutung der Begriffe eingegangen werden: Public class HalloEIT10{ Public static void main(String[] args) { System.out.println(„Hallo EIT10!“); } } Das Schlüsselwort class leitet den Code für eine Klasse ein. Eine Klasse ist ein abgeschlossener Code-Bereich. Dies wird später noch im Kapitel „Objektorientierte Programmierung“ genauer erläutert. Auf class folgt der …
@@ -6346,11 +6346,11 @@ Methode mit der Signatur "public static void main(String args[])"
 #### Seite 35: Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 35](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=35>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=35]]`
+> - PDF: [Wiki.pdf Seite 35](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=35>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=35]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=35]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wichtig ist, diese Anweisung per Strichpunkt („Semikolon“) zu setzen, da jede Anweisung (Befehl an den Computer) damit endet! 2.4 Kommentare in Java Kommentare helfen, vor allem bei längeren Quellcodes, die Übersicht zu bewahren und gegebenenfalls anderen Personen, die daran arbeiten, zu informieren und bestimmte Sachverhalte zu erklären. Der Quellcode wird dabei vom Compiler nicht ausgeführt und somit bei der Programmausführung ignoriert. Um Kommentare für Quellcodes einzufügen, werden diese wie folgt gekennzeichnet: Um einzeilige Kommentare zu vermerken, werden diese durch einen Doppel-Slash (//…) kenntlich gemacht. Diese erscheinen in eclipse anschließend in grüner Farbe. Public class Hal …
@@ -6401,11 +6401,11 @@ Variablen, Konstanten und Methoden gemeint.
 #### Seite 36: Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 36](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=36>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=36]]`
+> - PDF: [Wiki.pdf Seite 36](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=36>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=36]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=36]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Im Folgenden werden grundlegende syntaktische Grundregeln aufgeführt: ➔ Alle Anweisungen müssen mit einem Strichpunkt (Semikolon) beendet werden ➔ Der Code wird in geschwungenen Klammern {…} geschrieben ➔ Das Einrücken des Codes (Tab-Taste) ist optional ➔ Leerzeichen und Zeilenumbrüche werden in Java akzeptiert ➔ Groß- und Kleinschreibung beachten; Java unterscheidet hier! o Klassennamen werden großgeschrieben und dürfen keine Leer- oder Sonderzeichen enthalten und sollten mit einem Großbuchstaben beginnen o Objekte, Attribute und Methodennamen werden kleingeschrieben ➔ Dezimalzahlen werden durch einen Punkt getrennt ➔ Jede Variable muss vor ihrer Verwendung mit einem Datentyp deklariert wer …
@@ -6450,11 +6450,11 @@ Bezeichnern:
 #### Seite 37: Sie dürfen keine Leer-/Sonderzeichen enthalten
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=37>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=37]]`
+> - PDF: [Wiki.pdf Seite 37](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=37>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=37]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=37]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > - Sie dürfen keine Leer-/Sonderzeichen enthalten - Achtung bei Groß- und Kleinschreibung; Java unterscheidet hier! - Reservierte Wörter (bspw. if, else, public…) dürfen nicht als Bezeichner verwendet werden! Ein Beispiel: Es soll ein Mitarbeiter am Rechner seines Arbeitsplatzes begrüßt werden. Da jeder Mitarbeiter logischerweise einen eigenen, individuellen Namen besitzt, kann dieser nicht standardmäßig hinterlegt werden. Aus diesem Grund wird hierfür eine Variable benötigt, um beispielsweise folgenden Text ausgeben zu lassen: „Guten Morgen {Name}, willkommen an Ihrem Arbeitsplatz.“ Um dies umsetzen zu können, wird also eine Variable „name“ benötigt („name“, da es den englischen Konventionen …
@@ -6504,11 +6504,11 @@ innerhalb von Methoden genutzt werden.
 #### Seite 40: int x, y, z;
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=40>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=40]]`
+> - PDF: [Wiki.pdf Seite 40](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=40>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=40]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=40]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > int x, y, z; x = 3; y = x + z; Der Fehler liegt hier darin, dass die Variable z noch nicht initialisiert wurde. 4.4 Zugriff und Ausgaben von Variablen Bisher wurde nun eine Variable deklariert und initialisiert. In der Praxis ist es jedoch erforderlich, dass der Inhalt der Variable abgerufen wird. Dies geschieht mittels der Methode System.out.println(). Die Variable teilnehmernummer wurde in folgendem Beispiel deklariert und initialisiert. Um sie sich nun auf der Konsole (auf dem Bildschirm) anzeigen lassen zu können, muss nur der Bezeichner als sogenannter „Parameter“ in die runden Klammern der Methode geschrieben werden. int teilnehmernummer = 357; // Die Deklaration und Initialisierung er …
@@ -6558,11 +6558,11 @@ werden. Diese werden in einem späteren Kapitel genauer behandelt.
 #### Seite 41: Im folgenden Beispiel ist ersichtlich, dass eine Variable auch mehrmals benutzt
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=41>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=41]]`
+> - PDF: [Wiki.pdf Seite 41](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=41>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=41]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=41]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Im folgenden Beispiel ist ersichtlich, dass eine Variable auch mehrmals benutzt werden kann. Code-Beispiel: public static void main(String[] args){ String output; output = „Hallo Chef!“; System.out.println(output); System.out.println(output); } } Der Datentyp „String“ wird hier einmalig zu Beginn angegeben, nach der Initialisierung (Anlegen der Variable) wird er nicht mehr weiter separat hingeschrieben. Bei der Initialisierung (Neuanlegen einer Variablen) muss der Datentyp nur zu Beginn hingeschrieben werden, danach nicht mehr. Class XXX public static void main(String[] args) { String output = „Hallo Chef“; System.out.println(output); output = „Hallo Kunde!“ System.out.println(output) } } Va …
@@ -6610,11 +6610,11 @@ verarbeitet werden, lassen sich folgendermaßen unterscheiden:
 #### Seite 42: Zahlen sind sogenannte numerische Daten. Diese werden dann eingesetzt,
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 42](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=42>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=42]]`
+> - PDF: [Wiki.pdf Seite 42](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=42>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=42]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=42]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > - Zahlen sind sogenannte numerische Daten. Diese werden dann eingesetzt, wenn etwas berechnet, aufgezählt oder nummeriert werden soll. - Zeichen sind alphanumerische Daten - Boolesche Daten werden auch logische Daten genannt Um zu überprüfen, welche Daten zulässig sind, werden sogenannte einfache/primitive Datentypen verwendet. Ihr Unterschied liegt im zulässigen Wertebereich sowie in der Größe des jeweils benötigten Speichers. Somit wird festgelegt, welche Daten jeweils zulässig sind. Hinweis: String ist der einzige Datentyp, welcher großgeschrieben wird; alle anderen Datentypen werden kleingeschrieben. Name Größe (8 Bit = 1 Byte) Wertebereich byte 8 bit -128 bis +127 short 16 bit -32.768 b …
@@ -6661,11 +6661,11 @@ float.
 #### Seite 43: Wertebereich
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 43](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=43>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=43]]`
+> - PDF: [Wiki.pdf Seite 43](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=43>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=43]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=43]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Name Größe Wertebereich float 32 Bit 1,40239846E-45 bis 3,40282347E+38 double 64 Bit 494065645841246544E-324 bis 1,79769131486231570E+308 Neben diesen Datentypen gibt es noch folgende Datentypen: Der Datentyp char beinhaltet einen Buchstaben oder ein Zeichen. Der Datentyp String umfasst Zeichenketten, in denen Texte/Zeichenketten gespeichert werden können und somit nichts anderes als eine Aneinanderreihung von Characters („chars“). Name Art Beispiel char Buchstabe, Zeichen char country = „d“; boolean Nicht definiert true/false String Text, Zeichenkette String name = „Robbi“; Eclipse erkennt dabei, wenn einer Variablen ein falscher Wert zugeteilt wurde und zeigt eine dementsprechende, rot unt …
@@ -6721,11 +6721,11 @@ In Java gibt es acht primitive Datentypen:
 #### Seite 46: 4.5.2 Verkettung von Datentypen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=46>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=46]]`
+> - PDF: [Wiki.pdf Seite 46](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=46>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=46]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=46]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 4.5.2 Verkettung von Datentypen Um eine Verkettung von Datentypen zu erreichen, muss dies mittels „+“ durchgeführt werden. Void print (){ String output = „Hallo Chef“; System.out.println(output + „!“); } Void print(){ String welcome = „Hallo“; String name = „Chef“; System.out.println(welcome + „“ + name); } Dabei muss jedoch auf Leerzeichen geachtet werden! Bei einer Verkettung von Variablen müssen dabei unbedingt die Datentypen beachtet werden, da diese für das Ergebnis entscheidend sind! Fall 1. Fall 2. Fall Code void print(){ String first = "5"; String second = "5"; System.out.println(first + second); } void print(){ int number1 = 5; int number2 = 5; System.out.println(number1 + number2); …
@@ -6785,11 +6785,11 @@ String eine Verkettung von Zeichen („Konkatenation“) erfolgt.
 #### Seite 48: int num = (int) 3.57; Hier wird eine sogeannnte explizite
 
 > [!referenz] Exakte Referenz
-> - PDF: [Wiki.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=48>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=48]]`
+> - PDF: [Wiki.pdf Seite 48](<../../../../99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=48>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=48]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=48]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > int num = (int) 3.57; Hier wird eine sogeannnte explizite Datentypkonvertierung vorgenommen. Der Variablen num wird nun der Wert 3 zugewiesen, die beiden Dezimalstellen entfallen. Dies nennt man auch type cast. Byte Short Int Long Float Double
@@ -6818,7 +6818,7 @@ Double
 - Frage:: Was ist der Kernpunkt zu **Im folgenden Beispiel** laut Quelle?
 - Antwort:: Im folgenden Beispiel ist ersichtlich, dass eine Variable auch mehrmals benutzt werden kann.
 - Beleg:: Im folgenden Beispiel ist ersichtlich, dass eine Variable auch mehrmals benutzt werden kann.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23|02_Unternehmenswiki-4.Block S. 23]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23|02_Unternehmenswiki-4.Block S. 23]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -6826,7 +6826,7 @@ Double
 - Frage:: Was ist der Kernpunkt zu **Zeichen** laut Quelle?
 - Antwort:: Zeichen sind alphanumerische Daten Boolesche Daten werden auch logische Daten genannt Um zu überprüfen, welche Daten zulässig sind, werden sogenannte einfache/primitive Datentypen verwendet.
 - Beleg:: Zeichen sind alphanumerische Daten Boolesche Daten werden auch logische Daten genannt Um zu überprüfen, welche Daten zulässig sind, werden sogenannte einfache/primitive Datentypen verwendet.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24|02_Unternehmenswiki-4.Block S. 24]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24|02_Unternehmenswiki-4.Block S. 24]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -6834,7 +6834,7 @@ Double
 - Frage:: Welche Vorgabe nennt die Quelle zu **Verkettung von Datentypen**?
 - Antwort:: Bei einer Verkettung von Variablen müssen dabei unbedingt die Datentypen beachtet werden, da diese für das Ergebnis entscheidend sind!
 - Beleg:: Bei einer Verkettung von Variablen müssen dabei unbedingt die Datentypen beachtet werden, da diese für das Ergebnis entscheidend sind!
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28|02_Unternehmenswiki-4.Block S. 28]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block|Stol_02_Unternehmenswiki_4_Block]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28|02_Unternehmenswiki-4.Block S. 28]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -6842,7 +6842,7 @@ Double
 - Frage:: Was ist der Kernpunkt zu **Der Vorteil** laut Quelle?
 - Antwort:: Der Vorteil ist, wie bereits erwähnt, dass diese Methode nun immer wieder aufgerufen und dies auch mit unterschiedlichen Parametern ausgeführt werden kann.
 - Beleg:: Der Vorteil ist, wie bereits erwähnt, dass diese Methode nun immer wieder aufgerufen und dies auch mit unterschiedlichen Parametern ausgeführt werden kann.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block|Stol_02_Unternehmenswiki_5_Block]], [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48|02_Unternehmenswiki-5.Block S. 48]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block|Stol_02_Unternehmenswiki_5_Block]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48|02_Unternehmenswiki-5.Block S. 48]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -6850,7 +6850,7 @@ Double
 - Frage:: Was ist der Kernpunkt zu **Diese Art der Anweisung** laut Quelle?
 - Antwort:: Diese Art der Anweisung wird also nur ausgeführt, wenn eine bestimmte Bedingung erfüllt ist.
 - Beleg:: Diese Art der Anweisung wird also nur ausgeführt, wenn eine bestimmte Bedingung erfüllt ist.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block|Stol_02_Unternehmenswiki_5_Block]], [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48|02_Unternehmenswiki-5.Block S. 48]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block|Stol_02_Unternehmenswiki_5_Block]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=48|02_Unternehmenswiki-5.Block S. 48]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -6858,7 +6858,7 @@ Double
 - Frage:: Welche Vorgabe nennt die Quelle zu **Logische Operatoren**?
 - Antwort:: 7.1.1.3 Logische Operatoren Es ist oft erforderlich, dass nicht nur eine, sondern mehrere Bedingungen erfüllt werden müssen.
 - Beleg:: 7.1.1.3 Logische Operatoren Es ist oft erforderlich, dass nicht nur eine, sondern mehrere Bedingungen erfüllt werden müssen.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block|Stol_02_Unternehmenswiki_5_Block]], [[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=51|02_Unternehmenswiki-5.Block S. 51]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block|Stol_02_Unternehmenswiki_5_Block]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=51|02_Unternehmenswiki-5.Block S. 51]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -6866,7 +6866,7 @@ Double
 - Frage:: Was ist der Kernpunkt zu **Ausführung von JavaProgrammen benötigt** laut Quelle?
 - Antwort:: Java Virtual Machine Java Virtual Machine (JVM) ist eine Software, die zur Ausführung von JavaProgrammen benötigt wird und Bestandteil der Java Runtime Environment (JRE) ist.
 - Beleg:: Java Virtual Machine Java Virtual Machine (JVM) ist eine Software, die zur Ausführung von JavaProgrammen benötigt wird und Bestandteil der Java Runtime Environment (JRE) ist.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki|Stol_Wiki]], [[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=23|Wiki S. 23]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki|Stol_Wiki]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=23|Wiki S. 23]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -6874,7 +6874,7 @@ Double
 - Frage:: Was ist der Kernpunkt zu **Programmen benötigt** laut Quelle?
 - Antwort:: Programmen benötigt wird und Bestandteil der Java Runtime Environment (JRE) ist.
 - Beleg:: Programmen benötigt wird und Bestandteil der Java Runtime Environment (JRE) ist.
-- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki|Stol_Wiki]], [[99_Originale/Berufsschule/AE/Stößl/Wiki.pdf#page=23|Wiki S. 23]]
+- Quelle:: [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki|Stol_Wiki]], [[99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=23|Wiki S. 23]]
 - Prüfung:: AP2 Algorithmen/Software, AP1 Grundlagen je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

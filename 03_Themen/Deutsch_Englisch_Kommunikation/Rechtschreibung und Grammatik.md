@@ -33,20 +33,20 @@ Für berufliche Kommunikation sind korrekte Rechtschreibung, Zeichensetzung und 
 
 | Quelle | Fach | Seiten | PDF-Referenzen |
 |---|---|---:|---|
-| [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | Deutsch | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 | [S.1](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=1>), [S.2](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=2>), [S.3](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=3>), [S.4](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=4>), [S.5](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=5>), [S.6](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=6>), [S.7](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=7>), [S.8](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8>) … |
-| [[02_Faecher/Deutsch/Quellen/Station_1\|Station_1]] | Deutsch | 1, 2 | [S.1](<99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=1>), [S.2](<99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=2>) |
+| [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | Deutsch | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 | [S.1](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1>), [S.2](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=2>), [S.3](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=3>), [S.4](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=4>), [S.5](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=5>), [S.6](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6>), [S.7](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=7>), [S.8](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8>) … |
+| [[02_Faecher/Deutsch/Quellen/Station_1\|Station_1]] | Deutsch | 1, 2 | [S.1](<99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=1>), [S.2](<99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=2>) |
 
 ## 📌 Beispielstellen aus den Originalquellen
 
 ### [[02_Faecher/Deutsch/Quellen/Regelsammlung|Regelsammlung]] · Seite 1
 
-[Original-PDF Seite 1](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=1>)
+[Original-PDF Seite 1](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1>)
 
 > Deutsch 01 Rechtschreibung Klasse: Datum: Groß- und Kleinschreibung Großgeschrieben werden: a) Substantive (= Nomen) Regel Beispiel Substantive und Namen schreibt man groß Monitor, Computer, Thomas, Berlin, …. in Zusammensetzungen und Aneinanderreihun- gen mit Bindestrichen schreibt man Substantive und Wortanfänge groß Pro-Kopf-Verbrauch das Schaurig-Schöne ACHTUNG: Wochentage und Tageszeiten i
 
 ### [[02_Faecher/Deutsch/Quellen/Station_1|Station_1]] · Seite 1
 
-[Original-PDF Seite 1](<99_Originale/Berufsschule/Deutsch/Station 1.pdf#page=1>)
+[Original-PDF Seite 1](<99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf#page=1>)
 
 > Deutsch 01 Rechtschreibung Klasse: Datum: Station 1 - Groß- und Kleinschreibung Anleitung: Finde den kürzesten Weg vom Start bis in die unterste Reihe. Beginne bei Start und rücke jeweils nur ein Feld – waagrecht, senkrecht oder diagonal – weiter. Zeichne Pfeile! Beachte: Es darf kein Kästchen betreten werden, das eine falsche Aussage enthält. Welches Kästchen der untersten Reihe erreichst Du als erstes?
 

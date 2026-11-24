@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md (Seiten 1–8)",
+  "replaces_existing": false,
+  "topic_categories": {},
+  "pages": [
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "index",
+        "source_text_match": "missing",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [
+          "Reines Deckblatt des Ethik-Skripts 'Verantwortung und Gewissen'."
+        ],
+        "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 2,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "index",
+        "source_text_match": "missing",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [
+          "Reines Inhaltsverzeichnis des Ethik-Skripts 'Verantwortung und Gewissen'."
+        ],
+        "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [
+          "Fall Autounfall",
+          "Schuldgefühle",
+          "Schlechtes Gewissen"
+        ],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Gerasterte Aufgabenstellungen 1–4 und handschriftliche Antworten visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 4,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [
+          "Umgang mit Schuld und Fehlentscheidungen"
+        ],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Gerasterte Aufgabenstellungen 5–6 und handschriftliche Antworten visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [
+          "Erich Fromm",
+          "Sokrates",
+          "Immanuel Kant"
+        ],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Gerasterte Kategorien (Humanismus, Philosophie), Farbzuordnung Sokrates/Kant und Handschrift visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [
+          "Sigmund Freud",
+          "Instanzenmodell",
+          "Thomas von Aquin",
+          "Martin Luther"
+        ],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Gerasterte Kategorien (Psychologie, Religion), Pfeilzuordnung und Handschrift visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 7,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [
+          "Gewissensfunktionen",
+          "Gewissensentwicklung",
+          "Einflussfaktoren"
+        ],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Gerasterte Leitfragen 1–4 und handschriftliche Zusammenfassung visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
+      "page": 8,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Gewissen und Verantwortung",
+        "secondary_topics": [
+          "Fallbeispiele Gewissen",
+          "Moralische Dilemmata"
+        ],
+        "recommended_topics": [
+          "Gewissen und Verantwortung"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Gerasterte Druckseite (4 Fallbeispiele) ohne PDF-Textschicht vollständig visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

@@ -2,8 +2,8 @@
 typ: quelle
 fach: "AE_Anwendungsentwicklung"
 fach_anzeige: "AE Anwendungsentwicklung"
-original_pfad: "99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf"
-seiten: 87
+original_pfad: "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf"
+seiten: 100
 pruefung: "AP1, AP2"
 cssclasses:
   - lernquelle
@@ -12,23 +12,23 @@ tags:
   - quelle
   - ae_anwendungsentwicklung
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-07-13"
+seitenaudit_datum: "2026-11-23"
 kanonische_referenzen: true
-kanonische_themen: 15
-seiten_mit_kanonischem_thema: 86
+kanonische_themen: 21
+seiten_mit_kanonischem_thema: 99
 ki_exclude_seiten: [37]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 ki_support_seiten: [11]
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=76, ocr_error=10)"
-textzeichen: 163465
+textstatus: "gemischt: visuell geprüft (ok=88, ocr_verified=1, ocr_error=10)"
+textzeichen: 195920
 ---
 # 📄 01 Algorithmus Programm Software EVA
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/AE_Anwendungsentwicklung/AE_Anwendungsentwicklung|AE Anwendungsentwicklung]]
-> - **Original-PDF:** [01_Algorithmus_Programm_Software_EVA.pdf](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf>)
-> - **Seiten:** 87
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=76, ocr_error=10)
+> - **Original-PDF:** [01_Algorithmus_Programm_Software_EVA.pdf](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf>)
+> - **Seiten:** 100
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=88, ocr_verified=1, ocr_error=10)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -37,8 +37,12 @@ textzeichen: 163465
 |---|---|---:|---|
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Algorithmus\|Algorithmus]] | Prüfungsrahmen der Quelle | 1, 4–11, 17–25, 31, 42–43, 46–49 | Visuell bestätigt auf 25 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Arrays und Datenstrukturen\|Arrays und Datenstrukturen]] | Prüfungsrahmen der Quelle | 30–36, 38–41, 44–45 | Visuell bestätigt auf 13 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Barrierefreies Arbeiten und digitale Barrierefreiheit\|Barrierefreies Arbeiten und digitale Barrierefreiheit]] | Prüfungsrahmen der Quelle | 94–98 | Visuell bestätigt auf 5 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenherkunft und Informationsbeschaffung\|Datenherkunft und Informationsbeschaffung]] | Prüfungsrahmen der Quelle | 99–100 | Visuell bestätigt auf 2 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Datenschutz und Rollen\|Datenschutz und Rollen]] | Prüfungsrahmen der Quelle | 99–100 | Visuell bestätigt auf 2 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/EVA-Prinzip\|EVA-Prinzip]] | Prüfungsrahmen der Quelle | 1 | Visuell bestätigt auf 1 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Entwicklungswerkzeuge und Debugging\|Entwicklungswerkzeuge und Debugging]] | Prüfungsrahmen der Quelle | 56–68 | Visuell bestätigt auf 13 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IT-Sicherheit Grundlagen\|IT-Sicherheit Grundlagen]] | Prüfungsrahmen der Quelle | 99–100 | Visuell bestätigt auf 2 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java-Grundlagen\|Java-Grundlagen]] | Prüfungsrahmen der Quelle | 62–68 | Visuell bestätigt auf 7 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Operatoren und Bedingungen\|Operatoren und Bedingungen]] | Prüfungsrahmen der Quelle | 4–6, 12–16, 33–35 | Visuell bestätigt auf 11 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programm und Software\|Programm und Software]] | Prüfungsrahmen der Quelle | 1–3, 82–87 | Visuell bestätigt auf 9 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
@@ -46,9 +50,11 @@ textzeichen: 163465
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programmiersprachen und Übersetzer\|Programmiersprachen und Übersetzer]] | Prüfungsrahmen der Quelle | 50–61 | Visuell bestätigt auf 12 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Rekursion und Iteration\|Rekursion und Iteration]] | Prüfungsrahmen der Quelle | 46–49 | Visuell bestätigt auf 4 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Schleifen\|Schleifen]] | Prüfungsrahmen der Quelle | 17–23, 29, 31–36, 40–41 | Visuell bestätigt auf 16 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwareanpassung und Dokumentation\|Softwareanpassung und Dokumentation]] | Prüfungsrahmen der Quelle | 82–87 | Visuell bestätigt auf 6 Seite(n). |
-| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwarelebenszyklus und Vorgehensmodelle\|Softwarelebenszyklus und Vorgehensmodelle]] | Prüfungsrahmen der Quelle | 26–28, 69–77 | Visuell bestätigt auf 12 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwarequalität und Wartbarkeit\|Softwarequalität und Wartbarkeit]] | Prüfungsrahmen der Quelle | 28, 78–81 | Visuell bestätigt auf 5 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Schwerbehinderung\|Schwerbehinderung]] | Prüfungsrahmen der Quelle | 94, 97 | Visuell bestätigt auf 2 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwareanpassung und Dokumentation\|Softwareanpassung und Dokumentation]] | Prüfungsrahmen der Quelle | 82–87, 91 | Visuell bestätigt auf 7 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwarelebenszyklus und Vorgehensmodelle\|Softwarelebenszyklus und Vorgehensmodelle]] | Prüfungsrahmen der Quelle | 26–28, 69–77, 88, 90 | Visuell bestätigt auf 14 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwarequalität und Wartbarkeit\|Softwarequalität und Wartbarkeit]] | Prüfungsrahmen der Quelle | 28, 78–81, 88 | Visuell bestätigt auf 6 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwaretest und Testverfahren\|Softwaretest und Testverfahren]] | Prüfungsrahmen der Quelle | 88–93 | Visuell bestätigt auf 6 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Suchalgorithmen\|Suchalgorithmen]] | Prüfungsrahmen der Quelle | 44–45 | Visuell bestätigt auf 2 Seite(n). |
 
 ## 🧠 Lernstruktur
@@ -63,11 +69,11 @@ textzeichen: 163465
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 1](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -132,11 +138,11 @@ EVA - PRINZIP
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 2](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=2]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 2](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=2]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -200,11 +206,11 @@ wertet diese in der gewünschten Form entsprechend aus.
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 3](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=3]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 3](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=3]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=3]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -258,11 +264,11 @@ Die Audomatisierigssofture (z.B. für SPS, Rakter) beinhalts. beides *.
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 4](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=4]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 4](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=4]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -322,11 +328,11 @@ V
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 5](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=5]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 5](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=5]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -366,11 +372,11 @@ Ausgabe (Urlaub)
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 6](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=6]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 6](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=6]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -394,11 +400,11 @@ Ausgabe
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 7](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 7](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -496,11 +502,11 @@ Verarbeitung
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 8](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=8]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 8](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=8]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=8]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -573,11 +579,11 @@ Ende vorhanden!
 ### Seite 9
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 9](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=9>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=9]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 9](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=9>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=9]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=9]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -626,11 +632,11 @@ ENDE
 ### Seite 10
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 10](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 10](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=10]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=10]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -722,11 +728,11 @@ Ende
 ### Seite 11
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 11](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=11>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=11]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 11](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=11>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=11]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=11]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -771,11 +777,11 @@ Programm (ziB. urlaub : =30) nennt man Initialisierung.
 ### Seite 12
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 12](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=12>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=12]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 12](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=12>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=12]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=12]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -790,11 +796,11 @@ code.
 ### Seite 13
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 13](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=13>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=13]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 13](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=13>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=13]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=13]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -833,11 +839,11 @@ rechts) als mehrfache Verzweigung dargestellt!
 ### Seite 14
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 14](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=14>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=14]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 14](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=14>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=14]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=14]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -865,11 +871,11 @@ Ausgabe ("Die Mok" + note + "st'"lext+")
 ### Seite 15
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 15](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 15](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=15]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=15]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -921,11 +927,11 @@ klammern
 ### Seite 16
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 16](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=16>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=16]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 16](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=16>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=16]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=16]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -943,11 +949,11 @@ Optimierung: Abweichend vom vorgegebenen PAP wäre folgende Lösung sinnvoller!
 ### Seite 17
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 17](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 17](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=17]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1013,11 +1019,11 @@ Zusammenfassung für St
 ### Seite 18
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 18](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 18](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=18]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=18]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1092,11 +1098,11 @@ ebenfalls Rechtecke.
 ### Seite 19
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 19](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=19>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=19]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 19](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=19>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=19]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=19]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1283,11 +1289,11 @@ Variablen klein schreiben : Position, nu, umsatz, art
 ### Seite 20
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 20](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 20](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=20]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1342,11 +1348,11 @@ O
 ### Seite 21
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 21](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=21>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=21]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 21](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=21>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=21]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=21]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1395,11 +1401,11 @@ summe
 ### Seite 22
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 22](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=22>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=22]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 22](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=22>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=22]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=22]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1507,11 +1513,11 @@ wieder geschlossen
 ### Seite 23
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 23](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 23](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=23]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=23]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1625,11 +1631,11 @@ Initialisierung
 ### Seite 24
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 24](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=24>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=24]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 24](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=24>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=24]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=24]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1684,11 +1690,11 @@ Bottom-Up
 ### Seite 25
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 25](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 25](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=25]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1787,11 +1793,11 @@ wir nicht !
 ### Seite 26
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 26](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=26>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=26]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 26](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=26>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=26]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=26]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1929,11 +1935,11 @@ beschriebenen Anforderungen
 ### Seite 27
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 27](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 27](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=27]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2029,11 +2035,11 @@ zum Entwicklungsprozess!
 ### Seite 28
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 28](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=28>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=28]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 28](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=28>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=28]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=28]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -2415,11 +2421,11 @@ afp
 ### Seite 29
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 29](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=29>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=29]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 29](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=29>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=29]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=29]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2511,11 +2517,11 @@ nummer: = nummer * nummer
 ### Seite 30
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 30](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=30>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=30]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 30](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=30>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=30]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=30]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -2603,11 +2609,11 @@ zugewiesen.
 ### Seite 31
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 31](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 31](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=31]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2727,11 +2733,11 @@ Pseudocode
 ### Seite 32
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 32](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=32>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=32]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 32](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=32>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=32]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=32]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2770,11 +2776,11 @@ Initialisierung
 ### Seite 33
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 33](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 33](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=33]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2853,11 +2859,11 @@ Widerholung
 ### Seite 34
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 34](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 34](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=34]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2931,11 +2937,11 @@ Feld
 ### Seite 35
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 35](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=35>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=35]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 35](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=35>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=35]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=35]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -2980,11 +2986,11 @@ Bei Aufruf von, lwiert2CS]"
 ### Seite 36
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 36](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=36>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=36]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 36](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=36>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=36]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=36]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -3055,11 +3061,11 @@ den „richtigen" Werten „gefüllt" werden - Gib hierfür den Pseudocode an!
 ### Seite 38
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 38](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 38](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=38]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=38]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3116,11 +3122,11 @@ d.h. das Feld „produkt“ wird somit zeilenweise mit Werten belegt.
 ### Seite 39
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 39](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 39](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=39]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3174,11 +3180,11 @@ weiter!
 ### Seite 40
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 40](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=40>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 40](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=40>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=40]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3287,11 +3293,11 @@ End
 ### Seite 41
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 41](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=41>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=41]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 41](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=41>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=41]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=41]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3411,11 +3417,11 @@ Ende
 ### Seite 42
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 42](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=42>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=42]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 42](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=42>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=42]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=42]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3465,11 +3471,11 @@ Y
 ### Seite 43
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 43](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=43>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=43]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 43](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=43>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=43]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=43]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3484,11 +3490,11 @@ fünf Lösungen. Kennzeichne zudem bei den übrigen Lösungsvorschlägen, was al
 ### Seite 44
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 44](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3559,11 +3565,11 @@ Ausgegeben wird am Bildschirm:
 ### Seite 45
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 45](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=45>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=45]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 45](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=45>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=45]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=45]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3599,11 +3605,11 @@ um das vierte Feldelement!
 ### Seite 46
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 46](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=46>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=46]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 46](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=46>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=46]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=46]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3685,11 +3691,11 @@ false
 ### Seite 47
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 47](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=47>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=47]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 47](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=47>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=47]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=47]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=47]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3710,11 +3716,11 @@ Auch: Abbruchbedingung
 ### Seite 48
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 48](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=48>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=48]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 48](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=48>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=48]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=48]]
 
 > [!ocr] Kein verwertbarer Text auf dieser Seite
 > Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
@@ -3787,11 +3793,11 @@ d.h: Return 10
 ### Seite 49
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 49](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=49>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=49]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 49](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=49>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=49]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=49]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=49]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3807,11 +3813,11 @@ und das Ergebnis ist 10.
 ### Seite 50
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 50](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=50>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=50]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 50](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=50>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=50]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=50]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=50]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3902,11 +3908,11 @@ Beispiel:    3 + 4  ➔  summe = 3 + 4
 ### Seite 51
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 51](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=51>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=51]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 51](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=51>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=51]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=51]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=51]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -3983,11 +3989,11 @@ Antwort:
 ### Seite 52
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 52](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=52>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=52]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 52](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=52>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=52]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=52]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=52]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4047,11 +4053,11 @@ Eigenschaften
 ### Seite 53
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 53](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=53>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=53]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 53](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=53>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=53]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=53]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=53]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4154,11 +4160,11 @@ Verwendung im Hauptprogramm:
 ### Seite 54
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 54](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=54>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=54]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 54](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=54>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=54]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=54]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=54]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4204,11 +4210,11 @@ Programmierkenntnissen vertraut machen. Das Hamster-Modell ist z.B. an Java ange
 ### Seite 55
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 55](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=55>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=55]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 55](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=55>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=55]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=55]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=55]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4287,11 +4293,11 @@ Interpreter gelesen und ausgeführt
 ### Seite 56
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 56](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=56>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=56]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 56](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=56>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=56]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=56]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=56]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4364,11 +4370,11 @@ in
 ### Seite 57
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 57](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=57>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=57]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 57](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=57>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=57]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=57]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=57]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4427,11 +4433,11 @@ anderen Compiler nötig.
 ### Seite 58
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 58](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=58>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=58]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 58](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=58>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=58]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=58]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=58]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4470,11 +4476,11 @@ Die Kombination aus Binder und Lader ist der Bindelader: Er kombiniert die Aufga
 ### Seite 59
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 59](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 59](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=59]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=59]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4544,11 +4550,11 @@ an denen normale Funktionen erlaubt sind (z. B. bei Funktionspointern). …
 ### Seite 60
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 60](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=60>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=60]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 60](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=60>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=60]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=60]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=60]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4633,11 +4639,11 @@ neu
 ### Seite 61
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 61](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=61>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=61]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 61](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=61>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=61]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=61]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=61]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4729,11 +4735,11 @@ wird verringst
 ### Seite 62
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 62](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=62>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=62]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 62](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=62>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=62]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=62]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=62]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4766,11 +4772,11 @@ Schleifenarten getestet werden können.
 ### Seite 63
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 63](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=63>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=63]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 63](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=63>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=63]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=63]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=63]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4796,11 +4802,11 @@ IDE von Robot Karol und IDE von BlueJ:
 ### Seite 64
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 64](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=64>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=64]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 64](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=64>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=64]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=64]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=64]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
@@ -4903,11 +4909,11 @@ Welt: K:IBS1_SJ1415\_a.AE10_1415\a.m/\EIT104. L. Projekt.Markensauger\Moosmair.S
 ### Seite 65
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 65](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=65>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=65]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 65](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=65>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=65]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=65]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=65]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -4972,11 +4978,11 @@ ist es immer sinnvoll, das Programm mit bekannten
 ### Seite 66
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 66](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=66>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=66]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 66](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=66>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=66]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=66]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=66]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5025,11 +5031,11 @@ nen wir uns das Debuggen näher ansehen. Das Programm heißt „Urlaubsanspruech
 ### Seite 67
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 67](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=67>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=67]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 67](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=67>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=67]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=67]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=67]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5091,11 +5097,11 @@ wirksames Werkzeug, um logische Fehler im Programm erkennen zu können. Nutze di
 ### Seite 68
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 68](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=68>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=68]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 68](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=68>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=68]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=68]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=68]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5197,11 +5203,11 @@ Assemble
 ### Seite 69
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 69](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=69>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=69]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 69](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=69>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=69]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=69]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=69]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5247,11 +5253,11 @@ gehören die Kunden, das Management, die Benutzer des Produkts (bei uns der Soft
 ### Seite 70
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 70](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=70>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=70]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 70](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=70>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=70]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=70]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=70]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5316,11 +5322,11 @@ Die Darstellung stammt aus Westermann-Verlag „IT-Berufe Grundstufe Lernfelder 
 ### Seite 71
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 71](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=71>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=71]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 71](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=71>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=71]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=71]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=71]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5415,11 +5421,11 @@ Produkte
 ### Seite 72
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 72](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=72>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=72]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 72](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=72>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=72]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=72]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=72]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5500,11 +5506,11 @@ Einsatz und Wartung
 ### Seite 73
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 73](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=73>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=73]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 73](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=73>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=73]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=73]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=73]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5595,11 +5601,11 @@ Quelle: Wikipedia – mit Ergänzungen
 ### Seite 74
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 74](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=74>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=74]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 74](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=74>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=74]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=74]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=74]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5688,11 +5694,11 @@ Vertikaler Prototyp (er geht durch alle Ebenen)
 ### Seite 75
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 75](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=75>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=75]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 75](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=75>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=75]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=75]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=75]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5757,11 +5763,11 @@ schreiben.
 ### Seite 76
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 76](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=76>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=76]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 76](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=76>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=76]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=76]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=76]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5858,11 +5864,11 @@ Systemsoftware). 
 ### Seite 77
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 77](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=77>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=77]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 77](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=77>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=77]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=77]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=77]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5919,11 +5925,11 @@ che bei Scrum mehr Handlungsvorgaben oder Handlungsempfehlungen.
 ### Seite 78
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 78](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=78>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=78]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 78](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=78>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=78]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=78]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=78]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5938,11 +5944,11 @@ Geben Sie diese an und erläutern Sie, was jeweils damit gemeint ist!
 ### Seite 79
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 79](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=79>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=79]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 79](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=79>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=79]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=79]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=79]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -5982,11 +5988,11 @@ Interoperabilität: Fähigkeit zum Datenaustausch mit anderen Systemen.
 ### Seite 80
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 80](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=80>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=80]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 80](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=80>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=80]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=80]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=80]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -6031,11 +6037,11 @@ Authentizität: Sicherstellung der Identität des Kommunikationspartners.
 ### Seite 81
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 81](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=81>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=81]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 81](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=81>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=81]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=81]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=81]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -6067,11 +6073,11 @@ Erstellt gemäß ISO/IEC 25010 Standard
 ### Seite 82
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 82](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 82](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=82]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=82]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -6123,11 +6129,11 @@ toren und Compiler.
 ### Seite 83
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 83](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=83>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=83]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 83](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=83>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=83]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=83]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=83]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -6188,11 +6194,11 @@ lassen sich nachvollziehen.
 ### Seite 84
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 84](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=84>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=84]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 84](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=84>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=84]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=84]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=84]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -6226,11 +6232,11 @@ tation von Software für alle Beteiligten (Hersteller wie Benutzer) von großer 
 ### Seite 85
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 85](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=85>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=85]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 85](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=85>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=85]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=85]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=85]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -6274,11 +6280,11 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 ### Seite 86
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 86](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 86](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=86]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -6339,11 +6345,11 @@ Aufgabenblatt: Software-Engineering & Dokumentation
 ### Seite 87
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 87](<99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=87>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]`
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 87](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=87>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=87]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -6366,4 +6372,678 @@ Die Infos haben einen Bezug zur Praxis und lassen sich nachvollziehen.
 • 
 • 
 Aufgabenblatt: Software-Engineering & Dokumentation
+```
+
+### Seite 88
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 88](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=88>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=88]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=88]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+￼
+• Warum Software testen und was gibt es da zu beachten?
+Als wir den Softwarelebenszyklus besprochen haben, kamen wir zu der Einsicht, dass man
+relativ früh mit dem Testen beginnen sollte. Das Testen wird somit zum Teil der Qualitätssicherung
+und deshalb sollte auch in jeder Phase getestet werden: Je eher man einen Fehler erkennt, desto ein-
+facher und günstiger ist es, ihn zu eliminieren. Wird man auf den Fehler erst im betrieblichen Einsatz
+aufmerksam, so ist es in der Regel nur mit hohem Aufwand möglich, ihn zu beheben!
+In erster Linie wird man beim Testen der zu entwickelnden Software die funktionalen Anforderungen
+an sie im Blick haben. Vereinfacht gesagt: Macht die Software das, was sie laut Kunden tun soll? In das
+Testen sollen aber auch die nicht-funktionalen Anforderungen mit eingebunden werden, auch wenn
+es schwieriger ist, diese zu überprüfen. Beispielsweise können Anforderungen wie die „Bedienbarkeit“
+oder die „Erlernbarkeit“ unterschiedlich bewertet werden (das hängt oft vom subjektiven Empfinden
+des Einzelnen ab) und das macht das Testen solcher Faktoren entsprechend schwieriger. Beim Prüfen
+der Funktionalität dagegen ist es in der Regel eindeutig erkennbar, ob das Ergebnis stimmt oder nicht.
+Testen - aber wie? Gar nicht so einfach, wenn es professionell sein soll. Im Vorfeld sollte man sich
+Gedanken machen zu folgenden Aspekten:
+Testarten, Umfang der Tests, Testdaten, Testkriterien, Prioritäten beim Testen,
+Fehlertoleranzen, Testumgebung, Testüberwachung, Testdokumentation …
+Der Ablauf beim Testen lässt sich in einzelne Schritte/Phasen einteilen:
+1. Die Testplanung: Hier wird der gesamte Test in all seinen Einzelheiten beschrieben.
+2. Der Testentwurf: Hier werden die einzelnen Tests konzipiert.
+3. Die Testvorbereitung: Die Testszenarien werden vorbereitet, die Testumgebung wird herge-
+richtet und alle erforderlichen Ressourcen sowie die Testdaten werden bereitgestellt.
+4. Die Testdurchführung: Sie sollte nicht von den Entwicklern der Software selbst durchgeführt
+werden, sondern von unabhängigen Prüfern. Werden dynamische Tests durchgeführt, so wird
+das zu testende Programm ausgeführt, bei statischen Tests wird es einer analytischen Prüfung
+unterzogen. Wichtig ist auch die Dokumentation der Testdurchführung!
+5. Die Testauswertung: Hier wird geprüft, ob die Testergebnisse den zu erwartenden Ergebnissen
+entsprechen. Die auftretenden Fehler samt ihrer Häufigkeit werden festgehalten und es wird
+entschieden, ob die getesteten Objekte eine Freigabe-Empfehlung erhalten.
+6. Der Testabschluss: Hat die erstellte und getestete Software die Freigabe zum Einsatz erhalten,
+wird der Testprozess abgeschlossen und die zugehörige Dokumentation vervollständigt.
+Welche Testverfahren kommen denn überhaupt zum Einsatz?
+Grundsätzlich unterteilen wir diese in zwei Gruppen: Die dynamischen Testverfahren und die sta-
+tischen Testverfahren. Wie unterscheiden die sich jetzt? Bei den dynamischen Testverfahren wird das
+Programm beim Testen ausgeführt, mit der Absicht, auf diese Weise auftretende Fehler zu finden. Bei
+den statischen Testverfahren verzichtet man in der Regel darauf, die Software auszuführen. Man
+versucht stattdessen, den Quellcode und alle anderen relevanten Entwicklungsdokumente auf Fehler
+hin zu durchforsten.
+```
+
+### Seite 89
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 89](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=89>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=89]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=89]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Bleiben wir bei den statischen Testverfahren:
+Es soll am besten in jeder Phase des Softwarelebenszyklus getestet werden, also auch dann, wenn noch
+gar kein Quellcode existiert. Beispielsweise lassen sich in der Analysephase die ganzen Anforderungen
+an die gewünschte Software hinterfragen oder in der Entwurfsphase die Struktogramme etc. auf Fehler
+überprüfen. Welche Testverfahren bieten sich hierfür nun an? Da gibt es eine ganz Reihe: Walkthrough,
+Audit, Inspection, Statische Code-Analyse, Review finden u.a. hier ihre Anwendung. Aber was verbirgt
+sich nun dahinter? Schauen wir uns die einzelnen Verfahren ein wenig an:
+• Review: Bei dieser Testart versucht man mit Hilfe unserer Denk- und Analysefähigkeit sich in das
+zu testende Objekt einzulesen, es zu verstehen und nachzuvollziehen. Bei der Prüfung kommen
+häufig Checklisten zum Einsatz, die entsprechend abgearbeitet werden. Über 60 % der Fehler lassen
+sich auf diese Weise finden. Auf den Checklisten finden sich dann im Bereich „Funktionsumfang“
+Punkte wie „Ist die Funktion … gemäß ihrer Spezifikation umgesetzt worden?“ oder „Ist für Um-
+setzung dieser Funktion nicht gewünschter Code verwendet worden?“. Im Bereich „Dokumen-
+tation“ findet sich dann Einträge wie „Ist die Dokumentation für den Benutzer vorhanden?“ und
+„Ist die Dokumentation für den Benutzer vollständig?“ etc. Der Walkthrough gehört ebenfalls zu
+den Reviews, nur ist der formale Aufwand hier geringer: Der zuständige Entwickler präsentiert sein
+Programm und die Prüfer stellen dazu spontan Fragen. Beim Audit ist die Vorgehensweise struktu-
+rierter: Hier präsentiert der Entwickler wieder sein Programm und die Prüfer stellen die Fragen
+diesmal anhand eines Prüfkatalogs bzw. anhand der oben beschriebenen Checklisten. Der Review-
+Typ mit dem formal höchsten Grad ist die Inspection: Bei ihr werden bereits vorhandene Dokumen-
+te nach genau festgelegter Vorgehensweise auf Abweichungen untersucht: Beispielsweise ver-
+gleicht man den Strukturentwurf für ein bestimmtes Modul (also die Beschreibung der geplanten
+Funktionen samt Schnittstellen für das Modul) mit dem Logikentwurf für dieses Modul (also die
+Beschreibung der Logik des Moduls und der verwendeten Algorithmen). Werden Abweichungen
+festgestellt zwischen dem, was umgesetzt werden soll und dem, was zur Umsetzung geplant ist
+bzw. was umgesetzt wurde, so werden diese Abweichungen entsprechend dokumentiert. Die
+Prüfer erhalten dazu im Vorfeld der Prüfung zur Vorbereitung die entsprechenden Unterlagen zur
+Verfügung gestellt. Ebenso wird der Logikentwurf für ein Modul (also die Algorithmen des Moduls
+dargestellt z.B. als Struktogramm) mit dem entsprechenden, in schriftlicher Form vorliegenden Pro-
+grammcode verglichen, die Unterschiede wieder dokumentiert und die Abweichungen behoben.
+• Statische Code-Analyse: Sie wird in der Regel zur Übersetzungszeit durchgeführt, dazu muss der
+Quellcode vorliegen. Die Analyse kann automatisch durch ein Programm erfolgen oder aber auch
+mittels manueller Inspektion. Was wird nun hier geprüft? Beispielsweise, ob Typumwandlungen
+richtig angewendet oder ob Namenskonventionen und bestimmte Programmierstandards einge-
+halten wurden. Durch Einsatz des Compilers wird u.a. analysiert, ob die verwendeten Variablen
+auch initialisiert sind. Bei diesem Analyseverfahren schaut man auch mehr auf die nicht-funktio-
+nalen Aspekte der Software.
+Die statischen Testverfahren helfen dabei, Fehler so früh wie möglich im Entwicklungsprozess erken-
+nen und beheben zu können. Dabei werden nicht nur funktionale Aspekte an die Software überprüft,
+sondern auch nicht-funktionale Anforderungen, wie die Benutzerfreundlichkeit, das Design oder die
+Wartbarkeit untersucht. Diese Testverfahren eignen sich dagegen nicht für z.B. Integrations- oder Sys-
+temtests. Zudem lassen sich damit auch keine Fehler, die während der Programmausführung auftreten
+(Laufzeitfehler etc.) finden. Hier helfen uns dynamische Testverfahren weiter – diese wollen wir uns
+jetzt anschauen.
+```
+
+### Seite 90
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 90](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=90>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=90]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=90]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Die dynamischen Testverfahren:
+Sie setzen voraus, dass die Software in einer Testumgebung ausgeführt wird. Auf diese Weise lassen
+sich Fehler finden, die abhängig sind von dynamischen Laufzeitparametern, wie beispielsweise
+wechselnde Eingabeparameter oder von Interaktionen des Programm-Nutzers etc.
+Welche Testverfahren bieten sich für dynamische Tests nun an? Da wären der Black-Box-Test, der
+White-Box-Test, die Grenzwertanalyse, Datenflussorientierte Tests und eine Reihe weiterer Verfahren.
+• Black-Box-Test: Bei dieser Testart überprüft man das Testverhalten der entsprechenden Software,
+ohne ihren Quellcode und ihr „Innenleben“ (Aufbau und Struktur) zu kennen. Alle möglichen Test-
+fälle damit abzudecken ist aber recht aufwendig!
+• White-Box-Test: Bei dieser Testart überprüft man mit dem bekannten Quellcode und der Pro-
+grammstruktur die Software. Mit Hilfe geeigneter Testfälle sollen u.a. alle Kontrollstrukturen, die
+in der Software verbaut sind, ausgeführt werden.
+• Grenzwert-Analyse: Bei dieser Testart geht man davon aus, dass Fehler oft an den Rändern der
+Wertebereiche von Variablen etc. passieren. Man konzentriert sich dann beim Testen vermehrt auf
+solche Rand- oder Grenzwerte.
+• Datenflussorientierte Tests: Sie sind besonders für objektorientiert programmierte Software
+geeignet.
+…
+Bei den dynamischen Testverfahren lässt sich das Zusammenspiel einzelner Systemteile gut testen.
+Auch kann hier der Blick auf den Ressourcenverbrauch und auf das Zeitverhalten der zu testenden Soft-
+ware gelegt werden. Eine lauffähige Testumgebung bereit zu stellen, ist aber zum Teil sehr aufwendig.
+Je nach Entwicklungsstand der zu entwickelnden Software gibt es z.B. folgende Tests:
+Schreibtischtest: Ihn haben wir im Laufe des Jahres am häufigsten verwendet, um Algorithmen auf ihre
+Richtigkeit zu überprüfen. In der Regel lagen uns dazu die Algorithmen („Urlaubsanspruch“, „Lineare
+Suche“, „Binäre Suche“ etc.) in Struktogramm-Form vor. Wir haben den Schreibtischtest dann meist
+schriftlich durchgeführt, um zu prüfen, ob der gegebene Algorithmus der Aufgabenstellung entspricht
+und die gewünschten Ergebnisse liefert. Im Softwarelebenszyklus fand er bei uns in der Entwurfsphase
+seine Anwendung.
+Modul- bzw. Unittest: Einzelne Komponenten werden damit auf ihre Funktionalität überprüft. Im Soft-
+warelebenszyklus findet er bei uns hauptsächlich in der Implementierungsphase seine Anwendung.
+Integrationstest: Damit wird das Zusammenwirken der einzelnen Komponenten (Module) überprüft.
+Hauptaugenmerk sind hier vor allem die Schnittstellen, über die die einzelnen Komponenten mitein-
+ander „verbunden“ sind. Im Softwarelebenszyklus geschieht dies in der Integrationsphase.
+Systemtest: Bevor die Software an den Kunden ausgeliefert wird, erfolgt ein abschließender Test hin-
+sichtlich der funktionalen und nicht-funktionalen Anforderungen (über die haben wir uns ja erst unter-
+halten) an die entwickelte Software. Er wird i.d.R. ebenfalls in der Integrationsphase durchgeführt.
+Abnahmetest: Der wichtigste Test erfolgt beim Kunden. Dort kommt die Software in der Kunden-
+umgebung zum Einsatz und es stellt sich dann heraus, ob sie den vereinbarten Anforderungen gerecht
+wird. Beim Softwarelebenszyklus ist das die Phase, die wir mit „Einsatz bzw. Installation“ bezeichnen.
+```
+
+### Seite 91
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 91](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=91>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=91]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=91]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Je nach Software-Version - sie spiegelt ja auch den Entwicklungsstand einer Software wieder - unter-
+scheiden wir Alpha- und Beta-Tests:
+Alpha-Test: Kurz nachdem die Software fertiggestellt ist und noch bevor sie für die Öffentlichkeit frei-
+gegeben wird, findet der Alpha-Test statt. Entwickler der Software, Testteams und eine (in der Regel)
+kleine, ausgewählte Gruppe von Benutzern führen diesen internen „Abnahmetest“ in der Testumge-
+bung des Herstellers durch, um Mängel und Fehler in der Software aufzuspüren und sie zu beseitigen.
+Zudem prüfen sie die Software auf ihre Funktionalität und Benutzerfreundlichkeit. Die Ergebnisse des
+Alpha-Tests führen dazu, dass die Software verbessert bzw. optimiert wird und als nächsten Schritt
+einer breiteren Benutzer-Öffentlichkeit zugänglich gemacht werden kann.
+Beta-Test: Hier wird die entwickelte und in der Regel bereits voll funktionsfähige Software vor der
+Markteinführung in einer weiteren Testphase einer größeren Gruppe von späteren Nutzern kostenfrei
+zugänglich gemacht. Diese testen unter möglichst realen Anwendungssituationen (z.B. Einsatz bei
+unterschiedlichen Hardwarekonfigurationen) das Produkt, um vorhandene Fehler und sich ergebende
+Probleme zu finden. Auftretende Fehler können beispielsweise über automatisiert erzeugte Log-Datei-
+en direkt an die Herstellerfirma geschickt werden. Diese kann dann auch das Feedback der Benutzer in
+die Verbesserungen an der Software mit einbinden. Wird jetzt aber so eine Beta-Version einer Software
+unkontrolliert weitergegeben und bleibt diese samt ihren Fehlern auch nach der Testphase im Umlauf
+(um sich die Kosten der mittlerweile fertiggestellten und veröffentlichen, endgültigen Software zu spa-
+ren), dann kann dadurch bei potenziellen Kunden ein falscher Eindruck über die Qualität der Software
+entstehen!
+Release Candidate: Darunter versteht man die abschließende Testversion der Software. Alle bisher
+gefunden und bekannten Fehler sind behoben, die Software besitzt die volle Funktionalität und steht
+direkt vor der Markteinführung bzw. vor ihrem Einsatz.
+So wie die Dokumentation von Software sowohl auf der Entwickler- als auch auf der Benutzerseite von
+großer Bedeutung ist – darüber haben wir ja bereits gesprochen, so gilt das auch für die Dokumen-
+tation der Software-Tests: In der „IEEE8229 Standard for Software Test Documentation“ bzw. nach-
+folgend in der „ISO/IEC/IEEE 29119“ sind eine Reihe von Dokumenten bezüglich Softwaretests be-
+schrieben. Zu diesen Dokumenten gehören beispielsweise …
+• das Testkonzept: Es liefert eine Übersicht über die geplante Testung mit Vorgehensweise, Rah-
+menbedingungen, Ablauf etc.,
+• die Test-Spezifikation: Hier werden u.a. die Vorgehensweise für die Testung detailliert be-
+schrieben sowie Kriterien fürs Bestehen oder fürs Verfehlen der Produktfunktionen festgelegt.
+Es werden z.B. auch die zu verwendenden Eingabewerte und die zu erwartenden sowie die tat-
+sächlich auftretenden Ausgabewerte protokolliert.
+• der Testbericht: Dazu gehören auch das Testprotokoll, der Testabweichungsbericht (hier findet
+man z.B. Informationen zu jenen Ereignissen, die einer Nachprüfung zu unterziehen sind) und
+der Testabschlussbericht.
+```
+
+### Seite 92
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 92](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=92>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=92]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=92]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Aufgabenblatt zu „Testen von Software – Teil 1“
+1. Im Infotext steht, dass auch „nicht-funktionale“ Anforderungen in die Testung mit eingebunden wer-
+den sollen. Was sind denn solche nicht-funktionale Anforderungen?
+2. Warum ist die Testung und vor allem die Bewertung nicht-funktionaler Anforderungen z.T. schwierig?
+3. Der Testablauf ist grundsätzlich in bestimmte Schritte unterteilt. Was sind denn das für welche?
+4. Im Infotext tauchen dynamische und statische Testverfahren auf. Beschreibe beide grundsätzlich!
+5. Bei den statischen Testverfahren gibt es die Testart Review: Wie „arbeitet“ diese grundsätzlich und
+welcher Review-Typ hat den formal höchsten Grad?
+6. Für welche Testungen eignen sich statische Testverfahren eher nicht und welche Fehler lassen sich
+damit auch nicht finden?
+7. Zu den dynamischen Testverfahren gehören neben Black-Box- und White-Box-Test auch die Grenz-
+wert-Analyse. Welche Absicht verfolgt diese Testart?
+8. Beschreibe, was man unter Alpha-Test und Beta-Test versteht und wo die Unterschiede liegen!
+9. Wie bezeichnet man häufig die abschließende Testversion einer Software?
+10. Auch Testverfahren sind zu dokumentieren: Welche Dokumente gehören hier dazu und wovon han-
+deln sie?
+```
+
+### Seite 93
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 93](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=93>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=93]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=93]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Lösungen zum Aufgabenblatt: Testen von Software
+- Teil 1
+Quelle: Fragen 1-7 aus dem bereitgestellten Infotext; Fragen 8-10 nach erneuter Prüfung mit
+Internetquellen ergänzt.
+1. Was sind nicht-funktionale Anforderungen?
+Anforderungen wie Bedienbarkeit, Erlernbarkeit, Benutzerfreundlichkeit, Design, Wartbarkeit,
+Ressourcenverbrauch und Zeitverhalten.
+2. Warum ist die Testung und Bewertung nicht-funktionaler Anforderungen
+zum Teil schwierig?
+Sie können unterschiedlich bewertet werden, weil sie oft vom subjektiven Empfinden
+einzelner Personen abhängen.
+3. In welche Schritte ist der Testablauf grundsätzlich unterteilt?
+Testplanung, Testentwurf, Testvorbereitung, Testdurchführung, Testauswertung und
+Testabschluss.
+4. Beschreibe dynamische und statische Testverfahren grundsätzlich.
+Dynamische Testverfahren führen das Programm aus. Statische Testverfahren prüfen
+Quellcode und Entwicklungsdokumente analytisch, meist ohne Programmausführung.
+5. Wie arbeitet ein Review grundsätzlich und welcher Review-Typ hat den
+formal höchsten Grad?
+Man liest sich in das Prüfobjekt ein, versteht und überprüft es, oft mithilfe von Checklisten.
+Den formal höchsten Grad hat die Inspection.
+6. Wofür eignen sich statische Testverfahren eher nicht und welche Fehler
+finden sie nicht?
+Nicht für Integrations- oder Systemtests. Laufzeitfehler und andere Fehler während der
+Programmausführung werden damit nicht gefunden.
+7. Welche Absicht verfolgt die Grenzwert-Analyse?
+Sie prüft besonders Rand- und Grenzwerte, weil Fehler häufig an den Rändern von
+Wertebereichen auftreten.
+8. Was versteht man unter Alpha-Test und Beta-Test und wo liegen die
+Unterschiede?
+Alpha-Test: früher Test in der Entwicklerumgebung durch unabhängige Prüfer oder mögliche
+Nutzer. Beta-Test: späterer Test durch ausgewählte oder öffentliche Nutzer in einer realen
+bzw. nutzernahen Umgebung. Unterschied: Alpha ist entwicklernah, Beta ist kundennäher
+und näher an der Veröffentlichung.
+9. Wie bezeichnet man häufig die abschließende Testversion einer Software?
+Release Candidate, kurz RC.
+10. Welche Dokumente gehören zur Dokumentation von Testverfahren und
+wovon handeln sie?
+Testplan: Ziele, Umfang, Vorgehen, Zeitplan und Ressourcen. Testspezifikation/Testfall:
+Eingaben, Schritte und erwartete Ergebnisse. Testprotokoll: Ablauf und Ereignisse der
+Durchführung. Fehler-/Abweichungsbericht: gefundene Probleme. Testabschlussbericht:
+Zusammenfassung von Tests und Ergebnissen.
+```
+
+### Seite 94
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 94](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=94>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=94]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=94]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Barrierefreies Arbeiten
+Leitfaden für Fachinformatiker: Rechtliche Vorgaben, physische Infrastruktur und digitale
+Barrierefreiheit
+1. Gesetzliche Grundlagen & Rahmenbedingungen
+Die rechtlichen Anforderungen stützen sich in Deutschland auf mehrere Gesetze, die sowohl
+öffentliche als auch zunehmend private Arbeitgeber in die Pflicht nehmen.
+Gesetz / Norm Relevanz & Inhalt
+SGB IX
+Sozialgesetzbuch IX
+Arbeitgeber sind verpflichtet, Arbeitsplätze, Arbeitsumfeld und
+Arbeitsorganisation behindertengerecht zu gestalten (§ 164 Abs.
+4 SGB IX). Es besteht Anspruch auf barrierefreie Soft- und
+Hardware.
+ArbStättV
+Arbeitsstättenverordnung
+Arbeitsstätten müssen so eingerichtet werden, dass sie für
+Beschäftigte mit Behinderungen barrierefrei zugänglich und
+sicher nutzbar sind (Anhang 3.1).
+BITV 2.0
+Informationstechnik-VO
+Definiert detaillierte, technische Standards zur digitalen
+Barrierefreiheit für Webseiten, Apps und GUIs öffentlicher
+Stellen (basierend auf internationalen WCAG-Richtlinien).
+BFSG (ab 2025)
+Barrierefreiheitsstärkungsgesetz
+Hochrelevant für die IT-Wirtschaft: Tritt am 28. Juni 2025 in
+Kraft. Ab dann müssen auch privatwirtschaftliche Unternehmen
+(z.B. E-Commerce, Softwarehersteller) digitale Produkte
+zwingend barrierefrei anbieten.
+WISO / IT-Sicherheit - Barrierefreies Arbeiten Seite 1 von 4
+```
+
+### Seite 95
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 95](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=95>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=95]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=95]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+2. Physische Barrierefreiheit (Arbeitsweg & Gebäude)
+Ein barrierefreier Arbeitsplatz beginnt nicht erst am Schreibtisch, sondern bereits bei der Anreise.
+Alle physischen Hürden müssen beseitigt werden, um Autonomie zu gewährleisten.
+A. Der Arbeitsweg & Zugang
+Verkehrsanbindung & Parken: Breite,
+gekennzeichnete Rollstuhlparkplätze in
+unmittelbarer Nähe des Eingangs.
+Taktile Leitsysteme: Ertastbare und visuell
+kontrastreiche Bodenmarkierungen für
+blinde oder sehbehinderte Beschäftigte vom
+Parkplatz/ÖPNV bis in das Gebäude.
+Gebäudezugang: Ebenerdige Eingänge.
+Treppen müssen durch Rampen (max. 6%
+Steigung) oder Plattformlifte ergänzt
+werden. Automatische Schiebetüren
+erleichtern den Eintritt.
+B. Die Arbeitsstätte & Räume
+Bewegungsflächen: Ausreichend Platz
+zum Wenden mit dem Rollstuhl (mind.
+1,50m x 1,50m) und schwellenlose, breite
+Flure/Türen.
+Zwei-Sinne-Prinzip (Sicherheit):
+Alarmsysteme müssen optisch und
+akustisch warnen (z.B. lauter Ton + starkes
+Blinklicht für Gehörlose).
+Infrastruktur: Aufzüge mit taktilen Tasten
+(Brailleschrift) und Sprachausgabe.
+Barrierefreie, zugängliche Sanitäranlagen.
+3. Ergonomie am direkten Arbeitsplatz
+Die Möbel und die unmittelbare Arbeitsumgebung müssen individuell anpassbar sein:
+Unterfahrbarkeit: Schreibtische müssen vollständig mit einem Rollstuhl unterfahrbar sein.
+Flexibilität: Elektrisch höhenverstellbare Tische (Steh-/Sitzdynamik) sowie ergonomisch
+anpassbare Spezialstühle.
+Licht & Akustik: Blendfreie Beleuchtung und Maßnahmen zur Lärmreduktion (z.B.
+Schallabsorber), besonders wichtig für Beschäftigte mit Konzentrationsstörungen oder
+Hörgeräten.
+•
+•
+•
+•
+•
+•
+•
+•
+•
+WISO / IT-Sicherheit - Barrierefreies Arbeiten Seite 2 von 4
+```
+
+### Seite 96
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 96](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=96>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=96]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=96]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+4. Digitale Barrierefreiheit (Software & Web)
+Für Fachinformatiker ist dies das Kerngebiet. Anwendungen (Web, Desktop, Mobile) müssen
+nach den vier Prinzipien der WCAG (Web Content Accessibility Guidelines) entwickelt
+werden:
+1. Wahrnehmbarkeit: Informationen müssen so präsentiert werden, dass Nutzer sie mit
+ihren Sinnen erfassen können. Beispiele: Starke Kontraste (mind. 4.5:1), Schrift bis 200%
+vergrößerbar ohne Layoutbruch, alt-Attribute für alle Bilder (für Screenreader).
+2. Bedienbarkeit: Komponenten der Benutzerschnittstelle und Navigation müssen bedienbar
+sein. Beispiele: Die Software muss zu 100% per Tastatur (ohne Maus) bedienbar sein
+(logische Tab-Reihenfolge). Keine Tastaturfallen. Ausreichend Zeit für Eingaben
+(abschaltbare Timeouts).
+3. Verständlichkeit: Informationen und Bedienung müssen leicht verständlich sein.
+Beispiele: Konsistente Navigation, klare und beschreibende Fehlermeldungen in Formularen
+(nicht nur "Rot" markiert, sondern mit Text zur Fehlerbehebung).
+4. Robustheit: Inhalte müssen robust genug sein, um von verschiedenen User-Agents und
+Hilfstechnologien verlässlich interpretiert zu werden. Beispiele: Semantisch korrektes HTML
+(Tags wie <nav>, <main>, ARIA-Labels) für fehlerfreies Parsing durch Screenreader.
+5. Assistive Technologien (Hardware)
+Standard-Peripherie reicht oft nicht aus. Hardware muss motorische oder sensorische Defizite
+ausgleichen:
+Für visuelle Einschränkungen
+Braillezeilen: Wandeln Bildschirminhalte
+dynamisch in fühlbare Punktschrift um.
+Screenreader: Software, die
+Bildschirminhalte vorliest (oft kombiniert mit
+Braillezeile).
+Großschrifttastaturen: Tasten mit extrem
+hohem Kontrast und großen Symbolen.
+Für motorische Einschränkungen
+Alternative Mäuse: Trackballs,
+Vertikalmäuse, Fußmäuse oder Head-
+Tracking/Eye-Tracking-Systeme.
+Spezialtastaturen: Einhandtastaturen oder
+Layouts mit vertieften Tasten (verhindert
+versehentliches Auslösen).
+Switches (Taster): Große Schalter zur
+Auslösung von Aktionen in Kombination mit
+Scanning-Software.
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+WISO / IT-Sicherheit - Barrierefreies Arbeiten Seite 3 von 4
+```
+
+### Seite 97
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 97](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=97>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=97]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=97]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Einen Arbeitsplatz einreichten – barrierefrei!
+„Barrierefrei“, ein Schlagwort, das man oft hört und liest. Was ist denn damit eigentlich gemeint?
+Grundsätzlich ist etwas barrierefrei, wenn Menschen mit und ohne Behinderung es in allgemein
+üblicher Weise nutzen können.
+Die Einrichtung eines barrierefreien Arbeitsplatzes geht aber schon vorher los: Die Mitarbeiterin, der
+Mitarbeiter muss erstmal diesen Arbeitsplatz erreichen können und zwar am besten barrierefrei.
+Barrierefrei zum Arbeitsplatz - aber wie?
+ Breite Wege und moderate Steigungen
+ Rampen statt Stufen
+ Stufenlose Eingänge
+ Breite Türen und automatische Türöffner
+ Aufzüge statt Treppen
+ Für sehbehinderte und für blinde Menschen:
+ Ampeln mit Akustikelementen
+ Kontaktreiche Markierungen
+ Taktile Leitsysteme
+ Durchsage an Haltestellen und an Bahnhöfen
+ Taktile Kennzeichnung von Gefahrenstellen (Bordsteinkanten, Bahnsteige)
+ ...
+
+...
+Barrierefrei am Arbeitsplatz - gibt es da überhaupt einen Anspruch darauf?
+Ja! Es gibt eine gesetzliche Grundlage: Nach §3a Abs. 2 der Arbeitsstättenverordnung muss der Ar-
+beitgeber die Arbeitsstätte so einrichten, dass Beschäftigte mit Behinderungen diese barrierefrei nut-
+zen können. Die Vorgaben für Barrierefreiheit sind in der ASR (das sind die Technische Regeln für Ar-
+beitsstätten) V3a.2 „Barrierefreie Gestaltung von Arbeitsstätten“ genau definiert. Unter bestimmten
+Voraussetzungen beteiligen sich Integrationsämter, Rehabilitationsträger oder die Bundesagentur für
+Arbeit an der Finanzierung von Umbauten oder von Hilfsmitteln.
+Was gibt es da nun alles zu beachten?
+ Ausreichende Grundflächen von Arbeitsräumen und Bewegungsflächen am Arbeits-
+platz. Neben den zuvor schon beschriebenen Maßnahmen für die Zugänglichkeit
+(Rampen, Aufzüge, breite Türen und breite Flure ...) werden zusätzliche Flächen für
+persönliche Assistenz, medizinische Hilfsmittel, Elektrorollstuhl etc. erforderlich. Für
+das Umsetzen vom Rollstuhl auf einen geeigneten Arbeitsstuhl ist beispielsweise
+eine entsprechende Bewegungsfläche vorzusehen.
+ Auch Fluchtwege und Notausgänge müssen barrierefrei nutzbar sein. Eine Flucht-
+und Feuertreppe ist in der Regel für gehbehinderte Personen oder für Rollstuhl-
+fahrer nicht geeignet!
+ Umsetzung des „Zwei-Sinne-Prinzips“. Darunter versteht man das Prinzip der alter-
+nativen Wahrnehmung: Informationen müssen mindestens für zwei Sinne (Hören,
+Sehen, Tasten, Riechen, Schmecken) zugänglich sein. Das bedeutet, dass z.B. Ruf-
+oder Klingeltöne zusätzlich auch visuell angezeigt werden und visuelle Signale zu-
+dem auch akustisch.
+```
+
+### Seite 98
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 98](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=98>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=98]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=98]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+ Vorhandene Sicherheitszeichen müssen ebenfalls für kleinwüchsige Menschen oder
+für Rollstuhlfahrer aus ihrer Augenhöhe erkennbar sein.
+ Türgriffe, Lichtschalter etc. müssen für Personen mit Beeinträchtigungen ebenso
+erreichbar sein.
+ Toiletten müssen behindertengerecht sein, d.h. sie bieten eine ausreichende Be-
+wegungsfläche, Haltegriffe, unterfahrbare Waschbecken etc.
+
+…
+Ergonomisch betrachtet sollen alle Arbeitsplätze so gestaltet sein, dass dort ein optimales Ar-
+beiten möglich ist. Dazu gehören höhenverstellbare Schreibtische, individuell anpassbare ergo-
+nonmische Bürostühle sowie große, höhenverstellbare Bildschirme mit guter Auflösung. Ergo-
+nomische Mäuse und Tastaturen tragen ebenso dazu bei wie auch eine passende, flimmerfreie
+und blendarme Beleuchtung. Barrierefreie Computer-Arbeitsplätze bieten zudem spezielle Ein-
+gabegeräte (z.B. Fußtasten), für sehbeeinträchtige oder blinde Personen gibt es beispielsweise
+Bildschirmlesegeräte oder entsprechende Screenreader. Diese Software analysiert den Inhalt
+des Bildschirms und gibt ihn als Sprachausgabe aus oder sie gibt ihn an eine sogenannte Braille-
+zeile weiter. Eine Braillezeile ist ein Ausgabegerät, das den Text zeilenweise in ertastbare Blin-
+denschrift übersetzt. Für blinde Personen erfolgt die Bedienung an einem Computer-Arbeits-
+platz i.d.R. über Tastatur mittels Shortcuts (Tastenkombinationen) und Tabulatortaste sowie
+Sprachein- und Sprachausgabe. Hier gilt zu beachten, dass der Lautstärkepegel im Büro es zu-
+lassen muss, die Sprachausgabe zu verstehen. Andererseits sollen Arbeitskolleginnen und Ar-
+beitskollegen, die in unmittelbarer Nähe arbeiten, durch diese akustischen Ein- und Ausgaben
+so wenig wie möglich gestört werden. Hier können entsprechende Akustik-Trennwände helfen.
+Barrierefreie Software - wie kann man sich denn das vorstellen?
+In diesem Zusammenhang spricht man auch von der digitalen Barrierefreiheit. Anwendungen,
+Websites etc. müssen ohne fremde Hilfe auffindbar und nutzbar sein. So gibt es z.B. die Norm
+EN 301 549: Sie gilt in Deutschland und in der EU. International ist da die WCAG 2.2. Beide ba-
+sieren auf folgenden Grundprinzipien:
+ Wahrnehmbarkeit  Bedienbarkeit  Verständlichkeit  Robustheit
+Was steckt denn da jeweils dahinter?
+ Wahrnehmbarkeit: Die Informationen müssen für die Sinne (Augen, Ohren, Tastsinn) ver-
+fügbar sein. Videos sind mit Untertitel zu versehen, Kontraste und Schriftgrößen lassen sich
+anpassen und es gibt eine Vorlesefunktion.
+ Bedienbarkeit: Die Software lässt sich vollständig ohne Maus, also rein über die Tastatur
+und/oder spezielle Eingabegeräte (wie die Braillezeilen) steuern.
+ Verständlichkeit: Dazu gehören auch die „einfache Sprache“, eine klare Navigation sowie
+logisch strukturierte Menüs.
+ Robustheit: Die Software funktioniert reibungslos mit Hilfsmitteln wie Screenreader oder
+Sprachsteuerungen.
+Gesetzlich gibt es bei uns in Deutschland das Barrierefreiheitsstärkungsgesetz (BFSG): Darin wer-
+den Anbieter für Bankdienstleistungen, Online-Handel, Telekommunikationsdienste etc. ver-
+pflichtet, ihre digitalen Dienstleistungen barrierefrei anzubieten. Die digitale Barrierefreiheit für
+die öffentliche Verwaltung des Bundes ist in der Barrierefreie-Informationstechnik-Verordnung
+(BITV 2.0) geregelt.
+```
+
+### Seite 99
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 99](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=99>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=99]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=99]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+• Woher stammen die Daten? Möglichkeiten der Info-Beschaffung für Unternehmen:
+Welche Informationsquellen können Unternehmen nutzen? Wir unterscheiden sie in
+interne und externe Informationsquellen.
+Interne Informationen sind bereits im Unternehmen vorhanden. Dazu zählen Kundendateien, Liefe-
+rantendateien, Artikeldateien, Auftrags- und Bestellstatistiken, Berichte von Außen- und Kunden-
+dienstmitarbeitern etc. Diese Daten sind in der Regel schnell verfügbar und der Zugriff auf sie ist
+kostenlos. Aber: Die Pflege dieser Daten kostet Geld und häufig sind diese Daten nicht auf dem neu-
+esten Stand.
+Externe Informationsquellen sind z.B. das Internet mit all seinen Such- und Recherchefunktionen,
+Messen, Ausstellungen, Besuche bei den Kunden und den Lieferanten vor Ort, Fachzeitschriften,
+Kataloge etc. Dadurch lassen sich die internen Informationsquellen aktualisieren und ergänzen. Häufig
+sind diese Informationen kostenpflichtig und der Suchaufwand ist aufwendig. Zudem ist hier die Kor-
+rektheit der Daten besonders zu prüfen.
+• Primär- und Sekundärdaten – Was ist damit gemeint?
+Primärdaten werden vom Unternehmen z.B. durch Befragungen, Interviews oder Beobachtungen er-
+hoben. Die benötigten Daten lagen bisher noch nicht vor und deshalb werden sie auf eine der beschrie-
+benen Arten erhoben. Der Vorteil ist, dass genau die benötigten Daten gesammelt werden können.
+Sekundärdaten dagegen sind Daten, die bereits zu einem früheren Zeitpunkt erhoben wurden und auf
+die für die zu lösende Problemstellung ebenfalls zugegriffen werden kann. Dadurch, dass die Daten
+nicht aktuell erhoben wurden und damals für andere, wenn auch ähnliche Problemstellungen gewon-
+nen wurden, sind sie auch nur bedingt einsetzbar. Dafür sind sie schnell verfügbar und man spart sich
+die Kosten für die Datenerhebungen. Beispiele von Quellen für solche Sekundärdaten sind oben sowohl
+bei den „internen“ als auch bei den „externen Informationsquellen“ zu finden.
+• Wie sieht es mit der Sicherheit von Daten aus?
+Der Umgang mit Daten erfordert auch das entsprechende Bewusstsein für Datenschutz, Datensicher-
+heit und Informationssicherheit. Was unterscheidet jetzt diese Begriffe voneinander?
+Der Datenschutz kümmert sich um den Schutz der Privatsphäre eines Menschen. In diesem Zusammen-
+hang hört man immer wieder vom „Recht auf informationelle Selbstbestimmung“ - Die entsprechen-
+den Vorgaben und Regeln finden sich im Bundesdatenschutzgesetz „BDSG“. Beim Datenschutz gilt es
+auch grundsätzlich zu klären, ob personenbezogene Daten überhaupt verarbeitet werden dürfen.
+Die Datensicherheit kümmert sich um den Schutz von Daten, und zwar unabhängig, ob bei den Daten
+ein Personenbezug vorhanden ist oder nicht. Während beim Datenschutz zu klären ist, ob und welche
+Daten überhaupt erhoben und verarbeitet werden dürfen, ist hier zu klären, mit welchen Maßnahmen
+die Sicherheit der Daten vor Datenverlust, Manipulation und unberechtigten Einblicken gewährleistet
+werden kann.
+Die Informationssicherheit kümmert sich um den Schutz von Informationen. Ob diese in analoger oder
+digitaler Form vorliegen, ob ein Personenbezug vorhanden ist oder nicht - das spielt hier keine Rolle.
+Die Vertraulichkeit der Daten ist ein wichtiger Punkt der Informationssicherheit: Mit entsprechenden
+Maßnahmen muss sichergestellt sein, dass nur der befugte Personenkreis auf diese Daten Zugriff und
+Einblick hat. Ein weiterer Punkt ist die Integrität: Sie ist dann gewährleistet, wenn die Daten vor Verlust
+und Manipulation geschützt sind. Die Verfügbarkeit ermöglicht den Zugriff auf die Daten für autori-
+sierte Personen über einen bestimmten Zeitraum.
+￼
+```
+
+### Seite 100
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Algorithmus_Programm_Software_EVA.pdf Seite 100](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=100>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=100]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=100]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Wie kommt man überhaupt an benötigte Daten?
+Beantworte dazu die folgenden Fragen:
+￼
+￼
+Primär- und Sekundärdaten – Vor- und Nachteile?
+￼
+￼
+```
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Wie kommt man überhaupt an benötigte Daten?
+Beantworte dazu die folgenden Fragen:
+
+1. Welche Infoquellen können Unternehmen nutzen?
+2. Primär- und Sekundärdaten – Was ist damit gemeint?
+3. Primär- und Sekundärdaten – Vor- und Nachteile?
+4. Welcher „Bereich“ kümmert sich um die Verhinderung von Datenmanipulation oder Datenverlust?
+5. Für was steht die Abkürzung „BDSG“?
 ```

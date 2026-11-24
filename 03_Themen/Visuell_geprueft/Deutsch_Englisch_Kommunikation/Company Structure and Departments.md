@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [17–23](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=17>) | aufgabe, loesung | Text für Zitate geeignet |
+| [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [17–23](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=17>) | aufgabe, loesung | Text für Zitate geeignet |
 
 ## Belegregel für GPT
 

@@ -1,0 +1,783 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md (Seiten 55–83)",
+  "replaces_existing": false,
+  "topic_categories": {
+    "Gemeinnützige Organisationen": "Wirtschaft_und_Recht",
+    "Wettbewerbsrecht und Unternehmenszusammenschlüsse": "Wirtschaft_und_Recht"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 55,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Rechtsformen",
+        "secondary_topics": [
+          "Einzelkaufmann",
+          "HGB"
+        ],
+        "recommended_topics": [
+          "Rechtsformen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 56,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "fragment",
+        "source_text_match": "ok",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [
+          "Nur eine einzelne Überlaufzeile von Seite 55 ('keine Mitgesellschafter zur Risikoverteilung') ohne eigenen Kontext."
+        ],
+        "exclusion_reason": "Zu schwacher Titel-/Fragmentbeleg; nicht als alleinige Wissensevidenz verwendbar",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 57,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Rechtsformen",
+        "secondary_topics": [
+          "Offene Handelsgesellschaft",
+          "OHG"
+        ],
+        "recommended_topics": [
+          "Rechtsformen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 58,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Rechtsformen",
+        "secondary_topics": [
+          "Kommanditgesellschaft",
+          "KG"
+        ],
+        "recommended_topics": [
+          "Rechtsformen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 59,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Rechtsformen",
+        "secondary_topics": [
+          "GmbH",
+          "Kapitalgesellschaft"
+        ],
+        "recommended_topics": [
+          "Rechtsformen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 60,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Rechtsformen",
+        "secondary_topics": [
+          "GmbH & Co. KG"
+        ],
+        "recommended_topics": [
+          "Rechtsformen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 61,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Rechtsformen",
+        "secondary_topics": [
+          "Aktiengesellschaft",
+          "AG"
+        ],
+        "recommended_topics": [
+          "Rechtsformen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 62,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Rechtsformen",
+        "secondary_topics": [
+          "GbR",
+          "BGB und HGB"
+        ],
+        "recommended_topics": [
+          "Rechtsformen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 63,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Rechtsformen",
+        "secondary_topics": [
+          "SE",
+          "Societas Europaea"
+        ],
+        "recommended_topics": [
+          "Rechtsformen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 64,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Rechtsformen",
+        "secondary_topics": [
+          "Einzelunternehmen",
+          "OHG"
+        ],
+        "recommended_topics": [
+          "Rechtsformen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 65,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Rechtsformen",
+        "secondary_topics": [
+          "OHG",
+          "Vertretung und Geschäftsführung"
+        ],
+        "recommended_topics": [
+          "Rechtsformen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 66,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Rechtsformen",
+        "secondary_topics": [
+          "KG",
+          "Gewinnverteilung"
+        ],
+        "recommended_topics": [
+          "Rechtsformen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 67,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Rechtsformen",
+        "secondary_topics": [
+          "KG",
+          "Gewinn- und Verlustverteilung"
+        ],
+        "recommended_topics": [
+          "Rechtsformen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 68,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Rechtsformen",
+        "secondary_topics": [
+          "GmbH",
+          "AG",
+          "Gewinnverteilung"
+        ],
+        "recommended_topics": [
+          "Rechtsformen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 69,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Rechtsformen",
+        "secondary_topics": [
+          "GbR"
+        ],
+        "recommended_topics": [
+          "Rechtsformen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 70,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Rechtsformen",
+        "secondary_topics": [
+          "GbR"
+        ],
+        "recommended_topics": [
+          "Rechtsformen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 71,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Gemeinnützige Organisationen",
+        "secondary_topics": [
+          "Gemeinwohl",
+          "Zwecke"
+        ],
+        "recommended_topics": [
+          "Gemeinnützige Organisationen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 72,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Gemeinnützige Organisationen",
+        "secondary_topics": [
+          "e.V.",
+          "Stiftung",
+          "gGmbH",
+          "Finanzierung"
+        ],
+        "recommended_topics": [
+          "Gemeinnützige Organisationen",
+          "Rechtsformen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Kreuze in der Zuordnungstabelle visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 73,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Gemeinnützige Organisationen",
+        "secondary_topics": [
+          "Fallbeispiele"
+        ],
+        "recommended_topics": [
+          "Gemeinnützige Organisationen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Kreuze und Begründungen visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 74,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Gemeinnützige Organisationen",
+        "secondary_topics": [
+          "Übung"
+        ],
+        "recommended_topics": [
+          "Gemeinnützige Organisationen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Kreuze und Antworten visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 75,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Wettbewerbsrecht und Unternehmenszusammenschlüsse",
+        "secondary_topics": [
+          "UWG",
+          "Unlauterer Wettbewerb"
+        ],
+        "recommended_topics": [
+          "Wettbewerbsrecht und Unternehmenszusammenschlüsse"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 76,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Wettbewerbsrecht und Unternehmenszusammenschlüsse",
+        "secondary_topics": [
+          "Konzern",
+          "Fusion",
+          "Holding",
+          "Kartellarten"
+        ],
+        "recommended_topics": [
+          "Wettbewerbsrecht und Unternehmenszusammenschlüsse"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 77,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Wettbewerbsrecht und Unternehmenszusammenschlüsse",
+        "secondary_topics": [
+          "Konzern",
+          "Fusion",
+          "Holding",
+          "Kartell"
+        ],
+        "recommended_topics": [
+          "Wettbewerbsrecht und Unternehmenszusammenschlüsse"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Lösungen und Kreuze visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 78,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Wettbewerbsrecht und Unternehmenszusammenschlüsse",
+        "secondary_topics": [
+          "Kartellarten",
+          "Bundeskartellamt"
+        ],
+        "recommended_topics": [
+          "Wettbewerbsrecht und Unternehmenszusammenschlüsse"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Kreuze und Kartellart-Kürzel visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 79,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Wettbewerbsrecht und Unternehmenszusammenschlüsse",
+        "secondary_topics": [
+          "Kartellrecht",
+          "Fallbeispiele"
+        ],
+        "recommended_topics": [
+          "Wettbewerbsrecht und Unternehmenszusammenschlüsse"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Eingetragene Antworten den Fällen A–D und Aufgabe 5 visuell zugeordnet."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 80,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Wettbewerbsrecht und Unternehmenszusammenschlüsse",
+        "secondary_topics": [
+          "Lösungsblatt",
+          "Konzern",
+          "Fusion",
+          "Holding",
+          "Kartell"
+        ],
+        "recommended_topics": [
+          "Wettbewerbsrecht und Unternehmenszusammenschlüsse"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 81,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Wettbewerbsrecht und Unternehmenszusammenschlüsse",
+        "secondary_topics": [
+          "Lösungsblatt",
+          "Kartellarten"
+        ],
+        "recommended_topics": [
+          "Wettbewerbsrecht und Unternehmenszusammenschlüsse"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Tabellenspalten richtig/falsch in Aufgabe 2a visuell eindeutig transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 82,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Wettbewerbsrecht und Unternehmenszusammenschlüsse",
+        "secondary_topics": [
+          "Lösungsblatt",
+          "Kartellrecht"
+        ],
+        "recommended_topics": [
+          "Wettbewerbsrecht und Unternehmenszusammenschlüsse"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
+      "page": 83,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Wettbewerbsrecht und Unternehmenszusammenschlüsse",
+        "secondary_topics": [
+          "Kartellverbot",
+          "Normenkartell",
+          "Bundeskartellamt"
+        ],
+        "recommended_topics": [
+          "Wettbewerbsrecht und Unternehmenszusammenschlüsse"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    }
+  ]
+}

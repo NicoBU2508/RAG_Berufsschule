@@ -30,7 +30,7 @@ Die Risikoanalyse schließt Lücken, die nach Strukturanalyse, Schutzbedarfsfest
 
 | Quelle | Evidenz | PDF-Seiten |
 |---|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT-Sicherheit Skript Wittmann]] | direkter Kapitelbereich | [45](<../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=45>)–[57](<../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=57>) |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT-Sicherheit Skript Wittmann]] | direkter Kapitelbereich | [45](<../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=45>)–[57](<../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57>) |
 
 > [!warning] Korrigierter Altbefund
 > Die frühere Referenzliste mit Seiten 1, 9 und 17–41 war semantisch zu breit. Diese Seiten behandeln größtenteils Inhaltsverzeichnis, Strukturanalyse, Schutzbedarf oder Modellierung und gelten nicht mehr als Risikoanalyse-Kernevidenz.

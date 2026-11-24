@@ -2,7 +2,7 @@
 typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
-original_pfad: "99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf"
+original_pfad: "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf"
 seiten: 34
 pruefung: "AP1, AP2"
 cssclasses:
@@ -26,7 +26,7 @@ textzeichen: 0
 # 📄 IT Sicherheit Fachbegriffe
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
-> - **Original-PDF:** [Fachbegriffe.pdf](<99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf>)
+> - **Original-PDF:** [Fachbegriffe.pdf](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf>)
 > - **Seiten:** 34
 > - **KI-Lesbarkeit:** kritisch: Export visuell nicht belastbar: sichtbar sind nur Überschriften; Definitionen liegen außerhalb der sichtbaren Seitenfläche
 > - **Aktive Lernquelle:** nein – technisch ausgeschlossen

@@ -1,0 +1,622 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md (Seiten 1–22)",
+  "replaces_existing": false,
+  "topic_categories": {
+    "Prozessmanagement und Geschäftsprozesse": "Wirtschaft_und_Recht",
+    "Ereignisgesteuerte Prozessketten EPK": "Wirtschaft_und_Recht"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Prozessmanagement und Geschäftsprozesse",
+        "secondary_topics": [
+          "Aufbau- und Ablauforganisation",
+          "Funktions- vs. Prozessorientierung",
+          "KVP"
+        ],
+        "recommended_topics": [
+          "Prozessmanagement und Geschäftsprozesse",
+          "Organisation im Betrieb"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Mitschrift visuell bereinigt und transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 2,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Prozessmanagement und Geschäftsprozesse",
+        "secondary_topics": [
+          "Nachteile Prozessorientierung"
+        ],
+        "recommended_topics": [
+          "Prozessmanagement und Geschäftsprozesse"
+        ],
+        "content_type": "fragment",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Kurze handschriftliche Fortsetzung von Seite 1 (nur 2 Stichpunkte); unterstützend zugeordnet."
+        ],
+        "exclusion_reason": null,
+        "support_only": true,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Prozessmanagement und Geschäftsprozesse",
+        "secondary_topics": [
+          "Prozessorientierung",
+          "Funktionsorientierte Organisation"
+        ],
+        "recommended_topics": [
+          "Prozessmanagement und Geschäftsprozesse"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftlich ergänzte Prozessdefinition an der korrekten Stelle eingefügt."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 4,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Prozessmanagement und Geschäftsprozesse",
+        "secondary_topics": [
+          "Kundenorientierung",
+          "Magisches Dreieck",
+          "Effektivität und Effizienz"
+        ],
+        "recommended_topics": [
+          "Prozessmanagement und Geschäftsprozesse"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Lücken und Magisches Dreieck aus Sichtprüfung sauber transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Prozessmanagement und Geschäftsprozesse",
+        "secondary_topics": [
+          "Definition Geschäftsprozess",
+          "Prozesskennzeichen"
+        ],
+        "recommended_topics": [
+          "Prozessmanagement und Geschäftsprozesse"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftlich ausgefüllten Lückentext visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Prozessmanagement und Geschäftsprozesse",
+        "secondary_topics": [
+          "Kernprozesse",
+          "Serviceprozesse",
+          "Informations- und Materialprozesse"
+        ],
+        "recommended_topics": [
+          "Prozessmanagement und Geschäftsprozesse"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Prozessarten spaltengetreu transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 7,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "EPK-Symbole",
+          "Darstellung von Geschäftsprozessen"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK",
+          "Prozessmanagement und Geschäftsprozesse"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 8,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "EPK-Regeln",
+          "Informationsobjekte",
+          "Organisationseinheiten"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 9,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "Ereignis",
+          "Funktion"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Einträge zu Ereignis und Funktion visuell zugeordnet."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 10,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "Konnektoren",
+          "UND",
+          "ODER",
+          "XOR"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Konnektoren-Tabelle inkl. Symbole visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 11,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "eEPK",
+          "Organisationseinheit",
+          "Informationsobjekt"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Einträge zu Organisationseinheit und Informationsobjekt visuell zugeordnet."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 12,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "Kontrollfluss",
+          "Abfolge von Ereignissen und Funktionen"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 13,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "Verteiler",
+          "Aufspaltung und Zusammenführung"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 14,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "UND-Verknüpfung",
+          "ODER-Verknüpfung"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 15,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "XODER-Verknüpfung",
+          "XOR"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 16,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "eEPK Übung",
+          "Eingangsrechnungen"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche eEPK-Prozessstruktur visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 17,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "eEPK Übung",
+          "Wareneingangsbearbeitung"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche eEPK Wareneingangsbearbeitung visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 18,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "eEPK Übung",
+          "Fertigungsdurchführung"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche eEPK Fertigungsdurchführung visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 19,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "eEPK Übungsaufgaben",
+          "Inventarisierung",
+          "Dokumentenarchivierung"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 20,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "eEPK Lösung",
+          "Inventarisierung"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliches eEPK-Diagramm zu Aufgabe 1 (S. 19) visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 21,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "Endereignis",
+          "Fortsetzung Seite 20"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK"
+        ],
+        "content_type": "fragment",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Nur Endereignis-Fortsetzung der eEPK von Seite 20; unterstützend zugeordnet und transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": true,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 22,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Ereignisgesteuerte Prozessketten EPK",
+        "secondary_topics": [
+          "eEPK Vorlage",
+          "Dokumentenarchivierung"
+        ],
+        "recommended_topics": [
+          "Ereignisgesteuerte Prozessketten EPK"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Eingebettetes eEPK-Vorlagendiagramm visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

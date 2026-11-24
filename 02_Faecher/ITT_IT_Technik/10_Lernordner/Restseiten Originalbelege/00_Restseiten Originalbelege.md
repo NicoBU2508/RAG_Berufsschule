@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Restseiten Originalbelege** im Fach **ITT IT-Technik**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=1|Netzwerkt S. 1]]; [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=4|Netzwerkt S. 4]]; [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=5|Netzwerkt S. 5]]; [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=6|Netzwerkt S. 6]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=1|Netzwerkt S. 1]]; [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=4|Netzwerkt S. 4]]; [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=5|Netzwerkt S. 5]]; [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=6|Netzwerkt S. 6]].
 > - **Zentrale Suchbegriffe:** Restseiten, Originalbelege, OtmaNetzwerkt, 00000000.
 > - **Prüfungsbezug:** AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -53,10 +53,10 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=1>) | Otma_Netzwerkt Seite 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=4>) | 00000000 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=5>) | Otma_Netzwerkt Seite 5 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=6>) | Otma_Netzwerkt Seite 6 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=1>) | Otma_Netzwerkt Seite 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=4>) | 00000000 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=5>) | Otma_Netzwerkt Seite 5 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=6>) | Otma_Netzwerkt Seite 6 | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -65,11 +65,11 @@ tags:
 #### Seite 1: Otma_Netzwerkt Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=1]]`
+> - PDF: [Netzwerkt.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 
@@ -83,11 +83,11 @@ tags:
 #### Seite 4: 00000000
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=4]]`
+> - PDF: [Netzwerkt.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 00000000 O 10000000 128 1100 0000 192 1110 0000 221 11110000 248 1111100 248 11111100 252 11171110 254 11111111 257
@@ -120,11 +120,11 @@ O
 #### Seite 5: Otma_Netzwerkt Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=5]]`
+> - PDF: [Netzwerkt.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=5]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 10 Tib in PB · 20 75GlB = Mb 75 GB = Pib 75 . 230B 75 . 109B 75 . 230. B 75 .10908b 75 . 2. 75 . 10570 Pis 75 . 230. Ab 5 Mb = KiB 27 :1015 5. 106. . B 5. 105. B 27 . 105. kit 10158 wie
@@ -169,11 +169,11 @@ KiB
 #### Seite 6: Otma_Netzwerkt Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=6]]`
+> - PDF: [Netzwerkt.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=6]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 

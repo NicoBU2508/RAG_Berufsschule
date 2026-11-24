@@ -2,7 +2,7 @@
 typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
-original_pfad: "99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf"
+original_pfad: "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf"
 seiten: 8
 pruefung: "AP1"
 cssclasses:
@@ -25,7 +25,7 @@ textzeichen: 10555
 # 📄 It Elektro Wild Zusammenfassung
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
-> - **Original-PDF:** [Zusammenfassung.pdf](<99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf>)
+> - **Original-PDF:** [Zusammenfassung.pdf](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf>)
 > - **Seiten:** 8
 > - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (partial=7)
 > - **Aktive Lernquelle:** ja
@@ -56,11 +56,11 @@ textzeichen: 10555
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Zusammenfassung.pdf Seite 2](<99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=2]]`
+> - PDF-Seite: [Zusammenfassung.pdf Seite 2](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=2]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -136,11 +136,11 @@ Vorsicht bei elektrostatisch gefährdeten Bauteilen (z.B. Platinen)
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Zusammenfassung.pdf Seite 3](<99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=3]]`
+> - PDF-Seite: [Zusammenfassung.pdf Seite 3](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=3]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -189,11 +189,11 @@ Pic hein. dO mehr... nn
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Zusammenfassung.pdf Seite 4](<99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=4]]`
+> - PDF-Seite: [Zusammenfassung.pdf Seite 4](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=4]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -234,11 +234,11 @@ Wa U-I-t P.,-t K=W,,-T
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Zusammenfassung.pdf Seite 5](<99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=5]]`
+> - PDF-Seite: [Zusammenfassung.pdf Seite 5](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=5]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -297,11 +297,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Zusammenfassung.pdf Seite 6](<99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=6]]`
+> - PDF-Seite: [Zusammenfassung.pdf Seite 6](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=6]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -336,11 +336,11 @@ Tragt eure Ergebnisse aus den Teilaufgaben 4 und 5 in die Tabelle auf Seite 3 ei
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Zusammenfassung.pdf Seite 7](<99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=7]]`
+> - PDF-Seite: [Zusammenfassung.pdf Seite 7](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=7]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=7]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -742,11 +742,11 @@ Wel
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Zusammenfassung.pdf Seite 8](<99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=8]]`
+> - PDF-Seite: [Zusammenfassung.pdf Seite 8](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/It Elektro Wild/Zusammenfassung.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=8]]
 
 #### Extrahierter Originaltext für Suche und KI
 

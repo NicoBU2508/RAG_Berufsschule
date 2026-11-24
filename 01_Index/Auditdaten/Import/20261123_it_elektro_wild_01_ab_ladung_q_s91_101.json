@@ -1,0 +1,327 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md (Seiten 91–101)",
+  "replaces_existing": false,
+  "topic_categories": {
+    "USV-Anlagen": "Elektrotechnik"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 91,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "USV-Anlagen",
+        "secondary_topics": [
+          "USV Grundlagen",
+          "Blockschaltbild"
+        ],
+        "recommended_topics": [
+          "USV-Anlagen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Antworten, Blockschaltbild und Linien-Artefakte aus Sichtprüfung bereinigt transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 92,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "USV-Anlagen",
+        "secondary_topics": [
+          "Netzstörungen",
+          "USV-Angebotsvergleich",
+          "Offline-USV"
+        ],
+        "recommended_topics": [
+          "USV-Anlagen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingebetteter Produktvergleich und Antworten aus Sichtprüfung bereinigt transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 93,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "USV-Anlagen",
+        "secondary_topics": [
+          "Offline-USV VFD",
+          "Line-interactive-USV VI",
+          "Online-USV VFI"
+        ],
+        "recommended_topics": [
+          "USV-Anlagen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 94,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "USV-Anlagen",
+        "secondary_topics": [
+          "Online-USV Bypass",
+          "USV-Vergleichstabelle"
+        ],
+        "recommended_topics": [
+          "USV-Anlagen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Vergleichstabelle mit Schaltbildern visuell transkribiert; Hinweis auf zwischen S.94 und S.95 vertauschte AVR-/Bypass-Grafik ergänzt"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 95,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "USV-Anlagen",
+        "secondary_topics": [
+          "Online-USV",
+          "Dimensionierung",
+          "Autonomiezeit",
+          "Nennbelastbarkeit"
+        ],
+        "recommended_topics": [
+          "USV-Anlagen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Tabellenzeile Online-USV und Dimensionierungskriterien bereinigt visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 96,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "USV-Anlagen",
+        "secondary_topics": [
+          "Wirkleistung",
+          "Scheinleistung",
+          "Blindleistung",
+          "Wirkleistungsfaktor cos phi"
+        ],
+        "recommended_topics": [
+          "USV-Anlagen",
+          "Elektrische Leistung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Leistungsformeln und Einheiten aus Sichtprüfung vollständig transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 97,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "USV-Anlagen",
+        "secondary_topics": [
+          "Scheinleistung Berechnung",
+          "Autonomiedauer Formel"
+        ],
+        "recommended_topics": [
+          "USV-Anlagen",
+          "Elektrische Leistung"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Handschriftlicher Rechenweg und Autonomiedauer-Formel aus Sichtprüfung vollständig transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 98,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "USV-Anlagen",
+        "secondary_topics": [
+          "Autonomiezeit Berechnung",
+          "AP1 Winter 2020/21"
+        ],
+        "recommended_topics": [
+          "USV-Anlagen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Handschriftliche Autonomiezeit-Rechnung und eingescannte AP1-Aufgaben aa–ab vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 99,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "USV-Anlagen",
+        "secondary_topics": [
+          "USV-Auswahl",
+          "Leistungsreserve 25 Prozent",
+          "AP1 Winter 2020/21"
+        ],
+        "recommended_topics": [
+          "USV-Anlagen",
+          "Elektrische Leistung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingescannte AP1-Aufgaben ac, ad, b, ca und handschriftlicher Rechenweg vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 100,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "USV-Anlagen",
+        "secondary_topics": [
+          "Autonomiezeit-Kennlinie",
+          "AP1 Winter 2020/21"
+        ],
+        "recommended_topics": [
+          "USV-Anlagen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingescannte AP1-Aufgabe cb und Kennlinien-Auswertung vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 101,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "USV-Anlagen",
+        "secondary_topics": [
+          "Leistungsreserve",
+          "DGUV V3",
+          "USV-Datenkommunikation"
+        ],
+        "recommended_topics": [
+          "USV-Anlagen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Aufgaben cc–ce und Antworten um Linien-Artefakte bereinigt visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

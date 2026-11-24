@@ -2,8 +2,8 @@
 typ: quelle
 fach: "PuG_Politik_und_Gesellschaft"
 fach_anzeige: "PuG Politik und Gesellschaft"
-original_pfad: "99_Originale/Berufsschule/PUG/Pug.pdf"
-seiten: 35
+original_pfad: "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf"
+seiten: 51
 pruefung: "AP1, WiSo"
 cssclasses:
   - lernquelle
@@ -12,22 +12,23 @@ tags:
   - quelle
   - pug_politik_und_gesellschaft
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-07-13"
+seitenaudit_datum: "2026-11-23"
 kanonische_referenzen: true
-kanonische_themen: 8
-seiten_mit_kanonischem_thema: 33
+kanonische_themen: 12
+seiten_mit_kanonischem_thema: 49
 ki_exclude_seiten: [1,16]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
+ki_support_seiten: [45]
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=17, partial=16)"
-textzeichen: 39517
+textstatus: "gemischt: visuell geprüft (ok=28, ocr_verified=5, partial=16)"
+textzeichen: 59112
 ---
 # 📄 Pug
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/PuG_Politik_und_Gesellschaft/PuG_Politik_und_Gesellschaft|PuG Politik und Gesellschaft]]
-> - **Original-PDF:** [Pug.pdf](<99_Originale/Berufsschule/PUG/Pug.pdf>)
-> - **Seiten:** 35
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=17, partial=16)
+> - **Original-PDF:** [Pug.pdf](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf>)
+> - **Seiten:** 51
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=28, ocr_verified=5, partial=16)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -35,12 +36,16 @@ textzeichen: 39517
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Ausbildungsvertrag und BBiG\|Ausbildungsvertrag und BBiG]] | Prüfungsrahmen der Quelle | 2–5 | Visuell bestätigt auf 4 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Betriebsrat und Betriebsverfassung\|Betriebsrat und Betriebsverfassung]] | Prüfungsrahmen der Quelle | 32–35 | Visuell bestätigt auf 4 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Betriebsrat und Betriebsverfassung\|Betriebsrat und Betriebsverfassung]] | Prüfungsrahmen der Quelle | 32–36 | Visuell bestätigt auf 5 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Bundesurlaubsgesetz\|Bundesurlaubsgesetz]] | Prüfungsrahmen der Quelle | 10–12 | Visuell bestätigt auf 3 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Jugendarbeitsschutz\|Jugendarbeitsschutz]] | Prüfungsrahmen der Quelle | 6–9 | Visuell bestätigt auf 4 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Kündigung und Arbeitsrecht\|Kündigung und Arbeitsrecht]] | Prüfungsrahmen der Quelle | 18–27 | Visuell bestätigt auf 10 Seite(n); bei 6 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Lohn- und Gehaltsabrechnung\|Lohn- und Gehaltsabrechnung]] | Prüfungsrahmen der Quelle | 40–41, 48–51 | Visuell bestätigt auf 6 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Mutterschutz\|Mutterschutz]] | Prüfungsrahmen der Quelle | 13–15 | Visuell bestätigt auf 3 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Organisation im Betrieb\|Organisation im Betrieb]] | Prüfungsrahmen der Quelle | 38 | Visuell bestätigt auf 1 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Personalwirtschaft und Personalentwicklung\|Personalwirtschaft und Personalentwicklung]] | Prüfungsrahmen der Quelle | 37–39 | Visuell bestätigt auf 3 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Schwerbehinderung\|Schwerbehinderung]] | Prüfungsrahmen der Quelle | 17 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Sozialversicherung\|Sozialversicherung]] | Prüfungsrahmen der Quelle | 40–48, 51 | Visuell bestätigt auf 10 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 4 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Tarifvertrag und Koalitionsrecht\|Tarifvertrag und Koalitionsrecht]] | Prüfungsrahmen der Quelle | 28–31 | Visuell bestätigt auf 4 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
@@ -60,11 +65,11 @@ textzeichen: 39517
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 2](<99_Originale/Berufsschule/PUG/Pug.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=2]]`
+> - PDF-Seite: [Pug.pdf Seite 2](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=2]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -100,11 +105,11 @@ insbesondere zu der Problematik der Überstunden.
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 3](<99_Originale/Berufsschule/PUG/Pug.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=3]]`
+> - PDF-Seite: [Pug.pdf Seite 3](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=3]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -144,11 +149,11 @@ Pflichten des Auszubildenden bzw. des Ausbilders.
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 4](<99_Originale/Berufsschule/PUG/Pug.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=4]]`
+> - PDF-Seite: [Pug.pdf Seite 4](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=4]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -193,11 +198,11 @@ werden (AG als auch Azubil
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 5](<99_Originale/Berufsschule/PUG/Pug.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=5]]`
+> - PDF-Seite: [Pug.pdf Seite 5](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=5]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -245,11 +250,11 @@ Jugenarbeitssurtzy
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 6](<99_Originale/Berufsschule/PUG/Pug.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=6]]`
+> - PDF-Seite: [Pug.pdf Seite 6](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=6]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -315,11 +320,11 @@ psychischen und physischen Schäden und Überlastungen
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 7](<99_Originale/Berufsschule/PUG/Pug.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=7]]`
+> - PDF-Seite: [Pug.pdf Seite 7](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=7]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=7]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -393,11 +398,11 @@ mit. 15min sein
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 8](<99_Originale/Berufsschule/PUG/Pug.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=8]]`
+> - PDF-Seite: [Pug.pdf Seite 8](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=8]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=8]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -519,11 +524,11 @@ So nicht möglich
 ### Seite 9
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 9](<99_Originale/Berufsschule/PUG/Pug.pdf#page=9>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=9]]`
+> - PDF-Seite: [Pug.pdf Seite 9](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=9]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=9]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -562,11 +567,11 @@ Vorschriften des Jugendarbeitsschutzgesetzes verstößt.
 ### Seite 10
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 10](<99_Originale/Berufsschule/PUG/Pug.pdf#page=10>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=10]]`
+> - PDF-Seite: [Pug.pdf Seite 10](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=10>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=10]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=10]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -599,11 +604,11 @@ bezüglich seines Weihnachtsurlaubes.
 ### Seite 11
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 11](<99_Originale/Berufsschule/PUG/Pug.pdf#page=11>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=11]]`
+> - PDF-Seite: [Pug.pdf Seite 11](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=11>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=11]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=11]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -652,11 +657,11 @@ Teilanspruch besitzt. (Bitte begründen Sie Ihre Antwort)
 ### Seite 12
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 12](<99_Originale/Berufsschule/PUG/Pug.pdf#page=12>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=12]]`
+> - PDF-Seite: [Pug.pdf Seite 12](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=12>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=12]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=12]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -707,11 +712,11 @@ volles
 ### Seite 13
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 13](<99_Originale/Berufsschule/PUG/Pug.pdf#page=13>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=13]]`
+> - PDF-Seite: [Pug.pdf Seite 13](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=13>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=13]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=13]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -759,11 +764,11 @@ Urlaub?
 ### Seite 14
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 14](<99_Originale/Berufsschule/PUG/Pug.pdf#page=14>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=14]]`
+> - PDF-Seite: [Pug.pdf Seite 14](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=14>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=14]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=14]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -798,11 +803,11 @@ Arbeitsvertrages
 ### Seite 15
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 15](<99_Originale/Berufsschule/PUG/Pug.pdf#page=15>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=15]]`
+> - PDF-Seite: [Pug.pdf Seite 15](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=15>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=15]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=15]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -877,11 +882,11 @@ den restlichen Urlaub !
 ### Seite 17
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 17](<99_Originale/Berufsschule/PUG/Pug.pdf#page=17>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=17]]`
+> - PDF-Seite: [Pug.pdf Seite 17](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=17]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -979,11 +984,11 @@ Zusatzurlaub
 ### Seite 18
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 18](<99_Originale/Berufsschule/PUG/Pug.pdf#page=18>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=18]]`
+> - PDF-Seite: [Pug.pdf Seite 18](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=18]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=18]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1031,11 +1036,11 @@ Franz auf einem Informationsblatt mit.
 ### Seite 19
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 19](<99_Originale/Berufsschule/PUG/Pug.pdf#page=19>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=19]]`
+> - PDF-Seite: [Pug.pdf Seite 19](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=19]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1082,11 +1087,11 @@ im Arbeitsvertrag verlängert werden
 ### Seite 20
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 20](<99_Originale/Berufsschule/PUG/Pug.pdf#page=20>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=20]]`
+> - PDF-Seite: [Pug.pdf Seite 20](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=20]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1155,11 +1160,11 @@ worden sein
 ### Seite 21
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 21](<99_Originale/Berufsschule/PUG/Pug.pdf#page=21>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=21]]`
+> - PDF-Seite: [Pug.pdf Seite 21](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=21>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=21]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=21]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1213,11 +1218,11 @@ Drohungen ,Mobbing , Schweigepflichtverletzung
 ### Seite 22
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 22](<99_Originale/Berufsschule/PUG/Pug.pdf#page=22>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=22]]`
+> - PDF-Seite: [Pug.pdf Seite 22](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=22>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=22]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=22]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1233,11 +1238,11 @@ Sozialauswahl bei betriebl
 ### Seite 23
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 23](<99_Originale/Berufsschule/PUG/Pug.pdf#page=23>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=23]]`
+> - PDF-Seite: [Pug.pdf Seite 23](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=23]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=23]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1296,11 +1301,11 @@ Arbeitsverhältnis von Herrn Kuhn aus?
 ### Seite 24
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 24](<99_Originale/Berufsschule/PUG/Pug.pdf#page=24>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=24]]`
+> - PDF-Seite: [Pug.pdf Seite 24](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=24>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=24]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=24]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1339,11 +1344,11 @@ Diebstahl aussprechen
 ### Seite 25
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 25](<99_Originale/Berufsschule/PUG/Pug.pdf#page=25>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=25]]`
+> - PDF-Seite: [Pug.pdf Seite 25](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=25>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=25]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=25]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1382,11 +1387,11 @@ Kündigungsfrist an.
 ### Seite 26
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 26](<99_Originale/Berufsschule/PUG/Pug.pdf#page=26>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=26]]`
+> - PDF-Seite: [Pug.pdf Seite 26](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=26]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1433,11 +1438,11 @@ Jahr im Betrieb.
 ### Seite 27
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 27](<99_Originale/Berufsschule/PUG/Pug.pdf#page=27>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=27]]`
+> - PDF-Seite: [Pug.pdf Seite 27](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=27>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=27]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=27]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1476,11 +1481,11 @@ im Betrieb 3. W
 ### Seite 28
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 28](<99_Originale/Berufsschule/PUG/Pug.pdf#page=28>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=28]]`
+> - PDF-Seite: [Pug.pdf Seite 28](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=28>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=28]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=28]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1553,11 +1558,11 @@ Ja , da grundsätzlich alle gleich behandelt wede
 ### Seite 29
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 29](<99_Originale/Berufsschule/PUG/Pug.pdf#page=29>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=29]]`
+> - PDF-Seite: [Pug.pdf Seite 29](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=29]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1619,11 +1624,11 @@ Arbeitgeber ist verpflichtet, die für seinen Betrieb maßgebenden Tarifverträg
 ### Seite 30
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 30](<99_Originale/Berufsschule/PUG/Pug.pdf#page=30>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=30]]`
+> - PDF-Seite: [Pug.pdf Seite 30](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=30>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=30]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=30]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1680,11 +1685,11 @@ geführt werden.
 ### Seite 31
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 31](<99_Originale/Berufsschule/PUG/Pug.pdf#page=31>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=31]]`
+> - PDF-Seite: [Pug.pdf Seite 31](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=31>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=31]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=31]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1753,11 +1758,11 @@ Neuer Tarifvertrag
 ### Seite 32
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 32](<99_Originale/Berufsschule/PUG/Pug.pdf#page=32>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=32]]`
+> - PDF-Seite: [Pug.pdf Seite 32](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=32]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1828,11 +1833,11 @@ mitgezählt. Sie haben volles Stimmrecht
 ### Seite 33
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 33](<99_Originale/Berufsschule/PUG/Pug.pdf#page=33>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=33]]`
+> - PDF-Seite: [Pug.pdf Seite 33](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=33]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1886,11 +1891,11 @@ Vertretung der Interessen der Beschäftigten dienen. Hierzu gehören nach § 80 
 ### Seite 34
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 34](<99_Originale/Berufsschule/PUG/Pug.pdf#page=34>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=34]]`
+> - PDF-Seite: [Pug.pdf Seite 34](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=34>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=34]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=34]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1974,11 +1979,11 @@ Die Wahl erfolgt alle vier Jahre im Zeitraum von März bis Mai als geheime und u
 ### Seite 35
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Pug.pdf Seite 35](<99_Originale/Berufsschule/PUG/Pug.pdf#page=35>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=35]]`
+> - PDF-Seite: [Pug.pdf Seite 35](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=35>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=35]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=35]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2048,3 +2053,645 @@ verlangen?
      anbieten?
 ```
 
+### Seite 36
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 36](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=36>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=36]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=36]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Die Betriebsvereinbarung PuG
+Name: Klasse: Datum: 1
+Betriebsvereinbarung
+Die Geschäftsführung der Bit & Byte GmbH möchte die Arbeitszeiten verändern: Die bisher festen
+Arbeitszeiten täglich von 8.00 - 16.30 Uhr sollen so geändert werden, dass – ohne zusätzliche Kosten -
+die Abteilungen morgens ab 7.00 Uhr und abends bis 18.00 Uhr besetzt sind. Die Meinung der
+Beschäftigten hierzu ist geteilt: Während einige auf flexible Arbeitszeit, z. B. in Form von Gleitzeit,
+hoffen, befürchten andere in Zukunft abends immer länger arbeiten zu müssen. Einige Mitarbeiter bitten
+daher den Betriebsrat um Mitwirkung an diesem Thema.
+1. Prüfen Sie, welches Mitbestimmungsrecht der Betriebsrat bei diesem Thema hat.
+2. Der Betriebsrat schlägt vor, über die Arbeitszeiten eine Betriebsvereinbarung
+abzuschließen. Informieren Sie sich über die Betriebsvereinbarung im § _______.
+a) Was ist eine Betriebsvereinbarung?
+b) Welche Inhalte dürfen nicht in einer Betriebsvereinbarung vereinbart werden?
+c) Sind die Regelungen der Betriebsvereinbarung verbindlich für alle Beschäftigten?
+3. Beurteilen Sie, warum eine Betriebsvereinbarung in vielen Fällen sinnvoll ist.
+BR hat Mitbestimmungsrecht, Arbeitszeiten gehören zum sozial Bereich (Set Betra)
+Ist eine von AG und BR gemeinsam schriftliche beschlossene Vereinbarung für die An
+Es darf alles geregelt werden, was nicht bereits in einem TV geregelt waren ist (z. B Löhre,
+Gehälter es darf kein Verstoß gegen ein Gesetz vorliegen bzw. Gesetz, TV und individuelle
+Au verschlechten
+Grundsätzlich ist eine Betriebsvereinbarung für alle AN des Betriebs bei für Bereiche
+-streitpunkte können im Vorfeld vermieden werden
+-Arbeitserleichtzung bei vielen Mitarbeiten
+-Faires schaften
+-für betrieb passende verfeinerte Regelungen
+```
+
+### Seite 37
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 37](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=37>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=37]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=37]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+￼
+￼
+￼
+￼
+Personalinformations-
+system
+￼
+￼
+￼
+Personalpolitik
+￼
+￼
+￼
+Personal-
+planung
+￼
+￼
+￼
+Personalve
+r-waltung
+Einzelaufgaben:
+• Personalbedarfsermittlung
+• Personalbeschaffung
+Personalanwerbung, -auswahl und -einstellung
+• Personaleinsatz
+Stellenbeschreibung, Personaleinweisung,
+Arbeitszeitregelung, Urlaubsregelung,
+Umsetzungen
+• Personalentwicklung (Personalförderung)
+Aus-, Fort- und Weiterbildung, Beurteilung
+• Personalbetreuung (Sozialwesen)
+soziale Einrichtungen, Sozialleistungen
+• Arbeitsbewertung und Entlohnung
+• Personalfreistellung
+Alle Maßnahmen der Geschäftsleitung, die die
+Personalführung und Personalbehandlung betreffen
+setzt Ziele und legt
+spätere Maßnahmen
+fest.
+erledigt die laufenden
+Aufgaben
+liefert die benötigten Informationen
+```
+
+### Seite 38
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 38](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=38>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=38]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=38]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Personal - Stellenbeschreibung BWP
+Name: Klasse: Datum: 1
+Die Stellenbeschreibung
+Die Stellenbeschreibung dient der ausführlichen Erläuterung einer bestimmten Stelle.
+Beispiel einer Stellenbeschreibung
+1. Positionsbezeichnung
+Sachbearbeiter Einkauf Produktionsmaterial
+2. Hauptaufgaben
+Führt alle Beschaffungsaufgaben durch, überwacht die Lagerbestände, führt Preisverhandlungen zusammen mit dem
+Abteilungsleiter, beobachtet die Marktlage.
+3. Haupttätigkeiten und Verantwortlichkeiten
+ Beobachtung der Bestände
+ Prüfung der Bedarfsanforderungen und Ermittlung des Bedarfs
+ Ermittlung der Bezugsquellen
+ Prüfung und Bearbeitung der Angebote
+ Empfang von Vertretern
+ Führung von Verhandlungen mit Lieferanten über Preise und Bezugsbedingungen (gemeinsam mit dem
+Abteilungsleiter)
+ Aufgabe von Bestellungen
+ Terminkontrolle der Lieferungen
+ Wareneingangskontrolle und -prüfung
+ Prüfung der Lieferantenrechnungen
+ Bearbeitung von Reklamationen und Gutschriften
+ Bewertung von Beständen
+ Kontrolle der Bestandsentwicklung
+
+4. Entscheidungsbefugnis
+Entscheidet im Rahmen normaler innerbetrieblicher Vorgänge selbständig, bei Führung von Verhandlungen mit Lieferanten
+liegt die Entscheidung beim Abteilungsleiter. Eine besondere externe Unterschriftenberechtigung ist nicht vorgesehen.
+5. Anforderungen und Qualifikationen
+ Muss mindestens einen mittleren Schulabschluss, eine kaufmännische Ausbildung und 3 - 5 Jahre Berufserfahrung,
+davon mindestens 2 Jahre Einkaufstätigkeit nachweisen.
+ 1 Jahr Branchenerfahrung sowie Erfahrungen mit der Datenverarbeitung und dem Lesen technischer Zeichnungen
+wären vorteilhaft.
+ An persönlichen Anforderungen sind Verhandlungsgeschick, Kontaktfähigkeit, gute Umgangsformen sowie analytisches
+Denkvermögen Bedingung.
+Die Stellenbeschreibung gibt Auskunft über:
+ Die Position
+ Die Haupttätigkeiten der Mitarbeiter
+ Die Verantwortung der Mitarbeiter
+ Die Entscheidungsbefugnis (= Kompetenz) der Mitarbeiter
+ Die Qualifikationsanforderungen an die Mitarbeiter
+Die Stellenbeschreibung schafft Klarheit über den Inhalt einer Stelle.
+Dies ist vor allem bei Neubesetzungen durch Beförderungen vorhandener oder die Einstellung neuer
+Mitarbeiter wichtig.
+```
+
+### Seite 39
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 39](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=39>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=39]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=39]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Personal – Weiterbildung vs Fortbildung BWP
+Name: Klasse: Datum: 1
+Weiterbildung versus Fortbildung: Der Unterschied
+Bei einer Fortbildung steht eine konkrete Weiterqualifizierung im Fokus, die sich auf den derzeit
+ausgeübten Job bezieht. Hierbei geht es um den gezielten Erwerb weiterführender Fähigkeiten und
+Fertigkeiten, die für die Ausübung neuer, bevorstehender Aufgaben des Jobs ausgerichtet sind. Auch der
+berufliche Aufstieg kann ein Grund für die Fortbildung sein.
+Durch die Regelungen im Berufsbildungsgesetz wird der Fortbildung ein eindeutiger Zweck zugeordnet,
+die bisherige vorhandene berufliche Bildung entweder zu erhalten, anzupassen, zu erweitern oder für
+einen beruflichen Aufstieg auszubauen.
+Aus dem jeweiligen Zweck leiten sich somit auch die möglichen Fortbildungen ab:
+• Erhaltungsfortbildungen
+• Anpassungsfortbildungen
+• Erweiterungsfortbildungen
+• Aufstiegsfortbildungen
+Während in der Erhaltungsfortbildung bereits vorhandenes Wissen lediglich aufgefrischt wird, um
+damit beispielsweise eine gewohnte Qualität weiterhin zu garantieren, wird bei der
+Anpassungsfortbildung meist ein aktueller technischer Wissensstand an technische Neuerungen
+angepasst, um diese Neuerungen zukünftig im vorhandenen Beruf zu beherrschen. Bei der
+Erweiterungsfortbildung können in erster Linie bereits vorhandene Qualifikationen durch
+zusätzliche Lerninhalte erweitert werden und die Aufstiegsfortbildung ist meist dann notwendig,
+sobald höhere Verantwortung oder mehr Gehalt angestrebt werden. Eine Aufstiegsfortbildung kann,
+abhängig vom Bereich, auch ohne Abschluss absolviert werden, in der Regel ist für das
+erfolgreiche Abschließen jedoch eine Abschlussprüfung, beispielsweise zum Fachwirt, Meister
+oder Techniker notwendig. In den meisten Fällen übernimmt der jeweilige Arbeitgeber sämtliche
+Kosten für eine Fortbildung. Jedoch ist teilweise auch eine staatliche Förderung oder
+Finanzierung(Bafög) möglich.
+Eine Weiterbildung muss nicht in direktem Bezug zum bestehenden Job stehen. Hierbei geht es in erster
+Linie darum, das eigene Qualifikationsprofil auszubauen. Der Erwerb von Zusatzqualifikationen in den
+unterschiedlichsten Bereichen ist möglich. Mit der Weiterbildung wird kein konkreter betrieblicher
+Zweck verfolgt.
+Fazit: Wer einen erweiterten Bildungsabschluss benötigt, einen allgemeinbildenden Kurs besuchen
+möchte oder einen ganz neuen Beruf erlernen will, benötigt eine Weiterbildung. Alle spezifischen
+Bildungsmaßnahmen, welche innerhalb des vorhandenen Berufes neue Betätigungsfelder
+eröffnen oder aber auch einen höheren Verdienst ermöglichen, werden als Fortbildung bezeichnet.
+Für die Vergleichbarkeit der Bildung wurde der
+Europass eingeführt.
+Es gibt eine Vielzahl an Förderprogammen, auch für
+das Ausland (Erasmus, Leonardo da Vini …..)
+￼
+```
+
+### Seite 40
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 40](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=40>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=40]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=40]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Lohnabrechnung PuG
+Name: Klasse: Datum:
+Lohnabrechnung
+Sie sind in Ihrem Betrieb auch Ansprechpartner für neue Kollegen.
+Sabine Schmidt ist seit einem Monat in der IT-Syst GmbH
+beschäftigt. Die junge Kollegin bitte Sie, ihre Gehaltsabrechnung zu
+erläutern.
+Sie bitten Sabine, sich am nächsten Morgen nochmal bei Ihnen mit
+Ihrer Gehaltsabrechnung zu melden, um Ihre Fragen zu klären.
+Um alle Fragen von Sabine ausführlich beantworten zu können,
+bereiten Sie sich für das Gespräch vor und informieren sich
+nochmals (insbesondere zum Thema, Neuigkeiten in der
+Sozialversicherung, Aufbau der Gehaltsabrechnung,
+Lohnsteuerklassen, Vermögenswirksame Leistungen)
+Arbeitsauftrag:
+Informieren Sie sich ausführlich zum Thema Lohn-und Gehaltsabrechnung und
+erstellen Sie ein Informationsblatt, das Sie in Zukunft Ihren Mitarbeitern übereichen
+können.
+Informieren Sie sich über Neuerungen in diesem Jahr zur Sozialversicherung.
+```
+
+### Seite 41
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 41](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=41>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=41]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=41]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Lohnabrechnung PuG
+Name: Klasse: Datum:
+Aufbau einer Entgeltabrechnung
+Tarif- oder Grundentgelt
++ Sonderzahlungen
++ Arbeitgeberanteil zu vermögenswirksamen Leistungen
++ Zuschläge
+= Bruttoentgelt
+- Steuerfreibetrag
+= steuerpflichtiges Bruttoentgelt
+Bruttoentgelt
+- Arbeitnehmer-Anteil zur Sozialversicherung
+(vom Bruttoentgelt)
+Krankenversicherung
+Pflegeversicherung
+Rentenversicherung
+Arbeitslosenversicherung
+- Steuern (vom steuerpflichtigen Bruttoentgelt, siehe
+Lohnsteuertabelle)
+Lohnsteuer
+Kirchensteuer
+Solidaritätszuschlag
+= Nettoentgelt
+- vermögenswirksame Leistungen
+= Auszahlungs-/ Überweisungsbetrag
+```
+
+### Seite 42
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 42](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=42>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=42]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=42]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Die Sozialversicherungen PuG
+Name: Klasse: Datum: 1
+Die Sozialversicherungen
+Sie sind Auszubildender der IT-Syst GmbH und sind aktuell in der Personalabteilung
+eingesetzt. Neben verschiedenen Tätigkeiten, die Sie bereits durchführen konnten (z.B.
+Erstellen einer Stellenbeschreibung) sollen Sie in der Lohnabrechnung mitarbeiten.
+Neben den Steuern werden die Sozialversicherungen auch von Ihrem Bruttolohn ab-
+gezogen. Viele Mitarbeiter aber vor allem auch Auszubildende haben immer wieder
+Fragen zu den Sozialversicherungen. Um die Personalabteilung zu entlasten, sollen Sie
+nun Übersicht für Mitarbeiter insbesondere Auszubildende zu dem Thema
+Sozialversicherungen erstellen.
+Deutschland ist ein Sozialstaat, der dem Bürger viele Absicherungen bietet. Ein Bau-
+stein sind die Sozialversicherungen, die dem Solidaritätsprinzip entspringen.
+Ideengeber für die Sozialversicherungen war Otto von Bismarck.
+In Deutschland unterscheiden wir 5 Sozialversicherungen
+Krankenversicherung Pflegeversicherung
+Arbeitslosen-
+versicherung Rentenversicherung
+Unfallversicherung
+```
+
+### Seite 43
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 43](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=43>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=43]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=43]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Die Sozialversicherungen PuG
+Name: Klasse: Datum: 2
+Arbeitsauftrag:
+Erstellen Sie bitte für die Personalabteilung zu jeder Sozialversicherung je ein
+Informationsblatt welches mindestens folgende Punkte beinhalten sollte:
+Träger:
+Seit wann gibt es diese Versicherung?
+Versicherungspflicht für:
+Beitragssatz: (aktueller Satz für 2020)
+Beitragsbemessungsgrenze:
+Finanzierung (Wer zahlt die Beiträge):
+Leistungen:
+Erläutern Sie weiterhin, bei der Krankenversicherung den Unterschied zwischen
+Beitragsbemessungsgrenze und Versicherungspflichtgrenze verstanden wird.
+Verwenden Sie für Ihre Informationsbeschaffung das Internet.
+```
+
+### Seite 44
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 44](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=44>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=44]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=44]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Sozialversicherung PuG
+Name: Klasse: Datum: 1
+Übungsaufgaben Sozialversicherung
+1) Berechnen Sie bitte zu folgenden Bruttolöhnen den Arbeitnehmeranteil zu
+- Krankenversicherung
+- Pflegeversicherung
+- Arbeitslosenversicherung
+- Rentenversicherung
+Verwenden Sie bitte die Aktuellen Sätze des Jahres 2026
+a) Herbert Maier, 20 Jahre, ledig, keine Kinder, Bruttolohn 3.000,00 €
+b) Manfred Schwarz, 50 Jahre, verheiratet, keine Kinder, Bruttolohn 9.000,00 €
+c) Marion Huber, 34 Jahre, ledig, keine Kinder Bruttolohn 6.000,00 €
+Geben Sie bitte auch die Nebenrechnungen an.
+2) Erläutern Sie den Unterschied zwischen Beitragsbemessungsgrenze und
+Versicherungspflichtgrenze
+3) Geben Sie bitte an, welche Sozialversicherung welche Leistung übernimmt
+a) Krankengeld
+b) Sterbegeld
+c) Erwerbsunfähigkeitsrente
+d) Kurzarbeitergeld
+e) Mutterschaftsgeld
+f) Hinterbliebenenrente
+g) Witwenrente
+```
+
+### Seite 45
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 45](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=45>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=45]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=45]]
+
+> [!ocr] Visuell transkribiert
+> Eingebetteter Aufgabentext und handschriftlicher Lösungsansatz (unvollständig; vollständige Lösung siehe Seite 46) aus Sichtprüfung transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Übungsaufgaben Sozialversicherung
+
+1) Berechnen Sie bitte zu folgenden Bruttolöhnen den Arbeitnehmeranteil zu:
+- Krankenversicherung
+- Pflegeversicherung
+- Arbeitslosenversicherung
+- Rentenversicherung
+Verwenden Sie bitte die aktuellen Sätze des Jahres 2026:
+a) Herbert Maier, 20 Jahre, ledig, keine Kinder, Bruttolohn 3.000,00 €
+b) Manfred Schwarz, 50 Jahre, verheiratet, keine Kinder, Bruttolohn 9.000,00 €
+c) Marion Huber, 34 Jahre, ledig, keine Kinder, Bruttolohn 6.000,00 €
+Geben Sie bitte auch die Nebenrechnungen an.
+
+Handschriftliche Tabelle (Entwurf, nur Maier ausgefüllt):
+- Maier (3.000 €): KV = 219, PV = 54, RV = 279, AV = 39
+- Schwarz: (leer)
+- Huber: (leer)
+```
+
+### Seite 46
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 46](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=46>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=46]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=46]]
+
+> [!ocr] Visuell transkribiert
+> Eingebetteter Aufgabentext, gedruckte Lösungstabelle und handschriftliche Korrekturen (ohne Ø-Zusatzbeitrag bei Schwarz/Huber) aus Sichtprüfung transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Übungsaufgaben Sozialversicherung – Lösung zu Aufgabe 1
+
+Aufgabe 1) Berechnen Sie den Arbeitnehmeranteil (Sätze 2026) zu KV, PV, AV, RV inkl. Nebenrechnungen:
+a) Herbert Maier, 20 Jahre, ledig, keine Kinder, Bruttolohn 3.000,00 €
+b) Manfred Schwarz, 50 Jahre, verheiratet, keine Kinder, Bruttolohn 9.000,00 €
+c) Marion Huber, 34 Jahre, ledig, keine Kinder, Bruttolohn 6.000,00 €
+
+Lösungstabelle (AN-Anteil 2026):
+- Krankenversicherung:
+  - Herbert Maier: 262,50 €
+  - Manfred Schwarz: 508,59 € (handschriftlich durchgestrichen und korrigiert auf: 424,37 €)
+  - Marion Huber: 508,59 € (handschriftlich durchgestrichen und korrigiert auf: 424,37 €)
+- Pflegeversicherung:
+  - Herbert Maier: 54,00 €
+  - Manfred Schwarz: 139,50 €
+  - Marion Huber: 139,50 €
+- Rentenversicherung:
+  - Herbert Maier: 279,00 €
+  - Manfred Schwarz: 785,85 €
+  - Marion Huber: 558,00 €
+- Arbeitslosenversicherung:
+  - Herbert Maier: 39,00 €
+  - Manfred Schwarz: 109,85 €
+  - Marion Huber: 78,00 €
+- Gesamtsumme:
+  - Herbert Maier: 634,50 €
+  - Manfred Schwarz: 1.543,79 € (handschriftlich korrigiert auf: 1.459,57 €)
+  - Marion Huber: 1.284,09 € (handschriftlich korrigiert auf: 1.199,87 €)
+
+Nebenrechnungen (monatlich, gedruckte Ausgangslösung):
+- Maier: KV 3.000 × 8,75 % = 262,50 € | PV 3.000 × 1,80 % = 54,00 € | RV 3.000 × 9,30 % = 279,00 € | AV 3.000 × 1,30 % = 39,00 €
+- Schwarz: KV 5.812,50 × 8,75 % = 508,59 € | PV 5.812,50 × 2,40 % = 139,50 € | RV 8.450 × 9,30 % = 785,85 € | AV 8.450 × 1,30 % = 109,85 €
+- Huber: KV 5.812,50 × 8,75 % = 508,59 € | PV 5.812,50 × 2,40 % = 139,50 € | RV 6.000 × 9,30 % = 558,00 € | AV 6.000 × 1,30 % = 78,00 €
+Sätze: KV 7,3 % + 1,45 % Ø-Zusatzbeitrag; PV 1,8 %, kinderlos ab 23 J. 2,4 %; RV 9,3 %; AV 1,3 %.
+BBG 2026: KV/PV 5.812,50 €; RV/AV 8.450,00 €. Annahme: Beschäftigungsort außerhalb Sachsens.
+```
+
+### Seite 47
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 47](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=47>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=47]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=47]]
+
+> [!ocr] Visuell transkribiert
+> Eingebettete Aufgabenstellungen 2 und 3 (Leistungsbezeichnungen a–g) aus Sichtprüfung ergänzt. Die eingebettete Originalseite bleibt maßgeblich.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Übungsaufgaben Sozialversicherung – Lösungen zu Aufgaben 2 und 3
+
+2) Erläutern Sie den Unterschied zwischen Beitragsbemessungsgrenze und Versicherungspflichtgrenze:
+Die Beitragsbemessungsgrenze legt fest, bis zu welcher Höhe des Arbeitsentgelts Beiträge zur Sozialversicherung berechnet werden. Einkommen oberhalb dieser Grenze bleibt bei der Beitragsberechnung unberücksichtigt.
+Die Versicherungspflichtgrenze bestimmt dagegen, bis zu welchem Jahreseinkommen Arbeitnehmer in der gesetzlichen Krankenversicherung pflichtversichert sind. Wer sie überschreitet, kann sich freiwillig gesetzlich oder privat krankenversichern.
+
+3) Geben Sie bitte an, welche Sozialversicherung welche Leistung übernimmt:
+a) Krankengeld – gesetzliche Krankenversicherung
+b) Sterbegeld – gesetzliche Unfallversicherung*
+c) Erwerbsunfähigkeitsrente – gesetzliche Rentenversicherung
+d) Kurzarbeitergeld – Arbeitslosenversicherung
+e) Mutterschaftsgeld – gesetzliche Krankenversicherung
+f) Hinterbliebenenrente – gesetzliche Rentenversicherung
+g) Witwenrente – gesetzliche Rentenversicherung
+* Sterbegeld bei Tod infolge eines Arbeitsunfalls oder einer Berufskrankheit.
+```
+
+### Seite 48
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 48](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=48>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=48]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=48]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Personal - Lohnabrechnung BGWP
+Name: Klasse: Datum:
+Aufbau einer Entgeltabrechnung
+Tarif- oder Grundentgelt (Bruttoentgelt)
++ Sonderzahlungen (Weihnachtsgeld, Urlaubsgeld, Prämien)
++ Arbeitgeberanteil zu vermögenswirksamen Leistungen
++ Zuschläge (Fahrtkostenzuschuss, Schmutzzulagen…..)
+= Bruttoentgelt (Sozialversicherungspflichtiges Brutto)
+- Steuerfreibetrag
+= steuerpflichtiges Bruttoentgelt
+Bruttoentgelt (sozialversicherungspflichtiges Brutto)
+- Arbeitnehmer-Anteil zur Sozialversicherung
+(vom sozialvers. Bruttoentgelt)
+Krankenversicherung
+Pflegeversicherung
+Rentenversicherung
+Arbeitslosenversicherung
+- Steuern (vom steuerpflichtigen Bruttoentgelt, siehe
+Lohnsteuertabelle)
+Lohnsteuer
+Kirchensteuer (8 % bzw 9 % v. LST)
+Solidaritätszuschlag (gestaffelt max. 5,5 % v. LST)
+= Nettoentgelt
+- vermögenswirksame Leistungen (40,00 €)
+= Auszahlungs-/ Überweisungsbetrag
+```
+
+### Seite 49
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 49](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=49>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=49]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=49]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+Personal - Lohnabrechnung BGWP
+Name: Klasse: Datum:
+Lohnsteuerklassen
+Jeder Arbeitsnehmer/-in zahlt in Deutschland Lohnsteuer. Die Höhe der Lohnsteuer hängt
+dabei von der Steuerklasse ab, der die jeweilige Person durch das Finanzamt zugeordnet ist.
+In Deutschland unterscheiden wir 6 Lohnsteuerklassen
+Steuerklasse 1 Gilt für alle Ledige, getrenntlebende oder geschiedene Arbeitnehmer und
+Arbeitnehmerinnen.
+Steuerklasse 2 Sie ist für alle alleinerziehende Eltern, die einen Anspruch auf den
+Entlastungsbetrag haben.
+Steuerklasse 3 Sie ist Verheiratete und für den besser verdienenden Partner gedacht. Der
+Partner mit einem deutlich niedrigeren Einkommen wechselt dann automatisch
+in die Steuerklasse 5.
+Steuerklasse 4 Sie ist Verheiratete und wird automatisch genommen, wenn Ehepartner nichts
+angeben. Sie ist für alle diejenigen richtig, die beim Einkommen keine großen
+Unterschiede aufweisen. Also für Partner die ähnlich verdienen.
+Steuerklasse 5 Sie ist für Verheiratete und für den Partner mit dem deutlich niedrigeren
+Einkommen gedacht.
+Steuerklasse 6 Diese kommt nur zum Tragen, wenn ein Arbeitnehmer zwei Jobs besitzt. Die
+Abzüge sind am höchsten.
+```
+
+### Seite 50
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 50](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=50>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=50]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=50]]
+
+> [!ocr] Visuell transkribiert
+> Eingebettete Aufgabenbox (Annahmen und Falltabelle 1–4) aus Sichtprüfung vollständig transkribiert. Die eingebettete Originalseite bleibt maßgeblich.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Personal – Lohnabrechnung (BGWP)
+Übungsaufgaben: Erstellen Sie bitte für alle 3 Fälle eine Lohnabrechnung
+
+Übungen zur Gehaltsabrechnung für Ost- und Westdeutschland in €:
+Annahmen:
+- Krankenversicherungssatz (inkl. Zusatzbeitrag): 15,6 %; die Arbeitnehmer haben keine Kinder (AN-Anteil bei der Pflegeversicherung somit 2,4 %).
+- Die Lohnsteuerbeträge wurden unterstellt; sie sind letztlich von der Lohnsteuerklasse abhängig.
+- Vermögenswirksames Sparen jeweils 40,00 €
+- Vermögenswirksame Leistung des Arbeitgebers jeweils 20,00 €
+- Der Solidaritätszuschlag wird erst ab hohen Einkünften erhoben und wird hier nicht berücksichtigt.
+
+Fälle:
+- Fall 1: Bruttogehalt 2.500,00 € | Lohnsteuer (unterstellt) 250,00 € | Kirchensteuersatz 8 % (9 %) | Vorschussverrechnung –
+- Fall 2: Bruttogehalt 3.000,00 € | Lohnsteuer (unterstellt) 400,00 € | Kirchensteuersatz 8 % (9 %) | Vorschussverrechnung –
+- Fall 3: Bruttogehalt 6.000,00 € | Lohnsteuer (unterstellt) 1.000,00 € | Kirchensteuersatz 8 % (9 %) | Vorschussverrechnung 500,00 €
+- Fall 4: Bruttogehalt 8.800,00 € | Lohnsteuer (unterstellt) 2.500,00 € | Kirchensteuersatz 8 % (9 %) | Vorschussverrechnung –
+
+Aufgabe: Erstellen Sie die Gehaltsabrechnungen unter Berücksichtigung von 8 % (9 %) Kirchensteuer.
+Hinweis: Nur in Baden-Württemberg und Bayern beträgt der Kirchensteuersatz 8 %, ansonsten bundesweit 9 %.
+```
+
+### Seite 51
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [Pug.pdf Seite 51](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=51>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=51]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=51]]
+
+> [!ocr] Visuell transkribiert
+> Nur die tatsächlich sichtbare Lösungstabelle übernommen (eine verdeckte ältere Tabelle in der PDF-Textschicht wurde entfernt). Die eingebettete Originalseite bleibt maßgeblich.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Personal – Lohnabrechnung (BGWP) – Lösungen zu Fall 1–3
+
+Schema (Beträge in €) | Fall 1 | Fall 2 | Fall 3
+- Tariflohn: 2.500,00 | 3.000,00 | 6.000,00
+- + VL Arbeitgeber: 20,00 | 20,00 | 20,00
+- = St-/SV-Bruttolohn: 2.520,00 | 3.020,00 | 6.020,00
+- - Lohnsteuer: 250,00 | 400,00 | 1.000,00
+- - Kirchensteuer 8 % (9 %): 20,00 (22,50) | 32,00 (36,00) | 80,00 (90,00)
+- - Krankenversicherung: 196,56 | 235,56 | 403,65
+- - Rentenversicherung: 234,36 | 280,86 | 559,86
+- - Arbeitslosenversicherung: 32,76 | 39,26 | 78,26
+- - Pflegeversicherung: 60,48 | 72,48 | 124,20
+- = Nettogehalt 8 % (9 %): 1.725,84 (1.723,34) | 1.959,84 (1.955,84) | 3.774,03 (3.764,03)
+- - VL: 40,00 | 40,00 | 40,00
+- - Vorschussverrechnung (auf Blatt: Vorschussversicherung): – | – | 500,00
+- = Überweisungsbetrag 8 % (9 %): 1.685,84 (1.683,34) | 1.919,84 (1.915,84) | 3.234,03 (3.224,03)
+
+Klammerwerte: 9 % Kirchensteuer. KV 7,8 %, RV 9,3 %, AV 1,3 %, PV 2,4 %; Soli 0,00 €.
+Für KV/PV wurde die Beitragsbemessungsgrenze von 5.175,00 € berücksichtigt.
+```

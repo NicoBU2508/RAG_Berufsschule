@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Geschäftsbrief Anfrage Angebot** im Fach **Deutsch**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1|Deutsch S. 1]]; [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=2|Deutsch S. 2]]; [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=3|Deutsch S. 3]]; [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4|Deutsch S. 4]]; [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=5|Deutsch S. 5]]; [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6|Deutsch S. 6]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1|Deutsch S. 1]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=2|Deutsch S. 2]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=3|Deutsch S. 3]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4|Deutsch S. 4]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=5|Deutsch S. 5]]; [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6|Deutsch S. 6]].
 > - **Zentrale Suchbegriffe:** Geschäftsbrief, Anfrage, Angebot, Layout, Stil, kubus, GmbH, Spielstraße, 12345, Bike.
 > - **Prüfungsbezug:** AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -62,37 +62,37 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1>) | Layout und Stil eines Geschäftsbriefs | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=2>) | kubus GmbH - Spielstraße 12 - 12345 Ostdorf | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=3>) | IN Bike GmbH | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4>) | Checkliste: Geschäftsbrief | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 5](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=5>) | Kubus GmbH | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6>) | Unternehmensleitbild | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=7>) | Ein Unternehmensleitbild in 3 Teilen: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8>) | Unternehmensleitbild – Übung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=9>) | Corporate Identity | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10>) | Einführung in das Projektmanagement | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 11](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11>) | Der Projektmanager | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 12](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=12>) | Einführung in das Projektmanagement | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 13](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=13>) | Das Projekt von der Idee bis zum Abschluss | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 14](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=14>) | Deutsch Seite 14 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 15](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=15>) | Station 1: Phase Initiieren | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 16](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=16>) | Station 6: Die Projektidee | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 17 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 17](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=17>) | Phasen und Meilensteine eines Projekts | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 18 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=18>) | 2. Planen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 19 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 19](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=19>) | 4. Überwachen und Steuern | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 20 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 20](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=20>) | Projektidee | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 21 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=21>) | Projektziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 22 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 22](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=22>) | Zu Station 7: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 23 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 23](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=23>) | Projekt Kick-Off-Meeting | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 24 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=24>) | Das Lastenheft | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 25 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37>) | Für jede Art von Zusammentreffen zwischen Menschen gilt: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 26 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38>) | Das Sender-Empfänger-Modell der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 27 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 39](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39>) | Das Vier-Seiten-Modell der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 28 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=40>) | Die vier Ebenen der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 29 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=41>) | Aufgabe 4: Beantworte die Fragen zum 4-Ohren-Modell. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 30 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=42>) | Was will der Sender sagen? Was versteht der Empfänger? | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 31 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 43](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=43>) | Was will der Sender sagen? Was versteht der Empfänger? | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1>) | Layout und Stil eines Geschäftsbriefs | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=2>) | kubus GmbH - Spielstraße 12 - 12345 Ostdorf | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=3>) | IN Bike GmbH | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4>) | Checkliste: Geschäftsbrief | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 5](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=5>) | Kubus GmbH | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6>) | Unternehmensleitbild | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=7>) | Ein Unternehmensleitbild in 3 Teilen: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8>) | Unternehmensleitbild – Übung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9>) | Corporate Identity | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10>) | Einführung in das Projektmanagement | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 11](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11>) | Der Projektmanager | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 12](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=12>) | Einführung in das Projektmanagement | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 13](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=13>) | Das Projekt von der Idee bis zum Abschluss | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 14](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=14>) | Deutsch Seite 14 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 15](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=15>) | Station 1: Phase Initiieren | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 16](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=16>) | Station 6: Die Projektidee | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 17 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 17](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=17>) | Phasen und Meilensteine eines Projekts | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 18 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=18>) | 2. Planen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 19 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 19](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19>) | 4. Überwachen und Steuern | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 20 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 20](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=20>) | Projektidee | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 21 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=21>) | Projektziele | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 22 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 22](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=22>) | Zu Station 7: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 23 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 23](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=23>) | Projekt Kick-Off-Meeting | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 24 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=24>) | Das Lastenheft | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 25 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37>) | Für jede Art von Zusammentreffen zwischen Menschen gilt: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 26 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38>) | Das Sender-Empfänger-Modell der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 27 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 39](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39>) | Das Vier-Seiten-Modell der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 28 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=40>) | Die vier Ebenen der Kommunikation | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 29 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41>) | Aufgabe 4: Beantworte die Fragen zum 4-Ohren-Modell. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 30 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=42>) | Was will der Sender sagen? Was versteht der Empfänger? | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 31 | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [Deutsch.pdf Seite 43](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=43>) | Was will der Sender sagen? Was versteht der Empfänger? | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -101,11 +101,11 @@ tags:
 #### Seite 1: Layout und Stil eines Geschäftsbriefs
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1]]`
+> - PDF: [Deutsch.pdf Seite 1](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=1]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 03_Anfrage Klasse: Datum: 1 Layout und Stil eines Geschäftsbriefs Handlungsaufträge: 1. Informiere dich im Internet über die DIN 5008. (zum Beispiel unter https://www.din-5008-richtlinien.de/) 2. Benenne mit Hilfe der Informationen aus der DIN 5008 die Bestandteile des Geschäftsbriefs (siehe Rückseite). Nr. Bezeichnung 1 2 3a 3b 4 5 6 7 8 9 10 11 12 13 14 Firmenlogo des Absenders Absender Adresse Empfänger Empfängeradresse Infoblock Betreff Anrede Inhalt des Briefes Grußformel Firmenname Unterschrift PS (Postskriptum) Anlagevermerk Geschäftsangaben Seitennummerierung
@@ -183,11 +183,11 @@ Seitennummerierung
 #### Seite 2: kubus GmbH | Spielstraße 12 | 12345 Ostdorf
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=2]]`
+> - PDF: [Deutsch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 03_Anfrage Klasse: Datum: 2 kubus GmbH | Spielstraße 12 | 12345 Ostdorf Chiptec GmbH Herrn Alfons Flosse Karl-Heinz-Straße 156 01234 Westdorf Unser Zeichen: JJ Ansprechpartner: Herr Joker Telefon: 012345 6789-10 Fax: 012345 6789-11 E-Mail: jonas.joker@ kubus.de Datum: 06. Oktober 2025 Vertragsentwurf Sehr geehrte Frau Flosse, vielen Dank für das konstruktive Gespräch. Wir haben Ihre Anregungen diskutiert und sie in unseren neuen Vertragsentwurf aufgenommen. Ich hoffe, der Vertrag findet nun Ihre Zustimmung. Anbei finden Sie zwei Ausfertigungen – bitte senden Sie eine davon unter- schrieben an uns zurück. Wir freuen uns auf Ihre Antwort. Mit freundlichen Grüßen Kubus GmbH Jonas Joker …
@@ -275,11 +275,11 @@ BIC: DUEHSZE65TF
 #### Seite 3: IN Bike GmbH
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=3]]`
+> - PDF: [Deutsch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=3]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 03_Anfrage Klasse: Datum: IN Bike GmbH Ingolstadt Leitung: Stefan Becker Stellvertretende Leitung: Max Fröhling Bankverbindung: VR-Bank Ingolstadt IBAN: DE12 3456 7891 2345 6789 10 BIC: GENODEF1PFI IN Bike Ingolstadt, Adolf-Kolping-Straße 11, 85049 Ingolstadt Bürobedarf Huber GmbH z.H. Frau Susi Meierhofer Bahnhofstr. 38 85072 Eichstätt Leitung: Stefan Becker E-Mail: stefan.becker@INbike.de Tel. 0841 123456 Datum 07.10.2025 Erneute Nachfrage: Bestellung 1234567- 8 Sehr geehrte Frau Meierhofer, heute wende ich mich erneut an Sie, um mich nach dem Stand unserer Druckerpatronenbestellung (Be- stellnummer: 1234567- 8) vom 07.10.2025 zu erkundigen. Laut Bestellbestätigung hätten wir die W …
@@ -346,11 +346,11 @@ IN Bike
 #### Seite 4: Checkliste: Geschäftsbrief
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4]]`
+> - PDF: [Deutsch.pdf Seite 4](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=4]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 03_Anfrage Klasse: Datum: Checkliste: Geschäftsbrief Handlungsaufträge 1. Betrachte den Geschäftsbrief (auf der Rückseite). 2. Leite daraus Regeln ab, die du beim Schreiben von Geschäftsbriefen beachten musst. 3. Halte diese Regeln/Tipps in der Checkliste fest. ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢ ▢ klar und deutlich ausdrücken Sachlich bleiben Kontaktdaten für Rückfragen sicherstellen, dass alle Daten aktuell sind gut lesbare Schriftart falls bekannt, Name in der Anrede Passender Betreff Passende Grußformel
@@ -406,11 +406,11 @@ Grußformel
 #### Seite 5: Kubus GmbH
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 5](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=5]]`
+> - PDF: [Deutsch.pdf Seite 5](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=5]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 03_Anfrage Klasse: Datum: Kubus GmbH Spielstraße 12 12345 Ostdorf Geschäftsführer: Max Müller Handelsregister: Oststadt Kontoverbindung: Oststädter Bank IBAN: DE12 3456 7890 1234 56 BIC: DUEHSZE65TF Hauptteil einer Anfrage kubus GmbH | Spielstraße 12 | 12345 Ostdorf Chiptec GmbH Herrn Alfons Flosse Karl-Heinz-Straße 156 01234 Westdorf Unser Zeichen: JJ Ansprechpartner: Herr Joker Telefon: 012345 6789-10 Fax: 012345 6789-11 E-Mail: jonas.joker@ kubus.de Datum: 06. Oktober 2025 Betreff Anrede, • Quelle (woher kenne ich das Unternehmen?) • Vorstellung des eigenen Unternehmens • Anliegen / Details (wieso kontaktiert man die Firma? / wieso schreibt man?) • Konkrete Aufforderung zur Angebo …
@@ -486,11 +486,11 @@ Geschäftsangaben
 #### Seite 6: Unternehmensleitbild
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6]]`
+> - PDF: [Deutsch.pdf Seite 6](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=6]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 02_Unternehmensleitbild & Corporate Identity Klasse: Datum: Unternehmensleitbild Philosophie = Werte und Normen Mission = Aufgaben und Zwecke zur Erfüllung der Vision Vision = Ein klares Bild von der Zukunft Langfristige abstrakte Ziele Unternehmensleitbild = Abgeleitete Verhaltensrichtlinien, die das Selbstverständnis eines Unternehmens widerspiegeln sollen Funktionen eines Unternehmensleitbildes • Orientierungsfunktion Mitarbeiter kennen die Ziele der Organisation und können diese als Orientierungspunkte für ihr Handeln nutzen. • Motivationsfunktion Mitarbeiter sollen einen Sinn in Ihrer täglichen Arbeit sehen – wirkt unterstützend und fördert den Aufbau der intrinsischen Motivatio …
@@ -547,11 +547,11 @@ Gefühl.
 #### Seite 7: Ein Unternehmensleitbild in 3 Teilen:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=7]]`
+> - PDF: [Deutsch.pdf Seite 7](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=7]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 02_Unternehmensleitbild & Corporate Identity Klasse: Datum: Ein Unternehmensleitbild in 3 Teilen: • Präambel Warum ein Leitbild geschaffen wird? z. B. Um den Marktanteil erfolgreich zu halten, ist die Qualität der Produktion durch ein Qualitätssicherungssystem und die Intensivierung der Teamarbeit nachhaltig zu verbessern. • Kernleitbild Durch Leitsätze weiter präzisieren! Relativ allgemeine Aussage, die dann durch die Leitsätze weiter präzisiert wird. Unsere Werte sind z. B.: - Gewährleistung exzellenter Qualität - Einsatz modernster Technik und Technologie - Nutzung aller Ideen und Anregungen der Mitarbeiter - Offene Informationspolitik - Kundenorientierte Geschäftsprozesse • Leits …
@@ -635,11 +635,11 @@ Konkrete ZIELE
 #### Seite 8: Unternehmensleitbild – Übung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8]]`
+> - PDF: [Deutsch.pdf Seite 8](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=8]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 02_Unternehmensleitbild & Corporate Identity Klasse: Datum: Unternehmensleitbild – Übung Stefan Becker und Max Fröling haben bereits einige Ideen für das Unternehmensleitbild der IN Bike. Allerdings ist einiges durcheinandergeraten. Aufgabe: Gib an, ob die folgenden Aussagen der Präambel, dem Kernleitbild oder den Leitsätzen zugeordnet werden. Aussage Bestandteil des U-Leitbildes Hoher regionaler Marktanteil Errichtung einer Kantine sowie eines Kindergartens für Mitarbeiterkinder Um den Verkauf der Fahrräder in Ingolstadt erfolgreich starten zu können, hat die Qualität oberste Priorität. Eröffnung eines zweiten Standorts in Eichstätt Qualitativ hochwertige Fahrräder Umweltschonende P …
@@ -702,11 +702,11 @@ Präambel
 #### Seite 9: Corporate Identity
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=9]]`
+> - PDF: [Deutsch.pdf Seite 9](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=9]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 02_Unternehmensleitbild & Corporate Identity Klasse: Datum: Corporate Identity Bestandteile der Corporate Identity: • Mit dem Begriff Corporate __________________ (Unternehmenskultur) werden die Handlungsweisen in einem Unternehmen, aber auch seine Ausrichtung auf ethische Werte und Grundlagen beschrieben. • Corporate ______________________ ist das Verhalten bzw. der Auftritt des Unternehmens und dessen Mitarbeiter gegenüber Kunden und Partnern sowie der Öffentlichkeit. Sie ist die gelebte Umsetzung der Corporate Culture. • Corporate _________________ ist die visuelle Identität (einheitliches Erscheinungsbild). Es findet Anwendung in Formularen, Farbgebung, Arbeitskleidung, Branding, …
@@ -752,11 +752,11 @@ Communication
 #### Seite 10: Einführung in das Projektmanagement
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10]]`
+> - PDF: [Deutsch.pdf Seite 10](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Einführung in das Projektmanagement a) Was ist ein Projekt? Eine Lexikon-Definition zum Stichwort: Projektmanagement Planungs-, Steuerungs- und Kontrollaktivitäten, die bei zeitlich befristeten, relativ innovativen und risikobehafteten Vorhaben mit komplexer Struktur, vorgegebenen Terminen und limitierten Kosten anfallen. Im Zuge der Verbreitung der elektronischen Datenverarbeitung, der dezentralen Entwicklung/Umsetzung von Projekten und der Vernetzung (Internet/Intranet) spielt Projektmanagement-Software heute eine große Rolle. Sie muss alle Projektressourcen darstellen, Projektdaten zur Verfügung stellen können (wobei häufig unterschiedliche EDV- …
@@ -822,11 +822,11 @@ Der Auftraggeber kann zu dem projektdurchführenden Unternehmen gehören
 #### Seite 11: Der Projektmanager
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 11](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11]]`
+> - PDF: [Deutsch.pdf Seite 11](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=11]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Der Projektmanager Der Projektmanager hat die Autorität und die Verantwortung, um die Anforderung des Projektes innerhalb der gesetzten Kosten- und Zeitgrenzen zu erfüllen. Die Anforderungen (und die damit verbundenen Eigenschaften) an den Projektmanager sind vielfältig: • Pläne strukturieren • Das Projektteam und -umfeld von der Projektidee und dem Projektplan überzeugen • Das Projekt von der Idee bis zum Abschluss organisieren • Klar definierte Projektziele erstellen • Mitarbeiter motivieren und unterstützen • Problemlösungen unterstützen • Zeit- und Geldverschwendung eliminieren • Fortschritt und Leistung eines Projektes messen • Informationssys …
@@ -893,11 +893,11 @@ Evtl. betroffene Organisationen
 #### Seite 12: Einführung in das Projektmanagement
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 12](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=12]]`
+> - PDF: [Deutsch.pdf Seite 12](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=12]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Einführung in das Projektmanagement a) Was ist ein Projekt? Aufgabe 1: Liste alle Merkmale eines Projektes auf. Präge sie dir gut ein! Merkmale von Projekten: • ________________________________________________________ • ________________________________________________________ • ________________________________________________________ • ________________________________________________________ • ________________________________________________________ • ________________________________________________________ • ________________________________________________________ • ________________________________________________________ • _______________________ …
@@ -972,11 +972,11 @@ Argumentationsstärke ,
 #### Seite 13: Das Projekt von der Idee bis zum Abschluss
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 13](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=13>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=13]]`
+> - PDF: [Deutsch.pdf Seite 13](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=13>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=13]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=13]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Das Projekt von der Idee bis zum Abschluss organisieren Mitarbeiter motivieren unterstützen Problemlösungen unterstützen Zeit- und Geldverschwendung eliminieren Fortschritt und Leistung eines Projektes messen Informationssysteme nutzen Vorhandene Ressourcen (Wissen und Mitarbeiter) nutzen und effektiv einsetzen 3. Das Projektteam Aufgabe 4: Wie setzt sich das Projektteam zusammen? __________________________________________________________________________________ __________________________________________________________________________________ __________________________________________________________________________________ _______________________ …
@@ -1058,11 +1058,11 @@ des Projektes
 #### Seite 14: Deutsch Seite 14
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 14](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=14>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=14]]`
+> - PDF: [Deutsch.pdf Seite 14](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=14>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=14]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=14]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 
@@ -1076,11 +1076,11 @@ des Projektes
 #### Seite 15: Station 1: Phase Initiieren
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 15](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=15]]`
+> - PDF: [Deutsch.pdf Seite 15](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=15]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Station 1: Phase Initiieren 1. Schaue dir das Video über die 1. Phase an. 2. Bearbeite das Arbeitsblatt zu Phase 1. Fülle die Lücken. Zeit: ca. 10 Minuten Station 2: Phase Planen 1. Lies dir die Informationen zur 2. Phase durch. 2. Erstelle eine Checkliste auf deinem Arbeitsblatt. Zeit: ca. 8 Minuten Station 4: Phase Überwachen und Steuern 1. Recherchiere im Internet nach Informationen zur Phase 4 „Überwachen und Steuern.“ Scanne dazu gerne auch den QR-Code. 2. Notiere auf dem Arbeitsblatt, was während dieser Phase geschieht. Zeit: ca. 15 Minuten Station 3: Phase Durchführen 1. Lies dir die Informationen auf dem Arbeitsblatt zur 3. Phase durch. 2. …
@@ -1139,11 +1139,11 @@ Zeit: ca. 15 – 20 Minuten
 #### Seite 16: Station 6: Die Projektidee
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 16](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=16>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=16]]`
+> - PDF: [Deutsch.pdf Seite 16](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=16>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=16]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=16]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Station 6: Die Projektidee 1. Informiere dich auf deinem Arbeitsblatt über die Merkmale interner und externer Projekte. 2. Erläutere in deinen eigenen Worten den Unterschied zwischen internen und externen Projekten. Zeit: ca. 8 Minuten Station 7: Projektziele 1. Informiere dich auf deinem Arbeitsblatt über die Projektziele und deren Formulierung. 2. Überlege dir für das Projekt „Onlineshop der IN Bike“ jeweils 2 passende Sach-, Kosten- und Zeitziele. Notiere die Ziele auf deinem Arbeitsblatt. Zeit: ca. 10 - 15 Minuten Station 8: Das Kick-Off-Meeting 1. Informiere dich auf deinem Arbeitsblatt über das Kick-Off-Meeting. 2. Definiere Spielregeln für d …
@@ -1178,11 +1178,11 @@ Zeit: ca. 15 Minuten
 #### Seite 17: Phasen und Meilensteine eines Projekts
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 17](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=17>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=17]]`
+> - PDF: [Deutsch.pdf Seite 17](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=17>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=17]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=17]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: 1 Phasen und Meilensteine eines Projekts Ein Projekt ist ein komplexes Vorhaben! Um die Komplexität zu reduzieren, ist es sinnvoll, das Vorhaben in unterschiedliche Phasen einzuteilen. Vielfach wird hier auch vom Wasserfall-Modell eines Projektes gesprochen: So wie das Wasser eines Wasserfalls in mehreren Stufen ins Tal fließt, so wird auch die Arbeit am Projekt in mehreren Phasen unterteilt. Der Vorteil ist klar: die Arbeit wird übersichtlicher, da jede Phase für sich geplant und gesteuert werden kann. Definition Projektphase: „zeitlicher Abschnitt, der sachlich gegenüber anderen Abschnitten getrennt ist. Zusammenfassung von inhaltlich-logischen A …
@@ -1251,11 +1251,11 @@ Projektdesign
 #### Seite 18: 2. Planen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=18>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=18]]`
+> - PDF: [Deutsch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=18>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=18]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=18]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: 2 2. Planen Beim Planen werden folgende Aspekte definiert und geplant: - _____________________________________________________________________________________ _____________________________________________________________________________________ - _____________________________________________________________________________________ _____________________________________________________________________________________ - _____________________________________________________________________________________ - _____________________________________________________________________________________ - ___________________________________________________________ …
@@ -1339,11 +1339,11 @@ werden nicht erreicht
 #### Seite 19: 4. Überwachen und Steuern
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 19](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=19>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=19]]`
+> - PDF: [Deutsch.pdf Seite 19](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=19]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: 3 4. Überwachen und Steuern ___________________________________________________________________________________________ ___________________________________________________________________________________________ ___________________________________________________________________________________________ ___________________________________________________________________________________________ ___________________________________________________________________________________________ ___________________________________________________________________________________________ ____________________________________________________________________________ …
@@ -1420,11 +1420,11 @@ Kosten
 #### Seite 20: Projektidee
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 20](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=20]]`
+> - PDF: [Deutsch.pdf Seite 20](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=20]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: 4 Projektidee Eine Projektidee entsteht häufig aus einem Problem heraus: Ein ungünstiger Zustand soll durch ein Projekt in einen wünschenswerten Zustand überführt werden. Eine Projektidee kann interne oder externe Gründe haben. Merkmale interner Projekte - Der Auftraggeber und die ausführende Stelle gehören einer Firma an. - Zwischen dem Auftraggeber und den ausführenden Stellen besteht kein Vertragsverhältnis. Merkmale externer Projekte - Auftraggeber und Auftragnehmer gehören verschiedenen Firmen an. - Grundlage für die Projektabwicklung ist ein Vertrag zwischen Auftraggeber und Auftragnehmer. - Dem Projekt gehen die Phasen Anfrage/Ausschreibung, …
@@ -1498,11 +1498,11 @@ auch Firmnexten
 #### Seite 21: Projektziele
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=21>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=21]]`
+> - PDF: [Deutsch.pdf Seite 21](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=21>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=21]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=21]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: 5 Projektziele Bevor die eigentliche Arbeit am Projekt beginnt, ist es wichtig sich Ziele zu setzen. Die Ziele gelten für die gesamte Projektdauer und gelten für alle Beteiligten als Richtschnur. An der Erreichung der Projektziele wird letztendlich der Erfolg des Projektes gemessen. Zielformulierung → SMART ! Für die Formulierung von Projektzielen gibt es Regeln, einige davon: - Ziele müssen schriftlich formuliert sein - Die Ziele müssen erreichbar sein - Die Ziele müssen objektiv messbar sein - Die Ziele müssen positiv formuliert sein Die Projektziele haben weiterhin verschiedene Zielfunktionen - Präzisierungsfunktion - Orientierungsfunktion - Mot …
@@ -1576,11 +1576,11 @@ Projektziel
 #### Seite 22: Zu Station 7:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 22](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=22>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=22]]`
+> - PDF: [Deutsch.pdf Seite 22](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=22>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=22]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=22]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: 6 Zu Station 7: "Wer nicht weiß, wohin er will, der darf sich nicht wundern, wenn er ganz woanders ankommt." Deshalb ist es so wichtig, vorab alle Projektziele zu definieren. Notiere hier je 2 Kosten-, Sach- und Zeitziele für das Projekt „Onlineshop der IN Bike.“ Beachte die Regeln zur Formulierung! Zeitziele: ___________________________________________________________________________________________ ___________________________________________________________________________________________ ___________________________________________________________________________________________ ____________________________________________________________________ …
@@ -1642,11 +1642,11 @@ im Einkauf
 #### Seite 23: Projekt Kick-Off-Meeting
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 23](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=23>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=23]]`
+> - PDF: [Deutsch.pdf Seite 23](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=23>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=23]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=23]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: 7 Projekt Kick-Off-Meeting Das Projekt Kick-Off-Meeting ist die erste offizielle Sitzung des Projektteams, zu der die Projektmitarbeiter vom Projektleiter schriftlich (Tagesordnung) eingeladen werden. In dieser Sitzung geht es noch nicht darum, inhaltlich am Projekt zu arbeiten. Ziel der Sitzung ist es vielmehr, alle Projektbeteiligten miteinander bekannt zu machen und über das Projektziel, die Rollen und die wesentlichen Aufgaben zu informieren. Ablauf eines Projekt-Kick-Off-Meetings Der Projektleiter moderiert die Sitzung. Er begrüßt die Anwesenden und stellt sich Ihnen vor. Er schildert seine Erfahrungen, seine Kompetenz für das anstehende Proje …
@@ -1701,11 +1701,11 @@ Beziehungsregeln
 #### Seite 24: Das Lastenheft
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=24>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=24]]`
+> - PDF: [Deutsch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=24>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=24]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=24]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 04_Projektmanagement Klasse: Datum: Das Lastenheft a) Aufgabe • Das Lastenheft enthält eine Zusammenfassung aller fachlichen Basisanforderungen, die das zu entwickelnde Software-Produkt aus der Sicht des Auftragsgebers erfüllen muss. Basisanforderungen bedeutet eine bewusste Konzentration auf die fundamentalen Eigenschaften des Produkts und ihre Beschreibung auf einem ausreichend hohen Abstraktionsniveau, das die Anforderungen präzise beschreibt, ohne sich in Details zu verlieren. b) Adressaten • Der Auftraggeber verfasst das Lastenheft meist vor dem Projektstart. Dem Auftragnehmer dient es als Grundlage für das Angebot und die Projektplanung. c) Inhalt • Bewusste Konzentration auf d …
@@ -1777,11 +1777,11 @@ Ein Beispiel für ein Lastenheft findest du auf Teams.
 #### Seite 37: Für jede Art von Zusammentreffen zwischen Menschen gilt:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37]]`
+> - PDF: [Deutsch.pdf Seite 37](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=37]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 05_Kommunikation Klasse: Datum: Seite 2 von 11 Für jede Art von Zusammentreffen zwischen Menschen gilt: „Man kann nicht nicht kommunizieren“ Paul Watzlawick Aufgabe 2: Erkläre das Zitat von Paul Watzlawick. _________________________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ Aufgabe 3: Lies die Informationen auf Seite 3 aufmerksam durch und beantworte die Fragen zum Sender-Empfänger-Modell. Anna sagt zu Ben: „Das Fenster ist offe …
@@ -1844,11 +1844,11 @@ Fehler bei der
 #### Seite 38: Das Sender-Empfänger-Modell der Kommunikation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38]]`
+> - PDF: [Deutsch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 05_Kommunikation Klasse: Datum: Seite 3 von 11 Das Sender-Empfänger-Modell der Kommunikation Die sieben Schritte der Kommunikation des Sender-Empfänger-Modells 1. Kommunikationspartner A hat eine Ab- sicht. 2. Er übersetzt sie in Worte. 3. Er sendet sie, er spricht sie aus. 4. Die Nachricht wird übermittelt. 5. Kommunikationspartner B empfängt die Nachricht, er hört sie. 6. Er übersetzt sie. 7. Er interpretiert die Bedeutung. Jeder dieser 7 Schritte enthält potenzielle Fehler- quellen, die zu einem Misslingen der Kommunika- tion führen können. Das von Stuart Hall 1970 entwickelte Sender-Empfänger-Modell definiert Kommunikation als Übertragung einer Nachricht von einem Sender A zu ein …
@@ -1959,11 +1959,11 @@ visuell
 #### Seite 39: Das Vier-Seiten-Modell der Kommunikation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 39](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39]]`
+> - PDF: [Deutsch.pdf Seite 39](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 05_Kommunikation Klasse: Datum: Seite 4 von 11 Das Vier-Seiten-Modell der Kommunikation Das Kommunikationsquadrat ist das bekannteste Modell von Friedemann Schulz von Thun und inzwi- schen auch über die Grenzen Deutschlands hinaus verbreitet. Bekannt geworden ist dieses Modell auch als „Vier-Ohren-Modell” oder „Nachrichtenquadrat”. Wenn ich als Mensch etwas von mir gebe, bin ich auf vierfache Weise wirksam. Jede meiner Äuße- rungen enthält, ob ich will oder nicht, vier Botschaften gleichzeitig: • eine Sachinformation (worüber ich informiere) – blau • eine Selbstkundgabe (was ich von mir zu erkennen gebe) – grün, • einen Beziehungshinweis (was ich von dir halte und wie ich zu dir steh …
@@ -2002,11 +2002,11 @@ die Regel.
 #### Seite 40: Die vier Ebenen der Kommunikation
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=40>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=40]]`
+> - PDF: [Deutsch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=40>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=40]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=40]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 05_Kommunikation Klasse: Datum: Seite 5 von 11 Die vier Ebenen der Kommunikation Auf der Sachebene des Gesprächs steht die Sachinformation im Vordergrund, hier geht es um Da- ten, Fakten und Sachverhalte. Dabei gelten drei Kriterien: • wahr oder unwahr (zutreffend/nichtzutreffend) • relevant oder irrelevant (sind die aufgeführten Sachverhalte für das anstehende Thema von Belang/nicht von Belang?) • hinlänglich oder unzureichend (sind die angeführten Sachhinweise für das Thema ausrei- chend, oder muss vieles andere zusätzlich bedacht werden?) Die Herausforderung für den Sender besteht auf der Sachebene darin, die Sachverhalte klar und ver- ständlich auszudrücken. Der Empfänger kann au …
@@ -2058,11 +2058,11 @@ https://www.youtube.com/watch?v=USEM11RElsQ
 #### Seite 41: Aufgabe 4: Beantworte die Fragen zum 4-Ohren-Modell.
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=41>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=41]]`
+> - PDF: [Deutsch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=41]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Deutsch 05_Kommunikation Klasse: Datum: Seite 6 von 11 Aufgabe 4: Beantworte die Fragen zum 4-Ohren-Modell. 1. Was sagt das 4-Ohren-Modell aus? _________________________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ _________________________________________________________________________________ 2. Wie heißen die 4 Ohren? 1. ____________________________________ 2. ____________________________________ 3. ____________________________________ 4. ____________________________________ 3. Wie kommt es zu Missverständnissen im …
@@ -2128,11 +2128,11 @@ Beziehungsebene
 #### Seite 42: Was will der Sender sagen? Was versteht der Empfänger?
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=42>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=42]]`
+> - PDF: [Deutsch.pdf Seite 42](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=42>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=42]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=42]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Seite 7 von 11 Was will der Sender sagen? Was versteht der Empfänger? (Die 4 Seiten einer Nachricht nach Friedemann Schulz von Thun) Das Kommunikationsquadrat, auch 4 Aussagen-Modell genannt, geht von der Annahme aus, dass auf der Senderseite in jeder Äußerung vier Botschaften enthalten sind. Die Sachseite, die Selbstkundgabe, die Beziehungsseite und die Appellseite bilden die vier Aspekte des Kommunikationsquadrats. 1. Sachinhalt (= worüber will Frau Martens die Auszubildende informie- ren?) 2. Appell (= was will Frau Martens von der Auszubildenden?) 1. Sach-Ohr (= was ist der Sachverhalt?) 2. Appell-Ohr (= was soll ich tun?) Es sagt Frau Martens zu Azubi: „Es ist kein Papier mehr im Drucke …
@@ -2210,11 +2210,11 @@ Es gilt, diese Persönlichkeitsunterschiede von vornherein in der Gesprächsfüh
 #### Seite 43: Was will der Sender sagen? Was versteht der Empfänger?
 
 > [!referenz] Exakte Referenz
-> - PDF: [Deutsch.pdf Seite 43](<../../../../99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=43>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=43]]`
+> - PDF: [Deutsch.pdf Seite 43](<../../../../99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=43>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=43]]
+> ![[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=43]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Seite 8 von 11 Was will der Sender sagen? Was versteht der Empfänger? (Die 4 Seiten einer Nachricht nach Friedemann Schulz von Thun) Geben Sie die 4 Seiten der Nachricht aus Sicht des Senders, d. h. aus Sicht von Frau Martens an! Geben Sie die 4 Seiten der Nachricht aus Sicht des Empfängers, d. h. aus Sicht der Auszubildenden an! 1. Sachinhalt 2. Appell 1. Sach-Ohr 2. Appell-Ohr Es sagt Frau Martens zu Azubi: „Es ist kein Papier mehr im Drucker!“ 3. Selbstoffenbarung 4. Beziehungsebene 3. Selbstoffenbarungs-Ohr 4. Beziehungs-Ohr . Drucker leer Papiernachfüllen Drucker ist leer Ich soll nachfüllen Ich will Drucken , Ich bin dein generute fr. Martens Ich bin ihr geht aber Vorgesetzte untergebe …
@@ -2285,7 +2285,7 @@ nicht
 - Frage:: Welche Vorgabe nennt die Quelle zu **Einführung in das Projektmanagement**?
 - Antwort:: Sie muss alle Projektressourcen darstellen, Projektdaten zur Verfügung stellen können (wobei häufig unterschiedliche EDV-Systeme beteiligt sind) sowie Zeit-/Kostenrechnung und Effizienzanalysen ermöglichen.
 - Beleg:: Sie muss alle Projektressourcen darstellen, Projektdaten zur Verfügung stellen können (wobei häufig unterschiedliche EDV-Systeme beteiligt sind) sowie Zeit-/Kostenrechnung und Effizienzanalysen ermöglichen.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=10|Deutsch S. 10]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10|Deutsch S. 10]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2293,7 +2293,7 @@ nicht
 - Frage:: Was ist der Kernpunkt zu **Phasen und Meilensteine eines Projekts** laut Quelle?
 - Antwort:: Der Vorteil ist klar: die Arbeit wird übersichtlicher, da jede Phase für sich geplant und gesteuert werden kann.
 - Beleg:: Der Vorteil ist klar: die Arbeit wird übersichtlicher, da jede Phase für sich geplant und gesteuert werden kann.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=17|Deutsch S. 17]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=17|Deutsch S. 17]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2301,7 +2301,7 @@ nicht
 - Frage:: Was ist der Kernpunkt zu **Phasen und Meilensteine eines Projekts** laut Quelle?
 - Antwort:: Phasen und Meilensteine eines Projekts Ein Projekt ist ein komplexes Vorhaben!
 - Beleg:: Phasen und Meilensteine eines Projekts Ein Projekt ist ein komplexes Vorhaben!
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=17|Deutsch S. 17]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=17|Deutsch S. 17]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2309,7 +2309,7 @@ nicht
 - Frage:: Was ist der Kernpunkt zu **Überwachen und Steuern** laut Quelle?
 - Antwort:: Ziel ist es, diese Erfahrungen zu einer festen Routine werden zu lassen.
 - Beleg:: Ziel ist es, diese Erfahrungen zu einer festen Routine werden zu lassen.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=19|Deutsch S. 19]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19|Deutsch S. 19]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2317,7 +2317,7 @@ nicht
 - Frage:: Was ist der Kernpunkt zu **Projekt Kick-Off-Meeting** laut Quelle?
 - Antwort:: Projekt Kick-Off-Meeting Das Projekt Kick-Off-Meeting ist die erste offizielle Sitzung des Projektteams, zu der die Projektmitarbeiter vom Projektleiter schriftlich (Tagesordnung) eingeladen werden.
 - Beleg:: Projekt Kick-Off-Meeting Das Projekt Kick-Off-Meeting ist die erste offizielle Sitzung des Projektteams, zu der die Projektmitarbeiter vom Projektleiter schriftlich (Tagesordnung) eingeladen werden.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=23|Deutsch S. 23]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=23|Deutsch S. 23]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2325,7 +2325,7 @@ nicht
 - Frage:: Was ist der Kernpunkt zu **Das Sender-Empfänger-Modell der Kommunikation** laut Quelle?
 - Antwort:: Entscheidender als die Absicht, die der Sender A vermitteln will, ist die Wirkung, die seine Worte beim Empfänger B erzielen.
 - Beleg:: Entscheidender als die Absicht, die der Sender A vermitteln will, ist die Wirkung, die seine Worte beim Empfänger B erzielen.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=38|Deutsch S. 38]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=38|Deutsch S. 38]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2333,7 +2333,7 @@ nicht
 - Frage:: Was ist der Kernpunkt zu **Das Vier-Seiten-Modell der Kommunikation** laut Quelle?
 - Antwort:: Bekannt geworden ist dieses Modell auch als „Vier-Ohren-Modell” oder „Nachrichtenquadrat”.
 - Beleg:: Bekannt geworden ist dieses Modell auch als „Vier-Ohren-Modell” oder „Nachrichtenquadrat”.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39|Deutsch S. 39]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39|Deutsch S. 39]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -2341,7 +2341,7 @@ nicht
 - Frage:: Was ist der Kernpunkt zu **Das Vier-Seiten-Modell der Kommunikation** laut Quelle?
 - Antwort:: Sowohl Sender als auch Empfänger sind für die Qualität der Kommunikation verantwortlich, wobei die unmissverständliche Kommunikation der Idealfall ist und nicht die Regel.
 - Beleg:: Sowohl Sender als auch Empfänger sind für die Qualität der Kommunikation verantwortlich, wobei die unmissverständliche Kommunikation der Idealfall ist und nicht die Regel.
-- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=39|Deutsch S. 39]]
+- Quelle:: [[02_Faecher/Deutsch/Quellen/Deutsch|Deutsch]], [[99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39|Deutsch S. 39]]
 - Prüfung:: AP1/AP2 Kommunikation, Dokumentation, Geschäftsprozesse
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

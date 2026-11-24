@@ -31,13 +31,13 @@ Religion/Ethik behandelt Werte, Gewissen und begründete Entscheidungen. Es ist 
 
 | Quelle | Fach | Seiten | PDF-Referenzen |
 |---|---|---:|---|
-| [[02_Faecher/Religion/Quellen/Reli_Notizen\|Reli_Notizen]] | Religion | 2, 3, 4 | [S.2](<99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2>), [S.3](<99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=3>), [S.4](<99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=4>) |
+| [[02_Faecher/Religion/Quellen/Reli_Notizen\|Reli_Notizen]] | Religion | 2, 3, 4 | [S.2](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2>), [S.3](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=3>), [S.4](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=4>) |
 
 ## 📌 Beispielstellen aus den Originalquellen
 
 ### [[02_Faecher/Religion/Quellen/Reli_Notizen|Reli_Notizen]] · Seite 2
 
-[Original-PDF Seite 2](<99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2>)
+[Original-PDF Seite 2](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2>)
 
 > Taube selbstständiges - der eigene Garten Handeln Freiheit - ⑪ Sport - Familie - Qo Meinungsfreiheit Wahlfreiheit - Himmel, Sonne ,Flugzeug Religionsfreiheit 1848 1989 Es lebe die Freiheit" Ermordung Mauerfall Weiße Rosc Robert Blum 9 . 11 1938 1918 1923 Reichskristalt Ende UKI Hitlerputch nacht Ende der Monarchie in Antisemitismus Ausruf der Repubik München Klischesu . Stereotypen : -große Nase - Sündenbock - lange
 

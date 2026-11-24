@@ -2,7 +2,7 @@
 typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
-original_pfad: "99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf"
+original_pfad: "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf"
 seiten: 16
 pruefung: "AP1/AP2 IT-Sicherheit"
 cssclasses:
@@ -25,7 +25,7 @@ textzeichen: 17218
 # 📄 IT Sicherheit Sicherheitsmanagement
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
-> - **Original-PDF:** [Sicherheitsmanagement.pdf](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf>)
+> - **Original-PDF:** [Sicherheitsmanagement.pdf](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf>)
 > - **Seiten:** 16
 > - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (partial=12, ocr_error=3)
 > - **Aktive Lernquelle:** ja
@@ -59,11 +59,11 @@ textzeichen: 17218
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 1](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=1]]`
+> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 1](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=1]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -104,11 +104,11 @@ Lt
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 2](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=2]]`
+> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 2](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=2]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -145,11 +145,11 @@ zugänglich sein. Systemen. werden können.
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 3](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=3]]`
+> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 3](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=3]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -185,11 +185,11 @@ Anwendungen dient und mit gleichen.Geraten gruppiert wird
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 4](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=4]]`
+> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 4](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=4]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -237,11 +237,11 @@ DSL)
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 5](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=5]]`
+> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 5](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=5]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=5]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -283,11 +283,11 @@ um dem Opfer wenig Hinweise auf die Aktivität zu geben.
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 6](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=6]]`
+> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 6](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=6]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=6]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -334,11 +334,11 @@ bezeichnet, für die noch kein Patch des Herstellers verfügbar ist.
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 7](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=7]]`
+> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 7](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=7]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=7]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -378,11 +378,11 @@ TCP-Verbindung.
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 8](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=8]]`
+> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 8](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=8]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -411,11 +411,11 @@ die Urheberschaft und Integrität der Nachricht zu prüfen.
 ### Seite 9
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 9](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=9>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=9]]`
+> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 9](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=9>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=9]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=9]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -458,11 +458,11 @@ biometrische Merkmale (z.B. Fingerabdruck)
 ### Seite 10
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 10](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=10>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=10]]`
+> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 10](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=10>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=10]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=10]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -509,11 +509,11 @@ um spätere Sicherheitslücken zu verhindern.
 ### Seite 11
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 11](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=11>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=11]]`
+> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 11](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=11>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=11]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=11]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -549,11 +549,11 @@ mit „zerhacken“ übersetzen lässt.
 ### Seite 12
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 12](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=12>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=12]]`
+> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 12](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=12>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=12]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=12]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -600,11 +600,11 @@ _Datenschutzbeauftragter
 ### Seite 13
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 13](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=13>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=13]]`
+> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 13](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=13>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=13]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=13]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -645,11 +645,11 @@ z.B. Webcams, Sprachassistenten
 ### Seite 14
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 14](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=14>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=14]]`
+> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 14](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=14>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=14]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=14]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -705,11 +705,11 @@ r
 ### Seite 15
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 15](<99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=15>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=15]]`
+> - PDF-Seite: [Sicherheitsmanagement.pdf Seite 15](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=15>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=15]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=15]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 

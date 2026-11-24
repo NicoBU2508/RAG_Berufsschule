@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Netzplan und Netzwerktechnik** im Fach **ITT IT-Technik**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=1|Aufgabe 1 S. 1]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=3|Aufgabe 1 S. 3]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=4|Aufgabe 1 S. 4]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]; [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=33|Fachbegriffe S. 33]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=1|Aufgabe 1 S. 1]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2|Aufgabe 1 S. 2]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3|Aufgabe 1 S. 3]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=4|Aufgabe 1 S. 4]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]; [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=33|Fachbegriffe S. 33]].
 > - **Zentrale Suchbegriffe:** Netzplan, Netzwerktechnik, ITSicherheitAufgabe1, Unberechtigter, Wittmann, blockiert, Zugriff, Definition, personenbezogene, Daten.
 > - **Prüfungsbezug:** AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -61,53 +61,53 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1\|IT_Sicherheit_Aufgabe_1]] | [Aufgabe 1.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=1>) | IT_Sicherheit_Aufgabe_1 Seite 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1\|IT_Sicherheit_Aufgabe_1]] | [Aufgabe 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2>) | Unberechtigter | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1\|IT_Sicherheit_Aufgabe_1]] | [Aufgabe 1.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=3>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1\|IT_Sicherheit_Aufgabe_1]] | [Aufgabe 1.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=4>) | blockiert den Zugriff auf den Computer oder die | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11>) | Definition personenbezogene Daten | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=33>) | Secure Shell ist ein Netzwerkprotokoll für den sicheren Betrieb von | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=34>) | Teletype Network ist ein inzwischen weniger verbreitetes | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Lernziele\|IT_Sicherheit_Lernziele]] | [Lernziele.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf#page=1>) | 16 . 09 . 25 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=1>) | Was ist die Aufgabe eines Sicherheitskonzeptes? | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=2>) | '1) Was ist ein Domaincontroller? | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=3>) | über gefälschte Webseiten oder E-Mails wird versucht an persönliche | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=4>) | Computerprogramm, das als nützliche Anwendung getarnt ist, | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=5>) | IT_Sicherheit_Netzplan_251022_160116 Seite 5 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 14 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=6>) | IT_Sicherheit_Netzplan_251022_160116 Seite 6 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 15 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=7>) | Was ist die Aufgabe eines Sicherheitskonzeptes? | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 16 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=1>) | Plan = Planung von Sicherheitsmaßnahmen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 17 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=2>) | (Trojaner) verleiten z.B. falsches Virenschutzprogramm | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 18 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=3>) | Standleitung: Ist permanente Verbindung im | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 19 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=4>) | Was ist die Aufgabe eines Sicherheitskonzeptes? | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 20 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=5>) | Fragen auf Seite 12: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 21 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=7>) | Verschlüsselungstrojaner | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 22 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=8>) | Die Authentifizierung sorgt im Computer- und Internetumfeld dafür, | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 23 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 24 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 25 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 26 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=9>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 27 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=12>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 28 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=14>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 29 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=15>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 30 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=16>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 31 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=21>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 32 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=38>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 33 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 40](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=40>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 34 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=43>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 35 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=47>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 36 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 48](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=48>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 37 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 54](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=54>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 38 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 39 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=61>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 40 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 41 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2>) | Vernetze Systeme | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 42 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 43 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 44 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=9>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 45 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 46 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=11>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 47 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=12>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1\|IT_Sicherheit_Aufgabe_1]] | [Aufgabe 1.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=1>) | IT_Sicherheit_Aufgabe_1 Seite 1 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1\|IT_Sicherheit_Aufgabe_1]] | [Aufgabe 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2>) | Unberechtigter | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1\|IT_Sicherheit_Aufgabe_1]] | [Aufgabe 1.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1\|IT_Sicherheit_Aufgabe_1]] | [Aufgabe 1.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=4>) | blockiert den Zugriff auf den Computer oder die | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11>) | Definition personenbezogene Daten | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=33>) | Secure Shell ist ein Netzwerkprotokoll für den sicheren Betrieb von | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] | [Fachbegriffe.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=34>) | Teletype Network ist ein inzwischen weniger verbreitetes | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Lernziele\|IT_Sicherheit_Lernziele]] | [Lernziele.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf#page=1>) | 16 . 09 . 25 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=1>) | Was ist die Aufgabe eines Sicherheitskonzeptes? | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=2>) | '1) Was ist ein Domaincontroller? | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=3>) | über gefälschte Webseiten oder E-Mails wird versucht an persönliche | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=4>) | Computerprogramm, das als nützliche Anwendung getarnt ist, | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=5>) | IT_Sicherheit_Netzplan_251022_160116 Seite 5 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 14 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=6>) | IT_Sicherheit_Netzplan_251022_160116 Seite 6 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 15 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] | [Netzplan_251022_160116.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=7>) | Was ist die Aufgabe eines Sicherheitskonzeptes? | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 16 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=1>) | Plan = Planung von Sicherheitsmaßnahmen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 17 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=2>) | (Trojaner) verleiten z.B. falsches Virenschutzprogramm | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 18 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=3>) | Standleitung: Ist permanente Verbindung im | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 19 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=4>) | Was ist die Aufgabe eines Sicherheitskonzeptes? | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 20 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=5>) | Fragen auf Seite 12: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 21 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=7>) | Verschlüsselungstrojaner | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 22 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement\|IT_Sicherheit_Sicherheitsmanagement]] | [Sicherheitsmanagement.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=8>) | Die Authentifizierung sorgt im Computer- und Internetumfeld dafür, | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 23 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 24 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 25 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 26 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=9>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 27 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=12>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 28 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=14>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 29 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=15>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 30 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=16>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 31 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=21>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 32 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=38>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 33 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 40](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=40>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 34 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 35 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=47>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 36 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 48](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=48>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 37 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 54](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=54>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 38 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 39 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=61>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 40 | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62>) | Wittmann | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 41 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2>) | Vernetze Systeme | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 42 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 43 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 44 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 45 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 46 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=11>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 47 | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [Netzwerkt.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=12>) | IPv4-Adressen | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -116,11 +116,11 @@ tags:
 #### Seite 1: IT_Sicherheit_Aufgabe_1 Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF: [Aufgabe 1.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=1]]`
+> - PDF: [Aufgabe 1.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Plan E ↑ Act Do - E Check
@@ -141,11 +141,11 @@ Check
 #### Seite 2: Unberechtigter
 
 > [!referenz] Exakte Referenz
-> - PDF: [Aufgabe 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2]]`
+> - PDF: [Aufgabe 1.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Unberechtigter Physischer Klima/Umwelt : Zugriff auf Zugang zum Temperatur, Zugriff zum Netzwerkkabel Feuchtigkeit, Raum System Staub und Dreck v - X Unterboden-Verlegung -Klima-Anlage Zugangskontrollen : Zugangskontrollen : -Verdeckte Schächte -Abschließbare - Umgebungs-Kontrollen Server-Schränke -Schließsysteme -Reinigung -Abschließbare - Biometrische Etagenverteiler-Schränke Zugangskontrolle -Gehäuse verschluss - Separate Server-Räume - Kensington-Schloss Fehlertolaranz Redundante Komponenten RAID 1. Lenziele : - ↳Schritte der Sicherheitsprozesse - 4 Gefahren der physischen Sicherheit - Lösungen der G Gefahren
@@ -203,11 +203,11 @@ Lenziele :
 #### Seite 3: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Aufgabe 1.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=3]]`
+> - PDF: [Aufgabe 1.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum HochverfigbarkeitisteineWeiterfuhrungderFehlertoleranzDabeisindSystemealsganzemehrfachvorhanden EstehtnurdieHardwareredundantzurVerfugungundmuszunachst InstalationeinesBetriebsystemsundWiedereinspielenvonBackupsfunktionstuichtig gemachtwerden EinErsatzsystemkanbeiBedarfhochgefahrenwerdenundieFunktiondes ausgefalenenSystemsuibernehmen EinErsatzsystemuibernimtautomatischundsofortdieFunktiondes ausgefalenenSystems auolunJwMa COTOTO Ein schleustsichinComputerPrograme TOIOTOE1O 0007559 einundverbreitetsichselbst eineDateialsWirtindemsiesich versteckenkinen Virenhabenmeistenseinen hdieFunktiondes ComputersystemszubeintrachtigenBetriebsystemoder uweodsauniuam Sn20 900 S TOTOLOTO ETTZ …
@@ -304,11 +304,11 @@ E
 #### Seite 4: blockiert den Zugriff auf den Computer oder die
 
 > [!referenz] Exakte Referenz
-> - PDF: [Aufgabe 1.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=4]]`
+> - PDF: [Aufgabe 1.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Witma Datum: blockiert den Zugriff auf den Computer oder die Daten des Computers (ggf. durch Verschlüsselung) und fordert den Benutzer zur Zahlung von Lösegeld auf versteckt Schadsoftware und unerwünschte Vorgänge auf dem System durch Manipulation von Kernel-Code und -Prozessen Wie kommt Malware auf das Opfersystem? mit vermeintlich wichtigen Dokumenten) (mit vermeintlich wichtigen Inhalten, z.B. Konto-Freischaltung) durch den Benutzer (Trojaner, Benutzer glaubt dem vordergründigen Zweck) Ausnutzen von von Netzwerk-Anwendungen (Blaster: Lücke in RPC) (Schwachstellen im Browser) |wechselmedien (USB, CD, DVD) (durch Angreifer Denial-of Service-Angriffe (DoS) bezeichnet den Ausfall eines Dienst …
@@ -367,11 +367,11 @@ Manuelle Instalation
 #### Seite 11: Definition personenbezogene Daten
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11]]`
+> - PDF: [Fachbegriffe.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Laden … Definition personenbezogene Daten Personenbezogene Daten sind Informationen, die sich auf eine Person Beziehen. Zwischen einer Information und einer Person muss also eine Verbindung herstellbar sein, unmittelbar oder mittelbar. Eine unmittelbare Verbindung ist beispielsweise mit dem Namen, der Anschrift oder dem Geburtsdatum gegeben. Eine mittelbare Verbindung erfolgt etwa mittels Zusatzwissen, beispielsweise bei Telefon-, Matrikel- und Sozialversicherungsnummern oder Online-Kennungen wie IP-Adressen und Cookie-Kennungen. Ausreichend ist, wenn die Information die Identifizierung der betroffenen Person theoretisch ermöglicht, es kommt nicht darauf an, ob die Person tatsächlich identif …
@@ -398,11 +398,11 @@ an, ob die Person tatsächlich identifiziert wird.
 #### Seite 33: Secure Shell ist ein Netzwerkprotokoll für den sicheren Betrieb von
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=33>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=33]]`
+> - PDF: [Fachbegriffe.pdf Seite 33](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=33>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=33]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=33]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > SS H Secure Shell ist ein Netzwerkprotokoll für den sicheren Betrieb von Netzwerkdiensten über ungesicherte Netzwerke. Genutzt wird dies z. B. zur Fernwartung eines in einem entfernten Rechenzentrum stehenden Servers.
@@ -421,11 +421,11 @@ entfernten Rechenzentrum stehenden Servers.
 #### Seite 34: Teletype Network ist ein inzwischen weniger verbreitetes
 
 > [!referenz] Exakte Referenz
-> - PDF: [Fachbegriffe.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=34>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=34]]`
+> - PDF: [Fachbegriffe.pdf Seite 34](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=34>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=34]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=34]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Telnet Teletype Network ist ein inzwischen weniger verbreitetes Netzwerkprotokoll. Dieses Client/Server-Protokoll basiert auf einem zeichenorientierten Datenaustausch über eine TCP-Verbindung.
@@ -445,11 +445,11 @@ TCP-Verbindung.
 #### Seite 1: 16 . 09 . 25
 
 > [!referenz] Exakte Referenz
-> - PDF: [Lernziele.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf#page=1]]`
+> - PDF: [Lernziele.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 16 . 09 . 25 Seiten 1-4 · 4 Schritte des Sicherheitsprozess können · Planung , Umsetzung , Erfolgskontrolle , Verbesserung · 4 Gefahren der physischen Sicherheit nennen können · Unberechtigter Zugang zum Raum , physischer Zugriff zum System, Klima Umfeld (Dreck) , Zugriff auf Netzwerkkabel · Lösungen für die 4 Gefahren · Biometrische Zugangskontrolle , abschließbare Server-Schränke , Reinigung , verdeckte Schächte · Was bedeutet Fehlertoleranz ? · , das ein System seine Funktion aufrecht erhalten kann wenn Teile ausfallen · Redundante Komponenten · Wie kann Fehlertoleranz sichergestellt werden ? · Was versteht man unter folgender Malware : Backdoor · öffnet geheimen Zugang zum Opfer System · …
@@ -656,11 +656,11 @@ können .
 #### Seite 1: Was ist die Aufgabe eines Sicherheitskonzeptes?
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzplan_251022_160116.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=1]]`
+> - PDF: [Netzplan_251022_160116.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Was ist die Aufgabe eines Sicherheitskonzeptes? * Soll die wesentlichen Informationen einer Insitution schützen wie z.B, erforderliche Informationen, damit Geschäftsprozesse reibungslos funktionieren oder Informationen mit Geheimhaltungsbedarf die nur für Befugte zugänglich sein dürfen Welche Angaben braucht man beim Erfassen der Anwendungen? * eine eindeutige Kennung (Name, Kürzel) * eine Namen für die Anwendung • eine kurze Beschreibung des Ziels, der Funktionen und der verarbeiteten Informationen • die für die Anwendung Verantwortlichen Fejsone • die Benutzer dieser Anwendung welche Elemente muss ein Netzplan mindestens enthalten mit Beispielen? • die in das Netz eingebundenen IT-Systeme; …
@@ -709,11 +709,11 @@ Anbindung, DSL)
 #### Seite 2: '1) Was ist ein Domaincontroller?
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzplan_251022_160116.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=2]]`
+> - PDF: [Netzplan_251022_160116.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > '1) Was ist ein Domaincontroller? Server, der Authentifizierungsanfragen beantwortet und Benutzer in einem Computernetzwerk verifiziert 2) Was versteht man unter einem Virtualisierungsserver? Es werden mehrere virtuelle Server auf einem physischen Server erstellt 3) Was macht ein Druckserver? _ Nimmt in einem Rechnernetz Druckauftäge entgegen und leitet sie an Drucker weiter 4) Aufgabe einer Firewall: — Die Firewall überwacht den laufenden Datenverkehr und entscheidet, ob bestimmte Pakete durchgelassen werden oder nicht. So versucht sie, unerlaubte Netzwerkzugriffe zu verhindern • Vertraulichkeit • Integrität • Verfügbarkeit Entweder eine sehr aggressive Ausbreitung, welche das Opfer überwäl …
@@ -742,11 +742,11 @@ um dem Opfer wenig Hinweise auf die Aktivität zu geben.
 #### Seite 3: über gefälschte Webseiten oder E-Mails wird versucht an persönliche
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzplan_251022_160116.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=3]]`
+> - PDF: [Netzplan_251022_160116.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > über gefälschte Webseiten oder E-Mails wird versucht an persönliche Daten zu gelangen. Malware Software (wie z. B. Viren, Würmer usw.), die in Computersysteme eindringen und dort Störungen oder Schäden verursachen kann Für Fragen rund um Informationssicherheit in der Institution zuständig. Zu seinen Aufgaben gehört es, 8 „Erstellung des Sicherheitskonzepts, — -Realisierungsplane für Sicherheitsmaßnahmen anzufertigen sowie Umsetzung zu initiieren, -Leitungsebene über den Status Informationssicherheit zu berichten, -sicherheitsrelevante Vorfälle zu untersuchen sowie -Sensibilisierungen und Schulungen zur Informationssicherheit zu initiieren und zu koordinieren. Spywareist in vermeintlich koste …
@@ -785,11 +785,11 @@ bezeichnet, für die noch kein Patch des Herstellersverfiigbar ist.
 #### Seite 4: Computerprogramm, das als nützliche Anwendung getarnt ist,
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzplan_251022_160116.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=4]]`
+> - PDF: [Netzplan_251022_160116.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > _ Computerprogramm, das als nützliche Anwendung getarnt ist, im Hintergrund ohne Wissen des Anwenders Daten verschlüsselt. • Übernahme der Verantwortung durch • Bereitstellung von finanziellen, die Leitungsebene personellen und zeitlichen Ressourcen =) • Konzeption und Planung des e Entscheidung für eine Vorgehensweise Sicherheitsprozesses _ Erstellung der Leitlinie zur Informationssicherheit | • Fortentwicklung des ISMS . Erweiterunlwählten a) Vorgehensweise w
@@ -812,11 +812,11 @@ w
 #### Seite 5: IT_Sicherheit_Netzplan_251022_160116 Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzplan_251022_160116.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=5]]`
+> - PDF: [Netzplan_251022_160116.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=5]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 
@@ -830,11 +830,11 @@ w
 #### Seite 6: IT_Sicherheit_Netzplan_251022_160116 Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzplan_251022_160116.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=6]]`
+> - PDF: [Netzplan_251022_160116.pdf Seite 6](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=6]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 
@@ -848,11 +848,11 @@ w
 #### Seite 7: Was ist die Aufgabe eines Sicherheitskonzeptes?
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzplan_251022_160116.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=7]]`
+> - PDF: [Netzplan_251022_160116.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=7]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Was ist die Aufgabe eines Sicherheitskonzeptes? + Soll die wesentlichen Informationen einer Insitution schützen wie z.B. erforderliche Informationen, damit Geschäftsprozesse reibungslos funktionieren oder Informationen mit Geheimhaltungsbedarf die nur für Befugte zugänglich sein dürfen Welche Angaben braucht man beim Erfassen der. ‚Anwendungen? * eine eindeutige Kennung (Name, Kürzel) * eine Namen für die Anwendung * eine kurze Beschreibung des Ziels, der Funktionen und der verarbeiteten Informationen + die für die Anwendung Verantwortlichen farsone + die Benutzer dieser Anwendung Welche Elemente muss ein Netzplan mindestens enthalten mit Beispielen? + die in das Netz eingebundenen IT-System …
@@ -949,11 +949,11 @@ Vorgehensweise
 #### Seite 1: Plan = Planung von Sicherheitsmaßnahmen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=1]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Plan = Planung von Sicherheitsmaßnahmen Do = Umsetzung Maßnahmen @ Check = Erfolgskontrolle, Uberwachung Zielerreichung Act = Beseitigung Defizite, Verbesserung Physische Sicherhei Unberechtigter Raumzugang:Schließsysteme, Biometrische Zugangskontrolle, seperate Serverräume Physischer Zugriff zum System: Abschließbare Server-Schränke, Gehäuseverschluss, Kensington-Schloss Klima/ Umwelt (Temperatur, Feuchtigkeit, Staub, Dreck): Klima- Anlage, Umgebungs-Kontrollen, Reinigung Zugriff auf Netzwerkkabel: Unterboden-Verlegung, verdeckte Schachte Fehlertoleranz:System seine Funktionen aufrecht erhalten kann, auch wenn Teile davon ausfallen. Sicherstellung: e _ Redundante (doppelt vorhandene) Kompon …
@@ -995,11 +995,11 @@ Lt
 #### Seite 2: (Trojaner) verleiten z.B. falsches Virenschutzprogramm
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=2]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > (Trojaner) verleiten z.B. falsches Virenschutzprogramm e Ransomware: Blockiert Zugriff auf Computer/ Computerdaten (ggf. Durch Verschlüsselung) und fordert Benutzer zur Zahlung von Lösegeld auf • — Rootkits: versteckt Schadsoftware und unerwünschte Vorgänge auf System durch Manipultaion von Kernel-Code und -Prozessen e E-Mail-Anhänge (mit vermeintlich wichtigen Dokumenten) • Drive-by-Download (Schwachstellen im Browser) e Manuelle Installation durch Angreifer “ DoS = Denial-of-Service-Angriffe DoS: Bezeichnet den Ausfall eines Dienstes im Netzwerk (Phishing: Versuch über gefälschte E-Mails oder Webseiten an persönliche Daten des-Benutzers zu kommen ey Ww Übersicht über die Schutzmechanismen …
@@ -1037,11 +1037,11 @@ zugänglich sein. Systemen. werden können.
 #### Seite 3: Standleitung: Ist permanente Verbindung im
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=3]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Standleitung: Ist permanente Verbindung im Telekommunikationsnetz, die Verbindung wird nicht temporär auf und abgebaut. Regeln für die Gruppierung von IT-Systemen: • . Sie sind vom gleichen Typ. e . Sie sind gleich oder nahezu gleich konfiguriert. e _ Sie weisen gleichen Schutzbedarf auf. ‘Angaben für Geschäftsprozesse: e Eine eindeutige Kennung (Nummer oder Kürzel). • Einen Namen für den Prozess. e Eine kurze Beschreibung des Ziels, der Abläufe und der verarbeiteten Informationen. e “Die für den Prozess verantwortlichen Personen. Ziele der Strukturanalyse: • . Identifizierung der zu berücksichtigenden Objekte für ein Sicherheitskonzept. • _ Angemessene Gruppierung von Objekten, für die glei …
@@ -1078,11 +1078,11 @@ Anwendungen dient und mit gleichen.Geraten gruppiert wird
 #### Seite 4: Was ist die Aufgabe eines Sicherheitskonzeptes?
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=4>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=4]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 4](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=4>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=4]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Was ist die Aufgabe eines Sicherheitskonzeptes? • Soll die wesentlichen Informationen einer Insitution schützen wie z.B. erforderliche Informationen, damit Geschäftsprozesse reibungslos funktionieren oder Informationen mit Geheimhaltungsbedarf die nur für Befugte zugänglich sein dürfen Welche Angaben braucht man beim Erfassen der Anwendungen? • eine eindeutige Kennung (Name, Kürzel) • eine Namen für die Anwendung • eine kurze Beschreibung des Ziels, der Funktionen und der verarbeiteten Informationen • die für die Anwendung Verantwortlichen • die Benutzer dieser Anwendung Welche Elemente muss ein Netzplan mindestens enthalten. mit Beispielen? • die in das Netz eingebundenen IT-Systeme: Comput …
@@ -1131,11 +1131,11 @@ DSL)
 #### Seite 5: Fragen auf Seite 12:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=5]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=5]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fragen auf Seite 12: 1) Was ist ein Domaincontroller? Server, der Authentifizierungsanfragen beantwortet und Benutzer in einem Computernetzwerk verifiziert 2) Was versteht man unter einem Virtualisierungsserver? Es werden mehrere virtuelle Server auf einem physischen Server erstellt 3) Was macht ein Druckserver? Nimmt in einem Rechnernetz Druckauftäge entgegen und leitet sie an Drucker weiter 4) Aufgabe einer Firewall: Die Firewall überwacht den laufenden Datenverkehr und entscheidet, ob bestimmte Pakete durchgelassen werden oder nicht, So versucht sie, unerlaubte Netzwerkzugriffe zu verhindern • Vertraulichkeit • Integrität • Verfügbarkeit Advanced Persistent Threat (APT) Ziel ist es, über …
@@ -1178,11 +1178,11 @@ um dem Opfer wenig Hinweise auf die Aktivität zu geben.
 #### Seite 7: Verschlüsselungstrojaner
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=7]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=7]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Verschlüsselungstrojaner Computerprogramm, das als nützliche Anwendung getarnt ist, im Hintergrund ohne Wissen des Anwenders Daten verschlüsselt. Informationssicherheitsprozess. Initiierung des = • Übernahme der Verantwortung durch • Bereitstellung vonfinanziellen, die Leitungsebene personellen und zeitlichen Ressourcen 6 • Konzeption und Planung des • Entscheidung füfeine Vorgehensweise Sicherheitsprozesses a, Erstellung der Leitlinie zur Informationssicherheit | | Organisation des Sicherheitgprozesses | | Erstellung einer Sicherheitgkonzeption | I / Umsetzung der Sicherheifskonzepion | EB Aufrechterhaltung und Verbesserung • Fortentwicklung des ISMS e Er citerundaevahiten a Vgrgehensweise …
@@ -1223,11 +1223,11 @@ TCP-Verbindung.
 #### Seite 8: Die Authentifizierung sorgt im Computer- und Internetumfeld dafür,
 
 > [!referenz] Exakte Referenz
-> - PDF: [Sicherheitsmanagement.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=8]]`
+> - PDF: [Sicherheitsmanagement.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Die Authentifizierung sorgt im Computer- und Internetumfeld dafür, dass die Identität eines Benutzers gegenüber einem System nachgewiesen und verifiziert werden kann. https Hypertext Transfer Protocol Secure ist ein Kommunikationsprotokoll, mit dem Daten abhörsicher übertragen werden können SSH Secure Shell ist ein Netzwerkprotokoll für den sicheren Betrieb von Netzwerkdiensten über ungesicherte Netzwerke. Genutzt wird dies z. B. zur Fernwartung eines in einem entfernten Rechenzentrum stehenden Servers. Digitale Signaturen Asymmetrisches Kryptosystem, bei dem ein Sender mit Hilfe eines geheimen Private Key zu einer digitalen Nachricht einen Wert berechnet Dieser Wert ermöglicht es jedem, mit …
@@ -1259,11 +1259,11 @@ die Urheberschaft und Integrität der Nachricht zu prüfen.
 #### Seite 1: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1]]`
+> - PDF: [Skript_Wittmann.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ I Inhalt 1 Sicherheitsmanagement ................................................................................................................................................ 1 Der Sicherheitsprozess .................................................................................................................................................. 1 Grundwissen in der IT-Sicherheit .................................................................................................................................. 2 Schutzziele der IT-Sicherheit .................................................................... …
@@ -1319,11 +1319,11 @@ Aufwände schätzen ............................................................
 #### Seite 3: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3]]`
+> - PDF: [Skript_Wittmann.pdf Seite 3](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 1 1 Sicherheitsmanagement Jede Institution benutzt Sicherheitstechnik, um sich vor Gefahren aus dem Internet abzusichern. Dazu gehören fast immer Virenschutzprogramme und Spamfilter, oft aber auch komplexere Lösungen wie gestaffelte Firewalls und Software zur Angriffserkennung. Darüber hinaus ergreifen Behörden und Unternehmen organisatorische Maßnahmen, etwa indem sie Richtlinien für die Benutzung mobiler Systeme erlassen oder die ihre Mitarbeiter über Gefahren im Internet informieren. Sowohl die Anwendung von Technik als auch die Einführung organisatorischer Maßnahmen erfolgt oft jedoch ohne Konzept und Erf …
@@ -1383,11 +1383,11 @@ Act
 #### Seite 8: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8]]`
+> - PDF: [Skript_Wittmann.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 6 2 Strukturanalyse Die Strukturanalyse soll, wie auch die weiteren Schritte der Standard-Absicherung gemäß IT-Grundschutz-Methodik, am Beispiel des fiktiven Unternehmens RECPLAST GmbH verdeutlicht werden – daher vorab ein paar einführende Informationen zu diesem Unternehmen. Geschäftszweck und Standorte Die RECPLAST GmbH hat rund 500 Mitarbeiter und stellt aus Recyclingmaterialien etwa 400 unterschiedliche Kunststoffprodukte her. Verwaltung sowie Produktion und Lager der Firma befinden sich in Bonn, allerdings an unterschiedlichen Standorten: Die Geschäftsführung hat zusammen mit den Verwaltungsabteilungen s …
@@ -1440,11 +1440,11 @@ Gebäudetechnik
 #### Seite 9: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=9]]`
+> - PDF: [Skript_Wittmann.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=9]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 7 Generell gilt, dass man Komponenten zusammenfassen sollte, die • vom gleichen Typ sind, • gleich oder nahezu gleich konfiguriert sind, • gleich oder nahezu gleich in das Netz eingebunden sind, • den gleichen administrativen und infrastrukturellen Rahmenbedingungen unterliegen, • die gleichen Anwendungen bedienen und • den gleichen Schutzbedarf aufweisen. In der Regel bietet sich an, Clients in Gruppen zusammenzufassen. Gruppierungen sind aber auch für Server möglich, wenn diese die oben genannten Kriterien erfüllen. Dies trifft z. B. auf redundant ausgelegte Server zu. Weitere typische Beispiele für Gruppie …
@@ -1538,11 +1538,11 @@ X
 #### Seite 12: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=12]]`
+> - PDF: [Skript_Wittmann.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=12]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 10 Aufgabe: Entscheide, in welchen Geschäftsprozessen die Anwendungen verwendet werden: Zuordnung der Anwendungen zu Geschäftsprozessen Anwendung Geschäftsprozess A001 A002 ... A009 A010 A013 A014 A015 GP001 Produktion GP002 Angebotswesen GP003 Auftragsabwicklung GP004 Einkauf Netzplan erheben Ein Netzplan ist eine graphische Übersicht über die Komponenten eines Netzes und ihre Verbindungen. Im Einzelnen sollte der Plan mindestens die folgenden Objekte enthalten: • die in das Netz eingebundenen IT-Systeme; dazu zählen Computer (Clients und Server), Netzdrucker sowie aktive Netzkomponenten (Switches, Router, W …
@@ -1624,11 +1624,11 @@ j
 #### Seite 14: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=14>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=14]]`
+> - PDF: [Skript_Wittmann.pdf Seite 14](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=14>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=14]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=14]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 12 Aufgabe: Recherchieren folgende Begriffe im Internet: 1) Was ist ein Domaincontroller? Bei einer Domäne handelt es sich um einen Netzwerkbereich, in dem User Benutzerrechte gemäß der Organisationsstruktur erhalten. Die Verwaltung der Domäne erfolgt zentral über Domänencontroller. 2) Was versteht man unter einem Virtualisierungsserver? Es werden mehrere virtuelle Server auf einem physischen Server erstellt. 3) Was macht ein Druckserver? Ein Druckserver oder nimmt in einem Rechnernetz Druckaufträge entgegen und leitet sie an Drucker weiter. 4) Aufgabe einer Firewall: Die Firewall überwacht den laufenden Date …
@@ -1717,11 +1717,11 @@ verhindern
 #### Seite 15: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=15]]`
+> - PDF: [Skript_Wittmann.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=15]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 13 Eine tabellarische Übersicht sollte für jedes IT-System die folgenden Angaben enthalten: • eindeutige Bezeichnung, • bei Gruppen: Anzahl der zusammengefassten IT-Systeme, • Beschreibung (insbesondere sollte man hier den Einsatzzweck anführen z. B. „Server für Personalverwaltung“, „Router zum Internet“), • Standort • Benutzer und Verantwortliche. Beispiel Die folgende Tabelle zeigt einen Auszug der IT-Systeme bei der RECPLAST GmbH. Durch unterschiedliche Buchstaben als erstes Zeichen der Bezeichnung wird der Typ eines IT-Systems verdeutlicht (z. B. kennzeichnet ein „S“ Server oder ein „N“ Netzkomponenten). …
@@ -1840,11 +1840,11 @@ IT-Betrieb
 #### Seite 16: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=16>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=16]]`
+> - PDF: [Skript_Wittmann.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=16>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=16]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=16]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 14 Aufgabe: Kreuze an, welche Netzkomponenten von den Anwendungen genutzt werden. Nutzung der Netzkomponenten Bezeichnung und Beschreibung der Anwendung Router Internet Firewall Switche Router BG-Beuel A001 Lotus Notes A002 Textverarbeitung, Präsentation, Tabellenkalkulation A009 Auftrags- und Kundenverwaltung A010 Active Directory A013 Druckservice BG A014 Druckservice Beuel Räume erheben Wie gut Informationen und Informationstechnik geschützt sind, hängt immer auch von der Sicherheit der räumlichen Umgebung ab, in der diese benutzt oder aufbewahrt werden. Daher erfasst man bei der Strukturanalyse auch alle …
@@ -1967,11 +1967,11 @@ X
 #### Seite 21: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=21>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=21]]`
+> - PDF: [Skript_Wittmann.pdf Seite 21](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=21>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=21]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=21]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 19 Schutzbedarfsfeststellung für IT-Systeme Bezeichnung und Beschreibung Schutzziel und Schutzbedarf Begründung S007 Virtualisierungs -server Vertraulichkeit: hoch Maximumprinzip: Der Domain Controller beinhaltet das Active Directory und damit die Anmeldeinformationen aller Mitarbeiter. Integrität: hoch Maximumprinzip: Der Dateiserver verwaltet Dateien, deren Korrektheit für den Geschäftsbetrieb sichergestellt sein muss. Verfügbarkeit: hoch Kumulationseffekt: Sowohl der Domain Controller als auch der Dateiserver haben sehr hohe Verfügbarkeitsanforderungen. Daraus ergibt sich für den Virtualisierungsserver ein …
@@ -2100,11 +2100,11 @@ toleriet werden
 #### Seite 38: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=38>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=38]]`
+> - PDF: [Skript_Wittmann.pdf Seite 38](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=38>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=38]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=38]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 35 Aufgabe 2: Statte einen Heimarbeitsplatz für einen Mitarbeiter nach Standard-Anforderungen aus. Der Mitarbeiter verfügt dafür über eine 12m² großes Zimmer mit abschließbarer Türe. In dem Zimmer sind ausreichend Steckdosen und ein Internetanschluss über LAN ist verfügbar. Gereinigt wird der Raum von einem vorhandenen Saugroboter. Notiere die Maßnahmen und suche im Internet nach passenden Produkten. Erstelle außerdem einen Preiseübersicht. Fertige zudem eine Skizze des eingerichteten Büros an. Anforderung Komponente Preis Tisch 350 Stuhl 150=) PC 850 E Drucker 500E Aktenschrank 350= Pflanze 35E Bildschirm 2 …
@@ -2155,11 +2155,11 @@ Teppich
 #### Seite 40: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 40](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=40>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=40]]`
+> - PDF: [Skript_Wittmann.pdf Seite 40](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=40>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=40]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=40]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 37 SYS.3.1 Laptops Die Geräte sind in den meisten Institutionen verbreitet und ersetzen für einige Mitarbeiter den klassischen Desktop-PC. Da Laptops häufig mobil genutzt werden, sind sie oft nicht permanent am LAN der Institution angeschlossen. Stattdessen können sie sich in der Regel per Virtual Private Network (VPN) über das Internet oder andere Datennetze verbinden, um so auf die Ressourcen des LANs zuzugreifen. Auch die Infrastruktur einer klassischen Büroumgebung, wie kontrollierbare Umwelteinflüsse, eine stabile Stromversorgung oder zutrittsgeschützte Bereiche kann für den mobilen Einsatz von Laptops n …
@@ -2235,11 +2235,11 @@ vorhandenen Schutzmechanismen MUSS auf allen Laptops der Institution ein Antivir
 #### Seite 43: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=43>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=43]]`
+> - PDF: [Skript_Wittmann.pdf Seite 43](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=43]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 40 APP.5.2 Microsoft Exchange und Outlook Microsoft Exchange ist eine Groupware-Lösung für mittlere bis große Institutionen. Mit ihr können elektronisch Nachrichten übermittelt werden und sie verfügt über weitere Dienste, um Workflows zu unterstützen. Nachrichten, wie E-Mails, können mit Microsoft Exchange zentral verwaltet, zugestellt, gefiltert und versendet werden. Ebenso können typische Groupware- Anwendungen, wie Notizen, Kontaktlisten, Kalender und Aufgabenlisten angeboten und verwaltet werden. Um die Funktionen von Microsoft Exchange nutzen zu können, ist neben dem Server-Dienst eine zusätzliche Client …
@@ -2317,11 +2317,11 @@ automatisierter Datenabfluss sein.
 #### Seite 47: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=47>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=47]]`
+> - PDF: [Skript_Wittmann.pdf Seite 47](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=47>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=47]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=47]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=47]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 44 Aufgabe 1: Es soll eine Serverraum (Hardware) geplant werden. Welche Bausteine sind anzuwenden? INF.1 Allgemeines Gebäude, INF.2 Rechenzentrum sowie Serverraum, INF.3 Elektrotechnische Verkabelung, INF.4 IT-Verkabelung Aufgabe 2: Ein Büroraum soll mit WLAN ausgestattet werden. Welche Bausteine sind anzuwenden? NET.1.1 Netzarchitektur und Design, NET.1.2 Netzmanagement, NET.2.1 WLAN-Betrieb, NET.2.2 WLAN-Nutzung, NET.3.1 Router und Switches Anforderungen anpassen Wie bereits erwähnt, beschreiben die IT-Grundschutz-Bausteine Anforderungen, die eine Institution umsetzen MUSS oder SOLLTE. In ihnen ist also dar …
@@ -2432,11 +2432,11 @@ X
 #### Seite 48: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 48](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=48>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=48]]`
+> - PDF: [Skript_Wittmann.pdf Seite 48](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=48>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=48]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=48]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 45 5 Risikoanalyse Beispiel: Risikomanagement bei der RECPLAST GmbH In der RECPLAST GmbH wurde beschlossen, das Risikomanagement gemäß IT-Grundschutz auszurichten und eine Sicherheitskonzeption gemäß Standard-Absicherung zu entwickeln. Voraussetzung für die Durchführung von Risikoanalysen im Rahmen der Standard-Absicherung ist, dass bei der Strukturanalyse die Zielobjekte des Informationsverbundes zusammengestellt sind, deren Schutzbedarf festgestellt ist und ihnen bei der Modellierung soweit möglich passende IT-Grundschutz-Bausteine zugeordnet wurden. Für folgende Zielobjekte sollte eine Risikoanalyse erfolg …
@@ -2496,11 +2496,11 @@ einzelnen Gefährdungen werden durch eine eindeutige Kennung und Bezeichnung von
 #### Seite 54: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 54](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=54>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=54]]`
+> - PDF: [Skript_Wittmann.pdf Seite 54](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=54>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=54]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=54]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=54]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 51 Risikobewertung Virtualisierungsserver S007 Vertraulichkeit: hoch; Integrität: hoch; Verfügbarkeit: hoch Gefährdung asdf Beeinträchtigte Grundwerte: Eintrittshäufigkeit ohne zusätzliche Maßnahmen: Auswirkungen ohne zusätzliche Maßnahmen: Risiko ohne zusätzliche Maßnahmen: Begründung Eintrittshäufigkeit: Begründung Auswirkungen: Risikobewertung Virtualisierungsserver S007 Vertraulichkeit: hoch; Integrität: hoch; Verfügbarkeit: hoch Gefährdung Dasd Beeinträchtigte Grundwerte: Eintrittshäufigkeit ohne zusätzliche Maßnahmen: Auswirkungen ohne zusätzliche Maßnahmen: Risiko ohne zusätzliche Maßnahmen: Begründung …
@@ -2611,11 +2611,11 @@ begrenzt
 #### Seite 60: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60]]`
+> - PDF: [Skript_Wittmann.pdf Seite 60](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=60]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 57 Begleitende Maßnahmen festlegen Der Erfolg einer Maßnahme hängt in einem entscheidenden Umfang davon ab, wie diese von den Mitarbeitern akzeptiert und angewendet wird. Bei Einführung neuer Sicherheitsmaßnahmen müssen die betroffenen Mitarbeiter ausreichend geschult und für mögliche Probleme sensibilisiert werden. Die Einführung neuer Sicherheitsmaßnahmen erfordert immer Schulungen für die betroffenen Mitarbeiter. Was nützt zum Beispiel ein neu angeschaffter Feuerlöscher, wenn die Mitarbeiter im Brandfall nicht sachgerecht mit ihm umgehen können? Drei weitere Beispiele für zweckmäßige Schulungen: • Wenn Sie …
@@ -2722,11 +2722,11 @@ Frau Meyer
 #### Seite 61: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=61>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=61]]`
+> - PDF: [Skript_Wittmann.pdf Seite 61](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=61>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=61]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=61]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=61]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 58 Aufgabe 1: Recherchiere im Internet eine knappe Erläuterung zur Funktionsweise einer Firewall. Die Firewall dient dazu, den Netzwerkzugriff zu beschränken. Sie überwacht den durch die Firewall laufenden Datenverkehr und entscheidet, ob Netzwerkpakete durchgelassen werden. So kann unerlaubter Netzwerkzugriffe unterbunden werden, indem sie beispielsweise Pakete durchlässt, die aus dem internen Netz heraus angefordert wurden, und alle anderen Netzwerkpakete blockiert. Aufgabe 2: Erarbeite einen tabellarischen Umsetzungsplan zu den auf Seite 53 festgelegten Risikobehandlungsoptionen. Ganz simpel: Eine Firewall …
@@ -2774,11 +2774,11 @@ Das
 #### Seite 62: Wittmann
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62]]`
+> - PDF: [Skript_Wittmann.pdf Seite 62](<../../../../99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=62]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Wittmann Datum:_________ Fragen/Notizen: __________________________________________ 59 7 Aufrechterhaltung und Verbesserung Im Realisierungsplan wurde festgehalten, welche Maßnahmen des Sicherheitskonzepts zu welchem Zeitpunkt und in welcher Weise umgesetzt sein sollen. Dabei wurden erforderliche Ressourcen, eventuelle Zwischentermine und begleitende Maßnahmen berücksichtigt. Um sicher sein können, dass alles wie geplant umgesetzt ist und funktioniert, muss man die Einhaltung der Planung regelmäßig kontrollieren. Informationssicherheit ist darüber hinaus kein einmalig herzustellender und anschließend stabiler Zustand, sondern ein stetiger Prozess, der immer wieder an sich wandelnde und neue …
@@ -2885,11 +2885,11 @@ I
 #### Seite 2: Vernetze Systeme
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2]]`
+> - PDF: [Netzwerkt.pdf Seite 2](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Vernetze Systeme Jgst. 10 BS 1 Ingolstadt 14.11.24 pima Die Binäruhr Binärzahlen sind in der IT enorm wichtig, z.B. für das Verständnis von IPv4-Adressen oder zur Entschlüsselung der über ein Netzwerk verschickten Daten. Darum beschäftigen Sie sich nun mit diesem Zahlensystem. Es gibt hier nur 2 Ziffern: 0 und 1. So ist z.B. 1+1=10. Anhand des folgenden Beispiels erarbeiten Sie sich alle wichtigen Informationen zu diesem Zahlensystem. Zeichen Sie eine Momentaufnahme der im Browser gezeigten Uhr auf Ihr Blatt. Wofür stehen die 3 Bereiche? __________________________________________________________________________________ Der rechte Bereich wird schnell hochgezählt. Nun sollten Sie versuchen da …
@@ -2995,11 +2995,11 @@ immer
 #### Seite 7: IPv4-Adressen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7]]`
+> - PDF: [Netzwerkt.pdf Seite 7](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ITS: IPv4-Adressen BS1 IN otma (wo) 20.03.2024 IPv4-Adresse und Subnet-Maske Eine IP-Adresse (IP-Version 4) besteht aus 32 Bit und wird aus zwei Teilen zusammengesetzt: - dem Netz-teil (Netz-ID) und - dem Host-teil (Host-ID). 0 31 Bit Nr. Netz-ID Host-ID IP-Adresse Subnet-Maske 1111 .... 11111 00000 .... 000000 0 31 Die Subnet-Maske trennt den Netzteil vom Hostteil der IP-Adresse. Sie besteht ebenfalls aus 32 Bit. Die Bit-Stellen, an denen die Subnet-Maske eine binäre 1 besitzt, gehören bei der IP-Adresse zur Netz-ID. Die Bit-Stellen, an denen die Subnet-Maske eine binäre 0 besitzt, gehören bei der IP-Adresse zur Host-ID. Die Subnet-Maske beginnt mit 1en für Netz-Bits danach stehen nur 0en f …
@@ -3093,11 +3093,11 @@ enthält mindestens eine 1und eine O
 #### Seite 8: IPv4-Adressen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8]]`
+> - PDF: [Netzwerkt.pdf Seite 8](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=8]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=8]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ITS: IPv4-Adressen BS1 IN otma (wo) 20.03.2024 Aufgaben: Lösen Sie die folgenden Aufgaben, indem Sie die angegebenen IP-Adressen und Subnet-Masken binär darstellen! 1.) Welche Adresse ist eine gültige Host-Adresse (d.h. weder Broadcast- noch Netz-Adresse): a) 17.128.0.0/9 b) 17.129.0.0/9 c) 17.0.0.0/9 d) 17.127.255.255/9 e) 17.255.255.255/9 a) IP-Adresse dezimal 17 128 0 0 IP-Adresse binär 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Subnet-Maske binär 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Subnet-Maske dezimal 255 128 0 0 b) IP-Adresse dezimal IP-Adresse binär Subnet-Maske binär Subnet-Maske dezimal c) IP-Adresse dezimal IP-Adresse binär Subnet-Ma …
@@ -3316,11 +3316,11 @@ der
 #### Seite 9: IPv4-Adressen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=9>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=9]]`
+> - PDF: [Netzwerkt.pdf Seite 9](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=9]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ITS: IPv4-Adressen BS1 IN otma (wo) 20.03.2024 IP-Adressklassen Klasse IP-Adressbereich (binär) von - bis IP-Adressbereich (dezimal) von - bis Standard Subnet- Maske A 00000000 00000000 00000000 00000000 - 01111111 11111111 11111111 11111111 255.0.0.0 (/ ) B 10000000 00000000 00000000 00000000 - 10111111 11111111 11111111 11111111 255.255.0.0 (/ ) C 11000000 00000000 00000000 00000000 - 11011111 11111111 11111111 11111111 255.255.255.0(/ ) D 11100000 00000000 00000000 00000000 - 11101111 11111111 11111111 11111111 Multicastbereich (/ ) E 11110000 00000000 00000000 00000000 - 11111111 11111111 11111111 11111111 Experimentell (/ ) 1.) Ergänzen Sie die Adressbereiche der einzelnen Klassen in ge …
@@ -3489,11 +3489,11 @@ erkant
 #### Seite 10: IPv4-Adressen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10]]`
+> - PDF: [Netzwerkt.pdf Seite 10](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=10]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=10]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ITS: IPv4-Adressen BS1 IN otma (wo) 20.03.2024 Aufgaben: Lösen Sie die folgenden Aufgaben, indem Sie die angegebenen IP-Adressen und Subnet-Masken binär darstellen! 1.) Welche Host-Adresse wird nicht im Internet geroutet und ist nur im LAN gültig? a) 9.15.0.255 b) 10.255.255.254 c) 126.0.0.1 d) 191.168.255.245 e) 172.165.10.1 2.) Welche Adresse ist eine Multicast-Adresse? a) 222.0.0.1 b) 223.10.0.0 c) 224.200.10.0 d) 220.224.0.1 e) 124.1.2.0 3.) Welche Adresse ist eine private Klasse B-Hostadresse? a) 172.15.16.31 b) 172.28.0.0 c) 172.30.28.2 d) 172.32.0.1 4.) Welche Subnet-Maske ist ungültig? a) 255.240.0.0 b) 255.255.280.0 c) 255.255.255.248 d) 255.128.0.0 e) 224.0.0.0 5.) Welche Host-Adre …
@@ -3575,11 +3575,11 @@ X
 #### Seite 11: IPv4-Adressen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=11>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=11]]`
+> - PDF: [Netzwerkt.pdf Seite 11](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=11>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=11]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=11]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ITS: IPv4-Adressen BS1 IN otma (wo) 20.03.2024 Wie kann ich IPv4-Adressen besser verstehen? Ich könnte folgendermaßen vorgehen: ✓ IP-Adresse dezimal und binär angeben ✓ Subnet-Maske dezimal und binär angeben ✓ Trennung zwischen Netz-ID und Host-ID der IP-Adresse einzeichnen ✓ zutreffende Aussagen zu Adress-Art, Adress-Klasse, öffentliche bzw. private Adresse machen Beispiel zu 17.128.0.0/9 IP-Adresse dezimal 17 128 0 0 IP-Adresse binär 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Subnet-Maske binär 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Subnet-Maske dezimal 255 128 0 0 O Host-Adresse O Klasse A O öffentliche IP-Adresse O Netz-Adresse O Klasse B O p …
@@ -3704,11 +3704,11 @@ Host-ID
 #### Seite 12: IPv4-Adressen
 
 > [!referenz] Exakte Referenz
-> - PDF: [Netzwerkt.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=12>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=12]]`
+> - PDF: [Netzwerkt.pdf Seite 12](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=12>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=12]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=12]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > ITS: IPv4-Adressen BS1 IN otma (wo) 20.03.2024 IP-Adresse dezimal IP-Adresse binär Subnet-Maske binär Subnet-Maske dezimal O Host-Adresse O Klasse A O öffentliche IP-Adresse O Netz-Adresse O Klasse B O private IP-Adresse O Broadcast-Adresse O Klasse C O Klasse D O Klasse E IP-Adresse dezimal IP-Adresse binär Subnet-Maske binär Subnet-Maske dezimal O Host-Adresse O Klasse A O öffentliche IP-Adresse O Netz-Adresse O Klasse B O private IP-Adresse O Broadcast-Adresse O Klasse C O Klasse D O Klasse E IP-Adresse dezimal IP-Adresse binär Subnet-Maske binär Subnet-Maske dezimal O Host-Adresse O Klasse A O öffentliche IP-Adresse O Netz-Adresse O Klasse B O private IP-Adresse O Broadcast-Adresse O Kla …
@@ -3833,7 +3833,7 @@ O Klasse E
 - Frage:: Was ist **Definition personenbezogene Daten** laut Quelle?
 - Antwort:: Laden … Definition personenbezogene Daten Personenbezogene Daten sind Informationen, die sich auf eine Person Beziehen.
 - Beleg:: Laden … Definition personenbezogene Daten Personenbezogene Daten sind Informationen, die sich auf eine Person Beziehen.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=11|Fachbegriffe S. 11]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -3841,7 +3841,7 @@ O Klasse E
 - Frage:: Was ist der Kernpunkt zu **SS H Secure Shell** laut Quelle?
 - Antwort:: SS H Secure Shell ist ein Netzwerkprotokoll für den sicheren Betrieb von Netzwerkdiensten über ungesicherte Netzwerke.
 - Beleg:: SS H Secure Shell ist ein Netzwerkprotokoll für den sicheren Betrieb von Netzwerkdiensten über ungesicherte Netzwerke.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=33|Fachbegriffe S. 33]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=33|Fachbegriffe S. 33]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -3849,7 +3849,7 @@ O Klasse E
 - Frage:: Was ist der Kernpunkt zu **Telnet Teletype Network** laut Quelle?
 - Antwort:: Telnet Teletype Network ist ein inzwischen weniger verbreitetes Netzwerkprotokoll.
 - Beleg:: Telnet Teletype Network ist ein inzwischen weniger verbreitetes Netzwerkprotokoll.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Fachbegriffe.pdf#page=34|Fachbegriffe S. 34]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe|IT_Sicherheit_Fachbegriffe]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Fachbegriffe.pdf#page=34|Fachbegriffe S. 34]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -3857,7 +3857,7 @@ O Klasse E
 - Frage:: Was ist **Zero-Day-Exploit** laut Quelle?
 - Antwort:: Als Zero-Day-Exploit wird die Ausnutzung einer Sicherheitslücke bezeichnet, für die noch kein Patch des Herstellersverfiigbar ist.
 - Beleg:: Als Zero-Day-Exploit wird die Ausnutzung einer Sicherheitslücke bezeichnet, für die noch kein Patch des Herstellersverfiigbar ist.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116|IT_Sicherheit_Netzplan_251022_160116]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Netzplan_251022_160116.pdf#page=3|Netzplan_251022_160116 S. 3]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116|IT_Sicherheit_Netzplan_251022_160116]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Netzplan_251022_160116.pdf#page=3|Netzplan_251022_160116 S. 3]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -3865,7 +3865,7 @@ O Klasse E
 - Frage:: Was ist der Kernpunkt zu **Netzplan und Netzwerktechnik** laut Quelle?
 - Antwort:: Standleitung: Ist permanente Verbindung im Telekommunikationsnetz, die Verbindung wird nicht temporär auf und abgebaut.
 - Beleg:: Standleitung: Ist permanente Verbindung im Telekommunikationsnetz, die Verbindung wird nicht temporär auf und abgebaut.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|IT_Sicherheit_Sicherheitsmanagement]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Sicherheitsmanagement.pdf#page=3|Sicherheitsmanagement S. 3]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|IT_Sicherheit_Sicherheitsmanagement]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=3|Sicherheitsmanagement S. 3]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -3873,7 +3873,7 @@ O Klasse E
 - Frage:: Welche Vorgabe nennt die Quelle zu **Objekte gruppieren Ziel der Strukturanalyse**?
 - Antwort:: Objekte gruppieren Ziel der Strukturanalyse ist es, diejenigen Objekte zu identifizieren und in ihrem Zusammenwirken zu beschreiben, für die in einem Sicherheitskonzept angemessene Schutzmaßnahmen festgelegt werden müssen.
 - Beleg:: Objekte gruppieren Ziel der Strukturanalyse ist es, diejenigen Objekte zu identifizieren und in ihrem Zusammenwirken zu beschreiben, für die in einem Sicherheitskonzept angemessene Schutzmaßnahmen festgelegt werden müssen.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=8|Skript_Wittmann S. 8]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=8|Skript_Wittmann S. 8]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -3881,7 +3881,7 @@ O Klasse E
 - Frage:: Was ist der Kernpunkt zu **Akku leer** laut Quelle?
 - Antwort:: So können zum Beispiel die Daten eines Laptops temporär nicht verfügbar sein, wenn der Akku leer ist.
 - Beleg:: So können zum Beispiel die Daten eines Laptops temporär nicht verfügbar sein, wenn der Akku leer ist.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/IT Sicherheit/Skript_Wittmann.pdf#page=40|Skript_Wittmann S. 40]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|IT_Sicherheit_Skript_Wittmann]], [[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=40|Skript_Wittmann S. 40]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -3889,7 +3889,7 @@ O Klasse E
 - Frage:: Was ist der Kernpunkt zu **IPv4-Adressen** laut Quelle?
 - Antwort:: Die gebräuchlichste (aber nicht die klarste) Darstellung von IP-Adressen ist die gepunktete Dezimaldarstellung: Die IP-Adresse wird in 4 Gruppen zu je 8-Bit (Oktette) aufgeteilt.
 - Beleg:: Die gebräuchlichste (aber nicht die klarste) Darstellung von IP-Adressen ist die gepunktete Dezimaldarstellung: Die IP-Adresse wird in 4 Gruppen zu je 8-Bit (Oktette) aufgeteilt.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=7|Netzwerkt S. 7]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma_Netzwerkt]], [[99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=7|Netzwerkt S. 7]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

@@ -15,7 +15,7 @@
   "pdfs": [
     {
       "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
-      "pdf_path": "99_Originale/Berufsschule/BGWP/BGWP.pdf",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf",
       "total_pages": 54,
       "contact_sheets_checked": 14,
       "current_modules": [
@@ -78,7 +78,7 @@
     },
     {
       "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md",
-      "pdf_path": "99_Originale/Berufsschule/BGWP/Bgwp schredl.pdf",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf",
       "total_pages": 44,
       "contact_sheets_checked": 11,
       "current_modules": [
@@ -117,7 +117,7 @@
     },
     {
       "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP.md",
-      "pdf_path": "99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf",
       "total_pages": 7,
       "contact_sheets_checked": 2,
       "current_modules": [
@@ -144,7 +144,7 @@
     },
     {
       "source_note": "02_Faecher/Deutsch/Quellen/Deutsch.md",
-      "pdf_path": "99_Originale/Berufsschule/Deutsch/Deutsch.pdf",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf",
       "total_pages": 46,
       "contact_sheets_checked": 12,
       "current_modules": ["Geschäftsbrief Anfrage Angebot","Kommunikation Modelle"],
@@ -183,7 +183,7 @@
     },
     {
       "source_note": "02_Faecher/Deutsch/Quellen/Regelsammlung.md",
-      "pdf_path": "99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf",
       "total_pages": 10,
       "contact_sheets_checked": 3,
       "current_modules": ["Rechtschreibung Gross und Klein","Rechtschreibung und Grammatik","Sprachtraining und Grammatik"],
@@ -201,7 +201,7 @@
     },
     {
       "source_note": "02_Faecher/Deutsch/Quellen/Station_1.md",
-      "pdf_path": "99_Originale/Berufsschule/Deutsch/Station 1.pdf",
+      "pdf_path": "99_Originale/Berufsschule/Deutsch/1_LJ/Station 1.pdf",
       "total_pages": 2,
       "contact_sheets_checked": 1,
       "current_modules": ["Rechtschreibung Gross und Klein","Rechtschreibung und Grammatik","Sprachtraining und Grammatik"],
@@ -212,7 +212,7 @@
     },
     {
       "source_note": "02_Faecher/Englisch/Quellen/Englisch.md",
-      "pdf_path": "99_Originale/Berufsschule/Englisch/Englisch.pdf",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf",
       "total_pages": 49,
       "contact_sheets_checked": 13,
       "current_modules": ["IT Jobs and Roles","Useful Phrases and Grammar"],

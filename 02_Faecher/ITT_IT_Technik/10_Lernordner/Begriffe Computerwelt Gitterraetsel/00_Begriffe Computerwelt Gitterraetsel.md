@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Begriffe Computerwelt Gitterraetsel** im Fach **ITT IT-Technik**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1|Begriffe Computerwelt - Gitterrätsel S. 1]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1|Begriffe Computerwelt - Gitterrätsel S. 1]].
 > - **Zentrale Suchbegriffe:** Begriffe, Computerwelt, Gitterraetsel.
 > - **Prüfungsbezug:** AP1 Grundlagen / IT-Begriffe.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -52,7 +52,7 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/Begriffe_Computerwelt_Gitterratsel\|Begriffe_Computerwelt_Gitterratsel]] | [Begriffe Computerwelt - Gitterrätsel.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1>) | Begriffe aus der Computerwelt | Das Arbeitsblatt ist ein Computerbegriffe-Gitterrätsel und gehört eindeutig zu IT-Grundbegriffen. |
+| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/Begriffe_Computerwelt_Gitterratsel\|Begriffe_Computerwelt_Gitterratsel]] | [Begriffe Computerwelt - Gitterrätsel.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1>) | Begriffe aus der Computerwelt | Das Arbeitsblatt ist ein Computerbegriffe-Gitterrätsel und gehört eindeutig zu IT-Grundbegriffen. |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -61,11 +61,11 @@ tags:
 #### Seite 1: Begriffe aus der Computerwelt
 
 > [!referenz] Exakte Referenz
-> - PDF: [Begriffe Computerwelt - Gitterrätsel.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1]]`
+> - PDF: [Begriffe Computerwelt - Gitterrätsel.pdf Seite 1](<../../../../99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Ein Gitterrätsel mit Computer- und Internetbegriffen. Bereits gut erkennbar sind u. a. **Provider**, **Escape**, **Homepage**, **Internet**, **Textfeld**, **Task**, **E-Mail**, **Seitenansicht**, **Browser**, **Scrollen**, **Error**, **Tastatur** und **Markieren**.
@@ -147,7 +147,7 @@ aber nicht vollständig sicher maschinenlesbar.
 - Frage:: Was ist der Kernpunkt zu **Begriffe aus der Computerwelt** laut Quelle?
 - Antwort:: Der Lösungsspruch aus den dick umrahmten Kästchen von oben nach unten ist im Scan sichtbar, aber nicht vollständig sicher maschinenlesbar.
 - Beleg:: Der Lösungsspruch aus den dick umrahmten Kästchen von oben nach unten ist im Scan sichtbar, aber nicht vollständig sicher maschinenlesbar.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Begriffe_Computerwelt_Gitterratsel|Begriffe_Computerwelt_Gitterratsel]], [[99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1|Begriffe Computerwelt - Gitterrätsel S. 1]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Begriffe_Computerwelt_Gitterratsel|Begriffe_Computerwelt_Gitterratsel]], [[99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1|Begriffe Computerwelt - Gitterrätsel S. 1]]
 - Prüfung:: AP1 Grundlagen / IT-Begriffe
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

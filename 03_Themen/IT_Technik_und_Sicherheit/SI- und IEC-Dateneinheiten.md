@@ -25,7 +25,7 @@ SI-Präfixe sind dezimal (`kB = 1.000 B`, `MB = 1.000² B`). IEC-Präfixe sind b
 
 | Quelle | PDF-Seiten | Einordnung |
 |---|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma Netzwerkt]] | [4](<../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=4>)–[5](<../../99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=5>) | Präfixtabelle und Umrechnungsaufgaben |
+| [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Otma Netzwerkt]] | [4](<../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=4>)–[5](<../../99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=5>) | Präfixtabelle und Umrechnungsaufgaben |
 
 > [!warning] OCR-Qualität
 > Der extrahierte Text dieser Seiten ist fehlerhaft. Für Exponenten, Groß-/Kleinschreibung und Rechenergebnisse immer das eingebettete Original-PDF prüfen.

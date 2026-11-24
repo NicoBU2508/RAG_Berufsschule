@@ -2,7 +2,7 @@
 typ: quelle
 fach: "AE_Anwendungsentwicklung"
 fach_anzeige: "AE Anwendungsentwicklung"
-original_pfad: "99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf"
+original_pfad: "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf"
 seiten: 48
 pruefung: "AP1, AP2"
 cssclasses:
@@ -25,7 +25,7 @@ textzeichen: 58271
 # 📄 Stol 02 Unternehmenswiki 4 Block
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/AE_Anwendungsentwicklung/AE_Anwendungsentwicklung|AE Anwendungsentwicklung]]
-> - **Original-PDF:** [02_Unternehmenswiki-4.Block.pdf](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf>)
+> - **Original-PDF:** [02_Unternehmenswiki-4.Block.pdf](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf>)
 > - **Seiten:** 48
 > - **KI-Lesbarkeit:** gut: visuell geprüft (ok=46)
 > - **Aktive Lernquelle:** ja
@@ -66,11 +66,11 @@ textzeichen: 58271
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 3](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 3](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -106,11 +106,11 @@ weiterer Begriffe, die im folgenden Kapitel erklärt werden.
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 4](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 4](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -158,11 +158,11 @@ grafischen Oberflächen (GUIs) und interaktives Erzeugen von Objekten.
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 5](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 5](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=5]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -201,11 +201,11 @@ dieses Quelltextes durch den PC ist aber so noch nicht möglich. Bisher schreibe
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 6](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 6](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=6]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -250,11 +250,11 @@ Grafik soll dies noch einmal verdeutlichen:
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 7](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 7](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=7]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -281,11 +281,11 @@ Mac
 ### Seite 8
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 8](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=8>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=8]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 8](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=8>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=8]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=8]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=8]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -304,11 +304,11 @@ Im Anschluss muss ein Name für das Projekt vergeben werden. Im Beispiel wird di
 ### Seite 9
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 9](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=9>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=9]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 9](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=9>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=9]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=9]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=9]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -326,11 +326,11 @@ Weiteren muss ein Haken bei public static void main(String[] args) gesetzt werde
 ### Seite 10
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 10](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=10>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=10]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 10](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=10>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=10]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=10]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=10]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -346,11 +346,11 @@ Dies wird nun um den Code erweitert, dass „Hallo EIT10“ ausgegeben wird.
 ### Seite 11
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 11](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 11](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=11]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -381,11 +381,11 @@ verbinden, müssen nun folgende Schritte beachtet werden:
 ### Seite 12
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 12](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 12](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=12]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -415,11 +415,11 @@ EV3 – Projekt ist.
 ### Seite 13
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 13](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=13>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=13]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 13](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=13>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=13]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=13]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -435,11 +435,11 @@ werden.
 ### Seite 14
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 14](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=14>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=14]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 14](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=14>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=14]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=14]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -456,11 +456,11 @@ Immer darauf achten, welches Programm ausgeführt wird!
 ### Seite 15
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 15](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 15](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=15]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -499,11 +499,11 @@ Methode mit der Signatur "public static void main(String args[])"
 ### Seite 16
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 16](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=16>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=16]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 16](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=16>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=16]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=16]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -548,11 +548,11 @@ genannt.
 ### Seite 17
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 17](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=17>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=17]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 17](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=17>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=17]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=17]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -602,11 +602,11 @@ Variablen, Konstanten und Methoden gemeint.
 ### Seite 18
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 18](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=18>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=18]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 18](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=18>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=18]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=18]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -648,11 +648,11 @@ Bezeichnern:
 ### Seite 19
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 19](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=19>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=19]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 19](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=19>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=19]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=19]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -699,11 +699,11 @@ innerhalb von Methoden genutzt werden.
 ### Seite 20
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 20](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=20>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=20]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 20](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=20>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=20]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=20]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -750,11 +750,11 @@ angeben, welche Art/Werte in die jeweilige Variable geschrieben werden dürfen.
 ### Seite 21
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 21](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=21>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=21]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 21](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=21>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=21]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=21]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=21]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -813,11 +813,11 @@ Der folgende Code ist deshalb falsch und kann nicht kompiliert werden:
 ### Seite 22
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 22](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 22](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=22]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -865,11 +865,11 @@ werden. Diese werden in einem späteren Kapitel genauer behandelt.
 ### Seite 23
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 23](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 23](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=23]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -914,11 +914,11 @@ verarbeitet werden, lassen sich folgendermaßen unterscheiden:
 ### Seite 24
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 24](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 24](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=24]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -962,11 +962,11 @@ float.
 ### Seite 25
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 25](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=25>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=25]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 25](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=25>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=25]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=25]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1019,11 +1019,11 @@ In Java gibt es acht primitive Datentypen:
 ### Seite 26
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 26](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 26](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=26]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1078,11 +1078,11 @@ Zeichenketten. Auf komplexe Datentypen werden wir später noch näher eingehen.
 ### Seite 27
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 27](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=27>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=27]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 27](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=27>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=27]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=27]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=27]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1133,11 +1133,11 @@ Fließkommazahl von -
 ### Seite 28
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 28](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 28](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=28]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1195,11 +1195,11 @@ String eine Verkettung von Zeichen („Konkatenation“) erfolgt.
 ### Seite 29
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 29](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=29>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=29]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 29](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=29>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=29]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=29]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1239,11 +1239,11 @@ Datentypkonvertierung.
 ### Seite 30
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 30](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=30>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=30]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 30](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=30>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=30]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=30]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1288,11 +1288,11 @@ Double
 ### Seite 31
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 31](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=31>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=31]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 31](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=31>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=31]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=31]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=31]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1347,11 +1347,11 @@ c ergibt den Wert 2
 ### Seite 32
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 32](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=32>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=32]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 32](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=32>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=32]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=32]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1414,11 +1414,11 @@ Division
 ### Seite 33
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 33](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=33>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=33]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 33](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=33>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=33]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=33]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1470,11 +1470,11 @@ gerade Zahl handelt: Zahl MOD 2 = 0 (Zahl ist gerade) Zahl MOD 2 < > 0 (Zahl ist
 ### Seite 34
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 34](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=34>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=34]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 34](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=34>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=34]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=34]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=34]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1514,11 +1514,11 @@ Aufgaben wiederverwendet werden können.
 ### Seite 35
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 35](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=35>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=35]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 35](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=35>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=35]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=35]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1572,11 +1572,11 @@ instanziieren. Es kann keine Objekte ohne zugehörige Klasse geben.
 ### Seite 36
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 36](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=36>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=36]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 36](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=36>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=36]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=36]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1620,11 +1620,11 @@ Eigenschaften bei Bedarf zu anzupassen. In unserem Beispiel könnte eine Methode
 ### Seite 37
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 37](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=37>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=37]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 37](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=37>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=37]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=37]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=37]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1667,11 +1667,11 @@ Objekt zur Verfügung stehen.
 ### Seite 38
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 38](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=38>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=38]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 38](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=38>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=38]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=38]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1718,11 +1718,11 @@ public static void main (String[] args) {
 ### Seite 39
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 39](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=39>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=39]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 39](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=39>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=39]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=39]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1767,11 +1767,11 @@ Nach Konvention werden Methodennamen kleingeschrieben.
 ### Seite 40
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 40](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=40>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=40]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 40](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=40>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=40]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=40]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1816,11 +1816,11 @@ System.out.println(„Hallo EIT10!“);
 ### Seite 41
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 41](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 41](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=41]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1873,11 +1873,11 @@ void sayHello() {
 ### Seite 42
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 42](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=42>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=42]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 42](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=42>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=42]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=42]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=42]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -1932,11 +1932,11 @@ eines Programms aufgerufen werden. Sie liefern keinen Rückgabewert!
 ### Seite 43
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 43](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=43>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=43]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 43](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=43>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=43]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=43]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=43]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2000,11 +2000,11 @@ gearbeitet
 ### Seite 44
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 44](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=44>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=44]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 44](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=44>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=44]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=44]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=44]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2059,11 +2059,11 @@ Hauptprogramm
 ### Seite 45
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 45](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=45>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=45]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 45](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=45>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=45]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=45]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2117,11 +2117,11 @@ return <Rückgabewert>;
 ### Seite 46
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 46](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=46>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=46]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 46](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=46>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=46]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=46]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2167,11 +2167,11 @@ Im blauen Kasten wird die Methode aufgerufen.
 ### Seite 47
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 47](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=47>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=47]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 47](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=47>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=47]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=47]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=47]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -2211,11 +2211,11 @@ ausgeführt. Alternativ zu Patrick kann jeder String übergeben werden.
 ### Seite 48
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 48](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48]]`
+> - PDF-Seite: [02_Unternehmenswiki-4.Block.pdf Seite 48](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48]]
+> ![[99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=48]]
 
 #### Extrahierter Originaltext für Suche und KI
 

@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **IT Vocabulary and Hardware** im Fach **Englisch**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2|Englisch S. 2]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3|Englisch S. 3]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14|Englisch S. 14]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=17|Englisch S. 17]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18|Englisch S. 18]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20|Englisch S. 20]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2|Englisch S. 2]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3|Englisch S. 3]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14|Englisch S. 14]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=17|Englisch S. 17]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18|Englisch S. 18]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20|Englisch S. 20]].
 > - **Zentrale Suchbegriffe:** Vocabulary, and, Hardware, English, EIT, People, Company, websites, The, layout.
 > - **Prüfungsbezug:** Berufsschule/Kommunikation, prüfungsnahes Fachvokabular.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -62,19 +62,19 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 14](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14>) | Company websites | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 17](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=17>) | The layout of a company | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18>) | The Company and its departments | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 20](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20>) | Production Planning | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29>) | Communication: E-Mails | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36>) | Sales and Marketing | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=38>) | STAATLICHE BERUFSSCHULEA | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 39](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=39>) | STAATLICHE SERUE: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40>) | English -IT - computer hardware- date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 12 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=41>) | open the side panel and lay it down to you left | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 13 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=46>) | Text zu Aufgabe 2: Leseverstehen (Reception) | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3>) | English – EIT – People and jobs in IT – Date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 14](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14>) | Company websites | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 17](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=17>) | The layout of a company | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18>) | The Company and its departments | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 20](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20>) | Production Planning | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29>) | Communication: E-Mails | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36>) | Sales and Marketing | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=38>) | STAATLICHE BERUFSSCHULEA | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 39](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=39>) | STAATLICHE SERUE: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40>) | English -IT - computer hardware- date: | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 12 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=41>) | open the side panel and lay it down to you left | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 13 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=46>) | Text zu Aufgabe 2: Leseverstehen (Reception) | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -83,11 +83,11 @@ tags:
 #### Seite 2: English – EIT – People and jobs in IT – Date:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2]]`
+> - PDF: [Englisch.pdf Seite 2](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > English – EIT – People and jobs in IT – Date: __________________________ JOB DESCRIPTIONS Today computers are everywhere you turn – not only in office jobs, but also in engineering, production, en- tertainment and many more. In fact, it is hard to imag- ine working in a job that does not use a computer at some point. Despite this, only a small majority of com- puter users can be called experts, and an even smaller number of people understand what happens behind the screen. It takes IT experts to create and service the machines and applications that so many people depend on. And these experts need to have a wide range of qualifications and skills to provide the quality and support necessary. …
@@ -174,11 +174,11 @@ design, and an eye for detail.”
 #### Seite 3: English – EIT – People and jobs in IT – Date:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3]]`
+> - PDF: [Englisch.pdf Seite 3](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > English – EIT – People and jobs in IT – Date: __________________________ TASK Read the four texts again and make a list outlining the responsibilities, skills and qualifications required for each job. JOB RESPONSIBILITES SKILLS QUALIFICATIONS IT consultant Network Administrator Computer Programmer Web Developer https://www.prospects.ac.uk/job-profiles/browse-sector/information-technology applying IT to business analytical, comunication Computer Science, busnes education - install, upgrade , troubleshoot analytical, communication broad education in IT-Systems networks international reconized cetificates · maintenance LANIVAN develope new applications problem solving programminy languages upda …
@@ -276,11 +276,11 @@ graphik design, software engineering
 #### Seite 14: Company websites
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 14](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14]]`
+> - PDF: [Englisch.pdf Seite 14](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=14]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: Company websites A Fill in the gaps in the second column with the words in the box below. Then match the sentence beginnings (A–H) with the sentence endings (1–7). efficient ▪ guarantee ▪ mechanical ▪ price ▪ risk ▪ service ▪ voltage A Let us design the systems and machines you need to link computer technology and 1 or a magnet, we’ll provide the know- how and _________________________1 you need. Technical building equipment B Let our engineers install the right equipment to step 2 electronic, electrical and ____________________________2 engineering. Project development C Whether it’s a switch, a socket or a circuit, a motor, a machine 3 experts plan, _____________________ …
@@ -391,11 +391,11 @@ efficient
 #### Seite 17: The layout of a company
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 17](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=17>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=17]]`
+> - PDF: [Englisch.pdf Seite 17](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=17>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=17]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=17]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: The layout of a company Look at the company layout. Find the departments on the map that match the German words. 1 Personalabteilung ……………………………………………………………….. 2 Vertrieb ……………………………………………………….. 3 Hardware support ………………………………………………….. 4 Forschung und Entwicklung ………………………………………………………… 5 Qualitätssicherung ……………………………………………………………………. 6 Rechtsabteilung …………………………………………………………………………….. 7 Kundendienst ………………………………………………………………………. 8 Softwarenentwicklung ……………………………………………………………… Human Resources Sales und Marketing Hardware Support Research and development Quality Assuranc Legal Department Customer Service Softwar development
@@ -446,11 +446,11 @@ Softwar development
 #### Seite 18: The Company and its departments
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18]]`
+> - PDF: [Englisch.pdf Seite 18](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=18]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: The Company and its departments Match the letters with the numbers. Put the numbers in the magic squares below. When your answers are correct, all the columns and rows will add up to the same number. A human resources F reception B research & development G marketing C ordering H administration D finance I design E customer service 1 The people here look after the staff. 2 This is where new software is created for example. 3 People who have bought the company’s products can ask the workers here for help and advice. 4 The people here look after paperwork. 5 The people here look after money. 6 The people here buy the components needed to make the company’s products. 7 The peo …
@@ -512,11 +512,11 @@ I =
 #### Seite 20: Production Planning
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 20](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20]]`
+> - PDF: [Englisch.pdf Seite 20](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=20]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > · Production Planning is in chage of organizing production schedules. · Accounts handels the company's finance · HR recruits and trains new employees · Production is in charge of making the Products · Logistics distributes the finished Products · Purchasing buys raw materials · Customer service deals with custome problems · R & D develops new Products · IT maintains the computer netwak · Quality control check that the products are not damaged
@@ -564,11 +564,11 @@ damaged
 #### Seite 29: Communication: E-Mails
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29]]`
+> - PDF: [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: Communication: E-Mails Situation: You are getting work experience at HardWareHouse, an IT hardware wholesaler. Your supervisor asks you to take care of a customer enquiry. 1) Giving the E-Mail Address over the phone. Match the symbols (1-6) to the words (a-f). 1 + 4 - a at d plus 2 _ 5 . b dot e number 3 @ 6 3 c hyphen f underscore 2) Listen to your supervisor and a customer on the phone. Which E-Mail Address is correct? 1 1 a tm.martin@hard_warehouse.co.uk a maryannbrown@5+5_services.net b tmmartin@hardware-house.co.uk b mary-anne-brown@5+5services.net c tm.martin@hardware_house.co.uk c maryann-brown@5+5services.net 3) Work with a partner. Study the subject lines (1-6) be …
@@ -666,11 +666,11 @@ O
 #### Seite 36: Sales and Marketing
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36]]`
+> - PDF: [Englisch.pdf Seite 36](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Sales and Marketing Vertrieb und Marketing Production Planning Produktionsplanung Accounts / Finance Buchhaltung / Finanzen HR (Human Resources) Personalabteilung Production Produktion Logistics Logistik Purchasing / Ordering Einkauf / Bestellung Customer Service Kundendienst R&D (Research and Development) Forschung und Entwicklung IT (Information Technology) IT-Abteilung Quality Control / Quality Assurance Qualitätssicherung Administration Verwaltung Reception Empfang Legal Department Rechtsabteilung Hardware Support Hardware-Support Software Development Softwareentwicklung Design Designabteilung distribute verteilen / vertreiben advertise and sell werben und verkaufen recruit and train ein …
@@ -771,11 +771,11 @@ Qualifikationen
 #### Seite 38: STAATLICHE BERUFSSCHULEA
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=38>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=38]]`
+> - PDF: [Englisch.pdf Seite 38](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=38>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=38]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=38]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=38]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Name: Klasse: STAATLICHE BERUFSSCHULEA INGOLSTADT Datum: Safety advice for PC builders 1) Read the first part of the article again and find words which have the same meaning as the German expressions below. WerkzeugeSchraubendreher ZangeKantenKabelsteckerReinigungsmitel ScrewdireAnti-State Wis-Stop Cuttels FlashlightA Dister Tips to keep you - and your computer - safe when instaling parts General tips • Make sure you have the right tools for the job. You're not going to need many but you will need two types of screwdriver - Phillips and flat-head - as well as pliers. 3 • PC components are often extremely delicate. Handle them with care and try to pick them up by their edges to avoid damage. …
@@ -1180,11 +1180,11 @@ static.
 #### Seite 39: STAATLICHE SERUE:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 39](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=39>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=39]]`
+> - PDF: [Englisch.pdf Seite 39](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=39>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=39]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=39]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=39]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: STAATLICHE SERUE: 1 INGOLSTADT date: Instaling & configuring hardware 1) Read the internet discussion thread. Summarize the answers to Karen_69's questions in the correct column. Karen_69 Boris_online Zim July_the_only Pinter@work Brian81 Cassi Pete_1 I've been thinking of building my own PC. Can anyone out there advice me what the pros and cons are? But it can take quite a lot of time. Building your own PC can make doing upgrade in the future easier. Yea, but you have to buy the operating system which is quite expensive. Right, ... building can cost more in general But it's really satisfying. If something goes wrong you can't just take it to the shop. Yeah, but you become an ex …
@@ -1347,11 +1347,11 @@ SF
 #### Seite 40: English -IT - computer hardware- date:
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40]]`
+> - PDF: [Englisch.pdf Seite 40](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > English -IT - computer hardware- date: C Assemblingacomputer In ihrer Klasse haben Sie zurzeit einen Austauschschüler aus England, der ein Praktikumin Ihrem.Betrieb absolviert.Der Austauschschüler bittet Sie, ihm im Rahmen des Projekts „Aufbau eines PCs" zu helfen. TASK Übertragen Sie folgende Montageanleitung stichwortartig ins Englische. Benutze die Anweisungen und die verfügbare Hardware und baue den Computer schrittweise zusammen. a) Das Gehäuse Öffne die seitliche Gehäusewand und lege daș Gehäuse auf seine linke Seite (von vorne gesehen). b) Das Netzteil Setzte das Netzteil im oberen Bereich des Gehäuses ein. Achte darauf, dass das Netzteil so eingebaut ist, dass die Lüfter frei liegen …
@@ -1393,11 +1393,11 @@ Netzteil.
 #### Seite 41: open the side panel and lay it down to you left
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=41>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=41]]`
+> - PDF: [Englisch.pdf Seite 41](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=41>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=41]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=41]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=41]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Case - open the side panel and lay it down to you left PSS : Install it in the upper partof the case ensure for a free Menboad : - mont the motherboard infle case - use He right screws CPU : -CDU and fan a premounted - connect the fan to the motherboard RAM : - locate dimn sluts - press the RAM stcl in place Spy : - install the GPU Hard drie: - insetthe HDP and anneedto mainboard
@@ -1442,11 +1442,11 @@ and anneedto mainboard
 #### Seite 46: Text zu Aufgabe 2: Leseverstehen (Reception)
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=46>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=46]]`
+> - PDF: [Englisch.pdf Seite 46](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=46>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=46]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=46]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=46]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Text zu Aufgabe 2: Leseverstehen (Reception) Featuresof PerfectSmart Glasses After indulging ina veritable charcuterieboard of smart glasses released inthe lastfewyears, we can confidently say: We're not there yet. Current smart glasses aren't capable enoughto replace our smartphones or function as centerpieces for ambient computing experiences such as our interactive voice assistants. Glimpses of an ARworld comein fits and starts,but sofar, thatfutureisstill beingbuiltata snail'spaceandit'sverymucha WildWestof experimentationfor bothhardwareandsoftware. There are enough good, common ideas shared by all of these devices to craft a sort of recipe for a betterpair of smart glasses. A device th …
@@ -1499,7 +1499,7 @@ Fortsetzung nächste Seite
 - Frage:: Was ist der Kernpunkt zu **English -IT - computer hardware- date:** laut Quelle?
 - Antwort:: Achte darauf, dass das Netzteil so eingebaut ist, dass die Lüfter frei liegen und nicht von der Gehäusewand verdeckt sind c) Das Mainboard Montiere das Mainboard in das Gehäuse.
 - Beleg:: Achte darauf, dass das Netzteil so eingebaut ist, dass die Lüfter frei liegen und nicht von der Gehäusewand verdeckt sind c) Das Mainboard Montiere das Mainboard in das Gehäuse.
-- Quelle:: [[02_Faecher/Englisch/Quellen/Englisch|Englisch]], [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40|Englisch S. 40]]
+- Quelle:: [[02_Faecher/Englisch/Quellen/Englisch|Englisch]], [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40|Englisch S. 40]]
 - Prüfung:: Berufsschule/Kommunikation, prüfungsnahes Fachvokabular
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -1507,7 +1507,7 @@ Fortsetzung nächste Seite
 - Frage:: Welche Vorgabe nennt die Quelle zu **English -IT - computer hardware- date:**?
 - Antwort:: Anschließend muss das Mainboard an das Netzteil angeschlossen werden. d) Der Prozessor Die CPU ist bereits samt Lüfter auf dem Mainboard montiert.
 - Beleg:: Anschließend muss das Mainboard an das Netzteil angeschlossen werden. d) Der Prozessor Die CPU ist bereits samt Lüfter auf dem Mainboard montiert.
-- Quelle:: [[02_Faecher/Englisch/Quellen/Englisch|Englisch]], [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=40|Englisch S. 40]]
+- Quelle:: [[02_Faecher/Englisch/Quellen/Englisch|Englisch]], [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=40|Englisch S. 40]]
 - Prüfung:: Berufsschule/Kommunikation, prüfungsnahes Fachvokabular
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

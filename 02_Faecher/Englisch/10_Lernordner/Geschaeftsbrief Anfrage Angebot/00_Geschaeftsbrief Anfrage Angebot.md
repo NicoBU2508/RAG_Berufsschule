@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Geschäftsbrief Anfrage Angebot** im Fach **Englisch**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24|Englisch S. 24]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=25|Englisch S. 25]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29|Englisch S. 29]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=35|Englisch S. 35]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24|Englisch S. 24]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=25|Englisch S. 25]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29|Englisch S. 29]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35|Englisch S. 35]].
 > - **Zentrale Suchbegriffe:** Geschäftsbrief, Anfrage, Angebot, Useful, language, formal, informal, Communication, E-Mails, Vokabeln.
 > - **Prüfungsbezug:** Berufsschule/Kommunikation, prüfungsnahes Fachvokabular.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -53,10 +53,10 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24>) | Useful language in formal & informal correspondence | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 25](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=25>) | Useful language in formal & informal correspondence | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29>) | Communication: E-Mails | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=35>) | Vokabeln – Englisch für IT | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24>) | Useful language in formal & informal correspondence | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 25](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=25>) | Useful language in formal & informal correspondence | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29>) | Communication: E-Mails | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35>) | Vokabeln – Englisch für IT | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -65,11 +65,11 @@ tags:
 #### Seite 24: Useful language in formal & informal correspondence
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24]]`
+> - PDF: [Englisch.pdf Seite 24](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=24]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: Useful language in formal & informal correspondence Formal Informal Ordering I would like to order a …, please. Which models are you interested in? How much would that cost? I can offer you a discount of … % if you order … The price includes VAT/delivery/… I’m afraid we don’t have those in stock at the moment. I’ll order them in for you. The … will be with you by/on … I’ll confirm the order by writing / in an email. Complaining I have just received our order and unfortunately there was a problem. There should have been 5 items but we only received 4. Unfortunately the invoice was wrong / didn’t state the prices we agreed on the phone. I apologize for the errors in dealing …
@@ -150,11 +150,11 @@ touch
 #### Seite 25: Useful language in formal & informal correspondence
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 25](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=25>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=25]]`
+> - PDF: [Englisch.pdf Seite 25](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=25>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=25]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=25]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: Useful language in formal & informal correspondence Formal Informal Ordering I would like to order a …, please. Which models are you interested in? How much would that cost? I can offer you a discount of … % if you order … The price includes VAT/delivery/… I’m afraid we don’t have those in stock at the moment. I’ll order them in for you. The … will be with you by/on … I’ll confirm the order by writing / in an email. Complaining I have just received our order and unfortunately there was a problem. There should have been 5 items but we only received 4. Unfortunately the invoice was wrong / didn’t state the prices we agreed on the phone. I apologize for the errors in dealing …
@@ -229,11 +229,11 @@ begleichen
 #### Seite 29: Communication: E-Mails
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29]]`
+> - PDF: [Englisch.pdf Seite 29](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=29]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: Communication: E-Mails Situation: You are getting work experience at HardWareHouse, an IT hardware wholesaler. Your supervisor asks you to take care of a customer enquiry. 1) Giving the E-Mail Address over the phone. Match the symbols (1-6) to the words (a-f). 1 + 4 - a at d plus 2 _ 5 . b dot e number 3 @ 6 3 c hyphen f underscore 2) Listen to your supervisor and a customer on the phone. Which E-Mail Address is correct? 1 1 a tm.martin@hard_warehouse.co.uk a maryannbrown@5+5_services.net b tmmartin@hardware-house.co.uk b mary-anne-brown@5+5services.net c tm.martin@hardware_house.co.uk c maryann-brown@5+5services.net 3) Work with a partner. Study the subject lines (1-6) be …
@@ -331,11 +331,11 @@ O
 #### Seite 35: Vokabeln – Englisch für IT
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=35>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=35]]`
+> - PDF: [Englisch.pdf Seite 35](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=35]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Vokabeln – Englisch für IT Berufsschule Ingolstadt – Englisch IT Bestellungen & Reklamationen (Handling Orders & Complaints) Englisch Deutsch value added tax (VAT) Mehrwertsteuer delivery Lieferung best regards Mit freundlichen Grüßen apology Entschuldigung hesitate zögern warranty Garantie charges Gebühren / Kosten discount Rabatt confirm bestätigen immediately sofort invoice Rechnung bill Rechnung / Quittung response Antwort inconvenience Unannehmlichkeit to forgo verzichten auf to waive verzichten / ablehnen to amend ändern / korrigieren distinct deutlich / klar to quote ein Angebot machen to settle begleichen / klären in stock auf Lager place an order / trial order eine Bestellung / Prob …

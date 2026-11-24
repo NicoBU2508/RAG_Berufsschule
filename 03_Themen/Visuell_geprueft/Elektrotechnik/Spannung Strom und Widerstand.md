@@ -2,15 +2,15 @@
 id: vault.thema.visuell.spannung.strom.und.widerstand
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Spannung, Strom und Widerstand"
 kategorie: Elektrotechnik
-quellen: 1
-seiten: 7
+quellen: 2
+seiten: 8
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,8 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [14–18, 50–51](<99_Originale/Berufsschule/ITT/It Elektro Wild/01_AB_Ladung Q.pdf#page=14>) | loesung, theorie | 7 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT\|Grundausbildung_IT]] | [1](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=1>) | theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q\|It_Elektro_Wild_01_AB_Ladung_Q]] | [14–18, 50–51](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=14>) | loesung, theorie | 7 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

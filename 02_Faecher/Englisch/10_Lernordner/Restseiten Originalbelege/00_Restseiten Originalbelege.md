@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Restseiten Originalbelege** im Fach **Englisch**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=23|Englisch S. 23]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=26|Englisch S. 26]]; [[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=45|Englisch S. 45]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=23|Englisch S. 23]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=26|Englisch S. 26]]; [[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=45|Englisch S. 45]].
 > - **Zentrale Suchbegriffe:** Restseiten, Originalbelege, Vorteile, Englisch, STAATLICHE.
 > - **Prüfungsbezug:** Berufsschule/Kommunikation, prüfungsnahes Fachvokabular.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -52,9 +52,9 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 23](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=23>) | Vorteile | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 26](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=26>) | Englisch Seite 26 | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 45](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=45>) | STAATLICHE | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 23](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=23>) | Vorteile | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 26](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=26>) | Englisch Seite 26 | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [Englisch.pdf Seite 45](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=45>) | STAATLICHE | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -63,11 +63,11 @@ tags:
 #### Seite 23: Vorteile
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 23](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=23>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=23]]`
+> - PDF: [Englisch.pdf Seite 23](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=23>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=23]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=23]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=23]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Vorteile vertikaler Hirachien : - Planung ist zuverlässig und vorhesebar - macht es einfacher die Kontrolle über viele Menschen zu behalten Vorteile Flacher Hirachien : - die Mitarbeiter haben die Chance chanzen zu nutzen undüsken einzgene - kein Management - eigene Projekte können realisiert werden Kunden gefällt die Abeit/grenzen verschwinden/Bedürfnisse besser ermittelt Mitarbeiter übernehmen Verantwortung und fragen Risiko Mitarbeiter intieren ein Projekt
@@ -103,11 +103,11 @@ ein Projekt
 #### Seite 26: Englisch Seite 26
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 26](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=26>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=26]]`
+> - PDF: [Englisch.pdf Seite 26](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=26>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=26]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=26]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > G & - - g G S S S & e & ↑ g & ↑ & S S
@@ -139,11 +139,11 @@ S
 #### Seite 45: STAATLICHE
 
 > [!referenz] Exakte Referenz
-> - PDF: [Englisch.pdf Seite 45](<../../../../99_Originale/Berufsschule/Englisch/Englisch.pdf#page=45>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=45]]`
+> - PDF: [Englisch.pdf Seite 45](<../../../../99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=45>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=45]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Englisch/Englisch.pdf#page=45]]
+> ![[99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=45]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > name: class: date: STAATLICHE SCHULE INGOLSTADT Exam practice- Listening Comprehension Sie absolvieren derzeit ein Praktikumin New York.Ihre Kollegin möchte sichin einem Apple Store Apple Watches anschauen. Ein Verkäufer wird auf sie aufmerksam. Hören Sie das Gespräch und machen Sie sich Notizen zu den folgenden Fragen. Beantworten Sie anschließend die Fragen in ganzen Sätzen auf Deutsch. Mit welchen Funktionen der Uhr ist Susan bereits vertraut? 2 Wie ruft man das Dock auf? 3 Was für ein Apple Modell trägt Kevin? 4 •Welche zwei Möglichkeiten gibt es, um einen Überblick über die Apps zu erhalten? 5 Welche Funktionen haben die Activity Rings? 6 Wie motiviert die Uhr den/die Trägerin, sich meh …

@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Betrieb und Unternehmen** im Fach **ITT IT-Technik**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=5|Skript S. 5]]; [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=13|Skript S. 13]]; [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=15|Skript S. 15]]; [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=16|Skript S. 16]]; [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=18|Skript S. 18]]; [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=19|Skript S. 19]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=5|Skript S. 5]]; [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=13|Skript S. 13]]; [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=15|Skript S. 15]]; [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=16|Skript S. 16]]; [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=18|Skript S. 18]]; [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=19|Skript S. 19]].
 > - **Zentrale Suchbegriffe:** Betrieb, Unternehmen, juristische, Personen, werden, Lösen, Sie, Aufgabenblatt, Externe, Bezugsquellen.
 > - **Prüfungsbezug:** AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -60,17 +60,17 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=5>) | Als juristische Personen werden in der Regel Vereine, Organisationen und | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=13>) | Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche! | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=15>) | Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche! | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=16>) | Externe Bezugsquellen, sind alle Informationen über Lieferanten, die man nicht im | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=18>) | 1. Briefkopf | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=19>) | Elektro Topshop AG | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 7 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=20>) | Richmond Unternehmensberatung, Maximilianstr. 23, 80539 München | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 8 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 25](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=25>) | Richmond Unternehmensberatung, Maximilianstr. 23, 80539 München | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 9 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 26](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=26>) | Wichtig: Die einzelnen Gewichtungen dürfen selbständig und frei vergeben werden! | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 10 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=29>) | Notizen zu Geschäftspartnern von Hr. Laber | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 11 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 30](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=30>) | Ermittlung des Nettoverkaufspreises | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=5>) | Als juristische Personen werden in der Regel Vereine, Organisationen und | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=13>) | Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche! | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=15>) | Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche! | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=16>) | Externe Bezugsquellen, sind alle Informationen über Lieferanten, die man nicht im | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=18>) | 1. Briefkopf | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=19>) | Elektro Topshop AG | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 7 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=20>) | Richmond Unternehmensberatung, Maximilianstr. 23, 80539 München | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 8 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 25](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=25>) | Richmond Unternehmensberatung, Maximilianstr. 23, 80539 München | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 9 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 26](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=26>) | Wichtig: Die einzelnen Gewichtungen dürfen selbständig und frei vergeben werden! | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 10 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=29>) | Notizen zu Geschäftspartnern von Hr. Laber | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 11 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [Skript.pdf Seite 30](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=30>) | Ermittlung des Nettoverkaufspreises | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -79,11 +79,11 @@ tags:
 #### Seite 5: Als juristische Personen werden in der Regel Vereine, Organisationen und
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=5>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=5]]`
+> - PDF: [Skript.pdf Seite 5](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=5>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=5]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=5]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT Klasse: Datum: Als juristische Personen werden in der Regel Vereine, Organisationen und Gesellschaften bezeichnet. Juristische Personen sind rechtsfähig. Die Rechtsfähigkeit beginnt mit der Gründung bzw. dem Handelsregistereintrag (GmbH, AG). Unter der Rechtsfähigkeit versteht man dabei die Fähigkeit, selbständig Träger von Rechten und Pflichten zu sein. So kann man erben, klagen oder auch Verträge abschließen, hat aber auch Pflichten wie beispielsweise Steuern zu zahlen. Bei juristischen Personen unterscheidet man zwischen juristischen Personen des privaten Rechts und juristischen Personen des öffentlichen Rechts. Dabei kann eine juristische Person eine Personenvereinigung od …
@@ -139,11 +139,11 @@ Körperschaften, Anstalten des öffentlichen Rechts und Stiftungen öffentlichen
 #### Seite 13: Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche!
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=13>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=13]]`
+> - PDF: [Skript.pdf Seite 13](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=13>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=13]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=13]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT/Elektrotechnik Klasse: Datum: Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche! 1. Was versteht man unter einer Lieferantendatei? ___________________________________________________________________ ___________________________________________________________________ ___________________________________________________________________ 2. Was versteht man unter einer Artikeldatei? ___________________________________________________________________ ___________________________________________________________________ ___________________________________________________________________ 3. Welche Bedeutung (Vor- und Nachteile) haben Lieferanten- und Artikeldatei? __________ …
@@ -226,11 +226,11 @@ Zeitaufwendig , keine Erfahrung
 #### Seite 15: Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche!
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=15]]`
+> - PDF: [Skript.pdf Seite 15](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=15]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT/Elektrotechnik Klasse: Datum: Lösen Sie das Aufgabenblatt mit Hilfe einer Internetrecherche! 1. Was versteht man unter einer Lieferantendatei? Eine Lieferantendatei sammelt Informationen über das Warenangebot, die Lieferbedingungen und Liefermöglichkeiten, die Angebotsmöglichkeiten sowie zusätzliche Informationen, z.B. Zuverlässigkeit und Entgegenkommen in besonderen Situationen. 2. Was versteht man unter einer Artikeldatei? Alle Waren und Artikel mit den entsprechenden Lieferanten die im Sortiment zu finden sind oder einmal angeboten wurden. 3. Welche Bedeutung (Vor- und Nachteile) haben Lieferanten- und Artikeldatei? Vorteile (Lieferantendatei): • Geschäftsbeziehung intensiv …
@@ -294,11 +294,11 @@ bzw. -datei.
 #### Seite 16: Externe Bezugsquellen, sind alle Informationen über Lieferanten, die man nicht im
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=16>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=16]]`
+> - PDF: [Skript.pdf Seite 16](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=16>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=16]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=16]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=16]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Externe Bezugsquellen, sind alle Informationen über Lieferanten, die man nicht im eigenen Unternehmen findet. Dafür gibt es andere Quellen wie z.B. "Wer liefert was? -Dateien", Telefonbücher, Branchenverzeichnisse, Messen usw. Interne Bezugsquellen liegen bereits im Unternehmen vor und müssen nicht mehr recherchiert werden Vorteile: • Schnell verfügbar • Schnelle Zuordnung zu Produkten möglich Nachteile: • eventuell veraltet • Stark begrenzt Externe Bezugsquellen müssen recherchiert und durchsucht werden. Es handelt sich um neue Informationen für das Unternehmen Vorteile: • neue und innovative Informationen • Weltweite Suche mittels neuer Medien möglich Nachteile: • Suchaufwand • Suchergebni …
@@ -371,11 +371,11 @@ Bessere Alternativen wie kürzere Lieferzeiten oder günstigere Preise
 #### Seite 18: 1. Briefkopf
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=18>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=18]]`
+> - PDF: [Skript.pdf Seite 18](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=18>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=18]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=18]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=18]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 1. Briefkopf - Name - Anschrift - Telefon-, evtl. Faxnummer - Mobilnummer - E-Mail-Adresse 3. Postalische Anschrift - Unternehmen GmbH & Co. - Herrn/Frau Ansprechpartner/-in - Straße, Postfach - PLZ, Ort Datum 4. Betreffzeile (ohne das Wort „Betreff“ zu verwenden), falls vorhanden mit Aktenzeichen, Referenz- oder Rechnungsnummer 5. Anrede des Ansprechpartners Wer auf die äußere Form achtet, macht schon auf den ersten Blick einen professionellen Eindruck und wird ernst genommen. Durch den einheitlichen Aufbau erkennt der Empfänger außerdem gleich, worum es Ihnen geht, und Ihr Anliegen kann schnell bearbeitet werden. Der Brieftext ist in eine Einleitung (zwei bis drei verbindliche oder erkläre …
@@ -423,11 +423,11 @@ X
 #### Seite 19: Elektro Topshop AG
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=19>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=19]]`
+> - PDF: [Skript.pdf Seite 19](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=19>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=19]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=19]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=19]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Elektro Topshop AG Hr. Laber Heiderckerstraße 13 90403 Nürnberg Deutschland Schnellversand GmbH & Co. Z. Hd. [Name des Ansprechpartners, falls bekannt] [Straße und Hausnummer des Empfängers] [PLZ und Ort des Empfängers] Deutschland Nürnberg, 27. November 2025 Anfrage zur Aufnahme in den Lieferantenstamm für VR-Brillen – Dringende Bedarfsdeckung für das Weihnachtsgeschäft Sehr geehrte Damen und Herren, wir würden gerne unsere Lieferketten neu aufstellen und wollen diesbezüglich Ihre Firma als neue Lieferanten für VR Brillen. In diesem Zusammenhang haben wir Ihr Unternehmen als potenziellen, langfristigen Partner in die engere Auswahl genommen. Um eine fundierte Entscheidung treffen zu können …
@@ -471,11 +471,11 @@ Anlagen
 #### Seite 20: Richmond Unternehmensberatung, Maximilianstr. 23, 80539 München
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=20]]`
+> - PDF: [Skript.pdf Seite 20](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=20]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT/Elektrotechnik Klasse: Datum: Richmond Unternehmensberatung, Maximilianstr. 23, 80539 München B Der quantitative Angebotsvergleich dient dazu, den sogenannten Bezugspreis bzw. Einstandspreis zu ermitteln. Dadurch können mehrere Angebote rechnerisch miteinander verglichen werden. Dies erleichtert grundsätzlich den Vergleich der Angebote, jedoch sind auch weitere Kriterien zu berücksichtigen. Dabei ist zu beachten, dass der quantitative Angebotsvergleich ein Kriterium im qualitativen Angebotsvergleich darstellen kann. Es empfiehlt sich somit, zuerst den quantitativen Angebotsvergleich durchzuführen, um diesen später als Kriterium im qualitativen Angebotsvergleich berücksichtigen …
@@ -521,11 +521,11 @@ Berechnung des quantitativen Angebotsvergleiches
 #### Seite 25: Richmond Unternehmensberatung, Maximilianstr. 23, 80539 München
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 25](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=25>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=25]]`
+> - PDF: [Skript.pdf Seite 25](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=25>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=25]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=25]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=25]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT/Elektrotechnik Klasse: Datum: Richmond Unternehmensberatung, Maximilianstr. 23, 80539 München A Der qualitative Angebotsvergleich dient dazu, eine Entscheidung bezüglich eines Angebots zu treffen. Wichtig ist dabei, dass hier nicht nur der Preis wie im quantitativen Angebotsvergleich berücksichtigt wird, sondern auch weitere Kriterien wie beispielsweise Lieferungsbedingungen, Termintreue, Standortnähe, Qualität, Lieferzeit, Lieferzuverlässigkeit oder auch der Service herangezogen werden können. Diese Kriterien werden in einer Entscheidungsmatrix gegenübergestellt, mit Punkten gewichtet und dadurch eine Rangfolge erstellt, sodass der passende Lieferant ausgewählt werden kann. S …
@@ -590,11 +590,11 @@ Vorgehensweise zur Erstellung der Entscheidungsmatrix
 #### Seite 26: Wichtig: Die einzelnen Gewichtungen dürfen selbständig und frei vergeben werden!
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 26](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=26>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=26]]`
+> - PDF: [Skript.pdf Seite 26](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=26>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=26]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=26]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT/Elektrotechnik Klasse: Datum: Wichtig: Die einzelnen Gewichtungen dürfen selbständig und frei vergeben werden! Die Summe der Gewichtung muss jedoch 100 (=100%) ergeben. 2. Wertungspunkte Nachdem nun die Kriterien festgelegt wurden, vergeben Sie für Ihre Charakterisierung Wertungspunkte zu den einzelnen Kriterien. Dabei hat sich die Vergabe der Punkte laut nachfolgender Liste bewährt: Erfüllung der Kriterien Punkte sehr gut erfüllt 5 gut erfüllt 4 durchschnittlich erfüllt 3 ausreichend erfüllt 2 kaum oder nicht erfüllt 1 3. Ermittlung des geeigneten Lieferanten Anschließend multipliziert man bei jedem Unternehmen die Gewichtung mit den Bewertungspunkten und trägt dies in die vo …
@@ -645,11 +645,11 @@ höchsten Punktzahl ausgewählt werden sollte.
 #### Seite 29: Notizen zu Geschäftspartnern von Hr. Laber
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=29>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=29]]`
+> - PDF: [Skript.pdf Seite 29](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=29>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=29]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=29]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=29]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT/Elektrotechnik Klasse: Datum: Notizen zu Geschäftspartnern von Hr. Laber Geschäftspartner Die ComputerProfis OHG, Telestraße 12, 18055 Rostock Informationen - Hatten in der Vergangenheit Probleme mit der Lieferung - Sehr flotte Reklamationsabwicklung - Die Patronen wurden in verschiedenen Tests mittelmäßig bewertet - Gegen ein geringes Entgelt nimmt die Firma defekte Patronen zurück und entsorgt diese umweltschonend - Die Patronen wurden vom Umweltbundesamt für den Gebrauch als unbedenklich eingestuft Geschäftspartner PC-Kontor OHG, Rammstraße 12, 80331 München Informationen - Kostenlose und umweltgerechte Entsorgung von Patronen - Bekanntes Internetportal hat die Patronen im …
@@ -725,11 +725,11 @@ gesundheitsschädlich
 #### Seite 30: Ermittlung des Nettoverkaufspreises
 
 > [!referenz] Exakte Referenz
-> - PDF: [Skript.pdf Seite 30](<../../../../99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=30>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=30]]`
+> - PDF: [Skript.pdf Seite 30](<../../../../99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=30>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=30]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=30]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=30]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Fachbereich IT Klasse: Datum: Ermittlung des Nettoverkaufspreises Um den Nettoverkaufspreis zu ermitteln, wird zunächst vom Listeneinkaufspreis, welcher den Preis des Lieferanten laut Katalog/Angebot darstellt, der Rabatt abgezogen. Der Rabatt wird aus besonderem Anlass oder im Rahmen üblicher Vereinbarungen gewährt und kann dabei beispielsweise bei der Abnahme einer größeren Menge oder bei langjähriger Treue gegeben werden. Dadurch wird der sogenannte Zieleinkaufspreis ermittelt. Subtrahiert man anschließend das Skonto vom Zieleinkaufspreis, so erhält man den Bareinkaufspreis. Skonto wird üblicherweise dann gewährt, wenn die Bezahlung der Rechnung innerhalb einer bestimmten Frist erfolgt un …
@@ -772,7 +772,7 @@ Zielverkaufspreis noch der Kundenrabatt hinzugerechnet.
 - Frage:: Was ist **juristische Personen** laut Quelle?
 - Antwort:: Als juristische Personen werden in der Regel Vereine, Organisationen und Gesellschaften bezeichnet.
 - Beleg:: Als juristische Personen werden in der Regel Vereine, Organisationen und Gesellschaften bezeichnet.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=5|Skript S. 5]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=5|Skript S. 5]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -780,7 +780,7 @@ Zielverkaufspreis noch der Kundenrabatt hinzugerechnet.
 - Frage:: Was ist der Kernpunkt zu **Betrieb und Unternehmen** laut Quelle?
 - Antwort:: Dabei kann eine juristische Person eine Personenvereinigung oder eine Vermögensmasse sein, die aufgrund gesetzlicher Anerkennung rechtsfähig ist, d. h. selbst Träger von Rechten und Pflichten sein kann, dabei aber keine natürliche Person ist.
 - Beleg:: Dabei kann eine juristische Person eine Personenvereinigung oder eine Vermögensmasse sein, die aufgrund gesetzlicher Anerkennung rechtsfähig ist, d. h. selbst Träger von Rechten und Pflichten sein kann, dabei aber keine natürliche Person ist.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=5|Skript S. 5]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=5|Skript S. 5]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -788,7 +788,7 @@ Zielverkaufspreis noch der Kundenrabatt hinzugerechnet.
 - Frage:: Was ist der Kernpunkt zu **Externe Bezugsquellen** laut Quelle?
 - Antwort:: Externe Bezugsquellen, sind alle Informationen über Lieferanten, die man nicht im eigenen Unternehmen findet.
 - Beleg:: Externe Bezugsquellen, sind alle Informationen über Lieferanten, die man nicht im eigenen Unternehmen findet.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=16|Skript S. 16]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=16|Skript S. 16]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -796,7 +796,7 @@ Zielverkaufspreis noch der Kundenrabatt hinzugerechnet.
 - Frage:: Welche Vorgabe nennt die Quelle zu **Interne Bezugsquellen**?
 - Antwort:: Interne Bezugsquellen liegen bereits im Unternehmen vor und müssen nicht mehr recherchiert werden Vorteile: • Schnell verfügbar • Schnelle Zuordnung zu Produkten möglich
 - Beleg:: Interne Bezugsquellen liegen bereits im Unternehmen vor und müssen nicht mehr recherchiert werden Vorteile: • Schnell verfügbar • Schnelle Zuordnung zu Produkten möglich
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=16|Skript S. 16]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=16|Skript S. 16]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -804,7 +804,7 @@ Zielverkaufspreis noch der Kundenrabatt hinzugerechnet.
 - Frage:: Was ist der Kernpunkt zu **Brieftext** laut Quelle?
 - Antwort:: Der Brieftext ist in eine Einleitung (zwei bis drei verbindliche oder erklärende Zeilen), den Hauptteil (die Beschreibung des eigentlichen Anliegens) und den Schluss (Hinweis auf Vorgehen, Erwartungen und Forderungen) gegliedert.
 - Beleg:: Der Brieftext ist in eine Einleitung (zwei bis drei verbindliche oder erklärende Zeilen), den Hauptteil (die Beschreibung des eigentlichen Anliegens) und den Schluss (Hinweis auf Vorgehen, Erwartungen und Forderungen) gegliedert.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=18|Skript S. 18]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=18|Skript S. 18]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -812,7 +812,7 @@ Zielverkaufspreis noch der Kundenrabatt hinzugerechnet.
 - Frage:: Was ist der Kernpunkt zu **quantitativer Angebotsvergleich** laut Quelle?
 - Antwort:: Dabei ist zu beachten, dass der quantitative Angebotsvergleich ein Kriterium im qualitativen Angebotsvergleich darstellen kann.
 - Beleg:: Dabei ist zu beachten, dass der quantitative Angebotsvergleich ein Kriterium im qualitativen Angebotsvergleich darstellen kann.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=20|Skript S. 20]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=20|Skript S. 20]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -820,7 +820,7 @@ Zielverkaufspreis noch der Kundenrabatt hinzugerechnet.
 - Frage:: Was ist der Kernpunkt zu **quantitativer Angebotsvergleich** laut Quelle?
 - Antwort:: Wichtig ist dabei, dass hier nicht nur der Preis wie im quantitativen Angebotsvergleich berücksichtigt wird, sondern auch weitere Kriterien wie beispielsweise Lieferungsbedingungen, Termintreue, Standortnähe, Qualität, Lieferzeit, Lieferzuverlässigkeit oder auch der Service herangezogen werden können.
 - Beleg:: Wichtig ist dabei, dass hier nicht nur der Preis wie im quantitativen Angebotsvergleich berücksichtigt wird, sondern auch weitere Kriterien wie beispielsweise Lieferungsbedingungen, Termintreue, Standortnähe, Qualität, Lieferzeit, Lieferzuverlässigkeit oder auch der Service herangezogen werden können.
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=25|Skript S. 25]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=25|Skript S. 25]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -828,7 +828,7 @@ Zielverkaufspreis noch der Kundenrabatt hinzugerechnet.
 - Frage:: Welche Vorgabe nennt die Quelle zu **Gewichtungen**?
 - Antwort:: Wichtig: Die einzelnen Gewichtungen dürfen selbständig und frei vergeben werden!
 - Beleg:: Wichtig: Die einzelnen Gewichtungen dürfen selbständig und frei vergeben werden!
-- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=26|Skript S. 26]]
+- Quelle:: [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Stol_Skript]], [[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=26|Skript S. 26]]
 - Prüfung:: AP1 Arbeitsplatz/IT-Sicherheit/Netzwerk, AP2 je nach Fachrichtung
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

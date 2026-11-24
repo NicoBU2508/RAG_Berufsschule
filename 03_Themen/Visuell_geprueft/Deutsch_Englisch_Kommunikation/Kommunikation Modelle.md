@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [36–46](<99_Originale/Berufsschule/Deutsch/Deutsch.pdf#page=36>) | aufgabe, beispiel, theorie | Text für Zitate geeignet |
+| [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] | [36–46](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36>) | aufgabe, beispiel, theorie | Text für Zitate geeignet |
 
 ## Belegregel für GPT
 

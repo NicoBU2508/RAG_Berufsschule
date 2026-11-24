@@ -32,13 +32,13 @@ Berufsbezogenes Englisch umfasst IT-Vokabular, Bewerbungen, Jobprofile und einfa
 
 | Quelle | Fach | Seiten | PDF-Referenzen |
 |---|---|---:|---|
-| [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | Englisch | 2, 3, 4, 7, 8, 30, 36, 38, 40, 42 | [S.2](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2>), [S.3](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=3>), [S.4](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=4>), [S.7](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=7>), [S.8](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=8>), [S.30](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=30>), [S.36](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=36>), [S.38](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=38>) … |
+| [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | Englisch | 2, 3, 4, 7, 8, 30, 36, 38, 40, 42 | [S.2](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2>), [S.3](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=3>), [S.4](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4>), [S.7](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=7>), [S.8](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=8>), [S.30](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=30>), [S.36](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=36>), [S.38](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=38>) … |
 
 ## 📌 Beispielstellen aus den Originalquellen
 
 ### [[02_Faecher/Englisch/Quellen/Englisch|Englisch]] · Seite 2
 
-[Original-PDF Seite 2](<99_Originale/Berufsschule/Englisch/Englisch.pdf#page=2>)
+[Original-PDF Seite 2](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2>)
 
 > nd an even smaller number of people understand what happens behind the screen. It takes IT experts to create and service the machines and applications that so many people depend on. And these experts need to have a wide range of qualifications and skills to provide the quality and support necessary. “My main task is to look for ways of applying IT to busi- ness processes. To do this I have to keep up to dat
 

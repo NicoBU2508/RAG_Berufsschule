@@ -1,0 +1,1025 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md (Seiten 66–103)",
+  "replaces_existing": true,
+  "topic_categories": {
+    "Urheberrecht": "Wirtschaft_und_Recht"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 66,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Urheberrecht",
+        "secondary_topics": [
+          "Öffentliche Vorführung",
+          "Social Media",
+          "Musikrechte"
+        ],
+        "recommended_topics": [
+          "Urheberrecht"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingebettete Aufgabenstellungen 6–9 fehlten in der Textschicht; vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 67,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Urheberrecht",
+        "secondary_topics": [
+          "E-Book-Weiterverkauf",
+          "Recht am eigenen Bild",
+          "Schutzdauer"
+        ],
+        "recommended_topics": [
+          "Urheberrecht"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingebettete Aufgabenstellungen 10–12 fehlten in der Textschicht; vollständig visuell transkribiert (Aufgabe 12 im Original unbeantwortet)"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 68,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "index",
+        "source_text_match": "missing",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 69,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "index",
+        "source_text_match": "missing",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 70,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Kryptografie, Hash und Signatur",
+        "secondary_topics": [
+          "IT-Sicherheitsziele",
+          "Steganographie",
+          "Kryptographie Grundlagen"
+        ],
+        "recommended_topics": [
+          "Kryptografie, Hash und Signatur",
+          "IT-Sicherheit Grundlagen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingebetteter Skripttext und abfotografierte Lösung zu Aufgabe 1 fehlten in der Textschicht; vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 71,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Kryptografie, Hash und Signatur",
+        "secondary_topics": [
+          "Substitution",
+          "Transposition",
+          "Chiffrierung",
+          "Codierung"
+        ],
+        "recommended_topics": [
+          "Kryptografie, Hash und Signatur"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingebetteter Infotext und Übersichtsschema fehlten in der Textschicht; vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 72,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Kryptografie, Hash und Signatur",
+        "secondary_topics": [
+          "Skytale",
+          "Caesar-Verschlüsselung",
+          "Vigenère-Verschlüsselung"
+        ],
+        "recommended_topics": [
+          "Kryptografie, Hash und Signatur"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingebettete Überschriften der Verfahren fehlten in der Textschicht; vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 73,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "formular",
+        "source_text_match": "missing",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [
+          "Unausgefülltes Duplikat der ausgefüllten Seite 79 (2.3 Symmetrische Verschlüsselung)"
+        ],
+        "exclusion_reason": "Unbearbeitetes Duplikat der ausgefüllten Arbeitsblattseite S.79",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 74,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "formular",
+        "source_text_match": "missing",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [
+          "Unausgefülltes Duplikat der ausgefüllten Seite 80 (3. Asymmetrische Verschlüsselung)"
+        ],
+        "exclusion_reason": "Unbearbeitetes Duplikat der ausgefüllten Arbeitsblattseite S.80",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 75,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "formular",
+        "source_text_match": "missing",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [
+          "Unausgefülltes Duplikat der ausgefüllten Seite 81 (Aufgabe 13 Public-Key-Verfahren)"
+        ],
+        "exclusion_reason": "Unbearbeitetes Duplikat der ausgefüllten Arbeitsblattseite S.81",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 76,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "formular",
+        "source_text_match": "missing",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [
+          "Unausgefülltes Duplikat der ausgefüllten Seite 82 (4. Hybride Verschlüsselung)"
+        ],
+        "exclusion_reason": "Unbearbeitetes Duplikat der ausgefüllten Arbeitsblattseite S.82",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 77,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Kryptografie, Hash und Signatur",
+        "secondary_topics": [
+          "Caesar-Verschlüsselung",
+          "Vigenère-Verschlüsselung",
+          "Enigma"
+        ],
+        "recommended_topics": [
+          "Kryptografie, Hash und Signatur"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingebettete Aufgabenstellungen 5–7 und Zuordnungstabelle fehlten in der Textschicht; vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 78,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Kryptografie, Hash und Signatur",
+        "secondary_topics": [
+          "Symmetrische Verschlüsselung",
+          "Schlüsselanzahl",
+          "Schlüsselverteilung"
+        ],
+        "recommended_topics": [
+          "Kryptografie, Hash und Signatur"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingebettete Situation (ConOSI GmbH), Schlüsselübersicht und Aufgaben 7–8 fehlten in der Textschicht; vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 79,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Kryptografie, Hash und Signatur",
+        "secondary_topics": [
+          "Symmetrische Verschlüsselung",
+          "Private-Key-Verfahren",
+          "AES"
+        ],
+        "recommended_topics": [
+          "Kryptografie, Hash und Signatur"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingebettete Strukturüberschriften und Ablaufgrafik fehlten in der Textschicht; vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 80,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Kryptografie, Hash und Signatur",
+        "secondary_topics": [
+          "Asymmetrische Verschlüsselung",
+          "Public-Key-Verfahren",
+          "PKI"
+        ],
+        "recommended_topics": [
+          "Kryptografie, Hash und Signatur"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingebettete Situation, Aufgaben 11–12 und PKI-Schaubild fehlten in der Textschicht; vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 81,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Kryptografie, Hash und Signatur",
+        "secondary_topics": [
+          "Asymmetrische Verschlüsselung",
+          "Public-Key-Verfahren",
+          "RSA",
+          "ECC",
+          "Digitale Signatur"
+        ],
+        "recommended_topics": [
+          "Kryptografie, Hash und Signatur"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingebettete Aufgabe 13 und Strukturüberschriften fehlten in der Textschicht; vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 82,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Kryptografie, Hash und Signatur",
+        "secondary_topics": [
+          "Hybride Verschlüsselung",
+          "Sitzungsschlüssel",
+          "TLS",
+          "PGP"
+        ],
+        "recommended_topics": [
+          "Kryptografie, Hash und Signatur"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Eingebettete Situation, Aufgabe 14 und Strukturüberschriften fehlten in der Textschicht; vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 83,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Kryptografie, Hash und Signatur",
+        "secondary_topics": [
+          "Asymmetrische Verschlüsselung",
+          "Vertraulichkeit",
+          "Open-Source und proprietäre Software"
+        ],
+        "recommended_topics": [
+          "Kryptografie, Hash und Signatur",
+          "IT-Sicherheit Grundlagen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [
+          "Abfotografierte Prüfungsaufgabe b–c fehlte in der Textschicht; vollständig visuell transkribiert"
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 84,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "index",
+        "source_text_match": "ok",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 85,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "index",
+        "source_text_match": "ok",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 86,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "index",
+        "source_text_match": "ok",
+        "mapping_status": "excluded",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 87,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Malware und Angriffe",
+        "secondary_topics": [
+          "Computerviren",
+          "KI und Cyberkriminalität"
+        ],
+        "recommended_topics": [
+          "Malware und Angriffe"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 88,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Malware und Angriffe",
+        "secondary_topics": [
+          "Programmviren",
+          "Bootviren",
+          "Makroviren",
+          "Infektionswege"
+        ],
+        "recommended_topics": [
+          "Malware und Angriffe"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 89,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Malware und Angriffe",
+        "secondary_topics": [
+          "Virenscanner",
+          "Trojaner",
+          "Backdoor-Trojaner",
+          "Spyware-Trojaner"
+        ],
+        "recommended_topics": [
+          "Malware und Angriffe"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 90,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Malware und Angriffe",
+        "secondary_topics": [
+          "Trojaner",
+          "Zeus-Trojaner",
+          "Schutzmaßnahmen"
+        ],
+        "recommended_topics": [
+          "Malware und Angriffe"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 91,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Malware und Angriffe",
+        "secondary_topics": [
+          "Würmer",
+          "Ransomware",
+          "WannaCry"
+        ],
+        "recommended_topics": [
+          "Malware und Angriffe"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 92,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Malware und Angriffe",
+        "secondary_topics": [
+          "Crypto-Ransomware",
+          "Leakware",
+          "RaaS"
+        ],
+        "recommended_topics": [
+          "Malware und Angriffe"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 93,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Backup und Datensicherung",
+        "secondary_topics": [
+          "Datenverlust",
+          "Archivierung"
+        ],
+        "recommended_topics": [
+          "Backup und Datensicherung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 94,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Backup und Datensicherung",
+        "secondary_topics": [
+          "Imaging",
+          "Voll-Backup",
+          "Inkrementelles Backup",
+          "Differenzielles Backup"
+        ],
+        "recommended_topics": [
+          "Backup und Datensicherung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 95,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Backup und Datensicherung",
+        "secondary_topics": [
+          "3-2-1-Backup-Regel",
+          "Archiv-Bit",
+          "Backup-Verifikation"
+        ],
+        "recommended_topics": [
+          "Backup und Datensicherung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 96,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Backup und Datensicherung",
+        "secondary_topics": [
+          "Medienwechsel",
+          "Wiederherstellung",
+          "Verifikation"
+        ],
+        "recommended_topics": [
+          "Backup und Datensicherung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 97,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Backup und Datensicherung",
+        "secondary_topics": [
+          "Großvater-Vater-Sohn-Prinzip",
+          "Bandrotation"
+        ],
+        "recommended_topics": [
+          "Backup und Datensicherung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 98,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Backup und Datensicherung",
+        "secondary_topics": [
+          "Wiederherstellung",
+          "Medienauswahl",
+          "RAID ersetzt kein Backup",
+          "Lagerung"
+        ],
+        "recommended_topics": [
+          "Backup und Datensicherung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 99,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Backup und Datensicherung",
+        "secondary_topics": [
+          "Magnetband",
+          "Netzwerk- und Online-Backup",
+          "Backup-Verschlüsselung"
+        ],
+        "recommended_topics": [
+          "Backup und Datensicherung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 100,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Kryptografie, Hash und Signatur",
+        "secondary_topics": [
+          "Vertraulichkeit",
+          "Integrität",
+          "Authentizität",
+          "Man-in-the-Middle"
+        ],
+        "recommended_topics": [
+          "Kryptografie, Hash und Signatur",
+          "IT-Sicherheit Grundlagen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 101,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Kryptografie, Hash und Signatur",
+        "secondary_topics": [
+          "Symmetrische Verschlüsselung",
+          "AES-GCM",
+          "ChaCha20-Poly1305",
+          "AEAD"
+        ],
+        "recommended_topics": [
+          "Kryptografie, Hash und Signatur"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 102,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Kryptografie, Hash und Signatur",
+        "secondary_topics": [
+          "Asymmetrische Verschlüsselung",
+          "Digitale Signatur",
+          "PKI und Zertifikate"
+        ],
+        "recommended_topics": [
+          "Kryptografie, Hash und Signatur"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 103,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Kryptografie, Hash und Signatur",
+        "secondary_topics": [
+          "Hybride Verschlüsselung",
+          "RSA",
+          "ECC",
+          "Sitzungsschlüssel"
+        ],
+        "recommended_topics": [
+          "Kryptografie, Hash und Signatur"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "correct",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    }
+  ]
+}

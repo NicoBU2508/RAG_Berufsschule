@@ -2,15 +2,15 @@
 id: vault.thema.visuell.bezugskalkulation.und.verkaufskalkulation
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Bezugskalkulation und Verkaufskalkulation"
 kategorie: Wirtschaft_und_Recht
 quellen: 1
-seiten: 7
+seiten: 14
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [30–36](<99_Originale/Berufsschule/ITT/Stößl/Skript.pdf#page=30>) | loesung | 7 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [30–36, 47–53](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=30>) | beispiel, loesung | 13 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

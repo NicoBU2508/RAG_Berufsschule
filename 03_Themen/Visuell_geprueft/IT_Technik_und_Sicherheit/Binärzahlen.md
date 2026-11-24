@@ -2,15 +2,15 @@
 id: vault.thema.visuell.binarzahlen
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Binärzahlen"
 kategorie: IT_Technik_und_Sicherheit
-quellen: 1
-seiten: 2
+quellen: 4
+seiten: 7
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,7 +25,10 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [2–3](<99_Originale/Berufsschule/ITT/Otma/Netzwerkt.pdf#page=2>) | loesung | 2 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell\|FU_IT_2LJ_Ott_OSI_Modell]] | [27](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=27>) | aufgabe | Text für Zitate geeignet |
+| [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung\|FU_IT_2LJ_Zielske_IPv4_Wiederholung]] | [1](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=1>) | theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT\|Grundausbildung_IT]] | [2–4](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=2>) | beispiel, theorie | 3 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] | [2–3](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2>) | loesung | 2 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

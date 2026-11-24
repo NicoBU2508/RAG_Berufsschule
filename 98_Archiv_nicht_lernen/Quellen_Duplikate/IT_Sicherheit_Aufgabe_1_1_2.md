@@ -2,10 +2,10 @@
 typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
-original_pfad: "99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf"
+original_pfad: "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf"
 seiten: 4
 textzeichen: 3388
-textstatus: "duplikat_deaktiviert; aktive Quelle: Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf"
+textstatus: "duplikat_deaktiviert; aktive Quelle: Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf"
 lernstatus: "archiv_duplikat"
 pruefung: "Zusatz/Quelle prüfen"
 cssclasses:
@@ -17,7 +17,7 @@ tags:
 ---
 # 📄 IT Sicherheit Aufgabe 1 1 2
 > [!warning] Duplikat deaktiviert
-> Diese Notiz ist im Archiv, weil der PDF-Text mit **Berufsschule/ITT/IT Sicherheit/Aufgabe 1.pdf** übereinstimmt. Für Lernreferenzen wird nur die aktive Originalquelle verwendet.
+> Diese Notiz ist im Archiv, weil der PDF-Text mit **Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf** übereinstimmt. Für Lernreferenzen wird nur die aktive Originalquelle verwendet.
 ## 🎯 Geprüfte und sinnvolle Referenzen
 
 ## 🧠 Lernstruktur
@@ -32,11 +32,11 @@ tags:
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Aufgabe 1(1).pdf Seite 1](<99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf#page=1]]`
+> - PDF-Seite: [Aufgabe 1(1).pdf Seite 1](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf#page=1]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -54,11 +54,11 @@ Check
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Aufgabe 1(1).pdf Seite 2](<99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf#page=2]]`
+> - PDF-Seite: [Aufgabe 1(1).pdf Seite 2](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf#page=2]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -113,11 +113,11 @@ Lenziele :
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Aufgabe 1(1).pdf Seite 3](<99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf#page=3]]`
+> - PDF-Seite: [Aufgabe 1(1).pdf Seite 3](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf#page=3]]
 
 #### Extrahierter Originaltext für Suche und KI
 
@@ -211,11 +211,11 @@ E
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Aufgabe 1(1).pdf Seite 4](<99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf#page=4]]`
+> - PDF-Seite: [Aufgabe 1(1).pdf Seite 4](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/IT Sicherheit/Aufgabe 1(1).pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf#page=4]]
 
 #### Extrahierter Originaltext für Suche und KI
 

@@ -2,7 +2,7 @@
 typ: quelle
 fach: "BGWP_Betriebswirtschaft"
 fach_anzeige: "BGWP Betriebswirtschaft"
-original_pfad: "99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf"
+original_pfad: "99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf"
 seiten: 7
 pruefung: "AP1, WiSo"
 reviewed_on: 2026-07-13
@@ -26,7 +26,7 @@ textzeichen: 10374
 # 📄 ZusammenfassungBGWP
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/BGWP_Betriebswirtschaft/BGWP_Betriebswirtschaft|BGWP Betriebswirtschaft]]
-> - **Original-PDF:** [ZusammenfassungBGWP.pdf](<99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf>)
+> - **Original-PDF:** [ZusammenfassungBGWP.pdf](<99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf>)
 > - **Seiten:** 7
 > - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=1, partial=6)
 > - **Aktive Lernquelle:** ja
@@ -62,11 +62,11 @@ textzeichen: 10374
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [ZusammenfassungBGWP.pdf Seite 1](<99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=1]]`
+> - PDF-Seite: [ZusammenfassungBGWP.pdf Seite 1](<99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=1]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=1]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -140,11 +140,11 @@ Personal, Finanzen, IT).
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [ZusammenfassungBGWP.pdf Seite 2](<99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=2]]`
+> - PDF-Seite: [ZusammenfassungBGWP.pdf Seite 2](<99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=2]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=2]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -183,11 +183,11 @@ Mehrliniensystem
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [ZusammenfassungBGWP.pdf Seite 3](<99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=3]]`
+> - PDF-Seite: [ZusammenfassungBGWP.pdf Seite 3](<99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=3]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=3]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -237,11 +237,11 @@ Tätigkieten aufgeführt. Beispiel:
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [ZusammenfassungBGWP.pdf Seite 4](<99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=4]]`
+> - PDF-Seite: [ZusammenfassungBGWP.pdf Seite 4](<99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=4]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=4]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -289,11 +289,11 @@ und Doppelarbeit.
 ### Seite 5
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [ZusammenfassungBGWP.pdf Seite 5](<99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=5>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=5]]`
+> - PDF-Seite: [ZusammenfassungBGWP.pdf Seite 5](<99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=5>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=5]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=5]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=5]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -351,11 +351,11 @@ Produkt ein (z. B. Strom, Ol).
 ### Seite 6
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [ZusammenfassungBGWP.pdf Seite 6](<99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6]]`
+> - PDF-Seite: [ZusammenfassungBGWP.pdf Seite 6](<99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -422,11 +422,11 @@ Technisierung (Informatikkaufmann vs. Automobilkaufmann).
 ### Seite 7
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [ZusammenfassungBGWP.pdf Seite 7](<99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7]]`
+> - PDF-Seite: [ZusammenfassungBGWP.pdf Seite 7](<99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7]]
 
 > [!ocr] Seitenbezogener OCR-Text integriert
 > Der folgende Text wurde visuell der PDF-Seite 7 zugeordnet. Bei Zitaten, Begriffen und Diagrammen bleibt die eingebettete Originalseite maßgeblich.

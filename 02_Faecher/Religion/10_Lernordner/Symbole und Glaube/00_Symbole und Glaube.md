@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Symbole und Glaube** im Fach **Religion**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2|Reli Notizen S. 2]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2|Reli Notizen S. 2]].
 > - **Zentrale Suchbegriffe:** Symbole, Glaube, Ich, kann, sein.
 > - **Prüfungsbezug:** AP1/AP2 Lernbasis.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -51,7 +51,7 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Religion/Quellen/Reli_Notizen\|Reli_Notizen]] | [Reli Notizen.pdf Seite 2](<../../../../99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2>) | Ich kann sein | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Religion/Quellen/Reli_Notizen\|Reli_Notizen]] | [Reli Notizen.pdf Seite 2](<../../../../99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2>) | Ich kann sein | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -60,11 +60,11 @@ tags:
 #### Seite 2: Ich kann sein
 
 > [!referenz] Exakte Referenz
-> - PDF: [Reli Notizen.pdf Seite 2](<../../../../99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2]]`
+> - PDF: [Reli Notizen.pdf Seite 2](<../../../../99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2]]
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Ich kann sein vie ich will Ich kann selbst SYMBOLE entscheidungen treffen" - weiße Taube selbstständiges - der eigene Garten Handeln Freiheit - ⑪ Sport - Familie - Qo Meinungsfreiheit Wahlfreiheit - Himmel, Sonne ,Flugzeug Religionsfreiheit 1848 1989 Es lebe die Freiheit" Ermordung Mauerfall Weiße Rosc Robert Blum 9 . 11 1938 1918 1923 Reichskristalt Ende UKI Hitlerputch nacht Ende der Monarchie in Antisemitismus Ausruf der Repubik München Klischesu . Stereotypen : -große Nase - Sündenbock - lange Finge - christliche überlieferung als Christenmörde - Mäntel , Hüte, Brille - Minderheit - gierig , geizig - politische und
@@ -139,7 +139,7 @@ Christenmörde
 - Frage:: Was ist der Kernpunkt zu **Ich** laut Quelle?
 - Antwort:: Ich kann sein vie ich will Ich kann selbst SYMBOLE entscheidungen treffen" - weiße Taube selbstständiges - der eigene Garten Handeln Freiheit - ⑪ Sport - Familie - Qo Meinungsfreiheit Wahlfreiheit Himmel, Sonne ,Flugzeug Religionsfreiheit 1848 1989 Es lebe die Freiheit" Ermordung Mauerfall Weiße Rosc Robert Blum 9 .
 - Beleg:: Ich kann sein vie ich will Ich kann selbst SYMBOLE entscheidungen treffen" - weiße Taube selbstständiges - der eigene Garten Handeln Freiheit - ⑪ Sport - Familie - Qo Meinungsfreiheit Wahlfreiheit Himmel, Sonne ,Flugzeug Religionsfreiheit 1848 1989 Es lebe die Freiheit" Ermordung Mauerfall Weiße Rosc Robert Blum 9 .
-- Quelle:: [[02_Faecher/Religion/Quellen/Reli_Notizen|Reli_Notizen]], [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=2|Reli Notizen S. 2]]
+- Quelle:: [[02_Faecher/Religion/Quellen/Reli_Notizen|Reli_Notizen]], [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2|Reli Notizen S. 2]]
 - Prüfung:: AP1/AP2 Lernbasis
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

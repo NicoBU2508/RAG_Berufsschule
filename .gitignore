@@ -9,5 +9,12 @@
 # Personal grades; keep copies of this private material off the remote
 **/Privat_Noten_nicht_fuer_KI/
 
+# Unreviewed incoming GoodNotes PDFs stay local until visually checked and integrated
+00_Posteingang_GoodNotes/**
+!00_Posteingang_GoodNotes/README.md
+
+# Local temporary review/import artifacts
+.import_review/
+
 # The initialized checkout lives here; this outer folder is the project root.
 /Obsidian_Berufsschule/

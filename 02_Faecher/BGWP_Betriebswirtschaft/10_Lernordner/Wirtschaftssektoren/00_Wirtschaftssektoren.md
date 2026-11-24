@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Wirtschaftssektoren** im Fach **BGWP Betriebswirtschaft**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=13|BGWP S. 13]]; [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=14|BGWP S. 14]]; [[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=15|BGWP S. 15]]; [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6|ZusammenfassungBGWP S. 6]]; [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=13|BGWP S. 13]]; [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=14|BGWP S. 14]]; [[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=15|BGWP S. 15]]; [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6|ZusammenfassungBGWP S. 6]]; [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]].
 > - **Zentrale Suchbegriffe:** Wirtschaftssektoren, Handelswaren, Fertigwaren, Betriebsorganisation, Grundlagen.
 > - **Prüfungsbezug:** AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -54,11 +54,11 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 13](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=13>) | 04 Wirtschaftssektoren | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 14](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=14>) | 04 Wirtschaftssektoren | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 15](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=15>) | 04 Wirtschaftssektoren | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 6](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6>) | e _Handelswaren: Fertigwaren für den unveränderten Weiterverkauf. | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7>) | 1. Betriebsorganisation - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 13](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=13>) | 04 Wirtschaftssektoren | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 14](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=14>) | 04 Wirtschaftssektoren | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] | [BGWP.pdf Seite 15](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=15>) | 04 Wirtschaftssektoren | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 6](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6>) | e _Handelswaren: Fertigwaren für den unveränderten Weiterverkauf. | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7>) | 1. Betriebsorganisation - Grundlagen | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -67,11 +67,11 @@ tags:
 #### Seite 13: 04 Wirtschaftssektoren
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 13](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=13>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=13]]`
+> - PDF: [BGWP.pdf Seite 13](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=13>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=13]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=13]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=13]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 04 Wirtschaftssektoren Klasse: Datum: Die Wirtschaftssektoren ➔ Unterteilung des ____________________________ in verschiedene Bereiche Primärer Sektor = _____________________: Gewinnung von _____________________ ➔ _____________________________ ➔ _____________________________ ➔ _____________________________ Sekundärer Sektor = industrieller Sektor: ______________________________ der Rohstoffe ➔ _____________________________ ➔ _____________________________ ➔ _____________________________ ➔ _____________________________ ➔ _____________________________ Tertiärer Sektor = ______________________________________ ➔ ___________________________ ➔ ___________________________ ➔ _______________ …
@@ -148,11 +148,11 @@ Forschungszentren
 #### Seite 14: 04 Wirtschaftssektoren
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 14](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=14>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=14]]`
+> - PDF: [BGWP.pdf Seite 14](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=14>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=14]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=14]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=14]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 04 Wirtschaftssektoren Klasse: Datum: Die Wirtschaftssektoren – Übung Aufgabe 1: Ordne jede der folgenden Tätigkeiten einem Wirtschaftssektor zu. Tätigkeit/Unternehmen Primär Sekundär Tertiär Milchbauernhof ☐ ☐ ☐ Stahlwerk ☐ ☐ ☐ Möbelhaus ☐ ☐ ☐ Paketdienst ☐ ☐ ☐ Autowerkstatt ☐ ☐ ☐ Softwarefirma ☐ ☐ ☐ Friseur ☐ ☐ ☐ Bäckerei ☐ ☐ ☐ Kiesgrube ☐ ☐ ☐ Maschinenbauer ☐ ☐ ☐ Reisebüro ☐ ☐ ☐ Zimmerei ☐ ☐ ☐ Aufgabe 2: Entscheide, ob die folgenden Aussagen richtig oder falsch sind. Verbessere außerdem falsche Aussagen. 1. Der Primärsektor nimmt in Deutschland den größten Anteil an der Wirtschaft ein. 2. Die Industrie gehört zum Sekundärsektor. 3. Dienstleistungen wie Banken und Versicherungen …
@@ -250,11 +250,11 @@ primär
 #### Seite 15: 04 Wirtschaftssektoren
 
 > [!referenz] Exakte Referenz
-> - PDF: [BGWP.pdf Seite 15](<../../../../99_Originale/Berufsschule/BGWP/BGWP.pdf#page=15>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=15]]`
+> - PDF: [BGWP.pdf Seite 15](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=15>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=15]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/BGWP.pdf#page=15]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=15]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > BGWP LF 1 04 Wirtschaftssektoren Klasse: Datum: Aufgabe 3: Analysiere folgendes Diagramm und beantworte die Fragen: Quelle: worldbank.org a) In welchem Land ist der Primärsektor am größten? Welche Rückschlüsse lassen sich daraus ziehen? b) In welchem Land ist der Tertiärsektor dominant? Was sagt dies über das Land aus? c) Welches von diesen Ländern ist ein Schwellenland? Woran lässt sich das erkennen? Kenia-wirtschaftlich schwach DE-Wohlstand Indien - alles niedrig a) Kenia - geringer Industrialisierungsgrad - Wirtschaft ist von Landwirtschaft geprägt - niedriger Wohlstand -> Entwicklungsland 6) Deutschland - hoch entwickeltes Industrieland - hoher Lebensstandart/Wohlstand d Indien - Primärs …
@@ -310,11 +310,11 @@ und Dienstleistung
 #### Seite 6: e _Handelswaren: Fertigwaren für den unveränderten Weiterverkauf.
 
 > [!referenz] Exakte Referenz
-> - PDF: [ZusammenfassungBGWP.pdf Seite 6](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6]]`
+> - PDF: [ZusammenfassungBGWP.pdf Seite 6](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > e _Handelswaren: Fertigwaren für den unveränderten Weiterverkauf. ‚3. Unternehmensziele • Ökonomische Ziele: Oberziel ist die Gewinnmaximierung. (Monetär: In Geld messbar (z. B. Umsatzsteigerung, Kostensenkung). (Nicht-monetär: Nicht in Geld messbar (z. B. Erhöhung des Marktanteils). (Nebenbedingung: Aufrechterhaltung der Liquidität (Zahlungsfähigkeit). e [Ökologische Ziele: Umweltbelastungen ausschließen/reduzieren (z. B. nachhaltige Abfallwirtschaft, CO2-Reduzierung). + Soziale Ziele: Mitarbeiterbezogen (Arbeitsplatzerhalt, faire Bezahlung, freiwillige Sozialleistungen) und Übernahme gesamtgesellschaftlicher Verantwortung. e [SMART-Regelfür Ziele: Spezifisch, Messbar, Akzeptiert, Realistis …
@@ -382,11 +382,11 @@ Technisierung (Informatikkaufmann vs. Automobilkaufmann).
 #### Seite 7: 1. Betriebsorganisation - Grundlagen
 
 > [!referenz] Exakte Referenz
-> - PDF: [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7]]`
+> - PDF: [ZusammenfassungBGWP.pdf Seite 7](<../../../../99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7]]
+> ![[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > 1. Betriebsorganisation - Grundlagen « Definition: Aufstellung von Verhaltens- und Arbeitsregeln für Menschen sowie Funktionsregeln für Maschinen (= geschaffene Ordnung). « _Organisationsgrade:lmprovisation: Intuitive Entscheidung bei unvorhersehbaren/nicht planbaren Situationen. Ziel: Wirtschaftlichkeit. ¢ © Disposition: Fallweise (spontane) Regelungen, wenn noch keine endgültigen Regeln existieren. Ziel: Flexibilität. ¢ Organisation: Generelle, dauerhafte Regelungen für optimale Ordnung. Ziel: ‚Stabilität. « © Organisationsgrundsätze: Muss wirtschaftlich (Minimal-/Maximalprinzip), zweckmäßig, flexibel & stabil zugleich sowie klar sein. * Arten der Organisation: Aufbauorganisation: Festgele …
@@ -680,7 +680,7 @@ und das Ausland (Export, Import).
 - Frage:: Welche Vorgabe nennt die Quelle zu **Wirtschaftssektoren**?
 - Antwort:: Grundlage: Zerlegung der Arbeit in.Einzelschritte, die wieder zu einem Ganzen zusammengeführt werden müssen (Arbeitsvereinigung).
 - Beleg:: Grundlage: Zerlegung der Arbeit in.Einzelschritte, die wieder zu einem Ganzen zusammengeführt werden müssen (Arbeitsvereinigung).
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=6|ZusammenfassungBGWP S. 6]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6|ZusammenfassungBGWP S. 6]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -688,7 +688,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist der Kernpunkt zu **Betriebsorganisation - Grundlagen** laut Quelle?
 - Antwort:: Unternehmensziele « (Ökonomische Ziele: Oberziel ist die Gewinnmaximierung. {Monetär: In Geld messbar (z.
 - Beleg:: Unternehmensziele « (Ökonomische Ziele: Oberziel ist die Gewinnmaximierung. {Monetär: In Geld messbar (z.
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -696,7 +696,7 @@ und das Ausland (Export, Import).
 - Frage:: Was ist **Betriebsorganisation - Grundlagen** laut Quelle?
 - Antwort:: « Definition: Aufstellung von Verhaltens- und Arbeitsregeln für Menschen sowie Funktionsregeln für Maschinen (= geschaffene Ordnung).
 - Beleg:: « Definition: Aufstellung von Verhaltens- und Arbeitsregeln für Menschen sowie Funktionsregeln für Maschinen (= geschaffene Ordnung).
-- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
+- Quelle:: [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|ZusammenfassungBGWP]], [[99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=7|ZusammenfassungBGWP S. 7]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

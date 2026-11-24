@@ -2,7 +2,7 @@
 typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
-original_pfad: "99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf"
+original_pfad: "99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf"
 seiten: 1
 pruefung: "AP1 Grundlagen / IT-Begriffe"
 cssclasses:
@@ -23,7 +23,7 @@ textzeichen: 2462
 # 📄 Begriffe Computerwelt Gitterratsel
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
-> - **Original-PDF:** [Begriffe Computerwelt - Gitterrätsel.pdf](<99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf>)
+> - **Original-PDF:** [Begriffe Computerwelt - Gitterrätsel.pdf](<99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf>)
 > - **Seiten:** 1
 > - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (partial=1)
 > - **Aktive Lernquelle:** ja
@@ -46,11 +46,11 @@ textzeichen: 2462
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Begriffe Computerwelt - Gitterrätsel.pdf Seite 1](<99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1]]`
+> - PDF-Seite: [Begriffe Computerwelt - Gitterrätsel.pdf Seite 1](<99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1]]
 
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte nur eine schwache PDF-Textschicht. Der folgende Text wurde per OCR/Bildanalyse und manueller Sichtprüfung aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.

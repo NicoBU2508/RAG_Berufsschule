@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [10–12](<99_Originale/Berufsschule/PUG/Pug.pdf#page=10>) | aufgabe, loesung | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [10–12](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=10>) | aufgabe, loesung | 1 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

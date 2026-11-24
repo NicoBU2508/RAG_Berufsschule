@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md (Seiten 45–45)",
+  "replaces_existing": false,
+  "topic_categories": {},
+  "pages": [
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf",
+      "page": 45,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Projektplanung und Netzplanmethode",
+        "secondary_topics": [
+          "Netzplan",
+          "Kritischer Pfad",
+          "Pufferzeiten"
+        ],
+        "recommended_topics": [
+          "Projektplanung und Netzplanmethode"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Abfotografierte Prüfungsaufgabe und handschriftlich berechneter Netzplan visuell transkribiert."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

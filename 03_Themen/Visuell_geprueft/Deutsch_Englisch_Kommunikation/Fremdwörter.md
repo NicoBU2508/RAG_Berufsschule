@@ -25,7 +25,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [8–10](<99_Originale/Berufsschule/Deutsch/Regelsammlung.pdf#page=8>) | aufgabe, theorie | Text für Zitate geeignet |
+| [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] | [8–10](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8>) | aufgabe, theorie | Text für Zitate geeignet |
 
 ## Belegregel für GPT
 

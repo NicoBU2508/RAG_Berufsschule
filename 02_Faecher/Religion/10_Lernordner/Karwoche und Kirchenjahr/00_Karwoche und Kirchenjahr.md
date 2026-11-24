@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Karwoche und Kirchenjahr** im Fach **Religion**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=6|Reli Notizen S. 6]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6|Reli Notizen S. 6]].
 > - **Zentrale Suchbegriffe:** Karwoche, Kirchenjahr.
 > - **Prüfungsbezug:** AP1/AP2 Lernbasis.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -51,7 +51,7 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/Religion/Quellen/Reli_Notizen\|Reli_Notizen]] | [Reli Notizen.pdf Seite 6](<../../../../99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=6>) | Karwoche | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/Religion/Quellen/Reli_Notizen\|Reli_Notizen]] | [Reli Notizen.pdf Seite 6](<../../../../99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6>) | Karwoche | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -60,11 +60,11 @@ tags:
 #### Seite 6: Karwoche
 
 > [!referenz] Exakte Referenz
-> - PDF: [Reli Notizen.pdf Seite 6](<../../../../99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=6>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=6]]`
+> - PDF: [Reli Notizen.pdf Seite 6](<../../../../99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=6]]
+> ![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Karwoche " santa settimanta" die heilige Woche Palmsonntag Montag Dienstag Mittwoch Gründonnerstag Karfreitag ↳altden. greinen D Hosana Jesus im Liebe deinen Judas erhielt Fußraschung Verhör Tempel das letzte nächsten wie 30 silberlinge Abendmahl Vorteilung Jubeltag 1 h dich selbst für den verag (Geburt d . Kreuzweg Jesus zieht in HI. Messel Jerusalem ein Vertreibung Verhaftung Golgotta der Händle # Grablegung Karsamstag Hallelüsa !Der Herr ist wahrhaft aufestanden Traue Fassungslosigkeit Angst u· - Leere alles umsonst Osternacht Begegnung mit den Frauen Emausgang
@@ -138,7 +138,7 @@ Emausgang
 - Frage:: Was ist der Kernpunkt zu **Karwoche** laut Quelle?
 - Antwort:: Messel Jerusalem ein Vertreibung Verhaftung Golgotta der Händle # Grablegung Karsamstag Hallelüsa !Der Herr ist wahrhaft aufestanden Traue Fassungslosigkeit Angst u· Leere alles umsonst Osternacht Begegnung mit den Frauen Emausgang
 - Beleg:: Messel Jerusalem ein Vertreibung Verhaftung Golgotta der Händle # Grablegung Karsamstag Hallelüsa !Der Herr ist wahrhaft aufestanden Traue Fassungslosigkeit Angst u· Leere alles umsonst Osternacht Begegnung mit den Frauen Emausgang
-- Quelle:: [[02_Faecher/Religion/Quellen/Reli_Notizen|Reli_Notizen]], [[99_Originale/Berufsschule/Religion/Reli Notizen.pdf#page=6|Reli Notizen S. 6]]
+- Quelle:: [[02_Faecher/Religion/Quellen/Reli_Notizen|Reli_Notizen]], [[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6|Reli Notizen S. 6]]
 - Prüfung:: AP1/AP2 Lernbasis
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

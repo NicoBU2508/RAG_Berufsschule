@@ -2,15 +2,15 @@
 id: vault.thema.visuell.objektorientierung
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-23
+reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
 thema: "Objektorientierung"
 kategorie: Anwendungsentwicklung
-quellen: 5
-seiten: 38
+quellen: 8
+seiten: 59
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -25,11 +25,14 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift\|AE_2LJ_Jac_Mitschrift]] | [1–4, 10–11](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=1>) | beispiel, theorie | 6 Seite(n): OCR/Original prüfen |
 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics\|JAVA_Java_Basics]] | [4](<99_Originale/Basics/JAVA/Java Basics.pdf#page=4>) | theorie | 1 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [34–48](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-4.Block.pdf#page=34>) | theorie | Text für Zitate geeignet |
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [34–48](<99_Originale/Berufsschule/AE/Stößl/02_Unternehmenswiki-5.Block.pdf#page=34>) | theorie | Text für Zitate geeignet |
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824\|Stol_Lernzettel_260210_092824]] | [3–4](<99_Originale/Berufsschule/AE/Stößl/Lernzettel_260210_092824.pdf#page=3>) | beispiel, theorie | 1 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [3–4, 6–8](<99_Originale/Berufsschule/AE/Stößl/Stößl.pdf#page=3>) | aufgabe, loesung | Text für Zitate geeignet |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [34–48](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=34>) | theorie | Text für Zitate geeignet |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [34–48](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=34>) | theorie | Text für Zitate geeignet |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block\|Stol_02_Unternehmenswiki_7_Block]] | [34–47](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=34>) | theorie | Text für Zitate geeignet |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824\|Stol_Lernzettel_260210_092824]] | [3–4](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=3>) | beispiel, theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [3–4, 6–8](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=3>) | aufgabe, loesung | Text für Zitate geeignet |
+| [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT\|Grundausbildung_IT]] | [4](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=4>) | theorie | 1 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

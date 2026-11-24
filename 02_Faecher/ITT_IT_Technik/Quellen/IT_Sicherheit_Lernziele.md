@@ -2,7 +2,7 @@
 typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
-original_pfad: "99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf"
+original_pfad: "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf"
 seiten: 2
 pruefung: "AP1"
 cssclasses:
@@ -26,7 +26,7 @@ textzeichen: 0
 # 📄 IT Sicherheit Lernziele
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
-> - **Original-PDF:** [Lernziele.pdf](<99_Originale/Berufsschule/ITT/IT Sicherheit/Lernziele.pdf>)
+> - **Original-PDF:** [Lernziele.pdf](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Lernziele.pdf>)
 > - **Seiten:** 2
 > - **KI-Lesbarkeit:** kritisch: Nur Index- und Lernhinweisseiten ohne eigenständigen fachlichen Lerninhalt
 > - **Aktive Lernquelle:** nein – technisch ausgeschlossen

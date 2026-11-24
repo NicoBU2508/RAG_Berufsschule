@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "validated_on": "2026-07-13",
+  "validated_on": "2026-11-23",
   "status": "pass",
   "checks_passed": 42,
   "checks_failed": 0,
@@ -8,7 +8,7 @@
     {
       "name": "alle nicht-privaten Original-PDFs erfasst",
       "status": "pass",
-      "details": "Disk: 36; Audit: 36"
+      "details": "Disk: 55; Audit: 55"
     },
     {
       "name": "nicht-private Seitenbilanz konsistent",
@@ -17,7 +17,7 @@
     {
       "name": "alle aktiven Quellnotizen auditiert",
       "status": "pass",
-      "details": "Disk: 33; Audit: 33"
+      "details": "Disk: 52; Audit: 52"
     },
     {
       "name": "alle aktiven Seiten visuell geprüft",
@@ -42,22 +42,22 @@
     {
       "name": "kanonische Seitenbilanz konsistent",
       "status": "pass",
-      "details": "{\"evidence\"=>713, \"support_only\"=>3, \"excluded\"=>89}"
+      "details": "{\"evidence\"=>1220, \"support_only\"=>11, \"excluded\"=>119}"
     },
     {
       "name": "Evidenzseiten gezählt",
       "status": "pass",
-      "details": "{\"evidence\"=>713, \"support_only\"=>3, \"excluded\"=>89}"
+      "details": "{\"evidence\"=>1220, \"support_only\"=>11, \"excluded\"=>119}"
     },
     {
       "name": "Support-Seiten gezählt",
       "status": "pass",
-      "details": "{\"evidence\"=>713, \"support_only\"=>3, \"excluded\"=>89}"
+      "details": "{\"evidence\"=>1220, \"support_only\"=>11, \"excluded\"=>119}"
     },
     {
       "name": "ausgeschlossene Seiten gezählt",
       "status": "pass",
-      "details": "{\"evidence\"=>713, \"support_only\"=>3, \"excluded\"=>89}"
+      "details": "{\"evidence\"=>1220, \"support_only\"=>11, \"excluded\"=>119}"
     },
     {
       "name": "Ausschlüsse tragen keine Themen",
@@ -74,7 +74,7 @@
     {
       "name": "kanonische Themen vorhanden",
       "status": "pass",
-      "details": "Themen: 101"
+      "details": "Themen: 137"
     },
     {
       "name": "OCR-Korrekturen registriert",
@@ -97,7 +97,7 @@
     {
       "name": "alle und nur kanonische Themendateien vorhanden",
       "status": "pass",
-      "details": "Mapping: 101; Disk: 101"
+      "details": "Mapping: 137; Disk: 137"
     },
     {
       "name": "alle Themendateien visuell markiert",
@@ -135,7 +135,7 @@
     {
       "name": "datenschutzsichere Seitenzusammenfassungen vollständig",
       "status": "pass",
-      "details": "Ist: 7; Soll: 7"
+      "details": "Ist: 28; Soll: 28"
     },
     {
       "name": "keine widersprüchlichen OCR-Hinweise auf sensibler S.17",
@@ -144,7 +144,7 @@
     {
       "name": "Copilot-Dateiallowlist und Sicherheitsmodus gehärtet",
       "status": "pass",
-      "details": "Ist: 134; Soll: 134; fehlende Exclusions: []; Prompt aktiv: true"
+      "details": "Ist: 189; Soll: 189; fehlende Exclusions: []; Prompt aktiv: true"
     },
     {
       "name": "Manifest: geprüfte Themen primär",
@@ -186,7 +186,7 @@
     {
       "name": "alle nicht-privaten lokalen Referenzen auflösbar",
       "status": "pass",
-      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-07-13\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>549, \"wiki_links\"=>21963, \"local_markdown_links\"=>8739, \"unresolved\"=>0, \"failures\"=>[]}"
+      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-11-23\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>604, \"wiki_links\"=>23467, \"local_markdown_links\"=>9400, \"unresolved\"=>0, \"failures\"=>[]}"
     }
   ]
 }

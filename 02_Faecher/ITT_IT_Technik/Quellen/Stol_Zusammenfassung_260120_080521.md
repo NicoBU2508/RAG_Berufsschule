@@ -2,7 +2,7 @@
 typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
-original_pfad: "99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf"
+original_pfad: "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf"
 seiten: 4
 pruefung: "AP1/WiSo Beschaffung und Recht"
 cssclasses:
@@ -23,7 +23,7 @@ textzeichen: 3227
 # 📄 Stol Zusammenfassung 260120 080521
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
-> - **Original-PDF:** [Zusammenfassung _260120_080521.pdf](<99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf>)
+> - **Original-PDF:** [Zusammenfassung _260120_080521.pdf](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf>)
 > - **Seiten:** 4
 > - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (partial=4)
 > - **Aktive Lernquelle:** ja
@@ -50,11 +50,11 @@ textzeichen: 3227
 ### Seite 1
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Zusammenfassung _260120_080521.pdf Seite 1](<99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=1>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=1]]`
+> - PDF-Seite: [Zusammenfassung _260120_080521.pdf Seite 1](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=1>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=1]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=1]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=1]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -99,11 +99,11 @@ patentrechtlich geschützt, Eigenfertigung teurer
 ### Seite 2
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Zusammenfassung _260120_080521.pdf Seite 2](<99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=2>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=2]]`
+> - PDF-Seite: [Zusammenfassung _260120_080521.pdf Seite 2](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=2>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=2]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=2]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=2]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -152,11 +152,11 @@ Grundbucheintragung) -> Neuer Eigentümer
 ### Seite 3
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Zusammenfassung _260120_080521.pdf Seite 3](<99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=3>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=3]]`
+> - PDF-Seite: [Zusammenfassung _260120_080521.pdf Seite 3](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=3>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=3]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=3]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=3]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
@@ -183,11 +183,11 @@ wirksam
 ### Seite 4
 
 > [!referenz] Exakte Referenz
-> - PDF-Seite: [Zusammenfassung _260120_080521.pdf Seite 4](<99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=4>)
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=4]]`
+> - PDF-Seite: [Zusammenfassung _260120_080521.pdf Seite 4](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=4>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=4]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/ITT/Stößl/Zusammenfassung _260120_080521.pdf#page=4]]
+> ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=4]]
 > [!ocr] OCRplus-Nachtrag integriert
 > Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 

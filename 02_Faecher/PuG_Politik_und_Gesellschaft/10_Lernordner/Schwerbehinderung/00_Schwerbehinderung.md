@@ -36,7 +36,7 @@ tags:
 
 > [!abstract] Kompakter Lern- und Retrieval-Kern
 > - **Kern des Moduls:** Dieses Lernmodul bündelt die vorhandenen Quellenstellen zu **Schwerbehinderung** im Fach **PuG Politik und Gesellschaft**.
-> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/PUG/Pug.pdf#page=17|Pug S. 17]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=20|Pug S. 20]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=26|Pug S. 26]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=32|Pug S. 32]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=33|Pug S. 33]]; [[99_Originale/Berufsschule/PUG/Pug.pdf#page=35|Pug S. 35]].
+> - **Wichtigste Kernseiten:** [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17|Pug S. 17]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20|Pug S. 20]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26|Pug S. 26]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32|Pug S. 32]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33|Pug S. 33]]; [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=35|Pug S. 35]].
 > - **Zentrale Suchbegriffe:** Schwerbehinderung, Arbeitsrecht, Außerordentliche, Kündigung, Betriebsrat, Betriebsverfassungsgesetz.
 > - **Prüfungsbezug:** AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema.
 > - **KI-Suchhinweis:** Für Antworten zuerst diesen Komprimatblock und die Schnellzugriffstabelle verwenden; für Belege anschließend die konkret verlinkte Original-PDF-Seite öffnen.
@@ -55,12 +55,12 @@ tags:
 
 | Nr. | Quelle | PDF-Seite | Seitentitel / Inhalt | Warum hier? |
 |---:|---|---|---|---|
-| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 17](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=17>) | Arbeitsrecht - Schwerbehinderung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 2 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=20>) | Außerordentliche Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 3 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 26](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=26>) | Arbeitsrecht - Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 4 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 32](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=32>) | Betriebsrat - Betriebsverfassungsgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 5 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 33](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=33>) | Betriebsrat - Betriebsverfassungsgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
-| 6 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 35](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=35>) | Betriebsrat – Betriebsverfassungsgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 1 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 17](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17>) | Arbeitsrecht - Schwerbehinderung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 2 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20>) | Außerordentliche Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 3 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 26](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26>) | Arbeitsrecht - Kündigung | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 4 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 32](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32>) | Betriebsrat - Betriebsverfassungsgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 5 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 33](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33>) | Betriebsrat - Betriebsverfassungsgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
+| 6 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [Pug.pdf Seite 35](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=35>) | Betriebsrat – Betriebsverfassungsgesetz | Quellenreferenz/Keyword/chronologische Themenstruktur |
 
 ## 📚 Lerninhalt nach Original-PDF-Reihenfolge
 
@@ -69,11 +69,11 @@ tags:
 #### Seite 17: Arbeitsrecht - Schwerbehinderung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 17](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=17>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=17]]`
+> - PDF: [Pug.pdf Seite 17](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=17]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Arbeitsrecht - Schwerbehinderung PuG Name: Klasse: Datum: 1 Sie lernen in Ihrer Freizeit Fritz, einen jungen Mann kennen, der erzählt, dass er trotz einer Vielzahl an Bewerbungen keinen Arbeits- bzw. Ausbildungsplatz findet. Er glaubt, dass es daran liegt, dass er bei einem Unfall einen Arm verloren hat. Sie stellen sich nun deshalb folgende Fragen: 1. Wer ist Schwerbehindert? Wenn körperliche, geistige Fähigkeit oder seelische Gesundheit länger als 6 Monate von dem für das Lebensalter typischen Zustand abweicht Behinderungsgrad von mind. 50 % 2. Wer muss Schwerbehinderte beschäftigen? Jeder AG (private und öffentliche) mit 20 Arbeitsplätzen(6%) wenn die Zahl der Arbeitslosen nicht um 25 % i …
@@ -163,11 +163,11 @@ Zusatzurlaub
 #### Seite 20: Außerordentliche Kündigung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=20>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=20]]`
+> - PDF: [Pug.pdf Seite 20](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=20]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Außerordentliche Kündigung (fristlose Kündigung) Es muss ein wichtiger Grund vorliegen -AN: z .b Ausbleiben des Gehalts -AG : Diebstahl , Schweigepflichtsverletzung Außerordentliche Kündigung muss innerhalb 2 Wochen nach bekannt werden des wichtigen Grundes ausgesprochen werden. Wer hat einen besonderen Kündigungsschutz? -Schwerbehinderte -Schwangere /4 Monate nach Geburt - AN in Pflegezeit/Elternzeit - Betriebsrat/CAV- und ein Jahr nach Beendigung de Tätigkeit als BR/SAV - Datenschutzbeauftragter/Sicherheitsbeauftragter- und ein Jahr nach Beendigung der Tätigkeit als DSB - Freiwilligen Dienst/Wehrdienst - (Azubis) Welche Punkte sind bei einer Kündigung zu beachten ? - Schriftlich (mit Unter …
@@ -239,11 +239,11 @@ worden sein
 #### Seite 26: Arbeitsrecht - Kündigung
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 26](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=26>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=26]]`
+> - PDF: [Pug.pdf Seite 26](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=26]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=26]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Arbeitsrecht - Kündigung PuG Name: Klasse: Datum: 2 Liste der möglichen Mitarbeiter 1. Anne König, 43 Jahre, Sachbearbeiterin im Vertrieb, verheiratet, 2 Kinder, seit 23 Jahren im Betrieb 2. Georg Müller, 29 Jahre, Lagerist, ledig, Schwerbehindert, seit 3 Jahren im Betrieb 3. Petra Kuhn, 20 Jahre, Fachinformatiker seit 4 Jahren im Betrieb (inkl. Ausbildung). Sie war bis vor 6 Monaten Jugend- und Auszubildendenvertreterin 4. Philipp Manier, 38 Jahre, Fachinformatiker, alleinerziehend, 5 Kinder, seit 7 Jahren im Betrieb 5. Caroline Ungemach, 49 Jahre, Buffetkraft in der Kantine, seit 5 Jahren im Betrieb. Sie ist wiederholt unentschuldigt der Arbeit ferngeblieben. Sie aus diesem Grund bereits z …
@@ -296,11 +296,11 @@ Jahr im Betrieb.
 #### Seite 32: Betriebsrat - Betriebsverfassungsgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 32](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=32>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=32]]`
+> - PDF: [Pug.pdf Seite 32](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=32]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Betriebsrat - Betriebsverfassungsgesetz PuG Name: Klasse: Datum: 1 Der Betriebsrat – Informationen Die Mitbestimmung der Arbeitnehmer/-innen im Betrieb ist durch das Betriebsverfassungsgesetz geregelt. Der Betriebsrat ist das von den Arbeitnehmern gewählte Gremium, das mit einer Vielzahl von Rechten ausgestattet ist. Auch wenn der Einfluss des Betriebsrates von Arbeitgeberseite häufig als zu stark kritisiert wird, so ist doch der Grundsatz der betrieblichen Mitbestimmung seit vielen Jahren unangefochten als wichtig und erfolgreich anerkannt. Wichtige Informationen rund um den Betriebsrat Zahl der Mitglieder (§ 9 BetrVG): In Abhängigkeit von der Gesamtzahl der Beschäftigten, bei 5 bis 20 Wahl …
@@ -370,11 +370,11 @@ mitgezählt. Sie haben volles Stimmrecht
 #### Seite 33: Betriebsrat - Betriebsverfassungsgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 33](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=33>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=33]]`
+> - PDF: [Pug.pdf Seite 33](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=33]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Betriebsrat - Betriebsverfassungsgesetz PuG Name: Klasse: Datum: 2 Wahl wird organisiert vom Wahlvorstand: Drei Wahlberechtigte, die vom Betriebsrat bzw. der Betriebsversammlung bestellt werden. Soll zum ersten Mal gewählt werden, laden drei Mitarbeiter zur Betriebsversammlung ein. Die erste Wahl kann jederzeit stattfinden. Betriebsversammlung Der Betriebsrat muss vierteljährlich alle Arbeitnehmer zu Betriebsversammlungen einberufen, und sie dort über seine Arbeit und aktuelle betriebliche Angelegenheiten informieren. Betriebsversammlungen finden in der bezahlten Arbeitszeit statt. BETRIEBSRAT 􀃂 Wählt aus seiner Mitte einen Vorsitzenden mit Stellvertreter § 26 BetrVG 􀃂 Bildet evtl. einen Bet …
@@ -425,11 +425,11 @@ Schwerbehinderte)
 #### Seite 35: Betriebsrat – Betriebsverfassungsgesetz
 
 > [!referenz] Exakte Referenz
-> - PDF: [Pug.pdf Seite 35](<../../../../99_Originale/Berufsschule/PUG/Pug.pdf#page=35>)  
-> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/Pug.pdf#page=35]]`
+> - PDF: [Pug.pdf Seite 35](<../../../../99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=35>)  
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=35]]`
 
 > [!example]- Originalseite im PDF-Layout anzeigen
-> ![[99_Originale/Berufsschule/PUG/Pug.pdf#page=35]]
+> ![[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=35]]
 
 > [!info] Lernkern direkt aus dieser Seite
 > Betriebsrat – Betriebsverfassungsgesetz PuG Name: Klasse: Datum: 2 Geheime und unmittelbare Wahl 􀃔Erläutern Sie das Verfahren bei der erstmaligen Betriebsratswahl. Drei Mitarbeiter laden zur Betriebsversammlung – Wahl des Wahlvorstandes --- Wahl 􀃔Der Arbeitgeber verlangt, dass die Wahl außerhalb der Arbeitszeit und des Betriebes durchgeführt wird. Nehmen Sie Stellung. Wahl muss vom Arbeitgeber bezahlt und darf nicht behindert werden. Gleiches gilt für die Betriebsversammlung (§ 44 BetrVG). 􀃔Worauf ist bei der Zusammensetzung des Betriebsrates zu achten und wie hoch muss der Anteil der Frauen im Betriebsrat sein? Alle Arbeitnehmergruppen sollen vertreten sein und die Repräsentanz der Gesch …
@@ -503,7 +503,7 @@ anbieten?
 - Frage:: Welche Vorgabe nennt die Quelle zu **Arbeitsrecht - Schwerbehinderung**?
 - Antwort:: 4 Wochen Wichtig Diese Frist gilt auch bei außerordentlichen Kündigungen Der Arbeitgeber muss beim Intergrationsamt einen Antrag stellen um kündigen zu können. (Frist 2 Wochen)
 - Beleg:: 4 Wochen Wichtig Diese Frist gilt auch bei außerordentlichen Kündigungen Der Arbeitgeber muss beim Intergrationsamt einen Antrag stellen um kündigen zu können. (Frist 2 Wochen)
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=17|Pug S. 17]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17|Pug S. 17]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -511,7 +511,7 @@ anbieten?
 - Frage:: Welche Vorgabe nennt die Quelle zu **Arbeitsrecht - Schwerbehinderung**?
 - Antwort:: Der Arbeitgeber muss bis zu 6 % Schwerbehinderte einstellen Bei 39 AN – 1 Schwerb.
 - Beleg:: Der Arbeitgeber muss bis zu 6 % Schwerbehinderte einstellen Bei 39 AN – 1 Schwerb.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=17|Pug S. 17]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17|Pug S. 17]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -519,7 +519,7 @@ anbieten?
 - Frage:: Welche Vorgabe nennt die Quelle zu **Außerordentliche Kündigung**?
 - Antwort:: Außerordentliche Kündigung (fristlose Kündigung) Es muss ein wichtiger Grund vorliegen -AN: z .b Ausbleiben des Gehalts -AG : Diebstahl , Schweigepflichtsverletzung Außerordentliche Kündigung muss innerhalb 2 Wochen nach bekannt werden des wichtigen Grundes ausgesprochen werden.
 - Beleg:: Außerordentliche Kündigung (fristlose Kündigung) Es muss ein wichtiger Grund vorliegen -AN: z .b Ausbleiben des Gehalts -AG : Diebstahl , Schweigepflichtsverletzung Außerordentliche Kündigung muss innerhalb 2 Wochen nach bekannt werden des wichtigen Grundes ausgesprochen werden.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=20|Pug S. 20]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20|Pug S. 20]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -527,7 +527,7 @@ anbieten?
 - Frage:: Was ist der Kernpunkt zu **Betriebsrat - Betriebsverfassungsgesetz** laut Quelle?
 - Antwort:: Auch wenn der Einfluss des Betriebsrates von Arbeitgeberseite häufig als zu stark kritisiert wird, so ist doch der Grundsatz der betrieblichen Mitbestimmung seit vielen Jahren unangefochten als wichtig und erfolgreich anerkannt.
 - Beleg:: Auch wenn der Einfluss des Betriebsrates von Arbeitgeberseite häufig als zu stark kritisiert wird, so ist doch der Grundsatz der betrieblichen Mitbestimmung seit vielen Jahren unangefochten als wichtig und erfolgreich anerkannt.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=32|Pug S. 32]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32|Pug S. 32]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -535,7 +535,7 @@ anbieten?
 - Frage:: Was ist der Kernpunkt zu **Betriebsrat - Betriebsverfassungsgesetz** laut Quelle?
 - Antwort:: Leiharbeiter, die länger als drei Monate im Betrieb tätig sind sowie Telearbeiter werden mitgezählt.
 - Beleg:: Leiharbeiter, die länger als drei Monate im Betrieb tätig sind sowie Telearbeiter werden mitgezählt.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=32|Pug S. 32]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32|Pug S. 32]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -543,7 +543,7 @@ anbieten?
 - Frage:: Was ist der Kernpunkt zu **Betriebsrat - Betriebsverfassungsgesetz** laut Quelle?
 - Antwort:: Drei Wahlberechtigte, die vom Betriebsrat bzw. der Betriebsversammlung bestellt werden.
 - Beleg:: Drei Wahlberechtigte, die vom Betriebsrat bzw. der Betriebsversammlung bestellt werden.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=33|Pug S. 33]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33|Pug S. 33]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -551,7 +551,7 @@ anbieten?
 - Frage:: Was ist der Kernpunkt zu **Betriebsrat - Betriebsverfassungsgesetz** laut Quelle?
 - Antwort:: Wahl wird organisiert vom Wahlvorstand: Drei Wahlberechtigte, die vom Betriebsrat bzw. der Betriebsversammlung bestellt werden.
 - Beleg:: Wahl wird organisiert vom Wahlvorstand: Drei Wahlberechtigte, die vom Betriebsrat bzw. der Betriebsversammlung bestellt werden.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=33|Pug S. 33]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=33|Pug S. 33]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.
@@ -559,7 +559,7 @@ anbieten?
 - Frage:: Was ist der Kernpunkt zu **Betriebsrat – Betriebsverfassungsgesetz** laut Quelle?
 - Antwort:: 􀃔Entscheiden Sie, ob bei der IT-Syst GmbH die Einrichtung eines Betriebsausschusses möglich ist.
 - Beleg:: 􀃔Entscheiden Sie, ob bei der IT-Syst GmbH die Einrichtung eines Betriebsausschusses möglich ist.
-- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/Pug.pdf#page=35|Pug S. 35]]
+- Quelle:: [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Pug]], [[99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=35|Pug S. 35]]
 - Prüfung:: AP1/WiSo/Berufsschule, AP2 WiSo je nach Thema
 - OCR:: sicher
 - Fehlerquelle:: Antwort aus Erinnerung ergänzen statt den Beleg und die Originalseite zu prüfen.

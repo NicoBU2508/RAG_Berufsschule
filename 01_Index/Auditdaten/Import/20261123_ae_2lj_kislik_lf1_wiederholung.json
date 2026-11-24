@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_LF1_Wiederholung.md (Seiten 1–1)",
+  "replaces_existing": false,
+  "topic_categories": {
+    "Datenbankgrundlagen und Datenbankentwicklung": "Anwendungsentwicklung",
+    "SQL-Grundlagen und SELECT-Abfragen": "Anwendungsentwicklung"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_LF1_Wiederholung.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/LF1_DaWarDochNochWas_1_18Sep26.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-23",
+        "primary_topic": "Datenbankgrundlagen und Datenbankentwicklung",
+        "secondary_topics": [
+          "SQL-Grundlagen und SELECT-Abfragen"
+        ],
+        "recommended_topics": [
+          "Datenbankgrundlagen und Datenbankentwicklung",
+          "SQL-Grundlagen und SELECT-Abfragen"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "missing",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    }
+  ]
+}
