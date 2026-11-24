@@ -53,20 +53,21 @@
     ]
   },
   "totals": {
-    "files": 733,
+    "files": 741,
     "by_extension": {
       "canvas": 1,
       "css": 2,
       "js": 2,
       "json": 52,
-      "md": 605,
+      "md": 610,
       "none": 1,
       "pdf": 56,
-      "rb": 11,
-      "swift": 3
+      "rb": 13,
+      "swift": 3,
+      "zip": 1
     },
     "by_role": {
-      "agent_customization": 1,
+      "agent_customization": 8,
       "copilot_prompt": 16,
       "curated_topic": 137,
       "duplicate_pdf": 3,
@@ -79,7 +80,7 @@
       "generated_vault_index": 1,
       "import_inbox": 1,
       "legacy_topic": 30,
-      "maintenance_tool": 14,
+      "maintenance_tool": 15,
       "navigation_index": 10,
       "obsidian_configuration": 14,
       "original_pdf": 52,
@@ -98,12 +99,68 @@
     "by_ai_use": {
       "excluded": 383,
       "navigation": 95,
-      "operational": 15,
+      "operational": 23,
       "primary": 188,
       "verify_only": 52
     }
   },
   "files": [
+    {
+      "path": ".agents/skills/ap-lerncoach.zip",
+      "extension": "zip",
+      "bytes": 21896,
+      "role": "agent_customization",
+      "ai_use": "operational",
+      "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
+    },
+    {
+      "path": ".agents/skills/ap-lerncoach/SKILL.md",
+      "extension": "md",
+      "bytes": 16623,
+      "role": "agent_customization",
+      "ai_use": "operational",
+      "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
+    },
+    {
+      "path": ".agents/skills/ap-lerncoach/references/antwort-layouts.md",
+      "extension": "md",
+      "bytes": 7090,
+      "role": "agent_customization",
+      "ai_use": "operational",
+      "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
+    },
+    {
+      "path": ".agents/skills/ap-lerncoach/references/gemini-gem-prompt.md",
+      "extension": "md",
+      "bytes": 6219,
+      "role": "agent_customization",
+      "ai_use": "operational",
+      "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
+    },
+    {
+      "path": ".agents/skills/ap-lerncoach/references/ihk-operatoren-und-pruefung.md",
+      "extension": "md",
+      "bytes": 4716,
+      "role": "agent_customization",
+      "ai_use": "operational",
+      "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
+    },
+    {
+      "path": ".agents/skills/ap-lerncoach/references/lernmethoden-evidenz.md",
+      "extension": "md",
+      "bytes": 8952,
+      "role": "agent_customization",
+      "ai_use": "operational",
+      "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
+    },
+    {
+      "path": ".agents/skills/ap-lerncoach/scripts/vault_lookup.rb",
+      "extension": "rb",
+      "bytes": 27271,
+      "role": "agent_customization",
+      "ai_use": "operational",
+      "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
+    },
     {
       "path": ".agents/skills/goodnotes-import/SKILL.md",
       "extension": "md",
@@ -227,7 +284,7 @@
     {
       "path": ".obsidian/workspace.json",
       "extension": "json",
-      "bytes": 8415,
+      "bytes": 8400,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -874,6 +931,14 @@
       "path": "01_Index/Tools/compile_pdf_page_audit.rb",
       "extension": "rb",
       "bytes": 17656,
+      "role": "maintenance_tool",
+      "ai_use": "operational",
+      "reason": "Lokales Prüf- oder Wartungswerkzeug"
+    },
+    {
+      "path": "01_Index/Tools/export_gemini_bundle.rb",
+      "extension": "rb",
+      "bytes": 12823,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
