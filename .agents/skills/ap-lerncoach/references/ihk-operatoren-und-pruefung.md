@@ -32,9 +32,13 @@ Alle 137 visuell geprüften Themen liegen unter `03_Themen/Visuell_geprueft/` in
 
 ---
 
-## 3. Nutzung von Planungs- und Übungsdateien im Vault
+## 3. Aktuelle Prüfungsphase & Nutzung der Planungsdateien im Vault
 
-- **AP1-Rahmen & Lernziele:** [[04_Pruefung/AP1/00_AP1_Lernmatrix]] (Orientierung, welche Kompetenzbereiche zu AP1 gehören).
+- **Aktuelle Lernphase: Fokus `AP1` (später folgt `AP2 FIAE`):**
+  - Solange der Nutzer für die **AP1** lernt, bei offenen Prüfungsdrills, Simulationen und Lernplänen **AP1-Themen priorisieren**.
+  - Fragt der Nutzer gezielt ein reines **AP2- oder Berufsschul-Thema** an (z. B. SQL, ER-Modell, tiefe Java-OOP, RAID, Sozialversicherung), normal und gründlich coachen (wichtig für Berufsschul-Klausuren & spätere AP2!), aber kurz transparent einordnen: *„Für Berufsschule & spätere AP2 wichtig – in der AP1 (ab Katalog 2025) nicht mehr Schwerpunkt.“*
+- **AP1-Prüfungskatalog & Themen-Checkliste (2. Auflage ab 2025/2026, IHK Bayern / bundeseinheitlich AkA):** [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste]] (verbindliche Orientierung, was in der AP1 drankommt, was ab 2025 neu ist – z. B. KI, IPv6, Domäne, UML-Aktivitätsdiagramm, BPMN, Scrum, 2FA – und was in die AP2 verschoben wurde – z. B. SQL, Struktogramm/PAP, RAID).
+- **AP1-Rahmen & Lernziele:** [[04_Pruefung/AP1/00_AP1_Lernmatrix]] (Orientierung über die Handlungsbereiche).
 - **AP2-Ausbau:** [[04_Pruefung/AP2/00_AP2_Ausbauplan]].
 - **Prüfungsroutine:** [[04_Pruefung/Pruefungsmodus]].
 - **Quellenübersicht:** [[01_Index/Quellenmatrix]].

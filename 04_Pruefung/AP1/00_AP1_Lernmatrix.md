@@ -4,8 +4,9 @@ pruefung: AP1
 ---
 # AP1 Lernmatrix: Einrichten eines IT-gestützten Arbeitsplatzes
 
-> [!ap1] Offizieller Rahmen
-> AP1 zählt als gemeinsamer Teil 1 der IT-Berufe 20 % und wird im Prüfungsbereich **Einrichten eines IT-gestützten Arbeitsplatzes** geschrieben. Die öffentliche Detailbeschreibung steht in den offiziellen BIBB-/IHK-Informationen.
+> [!ap1] Offizieller Rahmen & vollständiger Prüfungskatalog (2. Auflage ab 2025/2026)
+> AP1 zählt als gemeinsamer Teil 1 aller IT-Berufe **20 %** (90 Min., 100 Punkte, bundeseinheitlich inkl. Bayern) und wird im Prüfungsbereich **Einrichten eines IT-gestützten Arbeitsplatzes** geschrieben.
+> 👉 **Vollständiger Stoffkatalog, Änderungen ab 2025/2026 & Themen-Checkliste:** [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|01_AP1_IHK_Pruefungskatalog_und_Checkliste]]
 
 ## Kompetenzen und Vault-Abdeckung
 
