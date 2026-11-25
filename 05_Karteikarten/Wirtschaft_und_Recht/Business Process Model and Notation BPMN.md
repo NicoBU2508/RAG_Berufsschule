@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Business Process Model and Notation BPMN"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP1/AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Business Process Model and Notation BPMN.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -22,7 +23,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/business-process-model-and-notation-bpmn
 ---
-
 # 🗂️ Karteikarten: Business Process Model and Notation BPMN
 
 > [!tip] Quellenbasis

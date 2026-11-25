@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Geschäftsbrief"
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Geschäftsbrief.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -26,7 +27,6 @@ tags:
   - karteikarten
   - flashcards/deutsch-englisch-kommunikation/geschaeftsbrief
 ---
-
 # 🗂️ Karteikarten: Geschäftsbrief
 
 > [!tip] Quellenbasis
@@ -34,7 +34,7 @@ tags:
 
 ---
 
-<!-- card-id: geschaeftsbrief-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: geschaeftsbrief-01 | typ: definition | pruefung: AP1 -->
 **Welche Bestandteile gehören nach DIN 5008 zu einem Geschäftsbrief?**
 ?
 Firmenlogo und Absenderadresse, Empfängeradresse, Infoblock (Zeichen, Ansprechpartner, Telefon, E-Mail, Datum), Betreffzeile, Anrede, Inhalt, Grußformel, Firmenname und Unterschrift sowie ggf. PS, Anlagevermerk, Geschäftsangaben und Seitennummerierung.
@@ -42,7 +42,7 @@ Firmenlogo und Absenderadresse, Empfängeradresse, Infoblock (Zeichen, Ansprechp
 
 ---
 
-<!-- card-id: geschaeftsbrief-02 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: geschaeftsbrief-02 | typ: pruefungsfalle | pruefung: AP1 -->
 **Welche formalen Regeln gelten für Betreffzeile, Absatzgliederung und Geschäftsangaben im Geschäftsbrief?**
 ?
 Die Betreffzeile steht ohne das Wort „Betreff“ (ggf. mit Aktenzeichen, Referenz- oder Rechnungsnummer). Nach jedem Absatz folgt eine Leerzeile, und in den Geschäftsangaben stehen Pflichtinformationen wie Geschäftsführung, Handelsregister und Bankverbindung (IBAN/BIC).
@@ -50,7 +50,7 @@ Die Betreffzeile steht ohne das Wort „Betreff“ (ggf. mit Aktenzeichen, Refer
 
 ---
 
-<!-- card-id: geschaeftsbrief-03 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: geschaeftsbrief-03 | typ: anwendung | pruefung: AP1 -->
 **Wie ist der Brieftext einer geschäftlichen Anfrage sinnvoll aufgebaut?**
 ?
 - **Einleitung**: Quelle (woher kennt man die Firma) und kurze Vorstellung des eigenen Unternehmens.
@@ -60,7 +60,7 @@ Die Betreffzeile steht ohne das Wort „Betreff“ (ggf. mit Aktenzeichen, Refer
 
 ---
 
-<!-- card-id: geschaeftsbrief-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: geschaeftsbrief-04 | typ: pruefungsfalle | pruefung: AP1 -->
 **Worauf muss man bei Anrede, Höflichkeitsform und Stil in Geschäftsbriefen und -mails achten?**
 ?
 Man bleibt sachlich, drückt sich klar und deutlich aus und nennt den Namen in der Anrede, falls bekannt. Bei direkter Ansprache des Gegenübers werden die Höflichkeitsformen *Sie, Ihnen, Ihr, Ihre* immer großgeschrieben.
@@ -68,7 +68,7 @@ Man bleibt sachlich, drückt sich klar und deutlich aus und nennt den Namen in d
 
 ---
 
-<!-- card-id: geschaeftsbrief-05 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: geschaeftsbrief-05 | typ: abgrenzung | pruefung: AP1 -->
 **Welche Vor- und Nachteile hat die Geschäftsmail gegenüber dem klassischen Geschäftsbrief?**
 ?
 - **Vorteile**: hohe Geschwindigkeit, Kostenersparnis, Durchsuchbarkeit, einfacher Versand von Anhängen/Dateien.
@@ -77,7 +77,7 @@ Man bleibt sachlich, drückt sich klar und deutlich aus und nennt den Namen in d
 
 ---
 
-<!-- card-id: geschaeftsbrief-06 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: geschaeftsbrief-06 | typ: definition | pruefung: AP1 -->
 **Wie ist eine seriöse E-Mail-Adresse (`benutzername@domain.tld`) aufgebaut?**
 ?
 - **Lokalteil**: individueller, seriöser und eindeutiger Name bzw. Postfachkennung (z. B. `vorname.nachname`), getrennt durch `@`.

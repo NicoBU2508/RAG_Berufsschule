@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Totalitäre Systeme und Diktatur"
 kategorie: Wirtschaft_und_Recht
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -19,7 +20,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/totalitaere-systeme-und-diktatur
 ---
-
 # 🗂️ Karteikarten: Totalitäre Systeme und Diktatur
 
 > [!tip] Quellenbasis
@@ -27,7 +27,7 @@ tags:
 
 ---
 
-<!-- card-id: totalitaere-systeme-und-diktatur-01 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: totalitaere-systeme-und-diktatur-01 | typ: anwendung | pruefung: BS -->
 **Welche rechtlichen und politischen Schritte führten 1933 zur Errichtung der NS-Diktatur durch Adolf Hitler?**
 ?
 Nach der Ernennung zum Reichskanzler (**30.01.1933**) folgten die **Auflösung des Parlaments** durch Hindenburg (01.02.), die **Einschränkung der Presse- und Versammlungsfreiheit** (04.02.), die **Reichstagsbrandverordnung** (28.02., Grundrechte außer Kraft) und das **Ermächtigungsgesetz** (Regierung erlässt Gesetze ohne Parlament). Anschließend wurden **Länderparlamente aufgelöst**, politische Gegner ab April 1933 in KZs verhaftet und alle anderen Parteien verboten (**Einparteienstaat**).
@@ -35,7 +35,7 @@ Nach der Ernennung zum Reichskanzler (**30.01.1933**) folgten die **Auflösung d
 
 ---
 
-<!-- card-id: totalitaere-systeme-und-diktatur-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: totalitaere-systeme-und-diktatur-02 | typ: abgrenzung | pruefung: BS -->
 **Wodurch unterscheiden sich Demokratie (Grundgesetz) und Diktatur (NS-Drittes Reich 1933–1945) bei Machterwerb, Herrschaftsausübung und Rechten?**
 ?
 - **Demokratie (GG):** **Freie Wahlen**, **Volkssouveränität**, **Gewaltenteilung** sowie geschützte Grundrechte (z. B. Art. 1 Menschenwürde, Art. 2 Freiheit der Person, Art. 3 Gleichheit, Art. 4 Glaubens-, Art. 5 Meinungs-, Art. 9 Vereinigungsfreiheit).
@@ -44,7 +44,7 @@ Nach der Ernennung zum Reichskanzler (**30.01.1933**) folgten die **Auflösung d
 
 ---
 
-<!-- card-id: totalitaere-systeme-und-diktatur-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: totalitaere-systeme-und-diktatur-03 | typ: pruefungsfalle | pruefung: BS -->
 **Warum war die DDR trotz formaler „Volksdemokratie“ und weiterer Parteien eine Parteidiktatur?**
 ?
 Die politische Macht lag **de facto allein bei der SED** (Ideologie: Kommunismus/Sozialismus). Andere Parteien existierten **nur formal** in der **Nationalen Front** (Scheinpluralismus auf dem Papier), und es gab **keine Gewaltenteilung**: Staatliche Organe wie **Volkskammer, Ministerrat und Staatsrat** waren eng mit der SED verflochten.
@@ -52,7 +52,7 @@ Die politische Macht lag **de facto allein bei der SED** (Ideologie: Kommunismus
 
 ---
 
-<!-- card-id: totalitaere-systeme-und-diktatur-04 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: totalitaere-systeme-und-diktatur-04 | typ: definition | pruefung: BS -->
 **Welche zentralen Eckdaten (1949–1989) und Fluchtgründe kennzeichnen die DDR laut Mitschrift?**
 ?
 **1949** Gründung aus der sowjetischen Besatzungszone (18,8 Mio. Einwohner → 1961: 17,1 Mio. → 1989: 16,4 Mio.), **17. Juni 1953** Volksaufstand, **13. August 1961** Mauerbau; insgesamt flohen ca. **3,8 Mio. Menschen** (dabei mindestens ca. 140 „Mauertote“). Zentrale Fluchtgründe waren **fehlende Freiheit, politische Verfolgung, Reiseverbote** und der Wunsch nach einem **selbstbestimmten Leben**.
@@ -60,7 +60,7 @@ Die politische Macht lag **de facto allein bei der SED** (Ideologie: Kommunismus
 
 ---
 
-<!-- card-id: totalitaere-systeme-und-diktatur-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: totalitaere-systeme-und-diktatur-05 | typ: anwendung | pruefung: BS -->
 **Wie sicherte die DDR ihre Grenze gegen Fluchtversuche und welche historischen Beispiele belegen die Folgen?**
 ?
 Die Grenze war mit **Zäunen, Minen, Wachtürmen, Grenzsoldaten** und **Selbstschussanlagen (SM-70)** gesichert. Beispiele: **Peter Fechter (1962)** verblutete angeschossen im Todesstreifen (weltweite Empörung); **Michael Gartenschläger (1976)** baute nach seiner Freilassung als Beweis zwei SM-70 ab und wurde vom Stasi-Spezialkommando erschossen; geglückte Fluchten waren u. a. die **Ballonflucht** (1979, Familien Strelzyk und Wetzel), **Wolfgang Engels** (1963, NVA-Schützenpanzer) und **Peter Döbler** (1971, über 45 km Ostsee).

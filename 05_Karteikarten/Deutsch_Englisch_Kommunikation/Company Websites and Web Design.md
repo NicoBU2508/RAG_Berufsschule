@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Company Websites and Web Design"
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Company Websites and Web Design.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -16,7 +17,6 @@ tags:
   - karteikarten
   - flashcards/deutsch-englisch-kommunikation/company-websites-and-web-design
 ---
-
 # 🗂️ Karteikarten: Company Websites and Web Design
 
 > [!tip] Quellenbasis
@@ -24,7 +24,7 @@ tags:
 
 ---
 
-<!-- card-id: company-websites-and-web-design-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: company-websites-and-web-design-01 | typ: definition | pruefung: BS -->
 **Welche englischen Fachbegriffe für technische Unternehmensbereiche stehen für „Schaltanlagenbau“, „Notstromsysteme“ und „Technische Gebäudeausrüstung“?**
 ?
 - **Schaltanlagenbau**: *Switchgear manufacture*
@@ -34,7 +34,7 @@ tags:
 
 ---
 
-<!-- card-id: company-websites-and-web-design-02 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: company-websites-and-web-design-02 | typ: anwendung | pruefung: BS -->
 **Wie wird das Leistungsversprechen im Bereich *Project development* auf einer englischen Unternehmenswebsite formuliert, und welche Bedeutung hat dabei *price*?**
 ?
 *„Come to us with your ideas and let our experts plan, **price** and implement them for you.“*
@@ -43,7 +43,7 @@ Als Verb bedeutet *to price* hier **kalkulieren / mit einem Preis versehen** (ni
 
 ---
 
-<!-- card-id: company-websites-and-web-design-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: company-websites-and-web-design-03 | typ: abgrenzung | pruefung: BS -->
 **Wie unterscheiden sich *power outage* und *fail-safe switching system* auf Unternehmenswebsites für Energietechnik?**
 ?
 - **power outage**: Stromausfall (*can bring production to a standstill and put human life at risk*)
@@ -52,7 +52,7 @@ Als Verb bedeutet *to price* hier **kalkulieren / mit einem Preis versehen** (ni
 
 ---
 
-<!-- card-id: company-websites-and-web-design-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: company-websites-and-web-design-04 | typ: pruefungsfalle | pruefung: BS -->
 **Welche Fachbegriffe kennzeichnen auf einer Unternehmenswebsite die Bereiche *Mechatronics* und *Transformer installation*?**
 ?
 - **Mechatronics**: Verknüpfung von *computer technology* mit *electronic, electrical and **mechanical** engineering*

@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Personalwirtschaft und Personalentwicklung"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Personalwirtschaft und Personalentwicklung.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -17,7 +18,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/personalwirtschaft-und-personalentwicklung
 ---
-
 # 🗂️ Karteikarten: Personalwirtschaft und Personalentwicklung
 
 > [!tip] Quellenbasis
@@ -25,7 +25,7 @@ tags:
 
 ---
 
-<!-- card-id: personalwirtschaft-und-personalentwicklung-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: personalwirtschaft-und-personalentwicklung-01 | typ: definition | pruefung: AP2 -->
 **Welche vier übergeordneten Bereiche steuern die Personalwirtschaft und welche Aufgabe hat jeder Bereich?**
 ?
 - **Personalpolitik:** Alle Maßnahmen der Geschäftsleitung zu Personalführung und -behandlung.
@@ -36,7 +36,7 @@ tags:
 
 ---
 
-<!-- card-id: personalwirtschaft-und-personalentwicklung-02 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: personalwirtschaft-und-personalentwicklung-02 | typ: definition | pruefung: AP2 -->
 **Welche sieben Einzelaufgaben gehören zur Personalwirtschaft?**
 ?
 1. Personalbedarfsermittlung · 2. Personalbeschaffung (Anwerbung, Auswahl, Einstellung) · 3. Personaleinsatz (Stellenbeschreibung, Einweisung, Arbeitszeit-/Urlaubsregelung, Umsetzungen) · 4. Personalentwicklung (Aus-, Fort- und Weiterbildung, Beurteilung) · 5. Personalbetreuung/Sozialwesen · 6. Arbeitsbewertung und Entlohnung · 7. Personalfreistellung.
@@ -44,7 +44,7 @@ tags:
 
 ---
 
-<!-- card-id: personalwirtschaft-und-personalentwicklung-03 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: personalwirtschaft-und-personalentwicklung-03 | typ: anwendung | pruefung: AP2 -->
 **Worüber gibt eine Stellenbeschreibung Auskunft und wofür wird sie vor allem benötigt?**
 ?
 Sie informiert über Position, Haupttätigkeiten, Verantwortung, Entscheidungsbefugnis (= Kompetenz) und Qualifikationsanforderungen. Sie schafft Klarheit über den Stelleninhalt – wichtig vor allem bei Neubesetzungen (Beförderung oder Neueinstellung).
@@ -52,7 +52,7 @@ Sie informiert über Position, Haupttätigkeiten, Verantwortung, Entscheidungsbe
 
 ---
 
-<!-- card-id: personalwirtschaft-und-personalentwicklung-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: personalwirtschaft-und-personalentwicklung-04 | typ: abgrenzung | pruefung: AP2 -->
 **Wie grenzen sich Fortbildung und Weiterbildung rechtlich und inhaltlich voneinander ab?**
 ?
 - **Fortbildung:** Gezielte Weiterqualifizierung mit Bezug auf den derzeit ausgeübten Beruf (Zweck im BBiG festgelegt; Kosten meist vom Arbeitgeber, teils BAföG/Förderung).
@@ -61,7 +61,7 @@ Sie informiert über Position, Haupttätigkeiten, Verantwortung, Entscheidungsbe
 
 ---
 
-<!-- card-id: personalwirtschaft-und-personalentwicklung-05 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: personalwirtschaft-und-personalentwicklung-05 | typ: definition | pruefung: AP2 -->
 **Welche vier Fortbildungsarten unterscheidet man nach dem Berufsbildungsgesetz?**
 ?
 - **Erhaltungsfortbildung:** Vorhandenes Wissen auffrischen (z. B. Qualität sichern).
@@ -72,7 +72,7 @@ Sie informiert über Position, Haupttätigkeiten, Verantwortung, Entscheidungsbe
 
 ---
 
-<!-- card-id: personalwirtschaft-und-personalentwicklung-06 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: personalwirtschaft-und-personalentwicklung-06 | typ: pruefungsfalle | pruefung: AP2 -->
 **Ein Mitarbeiter besucht einen allgemeinbildenden Kurs bzw. möchte einen ganz neuen Beruf erlernen – handelt es sich um eine Fort- oder Weiterbildung?**
 ?
 Es handelt sich um eine **Weiterbildung**, da kein konkreter betrieblicher Zweck im vorhandenen Beruf verfolgt wird (im Gegensatz zur Fortbildung, die innerhalb des bestehenden Berufs neue Betätigungsfelder oder höheren Verdienst ermöglicht).

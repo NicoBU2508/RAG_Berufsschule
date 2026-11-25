@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: OSI-Schichtenmodell
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP1"
 thema_quelle: 03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/OSI-Schichtenmodell.md
 stand_karten: '2026-11-24'
 stand_quelle: '2026-11-24'
@@ -49,7 +50,7 @@ tags:
 
 ---
 
-<!-- card-id: osi-schichtenmodell-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: osi-schichtenmodell-01 | typ: definition | pruefung: AP1 -->
 **Wie heißen die 7 Schichten des OSI-Modells (von 7 nach 1), und welche PDUs gehören zu den Schichten 1–4?**
 ?
 7. Anwendungsschicht (Application) · 6. Darstellungsschicht (Presentation) · 5. Sitzungsschicht (Session) *(5–7: Data)*
@@ -61,7 +62,7 @@ tags:
 
 ---
 
-<!-- card-id: osi-schichtenmodell-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: osi-schichtenmodell-02 | typ: abgrenzung | pruefung: AP1 -->
 **Wie werden die 7 OSI-Schichten auf die 4 Schichten des DoD-Modells (TCP/IP) sowie auf Media- und Host-Layer abgebildet?**
 ?
 - **DoD-Modell:** OSI 5–7 → Anwendungsschicht (Process) · OSI 4 → Host-to-Host · OSI 3 → Internet · OSI 1–2 → Netzzugangsschicht (Network).
@@ -70,7 +71,7 @@ tags:
 
 ---
 
-<!-- card-id: osi-schichtenmodell-03 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: osi-schichtenmodell-03 | typ: definition | pruefung: AP1 -->
 **Was bedeutet Data Encapsulation (Datenkapselung) im OSI-Modell, und in welcher Reihenfolge läuft sie bei Sender und Empfänger ab?**
 ?
 Beim Sender durchlaufen die Daten die Schichten **7 → 1**; jedes Protokoll hängt seine eigenen Steuerinfos als **Header** vorne (und ggf. **Trailer** hinten) an die für es unverständliche **SDU** an (zusammen **PDU**). Beim Empfänger werden die Schichten umgekehrt von **1 → 7** wieder entpackt.
@@ -78,7 +79,7 @@ Beim Sender durchlaufen die Daten die Schichten **7 → 1**; jedes Protokoll hä
 
 ---
 
-<!-- card-id: osi-schichtenmodell-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: osi-schichtenmodell-04 | typ: anwendung | pruefung: AP1 -->
 **Welche Netzwerkgeräte und Adressierungstypen arbeiten auf den OSI-Schichten 1, 2 und 3?**
 ?
 - **Schicht 1 (Physical):** Hub, Kabel (Bits & elektrische/optische Signale)
@@ -88,7 +89,7 @@ Beim Sender durchlaufen die Daten die Schichten **7 → 1**; jedes Protokoll hä
 
 ---
 
-<!-- card-id: osi-schichtenmodell-05 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: osi-schichtenmodell-05 | typ: abgrenzung | pruefung: AP1 -->
 **Wie unterscheiden sich TCP und UDP auf OSI-Schicht 4, und welche typischen Anwendungsschicht-Ports sollte man kennen?**
 ?
 - **TCP:** Verbindungsorientiert und zuverlässig (3-Wege-Handshake, Empfangsbestätigung). **UDP:** Verbindungslos und unzuverlässig (z. B. Streaming, Broadcast/Multicast).
@@ -97,7 +98,7 @@ Beim Sender durchlaufen die Daten die Schichten **7 → 1**; jedes Protokoll hä
 
 ---
 
-<!-- card-id: osi-schichtenmodell-06 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: osi-schichtenmodell-06 | typ: definition | pruefung: AP1 -->
 **Wie ist ein Ethernet-II-Frame aufgebaut (Felder und Byte-Größen)?**
 ?
 Präambel (**7 B**) + SFD (**1 B**) + Empfänger-MAC (**6 B**) + Absender-MAC (**6 B**) + EtherType (**2 B**) + Payload/Daten (**46–1500 B**) + CRC/FCS-Prüfsumme (**4 B**). *(Im reinen Hexdump ohne Präambel/SFD: 14 B Header + Payload + 4 B FCS.)*
@@ -105,7 +106,7 @@ Präambel (**7 B**) + SFD (**1 B**) + Empfänger-MAC (**6 B**) + Absender-MAC (*
 
 ---
 
-<!-- card-id: osi-schichtenmodell-07 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: osi-schichtenmodell-07 | typ: pruefungsfalle | pruefung: AP1 -->
 **Warum sind Länge und Bit-Belegung eines Protokoll-Headers unveränderbar festgeschrieben, und was passiert mit „Schicht 8“ (z. B. Word/Firefox)?**
 ?
 - **Fester Header:** Jede Schicht versteht nur ihren eigenen Header und muss exakt wissen, an welchem Byte-Offset welches Feld steht (nur der Datenbereich ist variabel).
@@ -114,7 +115,7 @@ Präambel (**7 B**) + SFD (**1 B**) + Empfänger-MAC (**6 B**) + Absender-MAC (*
 
 ---
 
-<!-- card-id: osi-schichtenmodell-08 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: osi-schichtenmodell-08 | typ: definition | pruefung: AP1 -->
 **Welche Bedeutung haben die DNS-Record-Typen A, AAAA, NS, CNAME und MX, und wofür nutzt man den Befehl `nslookup`?**
 ?
 - **A / AAAA:** Ordnen einem Domainnamen eine **IPv4-** (`A`) bzw. **IPv6-Adresse** (`AAAA`) zu.
@@ -126,7 +127,7 @@ Präambel (**7 B**) + SFD (**1 B**) + Empfänger-MAC (**6 B**) + Absender-MAC (*
 
 ---
 
-<!-- card-id: osi-schichtenmodell-09 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: osi-schichtenmodell-09 | typ: anwendung | pruefung: AP1 -->
 **Wie läuft der DHCP-Prozess (DORA) beim Einschalten eines Client-PCs ab, und welche Parameter weist der DHCP-Server zu?**
 ?
 1. **DHCPDISCOVER** (Client → Server, Broadcast): Suche nach einem DHCP-Server.
@@ -138,7 +139,7 @@ Präambel (**7 B**) + SFD (**1 B**) + Empfänger-MAC (**6 B**) + Absender-MAC (*
 
 ---
 
-<!-- card-id: osi-schichtenmodell-10 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: osi-schichtenmodell-10 | typ: abgrenzung | pruefung: AP1 -->
 **Wie arbeiten MUA, MTA und MDA bei E-Mails zusammen, und wie unterscheiden sich SMTP, POP3 und IMAP4?**
 ?
 - **MUA** (Mail User Agent): E-Mail-Client · **MTA** (Mail Transfer Agent): Mailserver-Dienst zur Weiterleitung · **MDA** (Mail Delivery Agent): Zustellung ins Benutzerpostfach.
@@ -149,7 +150,7 @@ Präambel (**7 B**) + SFD (**1 B**) + Empfänger-MAC (**6 B**) + Absender-MAC (*
 
 ---
 
-<!-- card-id: osi-schichtenmodell-11 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: osi-schichtenmodell-11 | typ: abgrenzung | pruefung: AP1 -->
 **Welche Verbesserungen führt HTTP/2 ein, und wie unterscheiden sich SFTP, FTPS sowie SMB/CIFS?**
 ?
 - **HTTP/2:** Binäres Protokoll, **Multiplexing** (mehrere Anfragen/Antworten gleichzeitig über eine TCP-Verbindung ohne HTTP-Head-of-Line-Blocking), **HPACK**-Header-Komprimierung, **Server Push** und Stream-Priorisierung.

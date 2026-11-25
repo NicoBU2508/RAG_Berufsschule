@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Spannung, Strom und Widerstand"
 kategorie: Elektrotechnik
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/Elektrotechnik/Spannung Strom und Widerstand.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -22,7 +23,6 @@ tags:
   - karteikarten
   - flashcards/elektrotechnik/spannung-strom-und-widerstand
 ---
-
 # 🗂️ Karteikarten: Spannung, Strom und Widerstand
 
 > [!tip] Quellenbasis
@@ -30,7 +30,7 @@ tags:
 
 ---
 
-<!-- card-id: spannung-strom-und-widerstand-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: spannung-strom-und-widerstand-01 | typ: definition | pruefung: AP1 -->
 **Mit welchen Formelzeichen, Einheiten und Analogien werden Spannung, Strom und elektrischer Widerstand beschrieben?**
 ?
 Spannung: Formelzeichen $U$, Einheit V (Volt), Analogie Druck; Strom: Formelzeichen $I$, Einheit A (Ampere), Analogie Durchfluss (l/min); Widerstand: Formelzeichen $R$, Einheit Ω (Ohm).
@@ -38,7 +38,7 @@ Spannung: Formelzeichen $U$, Einheit V (Volt), Analogie Druck; Strom: Formelzeic
 
 ---
 
-<!-- card-id: spannung-strom-und-widerstand-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: spannung-strom-und-widerstand-02 | typ: abgrenzung | pruefung: AP1 -->
 **Worin unterscheidet sich das elektrische Potenzial φ von der elektrischen Spannung U?**
 ?
 Das Potenzial $\varphi$ beschreibt den elektrischen Zustand an einem Punkt bezogen auf ein festgelegtes Bezugspotenzial $\varphi_0$, während die Spannung $U_{AB} = \varphi_A - \varphi_B$ die Potenzialdifferenz zwischen zwei Punkten angibt.
@@ -46,7 +46,7 @@ Das Potenzial $\varphi$ beschreibt den elektrischen Zustand an einem Punkt bezog
 
 ---
 
-<!-- card-id: spannung-strom-und-widerstand-03 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: spannung-strom-und-widerstand-03 | typ: anwendung | pruefung: AP1 -->
 **In welchen vier Schritten bestimmt man Spannungen zwischen verschiedenen Punkten einer Spannungsquellen-Kette?**
 ?
 1. Bezugspotenzial $\varphi_0$ festlegen, 2. alle weiteren Potenziale bestimmen, 3. Spannungen über die Indizes der Potenziale bezeichnen, 4. Spannungen als Potenzialdifferenzen berechnen.
@@ -54,7 +54,7 @@ Das Potenzial $\varphi$ beschreibt den elektrischen Zustand an einem Punkt bezog
 
 ---
 
-<!-- card-id: spannung-strom-und-widerstand-04 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: spannung-strom-und-widerstand-04 | typ: definition | pruefung: AP1 -->
 **Welche sechs Prinzipien der Spannungserzeugung (Ladungstrennung) gibt es und welche technischen Umsetzer gehören jeweils dazu?**
 ?
 Induktion (Generator), chemische Wirkung (Galvanisches Element), Wärme (Thermoelement), Licht (Fotoelement), Kristallverformung (Piezo-Kristalle) sowie Reibung (elektrostatische Aufladung).
@@ -62,7 +62,7 @@ Induktion (Generator), chemische Wirkung (Galvanisches Element), Wärme (Thermoe
 
 ---
 
-<!-- card-id: spannung-strom-und-widerstand-05 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: spannung-strom-und-widerstand-05 | typ: abgrenzung | pruefung: AP1 -->
 **Wofür stehen AC und DC und welche gebräuchlichen Spannungswerte treten im IT- und Netzbereich auf?**
 ?
 **AC** (*Alternating Current*) ist Wechselspannung (z. B. Niederspannungsnetz 230 V / 400 V, Netzebenen 1 kV–380 kV); **DC** (*Direct Current*) ist Gleichspannung (z. B. Batterien 1,5 V–9 V, Kfz-Batterie 12 V, PC-Netzteil-Ausgänge 3,3 V / 5 V / 12 V).
@@ -70,7 +70,7 @@ Induktion (Generator), chemische Wirkung (Galvanisches Element), Wärme (Thermoe
 
 ---
 
-<!-- card-id: spannung-strom-und-widerstand-06 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: spannung-strom-und-widerstand-06 | typ: pruefungsfalle | pruefung: AP1 -->
 **Warum kann bei der Berechnung von Potenzialdifferenzen (z. B. U₀₁ oder U₄₅) ein negatives Vorzeichen auftreten?**
 ?
 Die Spannung hängt von der gewählten Bezugsrichtung ab ($U_{AB} = \varphi_A - \varphi_B$). Liegt $\varphi_A$ unter $\varphi_B$ bzw. zeigt der Spannungspfeil entgegen der höheren Potenzialrichtung, wird der Wert negativ.

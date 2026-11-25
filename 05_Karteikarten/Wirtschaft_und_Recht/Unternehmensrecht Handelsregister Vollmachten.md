@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Unternehmensrecht Handelsregister Vollmachten"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Unternehmensrecht Handelsregister Vollmachten.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -27,7 +28,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/unternehmensrecht-handelsregister-vollmachten
 ---
-
 # 🗂️ Karteikarten: Unternehmensrecht Handelsregister Vollmachten
 
 > [!tip] Quellenbasis
@@ -35,7 +35,7 @@ tags:
 
 ---
 
-<!-- card-id: unternehmensrecht-handelsregister-vollmachten-01 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmensrecht-handelsregister-vollmachten-01 | typ: abgrenzung | pruefung: AP2 -->
 **Wie unterscheiden sich Istkaufmann (§ 1 HGB), Kannkaufmann (§§ 2, 3 HGB) und Formkaufmann (§ 6 HGB)?**
 ?
 - **Istkaufmann (§ 1 HGB):** betreibt ein Handelsgewerbe (erfordert in kaufmännischer Weise eingerichteten Geschäftsbetrieb); Kaufmann bereits ab Betriebsaufnahme, HR-Eintragung ist **deklaratorisch** (Eintragungspflicht).
@@ -44,7 +44,7 @@ tags:
 *Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 38–39 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 ---
 
-<!-- card-id: unternehmensrecht-handelsregister-vollmachten-02 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmensrecht-handelsregister-vollmachten-02 | typ: pruefungsfalle | pruefung: AP2 -->
 **Warum sind Freiberufler (z. B. Ärzte, Steuerberater, freiberufliche Softwareentwickler) grundsätzlich keine Kaufleute im Sinne des HGB?**
 ?
 Freiberufler üben eine selbstständige wissenschaftliche, künstlerische, schriftstellerische, unterrichtende oder erzieherische Tätigkeit aus (§ 18 EStG) und betreiben kein Handelsgewerbe – sie sind **Nicht-Kaufleute** ohne HR-Eintragung.
@@ -52,7 +52,7 @@ Ausnahme: Schließen sie sich in einer Kapitalgesellschaft (z. B. GmbH, AG) zusa
 *Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 38–40 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 ---
 
-<!-- card-id: unternehmensrecht-handelsregister-vollmachten-03 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmensrecht-handelsregister-vollmachten-03 | typ: definition | pruefung: AP2 -->
 **Welche Bedeutung haben die fünf Firmengrundsätze des HGB (§§ 18, 21 f., 29, 30 HGB)?**
 ?
 - **Firmenwahrheit und -klarheit (§ 18):** keine irreführenden Firmennamen, mit Rechtsformzusatz.
@@ -62,7 +62,7 @@ Ausnahme: Schließen sie sich in einer Kapitalgesellschaft (z. B. GmbH, AG) zusa
 *Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 41–42 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 ---
 
-<!-- card-id: unternehmensrecht-handelsregister-vollmachten-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmensrecht-handelsregister-vollmachten-04 | typ: abgrenzung | pruefung: AP2 -->
 **Welche Rechtsformen werden in Abteilung A und welche in Abteilung B des Handelsregisters eingetragen?**
 ?
 - **Abteilung A:** Einzelunternehmen (`e. K.`) und Personengesellschaften (`OHG`, `KG`, `GmbH & Co. KG`) mit Firma, Sitz, Inhaber bzw. persönlich haftenden Gesellschaftern, Prokura und bei der KG den Einlagen der Teilhafter.
@@ -70,7 +70,7 @@ Ausnahme: Schließen sie sich in einer Kapitalgesellschaft (z. B. GmbH, AG) zusa
 *Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 44 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 ---
 
-<!-- card-id: unternehmensrecht-handelsregister-vollmachten-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmensrecht-handelsregister-vollmachten-05 | typ: anwendung | pruefung: AP2 -->
 **Welche Rechtsfolgen hat die Publizität des Handelsregisters nach § 15 HGB („öffentlicher Glaube“)?**
 ?
 - **§ 15 Abs. 1 (negative Publizität):** Eine nicht eingetragene und bekannt gemachte Tatsache kann einem gutgläubigen Dritten nicht entgegengesetzt werden (z. B. vergessene Löschung eines Prokuristen).
@@ -79,7 +79,7 @@ Ausnahme: Schließen sie sich in einer Kapitalgesellschaft (z. B. GmbH, AG) zusa
 *Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 43–45 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 ---
 
-<!-- card-id: unternehmensrecht-handelsregister-vollmachten-06 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmensrecht-handelsregister-vollmachten-06 | typ: abgrenzung | pruefung: AP2 -->
 **Was darf ein Prokurist nach §§ 48–50 HGB und welche Geschäfte sind ihm nur mit besonderer Ermächtigung oder gar nicht erlaubt?**
 ?
 Ein Prokurist darf alle gerichtlichen und außergerichtlichen Geschäfte vornehmen, die ein Handelsgewerbe mit sich bringt – eine interne Beschränkung ist **nach außen unwirksam**.
@@ -88,7 +88,7 @@ Ein Prokurist darf alle gerichtlichen und außergerichtlichen Geschäfte vornehm
 *Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 46, 48, 50 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 ---
 
-<!-- card-id: unternehmensrecht-handelsregister-vollmachten-07 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmensrecht-handelsregister-vollmachten-07 | typ: abgrenzung | pruefung: AP2 -->
 **Wie unterscheiden sich Prokura und Handlungsvollmacht (§ 54 HGB) hinsichtlich Umfang, Handelsregistereintrag und verbotener Geschäfte?**
 ?
 - **Prokura:** gesetzlich festgelegter Umfang (nach außen unbeschränkbar), **muss ins HR eingetragen** werden, Zeichnung mit Zusatz `ppa.`.

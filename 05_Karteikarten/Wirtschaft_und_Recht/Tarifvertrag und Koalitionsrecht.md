@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Tarifvertrag und Koalitionsrecht"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Tarifvertrag und Koalitionsrecht.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -18,7 +19,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/tarifvertrag-und-koalitionsrecht
 ---
-
 # 🗂️ Karteikarten: Tarifvertrag und Koalitionsrecht
 
 > [!tip] Quellenbasis
@@ -26,7 +26,7 @@ tags:
 
 ---
 
-<!-- card-id: tarifvertrag-und-koalitionsrecht-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: tarifvertrag-und-koalitionsrecht-01 | typ: definition | pruefung: AP2 -->
 **Was regelt das Koalitionsrecht nach Art. 9 GG und was bedeutet Tarifautonomie?**
 ?
 - **Koalitionsrecht (Art. 9 GG):** Recht aller Personen und Berufe, Vereinigungen zur Wahrung und Förderung der Arbeits- und Wirtschaftsbedingungen zu bilden (Gewerkschaften und Arbeitgeberverbände).
@@ -35,7 +35,7 @@ tags:
 
 ---
 
-<!-- card-id: tarifvertrag-und-koalitionsrecht-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: tarifvertrag-und-koalitionsrecht-02 | typ: abgrenzung | pruefung: AP2 -->
 **Worin unterscheiden sich Manteltarifvertrag (Rahmentarifvertrag) und Lohn-/Gehaltstarifvertrag?**
 ?
 - **Manteltarifvertrag (Laufzeit ca. 3–5 Jahre):** regelt allgemeine Arbeitsbedingungen wie Arbeitszeit, Urlaub, Kündigungsfristen, Arbeitsschutz, Nacht-/Feiertagsarbeit oder vermögenswirksame Leistungen.
@@ -44,7 +44,7 @@ tags:
 
 ---
 
-<!-- card-id: tarifvertrag-und-koalitionsrecht-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: tarifvertrag-und-koalitionsrecht-03 | typ: pruefungsfalle | pruefung: AP2 -->
 **Für wen gilt ein Tarifvertrag grundsätzlich (Tarifgebundenheit), und wie kann er für alle gelten?**
 ?
 - **Grundsatz:** Ein Tarifvertrag gilt unmittelbar nur zwischen den **Mitgliedern der Tarifvertragsparteien** (Arbeitgeber im Arbeitgeberverband und Arbeitnehmer in der Gewerkschaft); häufig werden Nicht-Organisierte aber nach dem Gleichbehandlungsgrundsatz einbezogen.
@@ -53,7 +53,7 @@ tags:
 
 ---
 
-<!-- card-id: tarifvertrag-und-koalitionsrecht-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: tarifvertrag-und-koalitionsrecht-04 | typ: anwendung | pruefung: AP2 -->
 **Wie bestimmt das „Industrieprinzip“ den zuständigen Tarifvertrag (Beispiel: Bürokaufleute in einem Chemiekonzern)?**
 ?
 Der Schwerpunkt der Tätigkeit des Betriebs bestimmt, welche Verbände für Firmen und Arbeitnehmer zuständig sind. Daher gilt auch für Bürokaufleute in einem Chemiekonzern der **Tarifvertrag der chemischen Industrie** (und jeder Arbeitgeber muss den maßgebenden Tarifvertrag im Betrieb auslegen).
@@ -61,7 +61,7 @@ Der Schwerpunkt der Tätigkeit des Betriebs bestimmt, welche Verbände für Firm
 
 ---
 
-<!-- card-id: tarifvertrag-und-koalitionsrecht-05 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: tarifvertrag-und-koalitionsrecht-05 | typ: pruefungsfalle | pruefung: AP2 -->
 **Dürfen vereinbarte Tarifbestimmungen im Arbeitsvertrag unterschritten werden?**
 ?
 **Nein.** Tarifbestimmungen wirken als Mindestbedingungen und dürfen grundsätzlich **nicht unterschritten** werden – Abweichungen im Einzelarbeitsvertrag sind nur **zugunsten des Arbeitnehmers** zulässig.
@@ -69,7 +69,7 @@ Der Schwerpunkt der Tätigkeit des Betriebs bestimmt, welche Verbände für Firm
 
 ---
 
-<!-- card-id: tarifvertrag-und-koalitionsrecht-06 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: tarifvertrag-und-koalitionsrecht-06 | typ: definition | pruefung: AP2 -->
 **Wie läuft das Zustandekommen eines Tarifvertrages ab, wenn die Verhandlungen scheitern, und wann gilt die Friedenspflicht?**
 ?
 - **Ablauf bei Scheitern:** Nach gescheiterten Verhandlungen (ggf. mit Warnstreiks) vermittelt ein **neutraler Schlichter** (Friedenspflicht bleibt bestehen). Scheitert auch die Schlichtung, endet die **Friedenspflicht** und Arbeitskampfmaßnahmen sind möglich.
@@ -78,7 +78,7 @@ Der Schwerpunkt der Tätigkeit des Betriebs bestimmt, welche Verbände für Firm
 
 ---
 
-<!-- card-id: tarifvertrag-und-koalitionsrecht-07 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: tarifvertrag-und-koalitionsrecht-07 | typ: abgrenzung | pruefung: AP2 -->
 **Welche Arbeitskampfmittel und Urabstimmungs-Quoren gelten beim Tarifkonflikt?**
 ?
 - **Gewerkschaft (Streik):** Arbeitsniederlegung; erfordert vor Streikbeginn eine Urabstimmung mit **mind. 75 %** Zustimmung der abstimmenden Mitglieder (Annahme eines neuen Verhandlungsergebnisses ab **25 %** Zustimmung).

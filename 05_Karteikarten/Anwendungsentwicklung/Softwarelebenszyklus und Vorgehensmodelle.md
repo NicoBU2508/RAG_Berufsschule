@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Softwarelebenszyklus und Vorgehensmodelle"
 kategorie: Anwendungsentwicklung
+pruefung: "AP1/AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwarelebenszyklus und Vorgehensmodelle.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -29,7 +30,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/softwarelebenszyklus-und-vorgehensmodelle
 ---
-
 # 🗂️ Karteikarten: Softwarelebenszyklus und Vorgehensmodelle
 
 > [!tip] Quellenbasis

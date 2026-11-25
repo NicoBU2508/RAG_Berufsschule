@@ -79,7 +79,7 @@ counts = Hash.new(0)
 
 markdown_paths.each do |path|
   text = File.read(ROOT.join(path), encoding: "UTF-8")
-  searchable = text.gsub(/^```.*?^```\s*$/m, "")
+  searchable = text.gsub(/^```.*?^```\s*$/m, "").gsub(/`[^`\n]+`/, "")
   searchable.scan(/!?\[\[([^\]]+)\]\]/).each do |match|
     target = match.first
     counts["wiki_links"] += 1
@@ -88,7 +88,7 @@ markdown_paths.each do |path|
   searchable.scan(/(?<!!)\[[^\]]*\]\((<[^>]+>|[^)\s]+)(?:\s+"[^"]*")?\)/).each do |match|
     target = match.first
     plain = target.start_with?("<") ? target[1...-1] : target
-    next if plain.match?(%r{\A(?:https?://|mailto:|tel:|data:)}) || plain.start_with?("#")
+    next if plain.match?(%r{\A(?:https?://|mailto:|tel:|data:|file://)}) || plain.start_with?("#")
     counts["markdown_links"] += 1
     unresolved << { "source" => path, "kind" => "markdown", "target" => target } unless index.resolve?(target, path)
   end

@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Making Phone Calls and Voicemail"
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Making Phone Calls and Voicemail.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -21,7 +22,6 @@ tags:
   - karteikarten
   - flashcards/deutsch-englisch-kommunikation/making-phone-calls-and-voicemail
 ---
-
 # 🗂️ Karteikarten: Making Phone Calls and Voicemail
 
 > [!tip] Quellenbasis
@@ -29,7 +29,7 @@ tags:
 
 ---
 
-<!-- card-id: making-phone-calls-and-voicemail-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: making-phone-calls-and-voicemail-01 | typ: definition | pruefung: BS -->
 **Welche englischen Standardphrasen bedeuten „Die Leitung ist besetzt“ und „Ich verbinde Sie“?**
 ?
 - **Besetzt:** *The line is busy.* / *The line is engaged.*
@@ -38,7 +38,7 @@ tags:
 
 ---
 
-<!-- card-id: making-phone-calls-and-voicemail-02 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: making-phone-calls-and-voicemail-02 | typ: anwendung | pruefung: BS -->
 **Wie fragt man am Telefon höflich nach dem Anrufer, bittet um kurzes Warten oder ums Buchstabieren des Namens?**
 ?
 - **Anrufer erfragen:** *Who is calling, please?*
@@ -48,7 +48,7 @@ tags:
 
 ---
 
-<!-- card-id: making-phone-calls-and-voicemail-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: making-phone-calls-and-voicemail-03 | typ: abgrenzung | pruefung: BS -->
 **Worin unterscheiden sich *extension number* und *country / area code* im englischen Telefonvokabular?**
 ?
 - **extension number:** interne Durchwahl (Raum- bzw. Büronummer im Unternehmen).
@@ -57,7 +57,7 @@ tags:
 
 ---
 
-<!-- card-id: making-phone-calls-and-voicemail-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: making-phone-calls-and-voicemail-04 | typ: anwendung | pruefung: BS -->
 **Wie formuliert man am Telefon oder auf der Voicemail, im Auftrag von jemandem anzurufen und den Grund zu nennen?**
 ?
 - **Im Auftrag anrufen:** *I'm calling on behalf of ...* (Ich rufe im Auftrag von ... an.)
@@ -66,7 +66,7 @@ tags:
 
 ---
 
-<!-- card-id: making-phone-calls-and-voicemail-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: making-phone-calls-and-voicemail-05 | typ: anwendung | pruefung: BS -->
 **Welche Phrasen nutzt man, wenn eine Person nicht erreichbar ist und man eine Nachricht aufnimmt oder zusichert?**
 ?
 - **Nicht erreichbar:** *I'm afraid he/she is not available (at the moment).* / *He/She is on the phone just now.*
@@ -75,7 +75,7 @@ tags:
 
 ---
 
-<!-- card-id: making-phone-calls-and-voicemail-06 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: making-phone-calls-and-voicemail-06 | typ: pruefungsfalle | pruefung: BS -->
 **Wie bietet man einen Rückruf an, bedankt sich für einen Rückruf und drückt „spätestens“ auf der Voicemail aus?**
 ?
 - **Rückruf anbieten:** *Shall I ask him/her to call back?* / *Can I get him/her to return your call?*

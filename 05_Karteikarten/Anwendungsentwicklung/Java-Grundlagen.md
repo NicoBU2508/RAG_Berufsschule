@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Java-Grundlagen"
 kategorie: Anwendungsentwicklung
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java-Grundlagen.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -89,7 +90,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/java-grundlagen
 ---
-
 # 🗂️ Karteikarten: Java-Grundlagen
 
 > [!tip] Quellenbasis
@@ -97,7 +97,7 @@ tags:
 
 ---
 
-<!-- card-id: java-grundlagen-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: java-grundlagen-01 | typ: definition | pruefung: AP2 -->
 **Wie funktioniert die zweistufige Übersetzung bei Java?**
 ?
 1. Der **Compiler** (`javac`) übersetzt den Quellcode (`.java`) vor der Laufzeit in plattformunabhängigen **Bytecode** (`.class`).
@@ -106,7 +106,7 @@ tags:
 
 ---
 
-<!-- card-id: java-grundlagen-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: java-grundlagen-02 | typ: abgrenzung | pruefung: AP2 -->
 **Worin unterscheiden sich JDK, JRE und JVM in Java?**
 ?
 Das **JDK** (*Java Development Kit*) wird zum Entwickeln und Kompilieren benötigt und enthält Compiler sowie JRE. Die **JRE** (*Java Runtime Environment*) ist die reine Laufzeitumgebung zum Ausführen fertiger Programme und enthält die plattformabhängige **JVM**.
@@ -114,7 +114,7 @@ Das **JDK** (*Java Development Kit*) wird zum Entwickeln und Kompilieren benöti
 
 ---
 
-<!-- card-id: java-grundlagen-03 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: java-grundlagen-03 | typ: definition | pruefung: AP2 -->
 **Welche Bedeutung haben `public`, `static` und `void` in `public static void main(String[] args)`?**
 ?
 `main()` ist der eindeutige Startpunkt jeder Java-Anwendung. Dabei bedeutet: `public` = Zugriff von außen möglich, `static` = ohne vorherige Objekterzeugung ausführbar, `void` = kein Rückgabewert.
@@ -122,7 +122,7 @@ Das **JDK** (*Java Development Kit*) wird zum Entwickeln und Kompilieren benöti
 
 ---
 
-<!-- card-id: java-grundlagen-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: java-grundlagen-04 | typ: pruefungsfalle | pruefung: AP2 -->
 **Welche syntaktischen Grundregeln und Namenskonventionen gelten in Java?**
 ?
 Java ist **case-sensitive** (Groß-/Kleinschreibung wird unterschieden), Anweisungen enden mit Semikolon (`;`), Codeblöcke stehen in `{}` und Dezimalzahlen nutzen einen Punkt (`.`). Konvention: Klassennamen groß, Objekte, Attribute und Methoden klein.
@@ -130,7 +130,7 @@ Java ist **case-sensitive** (Groß-/Kleinschreibung wird unterschieden), Anweisu
 
 ---
 
-<!-- card-id: java-grundlagen-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: java-grundlagen-05 | typ: anwendung | pruefung: AP2 -->
 **Wie kennzeichnet man ein- und mehrzeilige Kommentare in Java und wie behandelt sie der Compiler?**
 ?
 Einzeilige Kommentare beginnen mit `//`, mehrzeilige stehen zwischen `/* ... */`. Sie dienen der Übersicht und Erklärung im Quellcode und werden vom Compiler bei Übersetzung und Ausführung ignoriert.
@@ -138,7 +138,7 @@ Einzeilige Kommentare beginnen mit `//`, mehrzeilige stehen zwischen `/* ... */`
 
 ---
 
-<!-- card-id: java-grundlagen-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: java-grundlagen-06 | typ: anwendung | pruefung: AP2 -->
 **Wofür wird `Scanner` in Java verwendet und welche 3 Schritte sind nötig?**
 ?
 Mit `Scanner` lassen sich Benutzereingaben über die Konsole einlesen und verarbeiten.

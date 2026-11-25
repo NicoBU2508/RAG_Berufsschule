@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Elektrische Ladung"
 kategorie: Elektrotechnik
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Elektrotechnik/Elektrische Ladung.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -20,7 +21,6 @@ tags:
   - karteikarten
   - flashcards/elektrotechnik/elektrische-ladung
 ---
-
 # 🗂️ Karteikarten: Elektrische Ladung
 
 > [!tip] Quellenbasis
@@ -28,7 +28,7 @@ tags:
 
 ---
 
-<!-- card-id: elektrische-ladung-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: elektrische-ladung-01 | typ: definition | pruefung: BS -->
 **Welche Teilchen bilden nach dem Bohrschen Atommodell ein Atom und welche Ladung tragen sie?**
 ?
 Im Atomkern befinden sich positiv geladene Protonen und neutral geladene Neutronen; in der Atomhülle bewegen sich negativ geladene Elektronen.
@@ -36,7 +36,7 @@ Im Atomkern befinden sich positiv geladene Protonen und neutral geladene Neutron
 
 ---
 
-<!-- card-id: elektrische-ladung-02 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: elektrische-ladung-02 | typ: definition | pruefung: BS -->
 **Wie wirken gleichartig und ungleichartig geladene Teilchen aufeinander?**
 ?
 Zwei gleichartig geladene Teilchen stoßen sich ab; zwei ungleichartig geladene Teilchen ziehen sich an.
@@ -44,7 +44,7 @@ Zwei gleichartig geladene Teilchen stoßen sich ab; zwei ungleichartig geladene 
 
 ---
 
-<!-- card-id: elektrische-ladung-03 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: elektrische-ladung-03 | typ: definition | pruefung: BS -->
 **Was versteht man unter der Elementarladung $e$, welchen Betrag hat sie und in welcher Einheit wird elektrische Ladung $Q$ gemessen?**
 ?
 Die Elementarladung $e$ ist die kleinste mögliche elektrische Ladung, getragen von Protonen ($+1{,}602 \cdot 10^{-19}\text{ C}$) und Elektronen ($-1{,}602 \cdot 10^{-19}\text{ C}$). Die Einheit der Ladung $Q$ ist Coulomb ($\text{C} = \text{As}$).
@@ -52,7 +52,7 @@ Die Elementarladung $e$ ist die kleinste mögliche elektrische Ladung, getragen 
 
 ---
 
-<!-- card-id: elektrische-ladung-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: elektrische-ladung-04 | typ: anwendung | pruefung: BS -->
 **Mit welcher Formel berechnet man die elektrische Ladung $Q$ aus der Anzahl $n$ der Elementarladungen bzw. bei bekanntem Strom $I$ und Zeit $t$?**
 ?
 Über die Teilchenzahl gilt $Q = n \cdot e$ (bzw. $n = \frac{Q}{e}$); fließt ein konstanter Strom $I$ über die Zeit $t$, gilt $Q = I \cdot t$ (in $\text{As} = \text{C}$).
@@ -60,7 +60,7 @@ Die Elementarladung $e$ ist die kleinste mögliche elektrische Ladung, getragen 
 
 ---
 
-<!-- card-id: elektrische-ladung-05 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: elektrische-ladung-05 | typ: abgrenzung | pruefung: BS -->
 **Warum leiten Metalle den elektrischen Strom, während Nichtleiter (Isolatoren) nicht leiten?**
 ?
 Bei Nichtleitern (z. B. Kunststoff, Glas, Gummi, Holz, Keramik) sind die Elektronen fest in der Atomhülle gebunden. Im dichten Metallgitter (z. B. Kupfer, Aluminium, Silber, Gold, Eisen) lösen sich die Valenzelektronen von der äußersten Schale und stehen als freie Ladungsträger zur Verfügung.
@@ -68,7 +68,7 @@ Bei Nichtleitern (z. B. Kunststoff, Glas, Gummi, Holz, Keramik) sind die Elektro
 
 ---
 
-<!-- card-id: elektrische-ladung-06 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: elektrische-ladung-06 | typ: pruefungsfalle | pruefung: BS -->
 **Warum ist ein Atom trotz geladener Protonen und Elektronen nach außen hin elektrisch neutral?**
 ?
 Weil es gleich viele positiv geladene Protonen im Kern und negativ geladene Elektronen in der Hülle besitzt, sodass sich ihre Ladungen zu $Q = 0$ aufheben (weder Elektronenüberschuss noch Elektronenmangel).

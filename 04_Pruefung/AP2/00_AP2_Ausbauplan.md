@@ -1,22 +1,25 @@
 ---
 typ: pruefung
 pruefung: AP2
+stand: 2026-11-25
 ---
-# AP2 Ausbauplan Anwendungsentwicklung
+# AP2 Ausbauplan: Fachinformatiker Anwendungsentwicklung (FIAE)
 
-> [!ap2] Ziel
-> Dieser Bereich ist vorbereitet, damit nach AP1 und nach Upload von Altklausuren/Lösungen die AP2 systematisch erweitert werden kann.
+> [!ap2] Ziel & Gewichtung (80 % der Gesamtnote)
+> Nach Abschluss der AP1 schaltet der Lernfokus nahtlos auf die **AP2 FIAE** um. Alle bereits aus dem 1. und 2. Lehrjahr vorhandenen Vertiefungsthemen (insb. SQL, ER-Modellierung, OOP, Java/Python, RAID sowie das gesamte Arbeits- und Sozialrecht) sind im Vault bereits visuell geprüft und als `🔵 AP2` bzw. `🟢 AP1+AP2` getaggt.
 
-## AP2-Bereiche
+## AP2-Prüfungsbereiche & vorhandene kanonische Vault-Themen
 
-| Bereich | Gewichtung laut öffentlichem IHK-Rahmen | Vault-Startthemen | Status |
+| Prüfungsbereich | Gewichtung | Bereits im Vault belegte Themen (`03_Themen/Visuell_geprueft/`) | Status |
 |---|---:|---|---|
-| [[AP2 Planen und Umsetzen eines Softwareprojektes]] | 50 % | [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Programm und Software/00_Programm und Software\|Programm und Software]], [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Java Grundlagen und IDE/00_Java Grundlagen und IDE\|Java Grundlagen und IDE]], [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Betriebswirtschaft BGWP/00_Betriebswirtschaft BGWP\|Betriebswirtschaft BGWP]] | vorbereiten |
-| [[AP2 Planen eines Softwareproduktes]] | 10 % | [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Java Grundlagen und IDE/00_Java Grundlagen und IDE\|Java Grundlagen und IDE]], [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Variablen und Datentypen/00_Variablen und Datentypen\|Variablen und Datentypen]], [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Operatoren und Bedingungen/00_Operatoren und Bedingungen\|Operatoren und Bedingungen]] | vorbereiten |
-| [[AP2 Entwicklung und Umsetzung von Algorithmen]] | 10 % | [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Algorithmus und Programmablauf/00_Algorithmus und Programmablauf\|Algorithmus und Programmablauf]], [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Schleifen/00_Schleifen\|Schleifen]], [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Operatoren und Bedingungen/00_Operatoren und Bedingungen\|Operatoren und Bedingungen]] | teilweise belegt |
-| [[AP2 Wirtschafts und Sozialkunde]] | 10 % | [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen\|Betrieb und Unternehmen]], [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Ausbildung und Beruf/00_Ausbildung und Beruf\|Ausbildung und Beruf]], [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Recht und Vertraege/00_Recht und Vertraege\|Recht und Verträge]] | teilweise belegt |
+| [[AP2 Planen und Umsetzen eines Softwareprojektes]] *(Betriebliche Projektarbeit, Doku & Fachgespräch)* | **50 %** | [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Projektmanagement Lastenheft Pflichtenheft\|Projektmanagement Lastenheft Pflichtenheft]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Projektplanung und Netzplanmethode\|Projektplanung und Netzplanmethode]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Angebotsvergleich und Nutzwertanalyse\|Angebotsvergleich und Nutzwertanalyse]], [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwareanpassung und Dokumentation\|Softwareanpassung und Dokumentation]], [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwaretest und Testverfahren\|Softwaretest und Testverfahren]] | Basis vorhanden (Antrags- & Fachgespräch-Training folgt) |
+| [[AP2 Planen eines Softwareproduktes]] *(90 Min. schriftlich)* | **10 %** | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Objektorientierung\|Objektorientierung]], [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/UML-Diagramme\|UML-Diagramme]], [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell\|Datenbankmodellierung und ER-Modell]], [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwarelebenszyklus und Vorgehensmodelle\|Softwarelebenszyklus und Vorgehensmodelle]], [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/RAID-Systeme\|RAID-Systeme]], [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Kryptografie Hash und Signatur\|Kryptografie, Hash und Signatur]] | teilweise belegt |
+| [[AP2 Entwicklung und Umsetzung von Algorithmen]] *(90 Min. schriftlich)* | **10 %** | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/SQL-Grundlagen und SELECT-Abfragen\|SQL-Grundlagen und SELECT-Abfragen]], [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/SQL-Aggregatfunktionen und Gruppierung\|SQL-Aggregatfunktionen und Gruppierung]], [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/SQL-Datenmanipulation INSERT UPDATE DELETE\|SQL-Datenmanipulation INSERT UPDATE DELETE]], [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Arrays und Datenstrukturen\|Arrays und Datenstrukturen]], [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Schleifen\|Schleifen]], [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Rekursion und Iteration\|Rekursion und Iteration]], [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Suchalgorithmen\|Suchalgorithmen]], [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java-Grundlagen\|Java-Grundlagen]], [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Python-Grundlagen\|Python-Grundlagen]] | gut angebahnt (JOINs & Sortier-/Gruppenwechsel-Algorithmen ausbauen) |
+| [[AP2 Wirtschafts und Sozialkunde]] *(60 Min. schriftlich)* | **10 %** | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Ausbildungsvertrag und BBiG\|Ausbildungsvertrag und BBiG]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Kündigung und Arbeitsrecht\|Kündigung und Arbeitsrecht]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Sozialversicherung\|Sozialversicherung]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Lohn- und Gehaltsabrechnung\|Lohn- und Gehaltsabrechnung]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Betriebsrat und Betriebsverfassung\|Betriebsrat und Betriebsverfassung]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Tarifvertrag und Koalitionsrecht\|Tarifvertrag und Koalitionsrecht]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Rechtsformen\|Rechtsformen]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Marktumfeld und Marktformen\|Marktumfeld und Marktformen]] | 🟢 starkes Fundament |
 
-## Fehlende AP2-Themen
+## Gezielte Ausbaufelder für AP2 FIAE (3. Lehrjahr)
 
-> [!warning] Lücken
-> Datenbanken/SQL, UML, Lasten-/Pflichtenheft, Testarten, Versionsverwaltung, Projektplanung, Aufwand/Kosten/Risiko und Projektdokumentation sollten später gezielt ergänzt werden.
+> [!warning] Wichtige AP2-Schwerpunkte für späteren Ausbau
+> - **Softwarearchitektur & UML:** UML-Klassendiagramm (Komposition vs. Aggregation, Interfaces) & Sequenzdiagramm, GoF-Design-Patterns (Singleton, Factory, Observer, Strategy, MVC), Clean Code / SOLID, REST-APIs & JSON/XML, Git.
+> - **Datenbanken & Algorithmen:** Mehr-Tabellen-SQL (`INNER/LEFT JOIN`, Self-Join, Subqueries, `CREATE TABLE` DDL, ACID, 1NF–3NF), Binäre Suche, Sortieralgorithmen ($\mathcal{O}(n^2)$ vs. $\mathcal{O}(n \log n)$) & Gruppenwechsel-Algorithmus in Pseudocode.
+> - **Qualität & Security:** Äquivalenzklassen- & Grenzwertanalyse, Unit-Tests/Mocking, OWASP (SQL-Injection / Prepared Statements, XSS, OAuth2/JWT).

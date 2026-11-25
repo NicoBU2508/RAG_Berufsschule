@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "IT-Sicherheit Grundlagen"
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP1/AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IT-Sicherheit Grundlagen.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -25,7 +26,6 @@ tags:
   - karteikarten
   - flashcards/it-technik-und-sicherheit/it-sicherheit-grundlagen
 ---
-
 # 🗂️ Karteikarten: IT-Sicherheit Grundlagen
 
 > [!tip] Quellenbasis

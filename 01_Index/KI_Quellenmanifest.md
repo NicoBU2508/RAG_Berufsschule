@@ -19,15 +19,15 @@ Dieses Manifest klassifiziert jede Projektdatei nach ihrer Rolle für GPT-, RAG-
 
 ## Abdeckung
 
-- Dateien insgesamt: **896**
+- Dateien insgesamt: **907**
 - Stand: **2026-11-24**
 - Generator: `ruby 01_Index/Tools/build_ki_manifest.rb`
 
 | KI-Nutzung | Dateien |
 |---|---:|
-| `excluded` | 522 |
-| `navigation` | 107 |
-| `operational` | 24 |
+| `excluded` | 530 |
+| `navigation` | 109 |
+| `operational` | 25 |
 | `primary` | 190 |
 | `verify_only` | 53 |
 
@@ -40,25 +40,26 @@ Dieses Manifest klassifiziert jede Projektdatei nach ihrer Rolle für GPT-, RAG-
 | `entrypoint` | 2 |
 | `exam_archive` | 1 |
 | `excluded_source_note` | 4 |
-| `flashcard_index` | 138 |
+| `flashcard_index` | 140 |
 | `generated_learning_index` | 9 |
 | `generated_learning_module` | 129 |
 | `generated_vault_index` | 1 |
 | `import_inbox` | 1 |
+| `learner_state` | 1 |
 | `legacy_topic` | 30 |
-| `maintenance_tool` | 16 |
+| `maintenance_tool` | 17 |
 | `navigation_index` | 10 |
-| `obsidian_configuration` | 14 |
+| `obsidian_configuration` | 16 |
 | `original_pdf` | 53 |
 | `private_or_archive` | 5 |
 | `project_metadata` | 3 |
-| `quality_or_navigation` | 76 |
+| `quality_or_navigation` | 78 |
 | `source_note` | 49 |
 | `subject_index` | 18 |
 | `template` | 3 |
 | `topic_alias` | 146 |
 | `topic_index` | 1 |
-| `unverified_exam_material` | 17 |
+| `unverified_exam_material` | 20 |
 | `workflow_guide` | 1 |
 | `working_note` | 2 |
 

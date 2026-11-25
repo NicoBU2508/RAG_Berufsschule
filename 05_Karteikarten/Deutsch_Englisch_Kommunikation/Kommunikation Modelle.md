@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Kommunikation Modelle"
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Kommunikation Modelle.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -25,7 +26,6 @@ tags:
   - karteikarten
   - flashcards/deutsch-englisch-kommunikation/kommunikation-modelle
 ---
-
 # 🗂️ Karteikarten: Kommunikation Modelle
 
 > [!tip] Quellenbasis
@@ -33,7 +33,7 @@ tags:
 
 ---
 
-<!-- card-id: kommunikation-modelle-01 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: kommunikation-modelle-01 | typ: abgrenzung | pruefung: AP1 -->
 **Wie unterscheiden sich verbale und nonverbale Elemente in der mündlichen Kommunikation?**
 ?
 - **Verbale Elemente**: gesprochene oder geschriebene Sprache, Wortschatz und grammatikalischer Ausdruck.
@@ -42,7 +42,7 @@ tags:
 
 ---
 
-<!-- card-id: kommunikation-modelle-02 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: kommunikation-modelle-02 | typ: definition | pruefung: AP1 -->
 **Was besagt Paul Watzlawicks Axiom „Man kann nicht nicht kommunizieren“?**
 ?
 Bei jedem menschlichen Zusammentreffen findet Kommunikation statt – auch Schweigen, Wegsehen oder die Körperhaltung senden Signale an das Gegenüber.
@@ -50,7 +50,7 @@ Bei jedem menschlichen Zusammentreffen findet Kommunikation statt – auch Schwe
 
 ---
 
-<!-- card-id: kommunikation-modelle-03 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: kommunikation-modelle-03 | typ: definition | pruefung: AP1 -->
 **Wie läuft Kommunikation im Sender-Empfänger-Modell (nach Stuart Hall) ab und wodurch entstehen Störungen?**
 ?
 Sender A übermittelt eine Nachricht in 7 Schritten (Absicht → Codierung in Worte → Aussprechen → Übermittlung → Hören → Übersetzen → Interpretation) an Empfänger B. Störungen entstehen bei fehlendem gemeinsamen Code (unterschiedliche Begriffsdeutung) oder bei akustischen bzw. Übermittlungsfehlern.
@@ -58,7 +58,7 @@ Sender A übermittelt eine Nachricht in 7 Schritten (Absicht → Codierung in Wo
 
 ---
 
-<!-- card-id: kommunikation-modelle-04 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: kommunikation-modelle-04 | typ: definition | pruefung: AP1 -->
 **Welche vier Seiten (Botschaften) unterscheidet das Kommunikationsquadrat nach Friedemann Schulz von Thun?**
 ?
 Jede Äußerung sendet gleichzeitig auf vier Ebenen (Schnäbel/Ohren):
@@ -70,7 +70,7 @@ Jede Äußerung sendet gleichzeitig auf vier Ebenen (Schnäbel/Ohren):
 
 ---
 
-<!-- card-id: kommunikation-modelle-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: kommunikation-modelle-05 | typ: anwendung | pruefung: AP1 -->
 **Wie entstehen im 4-Ohren-Modell Missverständnisse?**
 ?
 Ein Missverständnis entsteht, wenn der Empfänger eine Äußerung auf einem anderen Ohr interpretiert als sie vom Sender gemeint war – etwa wenn eine sachliche Aussage (*„Es ist kein Papier mehr im Drucker“* / *„Es zieht hier“*) vorrangig auf dem Beziehungs-Ohr als Vorwurf gehört wird.
@@ -78,7 +78,7 @@ Ein Missverständnis entsteht, wenn der Empfänger eine Äußerung auf einem and
 
 ---
 
-<!-- card-id: kommunikation-modelle-06 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: kommunikation-modelle-06 | typ: abgrenzung | pruefung: AP1 -->
 **Welche vier Zuhörertypen unterscheidet das Kommunikationsquadrat auf Empfängerseite?**
 ?
 - **Sachliche**: achten rein auf Tatsachen.
@@ -89,7 +89,7 @@ Ein Missverständnis entsteht, wenn der Empfänger eine Äußerung auf einem and
 
 ---
 
-<!-- card-id: kommunikation-modelle-07 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: kommunikation-modelle-07 | typ: abgrenzung | pruefung: AP1 -->
 **Wie ist das Eisberg-Modell der Kommunikation aufgebaut und was ist seine Kernaussage?**
 ?
 - **Sichtbare Ebene (ca. 20 %)** – Sachebene: Fakten, Daten, Inhalte (was gesagt wird).

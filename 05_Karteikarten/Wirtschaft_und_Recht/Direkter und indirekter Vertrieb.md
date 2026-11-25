@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Direkter und indirekter Vertrieb"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Direkter und indirekter Vertrieb.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -16,7 +17,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/direkter-und-indirekter-vertrieb
 ---
-
 # 🗂️ Karteikarten: Direkter und indirekter Vertrieb
 
 > [!tip] Quellenbasis
@@ -24,7 +24,7 @@ tags:
 
 ---
 
-<!-- card-id: direkter-und-indirekter-vertrieb-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: direkter-und-indirekter-vertrieb-01 | typ: definition | pruefung: AP2 -->
 **Was unterscheidet den direkten vom indirekten Vertrieb?**
 ?
 - **Direkter Vertrieb:** Das Unternehmen verkauft Produkte ohne Zwischenhändler direkt an den Endkunden (z. B. eigener Online-Shop, Werksverkauf, Außendienst, eigene Filialen).
@@ -33,7 +33,7 @@ tags:
 
 ---
 
-<!-- card-id: direkter-und-indirekter-vertrieb-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: direkter-und-indirekter-vertrieb-02 | typ: abgrenzung | pruefung: AP2 -->
 **Wie unterscheiden sich direkter und indirekter Vertrieb hinsichtlich Marge, Kontrolle, Reichweite und Vertriebsaufwand?**
 ?
 - **Direkter Vertrieb:** Höhere Marge und hohe Kontrolle über Preis/Präsentation, aber höherer eigener Vertriebsaufwand und geringere Marktreichweite.
@@ -42,7 +42,7 @@ tags:
 
 ---
 
-<!-- card-id: direkter-und-indirekter-vertrieb-03 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: direkter-und-indirekter-vertrieb-03 | typ: anwendung | pruefung: AP2 -->
 **Für welche Produkte bzw. Ziele eignet sich jeweils der direkte und der indirekte Vertrieb besonders?**
 ?
 - **Direkter Vertrieb:** Geeignet für hochpreisige, erklärungsbedürftige Produkte oder wenn enger Kundenkontakt wichtig ist.
@@ -51,7 +51,7 @@ tags:
 
 ---
 
-<!-- card-id: direkter-und-indirekter-vertrieb-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: direkter-und-indirekter-vertrieb-04 | typ: pruefungsfalle | pruefung: AP2 -->
 **Warum entscheiden sich viele Unternehmen gegen ein „Entweder-oder“ und kombinieren direkten und indirekten Vertrieb?**
 ?
 Mit einer **Multi-Channel-Strategie** (Kombination beider Wege) lassen sich sowohl maximale Kontrolle und enger Kundenkontakt als auch größtmögliche Marktreichweite gleichzeitig erzielen.

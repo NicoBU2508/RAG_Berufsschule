@@ -629,6 +629,7 @@ class TopicWriter
   def initialize(path_factory:, audit_date:)
     @path_factory = path_factory
     @audit_date = audit_date
+    @exam_registry = VaultSupport.exam_registry
   end
 
   def write(catalog)
@@ -676,6 +677,14 @@ class TopicWriter
       "| [[#{source_link}\\|#{label}]] | [#{pages}](<#{pdf_path}#page=#{first_page}>) | #{types} | #{quality} |"
     end.join("\n")
     category = @path_factory.category(topic)
+    pruefung = VaultSupport.exam_for_topic(topic, @exam_registry)
+    topic_rel = @path_factory.topic_path(topic).relative_path_from(ROOT).to_s
+    deck_rel = topic_rel.sub(%r{\A03_Themen/Visuell_geprueft/}, "05_Karteikarten/")
+    deck_link_part = if ROOT.join(deck_rel).file?
+                       " · **Training:** [[#{deck_rel.delete_suffix('.md')}|🗂️ Karteikarten-Deck öffnen]]"
+                     else
+                       ""
+                     end
     <<~MARKDOWN
       ---
       id: #{@path_factory.topic_id(topic)}
@@ -688,6 +697,7 @@ class TopicWriter
       canonical_evidence: false
       thema: #{JSON.generate(topic)}
       kategorie: #{category}
+      pruefung: #{JSON.generate(pruefung)}
       quellen: #{grouped.length}
       seiten: #{decisions.length}
       tags:
@@ -697,6 +707,9 @@ class TopicWriter
       ---
 
       # #{topic}
+
+      > [!tip] Lern- & Prüfungsfokus
+      > **Prüfung:** #{VaultSupport.exam_badge(pruefung)}#{deck_link_part} · **Katalog:** [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|IHK-AP1-Checkliste]]
 
       Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Seitenprüfung abgeleitet. Sie ordnet Belege ein; fachliche Aussagen müssen aus der verlinkten Quellnotiz stammen und bei OCR-, Layout-, Zahlen-, Code- oder Rechtsfragen am Original geprüft werden.
 

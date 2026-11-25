@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Bezugskalkulation und Verkaufskalkulation"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP1/AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Bezugskalkulation und Verkaufskalkulation.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -28,7 +29,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/bezugskalkulation-und-verkaufskalkulation
 ---
-
 # 🗂️ Karteikarten: Bezugskalkulation und Verkaufskalkulation
 
 > [!tip] Quellenbasis

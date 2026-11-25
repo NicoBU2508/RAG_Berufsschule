@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Betriebsrat und Betriebsverfassung"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Betriebsrat und Betriebsverfassung.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -19,7 +20,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/betriebsrat-und-betriebsverfassung
 ---
-
 # 🗂️ Karteikarten: Betriebsrat und Betriebsverfassung
 
 > [!tip] Quellenbasis
@@ -27,7 +27,7 @@ tags:
 
 ---
 
-<!-- card-id: betriebsrat-und-betriebsverfassung-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: betriebsrat-und-betriebsverfassung-01 | typ: definition | pruefung: AP2 -->
 **Welche betrieblichen Voraussetzungen müssen für die Gründung eines Betriebsrats nach §§ 1, 8 BetrVG erfüllt sein?**
 ?
 Im Betrieb müssen in der Regel **mindestens fünf wahlberechtigte** Arbeitnehmer beschäftigt sein, von denen **mindestens drei wählbar** sind.
@@ -35,7 +35,7 @@ Im Betrieb müssen in der Regel **mindestens fünf wahlberechtigte** Arbeitnehme
 
 ---
 
-<!-- card-id: betriebsrat-und-betriebsverfassung-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: betriebsrat-und-betriebsverfassung-02 | typ: abgrenzung | pruefung: AP2 -->
 **Wer ist bei einer Betriebsratswahl wahlberechtigt und wer ist wählbar (§§ 7, 8 BetrVG)?**
 ?
 - **Wahlberechtigt:** Alle Arbeitnehmer (einschließlich Auszubildender), die das **16. Lebensjahr** vollendet haben; Leiharbeiter (> 3 Monate im Betrieb) sowie Telearbeiter zählen mit und haben volles Stimmrecht.
@@ -44,7 +44,7 @@ Im Betrieb müssen in der Regel **mindestens fünf wahlberechtigte** Arbeitnehme
 
 ---
 
-<!-- card-id: betriebsrat-und-betriebsverfassung-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: betriebsrat-und-betriebsverfassung-03 | typ: pruefungsfalle | pruefung: AP2 -->
 **Dürfen Geschäftsführer oder Prokuristen an der Betriebsratswahl teilnehmen?**
 ?
 **Nein.** Nach **§ 5 BetrVG** zählen gesetzliche Vertreter des Unternehmens (z. B. Geschäftsführer) und leitende Angestellte (z. B. Prokuristen) nicht als Arbeitnehmer im Sinne des BetrVG und sind daher weder wahlberechtigt noch wählbar.
@@ -52,7 +52,7 @@ Im Betrieb müssen in der Regel **mindestens fünf wahlberechtigte** Arbeitnehme
 
 ---
 
-<!-- card-id: betriebsrat-und-betriebsverfassung-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: betriebsrat-und-betriebsverfassung-04 | typ: anwendung | pruefung: AP2 -->
 **Wie viele Mitglieder hat der Betriebsrat bei 51–100 Wahlberechtigten, wie lange dauert die Amtszeit und wer trägt die Wahlkosten?**
 ?
 - **Mitgliederzahl (§ 9 BetrVG):** Bei 51–100 Wahlberechtigten **5 Mitglieder** (5–20: 1 Betriebsobmann; 21–50: 3; 101–200: 7).
@@ -61,7 +61,7 @@ Im Betrieb müssen in der Regel **mindestens fünf wahlberechtigte** Arbeitnehme
 
 ---
 
-<!-- card-id: betriebsrat-und-betriebsverfassung-05 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: betriebsrat-und-betriebsverfassung-05 | typ: definition | pruefung: AP2 -->
 **Welche Schwellenwerte gelten nach BetrVG für Betriebsausschuss, Wirtschaftsausschuss und die Freistellung von Betriebsratsmitgliedern?**
 ?
 - **Betriebsausschuss (§ 27 BetrVG):** Ab **9 Betriebsratsmitgliedern** (Führung der laufenden Geschäfte).
@@ -71,7 +71,7 @@ Im Betrieb müssen in der Regel **mindestens fünf wahlberechtigte** Arbeitnehme
 
 ---
 
-<!-- card-id: betriebsrat-und-betriebsverfassung-06 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: betriebsrat-und-betriebsverfassung-06 | typ: abgrenzung | pruefung: AP2 -->
 **Was ist eine Betriebsvereinbarung und welche inhaltlichen Grenzen gelten für sie?**
 ?
 Eine **Betriebsvereinbarung** ist eine von **Arbeitgeber und Betriebsrat gemeinsam schriftlich beschlossene** Vereinbarung, die grundsätzlich für alle Arbeitnehmer des Betriebs verbindlich ist (z. B. Arbeitszeiten im sozialen Bereich). Sie darf nicht gegen Gesetze oder Tarifverträge verstoßen, keine bereits **tarifvertraglich geregelten Inhalte** (z. B. Löhne/Gehälter) festlegen und individuelle Arbeitsverträge nicht verschlechtern.

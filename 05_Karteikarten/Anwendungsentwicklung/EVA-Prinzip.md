@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "EVA-Prinzip"
 kategorie: Anwendungsentwicklung
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/EVA-Prinzip.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -19,7 +20,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/eva-prinzip
 ---
-
 # 🗂️ Karteikarten: EVA-Prinzip
 
 > [!tip] Quellenbasis
@@ -27,7 +27,7 @@ tags:
 
 ---
 
-<!-- card-id: eva-prinzip-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: eva-prinzip-01 | typ: definition | pruefung: AP1 -->
 **Wofür steht das EVA-Prinzip und in welcher Reihenfolge laufen die drei Phasen ab?**
 ?
 **E**ingabe → **V**erarbeitung → **A**usgabe: Daten werden zunächst eingelesen, anschließend vom Computer mittels Algorithmus/Programm verarbeitet und erst danach als Ergebnis ausgegeben.
@@ -44,7 +44,7 @@ tags:
 
 ---
 
-<!-- card-id: eva-prinzip-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: eva-prinzip-03 | typ: pruefungsfalle | pruefung: AP1 -->
 **Warum verstößt `print(i_stimmenKand1 + i_stimmenKand2)` in Python gegen das EVA-Prinzip – und wie lautet die saubere Lösung?**
 ?
 **Grund:** Verarbeitung (`+`) und Ausgabe (`print(...)`) sind vermischt statt sauber getrennt.
@@ -61,7 +61,7 @@ tags:
 
 ---
 
-<!-- card-id: eva-prinzip-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: eva-prinzip-05 | typ: anwendung | pruefung: AP1 -->
 **Wie zeigt sich das EVA-Prinzip bei einer Steuerung mit Siemens LOGO! (z. B. Ampelsteuerung im CPS)?**
 ?
 - **E (Eingänge):** Schalter/Taster (z. B. `I1` Schalter Auto, `I4` Fußgängertaster) oder Netzwerkeingänge

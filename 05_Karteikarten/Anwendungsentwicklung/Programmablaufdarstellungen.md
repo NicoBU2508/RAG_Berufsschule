@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Programmablaufdarstellungen"
 kategorie: Anwendungsentwicklung
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programmablaufdarstellungen.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -34,7 +35,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/programmablaufdarstellungen
 ---
-
 # 🗂️ Karteikarten: Programmablaufdarstellungen
 
 > [!tip] Quellenbasis
@@ -42,7 +42,7 @@ tags:
 
 ---
 
-<!-- card-id: programmablaufdarstellungen-01 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: programmablaufdarstellungen-01 | typ: abgrenzung | pruefung: BS -->
 **Wie unterscheiden sich Struktogramm (Nassi-Shneiderman-Diagramm) und Programmablaufplan (PAP) in ihrer Darstellung?**
 ?
 Das Struktogramm stellt den Programmablauf als geschlossenen Block aus ineinander geschachtelten Kontrollstrukturen (Sequenz, Auswahl, Schleife) dar.
@@ -51,7 +51,7 @@ Der PAP verwendet dagegen durch Ablaufpfeile verbundene Einzelsymbole nach DIN-N
 
 ---
 
-<!-- card-id: programmablaufdarstellungen-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: programmablaufdarstellungen-02 | typ: abgrenzung | pruefung: BS -->
 **Worin unterscheiden sich einseitig bedingte und zweiseitig bedingte Auswahl (Verzweigung) im Struktogramm?**
 ?
 Bei der einseitig bedingten Auswahl (bedingte Anweisung) stehen nur im `Ja`-Zweig Anweisungen, während das Feld unter `Nein` leer bleibt.
@@ -60,7 +60,7 @@ Bei der zweiseitig bedingten Auswahl (Alternative) enthält sowohl der `Ja`- als
 
 ---
 
-<!-- card-id: programmablaufdarstellungen-03 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: programmablaufdarstellungen-03 | typ: definition | pruefung: BS -->
 **Was kennzeichnet Pseudocode im Vergleich zu Struktogramm (STG) und Programmablaufplan (PAP)?**
 ?
 Pseudocode ist eine nicht genormte, halbformale textuelle Ablaufbeschreibung, meist angelehnt an höhere Programmiersprachen (z. B. `if ... then ... else ... end if`), und enthält im Gegensatz zu STG und PAP auch Variablen- und Konstantendeklarationen.
@@ -69,7 +69,7 @@ Wertezuweisungen erfolgen in STG, PAP und Pseudocode mit `:=`, Anweisungen werde
 
 ---
 
-<!-- card-id: programmablaufdarstellungen-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: programmablaufdarstellungen-04 | typ: anwendung | pruefung: BS -->
 **Welche Rolle hat der Selektor bei einer mehrfachen Verzweigung (Fallauswahl) und wie ordnet man die Auswahlfälle an?**
 ?
 Der Selektor ist die ausgewertete Variable (i. d. R. abzählbare Datentypen wie Integer; in Java umgesetzt über `switch`, `case`, `break`, `default`).
@@ -78,7 +78,7 @@ Die Fälle werden nach Häufigkeit (häufigster Fall zuerst für schnellere Abar
 
 ---
 
-<!-- card-id: programmablaufdarstellungen-05 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: programmablaufdarstellungen-05 | typ: definition | pruefung: BS -->
 **Welchen Zweck hat ein Datenflussplan (DFP) und wodurch unterscheidet er sich vom PAP?**
 ?
 Der Datenflussplan (data flow chart) beschreibt grafisch mit Symbolen nach DIN 66001 den Verlauf der Daten (Eingabe-, Verarbeitungs- und Ausgabevorgänge sowie Speichermedien) in einem System.
@@ -87,7 +87,7 @@ Er zeigt, welche Programmteile von den Daten durchlaufen werden und wie die Bear
 
 ---
 
-<!-- card-id: programmablaufdarstellungen-06 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: programmablaufdarstellungen-06 | typ: pruefungsfalle | pruefung: BS -->
 **Wie verhalten sich `while`- und `for`-Schleife als kopfgesteuerte Schleifen vor dem ersten Durchlauf und am Schleifenende?**
 ?
 Bei beiden wird der boolesche Bedingungsausdruck im Schleifenkopf *vor* dem ersten Durchlauf geprüft: Liefert die Bedingung von Anfang an `false`, wird der Schleifenkörper nie ausgeführt.

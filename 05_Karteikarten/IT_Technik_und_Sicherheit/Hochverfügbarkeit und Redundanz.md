@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: Hochverfügbarkeit und Redundanz
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP1/AP2"
 thema_quelle: 03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Hochverfügbarkeit
   und Redundanz.md
 stand_karten: '2026-11-24'

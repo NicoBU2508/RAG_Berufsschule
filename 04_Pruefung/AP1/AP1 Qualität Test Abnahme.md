@@ -1,28 +1,22 @@
 ---
 typ: ap1_bereich
 pruefung: AP1
+stand: 2026-11-25
 ---
 # AP1 Qualität Test Abnahme
 
 > [!ap1] Lernziel
-> Funktion prüfen, Qualität sichern, Ergebnisse protokollieren.
+> Funktion prüfen (Black-Box/White-Box, Schreibtischtest), Testprotokoll und Abnahmeprotokoll erstellen sowie Vor-/Nachkalkulation abgleichen.
 
-## Relevante Themen
+## Kanonische Themen (`03_Themen/Visuell_geprueft/`)
 
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Algorithmus und Programmablauf/00_Algorithmus und Programmablauf|Algorithmus und Programmablauf]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Programm und Software/00_Programm und Software|Programm und Software]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Softwarequalitaet Wartbarkeit Usability/00_Softwarequalitaet Wartbarkeit Usability|Softwarequalität Wartbarkeit Usability]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Dokumentation Installation und Anpassung/00_Dokumentation Installation und Anpassung|Dokumentation Installation und Anpassung]]
+- [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwaretest und Testverfahren|Softwaretest und Testverfahren]]
+- [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwarequalität und Wartbarkeit|Softwarequalität und Wartbarkeit]]
+- [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwareanpassung und Dokumentation|Softwareanpassung und Dokumentation]]
+- [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Entwicklungswerkzeuge und Debugging|Entwicklungswerkzeuge und Debugging]]
+- [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Kaufvertrag und Geschäftsfähigkeit|Kaufvertrag und Geschäftsfähigkeit]]
+- [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Wirtschaftlichkeit und Rechnungswesen|Wirtschaftlichkeit und Rechnungswesen]]
 
-## Konkrete Quellen
+## Vollständige Prüfungs-Checkliste
 
-| Thema | Quellen |
-|---|---|
-| [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Algorithmus und Programmablauf/00_Algorithmus und Programmablauf\|Algorithmus und Programmablauf]] | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] S. 19, 22, 23, 44 |
-| [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Programm und Software/00_Programm und Software\|Programm und Software]] | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] S. 23, 25, 26, 27, 56, 57, 58, 59 |
-| [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Softwarequalitaet Wartbarkeit Usability/00_Softwarequalitaet Wartbarkeit Usability\|Softwarequalität Wartbarkeit Usability]] | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] S. 78, 79, 80, 81 |
-| [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Dokumentation Installation und Anpassung/00_Dokumentation Installation und Anpassung\|Dokumentation Installation und Anpassung]] | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] S. 83, 84, 85, 86, 87 |
-
-## Altklausur-Vorbereitung
-
-- Sobald Altklausuren + Lösungen hinzugefügt sind, jede Aufgabe hier mit Thema, Quelle, Lösungsschritt und Fehleranalyse verlinken.
+Details zu allen Unterpunkten (Handlungsfeld 5.1–5.3) siehe [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|AP1 IHK-Prüfungskatalog & Checkliste]].

@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Projektmanagement Lastenheft Pflichtenheft"
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "AP1/AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Projektmanagement Lastenheft Pflichtenheft.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -40,7 +41,6 @@ tags:
   - karteikarten
   - flashcards/deutsch-englisch-kommunikation/projektmanagement-lastenheft-pflichtenheft
 ---
-
 # 🗂️ Karteikarten: Projektmanagement Lastenheft Pflichtenheft
 
 > [!tip] Quellenbasis

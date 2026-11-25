@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Applying for a Position"
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Applying for a Position.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -15,7 +16,6 @@ tags:
   - karteikarten
   - flashcards/deutsch-englisch-kommunikation/applying-for-a-position
 ---
-
 # 🗂️ Karteikarten: Applying for a Position
 
 > [!tip] Quellenbasis
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-<!-- card-id: applying-for-a-position-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: applying-for-a-position-01 | typ: definition | pruefung: BS -->
 **Welche englischen Ausdrücke entsprechen in einer IT-Stellenanzeige den deutschen Begriffen „erstrangiges Unternehmen“, „unerlässlich“ und „Verantwortlichkeiten“?**
 ?
 - **erstrangiges Unternehmen**: *(leading) blue chip company*
@@ -33,7 +33,7 @@ tags:
 
 ---
 
-<!-- card-id: applying-for-a-position-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: applying-for-a-position-02 | typ: abgrenzung | pruefung: BS -->
 **Wie werden „Sozialkompetenz“, „Kommunikationsfähigkeit“ und „ein breites Spektrum an Fähigkeiten“ im Englischen in einer Stellenanzeige wiedergegeben?**
 ?
 - **Sozialkompetenz**: *people skills*
@@ -43,7 +43,7 @@ tags:
 
 ---
 
-<!-- card-id: applying-for-a-position-03 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: applying-for-a-position-03 | typ: anwendung | pruefung: BS -->
 **Welche typischen Aufgaben (*responsibilities*) umfasst laut Stellenausschreibung eine Position als *Network Administrator / Network Support*?**
 ?
 - Support, Administration und Implementierung von Servern, Netzwerken sowie Budgets
@@ -52,7 +52,7 @@ tags:
 
 ---
 
-<!-- card-id: applying-for-a-position-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: applying-for-a-position-04 | typ: pruefungsfalle | pruefung: BS -->
 **Worin liegt die Verwechslungsgefahr bei *permanent employment* bzw. *on a permanent basis* im Vergleich zum deutschen Wort „permanent“?**
 ?
 Im Englischen bedeutet *permanent employment* bzw. *on a permanent basis* eine **unbefristete Festanstellung** (nicht „ständig/ununterbrochen“ wie umgangssprachlich im Deutschen). *Basic salary* bezeichnet dabei das Grundgehalt.

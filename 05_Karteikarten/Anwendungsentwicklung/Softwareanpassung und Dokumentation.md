@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Softwareanpassung und Dokumentation"
 kategorie: Anwendungsentwicklung
+pruefung: "AP1/AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwareanpassung und Dokumentation.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -23,7 +24,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/softwareanpassung-und-dokumentation
 ---
-
 # 🗂️ Karteikarten: Softwareanpassung und Dokumentation
 
 > [!tip] Quellenbasis

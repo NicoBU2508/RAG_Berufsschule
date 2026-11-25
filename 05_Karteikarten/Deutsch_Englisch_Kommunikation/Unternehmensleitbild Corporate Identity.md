@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Unternehmensleitbild Corporate Identity"
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Unternehmensleitbild Corporate Identity.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -19,7 +20,6 @@ tags:
   - karteikarten
   - flashcards/deutsch-englisch-kommunikation/unternehmensleitbild-corporate-identity
 ---
-
 # 🗂️ Karteikarten: Unternehmensleitbild Corporate Identity
 
 > [!tip] Quellenbasis
@@ -27,7 +27,7 @@ tags:
 
 ---
 
-<!-- card-id: unternehmensleitbild-corporate-identity-01 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmensleitbild-corporate-identity-01 | typ: abgrenzung | pruefung: BS -->
 **Wie unterscheiden sich Philosophie, Vision, Mission und Unternehmensleitbild voneinander?**
 ?
 - **Philosophie**: Werte und Normen
@@ -38,7 +38,7 @@ tags:
 
 ---
 
-<!-- card-id: unternehmensleitbild-corporate-identity-02 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmensleitbild-corporate-identity-02 | typ: definition | pruefung: BS -->
 **Welche vier Funktionen erfüllt ein Unternehmensleitbild?**
 ?
 - **Orientierungsfunktion**: Mitarbeiter kennen die Unternehmensziele als Orientierungspunkte für ihr Handeln
@@ -49,7 +49,7 @@ tags:
 
 ---
 
-<!-- card-id: unternehmensleitbild-corporate-identity-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmensleitbild-corporate-identity-03 | typ: abgrenzung | pruefung: BS -->
 **Aus welchen drei Teilen besteht ein Unternehmensleitbild, und wofür steht jeder Teil?**
 ?
 - **Präambel** (*Grund*): Erklärt, warum das Leitbild geschaffen wird
@@ -59,7 +59,7 @@ tags:
 
 ---
 
-<!-- card-id: unternehmensleitbild-corporate-identity-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmensleitbild-corporate-identity-04 | typ: pruefungsfalle | pruefung: BS -->
 **Warum scheitert ein Unternehmensleitbild, wenn es allein vom Management formuliert wird, und wie wird es erfolgreich umgesetzt?**
 ?
 Werden Mitarbeiter und Führungskräfte des **Lower-Managements** nicht einbezogen, wird das Leitbild den Ansprüchen nicht gerecht und scheitert.
@@ -68,7 +68,7 @@ Erfolgsfaktoren sind **Projektgruppen** und regelmäßige Treffen sowie Implemen
 
 ---
 
-<!-- card-id: unternehmensleitbild-corporate-identity-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmensleitbild-corporate-identity-05 | typ: anwendung | pruefung: BS -->
 **Ordne „Umweltschonende Produktion“, „Eröffnung eines zweiten Standorts“ und „Um den Verkauf erfolgreich zu starten, hat Qualität oberste Priorität“ den Teilen des Unternehmensleitbildes zu.**
 ?
 - „Um den Verkauf erfolgreich zu starten, hat Qualität oberste Priorität“ → **Präambel** (Begründung/Grund)
@@ -78,7 +78,7 @@ Erfolgsfaktoren sind **Projektgruppen** und regelmäßige Treffen sowie Implemen
 
 ---
 
-<!-- card-id: unternehmensleitbild-corporate-identity-06 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmensleitbild-corporate-identity-06 | typ: definition | pruefung: BS -->
 **Welche vier Bestandteile umfasst die Corporate Identity (CI), und wie hängen *Corporate Culture* und *Corporate Behaviour* zusammen?**
 ?
 - **Corporate Culture**: Unternehmenskultur (Handlungsweisen, ethische Werte und Grundlagen)

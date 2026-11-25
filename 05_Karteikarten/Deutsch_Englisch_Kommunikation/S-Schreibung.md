@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "S-Schreibung"
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/S-Schreibung.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -16,7 +17,6 @@ tags:
   - karteikarten
   - flashcards/deutsch-englisch-kommunikation/s-schreibung
 ---
-
 # 🗂️ Karteikarten: S-Schreibung
 
 > [!tip] Quellenbasis
@@ -24,7 +24,7 @@ tags:
 
 ---
 
-<!-- card-id: s-schreibung-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: s-schreibung-01 | typ: definition | pruefung: BS -->
 **Wann schreibt man im Deutschen `ß`, wann `ss` und wann einfaches `s`?**
 ?
 - **ß**: nur nach **langem Vokal** oder **Diphthong** (Zwielaut, z. B. *ei, au*): *groß, der Gruß, außer, gießen*
@@ -34,7 +34,7 @@ tags:
 
 ---
 
-<!-- card-id: s-schreibung-02 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: s-schreibung-02 | typ: pruefungsfalle | pruefung: BS -->
 **Welche wichtigen Ausnahmen durchbrechen die Regeln für `ß` (langer Vokal/Diphthong) und `ss` (kurzer Vokal)?**
 ?
 - Ausnahmen zu **ß** (einfaches `s` trotz langem Vokal/Diphthong): *aus, heraus, Eis*
@@ -43,7 +43,7 @@ tags:
 
 ---
 
-<!-- card-id: s-schreibung-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: s-schreibung-03 | typ: abgrenzung | pruefung: BS -->
 **Wie unterscheiden sich „Busse“ vs. „Buße“ sowie „Masse“ vs. „das Maß“ in Aussprache und S-Schreibung?**
 ?
 - **Busse** (kurzer Vokal → `ss`): Plural von *Bus* (Verkehrsmittel) vs. **Buße** (langer Vokal → `ß`): Strafe
@@ -52,7 +52,7 @@ tags:
 
 ---
 
-<!-- card-id: s-schreibung-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: s-schreibung-04 | typ: anwendung | pruefung: BS -->
 **Welcher Sonderfall gilt für `s` vor `p` oder `t`, und wie werden *Missgeschick*, *Salzwasser* und *Spaß* korrekt geschrieben?**
 ?
 - **Sonderfall**: `s` vor `p` oder `t` wird als `s` geschrieben, aber als `sch` gesprochen (z. B. *Spiel, Stuhl, Spanne, Start*).

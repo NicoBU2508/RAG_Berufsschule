@@ -9,6 +9,7 @@ rag_include: true
 canonical_evidence: false
 thema: "Objektorientierung"
 kategorie: Anwendungsentwicklung
+pruefung: "AP2"
 quellen: 8
 seiten: 59
 tags:
@@ -18,6 +19,9 @@ tags:
 ---
 
 # Objektorientierung
+
+> [!tip] Lern- & Prüfungsfokus
+> **Prüfung:** 🔵 AP2 · **Training:** [[05_Karteikarten/Anwendungsentwicklung/Objektorientierung|🗂️ Karteikarten-Deck öffnen]] · **Katalog:** [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|IHK-AP1-Checkliste]]
 
 Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Seitenprüfung abgeleitet. Sie ordnet Belege ein; fachliche Aussagen müssen aus der verlinkten Quellnotiz stammen und bei OCR-, Layout-, Zahlen-, Code- oder Rechtsfragen am Original geprüft werden.
 

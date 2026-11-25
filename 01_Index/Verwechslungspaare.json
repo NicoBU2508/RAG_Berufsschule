@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "updated_on": "2026-11-25",
+  "description": "Kuratierte IHK-Verwechslungspaare für diskriminatives Interleaving (Brunmair & Richter 2019). Verhindert typische Punkteverluste durch oberflächlich ähnliche Begriffe oder Rechenschemata.",
+  "clusters": [
+    {
+      "id": "netzplan-vs-netzwerkplan",
+      "title": "Netzplan (Projektmanagement) vs. Netzwerkplan / Topologie (IT-Technik)",
+      "pruefung": "AP1",
+      "topics": [
+        "Projektplanung und Netzplanmethode",
+        "Netzwerktechnik und Netzplan"
+      ],
+      "contrast_focus": "Projekt-Zeitplanung (FAZ/FEZ/SAZ/SEZ/Puffer/kritischer Pfad) vs. physische/logische IT-Vernetzungsstruktur (Switch, Router, VLAN, IP-Subnetz)",
+      "discrimination_question": "Geht es um Vorgangsdauern, Abhängigkeiten und Pufferzeiten im Projekt (BWL-Netzplantechnik) oder um Geräte, Ports, Kabel und IP-Netze (IT-Netzwerkplan)?"
+    },
+    {
+      "id": "si-vs-iec-vs-bit",
+      "title": "Dezimalpräfixe (MB = 10^6) vs. Binärpräfixe (MiB = 2^20) vs. Bit/s-Übertragungsrate",
+      "pruefung": "AP1",
+      "topics": [
+        "SI- und IEC-Dateneinheiten",
+        "SI-Vorsätze und Einheitenumrechnung",
+        "Binärzahlen"
+      ],
+      "contrast_focus": "Basis 1000 (kB, MB, GB) vs. Basis 1024 (KiB, MiB, GiB) und Faktor 8 zwischen Byte (Dateigröße) und Bit/s (Leitungsbandbreite)",
+      "discrimination_question": "Steht dort ein 'i' in der Einheit (MiB/GiB -> Faktor 1024) oder nicht (MB/GB -> Faktor 1000) – und musst du Byte noch mal 8 nehmen, weil die Leitung in Mbit/s angegeben ist?"
+    },
+    {
+      "id": "lastenheft-vs-pflichtenheft",
+      "title": "Lastenheft (Auftraggeber) vs. Pflichtenheft (Auftragnehmer) vs. SMART-Ziele",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "Projektmanagement Lastenheft Pflichtenheft",
+        "Unternehmensziele",
+        "Softwarelebenszyklus und Vorgehensmodelle"
+      ],
+      "contrast_focus": "WAS und WOFÜR aus Kundensicht (Lastenheft) vs. WIE und WOMIT technisch realisiert (Pflichtenheft)",
+      "discrimination_question": "Wer schreibt das Dokument – der Kunde mit seinen Anforderungen (WAS/WOFÜR = Lastenheft) oder der IT-Dienstleister mit seinem konkreten Umsetzungskonzept (WIE = Pflichtenheft)?"
+    },
+    {
+      "id": "bpmn-vs-uml-vs-epk",
+      "title": "BPMN 2.0 vs. UML-Aktivitätsdiagramm vs. EPK",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "Business Process Model and Notation BPMN",
+        "UML-Diagramme",
+        "Ereignisgesteuerte Prozessketten EPK",
+        "Prozessmanagement und Geschäftsprozesse"
+      ],
+      "contrast_focus": "BPMN-Pools/Lanes & Gateways (XOR/AND/OR) vs. UML-Kontrollfluss (Decision/Merge, Fork/Join) vs. strenger Ereignis-Funktion-Wechsel in EPK",
+      "discrimination_question": "Welche Notation liegt vor – und welche Gateway-/Verzweigungsregel gilt (z. B. darf in EPK auf ein OR/XOR-Ereignis direkt eine Entscheidung folgen oder nicht)?"
+    },
+    {
+      "id": "backup-strategien",
+      "title": "Vollbackup vs. Differenzielles vs. Inkrementelles Backup & Hochverfügbarkeit/RAID",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "Backup und Datensicherung",
+        "Hochverfügbarkeit und Redundanz",
+        "RAID-Systeme"
+      ],
+      "contrast_focus": "Sicherung seit letztem Vollbackup (Differenziell: schneller Restore, mehr Speicher) vs. seit letzter beliebiger Sicherung (Inkrementell: schnellstes Backup, längster Restore) – und warum RAID kein Backup ersetzt!",
+      "discrimination_question": "Bezieht sich die tägliche Sicherung immer auf das letzte Vollbackup (differenziell) oder nur auf den Vortag (inkrementell) – und wie viele Sicherungssätze brauchst du im Ernstfall für den Restore?"
+    },
+    {
+      "id": "kryptografie-hash-signatur",
+      "title": "Symmetrische vs. Asymmetrische vs. Hybride Verschlüsselung vs. Hash vs. Digitale Signatur",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "Kryptografie, Hash und Signatur",
+        "IT-Sicherheit Grundlagen",
+        "Exchange- und Outlook-Sicherheit"
+      ],
+      "contrast_focus": "Vertraulichkeit (Verschlüsseln mit Public Key des Empfängers!) vs. Integrität & Authentizität (Signieren des Hashes mit eigenem Private Key!)",
+      "discrimination_question": "Welches Schutzziel ist gefragt (Geheimhaltung vs. Echtheit/Unverändertheit) – und wessen Schlüssel (Sender oder Empfänger, Public oder Private) wird dafür eingesetzt?"
+    },
+    {
+      "id": "bsi-grundschutz-phasen",
+      "title": "BSI-Strukturanalyse vs. Schutzbedarfsfeststellung vs. Modellierung vs. Risikoanalyse",
+      "pruefung": "AP1",
+      "topics": [
+        "Strukturanalyse und Informationsverbund",
+        "Schutzbedarfsfeststellung",
+        "BSI-Modellierung",
+        "Risikoanalyse",
+        "Sicherheitsmanagement und ISMS"
+      ],
+      "contrast_focus": "Reihenfolge im BSI-Sicherheitsprozess: Erst erfassen (Strukturanalyse) -> Schaden bewerten (Schutzbedarf) -> Bausteine zuordnen (Modellierung) -> Sonderfälle prüfen (Risikoanalyse)",
+      "discrimination_question": "In welchem Schritt des BSI-Grundschutzes befindest du dich: Zielobjekte erfassen, Schadensszenarien einstufen (normal/hoch/sehr hoch), Grundschutz-Bausteine auswählen oder zusätzlichen Schutzbedarf analysieren?"
+    },
+    {
+      "id": "osi-vs-tcp-udp-komponenten",
+      "title": "OSI-Schichten & Kopplungselemente (Hub/Switch/Router) & TCP vs. UDP",
+      "pruefung": "AP1",
+      "topics": [
+        "OSI-Schichtenmodell",
+        "Netzwerktechnik und Netzplan",
+        "IPv4-Adressierung und Subnetting"
+      ],
+      "contrast_focus": "Layer 1 (Bit/Hub), Layer 2 (Frame/MAC/Switch), Layer 3 (Paket/IP/Router), Layer 4 (Segment/Port: TCP verbindungsorientiert vs. UDP verbindungslos)",
+      "discrimination_question": "Auf welcher OSI-Schicht arbeitet das genannte Gerät/Protokoll, anhand welcher Adresse (MAC, IP oder Port) entscheidet es – und teilt es Kollisions- oder Broadcastdomänen?"
+    },
+    {
+      "id": "kalkulation-nwa-break-even",
+      "title": "Bezugskalkulation vs. Nutzwertanalyse vs. Break-Even / Deckungsbeitrag",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "Bezugskalkulation und Verkaufskalkulation",
+        "Angebotsvergleich und Nutzwertanalyse",
+        "Deckungsbeitrag und Gewinnschwelle",
+        "Wirtschaftlichkeit und Rechnungswesen"
+      ],
+      "contrast_focus": "Reiner Einkaufspreisvergleich (Rabatt -> Skonto -> Bezugskosten) vs. qualitative Kriteriengewichtung (NWA) vs. Absatzmenge ab Kostendeckung (Fixkosten / Stückdeckungsbeitrag)",
+      "discrimination_question": "Vergleichst du Lieferantenpreise (Bezugskalkulation), nicht-monetäre Qualitätskriterien (Nutzwertanalyse) oder ab welcher Stückzahl Gewinn entsteht (Gewinnschwelle)?"
+    },
+    {
+      "id": "leistung-wirkungsgrad-usv",
+      "title": "Netzteil-Wirkungsgrad (P_zu vs. P_ab) vs. Elektrische Arbeit/Kosten vs. USV (VA vs. W)",
+      "pruefung": "AP1",
+      "topics": [
+        "Netzteil-Wirkungsgrad und 80 PLUS",
+        "Elektrische Arbeit und Energiekosten",
+        "Elektrische Leistung",
+        "USV-Anlagen"
+      ],
+      "contrast_focus": "PC-Komponenten brauchen P_ab, aus der Steckdose fließt P_zu = P_ab / eta (größer!); bei USV zählt Scheinleistung S in VA = P / cos(phi) sowie VFI vs. VI vs. VFD",
+      "discrimination_question": "Ist die gegebene Wattzahl der Bedarf der PC-Komponenten innen (P_ab -> durch Wirkungsgrad teilen!) oder schon die Aufnahme an der Steckdose (P_zu) – und ist nach Leistung (W/kW), Arbeit (kWh) oder Scheinleistung (VA) gefragt?"
+    },
+    {
+      "id": "kaufvertrag-besitz-eigentum",
+      "title": "Besitz vs. Eigentum & Kaufvertrag / Rechtsgeschäfte / Mängelrechte",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "Besitz, Eigentum und Rechtssubjekte",
+        "Kaufvertrag und Geschäftsfähigkeit"
+      ],
+      "contrast_focus": "Tatsächliche Sachherrschaft (Besitz) vs. rechtliche Herrschaft (Eigentum, z. B. beim Eigentumsvorbehalt) sowie Verpflichtungs- vs. Erfüllungsgeschäft (Trennungs-/Abstraktionsprinzip)",
+      "discrimination_question": "Wer hat die Ware physisch in der Hand (Besitzer) und wem gehört sie rechtlich (Eigentümer) – z. B. vor vollständiger Kaufpreiszahlung unter Eigentumsvorbehalt?"
+    },
+    {
+      "id": "schleifen-verzweigungen-methoden",
+      "title": "kopfgesteuert (while/for) vs. fußgesteuert (do-while) & Call-by-Value/Rückgabe",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "Schleifen",
+        "Operatoren und Bedingungen",
+        "Arrays und Datenstrukturen",
+        "Methoden, Parameter und Rückgabewerte"
+      ],
+      "contrast_focus": "Mindestens 1 Durchlauf (do-while) vs. 0 Durchläufe möglich (while/for), Array-Index 0 bis length-1 (Off-by-One '<' vs. '<=') und logisches UND/ODER",
+      "discrimination_question": "Wird die Bedingung vor oder nach dem ersten Durchlauf geprüft – und läuft der Array-Index bis '< length' (richtig) oder fehlerhaft bis '<= length'?"
+    },
+    {
+      "id": "compiler-vs-interpreter-test",
+      "title": "Compiler vs. Interpreter & Black-Box- vs. White-Box-Test",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "Programmiersprachen und Übersetzer",
+        "Softwaretest und Testverfahren",
+        "Entwicklungswerkzeuge und Debugging"
+      ],
+      "contrast_focus": "Vorab-Übersetzung in Maschinencode/Bytecode (Compiler) vs. zeilenweise Ausführung zur Laufzeit (Interpreter); Test gegen Spezifikation ohne Codekenntnis (Black-Box) vs. Pfad-/Zweigabdeckung im Code (White-Box)",
+      "discrimination_question": "Kenne und prüfe ich beim Testen den inneren Quellcode (White-Box) oder teste ich nur Eingabe gegen erwartete Ausgabe laut Anforderung (Black-Box)?"
+    },
+    {
+      "id": "sql-where-having-dml",
+      "title": "SQL: WHERE vs. HAVING, DISTINCT vs. GROUP BY & DDL/DML (AP2 Fokus)",
+      "pruefung": "AP2",
+      "topics": [
+        "SQL-Grundlagen und SELECT-Abfragen",
+        "SQL-Aggregatfunktionen und Gruppierung",
+        "SQL-Datenmanipulation INSERT UPDATE DELETE",
+        "Datenbankmodellierung und ER-Modell"
+      ],
+      "contrast_focus": "Zeilenfilter vor Gruppierung (WHERE) vs. Gruppenfilter auf Aggregaten nach GROUP BY (HAVING); UPDATE/DELETE ohne WHERE verändert/löscht die gesamte Tabelle!",
+      "discrimination_question": "Filterst du einzelne Tabellenzeilen vor der Gruppierung (WHERE) oder bereits berechnete Gruppenwerte wie COUNT/SUM/AVG (HAVING)?"
+    },
+    {
+      "id": "arbeitsrecht-schutzgesetze-wiso",
+      "title": "Kündigungsschutz vs. Jugendarbeitsschutz vs. Mutterschutz vs. Schwerbehinderung (AP2 WiSo)",
+      "pruefung": "AP2",
+      "topics": [
+        "Kündigung und Arbeitsrecht",
+        "Ausbildungsvertrag und BBiG",
+        "Jugendarbeitsschutz",
+        "Mutterschutz",
+        "Schwerbehinderung",
+        "Betriebsrat und Betriebsverfassung"
+      ],
+      "contrast_focus": "Fristen in Probezeit vs. nach Probezeit (BBiG vs. BGB § 622), Anhörungspflicht des Betriebsrats (§ 102 BetrVG) und besondere Kündigungsverbote",
+      "discrimination_question": "Handelt es sich um ein Ausbildungsverhältnis (BBiG!) oder ein reguläres Arbeitsverhältnis – und greift ein besonderer Kündigungsschutz?"
+    }
+  ]
+}

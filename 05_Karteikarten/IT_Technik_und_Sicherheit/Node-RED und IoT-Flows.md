@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Node-RED und IoT-Flows"
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Node-RED und IoT-Flows.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -17,7 +18,6 @@ tags:
   - karteikarten
   - flashcards/it-technik-und-sicherheit/node-red-und-iot-flows
 ---
-
 # 🗂️ Karteikarten: Node-RED und IoT-Flows
 
 > [!tip] Quellenbasis
@@ -25,7 +25,7 @@ tags:
 
 ---
 
-<!-- card-id: node-red-und-iot-flows-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: node-red-und-iot-flows-01 | typ: definition | pruefung: BS -->
 **Welche drei Standard-Attribute besitzt jedes Nachrichtenobjekt (`msg`) in Node-RED und wofür stehen `payload` und `topic`?**
 ?
 Jedes Nachrichtenobjekt besitzt `msg.payload`, `msg.topic` und `msg._msgid`. `Payload` bezeichnet die Nutzlast (den eigentlichen Inhalt einer Übertragung) und `Topic` das Thema der Nachricht.
@@ -33,7 +33,7 @@ Jedes Nachrichtenobjekt besitzt `msg.payload`, `msg.topic` und `msg._msgid`. `Pa
 
 ---
 
-<!-- card-id: node-red-und-iot-flows-02 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: node-red-und-iot-flows-02 | typ: pruefungsfalle | pruefung: BS -->
 **Woran erkennt man in Node-RED, dass Änderungen an einem Node noch nicht aktiv sind, und wie werden sie übernommen?**
 ?
 Ein blauer Punkt am Node signalisiert, dass Änderungen noch nicht ausgerollt wurden. Erst über die Schaltfläche „Deploy“ wird der angepasste Flow übernommen und ausgeführt.
@@ -41,7 +41,7 @@ Ein blauer Punkt am Node signalisiert, dass Änderungen noch nicht ausgerollt wu
 
 ---
 
-<!-- card-id: node-red-und-iot-flows-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: node-red-und-iot-flows-03 | typ: abgrenzung | pruefung: BS -->
 **Welche Rollenverteilung gilt zwischen Steuerung (z. B. S7/LOGO!) und Node-RED, und welche drei Parameter definieren einen Endpoint?**
 ?
 Die Steuerung übernimmt die Rolle des Servers, während Node-RED als Client (über S7-Node oder OPC-Node) zugreift. Die Schnittstellendefinition eines Endpoints umfasst IP-Adresse, Port und die jeweilige Variable für den lesenden oder schreibenden Zugriff.
@@ -49,7 +49,7 @@ Die Steuerung übernimmt die Rolle des Servers, während Node-RED als Client (ü
 
 ---
 
-<!-- card-id: node-red-und-iot-flows-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: node-red-und-iot-flows-04 | typ: abgrenzung | pruefung: BS -->
 **Welche Aufgaben übernehmen das IoT-Gateway und der MQTT-Broker bei der Vernetzung cyberphysischer Systeme mit Node-RED?**
 ?
 Das IoT-Gateway sorgt für die Trennung zwischen IT-Netz und OT-Netz (Steuerungen/Sensorik). Der MQTT-Broker vermittelt Nachrichten zwischen den Komponenten nach dem Publish/Subscribe-Prinzip.
@@ -57,7 +57,7 @@ Das IoT-Gateway sorgt für die Trennung zwischen IT-Netz und OT-Netz (Steuerunge
 
 ---
 
-<!-- card-id: node-red-und-iot-flows-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: node-red-und-iot-flows-05 | typ: anwendung | pruefung: BS -->
 **Wie ist ein Ping-Flow in Node-RED aufgebaut, der die Erreichbarkeit eines Servers regelmäßig prüft und als Statusmeldung ausgibt?**
 ?
 Ein Inject-Node löst den Ping-Node periodisch (z. B. jede Minute) aus; ein Switch-Node teilt bei Erfolg bzw. Misserfolg auf zwei Pfade auf, Change-Nodes setzen die passende Text-Payload („läuft“ / „offline“) und ein Debug-Node gibt die Meldung aus.

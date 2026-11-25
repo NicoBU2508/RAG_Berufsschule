@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: Kommasetzung
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "BS"
 thema_quelle: 03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Kommasetzung.md
 stand_karten: '2026-11-24'
 stand_quelle: '2026-11-24'
@@ -29,7 +30,7 @@ tags:
 
 ---
 
-<!-- card-id: kommasetzung-01 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: kommasetzung-01 | typ: abgrenzung | pruefung: BS -->
 **Wann steht bei Konjunktionen und Adverbien in einer Aufzählung ein Komma und wann nicht?**
 ?
 Mit Komma stehen entgegenstellende/zweiteilige Verbindungen wie *einerseits …, andererseits*, *je …, desto*, *nicht nur …, sondern (auch)* oder *zwar …, jedoch*.
@@ -38,7 +39,7 @@ Ohne Komma bei gleichrangigen Wörtern/Wortgruppen stehen *und*, *oder*, *sowie*
 
 ---
 
-<!-- card-id: kommasetzung-02 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: kommasetzung-02 | typ: definition | pruefung: BS -->
 **Welche Kommaregel gilt für Nebensätze und Vergleichssätze?**
 ?
 Nebensätze (eingeleitet z. B. durch *da/weil*, *dass*, *als*, *wenn/falls*, *während*, *nachdem*, *obwohl*, *indem*) sowie Vergleichssätze (*so lange, wie …*) werden immer durch ein Komma vom übergeordneten Satz abgetrennt.
@@ -46,7 +47,7 @@ Nebensätze (eingeleitet z. B. durch *da/weil*, *dass*, *als*, *wenn/falls*, *w�
 
 ---
 
-<!-- card-id: kommasetzung-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: kommasetzung-03 | typ: abgrenzung | pruefung: BS -->
 **Wann wird bei mehreren Adjektiven vor einem Nomen ein Komma gesetzt?**
 ?
 Nur bei der Reihung gleichwertiger Adjektive wird ein Komma gesetzt (Beispiel: *„neue, umweltfreundliche Methoden“*).
@@ -54,7 +55,7 @@ Nur bei der Reihung gleichwertiger Adjektive wird ein Komma gesetzt (Beispiel: *
 
 ---
 
-<!-- card-id: kommasetzung-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: kommasetzung-04 | typ: pruefungsfalle | pruefung: BS -->
 **Warum folgt nach einem Komma nicht automatisch „dass“?**
 ?
 Nach einem Komma folgt oft kein Nebensatz mit der Konjunktion *„dass“*, sondern ein Relativsatz mit dem Relativpronomen *„das“* (z. B. *„Das Modul, das die Daten prüft, …“*). Relativsätze werden ebenfalls durch Kommas abgetrennt.
@@ -62,7 +63,7 @@ Nach einem Komma folgt oft kein Nebensatz mit der Konjunktion *„dass“*, sond
 
 ---
 
-<!-- card-id: kommasetzung-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: kommasetzung-05 | typ: anwendung | pruefung: BS -->
 **Wo steht das Komma bei „sodass“, „ohne dass“, „anstatt dass“ und „als dass“?**
 ?
 Das Komma steht immer vor der gesamten Verbindung (z. B. *„Die Bedingung blieb wahr, sodass …“* bzw. *„… lief weiter, ohne dass …“*), und *dass* wird dabei stets mit Doppel-s geschrieben.
@@ -70,7 +71,7 @@ Das Komma steht immer vor der gesamten Verbindung (z. B. *„Die Bedingung blieb
 
 ---
 
-<!-- card-id: kommasetzung-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: kommasetzung-06 | typ: anwendung | pruefung: BS -->
 **Welche vier Wortarten können sich hinter „das“/„dass“ verbergen (z. B. in „Dass das das Problem …“)?**
 ?
 *Dass* ist eine Konjunktion (leitet Nebensätze ein); *das* kann Demonstrativpronomen (*dieses*), bestimmter Artikel oder Relativpronomen (*welches*) sein. Vor der Konjunktion *dass* und vor Relativsätzen steht immer ein Komma.

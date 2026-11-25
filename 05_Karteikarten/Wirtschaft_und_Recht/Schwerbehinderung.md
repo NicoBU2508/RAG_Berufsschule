@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Schwerbehinderung"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Schwerbehinderung.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -17,7 +18,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/schwerbehinderung
 ---
-
 # 🗂️ Karteikarten: Schwerbehinderung
 
 > [!tip] Quellenbasis
@@ -25,7 +25,7 @@ tags:
 
 ---
 
-<!-- card-id: schwerbehinderung-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: schwerbehinderung-01 | typ: definition | pruefung: AP2 -->
 **Wann gilt ein Mensch laut Arbeitsrecht als schwerbehindert?**
 ?
 Wenn die körperliche, geistige Fähigkeit oder seelische Gesundheit **länger als 6 Monate** von dem für das Lebensalter typischen Zustand abweicht und ein **Grad der Behinderung (GdB) von mindestens 50 %** vorliegt.
@@ -33,7 +33,7 @@ Wenn die körperliche, geistige Fähigkeit oder seelische Gesundheit **länger a
 
 ---
 
-<!-- card-id: schwerbehinderung-02 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: schwerbehinderung-02 | typ: anwendung | pruefung: AP2 -->
 **Ab welcher Betriebsgröße sind Arbeitgeber verpflichtet, schwerbehinderte Menschen zu beschäftigen, und was gilt bei Nichterfüllung?**
 ?
 - **Pflicht:** Alle privaten und öffentlichen Arbeitgeber ab **mindestens 20 Arbeitsplätzen** müssen schwerbehinderte Menschen beschäftigen (Quotenstaffelung nach Betriebsgröße).
@@ -42,7 +42,7 @@ Wenn die körperliche, geistige Fähigkeit oder seelische Gesundheit **länger a
 
 ---
 
-<!-- card-id: schwerbehinderung-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: schwerbehinderung-03 | typ: pruefungsfalle | pruefung: AP2 -->
 **Welche Besonderheiten gelten beim Kündigungsschutz und beim Urlaubsanspruch von schwerbehinderten Arbeitnehmern?**
 ?
 - **Kündigungsschutz:** Kündigung ist nur mit vorheriger **Zustimmung des Integrationsamtes** zulässig; die Kündigungsfrist beträgt **mindestens 4 Wochen**.
@@ -51,7 +51,7 @@ Wenn die körperliche, geistige Fähigkeit oder seelische Gesundheit **länger a
 
 ---
 
-<!-- card-id: schwerbehinderung-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: schwerbehinderung-04 | typ: abgrenzung | pruefung: AP2 -->
 **Welche Pflichten für Arbeitgeber ergeben sich aus § 164 Abs. 4 SGB IX und der ArbStättV (inkl. ASR V3a.2)?**
 ?
 - **§ 164 Abs. 4 SGB IX:** Arbeitgeber müssen Arbeitsplatz, Arbeitsumfeld und Arbeitsorganisation behindertengerecht gestalten; es besteht Anspruch auf **barrierefreie Soft- und Hardware**.
@@ -60,7 +60,7 @@ Wenn die körperliche, geistige Fähigkeit oder seelische Gesundheit **länger a
 
 ---
 
-<!-- card-id: schwerbehinderung-05 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: schwerbehinderung-05 | typ: abgrenzung | pruefung: AP2 -->
 **Wie unterscheiden sich BITV 2.0 und das Barrierefreiheitsstärkungsgesetz (BFSG) bei der digitalen Barrierefreiheit?**
 ?
 - **BITV 2.0:** Regelt detaillierte technische Standards (basierend auf WCAG) für Webseiten, Apps und GUIs **öffentlicher Stellen**.
@@ -69,7 +69,7 @@ Wenn die körperliche, geistige Fähigkeit oder seelische Gesundheit **länger a
 
 ---
 
-<!-- card-id: schwerbehinderung-06 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: schwerbehinderung-06 | typ: definition | pruefung: AP2 -->
 **Was versteht man bei der barrierefreien Arbeitsplatzgestaltung unter dem „Zwei-Sinne-Prinzip“?**
 ?
 Informationen müssen für **mindestens zwei Sinne** (Hören, Sehen, Tasten, Riechen, Schmecken) zugänglich sein – beispielsweise werden akustische Ruf- oder Klingeltöne zusätzlich visuell angezeigt und visuelle Signale akustisch ausgegeben.

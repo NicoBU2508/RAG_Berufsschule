@@ -1,28 +1,25 @@
 ---
 typ: ap1_bereich
 pruefung: AP1
+stand: 2026-11-25
 ---
 # AP1 Kundenbedarf und Anforderungen
 
 > [!ap1] Lernziel
-> Kundenbedarf ermitteln, Anforderungen aufnehmen, Rahmenbedingungen klären.
+> Kundenbedarf zielgruppengerecht ermitteln, Anforderungen aufnehmen (Lasten-/Pflichtenheft, SMART), Projekte und Prozesse planen.
 
-## Relevante Themen
+## Kanonische Themen (`03_Themen/Visuell_geprueft/`)
 
-- [[02_Faecher/Deutsch/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot|Geschäftsbrief Anfrage Angebot]]
-- [[02_Faecher/Deutsch/10_Lernordner/Projektmanagement Lastenheft Pflichtenheft/00_Projektmanagement Lastenheft Pflichtenheft|Projektmanagement Lastenheft Pflichtenheft]]
-- [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen|Betrieb und Unternehmen]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/Beschaffung Angebot und Kalkulation/00_Beschaffung Angebot und Kalkulation|Beschaffung Angebot und Kalkulation]]
+- [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Kommunikation Modelle|Kommunikation Modelle]]
+- [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Geschäftsbrief|Geschäftsbrief]]
+- [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Geschäftsmail|Geschäftsmail]]
+- [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Projektmanagement Lastenheft Pflichtenheft|Projektmanagement Lastenheft Pflichtenheft]]
+- [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Unternehmensziele|Unternehmensziele]]
+- [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwarelebenszyklus und Vorgehensmodelle|Softwarelebenszyklus und Vorgehensmodelle]]
+- [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Projektplanung und Netzplanmethode|Projektplanung und Netzplanmethode]]
+- [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Business Process Model and Notation BPMN|Business Process Model and Notation BPMN]]
+- [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Barrierefreies Arbeiten und digitale Barrierefreiheit|Barrierefreies Arbeiten und digitale Barrierefreiheit]]
 
-## Konkrete Quellen
+## Vollständige Prüfungs-Checkliste
 
-| Thema | Quellen |
-|---|---|
-| [[02_Faecher/Deutsch/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot\|Geschäftsbrief Anfrage Angebot]] | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] S. 1, 2, 3, 4, 5 |
-| [[02_Faecher/Deutsch/10_Lernordner/Projektmanagement Lastenheft Pflichtenheft/00_Projektmanagement Lastenheft Pflichtenheft\|Projektmanagement Lastenheft Pflichtenheft]] | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] S. 24, 25, 26, 27, 28, 30, 31, 32, 34, 35, 36 |
-| [[02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen\|Betrieb und Unternehmen]] | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP\|BGWP]] S. 1, 2, 3, 4, 5, 6, 7, 8, [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] S. 1, 2, 3, 4 |
-| [[02_Faecher/ITT_IT_Technik/10_Lernordner/Beschaffung Angebot und Kalkulation/00_Beschaffung Angebot und Kalkulation\|Beschaffung Angebot und Kalkulation]] | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Aufgabenblatt_mogliche_Losung\|Stol_Aufgabenblatt_mogliche_Losung]] S. 1, 2, 3, 4, [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] S. 13, 14, 15, 16, 19, 20, 21, 26, 27 |
-
-## Altklausur-Vorbereitung
-
-- Sobald Altklausuren + Lösungen hinzugefügt sind, jede Aufgabe hier mit Thema, Quelle, Lösungsschritt und Fehleranalyse verlinken.
+Details zu allen Unterpunkten (Handlungsfeld 1.1–1.6) siehe [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|AP1 IHK-Prüfungskatalog & Checkliste]].

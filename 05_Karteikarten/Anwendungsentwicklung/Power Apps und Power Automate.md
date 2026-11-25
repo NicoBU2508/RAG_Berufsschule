@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Power Apps und Power Automate"
 kategorie: Anwendungsentwicklung
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Power Apps und Power Automate.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -16,7 +17,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/power-apps-und-power-automate
 ---
-
 # 🗂️ Karteikarten: Power Apps und Power Automate
 
 > [!tip] Quellenbasis
@@ -24,7 +24,7 @@ tags:
 
 ---
 
-<!-- card-id: power-apps-und-power-automate-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: power-apps-und-power-automate-01 | typ: definition | pruefung: BS -->
 **Wofür wird Microsoft Power Apps eingesetzt und welche typischen Elemente kommen in der Oberfläche zum Einsatz?**
 ?
 Power Apps ermöglicht das Erstellen eigener Apps und Programme mit Low-Code (z. B. To-do-Liste, Geräteverleih) zur Vereinfachung von Aufgaben in kleinen Abteilungen.
@@ -33,7 +33,7 @@ Typische Elemente sind Eingabefelder (Texteingabe, DatePicker, Dropdown, Combobo
 
 ---
 
-<!-- card-id: power-apps-und-power-automate-02 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: power-apps-und-power-automate-02 | typ: anwendung | pruefung: BS -->
 **Welche Aufgaben erfüllen die Power-Apps-Funktionen `Collect`, `Remove` und `Navigate` im Zusammenspiel mit `ThisItem`?**
 ?
 - `Collect(Datenquelle; {Spalte: Feld.Text})` schreibt neue Werte in die Datenquelle (bei Dropdown/Combobox `.SelectedText`, beim DatePicker `.SelectedDate`).
@@ -43,7 +43,7 @@ Typische Elemente sind Eingabefelder (Texteingabe, DatePicker, Dropdown, Combobo
 
 ---
 
-<!-- card-id: power-apps-und-power-automate-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: power-apps-und-power-automate-03 | typ: abgrenzung | pruefung: BS -->
 **Welche drei Arten von Cloud Flows unterscheidet Power Automate anhand ihres Triggers?**
 ?
 - **Automated Cloud Flow:** wird automatisch durch ein Event ausgelöst (z. B. E-Mail-Eingang / Abwesenheits-E-Mail).
@@ -53,7 +53,7 @@ Typische Elemente sind Eingabefelder (Texteingabe, DatePicker, Dropdown, Combobo
 
 ---
 
-<!-- card-id: power-apps-und-power-automate-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: power-apps-und-power-automate-04 | typ: pruefungsfalle | pruefung: BS -->
 **Was ist bei rot unterkringelten Datenquellen-Fehlern in Power Apps zu prüfen und wie unterscheiden sich AND- und OR-Verknüpfung in Power Automate?**
 ?
 Bei rot unterkringelten Fehlern rund um die Datenquelle sollte zuerst die Verbindung zur SharePoint-Liste geprüft, die Datenquelle aktualisiert und die App neu gestartet werden.

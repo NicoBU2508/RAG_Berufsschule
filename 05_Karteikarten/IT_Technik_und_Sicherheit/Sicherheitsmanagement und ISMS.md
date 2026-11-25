@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Sicherheitsmanagement und ISMS"
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Sicherheitsmanagement und ISMS.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -22,7 +23,6 @@ tags:
   - karteikarten
   - flashcards/it-technik-und-sicherheit/sicherheitsmanagement-und-isms
 ---
-
 # 🗂️ Karteikarten: Sicherheitsmanagement und ISMS
 
 > [!tip] Quellenbasis
@@ -30,7 +30,7 @@ tags:
 
 ---
 
-<!-- card-id: sicherheitsmanagement-und-isms-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: sicherheitsmanagement-und-isms-01 | typ: definition | pruefung: AP1 -->
 **Warum reicht die isolierte Umsetzung einzelner technischer oder organisatorischer Maßnahmen nicht aus, und wozu dient ein ISMS?**
 ?
 Eine isolierte Umsetzung ohne Konzept und Erfolgskontrolle ist weder effektiv noch effizient.
@@ -39,7 +39,7 @@ Ein **Informationssicherheitsmanagementsystem (ISMS)** sorgt dafür, dass alle M
 
 ---
 
-<!-- card-id: sicherheitsmanagement-und-isms-02 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: sicherheitsmanagement-und-isms-02 | typ: anwendung | pruefung: AP1 -->
 **Welche vier Phasen umfasst der PDCA-Lebenszyklus im Sicherheitsprozess und was wird jeweils getan?**
 ?
 - **Plan**: Planung von Sicherheitsmaßnahmen.
@@ -50,7 +50,7 @@ Ein **Informationssicherheitsmanagementsystem (ISMS)** sorgt dafür, dass alle M
 
 ---
 
-<!-- card-id: sicherheitsmanagement-und-isms-03 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: sicherheitsmanagement-und-isms-03 | typ: definition | pruefung: AP1 -->
 **Welchen Zweck erfüllen Dokumentation und Informationsklassifizierung im Sicherheitsmanagement?**
 ?
 - **Dokumentation** macht den Sicherheitsprozess und Entscheidungen nachvollziehbar und vermeidet Missverständnisse (elektronisch leicht aktualisierbar, Zugriffsrechte regeln).
@@ -59,7 +59,7 @@ Ein **Informationssicherheitsmanagementsystem (ISMS)** sorgt dafür, dass alle M
 
 ---
 
-<!-- card-id: sicherheitsmanagement-und-isms-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: sicherheitsmanagement-und-isms-04 | typ: anwendung | pruefung: AP1 -->
 **Welche Aufgaben übernimmt ein Informationssicherheitsbeauftragter (ISB) in einer Institution?**
 ?
 Er koordiniert den Sicherheitsprozess, unterstützt die Leitung bei der Sicherheitsleitlinie, erstellt das Sicherheitskonzept sowie Realisierungspläne und initiiert deren Umsetzung.
@@ -68,7 +68,7 @@ Zudem berichtet er der Leitungsebene über den Status, untersucht sicherheitsrel
 
 ---
 
-<!-- card-id: sicherheitsmanagement-und-isms-05 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: sicherheitsmanagement-und-isms-05 | typ: abgrenzung | pruefung: AP1 -->
 **In welchen Schritten läuft der Informationssicherheitsprozess von der Initiierung bis zur Weiterentwicklung ab?**
 ?
 1. Initiierung des Prozesses (Leitung übernimmt Verantwortung, stellt finanzielle/personelle/zeitliche Ressourcen bereit, wählt Vorgehensweise).

@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Symbole und Glaube"
 kategorie: Religion_Ethik
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Religion_Ethik/Symbole und Glaube.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -16,7 +17,6 @@ tags:
   - karteikarten
   - flashcards/religion-ethik/symbole-und-glaube
 ---
-
 # 🗂️ Karteikarten: Symbole und Glaube
 
 > [!tip] Quellenbasis
@@ -24,7 +24,7 @@ tags:
 
 ---
 
-<!-- card-id: symbole-und-glaube-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: symbole-und-glaube-01 | typ: definition | pruefung: BS -->
 **Welche Hoheitstitel für Jesus nennt die linke Spalte der Übersicht auf Seite 7 (inkl. Bibelstellen)?**
 ?
 Aufgeführt sind **Sohn Gottes**, **Messias** (Joh 1,41), **Retter**, **König der Juden**, **Erlöser** sowie **Christus** (Mt 16,16).
@@ -32,7 +32,7 @@ Aufgeführt sind **Sohn Gottes**, **Messias** (Joh 1,41), **Retter**, **König d
 
 ---
 
-<!-- card-id: symbole-und-glaube-02 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: symbole-und-glaube-02 | typ: definition | pruefung: BS -->
 **Welche symbolischen Bilder und Bezeichnungen für Jesus listet die rechte Spalte auf Seite 7 auf?**
 ?
 Genannt werden die Bilder **Lamm Gottes**, **Hirte** (Joh 10,11) und **Weinstock** (Joh 15,1) sowie die Bezeichnungen **Heil**, **Herr** und **Rabbi**.
@@ -40,7 +40,7 @@ Genannt werden die Bilder **Lamm Gottes**, **Hirte** (Joh 10,11) und **Weinstock
 
 ---
 
-<!-- card-id: symbole-und-glaube-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: symbole-und-glaube-03 | typ: abgrenzung | pruefung: BS -->
 **Wie lassen sich die Einträge der linken und rechten Spalte zu Jesus auf Seite 7 inhaltlich voneinander abgrenzen?**
 ?
 Die linke Spalte bündelt **messianische und rettungsbezogene Hoheitstitel** (z. B. Messias, Christus, König der Juden, Retter, Erlöser), während die rechte Spalte neben „Herr“ und „Rabbi“ vor allem **anschauliche Bildworte** (Lamm Gottes, Hirte, Weinstock) versammelt.
@@ -48,7 +48,7 @@ Die linke Spalte bündelt **messianische und rettungsbezogene Hoheitstitel** (z.
 
 ---
 
-<!-- card-id: symbole-und-glaube-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: symbole-und-glaube-04 | typ: pruefungsfalle | pruefung: BS -->
 **Mit welchen übergeordneten Themen und Beispielen wird „Symbole und Glaube“ auf Seite 2 verknüpft?**
 ?
 Das Thema steht dort im Verbund mit **Freiheit und Selbstbestimmung** sowie **Religion, Ethik und Menschenbild** und wird durch zeitgeschichtliche Notizen (Weiße Rose, 9/11, Antisemitismus, Religionsfreiheit) ergänzt.

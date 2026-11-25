@@ -1,26 +1,22 @@
 ---
 typ: ap1_bereich
 pruefung: AP1
+stand: 2026-11-25
 ---
 # AP1 Kundeneinweisung Dokumentation
 
 > [!ap1] Lernziel
-> Kunden einweisen, Leistungserbringung dokumentieren, Übergabe nachvollziehbar machen.
+> Kunden zielgruppengerecht einweisen, Benutzer- und Systemdokumentation erstellen und Übergabe nachvollziehbar protokollieren.
 
-## Relevante Themen
+## Kanonische Themen (`03_Themen/Visuell_geprueft/`)
 
-- [[02_Faecher/Deutsch/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot|Geschäftsbrief Anfrage Angebot]]
-- [[02_Faecher/Deutsch/10_Lernordner/Rechtschreibung und Grammatik/00_Rechtschreibung und Grammatik|Rechtschreibung und Grammatik]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Dokumentation Installation und Anpassung/00_Dokumentation Installation und Anpassung|Dokumentation Installation und Anpassung]]
+- [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwareanpassung und Dokumentation|Softwareanpassung und Dokumentation]]
+- [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Kommunikation Modelle|Kommunikation Modelle]]
+- [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Geschäftsbrief|Geschäftsbrief]]
+- [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Geschäftsmail|Geschäftsmail]]
+- [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Business Communication English|Business Communication English]]
+- [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Sicherheitsmanagement und Maßnahmen|Sicherheitsmanagement und Maßnahmen]]
 
-## Konkrete Quellen
+## Vollständige Prüfungs-Checkliste
 
-| Thema | Quellen |
-|---|---|
-| [[02_Faecher/Deutsch/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot\|Geschäftsbrief Anfrage Angebot]] | [[02_Faecher/Deutsch/Quellen/Deutsch\|Deutsch]] S. 1, 2, 3, 4, 5 |
-| [[02_Faecher/Deutsch/10_Lernordner/Rechtschreibung und Grammatik/00_Rechtschreibung und Grammatik\|Rechtschreibung und Grammatik]] | [[02_Faecher/Deutsch/Quellen/Regelsammlung\|Regelsammlung]] S. 1, 2, 3, 4, [[02_Faecher/Deutsch/Quellen/Station_1\|Station_1]] S. 1, 2 |
-| [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Dokumentation Installation und Anpassung/00_Dokumentation Installation und Anpassung\|Dokumentation Installation und Anpassung]] | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] S. 82, 83, 84, 85, 86, 87 |
-
-## Altklausur-Vorbereitung
-
-- Sobald Altklausuren + Lösungen hinzugefügt sind, jede Aufgabe hier mit Thema, Quelle, Lösungsschritt und Fehleranalyse verlinken.
+Details zu allen Unterpunkten (Handlungsfeld 4.1–4.2) siehe [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|AP1 IHK-Prüfungskatalog & Checkliste]].

@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Schutzbedarfsfeststellung"
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Schutzbedarfsfeststellung.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -22,7 +23,6 @@ tags:
   - karteikarten
   - flashcards/it-technik-und-sicherheit/schutzbedarfsfeststellung
 ---
-
 # 🗂️ Karteikarten: Schutzbedarfsfeststellung
 
 > [!tip] Quellenbasis
@@ -30,7 +30,7 @@ tags:
 
 ---
 
-<!-- card-id: schutzbedarfsfeststellung-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: schutzbedarfsfeststellung-01 | typ: definition | pruefung: AP1 -->
 **Welche drei klassischen Grundwerte (Schutzziele) werden bei der Schutzbedarfsfeststellung betrachtet und wann sind sie verletzt?**
 ?
 - **Vertraulichkeit**: vertrauliche Informationen werden unberechtigt zur Kenntnis genommen oder weitergegeben.
@@ -40,7 +40,7 @@ tags:
 
 ---
 
-<!-- card-id: schutzbedarfsfeststellung-02 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: schutzbedarfsfeststellung-02 | typ: definition | pruefung: AP1 -->
 **Welche drei Schutzbedarfskategorien empfiehlt die IT-Grundschutz-Methodik und wie grenzen sie sich beim Schadensausmaß ab?**
 ?
 - **normal**: Die Schadensauswirkungen sind begrenzt und überschaubar.
@@ -50,7 +50,7 @@ tags:
 
 ---
 
-<!-- card-id: schutzbedarfsfeststellung-03 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: schutzbedarfsfeststellung-03 | typ: anwendung | pruefung: AP1 -->
 **Welche sechs Schadensszenarien werden bei der Schutzbedarfsfeststellung berücksichtigt?**
 ?
 1. Verstöße gegen Gesetze, Vorschriften oder Verträge sowie Beeinträchtigungen des informationellen Selbstbestimmungsrechts.
@@ -60,7 +60,7 @@ tags:
 
 ---
 
-<!-- card-id: schutzbedarfsfeststellung-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: schutzbedarfsfeststellung-04 | typ: abgrenzung | pruefung: AP1 -->
 **Wie unterscheiden sich Maximumprinzip, Kumulationseffekt und Verteilungseffekt bei der Vererbung des Schutzbedarfs auf ein IT-System?**
 ?
 - **Maximumprinzip**: Der höchste Schutzbedarf aller darauf laufenden Anwendungen wird übernommen.
@@ -70,7 +70,7 @@ tags:
 
 ---
 
-<!-- card-id: schutzbedarfsfeststellung-05 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: schutzbedarfsfeststellung-05 | typ: pruefungsfalle | pruefung: AP1 -->
 **Unter welchen Bedingungen kann der Schutzbedarf eines IT-Systems bezüglich Verfügbarkeit geringer sein als der der zugeordneten Anwendung?**
 ?
 1. Wenn das IT-System nur weniger wichtige Teile einer Anwendung bedient (z. B. bei verteilter Architektur oder nur pseudonymisierten Daten).
@@ -79,7 +79,7 @@ tags:
 
 ---
 
-<!-- card-id: schutzbedarfsfeststellung-06 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: schutzbedarfsfeststellung-06 | typ: pruefungsfalle | pruefung: AP1 -->
 **Warum kann ein Raum mit zwei gespiegelten Servern (jeweils normaler Schutzbedarf) einen höheren Schutzbedarf haben als die einzelnen Server?**
 ?
 Durch den **Kumulationseffekt**: Fällt ein Server aus, übernimmt der zweite – fällt jedoch der gesamte Raum aus (z. B. durch einen Brand), sind **beide** Server gleichzeitig betroffen.
@@ -88,7 +88,7 @@ Werden die gespiegelten Server auf unterschiedliche Räume oder Gebäude verteil
 
 ---
 
-<!-- card-id: schutzbedarfsfeststellung-07 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: schutzbedarfsfeststellung-07 | typ: abgrenzung | pruefung: AP1 -->
 **Welche drei Arten von Kommunikationsverbindungen sollten bei der Schutzbedarfsfeststellung als kritisch eingestuft werden?**
 ?
 1. Verbindungen, die aus der Institution in ein **öffentliches Netz** (z. B. Internet) oder über öffentliches Gelände reichen.

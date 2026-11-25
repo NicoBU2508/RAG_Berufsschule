@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Barrierefreies Arbeiten und digitale Barrierefreiheit"
 kategorie: Anwendungsentwicklung
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Barrierefreies Arbeiten und digitale Barrierefreiheit.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -19,7 +20,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/barrierefreies-arbeiten-und-digitale-barrierefreiheit
 ---
-
 # 🗂️ Karteikarten: Barrierefreies Arbeiten und digitale Barrierefreiheit
 
 > [!tip] Quellenbasis
@@ -27,7 +27,7 @@ tags:
 
 ---
 
-<!-- card-id: barrierefreies-arbeiten-und-digitale-barrierefreiheit-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: barrierefreies-arbeiten-und-digitale-barrierefreiheit-01 | typ: definition | pruefung: AP1 -->
 **Was bedeutet „barrierefrei“ und welche technischen Standards regeln die digitale Barrierefreiheit?**
 ?
 Barrierefreiheit bedeutet, dass Menschen mit und ohne Behinderung Einrichtungen, Anwendungen oder Websites in allgemein üblicher Weise und ohne fremde Hilfe auffinden und nutzen können.
@@ -36,7 +36,7 @@ Für digitale Barrierefreiheit gelten in Deutschland und der EU die Norm **EN 30
 
 ---
 
-<!-- card-id: barrierefreies-arbeiten-und-digitale-barrierefreiheit-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: barrierefreies-arbeiten-und-digitale-barrierefreiheit-02 | typ: abgrenzung | pruefung: AP1 -->
 **Wie grenzen sich SGB IX, ArbStättV (inkl. ASR V3a.2), BITV 2.0 und BFSG voneinander ab?**
 ?
 - **SGB IX (§ 164 Abs. 4) & ArbStättV (§ 3a Abs. 2 / ASR V3a.2):** verpflichten Arbeitgeber, Arbeitsplätze und Arbeitsstätten behindertengerecht und barrierefrei einzurichten.
@@ -46,7 +46,7 @@ Für digitale Barrierefreiheit gelten in Deutschland und der EU die Norm **EN 30
 
 ---
 
-<!-- card-id: barrierefreies-arbeiten-und-digitale-barrierefreiheit-03 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: barrierefreies-arbeiten-und-digitale-barrierefreiheit-03 | typ: definition | pruefung: AP1 -->
 **Welche vier Grundprinzipien bilden die Basis von WCAG 2.2 und EN 301 549?**
 ?
 1. **Wahrnehmbarkeit:** Informationen sind für die Sinne erfassbar (Kontrast mind. 4,5:1, Schrift bis 200 % skalierbar, `alt`-Attribute, Untertitel).
@@ -57,7 +57,7 @@ Für digitale Barrierefreiheit gelten in Deutschland und der EU die Norm **EN 30
 
 ---
 
-<!-- card-id: barrierefreies-arbeiten-und-digitale-barrierefreiheit-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: barrierefreies-arbeiten-und-digitale-barrierefreiheit-04 | typ: anwendung | pruefung: AP1 -->
 **Was verlangt das „Zwei-Sinne-Prinzip“ bei der Gestaltung eines barrierefreien Arbeitsplatzes?**
 ?
 Das Prinzip der alternativen Wahrnehmung verlangt, dass Informationen mindestens über zwei Sinne (z. B. Sehen und Hören) zugänglich sind.
@@ -66,7 +66,7 @@ Daher müssen z. B. Alarmsysteme, Ruf- oder Klingeltöne zusätzlich zum akustis
 
 ---
 
-<!-- card-id: barrierefreies-arbeiten-und-digitale-barrierefreiheit-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: barrierefreies-arbeiten-und-digitale-barrierefreiheit-05 | typ: anwendung | pruefung: AP1 -->
 **Welche assistiven Hardware- und Softwarehilfsmittel unterstützen Beschäftigte mit visuellen bzw. motorischen Einschränkungen?**
 ?
 - **Visuelle Einschränkungen:** Screenreader (Sprachausgabe des Bildschirminhalts), Braillezeilen (ertastbare Punktschrift) und Großschrifttastaturen.
@@ -75,7 +75,7 @@ Daher müssen z. B. Alarmsysteme, Ruf- oder Klingeltöne zusätzlich zum akustis
 
 ---
 
-<!-- card-id: barrierefreies-arbeiten-und-digitale-barrierefreiheit-06 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: barrierefreies-arbeiten-und-digitale-barrierefreiheit-06 | typ: pruefungsfalle | pruefung: AP1 -->
 **Warum genügen rein rote Formular-Fehlermeldungen oder Bilder ohne `alt`-Attribut den WCAG-Anforderungen nicht?**
 ?
 Eine bloße Farbmarkierung verstößt gegen die Verständlichkeit/Wahrnehmbarkeit – nötig sind klare Textmeldungen zur Fehlerbehebung.

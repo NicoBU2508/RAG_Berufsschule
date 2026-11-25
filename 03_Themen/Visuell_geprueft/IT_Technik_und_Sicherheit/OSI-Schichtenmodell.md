@@ -9,6 +9,7 @@ rag_include: true
 canonical_evidence: false
 thema: "OSI-Schichtenmodell"
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP1"
 quellen: 3
 seiten: 28
 tags:
@@ -18,6 +19,9 @@ tags:
 ---
 
 # OSI-Schichtenmodell
+
+> [!tip] Lern- & Prüfungsfokus
+> **Prüfung:** 🟢 AP1 · **Training:** [[05_Karteikarten/IT_Technik_und_Sicherheit/OSI-Schichtenmodell|🗂️ Karteikarten-Deck öffnen]] · **Katalog:** [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|IHK-AP1-Checkliste]]
 
 Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Seitenprüfung abgeleitet. Sie ordnet Belege ein; fachliche Aussagen müssen aus der verlinkten Quellnotiz stammen und bei OCR-, Layout-, Zahlen-, Code- oder Rechtsfragen am Original geprüft werden.
 

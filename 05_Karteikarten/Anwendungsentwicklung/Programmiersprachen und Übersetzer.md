@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Programmiersprachen und Übersetzer"
 kategorie: Anwendungsentwicklung
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programmiersprachen und Übersetzer.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -49,7 +50,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/programmiersprachen-und-uebersetzer
 ---
-
 # 🗂️ Karteikarten: Programmiersprachen und Übersetzer
 
 > [!tip] Quellenbasis
@@ -57,7 +57,7 @@ tags:
 
 ---
 
-<!-- card-id: programmiersprachen-und-uebersetzer-01 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: programmiersprachen-und-uebersetzer-01 | typ: abgrenzung | pruefung: AP1 -->
 **Worin unterscheiden sich Compiler und Interpreter bei Übersetzungszeitpunkt, Fehlerbehandlung und Laufzeitgeschwindigkeit?**
 ?
 Ein **Compiler** übersetzt den gesamten Quelltext vor der Laufzeit in Maschinencode und bricht bei Syntaxfehlern komplett ab (schnelle Ausführung, geringere Portabilität). Ein **Interpreter** übersetzt und prüft zur Laufzeit zeilenweise und führt Code bis zur ersten Fehlerstelle sofort aus (langsamer, leichter portierbar).
@@ -65,7 +65,7 @@ Ein **Compiler** übersetzt den gesamten Quelltext vor der Laufzeit in Maschinen
 
 ---
 
-<!-- card-id: programmiersprachen-und-uebersetzer-02 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: programmiersprachen-und-uebersetzer-02 | typ: anwendung | pruefung: AP1 -->
 **Wie funktioniert die zweistufige Übersetzung bei Java und welchen Vorteil hat sie?**
 ?
 Zuerst kompiliert ein Compiler den Quelltext vorab in plattformunabhängigen **Bytecode**. Zur Laufzeit übersetzt ein plattformspezifischer Interpreter – die **JVM** (Java Virtual Machine) – diesen Bytecode in Maschinencode, sodass der Zwischencode für alle Plattformen identisch bleibt.
@@ -73,7 +73,7 @@ Zuerst kompiliert ein Compiler den Quelltext vorab in plattformunabhängigen **B
 
 ---
 
-<!-- card-id: programmiersprachen-und-uebersetzer-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: programmiersprachen-und-uebersetzer-03 | typ: abgrenzung | pruefung: AP1 -->
 **Wie grenzen sich JDK, JRE und JVM in Java voneinander ab?**
 ?
 Das **JDK** (Java Development Kit) ist zum Entwickeln und Kompilieren nötig und enthält Compiler plus JRE. Die **JRE** (Java Runtime Environment) wird zum Ausführen fertiger Programme benötigt und enthält die **JVM**, die den Bytecode zur Laufzeit in Maschinencode (0/1) übersetzt.
@@ -81,7 +81,7 @@ Das **JDK** (Java Development Kit) ist zum Entwickeln und Kompilieren nötig und
 
 ---
 
-<!-- card-id: programmiersprachen-und-uebersetzer-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: programmiersprachen-und-uebersetzer-04 | typ: pruefungsfalle | pruefung: AP1 -->
 **Ist die Java Virtual Machine (JVM) plattformunabhängig oder plattformabhängig?**
 ?
 Die **JVM ist plattformabhängig** – sie ist ein eigenes natives Programm für das jeweilige Zielbetriebssystem (z. B. Windows, Linux oder Mac). Plattformunabhängig ist der **Bytecode** (`.class`), da er auf allen Systemen gleich ist.
@@ -89,7 +89,7 @@ Die **JVM ist plattformabhängig** – sie ist ein eigenes natives Programm für
 
 ---
 
-<!-- card-id: programmiersprachen-und-uebersetzer-05 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: programmiersprachen-und-uebersetzer-05 | typ: definition | pruefung: AP1 -->
 **Welche Aufgaben übernehmen Binder (Linker) und Lader (Loader) in der letzten Phase der Übersetzung?**
 ?
 Der **Binder (Linker)** setzt getrennt übersetzte Programmteile (Unterprogramme) zum endgültigen Programm zusammen. Der **Lader (Loader)** lädt das Programm in den Arbeitsspeicher und rechnet dabei relative Adressangaben in tatsächliche absolute Speicheradressen um.
@@ -97,7 +97,7 @@ Der **Binder (Linker)** setzt getrennt übersetzte Programmteile (Unterprogramme
 
 ---
 
-<!-- card-id: programmiersprachen-und-uebersetzer-06 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: programmiersprachen-und-uebersetzer-06 | typ: definition | pruefung: AP1 -->
 **Was ist die Common Intermediate Language (CIL) bei .NET und wie wird sie ausgeführt?**
 ?
 Die **CIL** ist eine Zwischensprache, in die Quellcode von .NET-Sprachen im ersten Schritt kompiliert wird (Befehle als Folge von Bytewerten). Auf dem Ausführungsrechner übersetzt die Common Language Runtime diesen Code per **JIT-Kompilierung** in nativen Maschinencode.

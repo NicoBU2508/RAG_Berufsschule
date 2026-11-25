@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Programm und Software"
 kategorie: Anwendungsentwicklung
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programm und Software.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -27,7 +28,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/programm-und-software
 ---
-
 # 🗂️ Karteikarten: Programm und Software
 
 > [!tip] Quellenbasis
@@ -35,7 +35,7 @@ tags:
 
 ---
 
-<!-- card-id: programm-und-software-01 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: programm-und-software-01 | typ: abgrenzung | pruefung: AP1 -->
 **Worin unterscheiden sich die Begriffe „Programm“ und „Software“?**
 ?
 Ein **Programm** ist eine in einer Programmiersprache formulierte Bearbeitungsvorschrift (Algorithmus) zur Lösung einer Aufgabe, die in Maschinensprache übersetzt wird. **Software** ist umfassender und bezeichnet alle nicht-materiellen Teile eines Computers: **Programme, zugehörige Daten und Dokumentationen**.
@@ -43,7 +43,7 @@ Ein **Programm** ist eine in einer Programmiersprache formulierte Bearbeitungsvo
 
 ---
 
-<!-- card-id: programm-und-software-02 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: programm-und-software-02 | typ: pruefungsfalle | pruefung: AP1 -->
 **Was besagt das EVA-Prinzip und warum reichen Programme allein für einen funktionierenden Einsatz nicht aus?**
 ?
 Nach dem **EVA-Prinzip** (**E**ingabe → **V**erarbeitung → **A**usgabe) nehmen Programme Eingabedaten entgegen, verarbeiten sie mittels Algorithmen und liefern Ergebnisse aus. Ohne erforderliche Daten ist ein Programm nicht funktionstüchtig; ohne Dokumentation ist die Benutzung schwer oder teilweise unmöglich.
@@ -51,7 +51,7 @@ Nach dem **EVA-Prinzip** (**E**ingabe → **V**erarbeitung → **A**usgabe) nehm
 
 ---
 
-<!-- card-id: programm-und-software-03 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: programm-und-software-03 | typ: definition | pruefung: AP1 -->
 **Welche Aufgaben erfüllt ein Betriebssystem als Teil der Systemsoftware?**
 ?
 Ein Betriebssystem verwaltet die Systemressourcen eines Computers (z. B. Arbeitsspeicher, Festplatten, Netzwerk-, Ein- und Ausgabegeräte) und bildet die **Schnittstelle** zwischen den Hardwarekomponenten und der installierten Anwendungssoftware.
@@ -59,7 +59,7 @@ Ein Betriebssystem verwaltet die Systemressourcen eines Computers (z. B. Arbeits
 
 ---
 
-<!-- card-id: programm-und-software-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: programm-und-software-04 | typ: abgrenzung | pruefung: AP1 -->
 **Wie unterscheiden sich Standardsoftware, Branchensoftware und Individualsoftware?**
 ?
 - **Standardsoftware:** Für breite Einsatzgebiete (z. B. Office), schnell verfügbar und günstig, stößt bei Spezialwünschen an Grenzen.
@@ -69,7 +69,7 @@ Ein Betriebssystem verwaltet die Systemressourcen eines Computers (z. B. Arbeits
 
 ---
 
-<!-- card-id: programm-und-software-05 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: programm-und-software-05 | typ: definition | pruefung: AP1 -->
 **Was versteht man unter „Unterstützungssoftware“ bei der Einteilung von Software?**
 ?
 Die Unterstützungssoftware ergänzt die Unterteilung in Systemsoftware (systemnahe Software) und Anwendungssoftware (Anwendersoftware). Sie umfasst Werkzeuge für die Softwareerstellung wie z. B. **Editoren und Compiler**.
@@ -77,7 +77,7 @@ Die Unterstützungssoftware ergänzt die Unterteilung in Systemsoftware (systemn
 
 ---
 
-<!-- card-id: programm-und-software-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: programm-und-software-06 | typ: anwendung | pruefung: AP1 -->
 **Wie wird ein Java-Programm vom Quellcode in ausführbaren Zwischencode überführt?**
 ?
 Der Quellcode (Sourcecode) wird als Textdatei mit der Endung `*.java` gespeichert. Anschließend übersetzt ihn der Java-Compiler in plattformunabhängigen Zwischencode (**Bytecode**), der in einer Datei mit der Endung `*.class` abgelegt wird.

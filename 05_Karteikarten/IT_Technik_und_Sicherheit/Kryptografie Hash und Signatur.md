@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Kryptografie, Hash und Signatur"
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP1/AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Kryptografie Hash und Signatur.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -34,7 +35,6 @@ tags:
   - karteikarten
   - flashcards/it-technik-und-sicherheit/kryptografie-hash-und-signatur
 ---
-
 # 🗂️ Karteikarten: Kryptografie, Hash und Signatur
 
 > [!tip] Quellenbasis

@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Datenbankgrundlagen und Datenbankentwicklung"
 kategorie: Anwendungsentwicklung
+pruefung: "AP1/AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankgrundlagen und Datenbankentwicklung.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -32,7 +33,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/datenbankgrundlagen-und-datenbankentwicklung
 ---
-
 # 🗂️ Karteikarten: Datenbankgrundlagen und Datenbankentwicklung
 
 > [!tip] Quellenbasis

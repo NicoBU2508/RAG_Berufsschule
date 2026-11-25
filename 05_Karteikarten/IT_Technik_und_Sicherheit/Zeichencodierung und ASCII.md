@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Zeichencodierung und ASCII"
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Zeichencodierung und ASCII.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -18,7 +19,6 @@ tags:
   - karteikarten
   - flashcards/it-technik-und-sicherheit/zeichencodierung-und-ascii
 ---
-
 # 🗂️ Karteikarten: Zeichencodierung und ASCII
 
 > [!tip] Quellenbasis
@@ -26,7 +26,7 @@ tags:
 
 ---
 
-<!-- card-id: zeichencodierung-und-ascii-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: zeichencodierung-und-ascii-01 | typ: definition | pruefung: AP1 -->
 **Warum wird für Zeichenfolgen der ASCII-Code verwendet und wie gliedern sich 8 Bit bei klassischem ASCII laut Mitschrift?**
 ?
 Zur Übertragung und Verarbeitung müssen Informationen wie Zeichenfolgen in Bits codiert werden; bei Zeichenfolgen übernimmt das der ASCII-Code. Ein 8-Bit-Byte besteht dabei aus 7 Bit für die ASCII-Zeichendarstellung und 1 Sicherungsbit.
@@ -34,7 +34,7 @@ Zur Übertragung und Verarbeitung müssen Informationen wie Zeichenfolgen in Bit
 
 ---
 
-<!-- card-id: zeichencodierung-und-ascii-02 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: zeichencodierung-und-ascii-02 | typ: pruefungsfalle | pruefung: AP1 -->
 **Warum ergibt dasselbe Bitmuster `0101 1001` (dezimal 89) je nach Kontext die Zahl `89` oder das Zeichen `'Y'`?**
 ?
 Ein Bitmuster benötigt einen Datentyp, um korrekt interpretiert zu werden: Als `int` steht `0101 1001` für die Ganzzahl `89`, als `char` über den ASCII-Code für das Zeichen `'Y'`. Das Umwandeln zwischen Datentypen heißt Typecast.
@@ -42,7 +42,7 @@ Ein Bitmuster benötigt einen Datentyp, um korrekt interpretiert zu werden: Als 
 
 ---
 
-<!-- card-id: zeichencodierung-und-ascii-03 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: zeichencodierung-und-ascii-03 | typ: definition | pruefung: AP1 -->
 **Aus welchen drei Spalten bzw. Bereichen besteht ein Hex-Dump?**
 ?
 1. Zeilen-/Bytezähler (Offset in 16-Byte-Schritten, z. B. `0000`, `0010`), 2. Hex-Dump (die einzelnen Bytes als zweistellige Hexadezimalwerte) und 3. ASCII-Decoded (die zugehörige decodierte ASCII-Zeichenfolge).
@@ -50,7 +50,7 @@ Ein Bitmuster benötigt einen Datentyp, um korrekt interpretiert zu werden: Als 
 
 ---
 
-<!-- card-id: zeichencodierung-und-ascii-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: zeichencodierung-und-ascii-04 | typ: anwendung | pruefung: AP1 -->
 **Wie liest man in einem 16-Byte-Hex-Dump (Zeilen `0000`, `0010`, `0020`) das Byte am Offset `0x1c` ab?**
 ?
 Die Zehner-Hex-Stelle `0x1_` verweist auf Zeile `0010` (Bytes `0x10` bis `0x1f`), die Einerstelle `c` (= 12, 0-basiert gezählt) auf das 13. Byte dieser Zeile. Im Beispiel auf dem Arbeitsblatt steht dort der Hex-Wert `02` (nicht druckbares ASCII-Zeichen `.`).
@@ -58,7 +58,7 @@ Die Zehner-Hex-Stelle `0x1_` verweist auf Zeile `0010` (Bytes `0x10` bis `0x1f`)
 
 ---
 
-<!-- card-id: zeichencodierung-und-ascii-05 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: zeichencodierung-und-ascii-05 | typ: abgrenzung | pruefung: AP1 -->
 **Welchen Vorteil hat die hexadezimale Darstellung gegenüber der binären bei der ASCII-Codierung eines Bytes?**
 ?
 Ein 8-Bit-Byte lässt sich über die Stellenwerte zweier 4-Bit-Gruppen (`8, 4, 2, 1`) kompakt als zwei Hex-Ziffern schreiben (z. B. `1101 | 0011` = `D3`) statt als acht einzelne Bits, was deutlich kürzer und lesbarer ist.
@@ -66,7 +66,7 @@ Ein 8-Bit-Byte lässt sich über die Stellenwerte zweier 4-Bit-Gruppen (`8, 4, 2
 
 ---
 
-<!-- card-id: zeichencodierung-und-ascii-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: zeichencodierung-und-ascii-06 | typ: anwendung | pruefung: AP1 -->
 **Wie wird eine gegebene Folge dezimaler ASCII-Werte (z. B. `68 105 ... 32 ... 33`) in Klartext umgewandelt?**
 ?
 Jeder Dezimalwert (0–255) wird einzeln in der ASCII-Tabelle nachgeschlagen und dem zugehörigen Buchstaben, Satz- oder Steuerzeichen (z. B. `32` = Leerzeichen, `33` = `!`) zugeordnet, bis der vollständige Text entsteht.

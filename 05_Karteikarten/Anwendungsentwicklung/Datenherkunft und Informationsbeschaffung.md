@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Datenherkunft und Informationsbeschaffung"
 kategorie: Anwendungsentwicklung
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenherkunft und Informationsbeschaffung.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -16,7 +17,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/datenherkunft-und-informationsbeschaffung
 ---
-
 # 🗂️ Karteikarten: Datenherkunft und Informationsbeschaffung
 
 > [!tip] Quellenbasis
@@ -24,7 +24,7 @@ tags:
 
 ---
 
-<!-- card-id: datenherkunft-und-informationsbeschaffung-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: datenherkunft-und-informationsbeschaffung-01 | typ: definition | pruefung: AP1 -->
 **Wie grenzen sich Primärdaten und Sekundärdaten hinsichtlich Erhebung und Nutzung ab?**
 ?
 Primärdaten werden vom Unternehmen neu für die aktuelle Fragestellung erhoben (z. B. durch Befragungen, Interviews, Beobachtungen) und liefern genau die benötigten Daten.
@@ -33,7 +33,7 @@ Sekundärdaten wurden bereits früher für andere, ähnliche Problemstellungen e
 
 ---
 
-<!-- card-id: datenherkunft-und-informationsbeschaffung-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: datenherkunft-und-informationsbeschaffung-02 | typ: abgrenzung | pruefung: AP1 -->
 **Was unterscheidet interne von externen Informationsquellen im Unternehmen (Beispiele, Vor- und Nachteile)?**
 ?
 Interne Quellen sind bereits vorhanden (z. B. Kunden-, Lieferanten-, Artikeldateien, Auftragsstatistiken); sie sind schnell und kostenlos abrufbar, aber pflegeintensiv und oft nicht aktuell.
@@ -42,7 +42,7 @@ Externe Quellen (z. B. Internet, Messen, Fachzeitschriften, Kunden-/Lieferantenb
 
 ---
 
-<!-- card-id: datenherkunft-und-informationsbeschaffung-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: datenherkunft-und-informationsbeschaffung-03 | typ: pruefungsfalle | pruefung: AP1 -->
 **Worin liegt der Unterschied zwischen Datenschutz (z. B. BDSG) und Datensicherheit?**
 ?
 Der Datenschutz schützt die Privatsphäre eines Menschen (Recht auf informationelle Selbstbestimmung, u. a. geregelt im Bundesdatenschutzgesetz BDSG) und klärt, ob personenbezogene Daten überhaupt erhoben und verarbeitet werden dürfen.
@@ -51,7 +51,7 @@ Die Datensicherheit schützt alle Daten – unabhängig vom Personenbezug – du
 
 ---
 
-<!-- card-id: datenherkunft-und-informationsbeschaffung-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: datenherkunft-und-informationsbeschaffung-04 | typ: anwendung | pruefung: AP1 -->
 **Welche drei zentralen Schutzziele verfolgt die Informationssicherheit für analoge und digitale Informationen?**
 ?
 - **Vertraulichkeit:** Nur ein befugter Personenkreis erhält Zugriff und Einblick in die Daten.

@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Risikoanalyse"
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Risikoanalyse.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -24,7 +25,6 @@ tags:
   - karteikarten
   - flashcards/it-technik-und-sicherheit/risikoanalyse
 ---
-
 # 🗂️ Karteikarten: Risikoanalyse
 
 > [!tip] Quellenbasis
@@ -32,7 +32,7 @@ tags:
 
 ---
 
-<!-- card-id: risikoanalyse-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: risikoanalyse-01 | typ: definition | pruefung: AP1 -->
 **Für welche drei Gruppen von Zielobjekten sollte im Rahmen der IT-Grundschutz-Standard-Absicherung eine Risikoanalyse erfolgen?**
 ?
 Eine Risikoanalyse ist erforderlich für Zielobjekte, die in mindestens einem der drei Grundwerte (Vertraulichkeit, Integrität, Verfügbarkeit) einen **hohen oder sehr hohen Schutzbedarf** haben, für die **kein passender IT-Grundschutz-Baustein** existiert oder die in **untypischen Einsatzszenarien** betrieben werden.
@@ -40,7 +40,7 @@ Eine Risikoanalyse ist erforderlich für Zielobjekte, die in mindestens einem de
 
 ---
 
-<!-- card-id: risikoanalyse-02 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: risikoanalyse-02 | typ: anwendung | pruefung: AP1 -->
 **Wie erstellt man im ersten Schritt der Risikoanalyse eine Gefährdungsübersicht (mit vs. ohne passenden Baustein)?**
 ?
 Gibt es keinen Baustein, prüft man die vollständige Liste der 47 elementaren Gefährdungen auf Relevanz. Existiert ein Baustein, nutzt man dessen referenzierte elementare Gefährdungen und prüft zusätzlich, ob weitere oder betriebsspezifische Gefährdungen nennenswerten Schaden verursachen können.
@@ -48,7 +48,7 @@ Gibt es keinen Baustein, prüft man die vollständige Liste der 47 elementaren G
 
 ---
 
-<!-- card-id: risikoanalyse-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: risikoanalyse-03 | typ: abgrenzung | pruefung: AP1 -->
 **Aus welchen zwei Faktoren wird die Risikohöhe bestimmt und warum nutzt man dafür qualitative Kategorien statt exakter Zahlen?**
 ?
 Die Risikohöhe ergibt sich aus **Eintrittshäufigkeit** und **drohender Schadenshöhe**. Da verlässliche quantitative Statistiken für Sicherheitsvorfälle kaum vorliegen, empfiehlt sich eine qualitative Bewertung in vier Stufen (Häufigkeit: selten–sehr häufig; Schaden: vernachlässigbar–existenzbedrohend) mithilfe einer Risikomatrix.
@@ -56,7 +56,7 @@ Die Risikohöhe ergibt sich aus **Eintrittshäufigkeit** und **drohender Schaden
 
 ---
 
-<!-- card-id: risikoanalyse-04 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: risikoanalyse-04 | typ: definition | pruefung: AP1 -->
 **Welche vier Optionen der Risikobehandlung stehen nach der Risikobewertung zur Verfügung?**
 ?
 - **Risikovermeidung:** Umstrukturierung, sodass die Gefährdung nicht mehr wirksam wird
@@ -67,7 +67,7 @@ Die Risikohöhe ergibt sich aus **Eintrittshäufigkeit** und **drohender Schaden
 
 ---
 
-<!-- card-id: risikoanalyse-05 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: risikoanalyse-05 | typ: pruefungsfalle | pruefung: AP1 -->
 **Unter welcher Voraussetzung darf ein Risiko akzeptiert werden und was bedeutet „Risiken unter Beobachtung“?**
 ?
 Ein Risiko darf nur akzeptiert werden, wenn das Restrisiko den festgelegten Risikoakzeptanzkriterien entspricht und von der Institution getragen werden kann. Risiken unter Beobachtung werden vorübergehend akzeptiert, aber regelmäßig überprüft, um bei steigender Gefährdungslage vorbereitete Maßnahmen rasch einzusetzen.
@@ -75,7 +75,7 @@ Ein Risiko darf nur akzeptiert werden, wenn das Restrisiko den festgelegten Risi
 
 ---
 
-<!-- card-id: risikoanalyse-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: risikoanalyse-06 | typ: anwendung | pruefung: AP1 -->
 **Was geschieht im abschließenden Schritt der Risikoanalyse, der „Konsolidierung des Sicherheitskonzepts“?**
 ?
 Die beschlossenen zusätzlichen Sicherheitsmaßnahmen werden in das vorhandene Sicherheitskonzept integriert. Dabei prüft man Eignung, Angemessenheit, Benutzerfreundlichkeit und das Zusammenwirken mit bestehenden Maßnahmen, was zu Anpassungen führen kann.

@@ -1,20 +1,50 @@
-/* AP-Lernhelfer Farben: Callouts und klare Lernbereiche */
-.markdown-preview-view h1, .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-1 {
+/* AP-Lernhelfer Farben & Ergonomie (Desktop & iPadOS) */
+.markdown-preview-view h1,
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-header-1 {
   border-bottom: 3px solid var(--interactive-accent);
-  padding-bottom: .25rem;
+  padding-bottom: .3rem;
 }
+
+/* Semantische Callout-Farben */
 .callout[data-callout="ap1"] { --callout-color: 35, 131, 226; --callout-icon: lucide-target; }
 .callout[data-callout="ap2"] { --callout-color: 126, 87, 194; --callout-icon: lucide-rocket; }
 .callout[data-callout="quelle"] { --callout-color: 47, 158, 68; --callout-icon: lucide-file-text; }
 .callout[data-callout="referenz"] { --callout-color: 245, 124, 0; --callout-icon: lucide-link; }
 .callout[data-callout="ocr"] { --callout-color: 214, 48, 49; --callout-icon: lucide-eye; }
 .callout[data-callout="altklausur"] { --callout-color: 0, 137, 123; --callout-icon: lucide-clipboard-check; }
-.markdown-preview-view table { width: 100%; }
-.markdown-preview-view code { white-space: pre-wrap; }
-
-/* Neue Themenordner: Lernfarben */
 .callout[data-callout="summary"] { --callout-color: 35, 131, 226; --callout-icon: lucide-list-checks; }
 .callout[data-callout="lernziel"] { --callout-color: 126, 87, 194; --callout-icon: lucide-crosshair; }
 .callout[data-callout="merke"] { --callout-color: 245, 124, 0; --callout-icon: lucide-lightbulb; }
 .callout[data-callout="info"] { --callout-color: 0, 137, 123; --callout-icon: lucide-info; }
-.themenordner h2 { border-left: 4px solid var(--interactive-accent); padding-left: .5rem; }
+.callout[data-callout="pruefungsfalle"] { --callout-color: 214, 48, 49; --callout-icon: lucide-alert-triangle; }
+.callout[data-callout="formel"] { --callout-color: 0, 151, 167; --callout-icon: lucide-calculator; }
+
+/* Responsive Tabellen & Lesbarkeit (insb. 11"/13" iPad im Split-View mit GoodNotes) */
+.markdown-preview-view table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+.markdown-preview-view th,
+.markdown-preview-view td {
+  padding: 0.45rem 0.65rem;
+  vertical-align: top;
+}
+
+.markdown-preview-view code {
+  white-space: pre-wrap;
+}
+
+/* Eingebettete PDF-Seiten in Quellnotizen kompakt halten */
+.markdown-preview-view .internal-embed.pdf-embed {
+  max-height: 620px;
+  border-radius: 6px;
+}
+
+.themenordner h2 {
+  border-left: 4px solid var(--interactive-accent);
+  padding-left: .5rem;
+}

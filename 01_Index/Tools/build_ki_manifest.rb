@@ -81,6 +81,7 @@ class FileClassifier
     return item("flashcard_index", "excluded", "Nicht gleichwertig visuell geprüfte Wiederholungsschicht") if path.start_with?("05_Karteikarten/")
     return item("exam_archive", "excluded", "Nicht gleichwertig visuell geprüfte Altklausurstruktur") if path.start_with?("06_Altklausuren/")
     return item("navigation_index", "navigation", "Fach- oder Gesamtübersicht") if path.start_with?("07_Lernordner/")
+    return item("learner_state", "excluded", "Lokaler FSRS-Lernfortschritt und Denkfehler-Historie; keine Weitergabe an Cloud-RAG") if path == "01_Index/Lernstand.json"
     return item("maintenance_tool", "operational", "Lokales Prüf- oder Wartungswerkzeug") if path.start_with?("01_Index/Tools/")
     return item("quality_or_navigation", "navigation", "Index, Audit oder Qualitätsbericht") if path.start_with?("01_Index/")
     return item("subject_index", "navigation", "Fachnavigation") if path.match?(%r{\A02_Faecher/[^/]+/[^/]+\.md\z})
@@ -190,7 +191,7 @@ class ManifestBuilder
         "obsidian_configuration", "copilot_prompt", "template", "topic_alias",
         "duplicate_pdf", "legacy_topic", "generated_learning_index",
         "generated_learning_module", "unverified_exam_material", "flashcard_index",
-        "exam_archive", "excluded_source_note", "unclassified"
+        "exam_archive", "learner_state", "excluded_source_note", "unclassified"
       ]
     }
   end

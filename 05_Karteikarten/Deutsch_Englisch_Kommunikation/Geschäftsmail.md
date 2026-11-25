@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: Geschäftsmail
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "AP1"
 thema_quelle: 03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Geschäftsmail.md
 stand_karten: '2026-11-24'
 stand_quelle: '2026-11-24'
@@ -34,7 +35,7 @@ tags:
 
 ---
 
-<!-- card-id: geschaeftsmail-01 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: geschaeftsmail-01 | typ: abgrenzung | pruefung: AP1 -->
 **Welche Vor- und Nachteile hat eine Geschäftsmail gegenüber einem klassischen Geschäftsbrief?**
 ?
 Vorteile sind Geschwindigkeit, Kostenersparnis, Durchsuchbarkeit sowie das einfache Versenden von Anhängen und Dateien. Nachteile sind Gefahren durch Spam, eine erforderliche Internetverbindung, die Flut von Nachrichten und die geringere rechtliche Verbindlichkeit.
@@ -42,7 +43,7 @@ Vorteile sind Geschwindigkeit, Kostenersparnis, Durchsuchbarkeit sowie das einfa
 
 ---
 
-<!-- card-id: geschaeftsmail-02 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: geschaeftsmail-02 | typ: definition | pruefung: AP1 -->
 **Aus welchen Bestandteilen setzt sich eine E-Mail-Adresse (`benutzername@domain.tld`) zusammen und was kennzeichnet eine seriöse Geschäftsadresse?**
 ?
 Sie besteht aus Lokalteil (individueller Name/Postfachkennung), Trennzeichen (`@`), Hostname (Firmenname/Provider) und generischer (`.com`, `.org`) oder länderspezifischer Top-Level-Domain (`.de`). Für Bewerbungen und Geschäftskontakte muss sie formell, seriös und eindeutig sein (z. B. `vorname.nachname@...`, keine Spaßnamen).
@@ -50,7 +51,7 @@ Sie besteht aus Lokalteil (individueller Name/Postfachkennung), Trennzeichen (`@
 
 ---
 
-<!-- card-id: geschaeftsmail-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: geschaeftsmail-03 | typ: abgrenzung | pruefung: AP1 -->
 **Wie unterscheiden sich die Empfängerfelder `An`, `CC` und `BCC` in einer Geschäftsmail?**
 ?
 Im Feld `An` stehen die Hauptempfänger, die direkt angesprochen werden. `CC` (*Carbon Copy*) sendet eine sichtbare Kopie zur Kenntnisnahme an weitere Adressaten, während `BCC` (*Blind Carbon Copy*) geheime Empfänger angibt, die eine Kopie erhalten, ohne für andere sichtbar zu sein.
@@ -58,7 +59,7 @@ Im Feld `An` stehen die Hauptempfänger, die direkt angesprochen werden. `CC` (*
 
 ---
 
-<!-- card-id: geschaeftsmail-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: geschaeftsmail-04 | typ: anwendung | pruefung: AP1 -->
 **Welche Anforderungen gelten für die Betreffzeile einer Geschäftsmail?**
 ?
 Der Betreff fasst Anlass und Kerninhalt eindeutig, knapp und präzise ohne unnötige Füllwörter in wenigen Begriffen bzw. Substantiven zusammen. Je nach Anlass wird zur eindeutigen Zuordnung eine Referenz (z. B. Kunden-, Bestell-, Rechnungs-, Aktenzeichen- oder Stellenreferenznummer) ergänzt.
@@ -66,7 +67,7 @@ Der Betreff fasst Anlass und Kerninhalt eindeutig, knapp und präzise ohne unnö
 
 ---
 
-<!-- card-id: geschaeftsmail-05 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: geschaeftsmail-05 | typ: pruefungsfalle | pruefung: AP1 -->
 **Wie werden Zeichensetzung, Groß-/Kleinschreibung und Leerzeilen bei Anrede, Einleitung und Grußformel einer Geschäftsmail geregelt?**
 ?
 Nach der Anrede steht stets ein **Komma**, gefolgt von einer Leerzeile; danach beginnt die Einleitung **klein** (außer bei Substantiven/Eigennamen). Zwischen Einleitung, Hauptteil-Absätzen, Schluss und Grußformel steht jeweils eine Leerzeile; nach der Grußformel wird **kein Komma** gesetzt.
@@ -74,7 +75,7 @@ Nach der Anrede steht stets ein **Komma**, gefolgt von einer Leerzeile; danach b
 
 ---
 
-<!-- card-id: geschaeftsmail-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: geschaeftsmail-06 | typ: anwendung | pruefung: AP1 -->
 **In welcher Reihenfolge werden mehrere Hauptempfänger im Feld `An` in der Anrede genannt, und wie gliedern sich Einleitung, Hauptteil und Schluss?**
 ?
 Mehrere Empfänger ordnet man hierarchisch nach Dienstgrad (z. B. zuerst Leitungsebene), bei Gleichgestellten i. d. R. Frauen vor Männern und Ältere vor Jüngeren. Die Einleitung nennt Anlass/Bezug, der Hauptteil liefert prägnante Kerninfos in Absätzen, und der Schluss formuliert eine konkrete Handlungsaufforderung.

@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: das oder dass
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "BS"
 thema_quelle: 03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/das oder dass.md
 stand_karten: '2026-11-24'
 stand_quelle: '2026-11-24'
@@ -33,7 +34,7 @@ tags:
 
 ---
 
-<!-- card-id: das-oder-dass-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: das-oder-dass-01 | typ: definition | pruefung: BS -->
 **Was ist die Grundregel (Ersatzprobe) zur Unterscheidung von `das` und `dass`?**
 ?
 `das` (mit einem `s`) lässt sich durch `dieses`, `dies`, `jenes` oder `welches` ersetzen. `dass` (mit Doppel-`s`) lässt sich durch nichts ersetzen und leitet immer einen durch Komma abgetrennten Nebensatz ein.
@@ -41,7 +42,7 @@ tags:
 
 ---
 
-<!-- card-id: das-oder-dass-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: das-oder-dass-02 | typ: abgrenzung | pruefung: BS -->
 **Welche drei Wortarten kann `das` (mit einem `s`) haben und woran erkennt man sie?**
 ?
 1. **Bestimmter Artikel**: steht vor einem sächlichen Nomen (`das Array`; Probe: `ein`/`dieses`).
@@ -51,7 +52,7 @@ tags:
 
 ---
 
-<!-- card-id: das-oder-dass-03 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: das-oder-dass-03 | typ: definition | pruefung: BS -->
 **Welche Funktion hat `dass` im Satz und welche Satzzeichen- sowie Verbstellungsregeln gelten?**
 ?
 `dass` ist eine Konjunktion, die Haupt- und Nebensatz (Gliedsatz) verbindet — oft nach Verben wie `sagen`, `wissen`, `glauben`, `hoffen` oder `merken`. Im `dass`-Nebensatz steht das Verb am Ende, und davor steht immer ein Komma.
@@ -59,7 +60,7 @@ tags:
 
 ---
 
-<!-- card-id: das-oder-dass-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: das-oder-dass-04 | typ: anwendung | pruefung: BS -->
 **In welcher 3-Schritte-Prüfung entscheidet man sicher zwischen `das` und `dass`?**
 ?
 Schritt 1: Folgt direkt (ggf. nach Adjektiv) ein zugehöriges Nomen → `das` (Artikel). Schritt 2: Passt `welches` mit Bezug auf ein Nomen davor → `das` (Relativpronomen). Schritt 3: Passt `dies` oder `dieses` → `das` (Demonstrativpronomen). Sonst → `dass` (Konjunktion).
@@ -67,7 +68,7 @@ Schritt 1: Folgt direkt (ggf. nach Adjektiv) ein zugehöriges Nomen → `das` (A
 
 ---
 
-<!-- card-id: das-oder-dass-05 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: das-oder-dass-05 | typ: pruefungsfalle | pruefung: BS -->
 **Warum darf nach einem Komma nicht automatisch `dass` geschrieben werden, und wie analysiert man „Dass das das Problem verursachte …“?**
 ?
 Nach einem Komma steht oft ein Relativpronomen `das` (= `welches`), z. B. „Das Modul, das die Daten prüft, …“. Bei „Dass das das Problem verursachte“ treffen alle drei Wortarten zusammen: `Dass` (Konjunktion) + `das` (Demonstrativpronomen) + `das` (Artikel vor `Problem`).
@@ -75,7 +76,7 @@ Nach einem Komma steht oft ein Relativpronomen `das` (= `welches`), z. B. „Das
 
 ---
 
-<!-- card-id: das-oder-dass-06 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: das-oder-dass-06 | typ: pruefungsfalle | pruefung: BS -->
 **Wie werden Verbindungen wie `sodass` / `so dass`, `ohne dass`, `anstatt dass` und `als dass` mit Komma geschrieben?**
 ?
 Diese Verbindungen schreibt man immer mit Doppel-`s` (`dass`). Das Komma steht vor der gesamten Verbindung (z. B. „Die Bedingung blieb wahr, sodass die Schleife endlos lief.“ oder „Die Schleife lief weiter, ohne dass es jemand bemerkte.“).

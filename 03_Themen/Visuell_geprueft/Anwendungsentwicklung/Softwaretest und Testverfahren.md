@@ -9,6 +9,7 @@ rag_include: true
 canonical_evidence: false
 thema: "Softwaretest und Testverfahren"
 kategorie: Anwendungsentwicklung
+pruefung: "AP1/AP2"
 quellen: 1
 seiten: 6
 tags:
@@ -18,6 +19,9 @@ tags:
 ---
 
 # Softwaretest und Testverfahren
+
+> [!tip] Lern- & Prüfungsfokus
+> **Prüfung:** 🟢 AP1+AP2 · **Training:** [[05_Karteikarten/Anwendungsentwicklung/Softwaretest und Testverfahren|🗂️ Karteikarten-Deck öffnen]] · **Katalog:** [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|IHK-AP1-Checkliste]]
 
 Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Seitenprüfung abgeleitet. Sie ordnet Belege ein; fachliche Aussagen müssen aus der verlinkten Quellnotiz stammen und bei OCR-, Layout-, Zahlen-, Code- oder Rechtsfragen am Original geprüft werden.
 

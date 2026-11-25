@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Reading Comprehension and Case Studies"
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Reading Comprehension and Case Studies.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -25,7 +26,6 @@ tags:
   - karteikarten
   - flashcards/deutsch-englisch-kommunikation/reading-comprehension-and-case-studies
 ---
-
 # 🗂️ Karteikarten: Reading Comprehension and Case Studies
 
 > [!tip] Quellenbasis
@@ -33,7 +33,7 @@ tags:
 
 ---
 
-<!-- card-id: reading-comprehension-and-case-studies-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: reading-comprehension-and-case-studies-01 | typ: definition | pruefung: AP1 -->
 **Was wird bei einer B2-Aufgabe zum Leseverstehen (Reception) im IT-Unterricht verlangt?**
 ?
 Man wertet einen englischen Fachtext (z. B. Produkt- oder Trendanalyse für Kundenberatung) gezielt nach Leitfragen aus und hält die relevanten Informationen strukturiert auf **Deutsch** fest.
@@ -41,7 +41,7 @@ Man wertet einen englischen Fachtext (z. B. Produkt- oder Trendanalyse für Kund
 
 ---
 
-<!-- card-id: reading-comprehension-and-case-studies-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: reading-comprehension-and-case-studies-02 | typ: abgrenzung | pruefung: AP1 -->
 **Welche Grenzen und Einsatzzwecke haben aktuelle Smart Glasses laut „Features of Perfect Smart Glasses“?**
 ?
 Beim aktuellen Stand der AR-Technik können sie Smartphones noch nicht ersetzen und nicht als Herzstück für *ambient computing* dienen. Sie eignen sich eher als bequemer Begleiter (*convenient companion*) oder vorübergehender Ersatz, aber kaum als alleiniges Gerät.
@@ -49,7 +49,7 @@ Beim aktuellen Stand der AR-Technik können sie Smartphones noch nicht ersetzen 
 
 ---
 
-<!-- card-id: reading-comprehension-and-case-studies-03 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: reading-comprehension-and-case-studies-03 | typ: anwendung | pruefung: AP1 -->
 **Wie lösen Smart Glasses das private Musikhören ohne Kopfhörer und welche zwei Vorteile ergeben sich?**
 ?
 In den Brillenbügeln (*temples*) sitzen zum Ohr ausgerichtete Lautsprecher. Vorteile: Umstehende hören die Audiosignale nicht mit, und die eigene Wahrnehmung der Umgebung (*awareness of surroundings*) wird nicht unterbrochen.
@@ -57,7 +57,7 @@ In den Brillenbügeln (*temples*) sitzen zum Ohr ausgerichtete Lautsprecher. Vor
 
 ---
 
-<!-- card-id: reading-comprehension-and-case-studies-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: reading-comprehension-and-case-studies-04 | typ: pruefungsfalle | pruefung: AP1 -->
 **Welche Datenschutzbedingung nennt der Smart-Glasses-Text für Sprachassistenten?**
 ?
 Sprachbefehle sollten idealerweise direkt auf dem Gerät verarbeitet werden (*on-device voice processing*), statt in der Cloud gespeichert zu werden und dadurch anfällig für Hacking zu sein.
@@ -65,7 +65,7 @@ Sprachbefehle sollten idealerweise direkt auf dem Gerät verarbeitet werden (*on
 
 ---
 
-<!-- card-id: reading-comprehension-and-case-studies-05 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: reading-comprehension-and-case-studies-05 | typ: definition | pruefung: AP1 -->
 **Welche Design-Strategien und Gerätevarianten beschreibt der Text „Features of Perfect Smart Glasses“?**
 ?
 Beim Design setzen Hersteller auf vielfältige Materialien/Rahmenformen oder Kooperationen mit bekannten Modemarken. Bei den Varianten stehen schlichte Brillen im normalen Look mit Audio-Fokus neben voll ausgestatteten Modellen mit eigenem rudimentären AR-Betriebssystem bzw. AR-Overlays.
@@ -73,7 +73,7 @@ Beim Design setzen Hersteller auf vielfältige Materialien/Rahmenformen oder Koo
 
 ---
 
-<!-- card-id: reading-comprehension-and-case-studies-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: reading-comprehension-and-case-studies-06 | typ: anwendung | pruefung: AP1 -->
 **Welche zentralen englischen Fachbegriffe aus der Smart-Glasses-Case-Study muss man sicher ins Deutsche übertragen?**
 ?
 - *ambient computing* → Umgebungs-Computing

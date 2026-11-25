@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Python-Grundlagen"
 kategorie: Anwendungsentwicklung
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Python-Grundlagen.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -48,7 +49,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/python-grundlagen
 ---
-
 # 🗂️ Karteikarten: Python-Grundlagen
 
 > [!tip] Quellenbasis
@@ -56,7 +56,7 @@ tags:
 
 ---
 
-<!-- card-id: python-grundlagen-01 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: python-grundlagen-01 | typ: abgrenzung | pruefung: AP2 -->
 **Worin unterscheidet sich die Variablenerstellung in Python von Programmiersprachen wie Java oder C?**
 ?
 In Python müssen Variablen vorab nicht deklariert werden und es muss kein Speicherplatz in einem festen Datentyp reserviert werden. Eine Variable wird automatisch in dem Moment erstellt, in dem ihr zum ersten Mal ein Wert zugewiesen wird.
@@ -64,7 +64,7 @@ In Python müssen Variablen vorab nicht deklariert werden und es muss kein Speic
 
 ---
 
-<!-- card-id: python-grundlagen-02 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: python-grundlagen-02 | typ: pruefungsfalle | pruefung: AP2 -->
 **Welchen Datentyp liefert `input()` in Python immer zurück und was ist beim Einlesen von Zahlen zwingend zu beachten?**
 ?
 `input()` liest Eingaben immer als Zeichenkette (`str`) ein. Sollen Zahlenwerte verarbeitet werden, muss der Rückgabewert explizit umgewandelt werden (z. B. `int(input())` für Ganzzahlen).
@@ -72,7 +72,7 @@ In Python müssen Variablen vorab nicht deklariert werden und es muss kein Speic
 
 ---
 
-<!-- card-id: python-grundlagen-03 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: python-grundlagen-03 | typ: definition | pruefung: AP2 -->
 **Was besagt das EVA-Prinzip in der Programmierung und warum verstößt `print(a + b)` dagegen?**
 ?
 Jeder Informationsverarbeitungsprozess gliedert sich getrennt in **Eingabe** (z. B. `input()`), **Verarbeitung** (Berechnung in eine Variable) und **Ausgabe** (z. B. `print()`). Bei `print(a + b)` werden Verarbeitung und Ausgabe unzulässig vermischt.
@@ -80,7 +80,7 @@ Jeder Informationsverarbeitungsprozess gliedert sich getrennt in **Eingabe** (z.
 
 ---
 
-<!-- card-id: python-grundlagen-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: python-grundlagen-04 | typ: abgrenzung | pruefung: AP2 -->
 **Wie unterscheiden sich implizites und explizites Casting in Python?**
 ?
 Beim **impliziten Casting** wandelt Python bei gemischten Datentypen das Ergebnis automatisch in den leistungsfähigeren Typ um (z. B. `int * float` ergibt `float`). Beim **expliziten Casting** (Type Cast) wird ein Zieltyp per Funktion erzwungen (z. B. `int(5 / 6)` ergibt `0`).
@@ -88,7 +88,7 @@ Beim **impliziten Casting** wandelt Python bei gemischten Datentypen das Ergebni
 
 ---
 
-<!-- card-id: python-grundlagen-05 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: python-grundlagen-05 | typ: pruefungsfalle | pruefung: AP2 -->
 **Warum führt `wahr = false` in Python zu einem `NameError`, und welchen Wert liefert `bool(0)`?**
 ?
 Boolesche Werte müssen in Python großgeschrieben werden (`True` bzw. `False`); kleingeschriebenes `false` wird als unbekannter Bezeichner interpretiert. `bool(0)` wird zum booleschen Wert `False` ausgewertet.

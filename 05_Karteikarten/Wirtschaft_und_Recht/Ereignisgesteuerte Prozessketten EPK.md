@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Ereignisgesteuerte Prozessketten EPK"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Ereignisgesteuerte Prozessketten EPK.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -30,7 +31,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/ereignisgesteuerte-prozessketten-epk
 ---
-
 # 🗂️ Karteikarten: Ereignisgesteuerte Prozessketten EPK
 
 > [!tip] Quellenbasis
@@ -38,7 +38,7 @@ tags:
 
 ---
 
-<!-- card-id: ereignisgesteuerte-prozessketten-epk-01 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: ereignisgesteuerte-prozessketten-epk-01 | typ: abgrenzung | pruefung: AP2 -->
 **Wie unterscheiden sich die zwei Grundelemente „Ereignis“ und „Funktion“ in einer EPK nach Bedeutung, Symbol und Benennung?**
 ?
 - **Ereignis (passive Komponente):** Sechseck; beantwortet *„Was ist passiert?“* (betriebswirtschaftlicher Zustand, der eine Funktion auslöst oder ihr Ergebnis ist); Benennung: **Substantiv + Verb im Perfekt** (z. B. *„Bestellung ist eingegangen“*).
@@ -46,7 +46,7 @@ tags:
 *Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 7, 9 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 ---
 
-<!-- card-id: ereignisgesteuerte-prozessketten-epk-02 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: ereignisgesteuerte-prozessketten-epk-02 | typ: definition | pruefung: AP2 -->
 **Welche zentralen Strukturregeln gelten für Start, Ende und Abfolge in einer EPK?**
 ?
 - Jede EPK **beginnt** mit mindestens einem Ereignis (oder Prozesswegweiser) und **endet** mit mindestens einem Ereignis (oder Prozesswegweiser) sowie enthält mindestens eine Funktion.
@@ -55,7 +55,7 @@ tags:
 *Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 8–9, 12 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 ---
 
-<!-- card-id: ereignisgesteuerte-prozessketten-epk-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: ereignisgesteuerte-prozessketten-epk-03 | typ: abgrenzung | pruefung: AP2 -->
 **Welche drei logischen Verknüpfungsoperatoren (Konnektoren) gibt es in der EPK und was bedeuten sie?**
 ?
 - **UND (`∧`):** Alle verknüpften Pfade/Bedingungen müssen gleichzeitig zutreffen bzw. ausgeführt werden.
@@ -64,7 +64,7 @@ tags:
 *Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 7, 10 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 ---
 
-<!-- card-id: ereignisgesteuerte-prozessketten-epk-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: ereignisgesteuerte-prozessketten-epk-04 | typ: pruefungsfalle | pruefung: AP2 -->
 **Welche Prüfungsfalle gilt für Verknüpfungsoperatoren (`ODER` und `XOR`) nach einem Ereignis bei einer Aufspaltung?**
 ?
 **ODER- oder XOR-Verknüpfungsoperatoren, die eine Gabelung (Aufspaltung) darstellen, dürfen nicht direkt einem Ereignis folgen!**
@@ -72,7 +72,7 @@ Begründung: Da ein Ereignis ein passiver Zustand ist, kann es keine Entscheidun
 *Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 8, 13 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
 ---
 
-<!-- card-id: ereignisgesteuerte-prozessketten-epk-05 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: ereignisgesteuerte-prozessketten-epk-05 | typ: definition | pruefung: AP2 -->
 **Wodurch wird eine EPK zur erweiterten EPK (eEPK) ergänzt und mit welchem Element dürfen diese Zusatzsymbole ausschließlich verbunden werden?**
 ?
 Die eEPK erweitert die reine Ablauforganisation um **aufbauorganisatorische** und **IT-bezogene** Aspekte durch:
@@ -82,7 +82,7 @@ Beide dürfen **ausschließlich mit Funktionen** verbunden werden (nicht mit Ere
 *Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 7–8, 11 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 ---
 
-<!-- card-id: ereignisgesteuerte-prozessketten-epk-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: ereignisgesteuerte-prozessketten-epk-06 | typ: anwendung | pruefung: AP2 -->
 **Was bedeuten die drei Pfeilrichtungen zwischen Informationsobjekt (IO) und Funktion in einer eEPK?**
 ?
 - **`IO → Funktion`:** Eingangsdatenfluss (**Lesen**) – die Funktion liest Daten aus dem Informationsobjekt.

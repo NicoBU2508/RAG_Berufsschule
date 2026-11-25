@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Religion Ethik und Menschenbild"
 kategorie: Religion_Ethik
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Religion_Ethik/Religion Ethik und Menschenbild.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -15,7 +16,6 @@ tags:
   - karteikarten
   - flashcards/religion-ethik/religion-ethik-und-menschenbild
 ---
-
 # 🗂️ Karteikarten: Religion Ethik und Menschenbild
 
 > [!tip] Quellenbasis
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-<!-- card-id: religion-ethik-und-menschenbild-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: religion-ethik-und-menschenbild-01 | typ: definition | pruefung: BS -->
 **Welche drei Themenbereiche werden auf Seite 2 der Religionsnotizen rund um das Menschenbild zusammengeführt?**
 ?
 Die Unterrichtseinheit verknüpft **Freiheit und Selbstbestimmung**, **Religion, Ethik und Menschenbild** sowie **Symbole und Glaube** im Kontext zeitgeschichtlicher Notizen.
@@ -31,7 +31,7 @@ Die Unterrichtseinheit verknüpft **Freiheit und Selbstbestimmung**, **Religion,
 
 ---
 
-<!-- card-id: religion-ethik-und-menschenbild-02 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: religion-ethik-und-menschenbild-02 | typ: anwendung | pruefung: BS -->
 **Welche konkreten zeitgeschichtlichen und gesellschaftlichen Bezugspunkte werden zur Einordnung des Menschenbilds auf Seite 2 genannt?**
 ?
 Als Bezugspunkte nennt die Zusammenfassung die **Weiße Rose**, **9/11**, **Antisemitismus** sowie die **Religionsfreiheit**.
@@ -39,7 +39,7 @@ Als Bezugspunkte nennt die Zusammenfassung die **Weiße Rose**, **9/11**, **Anti
 
 ---
 
-<!-- card-id: religion-ethik-und-menschenbild-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: religion-ethik-und-menschenbild-03 | typ: abgrenzung | pruefung: BS -->
 **In welchem Spannungsfeld stehen Religionsfreiheit und Menschenbild angesichts der genannten zeitgeschichtlichen Beispiele?**
 ?
 Freiheit, Selbstbestimmung und Religionsfreiheit werden historischen Gefährdungen von Gewissen, Pluralität und Menschenwürde — wie **Antisemitismus**, dem Kontext der **Weißen Rose** oder **9/11** — gegenübergestellt.

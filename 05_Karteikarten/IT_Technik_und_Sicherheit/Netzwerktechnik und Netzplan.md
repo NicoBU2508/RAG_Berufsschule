@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: Netzwerktechnik und Netzplan
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP1"
 thema_quelle: 03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Netzwerktechnik
   und Netzplan.md
 stand_karten: '2026-11-24'
@@ -62,7 +63,7 @@ tags:
 
 ---
 
-<!-- card-id: netzwerktechnik-und-netzplan-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: netzwerktechnik-und-netzplan-01 | typ: definition | pruefung: AP1 -->
 **Was ist ein Netzplan im Rahmen der BSI-Strukturanalyse, und welche 3 Objektarten muss er mindestens enthalten?**
 ?
 Eine grafische Übersicht über die Komponenten eines Netzes und ihre Verbindungen:
@@ -73,7 +74,7 @@ Eine grafische Übersicht über die Komponenten eines Netzes und ihre Verbindung
 
 ---
 
-<!-- card-id: netzwerktechnik-und-netzplan-02 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: netzwerktechnik-und-netzplan-02 | typ: pruefungsfalle | pruefung: AP1 -->
 **Welche Kriterien gelten für die Gruppierung von IT-Systemen im Netzplan, und warum dürfen Desktops und Laptops derselben Abteilung nicht zusammengefasst werden?**
 ?
 IT-Systeme dürfen nur gruppiert werden bei gleichem Typ, nahezu gleicher Konfiguration, gleicher Netzeinbindung, gleichen Rahmenbedingungen, gleichen Anwendungen und **gleichem Schutzbedarf** (sonst entstehen Sicherheitslücken!). Laptops werden wegen der mobilen Nutzung und zusätzlicher Sicherheitsanforderungen getrennt von Desktops gruppiert.
@@ -81,7 +82,7 @@ IT-Systeme dürfen nur gruppiert werden bei gleichem Typ, nahezu gleicher Konfig
 
 ---
 
-<!-- card-id: netzwerktechnik-und-netzplan-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: netzwerktechnik-und-netzplan-03 | typ: abgrenzung | pruefung: AP1 -->
 **Welche Aufgaben übernehmen Domaincontroller, Virtualisierungsserver, Druckserver und Firewall im Unternehmensnetz?**
 ?
 - **Domaincontroller:** Verwaltet die Domäne zentral, beantwortet Authentifizierungsanfragen und vergibt Rechte.
@@ -92,7 +93,7 @@ IT-Systeme dürfen nur gruppiert werden bei gleichem Typ, nahezu gleicher Konfig
 
 ---
 
-<!-- card-id: netzwerktechnik-und-netzplan-04 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: netzwerktechnik-und-netzplan-04 | typ: definition | pruefung: AP1 -->
 **Was versteht man unter einer Standleitung, und welche weiteren IT-Systeme neben PCs/Servern gehören laut Strukturanalyse zur Netzerhebung?**
 ?
 - **Standleitung:** Permanente Verbindung im Telekommunikationsnetz, die nicht temporär auf- und abgebaut wird (z. B. Standortkopplung).
@@ -101,7 +102,7 @@ IT-Systeme dürfen nur gruppiert werden bei gleichem Typ, nahezu gleicher Konfig
 
 ---
 
-<!-- card-id: netzwerktechnik-und-netzplan-05 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: netzwerktechnik-und-netzplan-05 | typ: definition | pruefung: AP1 -->
 **Welche Rolle spielen Router, Subnetzmaske und Default Gateway bei der Kommunikation zwischen verschiedenen Subnetzen?**
 ?
 Ohne Router wird kein Datenverkehr zwischen Subnetzen weitergeleitet. Endgeräte senden entfernten Verkehr an ihr **Default Gateway** (die angeschlossene Router-Schnittstelle im eigenen Subnetz); der Router prüft anhand der **Subnetzmaske**, ob ein Ziel lokal oder entfernt liegt, und leitet entsprechend weiter.
@@ -109,7 +110,7 @@ Ohne Router wird kein Datenverkehr zwischen Subnetzen weitergeleitet. Endgeräte
 
 ---
 
-<!-- card-id: netzwerktechnik-und-netzplan-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: netzwerktechnik-und-netzplan-06 | typ: anwendung | pruefung: AP1 -->
 **Wie berechnet man die theoretisch minimale Übertragungszeit einer Datei (z. B. in MiB) über eine Leitung mit Protokoll-Overhead (Ethernet-, IP-, TCP-Header)?**
 ?
 1. **Netto-Nutzdaten/Frame** = Framegröße − Summe aller Header/Trailer.
@@ -120,7 +121,7 @@ Ohne Router wird kein Datenverkehr zwischen Subnetzen weitergeleitet. Endgeräte
 
 ---
 
-<!-- card-id: netzwerktechnik-und-netzplan-07 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: netzwerktechnik-und-netzplan-07 | typ: pruefungsfalle | pruefung: AP1 -->
 **Was ist beim Konfigurieren eines Geräts mit zwei Netzwerkkarten (z. B. IT-Netz und OT-Netz getrennt) bezüglich Gateway und DNS zu beachten?**
 ?
 **Gateway und DNS dürfen nur an einer Netzwerkkarte** (typischerweise der IT-/Schulnetz-Schnittstelle mit Internet-/Routerzugang) eingetragen werden. Werden sie an beiden Schnittstellen konfiguriert, entsteht ein Konflikt und der Router wird nicht mehr zuverlässig erreicht.
@@ -128,7 +129,7 @@ Ohne Router wird kein Datenverkehr zwischen Subnetzen weitergeleitet. Endgeräte
 
 ---
 
-<!-- card-id: netzwerktechnik-und-netzplan-08 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: netzwerktechnik-und-netzplan-08 | typ: definition | pruefung: AP1 -->
 **Wie läuft der DHCP-Prozess (DORA) beim Einschalten eines Clients ab, und welche Netzwerkkonfiguration weist ein DHCP-Server zu?**
 ?
 - **4 Phasen (DORA):** 1. `DHCPDISCOVER` (Client → Broadcast) · 2. `DHCPOFFER` (Server → Angebot, Unicast/Broadcast) · 3. `DHCPREQUEST` (Client → Broadcast, Annahme) · 4. `DHCPACK` (Server → Bestätigung & Lease, Unicast/Broadcast).
@@ -137,7 +138,7 @@ Ohne Router wird kein Datenverkehr zwischen Subnetzen weitergeleitet. Endgeräte
 
 ---
 
-<!-- card-id: netzwerktechnik-und-netzplan-09 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: netzwerktechnik-und-netzplan-09 | typ: anwendung | pruefung: AP1 -->
 **Welche Aufgabe hat ein DNS-Server, was bedeuten die Record-Typen `A`, `AAAA`, `NS`, `CNAME` und `MX`, und wie fragt man sie in der Konsole ab?**
 ?
 - **Aufgabe:** Löst Domainnamen in IP-Adressen auf und umgekehrt.
@@ -147,7 +148,7 @@ Ohne Router wird kein Datenverkehr zwischen Subnetzen weitergeleitet. Endgeräte
 
 ---
 
-<!-- card-id: netzwerktechnik-und-netzplan-10 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: netzwerktechnik-und-netzplan-10 | typ: abgrenzung | pruefung: AP1 -->
 **Wie unterscheiden sich `SMTP`, `POP3` und `IMAP4` beim E-Mail-Verkehr, und welche Aufgaben haben `MUA`, `MTA` und `MDA`?**
 ?
 - **Protokolle:** **SMTP** (`TCP 25/587`) versendet und leitet weiter · **POP3** (`TCP 110/995`) lädt Mails lokal herunter (Standard: Löschen auf dem Server) · **IMAP4** (`TCP 143/993`) verwaltet und synchronisiert Mails direkt auf dem Server.
@@ -156,7 +157,7 @@ Ohne Router wird kein Datenverkehr zwischen Subnetzen weitergeleitet. Endgeräte
 
 ---
 
-<!-- card-id: netzwerktechnik-und-netzplan-11 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: netzwerktechnik-und-netzplan-11 | typ: abgrenzung | pruefung: AP1 -->
 **Wofür werden `SMB/CIFS`, `SFTP` vs. `FTPS` und `SSH` eingesetzt, und welche Verbesserungen führt `HTTP/2` ein?**
 ?
 - **SMB/CIFS:** Datei-, Ordner- und Druckerfreigabe im lokalen Netz (unter Linux über Samba).

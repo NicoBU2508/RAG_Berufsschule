@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Karwoche und Kirchenjahr"
 kategorie: Religion_Ethik
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Religion_Ethik/Karwoche und Kirchenjahr.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -15,7 +16,6 @@ tags:
   - karteikarten
   - flashcards/religion-ethik/karwoche-und-kirchenjahr
 ---
-
 # 🗂️ Karteikarten: Karwoche und Kirchenjahr
 
 > [!tip] Quellenbasis
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-<!-- card-id: karwoche-und-kirchenjahr-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: karwoche-und-kirchenjahr-01 | typ: definition | pruefung: BS -->
 **Was bedeutet der Begriff „Karwoche“ und mit welchem Tag beginnt sie?**
 ?
 Die Karwoche bezeichnet die „heilige Woche“ (*santa settimana*) vor Ostern. Sie beginnt am **Palmsonntag**, dem Jubeltag, an dem Jesus unter „Hosanna“-Rufen in Jerusalem einzieht.
@@ -31,7 +31,7 @@ Die Karwoche bezeichnet die „heilige Woche“ (*santa settimana*) vor Ostern. 
 
 ---
 
-<!-- card-id: karwoche-und-kirchenjahr-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: karwoche-und-kirchenjahr-02 | typ: abgrenzung | pruefung: BS -->
 **Wie unterscheiden sich Gründonnerstag und Karfreitag inhaltlich innerhalb der Karwoche?**
 ?
 Am **Gründonnerstag** stehen die Fußwaschung und das letzte Abendmahl (Ursprung der Hl. Messe) im Mittelpunkt. Der **Karfreitag** erinnert an Verhaftung, Verurteilung, Kreuzweg nach Golgota und Grablegung Jesu.
@@ -39,7 +39,7 @@ Am **Gründonnerstag** stehen die Fußwaschung und das letzte Abendmahl (Ursprun
 
 ---
 
-<!-- card-id: karwoche-und-kirchenjahr-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: karwoche-und-kirchenjahr-03 | typ: abgrenzung | pruefung: BS -->
 **Welcher Bedeutungs- und Stimmungswandel vollzieht sich zwischen Karsamstag und der Osternacht?**
 ?
 Der **Karsamstag** ist von Trauer, Fassungslosigkeit, Angst und Leere (*„alles umsonst“*) geprägt. In der **Osternacht** folgt die Wende durch die Auferstehungsbotschaft (*„Halleluja! Der Herr ist wahrhaft auferstanden“*), die Begegnung mit den Frauen und den Emmausgang.
@@ -47,7 +47,7 @@ Der **Karsamstag** ist von Trauer, Fassungslosigkeit, Angst und Leere (*„alles
 
 ---
 
-<!-- card-id: karwoche-und-kirchenjahr-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: karwoche-und-kirchenjahr-04 | typ: anwendung | pruefung: BS -->
 **Welche Ereignisse und Motive ordnet die Mitschrift den Tagen zwischen Palmsonntag und Gründonnerstag (Montag bis Mittwoch) zu?**
 ?
 Jesu Wirken im Tempel (Vertreibung der Händler), das Liebesgebot (*„Liebe deinen Nächsten wie dich selbst“*), Verhöre sowie der Verrat durch Judas für 30 Silberlinge.

@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Backup und Datensicherung"
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP1/AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Backup und Datensicherung.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -23,7 +24,6 @@ tags:
   - karteikarten
   - flashcards/it-technik-und-sicherheit/backup-und-datensicherung
 ---
-
 # 🗂️ Karteikarten: Backup und Datensicherung
 
 > [!tip] Quellenbasis

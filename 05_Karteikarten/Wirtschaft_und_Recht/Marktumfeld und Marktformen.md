@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Marktumfeld und Marktformen"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Marktumfeld und Marktformen.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -33,7 +34,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/marktumfeld-und-marktformen
 ---
-
 # 🗂️ Karteikarten: Marktumfeld und Marktformen
 
 > [!tip] Quellenbasis
@@ -41,7 +41,7 @@ tags:
 
 ---
 
-<!-- card-id: marktumfeld-und-marktformen-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: marktumfeld-und-marktformen-01 | typ: definition | pruefung: AP2 -->
 **Welche Wirtschaftssubjekte wirken im einfachen bzw. im erweiterten Wirtschaftskreislauf zusammen?**
 ?
 Im einfachen Wirtschaftskreislauf stellen Haushalte Arbeit, Kapital und Boden bereit und kaufen Konsumgüter von Unternehmen, die dafür Löhne, Gehälter, Miete, Pacht oder Zinsen zahlen. Im erweiterten Kreislauf kommen Banken (Ersparnisse/Kredite), der Staat (Steuern, Transferzahlen, Subventionen) sowie das Ausland (Exporte/Importe) hinzu.
@@ -49,7 +49,7 @@ Im einfachen Wirtschaftskreislauf stellen Haushalte Arbeit, Kapital und Boden be
 
 ---
 
-<!-- card-id: marktumfeld-und-marktformen-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: marktumfeld-und-marktformen-02 | typ: abgrenzung | pruefung: AP2 -->
 **Worin unterscheiden sich Verkäufermarkt und Käufermarkt sowie freier und geschlossener Markt?**
 ?
 Auf einem Verkäufermarkt besitzen die Anbieter eine starke Position, auf einem Käufermarkt hingegen die Nachfrager. Auf einem freien Markt hat jeder Zugang (z. B. Lebensmittel-, Automarkt), während auf einem geschlossenen Markt Zugangsbeschränkungen bestehen (z. B. Waffenmarkt, Großhandel wie Metro).
@@ -57,7 +57,7 @@ Auf einem Verkäufermarkt besitzen die Anbieter eine starke Position, auf einem 
 
 ---
 
-<!-- card-id: marktumfeld-und-marktformen-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: marktumfeld-und-marktformen-03 | typ: abgrenzung | pruefung: AP2 -->
 **Wie unterscheiden sich Monopol, Oligopol und Polypol hinsichtlich der Anzahl der Marktteilnehmer?**
 ?
 Beim Monopol existiert für ein Wirtschaftsgut nur ein Anbieter (Angebotsmonopol), ein Nachfrager (Nachfragemonopol) oder beides zugleich (zweiseitiges Monopol). Beim Angebotsoligopol stehen wenigen Anbietern viele Nachfrager gegenüber (z. B. Mobilfunk, Strom, Mineralöl), beim Polypol treffen viele Anbieter auf viele Nachfrager.
@@ -65,7 +65,7 @@ Beim Monopol existiert für ein Wirtschaftsgut nur ein Anbieter (Angebotsmonopol
 
 ---
 
-<!-- card-id: marktumfeld-und-marktformen-04 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: marktumfeld-und-marktformen-04 | typ: definition | pruefung: AP2 -->
 **Was ist ein Quasimonopol und mit welchen Mitteln streben Unternehmen im Polypol danach?**
 ?
 Unternehmen versuchen in polypolistischen Märkten durch Einzigartigkeit ihres Angebots Eigenschaften eines Monopolisten (Preissetzungsmacht) zu erlangen. Typische Maßnahmen sind Diversifikation, Exklusivität, Imagebildung, Innovation, Übernahme von Mitbewerbern oder das Ausnutzen natürlicher Wettbewerbsvorteile.
@@ -73,7 +73,7 @@ Unternehmen versuchen in polypolistischen Märkten durch Einzigartigkeit ihres A
 
 ---
 
-<!-- card-id: marktumfeld-und-marktformen-05 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: marktumfeld-und-marktformen-05 | typ: pruefungsfalle | pruefung: AP2 -->
 **Warum sind die Bedingungen eines vollkommenen Marktes in der Praxis regelmäßig nicht erfüllt?**
 ?
 In der Realität gibt es keine vollständige Markttransparenz (nicht alle Marktbedingungen sind jederzeit bekannt) und keine rein homogenen Güter (Unternehmen differenzieren Produkte bzw. Statussymbole). Zudem bestehen persönliche, räumliche oder ethische Präferenzen sowie zeitliche Anpassungsverzögerungen durch Vergleiche und Umstrukturierungen.
@@ -81,7 +81,7 @@ In der Realität gibt es keine vollständige Markttransparenz (nicht alle Marktb
 
 ---
 
-<!-- card-id: marktumfeld-und-marktformen-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: marktumfeld-und-marktformen-06 | typ: anwendung | pruefung: AP2 -->
 **Welche Marktungleichgewichte entstehen oberhalb bzw. unterhalb des Gleichgewichtspreises und welche Funktionen hat der Preis?**
 ?
 Ein Preis über dem Gleichgewichtspreis führt zu einem Angebotsüberschuss, ein Preis darunter zu einem Nachfrageüberschuss. Der Preis signalisiert Wert/Knappheit eines Gutes, bringt Angebot und Nachfrage ins Gleichgewicht, verdrängt falsch wirtschaftende Unternehmen und erzieht zu wirtschaftlichem Handeln.

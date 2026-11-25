@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Fremdwörter"
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Fremdwörter.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -17,7 +18,6 @@ tags:
   - karteikarten
   - flashcards/deutsch-englisch-kommunikation/fremdwoerter
 ---
-
 # 🗂️ Karteikarten: Fremdwörter
 
 > [!tip] Quellenbasis
@@ -25,7 +25,7 @@ tags:
 
 ---
 
-<!-- card-id: fremdwoerter-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: fremdwoerter-01 | typ: definition | pruefung: BS -->
 **Was ist ein Fremdwort, und wie hoch ist der Fremdwortanteil im Deutschen?**
 ?
 Fremdwörter sind aus anderen Sprachen übernommene Wörter, die in der Regel durch abweichende **Aussprache, Wortbildung, Lautung und Schreibweise** auffallen (z. B. *Engagement*, *Portemonnaie*).
@@ -34,7 +34,7 @@ Bei ca. 500.000 Wörtern im Deutschen sind gut ein Fünftel Fremdwörter; in Zei
 
 ---
 
-<!-- card-id: fremdwoerter-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: fremdwoerter-02 | typ: abgrenzung | pruefung: BS -->
 **Aus welchen Sprachen stammen die meisten Fremdwörter im Deutschen, und welche Themenbereiche prägen sie jeweils?**
 ?
 - **Lateinisch & Griechisch** (am häufigsten, seit den Humanisten): Wissenschaft, Recht, Technik
@@ -44,7 +44,7 @@ Bei ca. 500.000 Wörtern im Deutschen sind gut ein Fünftel Fremdwörter; in Zei
 
 ---
 
-<!-- card-id: fremdwoerter-03 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: fremdwoerter-03 | typ: definition | pruefung: BS -->
 **Welche Bedeutung haben die häufigen griechischen Vorsilben `a-/an-`, `anti-/ant-` und `auto-`?**
 ?
 - **a-/an-**: Verneinung (z. B. *der Analphabet*)
@@ -54,7 +54,7 @@ Bei ca. 500.000 Wörtern im Deutschen sind gut ein Fünftel Fremdwörter; in Zei
 
 ---
 
-<!-- card-id: fremdwoerter-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: fremdwoerter-04 | typ: abgrenzung | pruefung: BS -->
 **Wofür stehen die griechischen Vorsilben `homo-`, `poly-` und `tele-`?**
 ?
 - **homo-**: gleich (z. B. *homogen*, *homonym*)
@@ -64,7 +64,7 @@ Bei ca. 500.000 Wörtern im Deutschen sind gut ein Fünftel Fremdwörter; in Zei
 
 ---
 
-<!-- card-id: fremdwoerter-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: fremdwoerter-05 | typ: anwendung | pruefung: BS -->
 **Welche Fremdwörter entsprechen den Erklärungen „Vorhersage“, „Merkmal einer Krankheit“ und „Übersetzung eines Films in eine andere Sprache“?**
 ?
 - Vorhersage: **die Prognose**

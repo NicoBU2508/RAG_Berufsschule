@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Wirtschaftssektoren"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Wirtschaftssektoren.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -18,7 +19,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/wirtschaftssektoren
 ---
-
 # 🗂️ Karteikarten: Wirtschaftssektoren
 
 > [!tip] Quellenbasis
@@ -26,7 +26,7 @@ tags:
 
 ---
 
-<!-- card-id: wirtschaftssektoren-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: wirtschaftssektoren-01 | typ: definition | pruefung: AP2 -->
 **Welche vier Wirtschaftssektoren werden zur Unterteilung des Arbeitsmarktes unterschieden und was kennzeichnet jeden Sektor?**
 ?
 - **Primärer Sektor (Urproduktion):** Gewinnung von Rohstoffen (z. B. Ackerbau, Forstwirtschaft, Fischerei).
@@ -37,7 +37,7 @@ tags:
 
 ---
 
-<!-- card-id: wirtschaftssektoren-02 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: wirtschaftssektoren-02 | typ: anwendung | pruefung: AP2 -->
 **Wie werden folgende Betriebe den drei klassischen Wirtschaftssektoren (primär, sekundär, tertiär) zugeordnet: Kiesgrube, Bäckerei, Zimmerei, Möbelhaus, Autowerkstatt, Softwarefirma?**
 ?
 - **Primärer Sektor:** Kiesgrube (Rohstoffgewinnung).
@@ -47,7 +47,7 @@ tags:
 
 ---
 
-<!-- card-id: wirtschaftssektoren-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: wirtschaftssektoren-03 | typ: abgrenzung | pruefung: AP2 -->
 **Worin unterscheiden sich der Tertiär- und der Quartärsektor?**
 ?
 Der **Tertiäre Sektor** umfasst Handel und klassische Dienstleistungen (z. B. Banken, Versicherungen, Tourismus, Friseur). Der **Quartärsektor** wird als eigener vierter Bereich abgegrenzt und umfasst die **Analyse und Verarbeitung von Informationen und Daten** (z. B. IT-Dienstleister, Steuerberater, Forschungszentren).
@@ -55,7 +55,7 @@ Der **Tertiäre Sektor** umfasst Handel und klassische Dienstleistungen (z. B. B
 
 ---
 
-<!-- card-id: wirtschaftssektoren-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: wirtschaftssektoren-04 | typ: pruefungsfalle | pruefung: AP2 -->
 **Warum sind die Aussagen „Der Primärsektor hat in Deutschland den größten Anteil an der Wirtschaft“ und „Fischerei gehört zum Sekundärsektor“ falsch?**
 ?
 1. In Deutschland nimmt der **Primärsektor den kleinsten** Anteil an der Wirtschaft ein (dominant ist der Tertiärsektor).
@@ -64,7 +64,7 @@ Der **Tertiäre Sektor** umfasst Handel und klassische Dienstleistungen (z. B. B
 
 ---
 
-<!-- card-id: wirtschaftssektoren-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: wirtschaftssektoren-05 | typ: anwendung | pruefung: AP2 -->
 **Welche Rückschlüsse lässt die Verteilung der Wirtschaftssektoren auf den Entwicklungsstand eines Landes zu (Entwicklungs-, Schwellen- und Industrieland)?**
 ?
 - **Entwicklungsland (z. B. Kenia):** Größter Anteil im Primärsektor; Wirtschaft ist von Landwirtschaft geprägt, geringer Industrialisierungsgrad, niedriger Wohlstand.

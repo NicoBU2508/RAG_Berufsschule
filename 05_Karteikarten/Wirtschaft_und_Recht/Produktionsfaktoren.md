@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Produktionsfaktoren"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Produktionsfaktoren.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -17,7 +18,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/produktionsfaktoren
 ---
-
 # 🗂️ Karteikarten: Produktionsfaktoren
 
 > [!tip] Quellenbasis
@@ -25,7 +25,7 @@ tags:
 
 ---
 
-<!-- card-id: produktionsfaktoren-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: produktionsfaktoren-01 | typ: definition | pruefung: AP2 -->
 **Welche drei Hauptgruppen der Produktionsfaktoren unterscheidet die Betriebswirtschaftslehre laut Unterrichtsmitschrift?**
 ?
 - **Menschliche Arbeitskraft:** geistige und körperliche Anstrengungen der Mitarbeiter zur Leistungserstellung (z. B. Produktionsmitarbeiter, Buchhalter).
@@ -35,7 +35,7 @@ tags:
 
 ---
 
-<!-- card-id: produktionsfaktoren-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: produktionsfaktoren-02 | typ: abgrenzung | pruefung: AP2 -->
 **Worin unterscheiden sich Rohstoffe, Fremdbauteile und Hilfsstoffe bei der Produktherstellung?**
 ?
 - **Rohstoffe:** werden in der Produktion weiterverarbeitet und sind *wesentliche Bestandteile* des Fertigerzeugnisses (z. B. Carbon, Aluminium, Holz).
@@ -45,7 +45,7 @@ tags:
 
 ---
 
-<!-- card-id: produktionsfaktoren-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: produktionsfaktoren-03 | typ: pruefungsfalle | pruefung: AP2 -->
 **Was ist der entscheidende Unterschied zwischen Hilfsstoffen und Betriebsstoffen?**
 ?
 - **Hilfsstoffe** gehen als unwesentliche Bestandteile *in das fertige Produkt ein* (z. B. Lack, Schrauben).
@@ -54,7 +54,7 @@ tags:
 
 ---
 
-<!-- card-id: produktionsfaktoren-04 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: produktionsfaktoren-04 | typ: definition | pruefung: AP2 -->
 **Welche Besonderheit gilt für Handelswaren im Vergleich zu anderen Werkstoffen in einem Industriebetrieb?**
 ?
 Handelswaren sind fertige Waren, die der Industriebetrieb von anderen Unternehmen bezieht und **unverändert weiterverkauft** (z. B. Luftpumpe oder Helm beim Fahrradhersteller).
@@ -62,7 +62,7 @@ Handelswaren sind fertige Waren, die der Industriebetrieb von anderen Unternehme
 
 ---
 
-<!-- card-id: produktionsfaktoren-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: produktionsfaktoren-05 | typ: anwendung | pruefung: AP2 -->
 **Ein Fahrradhersteller baut nur den Rahmen selbst. Wie werden Aluminium, zugekaufte Bremsen, Lack, Maschinenstrom und verkaufte Helme den Produktionsfaktoren zugeordnet?**
 ?
 - **Aluminium:** Rohstoff (wesentlicher Bestandteil) | **Bremsen:** Fremdbauteile (zugekaufte Baugruppe)
@@ -72,7 +72,7 @@ Handelswaren sind fertige Waren, die der Industriebetrieb von anderen Unternehme
 
 ---
 
-<!-- card-id: produktionsfaktoren-06 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: produktionsfaktoren-06 | typ: abgrenzung | pruefung: AP2 -->
 **Wie grenzen sich Betriebsmittel von Betriebsstoffen ab (Beispiel aus der Produktion)?**
 ?
 - **Betriebsmittel** sind langlebige Gegenstände, *mit deren Hilfe* Leistungen erstellt werden (z. B. Maschinen, Werkzeuge, Werkstatt, Bauplan).

@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Objektorientierung"
 kategorie: Anwendungsentwicklung
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Objektorientierung.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -73,7 +74,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/objektorientierung
 ---
-
 # 🗂️ Karteikarten: Objektorientierung
 
 > [!tip] Quellenbasis
@@ -81,7 +81,7 @@ tags:
 
 ---
 
-<!-- card-id: objektorientierung-01 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: objektorientierung-01 | typ: abgrenzung | pruefung: AP2 -->
 **Welche Probleme der rein prozeduralen Programmierung löst die objektorientierte Programmierung (OOP)?**
 ?
 In der prozeduralen Programmierung fehlt die feste Verbindung zwischen Daten und Funktionen, sodass Daten manipuliert oder überschrieben werden können. Die OOP kapselt Daten mit Methoden, regelt Zugriffs- und Bearbeitungsrechte, strukturiert große Projekte und macht Code wiederverwendbar.
@@ -89,7 +89,7 @@ In der prozeduralen Programmierung fehlt die feste Verbindung zwischen Daten und
 
 ---
 
-<!-- card-id: objektorientierung-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: objektorientierung-02 | typ: abgrenzung | pruefung: AP2 -->
 **Worin unterscheiden sich Klasse und Objekt (Instanz) in der OOP?**
 ?
 Eine **Klasse** ist ein abstrakter Bauplan (Blaupause/Schablone), der gemeinsame Attribute und Methoden gleichartiger Objekte beschreibt. Ein **Objekt** ist eine konkrete Ausprägung (Instanz) dieser Klasse mit eigenen Attributwerten; ohne Klasse gibt es keine Objekte.
@@ -97,7 +97,7 @@ Eine **Klasse** ist ein abstrakter Bauplan (Blaupause/Schablone), der gemeinsame
 
 ---
 
-<!-- card-id: objektorientierung-03 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: objektorientierung-03 | typ: definition | pruefung: AP2 -->
 **Wie hängen Attribute, Methoden, Zustand (*state*) und Verhalten (*behaviour*) eines Objekts zusammen?**
 ?
 Attribute stellen den Zustand (*state*) und Methoden das Verhalten (*behaviour*) eines Objekts dar. Zustand und Verhalten beeinflussen sich gegenseitig (z. B. beeinflusst das Gewicht eines Roboters seine Geschwindigkeit und `walk()` verändert seine Position).
@@ -105,7 +105,7 @@ Attribute stellen den Zustand (*state*) und Methoden das Verhalten (*behaviour*)
 
 ---
 
-<!-- card-id: objektorientierung-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: objektorientierung-04 | typ: anwendung | pruefung: AP2 -->
 **Wie wird in Java ein Objekt instanziiert und über welchen Operator erfolgt der Member-Zugriff?**
 ?
 Die Instanziierung erfolgt mit dem Schlüsselwort `new` nach dem Schema `<Klassenname> <Bezeichner> = new <Klassenname()>;` (z. B. `Robot ourRobot = new Robot();`). Auf Member (Attribute/Methoden) wird über den **Punkt-Operator** zugegriffen.
@@ -113,7 +113,7 @@ Die Instanziierung erfolgt mit dem Schlüsselwort `new` nach dem Schema `<Klasse
 
 ---
 
-<!-- card-id: objektorientierung-05 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: objektorientierung-05 | typ: pruefungsfalle | pruefung: AP2 -->
 **Wozu dienen die Zugriffsmodifikatoren `public` und `private` bei Klassenattributen?**
 ?
 Da Attribute wie Variablen gelesen und neu überschrieben werden können, regeln `public` und `private` im Vorfeld, ob und inwiefern ein Zugriff von außen auf die Attribute der Klasse gestattet ist.

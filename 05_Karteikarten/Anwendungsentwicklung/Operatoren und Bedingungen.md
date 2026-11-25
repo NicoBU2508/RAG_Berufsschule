@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Operatoren und Bedingungen"
 kategorie: Anwendungsentwicklung
+pruefung: "AP1/AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Operatoren und Bedingungen.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -72,7 +73,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/operatoren-und-bedingungen
 ---
-
 # 🗂️ Karteikarten: Operatoren und Bedingungen
 
 > [!tip] Quellenbasis

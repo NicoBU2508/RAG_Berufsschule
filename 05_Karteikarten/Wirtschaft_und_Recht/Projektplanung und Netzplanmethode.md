@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Projektplanung und Netzplanmethode"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP1/AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Projektplanung und Netzplanmethode.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -37,7 +38,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/projektplanung-und-netzplanmethode
 ---
-
 # 🗂️ Karteikarten: Projektplanung und Netzplanmethode
 
 > [!tip] Quellenbasis

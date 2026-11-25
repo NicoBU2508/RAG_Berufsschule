@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Reihen-, Parallel- und Gruppenschaltungen"
 kategorie: Elektrotechnik
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -28,7 +29,6 @@ tags:
   - karteikarten
   - flashcards/elektrotechnik/reihen-parallel-und-gruppenschaltungen
 ---
-
 # 🗂️ Karteikarten: Reihen-, Parallel- und Gruppenschaltungen
 
 > [!tip] Quellenbasis
@@ -36,7 +36,7 @@ tags:
 
 ---
 
-<!-- card-id: reihen-parallel-und-gruppenschaltungen-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: reihen-parallel-und-gruppenschaltungen-01 | typ: definition | pruefung: BS -->
 **Welche Grundgesetze gelten für Stromstärke $I$, Spannung $U$ und Gesamtwiderstand $R_{\text{ges}}$ in der Reihenschaltung?**
 ?
 In der Reihenschaltung fließt überall derselbe Strom ($I = I_1 = I_2 = \dots = I_n$), die Gesamtspannung ist die Summe aller Teilspannungen ($U_{\text{ges}} = U_1 + U_2 + \dots + U_n$) und der Gesamtwiderstand ist die Summe der Einzelwiderstände ($R_{\text{ges}} = R_1 + R_2 + \dots + R_n$).
@@ -44,7 +44,7 @@ In der Reihenschaltung fließt überall derselbe Strom ($I = I_1 = I_2 = \dots =
 
 ---
 
-<!-- card-id: reihen-parallel-und-gruppenschaltungen-02 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: reihen-parallel-und-gruppenschaltungen-02 | typ: definition | pruefung: BS -->
 **Welche Grundgesetze gelten für Spannung $U$, Stromstärke $I$ (Knotenpunktsatz) und Ersatzwiderstand $R_{\text{ges}}$ in der Parallelschaltung?**
 ?
 An parallel geschalteten Verbrauchern liegt dieselbe Spannung ($U_{\text{ges}} = U_1 = U_2 = \dots$), der Gesamtstrom verzweigt sich ($I_{\text{ges}} = I_1 + I_2 + \dots$, Knotenpunktsatz) und die Kehrwerte bzw. Leitwerte ($G = \frac{1}{R}$) addieren sich: $\frac{1}{R_{\text{ges}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots$.
@@ -52,7 +52,7 @@ An parallel geschalteten Verbrauchern liegt dieselbe Spannung ($U_{\text{ges}} =
 
 ---
 
-<!-- card-id: reihen-parallel-und-gruppenschaltungen-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: reihen-parallel-und-gruppenschaltungen-03 | typ: abgrenzung | pruefung: BS -->
 **Wie verändert sich der Gesamtwiderstand, wenn ein weiterer Widerstand in Reihe bzw. parallel hinzugeschaltet wird?**
 ?
 In der **Reihenschaltung** steigt $R_{\text{ges}}$ durch Addition an (bei konstanter Quellspannung sinkt der Strom, z. B. leuchtet eine verlängerte Lichterkette schwächer). In der **Parallelschaltung** sinkt $R_{\text{ges}}$ und ist stets kleiner als der kleinste Einzelwiderstand, weil der Strom einen weiteren Pfad erhält.
@@ -60,7 +60,7 @@ In der **Reihenschaltung** steigt $R_{\text{ges}}$ durch Addition an (bei konsta
 
 ---
 
-<!-- card-id: reihen-parallel-und-gruppenschaltungen-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: reihen-parallel-und-gruppenschaltungen-04 | typ: anwendung | pruefung: BS -->
 **Wie geht man systematisch vor, um den Ersatzwiderstand einer gemischten Schaltung (Gruppenschaltung) zu berechnen?**
 ?
 Man fasst schrittweise von **innen nach außen** einzelne reine Teil-Reihenschaltungen und Teil-Parallelschaltungen zu Ersatzwiderständen zusammen, bis am Ende nur noch ein einziger Gesamtwiderstand $R_{\text{ges}}$ übrig bleibt.
@@ -68,7 +68,7 @@ Man fasst schrittweise von **innen nach außen** einzelne reine Teil-Reihenschal
 
 ---
 
-<!-- card-id: reihen-parallel-und-gruppenschaltungen-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: reihen-parallel-und-gruppenschaltungen-05 | typ: anwendung | pruefung: BS -->
 **Wie berechnet man bei einem ohmschen Spannungsteiler ($R_1 = 10\text{ k}\Omega$, $R_2 = 10\text{ k}\Omega$, $U_E = 10\text{ V}$) den Gesamtstrom $I_G$ und die Ausgangsspannung $U_A = U_2$?**
 ?
 Über den Reihen-Gesamtwiderstand $R_G = R_1 + R_2 = 20\text{ k}\Omega$ folgt $I_G = \frac{U_E}{R_G} = \frac{10\text{ V}}{20\text{ k}\Omega} = 0{,}5\text{ mA}$. Damit fällt an $R_2$ die Teilspannung $U_A = U_2 = I_2 \cdot R_2 = 0{,}5\text{ mA} \cdot 10\text{ k}\Omega = 5\text{ V}$ ab.
@@ -76,7 +76,7 @@ Man fasst schrittweise von **innen nach außen** einzelne reine Teil-Reihenschal
 
 ---
 
-<!-- card-id: reihen-parallel-und-gruppenschaltungen-06 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: reihen-parallel-und-gruppenschaltungen-06 | typ: pruefungsfalle | pruefung: BS -->
 **Welcher Rechenfehler passiert bei der Parallelschaltung am häufigsten nach dem Berechnen von $\frac{1}{R_1} + \frac{1}{R_2} + \dots$?**
 ?
 Es wird vergessen, am Schluss erneut den **Kehrwert** zu bilden! Die Summe der Kehrwerte ergibt den Gesamtleitwert $G_{\text{ges}}$ (in $\text{S}$), erst $R_{\text{ges}} = \frac{1}{G_{\text{ges}}}$ liefert den gesuchten Ersatzwiderstand in $\Omega$.

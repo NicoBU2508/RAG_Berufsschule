@@ -1,6 +1,6 @@
 # RAG_Berufsschule
 
-Ein Wissens- und Lern-RAG für die Fachinformatiker-Ausbildung (AE), das Obsidian über automatisierte Ruby-/Swift-Tools mit GoodNotes verbindet. Neue PDF-Mitschriften werden automatisch auf Duplikate geprüft, für KI-Assistenten datenschutzsicher (fail-closed) aufbereitet und direkt in 139 Themenbereiche sowie 860 Karteikarten überführt – ergänzt durch einen maßgeschneiderten KI-Lerncoach-Skill (`ap-lerncoach`) mit wissenschaftlichen Lernmethoden zur gezielten IHK-Prüfungsvorbereitung (**AP1** und **AP2**).
+Ein Wissens- und Lern-RAG für die Fachinformatiker-Ausbildung (AE), das Obsidian über automatisierte Ruby-/Swift-Tools über Python Scripte mit GoodNotes verbindet. Neue PDF-Mitschriften werden automatisch auf Duplikate geprüft, für KI-Assistenten datenschutzsicher (fail-closed) aufbereitet und automatisch in Themenbereiche sowie Karteikarten eingeordnet und logisch aufbereitet. – ergänzt durch einen maßgeschneiderten KI-Lerncoach-Skill (`ap-lerncoach`) mit wissenschaftlichen Lernmethoden zur gezielten IHK-Prüfungsvorbereitung (**AP1** und **AP2**).
 
 > **Stand (Audit 24.11.2026):** **49** kanonische Quellnotizen · **1.389** visuell geprüfte PDF-Seiten (**1.251** Belegseiten) · **139** kuratierte Themen · **139** Karteikarten-Decks (**860** Karten) · **191** freigegebene RAG-/Copilot-Dateien
 

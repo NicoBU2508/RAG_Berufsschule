@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Arrays und Datenstrukturen"
 kategorie: Anwendungsentwicklung
+pruefung: "AP1/AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Arrays und Datenstrukturen.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -39,7 +40,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/arrays-und-datenstrukturen
 ---
-
 # 🗂️ Karteikarten: Arrays und Datenstrukturen
 
 > [!tip] Quellenbasis

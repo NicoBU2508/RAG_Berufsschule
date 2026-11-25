@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: Datenbankmodellierung und ER-Modell
 kategorie: Anwendungsentwicklung
+pruefung: "AP1/AP2"
 thema_quelle: 03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankmodellierung
   und ER-Modell.md
 stand_karten: '2026-11-24'

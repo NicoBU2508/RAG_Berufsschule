@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Business Communication English"
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Business Communication English.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -32,7 +33,6 @@ tags:
   - karteikarten
   - flashcards/deutsch-englisch-kommunikation/business-communication-english
 ---
-
 # 🗂️ Karteikarten: Business Communication English
 
 > [!tip] Quellenbasis
@@ -40,7 +40,7 @@ tags:
 
 ---
 
-<!-- card-id: business-communication-english-01 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: business-communication-english-01 | typ: abgrenzung | pruefung: AP1 -->
 **Wie unterscheiden sich typische Gruß-, Einleitungs- und Schlussformeln in formeller vs. informeller englischer Geschäftskorrespondenz?**
 ?
 - **Formell:** `Dear Mr/Ms ...` oder `Dear Sir or Madam` → `I am writing to ...` → `Please do not hesitate to contact us` → `Best regards` / `Regards`.
@@ -58,7 +58,7 @@ tags:
 
 ---
 
-<!-- card-id: business-communication-english-03 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: business-communication-english-03 | typ: anwendung | pruefung: AP1 -->
 **Wie formuliert man im Englischen professionell eine Entschuldigung und Wiedergutmachung bei einer fehlerhaften Lieferung oder Rechnung?**
 ?
 - **Entschuldigung:** `I apologize for the errors in dealing with your order.` / `Please accept my apologies.`
@@ -76,7 +76,7 @@ tags:
 
 ---
 
-<!-- card-id: business-communication-english-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: business-communication-english-05 | typ: anwendung | pruefung: AP1 -->
 **Welche englischen Standardphrasen verwendet man am Telefon für „Ich verbinde Sie“, „Die Leitung ist besetzt“ und „Möchten Sie eine Nachricht hinterlassen?“?**
 ?
 - **Verbinden:** `I'll put you through.` / `I'll connect you.`
@@ -86,7 +86,7 @@ tags:
 
 ---
 
-<!-- card-id: business-communication-english-06 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: business-communication-english-06 | typ: abgrenzung | pruefung: AP1 -->
 **Welche Vorteile haben vertikale (klassische) vs. flache Hierarchien laut dem Text *Steamboat Software*?**
 ?
 - **Vertikale Hierarchie:** Gewährleistet Planbarkeit und Verlässlichkeit (`predictability and reliability`) und erleichtert die Top-down-Kontrolle über viele Mitarbeitende.

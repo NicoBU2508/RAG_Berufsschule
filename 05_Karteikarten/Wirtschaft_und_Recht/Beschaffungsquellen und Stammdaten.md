@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Beschaffungsquellen und Stammdaten"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Beschaffungsquellen und Stammdaten.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -22,7 +23,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/beschaffungsquellen-und-stammdaten
 ---
-
 # 🗂️ Karteikarten: Beschaffungsquellen und Stammdaten
 
 > [!tip] Quellenbasis
@@ -30,7 +30,7 @@ tags:
 
 ---
 
-<!-- card-id: beschaffungsquellen-und-stammdaten-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: beschaffungsquellen-und-stammdaten-01 | typ: definition | pruefung: AP1 -->
 **Welche Informationen sammelt eine Lieferantendatei und was enthält eine Artikeldatei?**
 ?
 Die **Lieferantendatei** speichert Angaben zu Warenangebot, Liefer- und Angebotsbedingungen, Liefermöglichkeiten sowie Erfahrungen wie Zuverlässigkeit und Entgegenkommen.
@@ -39,7 +39,7 @@ Die **Artikeldatei** erfasst alle im Sortiment geführten oder früher angeboten
 
 ---
 
-<!-- card-id: beschaffungsquellen-und-stammdaten-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: beschaffungsquellen-und-stammdaten-02 | typ: abgrenzung | pruefung: AP1 -->
 **Welche Vor- und Nachteile haben Lieferanten- und Artikeldatei (Stammdaten) im Beschaffungsprozess?**
 ?
 **Vorteile:** Schneller Informationszugang, schnelle Bestellungen und effiziente Bestandsführung, Speicherung von Qualitätserfahrungen und Intensivierung von Geschäftsbeziehungen.
@@ -48,7 +48,7 @@ Die **Artikeldatei** erfasst alle im Sortiment geführten oder früher angeboten
 
 ---
 
-<!-- card-id: beschaffungsquellen-und-stammdaten-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: beschaffungsquellen-und-stammdaten-03 | typ: abgrenzung | pruefung: AP1 -->
 **Worin unterscheiden sich interne und externe Bezugsquellen? (Je 2 Beispiele, Vor- und Nachteile)**
 ?
 **Interne Bezugsquellen** liegen im Betrieb vor (z. B. Lieferanten- und Artikeldatei) → *Vorteile:* schnell verfügbar, Erfahrungsberichte; *Nachteile:* evtl. veraltet, stark begrenzte Auswahl.
@@ -57,7 +57,7 @@ Die **Artikeldatei** erfasst alle im Sortiment geführten oder früher angeboten
 
 ---
 
-<!-- card-id: beschaffungsquellen-und-stammdaten-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: beschaffungsquellen-und-stammdaten-04 | typ: anwendung | pruefung: AP1 -->
 **In welchen Fällen kann der Einkäufer ausschließlich auf externe Bezugsquellen zurückgreifen?**
 ?
 Wenn ein Unternehmen **neu gegründet** wurde (z. B. Startups ohne bestehende Stammdaten) oder wenn ein **Stammlieferant ausfällt** bzw. nicht mehr verfügbar ist.
@@ -65,7 +65,7 @@ Wenn ein Unternehmen **neu gegründet** wurde (z. B. Startups ohne bestehende St
 
 ---
 
-<!-- card-id: beschaffungsquellen-und-stammdaten-05 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: beschaffungsquellen-und-stammdaten-05 | typ: pruefungsfalle | pruefung: AP1 -->
 **Warum sollte ein Unternehmen trotz gepflegter Lieferanten- und Artikeldatei regelmäßig externe Bezugsquellen prüfen?**
 ?
 Ausschließliches Bestellen bei Stammlieferanten verhindert den Blick über den Tellerrand.
@@ -74,7 +74,7 @@ Regelmäßige **Marktanalyse** ermöglicht günstigere Preise (**Kostenoptimieru
 
 ---
 
-<!-- card-id: beschaffungsquellen-und-stammdaten-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: beschaffungsquellen-und-stammdaten-06 | typ: anwendung | pruefung: AP1 -->
 **Welche qualitativen Kriterien werden in Geschäftspartner-Notizen zur Lieferantenbewertung dokumentiert?**
 ?
 Neben Standort/Erreichbarkeit und technischer Kompatibilität (Schnittstellen) werden **Beratungsqualität**, **Reklamations-/Beanstandungsmanagement**, **Mahnverhalten** bei Verspätungen, **Ersatzteil-/Kundendienstlager** sowie **umweltgerechte/nachhaltige Produktion** festgehalten.

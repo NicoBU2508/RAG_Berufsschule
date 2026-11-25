@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Introducing a Company"
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Introducing a Company.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -27,7 +28,6 @@ tags:
   - karteikarten
   - flashcards/deutsch-englisch-kommunikation/introducing-a-company
 ---
-
 # 🗂️ Karteikarten: Introducing a Company
 
 > [!tip] Quellenbasis
@@ -35,7 +35,7 @@ tags:
 
 ---
 
-<!-- card-id: introducing-a-company-01 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: introducing-a-company-01 | typ: anwendung | pruefung: BS -->
 **Welche fünf Kerninformationen gehören laut Arbeitsblatt in ein englisches Firmenprofil (*company profile*)?**
 ?
 Ein Firmenprofil beschreibt: 1. Gründung/Übernahme (*was founded in ...*, *was taken over by ...*), 2. Unternehmenstyp & Größe (*medium-sized family firm*, *subsidiary of*, *number of employees*), 3. Standort/Zentrale (*located in ...*, *headquarters*), 4. Geschäftsfeld (*main business activities*, *sector*) und 5. Kunden/Spezialisierung (*we specialize in ...*, *private/commercial/industrial customers*).
@@ -43,7 +43,7 @@ Ein Firmenprofil beschreibt: 1. Gründung/Übernahme (*was founded in ...*, *was
 
 ---
 
-<!-- card-id: introducing-a-company-02 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: introducing-a-company-02 | typ: definition | pruefung: BS -->
 **Was bedeuten die zentralen englischen Unternehmensbegriffe `headquarters`, `subsidiary`, `manufacturer`, `customers`, `employee` und `after-sales service`?**
 ?
 `headquarters` = Zentrale/Hauptsitz; `subsidiary` = Tochtergesellschaft; `manufacturer` = Hersteller (Verb: `manufacture`); `customers` = Kunden/Verbraucher; `employee` = Angestellte/r; `after-sales service` = Kundendienst/Wartung.
@@ -51,7 +51,7 @@ Ein Firmenprofil beschreibt: 1. Gründung/Übernahme (*was founded in ...*, *was
 
 ---
 
-<!-- card-id: introducing-a-company-03 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: introducing-a-company-03 | typ: anwendung | pruefung: BS -->
 **Mit welchen englischen Redewendungen beschreibt man Produkte und Dienstleistungen eines Unternehmens professionell?**
 ?
 Typische Wendungen sind: *We offer sustainable solutions*, *Our products are environmentally friendly / reliable and long-lasting*, *Our software is adapted to suit your requirements*, *designed using the latest CAD technology* sowie *state-of-the-art* (auf dem neuesten Stand).
@@ -59,7 +59,7 @@ Typische Wendungen sind: *We offer sustainable solutions*, *Our products are env
 
 ---
 
-<!-- card-id: introducing-a-company-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: introducing-a-company-04 | typ: abgrenzung | pruefung: BS -->
 **Welche englischen Präpositionen nutzt man für Arbeitsplatz (*assembly line*, *warehouse/factory*, *workshop*, *building site*) und Zuständigkeiten?**
 ?
 Man verwendet *work **on** an assembly line / a machine* und *work **on** a building site*, aber *work **in** a large warehouse / factory / workshop*, *work **for** a company* und *work **in** the automotive industry*. Zuständigkeiten drückt man mit *I am responsible **for** (+ -ing)* und *I report **to** ...* aus.
@@ -67,7 +67,7 @@ Man verwendet *work **on** an assembly line / a machine* und *work **on** a buil
 
 ---
 
-<!-- card-id: introducing-a-company-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: introducing-a-company-05 | typ: anwendung | pruefung: BS -->
 **Wie empfängt man Besucher auf einer Messe (*trade fair*) höflich auf Englisch und erkundigt sich nach ihrem Anliegen?**
 ?
 Begrüßung: *Welcome to our booth. How are you today?* Nachfrage zu Firma/Status: *May I ask who you work for?* / *You have a good reputation as a leader of ...* Bedarf klären und Produkt zeigen: *Can I ask whether you are looking for something in particular?* – *I'd be happy to demonstrate ...*
@@ -75,7 +75,7 @@ Begrüßung: *Welcome to our booth. How are you today?* Nachfrage zu Firma/Statu
 
 ---
 
-<!-- card-id: introducing-a-company-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: introducing-a-company-06 | typ: anwendung | pruefung: BS -->
 **Welche Phrasen nutzt man in einer englischen *follow-up email* nach einem Messekontakt für den Rückbezug und weiterführende Infos?**
 ?
 Rückbezug: *We met at the trade fair last week*, *It was great to meet you* und *As I explained at the trade fair ...*. Verweis auf Unterlagen: *You can refer to the attachment titled ...*, *take a look at the client testimonials on our website* sowie *Please don't hesitate to contact me if you require more information.*

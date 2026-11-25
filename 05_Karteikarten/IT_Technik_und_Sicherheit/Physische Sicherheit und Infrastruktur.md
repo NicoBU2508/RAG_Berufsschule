@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Physische Sicherheit und Infrastruktur"
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Physische Sicherheit und Infrastruktur.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -34,7 +35,6 @@ tags:
   - karteikarten
   - flashcards/it-technik-und-sicherheit/physische-sicherheit-und-infrastruktur
 ---
-
 # 🗂️ Karteikarten: Physische Sicherheit und Infrastruktur
 
 > [!tip] Quellenbasis
@@ -42,7 +42,7 @@ tags:
 
 ---
 
-<!-- card-id: physische-sicherheit-und-infrastruktur-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: physische-sicherheit-und-infrastruktur-01 | typ: definition | pruefung: AP1 -->
 **Welche vier Gefahrenbereiche der physischen Sicherheit müssen im IT-Betrieb abgesichert werden und mit welchen Maßnahmen?**
 ?
 1. **Unberechtigter Zugang zum Raum** (Schließsysteme, biometrische Zugangskontrolle, separate Serverräume), 2. **Unberechtigter Zugriff auf das System** (abschließbare Server-/Etagenverteilerschränke, Gehäuseverschluss, Kensington-Schloss), 3. **Physischer Zugriff auf Netzwerkkabel** (Unterboden-Verlegung, verdeckte Schächte) und 4. **Klima/Umwelt** (Klimaanlage, Umgebungs-Kontrollen, Reinigung).
@@ -50,7 +50,7 @@ tags:
 
 ---
 
-<!-- card-id: physische-sicherheit-und-infrastruktur-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: physische-sicherheit-und-infrastruktur-02 | typ: abgrenzung | pruefung: AP1 -->
 **Welche Vorgaben zu Sicherheitszonen macht der BSI-Baustein INF.2 für ein Rechenzentrum (Basis-Anforderung) im Unterschied zum Serverraum?**
 ?
 Ein **Rechenzentrum** muss insgesamt als geschlossener Sicherheitsbereich mit getrennten Sicherheitszonen für Verwaltungs-, Logistik-, Technik- und IT-Flächen konzipiert werden. Bei einem **Serverraum** sollte hingegen geprüft werden, ob unterschiedliche Sicherheitszonen (sowie Brand- und Rauchabschnitte) eingerichtet werden können.
@@ -58,7 +58,7 @@ Ein **Rechenzentrum** muss insgesamt als geschlossener Sicherheitsbereich mit ge
 
 ---
 
-<!-- card-id: physische-sicherheit-und-infrastruktur-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: physische-sicherheit-und-infrastruktur-03 | typ: pruefungsfalle | pruefung: AP1 -->
 **Wie können Verschmutzung, unzureichende Klimatisierung und fehlerhafte Standortplanung das Schutzziel Verfügbarkeit beeinträchtigen?**
 ?
 Staub und Verschmutzungen können Lüfter zusetzen, sodass Geräte überhitzen und ausfallen; auch Abweichungen bei Temperatur oder Luftfeuchte gefährden den Betrieb. Eine fehlerhafte Planung führt z. B. zu Standortrisiken (Erdbeben, Hochwasser, Luftverkehr), zu geringer Bandbreite oder unzureichender Energieversorgung.
@@ -66,7 +66,7 @@ Staub und Verschmutzungen können Lüfter zusetzen, sodass Geräte überhitzen u
 
 ---
 
-<!-- card-id: physische-sicherheit-und-infrastruktur-04 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: physische-sicherheit-und-infrastruktur-04 | typ: definition | pruefung: AP1 -->
 **Welche Basis-Anforderungen gelten laut BSI INF.2 für eine unterbrechungsfreie Stromversorgung (USV) im Rechenzentrum?**
 ?
 Für alle betriebsrelevanten Komponenten muss eine ausreichend dimensionierte USV installiert, bei Verbraucheränderungen neu geprüft, regelmäßig gewartet/getestet und automatisch auf Störmeldungen überwacht werden. Batterien müssen im passenden Temperaturbereich gehalten und möglichst räumlich getrennt von der Leistungselektronik stehen.
@@ -74,7 +74,7 @@ Für alle betriebsrelevanten Komponenten muss eine ausreichend dimensionierte US
 
 ---
 
-<!-- card-id: physische-sicherheit-und-infrastruktur-05 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: physische-sicherheit-und-infrastruktur-05 | typ: abgrenzung | pruefung: AP1 -->
 **Welche zusätzlichen Anforderungen stellt der Standard-Schutzbedarf (NEA) an die Notstromversorgung gegenüber der Basis-Anforderung (USV)?**
 ?
 Im Standard-Schutzbedarf sollte zusätzlich eine **Netzersatzanlage (NEA)** ergänzt werden (alternativ eine USV mit angemessener Autonomiezeit). Die NEA muss regelmäßig unter Last getestet werden; Betriebsmittelvorräte sind regelmäßig zu prüfen, statt Diesel sollte schwefelarmes Heizöl verwendet und Tankvorgänge müssen protokolliert werden.
@@ -82,7 +82,7 @@ Im Standard-Schutzbedarf sollte zusätzlich eine **Netzersatzanlage (NEA)** erg�
 
 ---
 
-<!-- card-id: physische-sicherheit-und-infrastruktur-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: physische-sicherheit-und-infrastruktur-06 | typ: anwendung | pruefung: AP1 -->
 **Welche Vorgaben gelten laut BSI INF.2 für Leitungen durch das Rechenzentrum sowie für den Brandschutz (Basis vs. Standard)?**
 ?
 Im Rechenzentrum dürfen grundsätzlich nur Leitungen zur unmittelbaren Versorgung der eigenen Technik (IT/Kühlung) liegen; unvermeidbare Fremdleitungen müssen dokumentiert, eingehaust und überwacht werden. Beim Brandschutz fordern Basis-Anforderungen Brand-/Rauchabschnitte plus Brandfrüherkennung mit Alarmierung/Schutzreaktion; Standard-Anforderungen ergänzen automatische Lösch- oder Brandvermeidungsanlagen.
@@ -90,7 +90,7 @@ Im Rechenzentrum dürfen grundsätzlich nur Leitungen zur unmittelbaren Versorgu
 
 ---
 
-<!-- card-id: physische-sicherheit-und-infrastruktur-07 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: physische-sicherheit-und-infrastruktur-07 | typ: anwendung | pruefung: AP1 -->
 **Welche Maßnahmen fordert BSI INF.2 bei erhöhtem Schutzbedarf für ein Ausweichrechenzentrum und bei Baumaßnahmen?**
 ?
 Bei erhöhtem Schutzbedarf sollte ein geografisch separiertes, ständig einsatzbereites **Ausweichrechenzentrum** aufgebaut, regelmäßig mit gespiegelten Daten versorgt, redundant angebunden und der Schwenk dorthin geübt werden. Bei Erweiterungen eines Rechenzentrums sind Staubschutzmaßnahmen von unbeteiligten Personen engmaschig zu kontrollieren.

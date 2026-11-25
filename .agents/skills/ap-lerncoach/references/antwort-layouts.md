@@ -63,7 +63,7 @@ flowchart TB
 **<Knackige Verständnis- oder Transferfrage in 1–2 Zeilen — ohne Spoiler!>**
 
 ---
-**Quellen:** **<Fach (Lehrjahr)>** · `<Dateiname.pdf>` · **S. <X–Y> (von <N> Seiten)** *(Textstatus / OCR-Hinweis)* · *Ergänzung:* <falls didaktisch ergänzt>
+**Quellen:** **<Fach (Lehrjahr)>** · [<Dateiname.pdf>](file:///.../<Dateiname.pdf>#page=<X>) · **S. <X–Y> (von <N> Seiten)** *(Textstatus / OCR-Hinweis)* · *Ergänzung:* <falls didaktisch ergänzt>
 ````
 
 ---
@@ -95,7 +95,7 @@ Gegeben: `<neue Werte>` · Schritt 1 *(vorgegeben)*: `<Startschritt>`
 **Ergänze Schritt 2 & 3!** *(Unsicher? Schreib deine Vermutung oder „Hinweis“.)*
 
 ---
-**Quellen:** **<Fach (Lehrjahr)>** · `<Dateiname.pdf>` · **S. <X> (von <N> Seiten)**
+**Quellen:** **<Fach (Lehrjahr)>** · [<Dateiname.pdf>](file:///.../<Dateiname.pdf>#page=<X>) · **S. <X> (von <N> Seiten)**
 ```
 
 ---
@@ -129,7 +129,7 @@ Nach **jeder** Antwort des Nutzers verwenden — präzise, farbcodiert, ohne Flo
 > **🟡 Nächster Schritt (Feed Forward):** <Gezielte Nachfrage bei offener Lücke ODER nächste Frage>
 
 ---
-**Quellen:** **<Fach (Lehrjahr)>** · `<Dateiname.pdf>` · **S. <X> (von <N> Seiten)**
+**Quellen:** **<Fach (Lehrjahr)>** · [<Dateiname.pdf>](file:///.../<Dateiname.pdf>#page=<X>) · **S. <X> (von <N> Seiten)**
 ```
 
 ---
@@ -150,23 +150,21 @@ Nach **jeder** Antwort des Nutzers verwenden — präzise, farbcodiert, ohne Flo
 
 ---
 
-## Layout 6: Session-Abschluss, Karteikarten & Spaced-Repetition-Plan
+## Layout 6: Session-Abschluss, FSRS-Speicherung & Fehlerjournal
 
 ```markdown
 ## Session-Abschluss: <Thema>
 
-| Bereich | Status | Fokus beim nächsten Mal |
+| Bereich | Status | Gespeichertes FSRS-Ziel |
 |---|---|---|
-| <Teilthema 1> | 🟢 Sicher | In 7 Tagen kurz gegenprüfen |
-| <Teilthema 2> | 🟡 Noch unsicher | Morgen 2 Transferfälle üben |
+| <Teilthema 1> | 🟢 Sicher (Bewertung 3–4) | Nächste Fälligkeit: **`<YYYY-MM-DD>`** *(Stabilität `<S>` Tage)* |
+| <Denkfehler / Falle> | 🔴/🟡 Im Fehlerjournal (`ERR-XXX`) | **Pretest morgen (`Tag +1`)** & Langzeit-Check (`Tag +7`) |
 
-### 🔵 Wiederholungsplan (Spaced Repetition)
-- **Tag +1:** 3-Minuten-Abruf der 🟡 Punkte ohne Notizen
-- **Tag +3:** Gemischte Abgrenzungsfragen (Interleaving)
-- **Tag +7:** 1 kurze IHK-Aufgabe ohne Hilfsmittel
-- **Tag +21:** Langzeit-Check im Gesamt-Mix
+### 🔵 Dein gespeicherter Lernstand (`learn_tracker.rb`)
+- **FSRS-Cockpit aktualisiert:** [[04_Pruefung/Lernstand_Dashboard|📊 Lernstand-Dashboard]]
+- **Hypercorrection-Pretests:** `<Anzahl>` aktiv in [[04_Pruefung/Fehlerjournal_und_Denkfehler|🎯 Fehlerjournal]]
 
-### 🟡 Karteikarten (Obsidian / Anki)
+### 🟡 Neue Karteikarten *(optional auf Wunsch)*
 - **Q:** <Atomare Frage — 1 Konzept pro Karte>
   **A:** <Knappe Antwort + Merksatz/Beispiel> *(Quelle: `<Fach>`, `<Dateiname.pdf>`, S. X von N)*
 ```
@@ -190,7 +188,7 @@ Verwenden, sobald der Nutzer **eine Anschlussfrage zu einem bereits laufenden Th
 *(Optional, nur wenn sinnvoll: 1 kurze Anschlussfrage in 1 Zeile)*
 
 ---
-**Quellen:** **<Fach (Lehrjahr)>** · `<Dateiname.pdf>` · **S. <X> (von <N> Seiten)**
+**Quellen:** **<Fach (Lehrjahr)>** · [<Dateiname.pdf>](file:///.../<Dateiname.pdf>#page=<X>) · **S. <X> (von <N> Seiten)**
 ```
 
 ---
@@ -220,8 +218,45 @@ Verwenden im **Karteikarten-Modus (Modus 7)**. **Immer genau 1 Karte pro Zug**, 
 **Wie sicher warst du?** `1` 🔴 Nochmal · `2` 🟡 Schwer · `3` 🟢 Gut · `4` ⚡ Leicht *(oder direkt „weiter“)*
 
 ---
-**Quellen:** **<Fach (Lehrjahr)>** · `<Dateiname.pdf>` · **S. <X> (von <N> Seiten)**
+**Quellen:** **<Fach (Lehrjahr)>** · [<Dateiname.pdf>](file:///.../<Dateiname.pdf>#page=<X>) · **S. <X> (von <N> Seiten)**
 ```
+
+---
+
+## Layout 9: Prüfungsdiagramm in fester Notation (PAP, Struktogramm, EPK, ER, UML, Netzplan …)
+
+Verwenden, sobald das Thema **selbst eine Darstellungsform** ist oder ein Diagramm mit Norm-/Schulsymbolen nötig ist. Ersetzt im Layout 1 das farbige Mini-Mermaid. Symbol-Tabellen, Mermaid-Formen und ASCII-Vorlagen: [pruefungsnotation-diagramme.md](./pruefungsnotation-diagramme.md).
+
+**Wichtig (keine Doppelung):** Wird die **Originalseite** per `vault_lookup.rb render` eingeblendet und zeigt diese das Diagramm/Beispiel bereits, **kein** zusätzliches Mermaid-/HTML-Diagramm darunter erzeugen! Nur bei eigenen Beispielen ohne passendes Originalbild den Mermaid-/ASCII-Block nutzen.
+
+````markdown
+## ✍️ So zeichnest du es in der Prüfung
+
+![<PDF-Name> S. <X> – Originalnotation](/absoluter/pfad/notation/p<X>.png)
+
+*(ODER — nur wenn keine passende Originalseite eingeblendet wird — eigenes Beispiel in Prüfungsnotation:)*
+
+```mermaid
+flowchart TD
+    S([Beginn]) --> E["Eingabe (x)"]
+    E --> V{"x > 0 ?"}
+    V -- Ja --> J["y := x"]
+    V -- Nein --> N["y := 0"]
+    J --> Z([Ende])
+    N --> Z
+    classDef pruef fill:#fff,stroke:#000,color:#000
+    class S,E,V,J,N,Z pruef
+```
+
+| Symbol | Bedeutung | Beschriftungsregel |
+|---|---|---|
+| Oval | Beginn / Ende | genau `Beginn` / `Ende` |
+| Raute | Verzweigung | Bedingung mit `?`, Ausgänge `Ja` / `Nein` |
+
+*✍️ Prüfungsnotation nach <Fach>, <PDF>, S. <X> · ⚠️ <ggf. Abweichung, z. B. „Parallelogramm für Ein-/Ausgabe ist in IHK-Aufgaben verbreitet“>*
+````
+
+**Regeln:** schwarz-weiß (`classDef pruef`), keine Knotenbegrenzung, exakte Schul-Beschriftungen (`:=`, `?`, `Ja`/`Nein`, `1`/`n`, `[Guard]`), Leserichtung der Norm. Formen, die Mermaid nicht kann → ASCII-Vorlage.
 
 ---
 
@@ -236,3 +271,4 @@ Verwenden im **Karteikarten-Modus (Modus 7)**. **Immer genau 1 Karte pro Zug**, 
 7. **Saubere Alerts:** Nur `> [!TIP]` (grün) und `> [!WARNING]` (gelb/orange) nutzen — keine rohen `[!info]`/`[!abstract]`/`[!question]`-Tags.
 8. **Logik vor Auswendiglernen:** Immer `Ursache → Wirkung` erklären, plus **Eselsbrücke** und **Wenn-Dann-Regel**.
 9. **Keine Spoiler bei Checks/Quizzen:** Lösung niemals unter derselben Nachricht anhängen.
+10. **Prüfungsnotation vor Optik:** Diagramme zu Themen mit fester Darstellungsform immer nach **Layout 9** (exakte Norm-/Schulsymbole, Symbol-Legende, Quellenhinweis) – niemals ein frei gestaltetes Flussdiagramm mit falschen Formen.

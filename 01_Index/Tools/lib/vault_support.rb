@@ -16,6 +16,9 @@ module VaultSupport
   MAPPING_PATH = ROOT.join("01_Index/Themenreferenzen_Visuell_Geprueft.json")
   IMPORT_REPORT_DIR = ROOT.join("01_Index/Auditdaten/Import")
   CATEGORY_REGISTRY = ROOT.join("01_Index/Themen_Kategorien.json")
+  EXAM_MAPPING_PATH = ROOT.join("01_Index/Pruefungskatalog_Mapping.json")
+  CONFUSION_PAIRS_PATH = ROOT.join("01_Index/Verwechslungspaare.json")
+  LERNSTAND_PATH = ROOT.join("01_Index/Lernstand.json")
   PRIVATE_PREFIX = "98_Archiv_nicht_lernen/Privat_Noten_nicht_fuer_KI/"
 
   CONTENT_TYPES = %w[theorie aufgabe loesung beispiel formular index fragment leer].freeze
@@ -78,6 +81,49 @@ module VaultSupport
     return {} unless CATEGORY_REGISTRY.file?
 
     read_json(CATEGORY_REGISTRY).fetch("topics", {})
+  end
+
+  def exam_registry
+    return {} unless EXAM_MAPPING_PATH.file?
+
+    read_json(EXAM_MAPPING_PATH).fetch("topics", {})
+  end
+
+  def exam_for_topic(topic, registry = nil)
+    reg = registry || exam_registry
+    entry = reg[nfc(topic)] || reg[topic.to_s]
+    (entry && entry["pruefung"]).to_s.strip.then { |v| v.empty? ? "AP1/AP2" : v }
+  end
+
+  def exam_matches?(pruefung_value, exam_filter)
+    return true if exam_filter.nil? || exam_filter.to_s.strip.empty? || exam_filter.to_s.casecmp("all").zero?
+
+    val = pruefung_value.to_s.strip.upcase
+    flt = exam_filter.to_s.strip.upcase
+    case flt
+    when "AP1"
+      val == "AP1" || val == "AP1/AP2"
+    when "AP1-ONLY", "AP1_ONLY"
+      val == "AP1"
+    when "AP2"
+      val == "AP2" || val == "AP1/AP2"
+    when "AP2-ONLY", "AP2_ONLY"
+      val == "AP2"
+    when "BS", "BERUFSSCHULE"
+      val == "BS"
+    else
+      val.include?(flt)
+    end
+  end
+
+  def exam_badge(pruefung_value)
+    case pruefung_value.to_s.strip.upcase
+    when "AP1" then "🟢 AP1"
+    when "AP1/AP2" then "🟢 AP1+AP2"
+    when "AP2" then "🔵 AP2"
+    when "BS" then "⚪ BS"
+    else pruefung_value.to_s
+    end
   end
 
   # Validiert einen Seiteneintrag aus einem Importbericht. Gibt Fehlertexte zurück.

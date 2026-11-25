@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: Groß- und Kleinschreibung
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "BS"
 thema_quelle: 03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Groß- und
   Kleinschreibung.md
 stand_karten: '2026-11-24'
@@ -33,7 +34,7 @@ tags:
 
 ---
 
-<!-- card-id: gross-und-kleinschreibung-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: gross-und-kleinschreibung-01 | typ: definition | pruefung: BS -->
 **Welche Hauptkategorien werden im Deutschen grundsätzlich großgeschrieben, und wie prüft man Substantive?**
 ?
 Großgeschrieben werden Satzanfänge, Substantive (Nomen), Eigennamen, Höflichkeitsanreden sowie Substantivierungen (Nominalisierungen). Substantive erkennt man mithilfe der Artikelprobe (`der/die/das`, `ein/eine`) — auch bei verschmolzenen Präpositionen wie `im` (= `in dem`) oder `zum` (= `zu dem`).
@@ -41,7 +42,7 @@ Großgeschrieben werden Satzanfänge, Substantive (Nomen), Eigennamen, Höflichk
 
 ---
 
-<!-- card-id: gross-und-kleinschreibung-02 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: gross-und-kleinschreibung-02 | typ: anwendung | pruefung: BS -->
 **Wann werden Adjektive, Partizipien und Verben durch Substantivierung (Nominalisierung) großgeschrieben?**
 ?
 Sie werden großgeschrieben, wenn sie die Funktion von Substantiven übernehmen — erkennbar an Artikeln, Präposition-Artikel-Verschmelzungen oder Begleitwörtern wie `etwas`, `nichts`, `viel`, `wenig` (z. B. `beim Arbeiten`, `zum Lesen`, `das Gute`, `etwas Derartiges`, `im Wesentlichen`).
@@ -49,7 +50,7 @@ Sie werden großgeschrieben, wenn sie die Funktion von Substantiven übernehmen 
 
 ---
 
-<!-- card-id: gross-und-kleinschreibung-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: gross-und-kleinschreibung-03 | typ: abgrenzung | pruefung: BS -->
 **Wie unterscheidet sich die Groß- und Kleinschreibung bei Wochentagen, Tageszeiten und Ausdrücken nach `gestern`, `heute`, `morgen`?**
 ?
 Substantivische Wochentage und Tageszeiten schreibt man groß (`Montag`, `Abend`), ebenso Tageszeiten nach den Adverbien `gestern`, `heute`, `morgen`, `vorgestern`, `übermorgen` (`heute Morgen`, `gestern Abend`). Reine Zeitadverbien schreibt man dagegen klein (`montags`, `abends`, `mittags`).
@@ -57,7 +58,7 @@ Substantivische Wochentage und Tageszeiten schreibt man groß (`Montag`, `Abend`
 
 ---
 
-<!-- card-id: gross-und-kleinschreibung-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: gross-und-kleinschreibung-04 | typ: abgrenzung | pruefung: BS -->
 **Wann werden Anredepronomen (`Sie`/`du`) in Briefen und E-Mails groß- bzw. kleingeschrieben?**
 ?
 Die Höflichkeitsanrede `Sie`, `Ihnen`, `Ihr`, `Ihre` wird bei direkter Ansprache immer großgeschrieben (nicht aber das Personalpronomen `sie` in der 3. Person). Die informellen Anreden `du`, `dich`, `dein`, `euch`, `eure` schreibt man grundsätzlich klein; in Briefen können sie auch großgeschrieben werden.
@@ -65,7 +66,7 @@ Die Höflichkeitsanrede `Sie`, `Ihnen`, `Ihr`, `Ihre` wird bei direkter Ansprach
 
 ---
 
-<!-- card-id: gross-und-kleinschreibung-05 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: gross-und-kleinschreibung-05 | typ: pruefungsfalle | pruefung: BS -->
 **Wie werden Wörter wie `recht`, `schuld`, `leid`, `angst` in Verbindung mit `haben` vs. `sein` geschrieben?**
 ?
 In Verbindung mit `haben` handelt es sich um Substantive, die **großgeschrieben** werden (`Du hast Recht.`, `Ich habe Angst.`). In Verbindung mit `sein` sind es prädikative Adjektive, die **kleingeschrieben** werden (`Ich bin schuld.`, `Mir ist angst und bange.`).
@@ -73,7 +74,7 @@ In Verbindung mit `haben` handelt es sich um Substantive, die **großgeschrieben
 
 ---
 
-<!-- card-id: gross-und-kleinschreibung-06 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: gross-und-kleinschreibung-06 | typ: pruefungsfalle | pruefung: BS -->
 **Wie schreibt man Ordnungszahlen/Ziffern, Superlative mit `am` sowie von Personennamen abgeleitete Adjektive (z. B. `ohmscher Widerstand`)?**
 ?
 Substantivierte Ordnungszahlen und Ziffern schreibt man groß (`als Erstes`, `eine Sechs würfeln`, aber `über sechzig`), ebenso Farb- und Sprachbezeichnungen als Substantiv (`auf Rot`, `Ihr Französisch`). Superlative mit `am` (`am lautesten`) und Adjektive auf `-sch` (`der ohmsche Widerstand`, mit Apostroph auch `Ohm'sche`) schreibt man klein.

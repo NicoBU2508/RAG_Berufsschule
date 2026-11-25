@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Kaufvertrag und Geschäftsfähigkeit"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP1/AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Kaufvertrag und Geschäftsfähigkeit.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -26,7 +27,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/kaufvertrag-und-geschaeftsfaehigkeit
 ---
-
 # 🗂️ Karteikarten: Kaufvertrag und Geschäftsfähigkeit
 
 > [!tip] Quellenbasis

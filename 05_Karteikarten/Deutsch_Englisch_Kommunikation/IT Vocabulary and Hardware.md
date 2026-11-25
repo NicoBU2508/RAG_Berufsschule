@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "IT Vocabulary and Hardware"
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/IT Vocabulary and Hardware.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -23,7 +24,6 @@ tags:
   - karteikarten
   - flashcards/deutsch-englisch-kommunikation/it-vocabulary-and-hardware
 ---
-
 # 🗂️ Karteikarten: IT Vocabulary and Hardware
 
 > [!tip] Quellenbasis
@@ -31,7 +31,7 @@ tags:
 
 ---
 
-<!-- card-id: it-vocabulary-and-hardware-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: it-vocabulary-and-hardware-01 | typ: definition | pruefung: AP1 -->
 **Welche englischen Begriffe bezeichnen die zentralen PC-Komponenten beim Zusammenbau (*Assembling a computer*)?**
 ?
 - Gehäuse / Seitenwand: **case** / **side panel** · Netzteil: **PSU (power supply unit)**
@@ -41,7 +41,7 @@ tags:
 
 ---
 
-<!-- card-id: it-vocabulary-and-hardware-02 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: it-vocabulary-and-hardware-02 | typ: anwendung | pruefung: AP1 -->
 **Welche Sicherheits- und ESD-Regeln gelten laut *Safety advice for PC builders* vor und während der Montage?**
 ?
 - **Elektrizität:** Netzteil vom Stromnetz trennen (*disconnect from the mains*) und Netzwerkkabel abziehen; das Netzteil (**PSU**) niemals öffnen (*dismantle*), da gefährliche Netzspannungen anliegen.
@@ -50,7 +50,7 @@ tags:
 
 ---
 
-<!-- card-id: it-vocabulary-and-hardware-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: it-vocabulary-and-hardware-03 | typ: pruefungsfalle | pruefung: AP1 -->
 **Wie reinigt und handhabt man empfindliche PC-Komponenten fachgerecht laut Sicherheitsanweisung?**
 ?
 - Bauteile nur an den Kanten (*edges*) greifen, vor scharfen Gehäusekanten (*sharp edges*) und Lötstiften (*solder pins*) schützen sowie Stecker (*cable connectors*) ausgerichtet ohne übermäßige Kraft einstecken.
@@ -59,7 +59,7 @@ tags:
 
 ---
 
-<!-- card-id: it-vocabulary-and-hardware-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: it-vocabulary-and-hardware-04 | typ: anwendung | pruefung: AP1 -->
 **Welche englischen Werkzeugbegriffe und Montage-Verben benötigt man für eine PC-Bau-Anleitung?**
 ?
 - **Werkzeuge:** *Phillips screwdriver* (Kreuzschlitzschraubendreher), *flat-head screwdriver* (Schlitzschraubendreher), *pliers* (Zange).
@@ -68,7 +68,7 @@ tags:
 
 ---
 
-<!-- card-id: it-vocabulary-and-hardware-05 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: it-vocabulary-and-hardware-05 | typ: abgrenzung | pruefung: AP1 -->
 **Welche Vor- und Nachteile nennt der Diskussionsthread zum Selbstbau eines PCs (*building your own PC*)?**
 ?
 - **Vorteile:** spätere Upgrades sind einfacher (*doing upgrades easier*), man wird Experte fürs eigene System und es ist befriedigend (*satisfying*).
@@ -77,7 +77,7 @@ tags:
 
 ---
 
-<!-- card-id: it-vocabulary-and-hardware-06 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: it-vocabulary-and-hardware-06 | typ: abgrenzung | pruefung: AP1 -->
 **Welche Hardware- und Datenschutzmerkmale beschreibt der Fachtext *Features of Perfect Smart Glasses*?**
 ?
 - **Hardware/Bedienung:** Lautsprecher in den Brillenbügeln (*speakers on the temples*) strahlen Ton gezielt zum Ohr, ohne Umgebungsgeräusche abzuschotten; *hands-free* Sprachassistenten oder *wearable display* mit AR-Overlay.

@@ -1,26 +1,26 @@
 ---
 typ: ap1_bereich
 pruefung: AP1
+stand: 2026-11-25
 ---
 # AP1 IT Arbeitsplatz Konfiguration
 
 > [!ap1] Lernziel
-> IT-gestützten Arbeitsplatz einrichten, konfigurieren, testen und dokumentieren.
+> IT-gestützten Arbeitsplatz vernetzen, adressieren (IPv4/IPv6), Software & Datenbankbasis einrichten und anpassen.
 
-## Relevante Themen
+## Kanonische Themen (`03_Themen/Visuell_geprueft/`)
 
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/IPv4 Subnetting und Binaerzahlen/00_IPv4 Subnetting und Binaerzahlen|IPv4 Subnetting und Binaerzahlen]]
-- [[02_Faecher/ITT_IT_Technik/10_Lernordner/IT Sicherheit Grundlagen/00_IT Sicherheit Grundlagen|IT Sicherheit Grundlagen]]
-- [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Dokumentation Installation und Anpassung/00_Dokumentation Installation und Anpassung|Dokumentation Installation und Anpassung]]
+- [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Netzwerktechnik und Netzplan|Netzwerktechnik und Netzplan]]
+- [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/OSI-Schichtenmodell|OSI-Schichtenmodell]]
+- [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting|IPv4-Adressierung und Subnetting]]
+- [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Binärzahlen|Binärzahlen]]
+- [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Hexadezimalsystem|Hexadezimalsystem]]
+- [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Algorithmus|Algorithmus]]
+- [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Arrays und Datenstrukturen|Arrays und Datenstrukturen]]
+- [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Schleifen|Schleifen]]
+- [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankgrundlagen und Datenbankentwicklung|Datenbankgrundlagen und Datenbankentwicklung]]
+- [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell|Datenbankmodellierung und ER-Modell]]
 
-## Konkrete Quellen
+## Vollständige Prüfungs-Checkliste
 
-| Thema | Quellen |
-|---|---|
-| [[02_Faecher/ITT_IT_Technik/10_Lernordner/IPv4 Subnetting und Binaerzahlen/00_IPv4 Subnetting und Binaerzahlen\|IPv4 Subnetting und Binaerzahlen]] | [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt\|Otma_Netzwerkt]] S. 2, 7, 8, 9, 10, 11, 12 |
-| [[02_Faecher/ITT_IT_Technik/10_Lernordner/IT Sicherheit Grundlagen/00_IT Sicherheit Grundlagen\|IT Sicherheit Grundlagen]] | [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Fachbegriffe\|IT_Sicherheit_Fachbegriffe]] S. 8, 9, 25, 28, [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116\|IT_Sicherheit_Netzplan_251022_160116]] S. 1, 2, 3, 4, [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] S. 1, 3, 4, 5 |
-| [[02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Dokumentation Installation und Anpassung/00_Dokumentation Installation und Anpassung\|Dokumentation Installation und Anpassung]] | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA\|01_Algorithmus_Programm_Software_EVA]] S. 82, 83, 84, 85, 86, 87 |
-
-## Altklausur-Vorbereitung
-
-- Sobald Altklausuren + Lösungen hinzugefügt sind, jede Aufgabe hier mit Thema, Quelle, Lösungsschritt und Fehleranalyse verlinken.
+Details zu allen Unterpunkten (Handlungsfeld 3.1–3.9) siehe [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|AP1 IHK-Prüfungskatalog & Checkliste]].

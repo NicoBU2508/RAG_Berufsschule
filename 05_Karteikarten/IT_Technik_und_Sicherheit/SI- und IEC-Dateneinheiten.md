@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "SI- und IEC-Dateneinheiten"
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/SI- und IEC-Dateneinheiten.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -22,7 +23,6 @@ tags:
   - karteikarten
   - flashcards/it-technik-und-sicherheit/si-und-iec-dateneinheiten
 ---
-
 # 🗂️ Karteikarten: SI- und IEC-Dateneinheiten
 
 > [!tip] Quellenbasis
@@ -30,7 +30,7 @@ tags:
 
 ---
 
-<!-- card-id: si-und-iec-dateneinheiten-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: si-und-iec-dateneinheiten-01 | typ: definition | pruefung: AP1 -->
 **Worin unterscheiden sich SI-Präfixe und IEC-Präfixe bei Dateneinheiten in ihrer mathematischen Basis?**
 ?
 - **SI-Präfixe** (Dezimalpräfixe) rechnen zur **Basis 10** in Tausenderschritten: $10^{3 \cdot n}$ (z. B. k = $10^3$, M = $10^6$, G = $10^9$).
@@ -39,7 +39,7 @@ tags:
 
 ---
 
-<!-- card-id: si-und-iec-dateneinheiten-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: si-und-iec-dateneinheiten-02 | typ: abgrenzung | pruefung: AP1 -->
 **Wie lauten die Kürzel und Potenzen der sechs wichtigsten SI- und IEC-Präfixe im Vergleich?**
 ?
 1. $10^3$ **k** vs. $2^{10}$ **Ki** · 2. $10^6$ **M** vs. $2^{20}$ **Mi** · 3. $10^9$ **G** vs. $2^{30}$ **Gi**
@@ -48,7 +48,7 @@ tags:
 
 ---
 
-<!-- card-id: si-und-iec-dateneinheiten-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: si-und-iec-dateneinheiten-03 | typ: pruefungsfalle | pruefung: AP1 -->
 **Welche doppelte Einheitenfalle lauert in IHK-Aufgaben bei der Berechnung von Übertragungszeiten (z. B. 500 MiB über 10 Mbit/s)?**
 ?
 1. **Basis-Unterschied**: Dateigrößen stehen oft in **IEC-Einheiten** (`500 MiB` = $500 \cdot 2^{20}$ B), Übertragungsraten in **SI-Einheiten** (`10 Mbit/s` = $10 \cdot 10^6$ bit/s).
@@ -57,7 +57,7 @@ tags:
 
 ---
 
-<!-- card-id: si-und-iec-dateneinheiten-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: si-und-iec-dateneinheiten-04 | typ: anwendung | pruefung: AP1 -->
 **Mit welcher Formel berechnet man die theoretisch minimale Übertragungsdauer $t$ einer Datei inklusive Frame-Overhead?**
 ?
 Zwei gleichwertige Rechenwege (mit einheitlichen Einheiten in Bit oder Byte):
@@ -67,7 +67,7 @@ Zwei gleichwertige Rechenwege (mit einheitlichen Einheiten in Bit oder Byte):
 
 ---
 
-<!-- card-id: si-und-iec-dateneinheiten-05 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: si-und-iec-dateneinheiten-05 | typ: pruefungsfalle | pruefung: AP1 -->
 **Welcher Rechenfehler entsteht, wenn man $2.160\text{ GiB}$ einfach durch $1.000$ statt durch $1.024$ in $\text{TiB}$ umrechnet?**
 ?
 Bei dezimaler Näherung ($/ 1.000$) erhält man $2{,}16\text{ TiB}$; binär exakt ($2.160 / 1.024$) sind es jedoch nur **$2{,}109\text{ TiB}$** (da $1\text{ TiB} = 2^{10}\text{ GiB} = 1.024\text{ GiB}$).
@@ -75,7 +75,7 @@ Bei dezimaler Näherung ($/ 1.000$) erhält man $2{,}16\text{ TiB}$; binär exak
 
 ---
 
-<!-- card-id: si-und-iec-dateneinheiten-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: si-und-iec-dateneinheiten-06 | typ: anwendung | pruefung: AP1 -->
 **Wie rechnet man eine Header-/Trailersumme von `704 Bit` in Byte und eine Datenrate von `100 MB/s` in `Mbit/s` um?**
 ?
 - Bit -> Byte (durch 8 teilen): $704\text{ Bit} / 8 = \mathbf{88\text{ Byte}}$.

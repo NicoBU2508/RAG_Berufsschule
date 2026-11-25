@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Unternehmenswiki"
 kategorie: Anwendungsentwicklung
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Unternehmenswiki.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -211,7 +212,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/unternehmenswiki
 ---
-
 # 🗂️ Karteikarten: Unternehmenswiki
 
 > [!tip] Quellenbasis
@@ -219,7 +219,7 @@ tags:
 
 ---
 
-<!-- card-id: unternehmenswiki-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmenswiki-01 | typ: definition | pruefung: BS -->
 **Wie hängen Klasse, Objekt (Instanz), Attribut und Methode in der OOP zusammen?**
 ?
 Eine **Klasse** ist der abstrakte Bauplan, ein **Objekt** deren konkrete Instanz (erzeugt mit `new`, z. B. `Robot ourRobot = new Robot();`). **Attribute** beschreiben den Zustand (*state*) des Objekts, **Methoden** legen sein Verhalten (*behaviour*) fest.
@@ -227,7 +227,7 @@ Eine **Klasse** ist der abstrakte Bauplan, ein **Objekt** deren konkrete Instanz
 
 ---
 
-<!-- card-id: unternehmenswiki-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmenswiki-02 | typ: abgrenzung | pruefung: BS -->
 **Wie unterscheiden sich Methoden ohne und mit Rückgabewert in Java, und was bewirkt `return`?**
 ?
 Methoden ohne Rückgabewert (**Prozeduren**) nutzen `void` im Methodenkopf. Methoden mit Rückgabewert (**Funktionen**) geben den Rückgabe-Datentyp an und liefern per `return` ein Ergebnis dieses Typs zurück; nach `return` bricht die Methode sofort ab.
@@ -235,7 +235,7 @@ Methoden ohne Rückgabewert (**Prozeduren**) nutzen `void` im Methodenkopf. Meth
 
 ---
 
-<!-- card-id: unternehmenswiki-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmenswiki-03 | typ: pruefungsfalle | pruefung: BS -->
 **Womit vergleicht man `String`-Objekte in Java (statt `==`) und in welcher Reihenfolge werden logische Operatoren ausgewertet?**
 ?
 Primitive Datentypen (`int`, `double`) vergleicht man mit `==`, Referenztypen wie `String` dagegen mit `.equals()` (z. B. `engagement.equals("hoch")`). Bei kombinierten logischen Operatoren gilt: **Negation (`!`) vor UND (`&&`) vor ODER (`||`)**.
@@ -243,7 +243,7 @@ Primitive Datentypen (`int`, `double`) vergleicht man mit `==`, Referenztypen wi
 
 ---
 
-<!-- card-id: unternehmenswiki-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmenswiki-04 | typ: anwendung | pruefung: BS -->
 **Welchen Wert erhält `c` bei `int a = 5, b = 3; int c = ++a + b;` und wie unterscheidet sich `++a` von `a++`?**
 ?
 `c` erhält den Wert **9**: Das **Präinkrement** (`++a`) erhöht `a` vor der weiteren Verwendung auf `6` und addiert dann `b = 3`. Beim **Postinkrement** (`a++`) wird zuerst der bisherige Wert verwendet und `a` erst danach um `1` erhöht.
@@ -251,7 +251,7 @@ Primitive Datentypen (`int`, `double`) vergleicht man mit `==`, Referenztypen wi
 
 ---
 
-<!-- card-id: unternehmenswiki-05 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmenswiki-05 | typ: abgrenzung | pruefung: BS -->
 **Wann nutzt man `while`, `do-while` und `for`, und wie unterscheiden sich kopf- und fußgesteuerte Schleifen?**
 ?
 **Kopfgesteuerte Schleifen** (`while`, `for`) prüfen die Bedingung vor jedem Durchlauf (0 Durchläufe möglich); **fußgesteuerte** (`do-while`) prüfen danach (Rumpf läuft **mindestens 1-mal**). `for` eignet sich bei bekannter Durchlaufzahl (`init; condition; next`), `while` bei offener Anzahl.
@@ -259,7 +259,7 @@ Primitive Datentypen (`int`, `double`) vergleicht man mit `==`, Referenztypen wi
 
 ---
 
-<!-- card-id: unternehmenswiki-06 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: unternehmenswiki-06 | typ: pruefungsfalle | pruefung: BS -->
 **Welche Eigenschaften gelten für ein Java-Array bezüglich Datentyp, Größe und Indexierung?**
 ?
 Ein Array speichert ausschließlich Werte **desselben Datentyps** und seine Größe ist nach der Erzeugung (z. B. `new int[5]`) **nicht mehr veränderbar**. Der Index beginnt bei **`0`** (bei Länge 5 also `0` bis `4`); leere `int`-Felder erhalten den Default-Wert `0`.

@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Binärzahlen"
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Binärzahlen.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -21,7 +22,6 @@ tags:
   - karteikarten
   - flashcards/it-technik-und-sicherheit/binaerzahlen
 ---
-
 # 🗂️ Karteikarten: Binärzahlen
 
 > [!tip] Quellenbasis
@@ -56,7 +56,7 @@ Da im Binärsystem nur die Ziffern `0` und `1` existieren, entsteht bei `1 + 1` 
 
 ---
 
-<!-- card-id: binaerzahlen-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: binaerzahlen-04 | typ: pruefungsfalle | pruefung: AP1 -->
 **Warum reicht ein reines Bitmuster wie `0101 1001` zur eindeutigen Interpretation nicht aus?**
 ?
 Ein Bitmuster benötigt einen **Datentyp** (bzw. eine festgelegte Codierung wie ASCII), damit das System weiß, wie es die Bits interpretieren muss.
@@ -65,7 +65,7 @@ Dasselbe Muster `0101 1001` entspricht z. B. als `int` der Zahl **89**, als `cha
 
 ---
 
-<!-- card-id: binaerzahlen-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: binaerzahlen-05 | typ: anwendung | pruefung: AP1 -->
 **Wie wandelt man eine Binärzahl in eine Hexadezimalzahl (und umgekehrt) um?**
 ?
 Man unterteilt die Binärzahl von rechts in **4er-Blöcke** mit den Stellenwerten **8–4–2–1** und übersetzt jeden Block in eine Hex-Ziffer (`0–9`, `A–F` für `10–15`).
@@ -74,7 +74,7 @@ Beispiel: `0001 1011 0110 1110` ergibt `1` (1), `1011` (`8+2+1=11` -> `B`), `011
 
 ---
 
-<!-- card-id: binaerzahlen-06 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: binaerzahlen-06 | typ: abgrenzung | pruefung: AP1 -->
 **Wie ist eine IPv4-Adresse binär aufgebaut und was gibt die Präfixlänge einer Subnetzmaske an?**
 ?
 Eine IPv4-Adresse ist eine **32-stellige Binärzahl**, unterteilt in **4 Oktette zu je 8 Bit** (dezimal je Oktett dargestellt) sowie in Netz- und Hostteil.

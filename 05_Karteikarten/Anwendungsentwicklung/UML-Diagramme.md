@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: UML-Diagramme
 kategorie: Anwendungsentwicklung
+pruefung: "AP1/AP2"
 thema_quelle: 03_Themen/Visuell_geprueft/Anwendungsentwicklung/UML-Diagramme.md
 stand_karten: '2026-11-24'
 stand_quelle: '2026-11-24'

@@ -1,1 +1,15 @@
-{}
+{
+  "userIgnoreFilters": [
+    "03_Themen/Weiterleitungen/",
+    "03_Themen/Allgemein/",
+    "03_Themen/Anwendungsentwicklung/",
+    "03_Themen/Deutsch_Englisch_Kommunikation/",
+    "03_Themen/Elektrotechnik/",
+    "03_Themen/IT_Technik_und_Sicherheit/",
+    "03_Themen/Wirtschaft_und_Recht/",
+    "10_Lernordner/",
+    "07_Lernordner/",
+    "01_Index/Auditdaten/",
+    "98_Archiv_nicht_lernen/"
+  ]
+}

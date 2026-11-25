@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Wirtschaftlichkeit und Rechnungswesen"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP1/AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Wirtschaftlichkeit und Rechnungswesen.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -21,7 +22,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/wirtschaftlichkeit-und-rechnungswesen
 ---
-
 # 🗂️ Karteikarten: Wirtschaftlichkeit und Rechnungswesen
 
 > [!tip] Quellenbasis

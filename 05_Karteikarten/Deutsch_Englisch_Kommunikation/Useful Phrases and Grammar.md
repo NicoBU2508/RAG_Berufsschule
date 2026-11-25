@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Useful Phrases and Grammar"
 kategorie: Deutsch_Englisch_Kommunikation
+pruefung: "BS"
 thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Useful Phrases and Grammar.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -27,7 +28,6 @@ tags:
   - karteikarten
   - flashcards/deutsch-englisch-kommunikation/useful-phrases-and-grammar
 ---
-
 # 🗂️ Karteikarten: Useful Phrases and Grammar
 
 > [!tip] Quellenbasis
@@ -35,7 +35,7 @@ tags:
 
 ---
 
-<!-- card-id: useful-phrases-and-grammar-01 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: useful-phrases-and-grammar-01 | typ: anwendung | pruefung: BS -->
 **Mit welchen sechs englischen Fragen erfragt man Eckdaten zu einem Unternehmen und der eigenen Tätigkeit (*Asking for information*)?**
 ?
 1. *Who do you work for?* (Arbeitgeber) · 2. *Where is it located?* (Standort) · 3. *How many employees does it have?* (Mitarbeiterzahl) · 4. *In which sector do you work?* (Branche) · 5. *When was it founded?* (Gründungsjahr) · 6. *What's your job?* (Aufgabe).
@@ -43,7 +43,7 @@ tags:
 
 ---
 
-<!-- card-id: useful-phrases-and-grammar-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: useful-phrases-and-grammar-02 | typ: abgrenzung | pruefung: BS -->
 **Welche englischen Telefonphrasen haben im Geschäftsalltag dieselbe Bedeutung (Durchstellen, Besetztzeichen, Warten, Rückruf)?**
 ?
 - *I'll put you through* = *I'll connect you* (Ich verbinde Sie)
@@ -54,7 +54,7 @@ tags:
 
 ---
 
-<!-- card-id: useful-phrases-and-grammar-03 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: useful-phrases-and-grammar-03 | typ: anwendung | pruefung: BS -->
 **Welche höflichen englischen Standardformulierungen nutzt man am Telefon bei Rückfragen, Nichtverstehen und Abwesenheit?**
 ?
 Hilfe/Identität: *How can I help you?* / *Who is calling, please?* Bei Nichtverstehen: *I'm sorry, could you spell/repeat your name, please?* / *I didn't catch that.* Bei Abwesenheit: *I'm afraid Mr/Ms ... is unavailable at the moment. Would you like to leave a message?*
@@ -62,7 +62,7 @@ Hilfe/Identität: *How can I help you?* / *Who is calling, please?* Bei Nichtver
 
 ---
 
-<!-- card-id: useful-phrases-and-grammar-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: useful-phrases-and-grammar-04 | typ: abgrenzung | pruefung: BS -->
 **Wie unterscheiden sich die drei *Conditional Sentences* (Type I, II, III) in Bedeutung und Bildung?**
 ?
 - **Type I (likely / wahrscheinlich)**: *If* + Simple Present, *will*-Future (*If I find time, I'll call.*)
@@ -72,7 +72,7 @@ Hilfe/Identität: *How can I help you?* / *Who is calling, please?* Bei Nichtver
 
 ---
 
-<!-- card-id: useful-phrases-and-grammar-05 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: useful-phrases-and-grammar-05 | typ: pruefungsfalle | pruefung: BS -->
 **Wann verwendet man einen *Mixed Conditional* (Mischung aus Type II und III) und wie wird er gebildet?**
 ?
 Ein *Mixed Conditional* verbindet eine irreale Bedingung in der Vergangenheit (**Type III**: *If* + Past Perfect) mit einer Folge in der Gegenwart (**Type II**: *would* + Infinitiv), z. B. *If they hadn't married so young, they would be happy now.* oder *Where would we be today if computers hadn't been invented?*
@@ -80,7 +80,7 @@ Ein *Mixed Conditional* verbindet eine irreale Bedingung in der Vergangenheit (*
 
 ---
 
-<!-- card-id: useful-phrases-and-grammar-06 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: useful-phrases-and-grammar-06 | typ: abgrenzung | pruefung: BS -->
 **Welche Konjunktionen außer `if` leiten Bedingungssätze ein und wie grenzen sich `provided`, `unless` und `in case` ab?**
 ?
 - `provided` / `providing` = *if and only if* (sofern / unter der Bedingung, dass)

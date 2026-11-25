@@ -5,12 +5,13 @@
 #
 # Verwendung:
 #   ruby 01_Index/Tools/sync_karteikarten.rb [sync]
-#   ruby 01_Index/Tools/sync_karteikarten.rb status [--pending] [--category KATEGORIE] [--json]
+#   ruby 01_Index/Tools/sync_karteikarten.rb migrate-exams
+#   ruby 01_Index/Tools/sync_karteikarten.rb status [--pending] [--category KATEGORIE] [--exam AP1|AP2|BS] [--json]
 #   ruby 01_Index/Tools/sync_karteikarten.rb init-deck "<Thema>"
 #   ruby 01_Index/Tools/sync_karteikarten.rb refresh-meta "<Thema>"
-#   ruby 01_Index/Tools/sync_karteikarten.rb drill "<Thema|Kategorie|all>" [--shuffle] [--limit N] [--json]
-#   ruby 01_Index/Tools/sync_karteikarten.rb export-anki [--out /pfad/zum/ordner]
-#   ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm [--out /pfad/zum/ordner]
+#   ruby 01_Index/Tools/sync_karteikarten.rb drill "<Thema|Kategorie|all>" [--exam AP1|AP2|BS] [--due] [--front-only] [--shuffle] [--limit N] [--json]
+#   ruby 01_Index/Tools/sync_karteikarten.rb export-anki [--exam AP1|AP2|BS] [--out /pfad/zum/ordner]
+#   ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm [--exam AP1|AP2|BS] [--out /pfad/zum/ordner]
 #
 # Sicherheits- und iCloud-Garantien:
 # - Kanonische Themenbasis ist ausschliesslich 01_Index/Themenreferenzen_Visuell_Geprueft.json.
@@ -69,6 +70,7 @@ class KarteikartenManager
     @mapping = VaultSupport.read_json(VaultSupport::MAPPING_PATH)
     @audit_date = @mapping.fetch("audit_date", VaultSupport.latest_audit_date)
     @topics = @mapping.fetch("topics")
+    @exam_registry = VaultSupport.exam_registry
   end
 
   def run(argv)
@@ -76,6 +78,8 @@ class KarteikartenManager
     case cmd
     when "sync"
       cmd_sync
+    when "migrate-exams"
+      cmd_migrate_exams
     when "status"
       cmd_status(argv)
     when "init-deck"
@@ -103,8 +107,10 @@ class KarteikartenManager
     index_written = VaultSupport.write_if_changed(INDEX_PATH, build_index_markdown(state))
 
     t = state["totals"]
+    by_ex = t["cards_by_exam"] || {}
     puts "Karteikarten-Sync abgeschlossen (Stand #{@audit_date}):"
     puts "  Decks vorhanden: #{t['decks_total']} / #{t['canonical_topics']} Themen (#{t['cards_total']} Karten)"
+    puts "  Prüfungsfokus: AP1-relevant=#{t['ap1_focus_cards']} (AP1=#{by_ex['AP1'] || 0}, AP1/AP2=#{by_ex['AP1/AP2'] || 0}) | AP2=#{by_ex['AP2'] || 0} | BS=#{by_ex['BS'] || 0}"
     puts "  Aktuell: #{t['decks_aktuell']} | Update nötig: #{t['decks_update_noetig']} | Fehlend: #{t['topics_ohne_deck']}"
     if t["decks_update_noetig"].positive?
       puts "  ⚠️  Update nötig für:"
@@ -115,14 +121,60 @@ class KarteikartenManager
     puts "  Dateien aktualisiert: #{[status_written ? 'Karteikarten_Status.json' : nil, index_written ? '00_Karteikarten_Index.md' : nil].compact.join(', ').then { |s| s.empty? ? 'keine (unverändert)' : s }}"
   end
 
+  def cmd_migrate_exams
+    abort "FEHLER: #{VaultSupport::EXAM_MAPPING_PATH} fehlt." if @exam_registry.empty?
+
+    updated_decks = 0
+    updated_cards = 0
+
+    Dir.glob(CARDS_ROOT.join("**/*.md").to_s).sort.each do |abs_path|
+      rel = VaultSupport.relative(abs_path)
+      next if rel == "05_Karteikarten/00_Karteikarten_Index.md"
+
+      raw = File.read(abs_path, encoding: "UTF-8")
+      fm, _body = split_frontmatter(raw)
+      next unless fm && fm["typ"].to_s == "karteikarten_deck"
+
+      thema = fm["thema"].to_s.strip
+      target_exam = VaultSupport.exam_for_topic(thema, @exam_registry)
+
+      new_raw = upsert_frontmatter_pruefung(raw, target_exam)
+      new_raw = new_raw.gsub(/(<!--\s*card-id:\s*[^|]+?(?:\s*\|\s*typ:\s*[^|]+?)?\s*\|\s*pruefung:\s*)([^>]+?)(\s*-->)/) do
+        prefix = Regexp.last_match(1)
+        old_val = Regexp.last_match(2).strip
+        suffix = Regexp.last_match(3)
+
+        new_val = if target_exam == "BS"
+                    "BS"
+                  elsif old_val == "AP1/AP2" || old_val.empty?
+                    target_exam
+                  else
+                    # Explizite Einzel-Overrides (z. B. Zustandsdiagramm = AP2 in UML-Diagramme) bewahren
+                    old_val
+                  end
+        updated_cards += 1 if new_val != old_val
+        "#{prefix}#{new_val}#{suffix}"
+      end
+
+      if VaultSupport.write_if_changed(abs_path, new_raw)
+        updated_decks += 1
+      end
+    end
+
+    puts "Prüfungs-Migration abgeschlossen: #{updated_decks} Deck-Dateien aktualisiert (#{updated_cards} Karten-Tags geschärft)."
+    cmd_sync
+  end
+
   def cmd_status(argv)
     only_pending = false
     category_filter = nil
+    exam_filter = nil
     as_json = false
 
     OptionParser.new do |o|
       o.on("--pending", "Nur Decks mit Update-Bedarf und fehlende Themen anzeigen") { only_pending = true }
       o.on("--category CAT", "Nach Kategorie filtern") { |v| category_filter = v }
+      o.on("--exam EXAM", "Nach Prüfung filtern (AP1, AP2, BS)") { |v| exam_filter = v }
       o.on("--json", "Als JSON ausgeben") { as_json = true }
     end.parse!(argv)
 
@@ -133,37 +185,39 @@ class KarteikartenManager
     end
 
     t = state["totals"]
-    puts "# Karteikarten-Status (Quellenstand #{@audit_date})"
+    by_ex = t["cards_by_exam"] || {}
+    puts "# Karteikarten-Status (Quellenstand #{@audit_date}#{exam_filter ? " · Filter: #{exam_filter.upcase}" : ''})"
     puts "- Kanonische Themen: **#{t['canonical_topics']}**"
     puts "- Decks vorhanden: **#{t['decks_total']}** (**#{t['cards_total']}** Karten gesamt)"
+    puts "- Nach Prüfung: **AP1-Fokus: #{t['ap1_focus_cards']} Karten** (`AP1`: #{by_ex['AP1'] || 0}, `AP1/AP2`: #{by_ex['AP1/AP2'] || 0}) · `AP2`: #{by_ex['AP2'] || 0} · `BS`: #{by_ex['BS'] || 0}"
     puts "- Aktuell: **#{t['decks_aktuell']}** · Update nötig: **#{t['decks_update_noetig']}** · Noch ohne Deck: **#{t['topics_ohne_deck']}**"
 
-    updates = filter_by_cat(state["decks_update_noetig"], category_filter)
+    updates = filter_entries(state["decks_update_noetig"], category_filter, exam_filter)
     unless updates.empty?
       puts "\n## Update nötig (neue/geänderte Quellseiten)"
       updates.each do |d|
-        puts "- **#{d['thema']}** (`#{d['kategorie']}`) → `#{d['deck_path']}` (#{d['karten_anzahl']} Karten)"
+        puts "- **#{d['thema']}** [#{VaultSupport.exam_badge(d['pruefung'])}] (`#{d['kategorie']}`) → `#{d['deck_path']}` (#{d['karten_anzahl']} Karten)"
         d["neue_seiten"].each { |p| puts "  + NEU: `#{p}`" }
         d["entfernte_seiten"].each { |p| puts "  - ENTFERNT: `#{p}`" }
       end
     end
 
     unless only_pending
-      aktuell = filter_by_cat(state["decks_aktuell"], category_filter)
+      aktuell = filter_entries(state["decks_aktuell"], category_filter, exam_filter)
       unless aktuell.empty?
         puts "\n## Aktuelle Decks (#{aktuell.length})"
         aktuell.each do |d|
-          puts "- **#{d['thema']}** (`#{d['kategorie']}`) · #{d['karten_anzahl']} Karten · #{d['quellseiten_anzahl']} Quellseiten · `#{d['deck_path']}`"
+          puts "- **#{d['thema']}** [#{VaultSupport.exam_badge(d['pruefung'])}] (`#{d['kategorie']}`) · #{d['karten_anzahl']} Karten · #{d['quellseiten_anzahl']} Quellseiten · `#{d['deck_path']}`"
         end
       end
     end
 
-    missing = filter_by_cat(state["topics_ohne_deck"], category_filter)
+    missing = filter_entries(state["topics_ohne_deck"], category_filter, exam_filter)
     unless missing.empty?
       puts "\n## Noch ohne Deck (#{missing.length})"
       missing.group_by { |m| m["kategorie"] }.each do |cat, items|
         puts "### #{cat} (#{items.length})"
-        items.each { |m| puts "- #{m['thema']} (#{m['quellseiten_anzahl']} S.)" }
+        items.each { |m| puts "- #{m['thema']} [#{VaultSupport.exam_badge(m['pruefung'])}] (#{m['quellseiten_anzahl']} S.)" }
       end
     end
   end
@@ -184,6 +238,7 @@ class KarteikartenManager
     pages = info.fetch("pages", []).map(&:to_s).sort
     hash = pages_fingerprint(pages)
     category = info.fetch("category")
+    pruefung = VaultSupport.exam_for_topic(topic_name, @exam_registry)
     tag_slug = "#{slugify(category)}/#{slugify(topic_name)}"
     topic_link = info.fetch("path").sub(/\.md\z/, "")
     today = Date.today.strftime("%Y-%m-%d")
@@ -193,6 +248,7 @@ class KarteikartenManager
       typ: karteikarten_deck
       thema: #{topic_name.to_json}
       kategorie: #{category}
+      pruefung: #{pruefung.to_json}
       thema_quelle: #{info.fetch('path').to_json}
       stand_karten: #{today}
       stand_quelle: #{@audit_date}
@@ -214,7 +270,7 @@ class KarteikartenManager
 
       ---
 
-      <!-- card-id: #{slugify(topic_name)}-01 | typ: definition | pruefung: AP1/AP2 -->
+      <!-- card-id: #{slugify(topic_name)}-01 | typ: definition | pruefung: #{pruefung} -->
       **Frage hier eintragen**
       ?
       Antwort hier eintragen.
@@ -222,7 +278,7 @@ class KarteikartenManager
     MARKDOWN
 
     VaultSupport.write_if_changed(deck_abs, content)
-    puts "Deck-Gerüst angelegt: #{deck_rel}"
+    puts "Deck-Gerüst angelegt: #{deck_rel} (Prüfung: #{pruefung})"
     puts "Quellseiten: #{pages.length} (Hash: #{hash})"
   end
 
@@ -242,9 +298,11 @@ class KarteikartenManager
     pages = info.fetch("pages", []).map(&:to_s).sort
     hash = pages_fingerprint(pages)
     today = Date.today.strftime("%Y-%m-%d")
+    pruefung = VaultSupport.exam_for_topic(topic_name, @exam_registry)
 
     fm["thema"] = topic_name
     fm["kategorie"] = info.fetch("category")
+    fm["pruefung"] = pruefung
     fm["thema_quelle"] = info.fetch("path")
     fm["stand_karten"] = today
     fm["stand_quelle"] = @audit_date
@@ -257,16 +315,24 @@ class KarteikartenManager
     updated_body = body.sub(/\(\*\*\d+ visuell geprüfte Seiten\*\*\)/, "(**#{pages.length} visuell geprüfte Seiten**)")
     rebuilt = dump_frontmatter(fm) + updated_body
     VaultSupport.write_if_changed(deck_abs, rebuilt)
-    puts "Metadaten aktualisiert: #{deck_rel} (#{pages.length} Seiten, Hash #{hash})"
+    puts "Metadaten aktualisiert: #{deck_rel} (#{pages.length} Seiten, Hash #{hash}, Prüfung #{pruefung})"
     cmd_sync
   end
 
   def cmd_drill(argv)
     shuffle = false
     limit = nil
+    exam_filter = nil
+    due_only = false
+    as_of = Date.today
+    front_only = false
     as_json = false
 
     OptionParser.new do |o|
+      o.on("--exam EXAM", "Auf Prüfung filtern (AP1, AP2, BS)") { |v| exam_filter = v }
+      o.on("--due", "FSRS-Queue: Fällige Wiederholungskarten zuerst, danach unberührte Karten") { due_only = true }
+      o.on("--as-of DATE", "Referenzdatum für --due (YYYY-MM-DD)") { |v| as_of = Date.parse(v) }
+      o.on("--front-only", "Nur Vorderseiten ausgeben (ohne Antwort-Spoiler)") { front_only = true }
       o.on("--shuffle", "Karten zufällig mischen") { shuffle = true }
       o.on("--limit N", Integer, "Maximal N Karten ausgeben") { |v| limit = v }
       o.on("--json", "Strukturiertes JSON ausgeben") { as_json = true }
@@ -295,55 +361,140 @@ class KarteikartenManager
     end
 
     cards = matched.flat_map { |d| d[:cards] }
-    cards = cards.shuffle if shuffle
+    cards = cards.select { |c| VaultSupport.exam_matches?(c[:pruefung], exam_filter) } if exam_filter
+    if cards.empty?
+      puts "Keine Karten für '#{target}' mit Prüfungsfilter '#{exam_filter}' gefunden."
+      exit 0
+    end
+
+    fsrs_cards = if VaultSupport::LERNSTAND_PATH.file?
+                   VaultSupport.read_json(VaultSupport::LERNSTAND_PATH).fetch("cards", {})
+                 else
+                   {}
+                 end
+    today_str = as_of.strftime("%Y-%m-%d")
+
+    if due_only
+      due_list = []
+      new_list = []
+      future_dates = []
+
+      cards.each do |c|
+        st = fsrs_cards[c[:id]]
+        if st.nil?
+          new_list << c.merge(fsrs_state: "new")
+        elsif st["due_date"].to_s <= today_str
+          overdue = begin
+            (as_of - Date.parse(st["due_date"].to_s)).to_i
+          rescue ArgumentError
+            0
+          end
+          due_list << c.merge(
+            fsrs_state: "due",
+            due_date: st["due_date"],
+            stability: st["stability"],
+            lapses: st["lapses"].to_i,
+            overdue_days: overdue
+          )
+        else
+          future_dates << st["due_date"].to_s
+        end
+      end
+
+      due_list.sort_by! { |c| [-c[:overdue_days].to_i, -c[:lapses].to_i, c[:stability].to_f, c[:id]] }
+      new_list = new_list.shuffle if shuffle
+
+      cards = due_list + new_list
+      if cards.empty?
+        next_due = future_dates.min || "unbekannt"
+        if as_json
+          puts JSON.pretty_generate({ target: target, exam: exam_filter || "all", due_only: true, count: 0, next_due: next_due, cards: [] })
+        else
+          puts "🎉 Alle passenden Karten für '#{target}' sind im FSRS-Gedächtnis aktuell! (Nächste Fälligkeit: #{next_due})"
+        end
+        return
+      end
+    else
+      cards = cards.map do |c|
+        st = fsrs_cards[c[:id]]
+        st ? c.merge(fsrs_state: st["due_date"].to_s <= today_str ? "due" : "scheduled", due_date: st["due_date"], stability: st["stability"]) : c.merge(fsrs_state: "new")
+      end
+      cards = cards.shuffle if shuffle
+    end
+
     cards = cards.first(limit) if limit && limit.positive?
+    deck_count = cards.map { |c| c[:deck_path] }.uniq.length
 
     if as_json
-      puts JSON.pretty_generate({ target: target, count: cards.length, cards: cards })
+      payload_cards = front_only ? cards.map { |c| c.reject { |k, _| k == :back } } : cards
+      puts JSON.pretty_generate({ target: target, exam: exam_filter || "all", due_only: due_only, count: payload_cards.length, cards: payload_cards })
       return
     end
 
-    puts "# Drill-Set: #{target} (#{cards.length} Karten aus #{matched.length} Deck(s))"
+    exam_label = exam_filter ? " · Filter: #{exam_filter.upcase}" : ""
+    due_label = due_only ? " · FSRS-Queue (#{today_str})" : ""
+    puts "# Drill-Set: #{target}#{exam_label}#{due_label} (#{cards.length} Karten aus #{deck_count} Deck(s))"
     cards.each_with_index do |c, idx|
-      puts "\n## Karte #{idx + 1}/#{cards.length} [#{c[:id]}] · #{c[:thema]} (#{c[:typ]} | #{c[:pruefung]})"
+      fsrs_tag = case c[:fsrs_state]
+                 when "due" then " | 🔥 FÄLLIG (S=#{c[:stability]}d)"
+                 when "scheduled" then " | 🟢 geplant #{c[:due_date]}"
+                 else " | 🆕 NEU"
+                 end
+      puts "\n## Karte #{idx + 1}/#{cards.length} [#{c[:id]}] · #{c[:thema]} (#{c[:typ]} | #{c[:pruefung]}#{fsrs_tag})"
       puts "**Q:** #{c[:front]}"
-      puts "**A:** #{c[:back]}"
-      puts "**Quelle:** #{c[:source]}" unless c[:source].empty?
+      unless front_only
+        puts "**A:** #{c[:back]}"
+        puts "**Quelle:** #{c[:source]}" unless c[:source].empty?
+      end
     end
   end
 
   def cmd_export_anki(argv)
     out_dir = DEFAULT_ANKI_OUT
+    exam_filter = nil
     OptionParser.new do |o|
+      o.on("--exam EXAM", "Nur Karten einer Prüfung exportieren (AP1, AP2, BS)") { |v| exam_filter = v }
       o.on("--out DIR", "Zielordner für Anki-TSV-Dateien") { |v| out_dir = Pathname.new(v).expand_path }
     end.parse!(argv)
 
     decks = collect_all_decks
     all_cards = decks.flat_map { |d| d[:cards] }
+    all_cards = all_cards.select { |c| VaultSupport.exam_matches?(c[:pruefung], exam_filter) } if exam_filter
     if all_cards.empty?
-      puts "Keine Karteikarten unter 05_Karteikarten/ vorhanden – Anki-Export übersprungen."
+      puts "Keine passenden Karteikarten unter 05_Karteikarten/ gefunden – Anki-Export übersprungen."
       return
     end
 
     FileUtils.mkdir_p(out_dir)
     written = []
 
-    # 1. Gesamt-Export
-    master_path = out_dir.join("AP_Lernhelfer_Alle_Karten.tsv")
-    written << master_path.basename.to_s if VaultSupport.write_if_changed(master_path, build_anki_tsv(all_cards))
+    if exam_filter
+      filtered_name = "AP_Lernhelfer_#{slugify(exam_filter).upcase}_Fokus.tsv"
+      written << filtered_name if VaultSupport.write_if_changed(out_dir.join(filtered_name), build_anki_tsv(all_cards))
+    else
+      # 1. Gesamt-Export
+      master_path = out_dir.join("AP_Lernhelfer_Alle_Karten.tsv")
+      written << master_path.basename.to_s if VaultSupport.write_if_changed(master_path, build_anki_tsv(all_cards))
 
-    # 2. Export pro Kategorie
-    all_cards.group_by { |c| c[:kategorie] }.each do |cat, cards|
-      file_path = out_dir.join("AP_Lernhelfer_#{cat}.tsv")
-      written << file_path.basename.to_s if VaultSupport.write_if_changed(file_path, build_anki_tsv(cards))
+      # 2. Direkter AP1-Fokus-Export (nur AP1 + AP1/AP2, ohne reinen AP2/BS-Ballast)
+      ap1_cards = all_cards.select { |c| VaultSupport.exam_matches?(c[:pruefung], "AP1") }
+      ap1_path = out_dir.join("AP_Lernhelfer_AP1_Fokus.tsv")
+      written << ap1_path.basename.to_s if VaultSupport.write_if_changed(ap1_path, build_anki_tsv(ap1_cards))
+
+      # 3. Export pro Kategorie
+      all_cards.group_by { |c| c[:kategorie] }.each do |cat, cards|
+        file_path = out_dir.join("AP_Lernhelfer_#{cat}.tsv")
+        written << file_path.basename.to_s if VaultSupport.write_if_changed(file_path, build_anki_tsv(cards))
+      end
     end
 
-    # 3. Kurze Import-Anleitung
     readme_path = out_dir.join("README_ANKI_IMPORT.txt")
     readme = <<~TEXT
       Anki-Import (AP-Lernhelfer)
       ===========================
-      1. In Anki: Datei -> Importieren -> "AP_Lernhelfer_Alle_Karten.tsv" (oder eine Fachdatei) auswählen.
+      1. In Anki: Datei -> Importieren ->
+         - Für gezielte AP1-Vorbereitung: "AP_Lernhelfer_AP1_Fokus.tsv"
+         - Für den gesamten Vault:        "AP_Lernhelfer_Alle_Karten.tsv"
       2. Anki erkennt die Kopfzeilen (#separator:tab, #html:true, #deck column:5, #tags column:6) automatisch.
       3. Feldzuordnung prüfen (Notiztyp mit 4 Feldern empfohlen: ID, Vorderseite, Rückseite, Quelle — oder Standard-Einfach: ID + Vorderseite mappen):
          - Spalte 1: Karten-ID (stabil -> Updates überschreiben bestehende Karten ohne Lernfortschritt zu verlieren!)
@@ -351,25 +502,32 @@ class KarteikartenManager
          - Spalte 3: Rückseite (Antwort + Quelle)
          - Spalte 4: Quelle (separat)
          - Spalte 5: Stapelname (AP-Lernhelfer::<Kategorie>::<Thema>)
-         - Spalte 6: Schlagwörter (Tags)
+         - Spalte 6: Schlagwörter (inkl. pruefung_ap1 / pruefung_ap2 / pruefung_bs für Auswahlstapel!)
       4. Bei "Vorhandene Notizen": "Aktualisieren, wenn erstes Feld übereinstimmt" wählen.
     TEXT
     written << readme_path.basename.to_s if VaultSupport.write_if_changed(readme_path, readme)
 
+    deck_cnt = all_cards.map { |c| c[:deck_path] }.uniq.length
     puts "Anki-Export abgeschlossen → #{out_dir}"
-    puts "  Karten exportiert: #{all_cards.length} aus #{decks.length} Deck(s)"
+    puts "  Karten exportiert: #{all_cards.length} aus #{deck_cnt} Deck(s)"
     puts "  Aktualisierte Dateien: #{written.empty? ? 'keine (unverändert)' : written.join(', ')}"
   end
 
   def cmd_export_notebooklm(argv)
     out_dir = DEFAULT_NOTEBOOKLM_OUT
+    exam_filter = nil
     OptionParser.new do |o|
+      o.on("--exam EXAM", "Nur Karten einer Prüfung exportieren (AP1, AP2, BS)") { |v| exam_filter = v }
       o.on("--out DIR", "Zielordner für NotebookLM-Karteikarten-Pakete") { |v| out_dir = Pathname.new(v).expand_path }
     end.parse!(argv)
 
-    decks = collect_all_decks
+    decks = collect_all_decks.map do |d|
+      filtered_cards = exam_filter ? d[:cards].select { |c| VaultSupport.exam_matches?(c[:pruefung], exam_filter) } : d[:cards]
+      d.merge(cards: filtered_cards)
+    end.reject { |d| d[:cards].empty? }
+
     if decks.empty?
-      puts "Keine Karteikarten unter 05_Karteikarten/ vorhanden – NotebookLM-Export übersprungen."
+      puts "Keine passenden Karteikarten unter 05_Karteikarten/ vorhanden – NotebookLM-Export übersprungen."
       return
     end
 
@@ -396,8 +554,9 @@ class KarteikartenManager
   # ---------- Analysis & Parsing ----------
 
   def analyze_state
+    all_decks = collect_all_decks
     decks_by_path = {}
-    collect_all_decks.each { |d| decks_by_path[d[:deck_path]] = d }
+    all_decks.each { |d| decks_by_path[d[:deck_path]] = d }
 
     decks_aktuell = []
     decks_update_noetig = []
@@ -409,6 +568,7 @@ class KarteikartenManager
       deck_rel = deck_rel_for(info)
       current_pages = info.fetch("pages", []).map(&:to_s).sort
       current_hash = pages_fingerprint(current_pages)
+      pruefung = VaultSupport.exam_for_topic(topic_name, @exam_registry)
 
       deck = decks_by_path[deck_rel]
       if deck
@@ -421,6 +581,7 @@ class KarteikartenManager
         entry = {
           "thema" => topic_name,
           "kategorie" => cat,
+          "pruefung" => deck[:pruefung].to_s.empty? ? pruefung : deck[:pruefung],
           "deck_path" => deck_rel,
           "thema_quelle" => info.fetch("path"),
           "karten_anzahl" => deck[:cards].length,
@@ -442,6 +603,7 @@ class KarteikartenManager
         topics_ohne_deck << {
           "thema" => topic_name,
           "kategorie" => cat,
+          "pruefung" => pruefung,
           "thema_quelle" => info.fetch("path"),
           "erwarteter_deck_pfad" => deck_rel,
           "quellseiten_anzahl" => current_pages.length
@@ -453,16 +615,21 @@ class KarteikartenManager
       {
         "thema" => d[:thema],
         "kategorie" => d[:kategorie],
+        "pruefung" => d[:pruefung],
         "deck_path" => d[:deck_path],
         "karten_anzahl" => d[:cards].length
       }
     end
 
+    all_cards = all_decks.flat_map { |d| d[:cards] }
+    cards_by_exam = all_cards.each_with_object(Hash.new(0)) { |c, h| h[c[:pruefung]] += 1 }.sort.to_h
+    ap1_focus_cards = all_cards.count { |c| VaultSupport.exam_matches?(c[:pruefung], "AP1") }
+
     cards_total = (decks_aktuell + decks_update_noetig).sum { |d| d["karten_anzahl"] } +
                   verwaiste_decks.sum { |d| d["karten_anzahl"] }
 
     {
-      "schema_version" => 1,
+      "schema_version" => 2,
       "stand_quelle" => @audit_date,
       "totals" => {
         "canonical_topics" => @topics.length,
@@ -471,7 +638,9 @@ class KarteikartenManager
         "decks_update_noetig" => decks_update_noetig.length,
         "topics_ohne_deck" => topics_ohne_deck.length,
         "verwaiste_decks" => verwaiste_decks.length,
-        "cards_total" => cards_total
+        "cards_total" => cards_total,
+        "ap1_focus_cards" => ap1_focus_cards,
+        "cards_by_exam" => cards_by_exam
       },
       "decks_update_noetig" => decks_update_noetig,
       "decks_aktuell" => decks_aktuell,
@@ -498,11 +667,14 @@ class KarteikartenManager
 
     thema = fm["thema"].to_s.strip
     kategorie = fm["kategorie"].to_s.strip
-    cards = parse_cards(body, thema: thema, kategorie: kategorie, deck_path: rel_path)
+    pruefung = fm["pruefung"].to_s.strip
+    pruefung = VaultSupport.exam_for_topic(thema, @exam_registry) if pruefung.empty?
+    cards = parse_cards(body, thema: thema, kategorie: kategorie, deck_pruefung: pruefung, deck_path: rel_path)
 
     {
       thema: thema,
       kategorie: kategorie,
+      pruefung: pruefung,
       deck_path: rel_path,
       stand_karten: fm["stand_karten"].to_s,
       stand_quelle: fm["stand_quelle"].to_s,
@@ -512,9 +684,8 @@ class KarteikartenManager
     }
   end
 
-  def parse_cards(body, thema:, kategorie:, deck_path:)
+  def parse_cards(body, thema:, kategorie:, deck_pruefung:, deck_path:)
     cards = []
-    # Jede Karte startet mit <!-- card-id: ... --> und enthaelt eine ?-Trennlinie
     blocks = body.split(/(?=<!--\s*card-id:)/)
     blocks.each do |block|
       next unless block.lstrip.start_with?("<!--")
@@ -524,8 +695,10 @@ class KarteikartenManager
 
       card_id = header_match[1].strip
       typ = (header_match[2] || "wissen").strip
-      pruefung = (header_match[3] || "AP1/AP2").strip
+      pruefung = (header_match[3] || deck_pruefung).strip
       content = header_match[4].sub(/\n---\s*\z/m, "").strip
+      # Falls obsidian-spaced-repetition Scheduling-Kommentare (<!--SR:...-->) anhaengt, beim Parsen sauber abtrennen
+      content = content.gsub(/\n?<!--SR:.*?-->\s*\z/m, "").strip
 
       parts = content.split(/^\?\s*$/, 2)
       next unless parts.length == 2
@@ -557,6 +730,7 @@ class KarteikartenManager
 
   def build_index_markdown(state)
     t = state["totals"]
+    by_ex = t["cards_by_exam"] || {}
     lines = []
     lines << "---"
     lines << "typ: karteikarten_index"
@@ -572,25 +746,27 @@ class KarteikartenManager
     lines << "## Überblick (Stand #{@audit_date})"
     lines << ""
     lines << "- **Aktive Decks:** **#{t['decks_total']}** von **#{t['canonical_topics']}** kanonischen Themen (**#{t['cards_total']}** Karten gesamt)"
+    lines << "- **Prüfungsverteilung:** 🎯 **AP1-Fokus: #{t['ap1_focus_cards']} Karten** (`AP1`: #{by_ex['AP1'] || 0} · `AP1/AP2`: #{by_ex['AP1/AP2'] || 0}) · 📘 `AP2`: #{by_ex['AP2'] || 0} · 🏫 `BS` (Berufsschule): #{by_ex['BS'] || 0}"
     lines << "- **Aktuell:** #{t['decks_aktuell']} · **Update nötig (neue PDF-Seiten):** #{t['decks_update_noetig']} · **Noch ohne Deck:** #{t['topics_ohne_deck']}"
     lines << ""
     lines << "### Schnellbefehle"
     lines << ""
     lines << "```bash"
     lines << "ruby 01_Index/Tools/sync_karteikarten.rb status --pending"
+    lines << "ruby 01_Index/Tools/sync_karteikarten.rb drill all --exam AP1 --shuffle --limit 10"
     lines << "ruby 01_Index/Tools/sync_karteikarten.rb export-anki"
-    lines << "ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm"
+    lines << "ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm --exam AP1"
     lines << "```"
     lines << ""
 
     unless state["decks_update_noetig"].empty?
       lines << "## ⚠️ Decks mit Update-Bedarf (neue Quellseiten)"
       lines << ""
-      lines << "| Thema | Kategorie | Deck | Neue Seiten |"
-      lines << "|---|---|---|---:|"
+      lines << "| Thema | Prüfung | Kategorie | Deck | Neue Seiten |"
+      lines << "|---|---|---|---|---:|"
       state["decks_update_noetig"].each do |d|
         link = d["deck_path"].sub(/\.md\z/, "")
-        lines << "| #{d['thema']} | #{d['kategorie']} | [[#{link}\\|Deck öffnen]] | +#{d['neue_seiten'].length} / -#{d['entfernte_seiten'].length} |"
+        lines << "| #{d['thema']} | #{VaultSupport.exam_badge(d['pruefung'])} | #{d['kategorie']} | [[#{link}\\|Deck öffnen]] | +#{d['neue_seiten'].length} / -#{d['entfernte_seiten'].length} |"
       end
       lines << ""
     end
@@ -607,26 +783,29 @@ class KarteikartenManager
         lines << ""
         decks.each do |d|
           link = d["deck_path"].sub(/\.md\z/, "")
-          badge = d["neue_seiten"].empty? && d["entfernte_seiten"].empty? ? "🟢 aktuell" : "🟡 Update nötig"
-          lines << "- [[#{link}|#{d['thema']}]] — **#{d['karten_anzahl']} Karten** (#{d['quellseiten_anzahl']} Quellseiten · #{badge})"
+          badge = d["neue_seiten"].empty? && d["entfernte_seiten"].empty? ? "aktuell" : "⚠️ Update nötig"
+          ex_badge = VaultSupport.exam_badge(d["pruefung"])
+          lines << "- [[#{link}|#{d['thema']}]] — **#{d['karten_anzahl']} Karten** (#{ex_badge} · #{d['quellseiten_anzahl']} S. · #{badge})"
         end
         lines << ""
       end
     end
 
-    lines << "## Noch ohne Karteikarten-Deck (#{t['topics_ohne_deck']})"
-    lines << ""
-    lines << "> [!note] Schrittweiser Aufbau"
-    lines << "> Neue Decks entstehen gezielt nach Prüfungsrelevanz (AP1/AP2) oder direkt im **Antigravity Karteikarten-Modus** aus den jeweiligen visuell geprüften Themen."
-    lines << ""
-    state["topics_ohne_deck"].group_by { |m| m["kategorie"] }.each do |cat, items|
-      lines << "### #{CATEGORY_LABELS.fetch(cat, cat)} (#{items.length})"
+    unless state["topics_ohne_deck"].empty?
+      lines << "## Noch ohne Karteikarten-Deck (#{t['topics_ohne_deck']})"
       lines << ""
-      items.each do |m|
-        topic_link = m["thema_quelle"].sub(/\.md\z/, "")
-        lines << "- [[#{topic_link}|#{m['thema']}]] (#{m['quellseiten_anzahl']} S.)"
+      lines << "> [!note] Schrittweiser Aufbau"
+      lines << "> Neue Decks entstehen gezielt nach Prüfungsrelevanz (AP1/AP2) oder direkt im **Antigravity Karteikarten-Modus** aus den jeweiligen visuell geprüften Themen."
+      lines << ""
+      state["topics_ohne_deck"].group_by { |m| m["kategorie"] }.each do |cat, items|
+        lines << "### #{CATEGORY_LABELS.fetch(cat, cat)} (#{items.length})"
+        lines << ""
+        items.each do |m|
+          topic_link = m["thema_quelle"].sub(/\.md\z/, "")
+          lines << "- [[#{topic_link}|#{m['thema']}]] (#{VaultSupport.exam_badge(m['pruefung'])} · #{m['quellseiten_anzahl']} S.)"
+        end
+        lines << ""
       end
-      lines << ""
     end
 
     lines << "## Historische Lernordner-Karten (Archiv)"
@@ -651,12 +830,18 @@ class KarteikartenManager
       source_clean = strip_wikilinks(c[:source])
       back_html = markdown_to_anki_html(c[:back])
       back_with_source = source_clean.empty? ? back_html : "#{back_html}<br><br><small><i>Quelle: #{CGI.escapeHTML(source_clean)}</i></small>"
-      tags = [
+
+      exam_tags = []
+      exam_tags << "pruefung_ap1" if VaultSupport.exam_matches?(c[:pruefung], "AP1")
+      exam_tags << "pruefung_ap2" if VaultSupport.exam_matches?(c[:pruefung], "AP2")
+      exam_tags << "pruefung_bs" if VaultSupport.exam_matches?(c[:pruefung], "BS")
+
+      tags = ([
         "ap_lernhelfer",
         slugify(c[:kategorie]),
         slugify(c[:thema]),
         "typ_#{slugify(c[:typ])}"
-      ].join(" ")
+      ] + exam_tags).uniq.join(" ")
 
       row = [c[:id], front_html, back_with_source, source_clean, deck_name, tags].map { |field| sanitize_tsv(field) }
       lines << row.join("\t")
@@ -675,7 +860,7 @@ class KarteikartenManager
       ""
     ]
     decks.sort_by { |d| d[:thema].downcase }.each do |d|
-      lines << "## #{d[:thema]} (#{d[:cards].length} Karten)"
+      lines << "## #{d[:thema]} [#{d[:pruefung]}] (#{d[:cards].length} Karten)"
       lines << ""
       d[:cards].each_with_index do |c, idx|
         lines << "### #{idx + 1}. #{c[:front].gsub(/\*\*/, '')}"
@@ -701,12 +886,30 @@ class KarteikartenManager
       ""
     ]
     decks.sort_by { |d| [CATEGORY_ORDER.index(d[:kategorie]) || 99, d[:thema].downcase] }.each do |d|
-      lines << "- **#{d[:thema]}** (#{CATEGORY_LABELS.fetch(d[:kategorie], d[:kategorie])}) — #{d[:cards].length} Karten"
+      lines << "- **#{d[:thema]}** [#{d[:pruefung]}] (#{CATEGORY_LABELS.fetch(d[:kategorie], d[:kategorie])}) — #{d[:cards].length} Karten"
     end
     lines.join("\n") + "\n"
   end
 
   # ---------- Helpers ----------
+
+  def upsert_frontmatter_pruefung(raw, pruefung)
+    return raw unless raw.start_with?("---\n")
+
+    parts = raw.split(/^---\s*$\n?/, 3)
+    return raw unless parts.length == 3
+
+    fm_lines = parts[1].lines
+    rendered = "pruefung: #{pruefung.to_json}\n"
+    existing_idx = fm_lines.index { |l| l.start_with?("pruefung:") }
+    if existing_idx
+      fm_lines[existing_idx] = rendered
+    else
+      kat_idx = fm_lines.index { |l| l.start_with?("kategorie:") } || (fm_lines.length - 1)
+      fm_lines.insert(kat_idx + 1, rendered)
+    end
+    "---\n#{fm_lines.join}---\n#{parts[2]}"
+  end
 
   def resolve_topic!(query)
     return [query, @topics[query]] if @topics.key?(query)
@@ -732,11 +935,16 @@ class KarteikartenManager
     Digest::SHA256.hexdigest(pages.map(&:to_s).sort.join("\n"))[0, 12]
   end
 
-  def filter_by_cat(list, category_filter)
-    return list unless category_filter
-
-    q = category_filter.downcase
-    list.select { |item| item["kategorie"].to_s.downcase.include?(q) }
+  def filter_entries(list, category_filter, exam_filter)
+    res = list
+    if category_filter
+      q = category_filter.downcase
+      res = res.select { |item| item["kategorie"].to_s.downcase.include?(q) }
+    end
+    if exam_filter
+      res = res.select { |item| VaultSupport.exam_matches?(item["pruefung"], exam_filter) }
+    end
+    res
   end
 
   def split_frontmatter(raw)
@@ -771,12 +979,24 @@ class KarteikartenManager
   end
 
   def markdown_to_anki_html(text)
-    escaped = CGI.escapeHTML(strip_wikilinks(text))
-    escaped
-      .gsub(/\*\*(.+?)\*\*/, '<b>\1</b>')
-      .gsub(/`([^`]+)`/, '<code>\1</code>')
-      .gsub(/\*(.+?)\*/, '<i>\1</i>')
-      .gsub("\n", "<br>")
+    cleaned = strip_wikilinks(text)
+    code_blocks = []
+    placeholder_text = cleaned.gsub(/```[a-zA-Z0-9_-]*\n(.*?)```/m) do
+      idx = code_blocks.length
+      code_blocks << "<pre><code>#{CGI.escapeHTML(Regexp.last_match(1).rstrip)}</code></pre>"
+      "@@CODEBLOCK#{idx}@@"
+    end
+
+    html = CGI.escapeHTML(placeholder_text)
+              .gsub(/\*\*(.+?)\*\*/, '<b>\1</b>')
+              .gsub(/`([^`]+)`/, '<code>\1</code>')
+              .gsub(/\*(.+?)\*/, '<i>\1</i>')
+              .gsub("\n", "<br>")
+
+    code_blocks.each_with_index do |block_html, idx|
+      html = html.gsub("@@CODEBLOCK#{idx}@@", block_html)
+    end
+    html
   end
 
   def sanitize_tsv(text)
@@ -789,12 +1009,13 @@ class KarteikartenManager
 
       Befehle:
         ruby 01_Index/Tools/sync_karteikarten.rb [sync]
-        ruby 01_Index/Tools/sync_karteikarten.rb status [--pending] [--category KATEGORIE] [--json]
+        ruby 01_Index/Tools/sync_karteikarten.rb migrate-exams
+        ruby 01_Index/Tools/sync_karteikarten.rb status [--pending] [--category KATEGORIE] [--exam AP1|AP2|BS] [--json]
         ruby 01_Index/Tools/sync_karteikarten.rb init-deck "<Thema>"
         ruby 01_Index/Tools/sync_karteikarten.rb refresh-meta "<Thema>"
-        ruby 01_Index/Tools/sync_karteikarten.rb drill "<Thema|Kategorie|all>" [--shuffle] [--limit N] [--json]
-        ruby 01_Index/Tools/sync_karteikarten.rb export-anki [--out /pfad]
-        ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm [--out /pfad]
+        ruby 01_Index/Tools/sync_karteikarten.rb drill "<Thema|Kategorie|all>" [--exam AP1|AP2|BS] [--due] [--front-only] [--shuffle] [--limit N] [--json]
+        ruby 01_Index/Tools/sync_karteikarten.rb export-anki [--exam AP1|AP2|BS] [--out /pfad]
+        ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm [--exam AP1|AP2|BS] [--out /pfad]
     HELP
   end
 end

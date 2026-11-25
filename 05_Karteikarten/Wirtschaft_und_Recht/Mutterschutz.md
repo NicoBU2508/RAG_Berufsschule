@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Mutterschutz"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Mutterschutz.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -17,7 +18,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/mutterschutz
 ---
-
 # 🗂️ Karteikarten: Mutterschutz
 
 > [!tip] Quellenbasis
@@ -25,7 +25,7 @@ tags:
 
 ---
 
-<!-- card-id: mutterschutz-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: mutterschutz-01 | typ: definition | pruefung: AP2 -->
 **Welche Tätigkeiten und Belastungen sind für werdende Mütter nach dem Mutterschutzgesetz zum Gesundheitsschutz untersagt?**
 ?
 Untersagt sind u. a. Fließbandarbeit, Akkordarbeit, Nachtarbeit, ständiges Stehen, Lärm, Staub, gesundheitsschädliche Stoffe, erhöhte Unfallgefahr sowie schwere körperliche Arbeit (dauerhaft keine Lasten über 5 kg) und Gefahren für die Gesundheit von Mutter und Kind.
@@ -33,7 +33,7 @@ Untersagt sind u. a. Fließbandarbeit, Akkordarbeit, Nachtarbeit, ständiges Ste
 
 ---
 
-<!-- card-id: mutterschutz-02 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: mutterschutz-02 | typ: anwendung | pruefung: AP2 -->
 **Welche betrieblichen Maßnahmen muss der Arbeitgeber am Arbeitsplatz einer werdenden Mutter ergreifen?**
 ?
 Der Arbeitsplatz wird angepasst; es gelten begrenzte Arbeitszeiten, Sitzgelegenheiten sowie kurze Unterbrechungen der Arbeit sind zu gewähren und alle erforderlichen Maßnahmen zum Schutz von Leben und Gesundheit zu treffen.
@@ -41,7 +41,7 @@ Der Arbeitsplatz wird angepasst; es gelten begrenzte Arbeitszeiten, Sitzgelegenh
 
 ---
 
-<!-- card-id: mutterschutz-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: mutterschutz-03 | typ: pruefungsfalle | pruefung: AP2 -->
 **Wann ist eine Kündigung gegenüber einer werdenden Mutter unzulässig – und welche Frist gilt bei Unkenntnis des Arbeitgebers bzw. bei befristeten Verträgen?**
 ?
 Während der Schwangerschaft und bis zum Ablauf von **4 Monaten nach der Entbindung** ist eine Kündigung unzulässig, wenn der Arbeitgeber davon weiß oder innerhalb von **2 Wochen nach Zugang der Kündigung** informiert wird (sonst ist sie wirksam). Bei befristeten Arbeitsverträgen gilt der Vertrag regulär bis zum Ablauf.
@@ -49,7 +49,7 @@ Während der Schwangerschaft und bis zum Ablauf von **4 Monaten nach der Entbind
 
 ---
 
-<!-- card-id: mutterschutz-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: mutterschutz-04 | typ: abgrenzung | pruefung: AP2 -->
 **Muss eine werdende Mutter den Arbeitgeber über ihre Schwangerschaft unterrichten, und welche Vorteile hat eine Unterrichtung?**
 ?
 Sie **soll** den Arbeitgeber unterrichten, **muss** es aber nicht. Vorteile bei Unterrichtung sind das Greifen des **Kündigungsschutzes** sowie die **Befreiung** von verbotenen/gefährdenden Tätigkeiten.
@@ -57,7 +57,7 @@ Sie **soll** den Arbeitgeber unterrichten, **muss** es aber nicht. Vorteile bei 
 
 ---
 
-<!-- card-id: mutterschutz-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: mutterschutz-05 | typ: anwendung | pruefung: AP2 -->
 **Was gilt für den Erholungsurlaub einer werdenden Mutter, wenn sie diesen vor Beginn des Beschäftigungsverbots nicht vollständig erhalten hat?**
 ?
 Auch werdende Mütter haben Anspruch auf Erholungsurlaub. Konnte der Urlaub vor Beginn des Beschäftigungsverbots nicht vollständig genommen werden, besteht **nach Ende des Beschäftigungsverbots Anspruch auf den restlichen Urlaub**.

@@ -9,6 +9,7 @@ rag_include: true
 canonical_evidence: false
 thema: "Power Apps und Power Automate"
 kategorie: Anwendungsentwicklung
+pruefung: "BS"
 quellen: 1
 seiten: 2
 tags:
@@ -18,6 +19,9 @@ tags:
 ---
 
 # Power Apps und Power Automate
+
+> [!tip] Lern- & Prüfungsfokus
+> **Prüfung:** ⚪ BS · **Training:** [[05_Karteikarten/Anwendungsentwicklung/Power Apps und Power Automate|🗂️ Karteikarten-Deck öffnen]] · **Katalog:** [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|IHK-AP1-Checkliste]]
 
 Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Seitenprüfung abgeleitet. Sie ordnet Belege ein; fachliche Aussagen müssen aus der verlinkten Quellnotiz stammen und bei OCR-, Layout-, Zahlen-, Code- oder Rechtsfragen am Original geprüft werden.
 

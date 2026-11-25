@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Entwicklungswerkzeuge und Debugging"
 kategorie: Anwendungsentwicklung
+pruefung: "AP1/AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Entwicklungswerkzeuge und Debugging.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -90,7 +91,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/entwicklungswerkzeuge-und-debugging
 ---
-
 # 🗂️ Karteikarten: Entwicklungswerkzeuge und Debugging
 
 > [!tip] Quellenbasis

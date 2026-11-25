@@ -9,6 +9,7 @@ rag_include: true
 canonical_evidence: false
 thema: "Datenbankgrundlagen und Datenbankentwicklung"
 kategorie: Anwendungsentwicklung
+pruefung: "AP1/AP2"
 quellen: 3
 seiten: 18
 tags:
@@ -18,6 +19,9 @@ tags:
 ---
 
 # Datenbankgrundlagen und Datenbankentwicklung
+
+> [!tip] Lern- & Prüfungsfokus
+> **Prüfung:** 🟢 AP1+AP2 · **Training:** [[05_Karteikarten/Anwendungsentwicklung/Datenbankgrundlagen und Datenbankentwicklung|🗂️ Karteikarten-Deck öffnen]] · **Katalog:** [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|IHK-AP1-Checkliste]]
 
 Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Seitenprüfung abgeleitet. Sie ordnet Belege ein; fachliche Aussagen müssen aus der verlinkten Quellnotiz stammen und bei OCR-, Layout-, Zahlen-, Code- oder Rechtsfragen am Original geprüft werden.
 

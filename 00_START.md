@@ -2,28 +2,32 @@
 typ: start
 status: ap_lernhelfer
 version: 3
-stand: 2026-11-23
+stand: 2026-11-25
 ---
 # 🎓 Obsidian AP-Lernhelfer Fachinformatiker
 
 > [!ap1] Ziel
-> Dieser Vault ist als AP-Lernbasis strukturiert. Alle 1.350 aktiven PDF-Seiten wurden visuell geprüft; 97 weitere Seiten wurden als pixelidentische Dubletten nachgewiesen. Kanonisch sind nur die daraus erzeugten Themenbezüge und die ausdrücklich zugelassenen Seiten der Quellnotizen.
+> Dieser Vault ist als AP-Lernbasis strukturiert. Alle 1.389 aktiven PDF-Seiten wurden visuell geprüft; 97 weitere Seiten wurden als pixelidentische Dubletten nachgewiesen. Kanonisch sind nur die daraus erzeugten Themenbezüge und die ausdrücklich zugelassenen Seiten der Quellnotizen.
 
 > [!important] Einstieg für GPT und Obsidian-Copilot
 > KI-Systeme beginnen bei [[00_KI_QUELLENSTART|KI-Quellenstart]]. Dort stehen Quellenpriorität, Ausschlüsse, Belegregeln und bekannte Qualitätsgrenzen.
 
 ## Direkt starten
 
-1. [[03_Themen/00_Kuratierte_Themen|Visuell geprüftes Thema]] auswählen.
-2. Von dort die verlinkte Quellnotiz und genaue PDF-Seite öffnen.
-3. Zahlen, Formeln, Code, Tabellen, Rechtsnormen und OCR-unsichere Stellen am Original kontrollieren.
-4. [[04_Pruefung/AP1/00_AP1_Lernmatrix|AP1 Lernmatrix]] nur ergänzend zur Lernplanung verwenden; sie ist nicht Teil der streng geprüften GPT-Quellenschicht.
+1. [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|IHK-AP1-Prüfungskatalog & Checkliste]] für die gezielte Prüfungsvorbereitung öffnen.
+2. [[03_Themen/00_Kuratierte_Themen|Visuell geprüftes Thema (139 Themen)]] auswählen.
+3. Von dort die verlinkte Quellnotiz, genaue PDF-Seite oder direkt das [[05_Karteikarten/00_Karteikarten_Index|Karteikarten-Deck]] öffnen.
+4. Zahlen, Formeln, Code, Tabellen, Rechtsnormen und OCR-unsichere Stellen am Original kontrollieren.
 
 ## Wichtige Bereiche
 
+- [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|🎯 AP1 IHK-Prüfungskatalog & Checkliste (2025/2026+)]]
+- [[04_Pruefung/Lernstand_Dashboard|📊 Persistentes FSRS-Lernstand-Cockpit]]
+- [[04_Pruefung/Fehlerjournal_und_Denkfehler|🎯 Denkfehler- & Hypercorrection-Register (Tag +1 / +7)]]
 - [[00_WORKFLOW_NEUE_MITSCHRIFTEN|Neue GoodNotes-Mitschriften integrieren]]
 - [[00_KI_QUELLENSTART|KI-/GPT-Quellenstart]]
-- [[03_Themen/00_Kuratierte_Themen|137 visuell geprüfte Themen]]
+- [[03_Themen/00_Kuratierte_Themen|139 visuell geprüfte Themen]]
+- [[05_Karteikarten/00_Karteikarten_Index|Karteikarten (860 Karten mit AP1/AP2-Filter)]]
 - [[01_Index/KI_Quellenqualitaet|Ergebnis der vollständigen PDF- und Quellenprüfung]]
 - [[01_Index/PDF_Seitenaudit|Seitenaudit aller aktiven PDFs]]
 - [[00_Vault_Index_Vollständig|Vollständiger Vault-Index]]
@@ -32,7 +36,6 @@ stand: 2026-11-23
 - [[01_Index/Duplikate und OCR|Duplikate, OCR und Datenschutz]]
 - [[04_Pruefung/AP1/00_AP1_Lernmatrix|AP1 Lernmatrix]]
 - [[04_Pruefung/AP2/00_AP2_Ausbauplan|AP2 Ausbauplan]]
-- [[05_Karteikarten/00_Karteikarten_Index|Karteikarten]]
 - [[06_Altklausuren/README|Altklausuren Workflow]]
 
 > [!warning] Scan-Hinweis

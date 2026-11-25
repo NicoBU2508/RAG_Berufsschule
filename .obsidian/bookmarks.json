@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "00_START.md",
+      "title": "🎓 Start & Übersicht"
+    },
+    {
+      "type": "file",
+      "path": "04_Pruefung/Lernstand_Dashboard.md",
+      "title": "📊 FSRS-Lernstand-Cockpit"
+    },
+    {
+      "type": "file",
+      "path": "04_Pruefung/Fehlerjournal_und_Denkfehler.md",
+      "title": "🎯 Denkfehler- & Hypercorrection-Register"
+    },
+    {
+      "type": "file",
+      "path": "04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste.md",
+      "title": "✅ AP1 IHK-Prüfungskatalog & Checkliste"
+    },
+    {
+      "type": "file",
+      "path": "03_Themen/00_Kuratierte_Themen.md",
+      "title": "📚 139 Visuell geprüfte Themen"
+    },
+    {
+      "type": "file",
+      "path": "05_Karteikarten/00_Karteikarten_Index.md",
+      "title": "🗂️ Karteikarten-Index (860 Karten)"
+    },
+    {
+      "type": "file",
+      "path": "04_Pruefung/AP2/00_AP2_Ausbauplan.md",
+      "title": "🚀 AP2 FIAE Ausbauplan"
+    },
+    {
+      "type": "file",
+      "path": "00_WORKFLOW_NEUE_MITSCHRIFTEN.md",
+      "title": "📥 GoodNotes-Import Workflow"
+    }
+  ]
+}

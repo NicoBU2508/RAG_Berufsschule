@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "BSI-Modellierung"
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP1"
 thema_quelle: "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/BSI-Modellierung.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -38,7 +39,6 @@ tags:
   - karteikarten
   - flashcards/it-technik-und-sicherheit/bsi-modellierung
 ---
-
 # 🗂️ Karteikarten: BSI-Modellierung
 
 > [!tip] Quellenbasis
@@ -46,7 +46,7 @@ tags:
 
 ---
 
-<!-- card-id: bsi-modellierung-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: bsi-modellierung-01 | typ: definition | pruefung: AP1 -->
 **Welche Hauptaufgaben umfasst die BSI-IT-Grundschutz-Modellierung?**
 ?
 - Den in der Strukturanalyse dokumentierten Informationsverbund mithilfe der IT-Grundschutz-Bausteine abbilden und auf Relevanz prüfen.
@@ -56,7 +56,7 @@ tags:
 
 ---
 
-<!-- card-id: bsi-modellierung-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: bsi-modellierung-02 | typ: abgrenzung | pruefung: AP1 -->
 **Wie unterscheiden sich prozessorientierte und systemorientierte Bausteine bei der Anwendung im Informationsverbund?**
 ?
 - **Prozessorientierte Bausteine:** Regeln übergeordnete Aspekte (z. B. ISMS, IT-Betrieb, Schulung) einheitlich und werden i. d. R. **einmal pro Informationsverbund** angewendet.
@@ -65,7 +65,7 @@ tags:
 
 ---
 
-<!-- card-id: bsi-modellierung-03 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: bsi-modellierung-03 | typ: anwendung | pruefung: AP1 -->
 **Welche IT-Grundschutz-Bausteine sind auf einen Webserver unter Unix anzuwenden?**
 ?
 1. `SYS.1.1` Allgemeiner Server (betriebssystemunabhängig)
@@ -75,7 +75,7 @@ tags:
 
 ---
 
-<!-- card-id: bsi-modellierung-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: bsi-modellierung-04 | typ: pruefungsfalle | pruefung: AP1 -->
 **Wie werden Virtualisierungsserver modelliert, und welche Besonderheit gilt für Bare-Metal-Server?**
 ?
 - **Virtualisierungsserver (mit OS):** Neben `SYS.1.1` (Allgemeiner Server) und dem OS-Baustein wird `SYS.1.5` (Virtualisierung) angewendet; zusätzlich werden alle laufenden virtuellen Server wie physische modelliert.
@@ -84,7 +84,7 @@ tags:
 
 ---
 
-<!-- card-id: bsi-modellierung-05 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: bsi-modellierung-05 | typ: definition | pruefung: AP1 -->
 **Welche 5 Kriterien muss eine Sicherheitsmaßnahme gemäß BSI-Modellierung erfüllen, um als angemessen zu gelten?**
 ?
 1. **Wirksam:** Schützt vor möglichen Gefährdungen und deckt den Schutzbedarf ab.
@@ -96,7 +96,7 @@ tags:
 
 ---
 
-<!-- card-id: bsi-modellierung-06 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: bsi-modellierung-06 | typ: abgrenzung | pruefung: AP1 -->
 **Worin unterscheiden sich im Baustein `INF.2` die Basis-Anforderungen (MUSS vs. SOLLTE) zwischen Rechenzentrum und Serverraum?**
 ?
 - **Rechenzentrum (MUSS):** Geschlossener Sicherheitsbereich mit getrennten Sicherheitszonen, Brand-/Rauchabschnitten, USV für betriebsrelevante Komponenten und Zutrittskontrolle ohne weitere unkontrollierte Zugänge.
@@ -105,7 +105,7 @@ tags:
 
 ---
 
-<!-- card-id: bsi-modellierung-07 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: bsi-modellierung-07 | typ: anwendung | pruefung: AP1 -->
 **Welche Pflicht gilt bei der Dokumentation der Modellierung, wenn ein Baustein als nicht relevant eingestuft wird, und welche Bausteine braucht z. B. WLAN im Büroraum?**
 ?
 - **Nicht relevante Bausteine:** In der Modellierungstabelle muss bei Relevanz „Nein“ zwingend eine **hinreichende Begründung** dokumentiert werden.

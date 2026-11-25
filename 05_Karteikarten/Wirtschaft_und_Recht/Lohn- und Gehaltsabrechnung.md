@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Lohn- und Gehaltsabrechnung"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Lohn- und Gehaltsabrechnung.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -20,7 +21,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/lohn-und-gehaltsabrechnung
 ---
-
 # 🗂️ Karteikarten: Lohn- und Gehaltsabrechnung
 
 > [!tip] Quellenbasis
@@ -28,7 +28,7 @@ tags:
 
 ---
 
-<!-- card-id: lohn-und-gehaltsabrechnung-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: lohn-und-gehaltsabrechnung-01 | typ: definition | pruefung: AP2 -->
 **Wie lautet das Grundschema einer Entgeltabrechnung vom Grundentgelt bis zum Auszahlungsbetrag?**
 ?
 - **Tarif-/Grundentgelt** + Sonderzahlungen + Arbeitgeberanteil zu vermögenswirksamen Leistungen (VL) + Zuschläge = **Bruttoentgelt** (sozialversicherungspflichtiges Brutto)
@@ -38,7 +38,7 @@ tags:
 
 ---
 
-<!-- card-id: lohn-und-gehaltsabrechnung-02 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: lohn-und-gehaltsabrechnung-02 | typ: pruefungsfalle | pruefung: AP2 -->
 **Worin liegt der Unterschied zwischen Bruttoentgelt und steuerpflichtigem Bruttoentgelt, und wovon werden SV-Beiträge bzw. Steuern berechnet?**
 ?
 Vom **Bruttoentgelt** (sozialversicherungspflichtiges Brutto) wird ggf. ein **Steuerfreibetrag** abgezogen, um das **steuerpflichtige Bruttoentgelt** zu erhalten. Der **AN-Anteil zur Sozialversicherung** wird vom **sozialversicherungspflichtigen Bruttoentgelt** berechnet, die **Steuern** hingegen vom **steuerpflichtigen Bruttoentgelt** (laut Lohnsteuertabelle).
@@ -46,7 +46,7 @@ Vom **Bruttoentgelt** (sozialversicherungspflichtiges Brutto) wird ggf. ein **St
 
 ---
 
-<!-- card-id: lohn-und-gehaltsabrechnung-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: lohn-und-gehaltsabrechnung-03 | typ: pruefungsfalle | pruefung: AP2 -->
 **Wie werden der Arbeitgeberanteil und der volle Sparbetrag vermögenswirksamer Leistungen (VL) in der Gehaltsabrechnung verrechnet?**
 ?
 Der **Arbeitgeberanteil zu den VL** wird zunächst zum Grundentgelt **addiert** (erhöht das steuer- und SV-pflichtige Bruttoentgelt). Vom **Nettoentgelt** wird anschließend der gesamte **VL-Sparbetrag** (z. B. 40,00 €) wieder **abgezogen**, da er direkt auf den Anlagevertrag überwiesen wird.
@@ -54,7 +54,7 @@ Der **Arbeitgeberanteil zu den VL** wird zunächst zum Grundentgelt **addiert** 
 
 ---
 
-<!-- card-id: lohn-und-gehaltsabrechnung-04 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: lohn-und-gehaltsabrechnung-04 | typ: definition | pruefung: AP2 -->
 **Welche vier Sozialversicherungszweige und welche drei Steuerarten werden in der Lohnabrechnung abgezogen?**
 ?
 - **Sozialversicherung (AN-Anteil):** Krankenversicherung (KV), Pflegeversicherung (PV), Rentenversicherung (RV), Arbeitslosenversicherung (AV).
@@ -63,7 +63,7 @@ Der **Arbeitgeberanteil zu den VL** wird zunächst zum Grundentgelt **addiert** 
 
 ---
 
-<!-- card-id: lohn-und-gehaltsabrechnung-05 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: lohn-und-gehaltsabrechnung-05 | typ: abgrenzung | pruefung: AP2 -->
 **Wie grenzen sich die sechs Lohnsteuerklassen in Deutschland voneinander ab?**
 ?
 - **Steuerklasse 1:** Ledige, getrenntlebende oder geschiedene Arbeitnehmer.
@@ -75,7 +75,7 @@ Der **Arbeitgeberanteil zu den VL** wird zunächst zum Grundentgelt **addiert** 
 
 ---
 
-<!-- card-id: lohn-und-gehaltsabrechnung-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: lohn-und-gehaltsabrechnung-06 | typ: anwendung | pruefung: AP2 -->
 **Berechne bei 3.000,00 € Tariflohn, 20,00 € AG-VL, 400,00 € Lohnsteuer, 8 % Kirchensteuer, SV-Sätzen KV 7,8 %, RV 9,3 %, AV 1,3 %, PV 2,4 % und 40,00 € VL-Sparen das Nettogehalt und den Überweisungsbetrag.**
 ?
 - **St-/SV-Bruttolohn:** 3.000,00 € + 20,00 € = **3.020,00 €**.

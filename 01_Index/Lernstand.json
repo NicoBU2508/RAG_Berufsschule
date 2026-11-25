@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "updated_on": "2026-11-25",
+  "exam_target": "AP1",
+  "exam_date": null,
+  "topics": {
+    "IPv4-Adressierung und Subnetting": {
+      "stability": 7.94,
+      "difficulty": 5.25,
+      "reps": 1,
+      "lapses": 1,
+      "last_review": "2026-11-25",
+      "due_date": "2026-11-26",
+      "last_grade": 1,
+      "cards_practiced": 2,
+      "confidence_checks": 1,
+      "last_confidence": 3,
+      "high_conf_errors": 1
+    },
+    "USV-Anlagen": {
+      "stability": 3.13,
+      "difficulty": 5.31,
+      "reps": 1,
+      "lapses": 0,
+      "last_review": "2026-11-25",
+      "due_date": "2026-11-28",
+      "last_grade": 3,
+      "cards_practiced": 1
+    }
+  },
+  "cards": {
+    "ipv4-adressierung-und-subnetting-01": {
+      "stability": 15.47,
+      "difficulty": 3.28,
+      "reps": 1,
+      "lapses": 0,
+      "interval_days": 15,
+      "last_review": "2026-11-25",
+      "due_date": "2026-12-10",
+      "last_grade": 4,
+      "thema": "IPv4-Adressierung und Subnetting"
+    },
+    "ipv4-adressierung-und-subnetting-06": {
+      "stability": 0.41,
+      "difficulty": 7.21,
+      "reps": 1,
+      "lapses": 1,
+      "interval_days": 1,
+      "last_review": "2026-11-25",
+      "due_date": "2026-11-26",
+      "last_grade": 1,
+      "thema": "IPv4-Adressierung und Subnetting",
+      "last_confidence": 3
+    },
+    "usv-anlagen-01": {
+      "stability": 3.13,
+      "difficulty": 5.31,
+      "reps": 1,
+      "lapses": 0,
+      "interval_days": 3,
+      "last_review": "2026-11-25",
+      "due_date": "2026-11-28",
+      "last_grade": 3,
+      "thema": "USV-Anlagen"
+    }
+  },
+  "errors": [
+    {
+      "id": "ERR-001",
+      "created_on": "2026-11-25",
+      "updated_on": "2026-11-25",
+      "topic": "IPv4-Adressierung und Subnetting",
+      "pruefung": "AP1",
+      "card_id": "ipv4-adressierung-und-subnetting-06",
+      "confused_with": "Binärzahlen",
+      "error_type": "Rechenfalle",
+      "confidence": 3,
+      "hypercorrection": true,
+      "mistake": "Hostanzahl bei /27 mit 2^5 = 32 statt 2^5 - 2 = 30 berechnet",
+      "correct_principle": "Nutzbare Hosts = 2^n - 2 (Netz-ID und Broadcast abziehen)",
+      "stage": 0,
+      "status": "open",
+      "lapses": 1,
+      "due_date": "2026-11-26",
+      "history": [
+        {
+          "date": "2026-11-25",
+          "result": "created",
+          "next_due": "2026-11-26"
+        }
+      ]
+    }
+  ]
+}

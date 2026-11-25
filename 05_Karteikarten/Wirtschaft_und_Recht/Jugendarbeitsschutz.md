@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Jugendarbeitsschutz"
 kategorie: Wirtschaft_und_Recht
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Jugendarbeitsschutz.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -18,7 +19,6 @@ tags:
   - karteikarten
   - flashcards/wirtschaft-und-recht/jugendarbeitsschutz
 ---
-
 # 🗂️ Karteikarten: Jugendarbeitsschutz
 
 > [!tip] Quellenbasis
@@ -26,7 +26,7 @@ tags:
 
 ---
 
-<!-- card-id: jugendarbeitsschutz-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: jugendarbeitsschutz-01 | typ: definition | pruefung: AP2 -->
 **Für wen gilt das Jugendarbeitsschutzgesetz (JArbSchG) und welchen Zweck verfolgt es?**
 ?
 Es schützt **Jugendliche ab dem vollendeten 15. Lebensjahr bis zum vollendeten 18. Lebensjahr** vor psychischen und physischen Schäden sowie Überlastungen am Arbeitsplatz (Arbeits-, Gesundheits- und Freizeitschutz).
@@ -34,7 +34,7 @@ Es schützt **Jugendliche ab dem vollendeten 15. Lebensjahr bis zum vollendeten 
 
 ---
 
-<!-- card-id: jugendarbeitsschutz-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: jugendarbeitsschutz-02 | typ: abgrenzung | pruefung: AP2 -->
 **Welche Grenzen gelten nach dem JArbSchG für Arbeitszeit, Nachtruhe, Wochenarbeitszeit und ununterbrochene Freizeit?**
 ?
 - **Arbeitszeit:** max. **8 Stunden/Tag** und **40 Stunden/Woche** in einer **5-Tage-Woche** (Ausnahme: bis zu 8,5 Stunden/Tag, wenn an einem anderen Tag derselben Woche entsprechend weniger gearbeitet wird).
@@ -43,7 +43,7 @@ Es schützt **Jugendliche ab dem vollendeten 15. Lebensjahr bis zum vollendeten 
 
 ---
 
-<!-- card-id: jugendarbeitsschutz-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: jugendarbeitsschutz-03 | typ: pruefungsfalle | pruefung: AP2 -->
 **Welche Pausenregelungen muss ein Betrieb bei jugendlichen Auszubildenden einhalten?**
 ?
 - Bei einer Arbeitszeit von **4,5 bis 6 Stunden:** mind. **30 Minuten** Pause.
@@ -53,7 +53,7 @@ Es schützt **Jugendliche ab dem vollendeten 15. Lebensjahr bis zum vollendeten 
 
 ---
 
-<!-- card-id: jugendarbeitsschutz-04 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: jugendarbeitsschutz-04 | typ: anwendung | pruefung: AP2 -->
 **Wann darf ein jugendlicher Auszubildender vor oder nach der Berufsschule nicht mehr im Betrieb beschäftigt werden?**
 ?
 - **Vor der Schule:** bei Schulbeginn vor 9:00 Uhr grundsätzlich kein Betrieb (Ausnahmen möglich).
@@ -62,7 +62,7 @@ Es schützt **Jugendliche ab dem vollendeten 15. Lebensjahr bis zum vollendeten 
 
 ---
 
-<!-- card-id: jugendarbeitsschutz-05 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: jugendarbeitsschutz-05 | typ: pruefungsfalle | pruefung: AP2 -->
 **Wie viel Mindesturlaub steht Jugendlichen nach dem JArbSchG zu, und welcher Stichtag entscheidet bei einem Geburtstag im März?**
 ?
 Entscheidend ist das Alter zu Beginn des Kalenderjahres (**Stichtag 01.01.**):
@@ -72,7 +72,7 @@ Entscheidend ist das Alter zu Beginn des Kalenderjahres (**Stichtag 01.01.**):
 
 ---
 
-<!-- card-id: jugendarbeitsschutz-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: jugendarbeitsschutz-06 | typ: anwendung | pruefung: AP2 -->
 **Welche Arbeiten sind für Jugendliche nach dem JArbSchG verboten, und welche Freistellungen/Untersuchungen sind vorgeschrieben?**
 ?
 - **Verbotene Arbeiten:** Akkordarbeit, sittlich gefährliche, gesundheitsgefährliche sowie Arbeiten, die die **Leistungsfähigkeit überschreiten** (z. B. zu schwere Pakete entladen).

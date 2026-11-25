@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Suchalgorithmen"
 kategorie: Anwendungsentwicklung
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Suchalgorithmen.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -16,7 +17,6 @@ tags:
   - karteikarten
   - flashcards/anwendungsentwicklung/suchalgorithmen
 ---
-
 # 🗂️ Karteikarten: Suchalgorithmen
 
 > [!tip] Quellenbasis
@@ -24,7 +24,7 @@ tags:
 
 ---
 
-<!-- card-id: suchalgorithmen-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: suchalgorithmen-01 | typ: definition | pruefung: AP2 -->
 **Wie funktioniert die lineare (sequentielle) Suche und wovon hängt ihr Aufwand ab?**
 ?
 Die lineare Suche geht ein Array mit $n$ Elementen Element für Element durch und vergleicht, bis das gesuchte Element (z. B. ein konkreter Wert oder das Maximum) gefunden ist.
@@ -33,7 +33,7 @@ Im besten Fall steht der Treffer an erster, im ungünstigsten Fall an letzter St
 
 ---
 
-<!-- card-id: suchalgorithmen-02 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: suchalgorithmen-02 | typ: anwendung | pruefung: AP2 -->
 **Wie geht die binäre Suche Schritt für Schritt vor und wann terminiert sie?**
 ?
 Zuerst wird das mittlere Element mit dem gesuchten Wert verglichen: Ist es größer, wird nur in der unteren Hälfte weitergesucht; ist es kleiner, nur in der oberen Hälfte.
@@ -42,7 +42,7 @@ Die zu prüfende Elementmenge halbiert sich in jedem Schritt, bis das Element ge
 
 ---
 
-<!-- card-id: suchalgorithmen-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: suchalgorithmen-03 | typ: abgrenzung | pruefung: AP2 -->
 **Unter welcher zwingenden Voraussetzung darf die binäre Suche statt der linearen Suche eingesetzt werden?**
 ?
 Die binäre Suche setzt zwingend ein bereits geordnetes (nach Größe der Elemente sortiertes) Array voraus und ist dann deutlich effizienter als die lineare Suche.
@@ -51,7 +51,7 @@ Bei unsortierten Arrays kann sie nicht angewendet werden; dort nutzt man die lin
 
 ---
 
-<!-- card-id: suchalgorithmen-04 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: suchalgorithmen-04 | typ: pruefungsfalle | pruefung: AP2 -->
 **Warum liefert die Maximumsuche im nullindizierten Array `[10, 11, 12, 15, 13, 14]` für das vierte Element die Position `3`?**
 ?
 Bei nullindizierten Feldern startet der Index bei `0` (`feld[0] = 10`, `feld[1] = 11`, `feld[2] = 12`, `feld[3] = 15`).

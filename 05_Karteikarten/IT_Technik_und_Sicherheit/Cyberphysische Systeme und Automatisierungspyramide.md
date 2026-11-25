@@ -2,6 +2,7 @@
 typ: karteikarten_deck
 thema: "Cyberphysische Systeme und Automatisierungspyramide"
 kategorie: IT_Technik_und_Sicherheit
+pruefung: "AP2"
 thema_quelle: "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Cyberphysische Systeme und Automatisierungspyramide.md"
 stand_karten: 2026-11-24
 stand_quelle: 2026-11-24
@@ -32,7 +33,6 @@ tags:
   - karteikarten
   - flashcards/it-technik-und-sicherheit/cyberphysische-systeme-und-automatisierungspyramide
 ---
-
 # 🗂️ Karteikarten: Cyberphysische Systeme und Automatisierungspyramide
 
 > [!tip] Quellenbasis
@@ -40,7 +40,7 @@ tags:
 
 ---
 
-<!-- card-id: cyberphysische-systeme-und-automatisierungspyramide-01 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: cyberphysische-systeme-und-automatisierungspyramide-01 | typ: definition | pruefung: AP2 -->
 **Was ist ein Cyberphysisches System (CPS)?**
 ?
 Ein Cyberphysisches System ist ein Verbund informatischer Komponenten mit mechanischen und elektronischen Teilen, die über eine Dateninfrastruktur (z. B. das Internet) miteinander kommunizieren.
@@ -48,7 +48,7 @@ Ein Cyberphysisches System ist ein Verbund informatischer Komponenten mit mechan
 
 ---
 
-<!-- card-id: cyberphysische-systeme-und-automatisierungspyramide-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: cyberphysische-systeme-und-automatisierungspyramide-02 | typ: abgrenzung | pruefung: AP2 -->
 **Wie unterscheiden sich IT (Information Technology) und OT (Operative Technology) hinsichtlich Zweck, Datenverkehr und Zeitverhalten?**
 ?
 **IT** dient der elektronischen Verwaltung, Speicherung und Verarbeitung von Daten und arbeitet in IT-Netzen mit großen Datenmengen sowie unterschiedlichen Realisationszeiten. **OT** steuert und überwacht physische Geräte und Anlagen direkt und erfordert in OT-Netzen kleine Datenmengen bei strengen Echtzeitanforderungen.
@@ -56,7 +56,7 @@ Ein Cyberphysisches System ist ein Verbund informatischer Komponenten mit mechan
 
 ---
 
-<!-- card-id: cyberphysische-systeme-und-automatisierungspyramide-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: cyberphysische-systeme-und-automatisierungspyramide-03 | typ: pruefungsfalle | pruefung: AP2 -->
 **In welcher Prioritätsreihenfolge stehen die drei Schutzziele in der OT im Vergleich zur klassischen IT?**
 ?
 In der klassischen **IT** hat **1. Vertraulichkeit** höchste Priorität, gefolgt von 2. Integrität und 3. Verfügbarkeit. In der **OT** ist die Priorität umgekehrt: **1. Verfügbarkeit** steht an erster Stelle, gefolgt von 2. Integrität und 3. Vertraulichkeit.
@@ -64,7 +64,7 @@ In der klassischen **IT** hat **1. Vertraulichkeit** höchste Priorität, gefolg
 
 ---
 
-<!-- card-id: cyberphysische-systeme-und-automatisierungspyramide-04 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: cyberphysische-systeme-und-automatisierungspyramide-04 | typ: definition | pruefung: AP2 -->
 **Wie lauten die fünf Ebenen der klassischen Automatisierungspyramide von oben nach unten?**
 ?
 1. **Unternehmensebene (ERP)**, 2. **Betriebsleitebene (MES)**, 3. **Prozess-/Leitebene (SCADA)**, 4. **Steuerungsebene (SPS)** und 5. **Feldebene (Sensoren, Aktoren)** zwischen Unternehmensprozess und technischem Prozess.
@@ -72,7 +72,7 @@ In der klassischen **IT** hat **1. Vertraulichkeit** höchste Priorität, gefolg
 
 ---
 
-<!-- card-id: cyberphysische-systeme-und-automatisierungspyramide-05 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: cyberphysische-systeme-und-automatisierungspyramide-05 | typ: abgrenzung | pruefung: AP2 -->
 **Welche Aufgaben erfüllen ERP und MES in der Automatisierungspyramide?**
 ?
 **ERP** (*Enterprise Resource Planning*, z. B. SAP) plant, steuert und verwaltet unternehmensweite Ressourcen wie Personal, Kapital, Material und Betriebsmittel. **MES** (*Manufacturing Execution System*, Produktionsleitsystem) verbindet Betriebswirtschaft und Produktion und ermöglicht Führung, Lenkung, Steuerung und Kontrolle der Fertigung in Echtzeit.
@@ -80,7 +80,7 @@ In der klassischen **IT** hat **1. Vertraulichkeit** höchste Priorität, gefolg
 
 ---
 
-<!-- card-id: cyberphysische-systeme-und-automatisierungspyramide-06 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: cyberphysische-systeme-und-automatisierungspyramide-06 | typ: definition | pruefung: AP2 -->
 **Welche Aufgaben übernehmen SCADA, SPS und HMI auf den unteren Ebenen der Automatisierung?**
 ?
 **SCADA** (*Supervisory Control and Data Acquisition*) ist die Software bzw. das System zur Überwachung, Steuerung und Datenerfassung technischer Prozesse. Eine **SPS** (speicherprogrammierbare Steuerung, engl. PLC) steuert oder regelt Maschinen und Anlagen digital, während das **HMI** (Mensch-Maschine-Schnittstelle) Bedienern das Beobachten der Anlagenzustände und Eingreifen erlaubt.
@@ -88,7 +88,7 @@ In der klassischen **IT** hat **1. Vertraulichkeit** höchste Priorität, gefolg
 
 ---
 
-<!-- card-id: cyberphysische-systeme-und-automatisierungspyramide-07 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: cyberphysische-systeme-und-automatisierungspyramide-07 | typ: anwendung | pruefung: AP2 -->
 **Wie verändert Industrie 4.0 die klassische Automatisierungspyramide und welche Rolle spielt dabei das IIoT?**
 ?
 Die streng hierarchische Pyramide löst sich oberhalb der Feldebene (Sensoren, Aktoren) zugunsten direkt vernetzter Dienste und Cloud-Strukturen auf (z. B. Orchestration Engine, Big-Data-Datenbanken, Prozessüberwachung, HMI und SPS). **IIoT** (*Industrial IoT*) bezeichnet dabei IoT-Anwendungen im industriellen Kontext für Sensoren und Automation auf Basis von Cloud-Technologien.
