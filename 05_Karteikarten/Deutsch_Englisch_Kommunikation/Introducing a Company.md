@@ -39,7 +39,7 @@ tags:
 **Welche fünf Kerninformationen gehören laut Arbeitsblatt in ein englisches Firmenprofil (*company profile*)?**
 ?
 Ein Firmenprofil beschreibt: 1. Gründung/Übernahme (*was founded in ...*, *was taken over by ...*), 2. Unternehmenstyp & Größe (*medium-sized family firm*, *subsidiary of*, *number of employees*), 3. Standort/Zentrale (*located in ...*, *headquarters*), 4. Geschäftsfeld (*main business activities*, *sector*) und 5. Kunden/Spezialisierung (*we specialize in ...*, *private/commercial/industrial customers*).
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 11–12 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 11–12](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=11>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -47,7 +47,7 @@ Ein Firmenprofil beschreibt: 1. Gründung/Übernahme (*was founded in ...*, *was
 **Was bedeuten die zentralen englischen Unternehmensbegriffe `headquarters`, `subsidiary`, `manufacturer`, `customers`, `employee` und `after-sales service`?**
 ?
 `headquarters` = Zentrale/Hauptsitz; `subsidiary` = Tochtergesellschaft; `manufacturer` = Hersteller (Verb: `manufacture`); `customers` = Kunden/Verbraucher; `employee` = Angestellte/r; `after-sales service` = Kundendienst/Wartung.
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 12–13 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 12–13](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=12>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -55,7 +55,7 @@ Ein Firmenprofil beschreibt: 1. Gründung/Übernahme (*was founded in ...*, *was
 **Mit welchen englischen Redewendungen beschreibt man Produkte und Dienstleistungen eines Unternehmens professionell?**
 ?
 Typische Wendungen sind: *We offer sustainable solutions*, *Our products are environmentally friendly / reliable and long-lasting*, *Our software is adapted to suit your requirements*, *designed using the latest CAD technology* sowie *state-of-the-art* (auf dem neuesten Stand).
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 12–13 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 12–13](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=12>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -63,7 +63,7 @@ Typische Wendungen sind: *We offer sustainable solutions*, *Our products are env
 **Welche englischen Präpositionen nutzt man für Arbeitsplatz (*assembly line*, *warehouse/factory*, *workshop*, *building site*) und Zuständigkeiten?**
 ?
 Man verwendet *work **on** an assembly line / a machine* und *work **on** a building site*, aber *work **in** a large warehouse / factory / workshop*, *work **for** a company* und *work **in** the automotive industry*. Zuständigkeiten drückt man mit *I am responsible **for** (+ -ing)* und *I report **to** ...* aus.
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 12 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 12](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=12>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -71,7 +71,7 @@ Man verwendet *work **on** an assembly line / a machine* und *work **on** a buil
 **Wie empfängt man Besucher auf einer Messe (*trade fair*) höflich auf Englisch und erkundigt sich nach ihrem Anliegen?**
 ?
 Begrüßung: *Welcome to our booth. How are you today?* Nachfrage zu Firma/Status: *May I ask who you work for?* / *You have a good reputation as a leader of ...* Bedarf klären und Produkt zeigen: *Can I ask whether you are looking for something in particular?* – *I'd be happy to demonstrate ...*
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 43 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 43](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=43>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -79,4 +79,4 @@ Begrüßung: *Welcome to our booth. How are you today?* Nachfrage zu Firma/Statu
 **Welche Phrasen nutzt man in einer englischen *follow-up email* nach einem Messekontakt für den Rückbezug und weiterführende Infos?**
 ?
 Rückbezug: *We met at the trade fair last week*, *It was great to meet you* und *As I explained at the trade fair ...*. Verweis auf Unterlagen: *You can refer to the attachment titled ...*, *take a look at the client testimonials on our website* sowie *Please don't hesitate to contact me if you require more information.*
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 44 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 44](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=44>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*

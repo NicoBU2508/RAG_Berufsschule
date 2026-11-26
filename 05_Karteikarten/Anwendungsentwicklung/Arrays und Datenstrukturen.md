@@ -51,7 +51,7 @@ tags:
 **Was ist ein Array (Feld) und welche zwei zentralen Eigenschaften gelten für seine Elemente und Größe?**
 ?
 Ein **Array** speichert zusammengehörige Werte **desselben Datentyps** unter einem gemeinsamen Bezeichner. Seine **Länge (Anzahl der Speicherplätze) ist konstant** und kann nach der Deklaration nicht mehr verändert werden.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `02_Unternehmenswiki-7.Block.pdf` S. 64 (von 71) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [02_Unternehmenswiki-7.Block.pdf · S. 64](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=64>) (von 71) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block|Quellnotiz]]*
 
 ---
 
@@ -59,7 +59,7 @@ Ein **Array** speichert zusammengehörige Werte **desselben Datentyps** unter ei
 **Wann verwendet man statt eines Arrays einen Record (Verbund/Struktur)?**
 ?
 Während ein **Array** zusammengehörige Elemente **gleichen Datentyps** speichert, bündelt ein **Record (Verbund/Struktur)** zusammengehörige Elemente **unterschiedlichen Datentyps** (z. B. einen Kundendatensatz mit Name, Geburtsdatum, Straße und PLZ) unter einem Namen.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 30 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 30](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=30>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -67,7 +67,7 @@ Während ein **Array** zusammengehörige Elemente **gleichen Datentyps** speiche
 **Mit welchem Index wird auf das vierte Element von `int[] testArray = new int[5];` zugegriffen und welche Indizes sind insgesamt gültig?**
 ?
 Da Arrays **nullindiziert** sind (der Index startet bei `0`), liegt das vierte Element an **Index `3`** (`testArray[3]`). Bei der Länge 5 sind nur die Indizes **`0` bis `4`** belegt; ein Zugriff auf Index `5` überschreitet das Array.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `02_Unternehmenswiki-7.Block.pdf` S. 66, 68 (von 71) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [02_Unternehmenswiki-7.Block.pdf · S. 66, 68](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=66>) (von 71) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block|Quellnotiz]]*
 
 ---
 
@@ -75,7 +75,7 @@ Da Arrays **nullindiziert** sind (der Index startet bei `0`), liegt das vierte E
 **Wie deklariert man in Java ein `int`-Array der Länge 5 mit Standardwerten und wie alternativ direkt mit konkreten Startwerten?**
 ?
 Mit fester Länge (Default-Wert `0` je Feld): `int[] testArray = new int[5];`. Direkt mit Werten (kombinierte Deklaration und Initialisierung): `int[] testArray = {24, -7, 123456, 25, -64};` — ein bereits bestehendes Array lässt sich über geschweifte Klammern nicht neu belegen.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `02_Unternehmenswiki-7.Block.pdf` S. 66–67 (von 71) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [02_Unternehmenswiki-7.Block.pdf · S. 66–67](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=66>) (von 71) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block|Quellnotiz]]*
 
 ---
 
@@ -83,7 +83,7 @@ Mit fester Länge (Default-Wert `0` je Feld): `int[] testArray = new int[5];`. D
 **Wie ist ein zweidimensionales Array aufgebaut und was geben der erste und der zweite Index an?**
 ?
 Ein **zweidimensionales Array** bildet eine **Tabelle** mit `m · n` Elementen über zwei nullindizierte Indizes. Bei der Adressierung gibt der **erste Index die Zeile** und der **zweite Index die Spalte** an.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 36 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 36](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=36>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -91,4 +91,4 @@ Ein **zweidimensionales Array** bildet eine **Tabelle** mit `m · n` Elementen �
 **Wann nutzt man die lineare (sequentielle) Suche und welche Voraussetzung erfordert die binäre Suche?**
 ?
 Die **lineare Suche** prüft ein Array Element für Element und funktioniert auch bei **unsortierten Arrays** (Suchaufwand steigt mit `n`). Die effizientere **binäre Suche** halbiert in jedem Schritt den Suchbereich über das mittlere Element, setzt aber zwingend ein **sortiertes Array** voraus.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 44 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 44](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*

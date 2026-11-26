@@ -34,7 +34,7 @@ tags:
 **Mit welchen Formelzeichen, Einheiten und Analogien werden Spannung, Strom und elektrischer Widerstand beschrieben?**
 ?
 Spannung: Formelzeichen $U$, Einheit V (Volt), Analogie Druck; Strom: Formelzeichen $I$, Einheit A (Ampere), Analogie Durchfluss (l/min); Widerstand: Formelzeichen $R$, Einheit Ω (Ohm).
-*Quelle: ITT IT-Technik (1. LJ) · `Grudausbildumg.pdf` S. 1 (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 1](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=1>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -42,7 +42,7 @@ Spannung: Formelzeichen $U$, Einheit V (Volt), Analogie Druck; Strom: Formelzeic
 **Worin unterscheidet sich das elektrische Potenzial φ von der elektrischen Spannung U?**
 ?
 Das Potenzial $\varphi$ beschreibt den elektrischen Zustand an einem Punkt bezogen auf ein festgelegtes Bezugspotenzial $\varphi_0$, während die Spannung $U_{AB} = \varphi_A - \varphi_B$ die Potenzialdifferenz zwischen zwei Punkten angibt.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 14–15 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 14–15](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=14>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -50,7 +50,7 @@ Das Potenzial $\varphi$ beschreibt den elektrischen Zustand an einem Punkt bezog
 **In welchen vier Schritten bestimmt man Spannungen zwischen verschiedenen Punkten einer Spannungsquellen-Kette?**
 ?
 1. Bezugspotenzial $\varphi_0$ festlegen, 2. alle weiteren Potenziale bestimmen, 3. Spannungen über die Indizes der Potenziale bezeichnen, 4. Spannungen als Potenzialdifferenzen berechnen.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 15 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 15](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=15>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -58,7 +58,7 @@ Das Potenzial $\varphi$ beschreibt den elektrischen Zustand an einem Punkt bezog
 **Welche sechs Prinzipien der Spannungserzeugung (Ladungstrennung) gibt es und welche technischen Umsetzer gehören jeweils dazu?**
 ?
 Induktion (Generator), chemische Wirkung (Galvanisches Element), Wärme (Thermoelement), Licht (Fotoelement), Kristallverformung (Piezo-Kristalle) sowie Reibung (elektrostatische Aufladung).
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 17 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 17](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=17>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -66,7 +66,7 @@ Induktion (Generator), chemische Wirkung (Galvanisches Element), Wärme (Thermoe
 **Wofür stehen AC und DC und welche gebräuchlichen Spannungswerte treten im IT- und Netzbereich auf?**
 ?
 **AC** (*Alternating Current*) ist Wechselspannung (z. B. Niederspannungsnetz 230 V / 400 V, Netzebenen 1 kV–380 kV); **DC** (*Direct Current*) ist Gleichspannung (z. B. Batterien 1,5 V–9 V, Kfz-Batterie 12 V, PC-Netzteil-Ausgänge 3,3 V / 5 V / 12 V).
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 18 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 18](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=18>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -74,4 +74,4 @@ Induktion (Generator), chemische Wirkung (Galvanisches Element), Wärme (Thermoe
 **Warum kann bei der Berechnung von Potenzialdifferenzen (z. B. U₀₁ oder U₄₅) ein negatives Vorzeichen auftreten?**
 ?
 Die Spannung hängt von der gewählten Bezugsrichtung ab ($U_{AB} = \varphi_A - \varphi_B$). Liegt $\varphi_A$ unter $\varphi_B$ bzw. zeigt der Spannungspfeil entgegen der höheren Potenzialrichtung, wird der Wert negativ.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 14, 51 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 14, 51](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=14>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*

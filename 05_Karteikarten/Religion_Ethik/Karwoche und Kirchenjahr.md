@@ -27,7 +27,7 @@ tags:
 **Was bedeutet der Begriff „Karwoche“ und mit welchem Tag beginnt sie?**
 ?
 Die Karwoche bezeichnet die „heilige Woche“ (*santa settimana*) vor Ostern. Sie beginnt am **Palmsonntag**, dem Jubeltag, an dem Jesus unter „Hosanna“-Rufen in Jerusalem einzieht.
-*Quelle: Religion (1. LJ) · `Reli Notizen.pdf` S. 6 (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
+*Quelle: Religion (1. LJ) · [Reli Notizen.pdf · S. 6](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6>) (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
 
 ---
 
@@ -35,7 +35,7 @@ Die Karwoche bezeichnet die „heilige Woche“ (*santa settimana*) vor Ostern. 
 **Wie unterscheiden sich Gründonnerstag und Karfreitag inhaltlich innerhalb der Karwoche?**
 ?
 Am **Gründonnerstag** stehen die Fußwaschung und das letzte Abendmahl (Ursprung der Hl. Messe) im Mittelpunkt. Der **Karfreitag** erinnert an Verhaftung, Verurteilung, Kreuzweg nach Golgota und Grablegung Jesu.
-*Quelle: Religion (1. LJ) · `Reli Notizen.pdf` S. 6 (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
+*Quelle: Religion (1. LJ) · [Reli Notizen.pdf · S. 6](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6>) (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
 
 ---
 
@@ -43,7 +43,7 @@ Am **Gründonnerstag** stehen die Fußwaschung und das letzte Abendmahl (Ursprun
 **Welcher Bedeutungs- und Stimmungswandel vollzieht sich zwischen Karsamstag und der Osternacht?**
 ?
 Der **Karsamstag** ist von Trauer, Fassungslosigkeit, Angst und Leere (*„alles umsonst“*) geprägt. In der **Osternacht** folgt die Wende durch die Auferstehungsbotschaft (*„Halleluja! Der Herr ist wahrhaft auferstanden“*), die Begegnung mit den Frauen und den Emmausgang.
-*Quelle: Religion (1. LJ) · `Reli Notizen.pdf` S. 6 (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
+*Quelle: Religion (1. LJ) · [Reli Notizen.pdf · S. 6](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6>) (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
 
 ---
 
@@ -51,4 +51,4 @@ Der **Karsamstag** ist von Trauer, Fassungslosigkeit, Angst und Leere (*„alles
 **Welche Ereignisse und Motive ordnet die Mitschrift den Tagen zwischen Palmsonntag und Gründonnerstag (Montag bis Mittwoch) zu?**
 ?
 Jesu Wirken im Tempel (Vertreibung der Händler), das Liebesgebot (*„Liebe deinen Nächsten wie dich selbst“*), Verhöre sowie der Verrat durch Judas für 30 Silberlinge.
-*Quelle: Religion (1. LJ) · `Reli Notizen.pdf` S. 6 (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
+*Quelle: Religion (1. LJ) · [Reli Notizen.pdf · S. 6](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6>) (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*

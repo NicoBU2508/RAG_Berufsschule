@@ -36,7 +36,7 @@ tags:
 BPMN ist eine standardisierte, **grafische Modellierungssprache** zur Darstellung von Geschäftsprozessen, die als **Brücke zwischen Fachbereichen und IT** (fachlichen Konzepten und ausführbaren Modellen) dient.
 - **Einheitliche Sprache & gemeinsames Verständnis:** Klare, konsistente Kommunikation abteilungs- und unternehmensübergreifend für Fach- und IT-Personal.
 - **Standardisierung & Praxisnähe:** Breite Unterstützung durch Modellierungstools sowie umfangreiche Schulungs- und Lernressourcen.
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 23, 28 (von 30) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 23, 28](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=23>) (von 30) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
 ---
 
 <!-- card-id: business-process-model-and-notation-bpmn-02 | typ: definition | pruefung: AP1/AP2 -->
@@ -48,7 +48,7 @@ BPMN ist eine standardisierte, **grafische Modellierungssprache** zur Darstellun
 - **Verbindungen (Flows):** Geben die Fließrichtung an (Unterscheidung zwischen Aktivitäten-/Sequenzfluss und Nachrichtenfluss).
 - **Pools und Lanes:** Stellen Verantwortungsbereiche (Gruppen, Rollen oder Organisationen) dar.
 - **Artefakte:** Ergänzen Zusatzinformationen (Anmerkungen, Gruppen, Datenobjekte).
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 24–25 (von 30) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 24–25](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=24>) (von 30) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
 ---
 
 <!-- card-id: business-process-model-and-notation-bpmn-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
@@ -59,7 +59,7 @@ BPMN ist eine standardisierte, **grafische Modellierungssprache** zur Darstellun
 - **Endereignis:** Kreis mit **dicker** einfacher Umrandung.
 - **Terminate (Abbruch-Ereignis):** Dicker Kreis mit **ausgefülltem schwarzem Innenkreis**.
 *(Symbole im Kreis wie Briefumschlag = Nachricht oder Uhr = Zeit/Timer konkretisieren den Auslöser.)*
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 25–26 (von 30) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 25–26](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=25>) (von 30) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 ---
 
 <!-- card-id: business-process-model-and-notation-bpmn-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
@@ -69,7 +69,7 @@ BPMN ist eine standardisierte, **grafische Modellierungssprache** zur Darstellun
 - **User-Task (Personen-Symbol):** Benutzeraufgabe mit IT-Unterstützung (z. B. Fehler identifizieren).
 - **Manual-Task (Hand-Symbol):** Manuelle Tätigkeit **ohne** IT-System (z. B. Workaround vor Ort umsetzen).
 - **Script-Task (Skript-Symbol):** Automatisiert ausgeführtes Skript (z. B. Zähler erhöhen).
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 26, 30 (von 30) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 26, 30](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=26>) (von 30) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 ---
 
 <!-- card-id: business-process-model-and-notation-bpmn-05 | typ: abgrenzung | pruefung: AP1/AP2 -->
@@ -77,7 +77,7 @@ BPMN ist eine standardisierte, **grafische Modellierungssprache** zur Darstellun
 ?
 - **Exclusive Gateway (`X`, XOR):** Exklusives ODER – es wird genau **ein** alternativer Pfad anhand einer Bedingung gewählt bzw. ein aktiver Zweig wieder zusammengeführt (z. B. *„Kreditwürdig? Ja / Nein“*).
 - **Parallel Gateway (`+`, UND):** Bei der Aufspaltung starten **alle** ausgehenden Zweige gleichzeitig; bei der Zusammenführung wartet der Prozess, bis **alle** parallelen Zweige abgeschlossen sind.
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 26–28, 30 (von 30) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 26–28, 30](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=26>) (von 30) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 ---
 
 <!-- card-id: business-process-model-and-notation-bpmn-06 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
@@ -86,4 +86,4 @@ BPMN ist eine standardisierte, **grafische Modellierungssprache** zur Darstellun
 - **Pflichtstruktur:** Jedes BPMN-Diagramm muss mindestens **einen Pool mit einem Verantwortungsbereich (Lane)** umfassen sowie mit einem Ereignis beginnen und enden.
 - **Beschriftung von Aktivitäten:** Immer im Format **„Substantiv + Verb“** (z. B. *„Antrag prüfen“*, *„Bestellung erfassen“*).
 - **Datenobjekte (Pfeil oben links):** Weißer Pfeil = **Data Input** (Eingangsdaten), schwarzer Pfeil = **Data Output** (Ausgangsdaten); Übergaben zwischen Bereichen/Pools als **Nachrichtenfluss** vom reinen **Sequenzfluss** trennen.
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 24–28 (von 30) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 24–28](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=24>) (von 30) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*

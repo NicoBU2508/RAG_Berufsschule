@@ -42,7 +42,7 @@ tags:
 ?
 Die sechs Phasen lauten: 1. Analyse, 2. Entwurf (Design), 3. Implementierung (Codierung), 4. Integration, 5. Einsatz (Installation) und 6. Wartung.
 Die Phasen 5 (Einsatz/Installation) und 6 (Wartung) gehören nicht mehr zum eigentlichen Entwicklungsprozess.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 26–27 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 26–27](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=26>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -51,7 +51,7 @@ Die Phasen 5 (Einsatz/Installation) und 6 (Wartung) gehören nicht mehr zum eige
 ?
 Das Wasserfall-Modell eignet sich für kleine Projekte mit frühzeitig präzisen, kaum veränderlichen Anforderungen, da jede Phase sequenziell abgeschlossen wird (Rückkopplung nur zur vorherigen Phase).
 Das V-Modell erweitert es u. a. um Qualitätssicherung (QM), Konfigurations- und Projektmanagement, verursacht mit über 20 Rollen aber hohe Bürokratie bei kleineren Projekten.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 72–73 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 72–73](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=72>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -60,7 +60,7 @@ Das V-Modell erweitert es u. a. um Qualitätssicherung (QM), Konfigurations- und
 ?
 Das Spiral-Modell ist ein iteratives Modell, das in wiederholten Zyklen aus vier Phasen abläuft (Ziele/Alternativen festlegen, Risiken erkennen/reduzieren, Zwischenprodukt entwickeln/prüfen, nächsten Zyklus planen und Rückblick halten).
 Im Vordergrund steht die Risikominimierung; Fehler sollen möglichst auf der Stufe gefunden werden, auf der sie begangen wurden.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 73 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 73](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=73>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -69,7 +69,7 @@ Im Vordergrund steht die Risikominimierung; Fehler sollen möglichst auf der Stu
 ?
 Ein horizontaler Prototyp (Demonstrations-Prototyp) bildet nur eine Ebene ab (z. B. die Benutzeroberfläche) und dient der Auftragsakquisition.
 Ein vertikaler Prototyp (Labormuster) geht durch alle Systemebenen und prüft technische Umsetzbarkeit bzw. Architektur, während der Pilot-Prototyp als Kern schrittweise zum Endprodukt weiterentwickelt wird.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 74–75 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 74–75](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=74>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -78,7 +78,7 @@ Ein vertikaler Prototyp (Labormuster) geht durch alle Systemebenen und prüft te
 ?
 Rollen: Product Owner (Produktverantwortung/Backlog), Scrum Master (Regeln/Prozessoptimierung), Development Team (Umsetzung).
 Artefakte: Product Backlog, Sprint Backlog, Product Increment; Ereignisse: Sprint (max. 4 Wochen), Sprint Planning, Daily Scrum (15 Min.), Sprint Review und Sprint Retrospective.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 69–70 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 69–70](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=69>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -87,4 +87,4 @@ Artefakte: Product Backlog, Sprint Backlog, Product Increment; Ereignisse: Sprin
 ?
 Je früher ein Fehler erkannt wird, desto einfacher und günstiger lässt er sich beheben (im Betrieb ist die Behebung extrem aufwendig).
 Der Black-Box-Test prüft ohne Kenntnis des Quellcodes gegen die Spezifikation, der White-Box-Test testet mit bekanntem Quellcode gezielt Kontrollstrukturen, und die Grenzwert-Analyse fokussiert die Ränder von Wertebereichen.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 88, 90 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 88, 90](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=88>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*

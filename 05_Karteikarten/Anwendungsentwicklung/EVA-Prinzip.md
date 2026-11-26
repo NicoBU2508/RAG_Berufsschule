@@ -31,7 +31,7 @@ tags:
 **Wofür steht das EVA-Prinzip und in welcher Reihenfolge laufen die drei Phasen ab?**
 ?
 **E**ingabe → **V**erarbeitung → **A**usgabe: Daten werden zunächst eingelesen, anschließend vom Computer mittels Algorithmus/Programm verarbeitet und erst danach als Ergebnis ausgegeben.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 1 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 1](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -40,7 +40,7 @@ tags:
 ?
 - **Eingabe:** Tastatur, Maus, Mikrofon, Scanner, Touch-Display, Webcam (auch Speicher/DB wie USB-Stick, Festplatte)
 - **Ausgabe:** Monitor/Display, Drucker/3D-Drucker, Plotter, Lautsprecher, VR-Brille (auch Speicher/Brenner)
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 1 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 1](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -49,7 +49,7 @@ tags:
 ?
 **Grund:** Verarbeitung (`+`) und Ausgabe (`print(...)`) sind vermischt statt sauber getrennt.
 **Saubere EVA-Lösung:** Zuerst Ergebnis in eigener Variable berechnen (`i_ges = i_stimmenKand1 + i_stimmenKand2`) und danach getrennt ausgeben (`print(i_ges)`).
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `Mitschrift_AE_Eix.pdf` S. 17 (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [Mitschrift_AE_Eix.pdf · S. 17](<99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf#page=17>) (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -57,7 +57,7 @@ tags:
 **Wie unterscheidet sich der Begriff „Software“ vom Begriff „Programm“?**
 ?
 **Software** ist umfassender als **Programm**: Zu Software zählen neben den eigentlichen **Programmen** (Algorithmen in Programmiersprache) auch die zugehörigen **Daten** und **Dokumentationen**. Ohne Daten läuft ein Programm nicht; ohne Dokumentation ist es kaum bedienbar.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 1 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 1](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -67,4 +67,4 @@ tags:
 - **E (Eingänge):** Schalter/Taster (z. B. `I1` Schalter Auto, `I4` Fußgängertaster) oder Netzwerkeingänge
 - **V (Verarbeitung):** Logikbausteine, Zeitglieder und Flip-Flops in der LOGO!
 - **A (Ausgänge):** Leuchten/Aktoren an `Q1–Q4` (Rot, Orange, Grün, Blau) bzw. Netzwerkausgänge
-*Quelle: ITT IT-Technik (2. LJ) · `20261005_145426.pdf` S. 14 (von 18, OCR/Original prüfen) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift|Quellnotiz]]*
+*Quelle: ITT IT-Technik (2. LJ) · [20261005_145426.pdf · S. 14](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf#page=14>) (von 18) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift|Quellnotiz]], OCR/Original prüfen*

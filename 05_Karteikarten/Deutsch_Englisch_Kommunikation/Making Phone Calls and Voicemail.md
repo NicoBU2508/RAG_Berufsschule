@@ -34,7 +34,7 @@ tags:
 ?
 - **Besetzt:** *The line is busy.* / *The line is engaged.*
 - **Verbinden:** *I'll put you through.* / *I'll connect you.*
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 31, 37 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 31, 37](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=31>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -44,7 +44,7 @@ tags:
 - **Anrufer erfragen:** *Who is calling, please?*
 - **Um Warten bitten:** *Hold on, please.* / *Please hold the line.* / *Just a moment, please.*
 - **Buchstabieren / Wiederholen:** *Could you spell your name, please?* / *Could you repeat that, please?*
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 31–32, 34, 37 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 31–32, 34, 37](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=31>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -53,7 +53,7 @@ tags:
 ?
 - **extension number:** interne Durchwahl (Raum- bzw. Büronummer im Unternehmen).
 - **country / area code:** Länder- bzw. Ortsvorwahl.
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 31, 37 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 31, 37](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=31>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -62,7 +62,7 @@ tags:
 ?
 - **Im Auftrag anrufen:** *I'm calling on behalf of ...* (Ich rufe im Auftrag von ... an.)
 - **Anliegen nennen:** *It's about ...* / *I'd like to talk to someone about ...*
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 32–33, 37 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 32–33, 37](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=32>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -71,7 +71,7 @@ tags:
 ?
 - **Nicht erreichbar:** *I'm afraid he/she is not available (at the moment).* / *He/She is on the phone just now.*
 - **Nachricht aufnehmen / weiterleiten:** *Would you like to leave a message?* / *Can I take a message?* / *I'll make sure he/she gets the message.*
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 32, 34, 37 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 32, 34, 37](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=32>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -81,4 +81,4 @@ tags:
 - **Rückruf anbieten:** *Shall I ask him/her to call back?* / *Can I get him/her to return your call?*
 - **Für Rückruf danken:** *Thank you for returning my call.* / *Thank you for calling me back.*
 - **Zeitfrist („spätestens“):** *at the latest* (z. B. *by 12:30 at the latest*).
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 31–33, 37 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 31–33, 37](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=31>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*

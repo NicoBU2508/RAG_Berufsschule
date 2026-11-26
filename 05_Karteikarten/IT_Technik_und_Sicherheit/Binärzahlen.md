@@ -34,7 +34,7 @@ tags:
 ?
 Ein **Bit (b)** ist eine einzelne binäre Stelle (0 oder 1), **4 Bit** ergeben ein **Halbbyte (Nibble)** und **8 Bit** bilden ein **Byte (B)**.
 Zur besseren Lesbarkeit notiert man 8 Bit in zwei 4er-Blöcken (z. B. `1011 0111`).
-*Quelle: ITT IT-Technik (1. LJ) · `Netzwerkt.pdf` S. 3 (von 13), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Netzwerkt.pdf · S. 3](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=3>) (von 13), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Quellnotiz]]*
 
 ---
 
@@ -43,7 +43,7 @@ Zur besseren Lesbarkeit notiert man 8 Bit in zwei 4er-Blöcken (z. B. `1011 0111
 ?
 Die Stellenwerte von rechts nach links verdoppeln sich beginnend bei 1: **1, 2, 4, 8, 16, 32, 64, 128** ($2^0$ bis $2^7$).
 Mit 8 Bit sind **$2^8 = 256$ Kombinationen** möglich; die höchste darstellbare Dezimalzahl ist **255**.
-*Quelle: ITT IT-Technik (1. LJ) · `Netzwerkt.pdf` S. 3 (von 13), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Netzwerkt.pdf · S. 3](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=3>) (von 13), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Quellnotiz]]*
 
 ---
 
@@ -52,7 +52,7 @@ Mit 8 Bit sind **$2^8 = 256$ Kombinationen** möglich; die höchste darstellbare
 ?
 Die **erste Stelle ganz rechts** (Stellenwert $2^0 = 1$) legt fest, ob die Zahl gerade (`0`) oder ungerade (`1`) ist.
 Da im Binärsystem nur die Ziffern `0` und `1` existieren, entsteht bei `1 + 1` ein Übertrag auf die nächste Stelle: **$1 + 1 = 10$**.
-*Quelle: ITT IT-Technik (1. LJ) · `Netzwerkt.pdf` S. 2 (von 13), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Netzwerkt.pdf · S. 2](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2>) (von 13), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Quellnotiz]]*
 
 ---
 
@@ -61,7 +61,7 @@ Da im Binärsystem nur die Ziffern `0` und `1` existieren, entsteht bei `1 + 1` 
 ?
 Ein Bitmuster benötigt einen **Datentyp** (bzw. eine festgelegte Codierung wie ASCII), damit das System weiß, wie es die Bits interpretieren muss.
 Dasselbe Muster `0101 1001` entspricht z. B. als `int` der Zahl **89**, als `char` jedoch dem Zeichen **`'Y'`**.
-*Quelle: ITT IT-Technik (1. LJ) · `Grudausbildumg.pdf` S. 2 (von 16), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 2](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=2>) (von 16), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]]*
 
 ---
 
@@ -70,7 +70,7 @@ Dasselbe Muster `0101 1001` entspricht z. B. als `int` der Zahl **89**, als `cha
 ?
 Man unterteilt die Binärzahl von rechts in **4er-Blöcke** mit den Stellenwerten **8–4–2–1** und übersetzt jeden Block in eine Hex-Ziffer (`0–9`, `A–F` für `10–15`).
 Beispiel: `0001 1011 0110 1110` ergibt `1` (1), `1011` (`8+2+1=11` -> `B`), `0110` (`4+2=6`), `1110` (`8+4+2=14` -> `E`), also **`1B6E`**.
-*Quelle: ITT IT-Technik (1. LJ) · `Grudausbildumg.pdf` S. 4 (von 16), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 4](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=4>) (von 16), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]]*
 
 ---
 
@@ -79,4 +79,4 @@ Beispiel: `0001 1011 0110 1110` ergibt `1` (1), `1011` (`8+2+1=11` -> `B`), `011
 ?
 Eine IPv4-Adresse ist eine **32-stellige Binärzahl**, unterteilt in **4 Oktette zu je 8 Bit** (dezimal je Oktett dargestellt) sowie in Netz- und Hostteil.
 Die **Präfixlänge** gibt die Anzahl der Bits in der Subnetzmaske an, die auf **`1`** gesetzt sind.
-*Quelle: ITT IT-Technik (2. LJ) · `00_IPv4_Wiederholung.pdf` S. 1 (von 13), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung|Quellnotiz]]*
+*Quelle: ITT IT-Technik (2. LJ) · [00_IPv4_Wiederholung.pdf · S. 1](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=1>) (von 13), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung|Quellnotiz]]*

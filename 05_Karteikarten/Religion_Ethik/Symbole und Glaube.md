@@ -28,7 +28,7 @@ tags:
 **Welche Hoheitstitel für Jesus nennt die linke Spalte der Übersicht auf Seite 7 (inkl. Bibelstellen)?**
 ?
 Aufgeführt sind **Sohn Gottes**, **Messias** (Joh 1,41), **Retter**, **König der Juden**, **Erlöser** sowie **Christus** (Mt 16,16).
-*Quelle: Religion (1. LJ) · `Reli Notizen.pdf` S. 7 (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
+*Quelle: Religion (1. LJ) · [Reli Notizen.pdf · S. 7](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=7>) (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
 
 ---
 
@@ -36,7 +36,7 @@ Aufgeführt sind **Sohn Gottes**, **Messias** (Joh 1,41), **Retter**, **König d
 **Welche symbolischen Bilder und Bezeichnungen für Jesus listet die rechte Spalte auf Seite 7 auf?**
 ?
 Genannt werden die Bilder **Lamm Gottes**, **Hirte** (Joh 10,11) und **Weinstock** (Joh 15,1) sowie die Bezeichnungen **Heil**, **Herr** und **Rabbi**.
-*Quelle: Religion (1. LJ) · `Reli Notizen.pdf` S. 7 (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
+*Quelle: Religion (1. LJ) · [Reli Notizen.pdf · S. 7](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=7>) (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
 
 ---
 
@@ -44,7 +44,7 @@ Genannt werden die Bilder **Lamm Gottes**, **Hirte** (Joh 10,11) und **Weinstock
 **Wie lassen sich die Einträge der linken und rechten Spalte zu Jesus auf Seite 7 inhaltlich voneinander abgrenzen?**
 ?
 Die linke Spalte bündelt **messianische und rettungsbezogene Hoheitstitel** (z. B. Messias, Christus, König der Juden, Retter, Erlöser), während die rechte Spalte neben „Herr“ und „Rabbi“ vor allem **anschauliche Bildworte** (Lamm Gottes, Hirte, Weinstock) versammelt.
-*Quelle: Religion (1. LJ) · `Reli Notizen.pdf` S. 7 (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
+*Quelle: Religion (1. LJ) · [Reli Notizen.pdf · S. 7](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=7>) (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
 
 ---
 
@@ -52,4 +52,4 @@ Die linke Spalte bündelt **messianische und rettungsbezogene Hoheitstitel** (z.
 **Mit welchen übergeordneten Themen und Beispielen wird „Symbole und Glaube“ auf Seite 2 verknüpft?**
 ?
 Das Thema steht dort im Verbund mit **Freiheit und Selbstbestimmung** sowie **Religion, Ethik und Menschenbild** und wird durch zeitgeschichtliche Notizen (Weiße Rose, 9/11, Antisemitismus, Religionsfreiheit) ergänzt.
-*Quelle: Religion (1. LJ) · `Reli Notizen.pdf` S. 2 (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
+*Quelle: Religion (1. LJ) · [Reli Notizen.pdf · S. 2](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=2>) (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*

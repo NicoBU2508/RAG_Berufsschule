@@ -5,11 +5,11 @@
   "privacy": "Der private Notenbereich wurde nicht gelesen. Personenbilder in aktiven Quellen wurden aus indexierbaren Seitenblöcken entfernt.",
   "totals": {
     "audited_active_pdfs": 53,
-    "audited_active_pages": 1402,
+    "audited_active_pages": 1403,
     "canonical_topics": 140,
-    "canonical_evidence_pages": 1263,
+    "canonical_evidence_pages": 1136,
     "support_only_pages": 11,
-    "excluded_active_pages": 128,
+    "excluded_active_pages": 256,
     "proven_duplicate_pdfs": 0,
     "proven_duplicate_pages": 0
   },
@@ -116,8 +116,8 @@
       ]
     },
     "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md": {
-      "pages": 61,
-      "canonical_pages": 59,
+      "pages": 62,
+      "canonical_pages": 60,
       "excluded_pages": [
         1,
         2
@@ -153,46 +153,130 @@
     },
     "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block.md": {
       "pages": 48,
-      "canonical_pages": 46,
+      "canonical_pages": 0,
       "excluded_pages": [
         1,
-        2
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
       ],
       "support_only_pages": [
 
       ],
       "topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Operatoren und Bedingungen",
-        "Programm und Software",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ]
     },
     "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block.md": {
       "pages": 56,
-      "canonical_pages": 54,
+      "canonical_pages": 0,
       "excluded_pages": [
         1,
-        2
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
       ],
       "support_only_pages": [
 
       ],
       "topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Operatoren und Bedingungen",
-        "Programm und Software",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ]
     },
     "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md": {
@@ -208,6 +292,7 @@
       "topics": [
         "Arrays und Datenstrukturen",
         "Entwicklungswerkzeuge und Debugging",
+        "Java- und OOP-Grundlagen",
         "Java-Grundlagen",
         "Methoden, Parameter und Rückgabewerte",
         "Objektorientierung",
@@ -216,7 +301,6 @@
         "Programmablaufdarstellungen",
         "Programmiersprachen und Übersetzer",
         "Schleifen",
-        "Unternehmenswiki",
         "Variablen und Datentypen"
       ]
     },
@@ -272,7 +356,7 @@
     },
     "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki.md": {
       "pages": 48,
-      "canonical_pages": 28,
+      "canonical_pages": 0,
       "excluded_pages": [
         1,
         2,
@@ -293,19 +377,41 @@
         17,
         18,
         19,
-        20
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
       ],
       "support_only_pages": [
 
       ],
       "topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Operatoren und Bedingungen",
-        "Programm und Software",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ]
     },
     "02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41.md": {
@@ -1489,6 +1595,7 @@
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=6",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=60",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=61",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=62",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=7"
       ]
     },
@@ -1680,32 +1787,6 @@
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift#page=6",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift#page=7",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift#page=8",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=10",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=11",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=12",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=13",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=14",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=15",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=16",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=4",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=5",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=6",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=7",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=8",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=9",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=10",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=11",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=12",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=13",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=14",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=15",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=16",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=4",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=5",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=6",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=7",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=8",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=9",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=10",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=11",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=12",
@@ -1718,18 +1799,6 @@
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=8",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=9",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824#page=1",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=22",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=23",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=24",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=25",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=26",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=27",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=28",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=29",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=30",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=31",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=32",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=33",
         "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=4",
         "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=6"
       ]
@@ -2040,6 +2109,81 @@
         "02_Faecher/Englisch/Quellen/Englisch#page=8"
       ]
     },
+    "Java- und OOP-Grundlagen": {
+      "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java- und OOP-Grundlagen.md",
+      "category": "Anwendungsentwicklung",
+      "pages": [
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=10",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=11",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=12",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=13",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=14",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=15",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=16",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=17",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=18",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=19",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=20",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=21",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=22",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=23",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=24",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=25",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=26",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=27",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=28",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=29",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=3",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=30",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=31",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=32",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=33",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=34",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=35",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=36",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=37",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=38",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=39",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=4",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=40",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=41",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=42",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=43",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=44",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=45",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=46",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=47",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=48",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=49",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=5",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=50",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=51",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=52",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=53",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=54",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=55",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=56",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=57",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=58",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=59",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=6",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=60",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=61",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=62",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=63",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=64",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=65",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=66",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=67",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=68",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=69",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=7",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=70",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=71",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=8",
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=9"
+      ]
+    },
     "Java-Grundlagen": {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java-Grundlagen.md",
       "category": "Anwendungsentwicklung",
@@ -2054,36 +2198,6 @@
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics#page=2",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics#page=3",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics#page=4",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=10",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=11",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=12",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=13",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=14",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=15",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=16",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=17",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=3",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=4",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=5",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=6",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=7",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=8",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=9",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=10",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=11",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=12",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=13",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=14",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=15",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=16",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=17",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=3",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=4",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=5",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=6",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=7",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=8",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=9",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=10",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=11",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=12",
@@ -2103,22 +2217,7 @@
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824#page=1",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824#page=2",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_AEuP_Stol#page=3",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol#page=1",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=21",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=22",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=23",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=24",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=25",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=26",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=27",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=28",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=29",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=30",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=31",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=32",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=33",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=34",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=35"
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol#page=1"
       ]
     },
     "Jugendarbeitsschutz": {
@@ -2326,24 +2425,6 @@
       "category": "Anwendungsentwicklung",
       "pages": [
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=3",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=40",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=41",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=42",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=43",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=44",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=45",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=46",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=47",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=48",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=40",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=41",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=42",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=43",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=44",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=45",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=46",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=47",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=48",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=39",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=40",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=41",
@@ -2525,36 +2606,6 @@
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=3",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=4",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics#page=4",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=34",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=35",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=36",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=37",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=38",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=39",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=40",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=41",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=42",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=43",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=44",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=45",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=46",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=47",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=48",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=34",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=35",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=36",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=37",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=38",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=39",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=40",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=41",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=42",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=43",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=44",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=45",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=46",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=47",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=48",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=34",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=35",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=36",
@@ -2616,26 +2667,6 @@
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift#page=20",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift#page=26",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics#page=2",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=28",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=30",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=31",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=32",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=33",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=34",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=28",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=30",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=31",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=32",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=33",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=34",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=49",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=50",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=51",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=52",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=53",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=54",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=55",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=56",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=28",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=30",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=31",
@@ -2654,7 +2685,6 @@
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824#page=3",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_AEuP_Stol#page=1",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_AEuP_Stol#page=2",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=46",
         "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT#page=10",
         "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT#page=2",
         "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT#page=9"
@@ -2785,10 +2815,7 @@
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA#page=85",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA#page=86",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA#page=87",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=3",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=3",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=3",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=21"
+        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=3"
       ]
     },
     "Programmablaufdarstellungen": {
@@ -2833,16 +2860,6 @@
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA#page=59",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA#page=60",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA#page=61",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=3",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=4",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=5",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=6",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=7",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=3",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=4",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=5",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=6",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=7",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=3",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=4",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=5",
@@ -2850,11 +2867,6 @@
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=7",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=8",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824#page=1",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=21",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=22",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=23",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=24",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=25",
         "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT#page=8"
       ]
     },
@@ -3515,209 +3527,6 @@
         "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP#page=50"
       ]
     },
-    "Unternehmenswiki": {
-      "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Unternehmenswiki.md",
-      "category": "Anwendungsentwicklung",
-      "pages": [
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=10",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=11",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=12",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=13",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=14",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=15",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=16",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=17",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=18",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=19",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=20",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=21",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=22",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=23",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=24",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=25",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=26",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=27",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=28",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=29",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=3",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=30",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=31",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=32",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=33",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=34",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=35",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=36",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=37",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=38",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=39",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=4",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=40",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=41",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=42",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=43",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=44",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=45",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=46",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=47",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=48",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=5",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=6",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=7",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=8",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=9",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=10",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=11",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=12",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=13",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=14",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=15",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=16",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=17",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=18",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=19",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=20",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=21",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=22",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=23",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=24",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=25",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=26",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=27",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=28",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=29",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=3",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=30",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=31",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=32",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=33",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=34",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=35",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=36",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=37",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=38",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=39",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=4",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=40",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=41",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=42",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=43",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=44",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=45",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=46",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=47",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=48",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=49",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=5",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=50",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=51",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=52",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=53",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=54",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=55",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=56",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=6",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=7",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=8",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=9",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=10",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=11",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=12",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=13",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=14",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=15",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=16",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=17",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=18",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=19",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=20",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=21",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=22",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=23",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=24",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=25",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=26",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=27",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=28",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=29",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=3",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=30",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=31",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=32",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=33",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=34",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=35",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=36",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=37",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=38",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=39",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=4",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=40",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=41",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=42",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=43",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=44",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=45",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=46",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=47",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=48",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=49",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=5",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=50",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=51",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=52",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=53",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=54",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=55",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=56",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=57",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=58",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=59",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=6",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=60",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=61",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=62",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=63",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=64",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=65",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=66",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=67",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=68",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=69",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=7",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=70",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=71",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=8",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=9",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=21",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=22",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=23",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=24",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=25",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=26",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=27",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=28",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=29",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=30",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=31",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=32",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=33",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=34",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=35",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=36",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=37",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=38",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=39",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=40",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=41",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=42",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=43",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=44",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=45",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=46",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=47",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=48"
-      ]
-    },
     "Unternehmensziele": {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Unternehmensziele.md",
       "category": "Wirtschaft_und_Recht",
@@ -3782,38 +3591,6 @@
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift#page=25",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift#page=26",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics#page=2",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=18",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=19",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=20",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=21",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=22",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=23",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=24",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=25",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=26",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=27",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=28",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=29",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=30",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=31",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=32",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=33",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=18",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=19",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=20",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=21",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=22",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=23",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=24",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=25",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=26",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=27",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=28",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=29",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=30",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=31",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=32",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=33",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=18",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=19",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=20",
@@ -3835,19 +3612,6 @@
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824#page=3",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_AEuP_Stol#page=3",
         "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol#page=1",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=36",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=37",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=38",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=39",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=40",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=41",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=42",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=43",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=44",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=45",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=46",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=47",
-        "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=48",
         "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT#page=15",
         "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT#page=2",
         "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT#page=8",
@@ -3977,7 +3741,7 @@
       "canonical_topics": [
         "Programm und Software"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -4052,7 +3816,7 @@
         "Algorithmus",
         "Programmablaufdarstellungen"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -4112,7 +3876,7 @@
         "Operatoren und Bedingungen",
         "Programmablaufdarstellungen"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -4276,7 +4040,7 @@
         "Softwarelebenszyklus und Vorgehensmodelle",
         "Softwarequalität und Wartbarkeit"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -4299,7 +4063,7 @@
       "canonical_topics": [
         "Arrays und Datenstrukturen"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -4363,7 +4127,7 @@
         "Operatoren und Bedingungen",
         "Schleifen"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -4375,7 +4139,7 @@
         "Arrays und Datenstrukturen",
         "Schleifen"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -4516,7 +4280,7 @@
         "Algorithmus",
         "Rekursion und Iteration"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -4702,7 +4466,7 @@
         "Entwicklungswerkzeuge und Debugging",
         "Java-Grundlagen"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -6859,6 +6623,17 @@
       "quote_safe": true
     },
     {
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=62",
+      "status": "evidence",
+      "content_type": "loesung",
+      "primary_topic": "Datenbankmodellierung und ER-Modell",
+      "canonical_topics": [
+        "Datenbankmodellierung und ER-Modell"
+      ],
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
+    },
+    {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics#page=1",
       "status": "excluded",
       "content_type": "fragment",
@@ -6916,7 +6691,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation"
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=2",
@@ -6927,593 +6702,513 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation"
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=3",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Java-Grundlagen",
-        "Programm und Software",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=4",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=5",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=6",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=7",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=8",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=9",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=10",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=11",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=12",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=13",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=14",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=15",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=16",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=17",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=18",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=19",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=20",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=21",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=22",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=23",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=24",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=25",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=26",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=27",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=28",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=29",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=30",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=31",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=32",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=33",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=34",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=35",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=36",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=37",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=38",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=39",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=40",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=41",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=42",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=43",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=44",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=45",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=46",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=47",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block#page=48",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=1",
@@ -7524,7 +7219,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation"
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=2",
@@ -7535,689 +7230,601 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation"
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=3",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Java-Grundlagen",
-        "Programm und Software",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=4",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=5",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=6",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=7",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=8",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=9",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=10",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=11",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=12",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=13",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=14",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=15",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=16",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=17",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=18",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=19",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=20",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=21",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=22",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=23",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=24",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=25",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=26",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=27",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=28",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=29",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=30",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=31",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=32",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=33",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=34",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=35",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=36",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=37",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=38",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=39",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=40",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=41",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=42",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=43",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=44",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=45",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=46",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=47",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=48",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
-        "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=49",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=50",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=51",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=52",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=53",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=54",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=55",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block#page=56",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block#page=1",
@@ -8247,10 +7854,10 @@
       "content_type": "theorie",
       "primary_topic": "Java-Grundlagen",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Java-Grundlagen",
         "Programm und Software",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+        "Programmiersprachen und Übersetzer"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8262,9 +7869,9 @@
       "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
         "Entwicklungswerkzeuge und Debugging",
+        "Java- und OOP-Grundlagen",
         "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+        "Programmiersprachen und Übersetzer"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8276,9 +7883,9 @@
       "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
         "Entwicklungswerkzeuge und Debugging",
+        "Java- und OOP-Grundlagen",
         "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+        "Programmiersprachen und Übersetzer"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8290,9 +7897,9 @@
       "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
         "Entwicklungswerkzeuge und Debugging",
+        "Java- und OOP-Grundlagen",
         "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+        "Programmiersprachen und Übersetzer"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8303,9 +7910,9 @@
       "content_type": "theorie",
       "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+        "Programmiersprachen und Übersetzer"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8317,9 +7924,9 @@
       "primary_topic": "Java-Grundlagen",
       "canonical_topics": [
         "Entwicklungswerkzeuge und Debugging",
+        "Java- und OOP-Grundlagen",
         "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+        "Programmiersprachen und Übersetzer"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8331,8 +7938,8 @@
       "primary_topic": "Java-Grundlagen",
       "canonical_topics": [
         "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Java-Grundlagen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8344,8 +7951,8 @@
       "primary_topic": "Java-Grundlagen",
       "canonical_topics": [
         "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Java-Grundlagen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8357,8 +7964,8 @@
       "primary_topic": "Java-Grundlagen",
       "canonical_topics": [
         "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Java-Grundlagen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8370,8 +7977,8 @@
       "primary_topic": "Java-Grundlagen",
       "canonical_topics": [
         "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Java-Grundlagen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8383,8 +7990,8 @@
       "primary_topic": "Java-Grundlagen",
       "canonical_topics": [
         "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Java-Grundlagen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8396,8 +8003,8 @@
       "primary_topic": "Java-Grundlagen",
       "canonical_topics": [
         "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Java-Grundlagen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8409,8 +8016,8 @@
       "primary_topic": "Java-Grundlagen",
       "canonical_topics": [
         "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Java-Grundlagen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8421,8 +8028,8 @@
       "content_type": "theorie",
       "primary_topic": "Java-Grundlagen",
       "canonical_topics": [
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Java-Grundlagen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8433,8 +8040,8 @@
       "content_type": "theorie",
       "primary_topic": "Java-Grundlagen",
       "canonical_topics": [
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Java-Grundlagen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8445,8 +8052,8 @@
       "content_type": "theorie",
       "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Java-Grundlagen",
-        "Unternehmenswiki",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8458,7 +8065,7 @@
       "content_type": "theorie",
       "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
+        "Java- und OOP-Grundlagen",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8470,7 +8077,7 @@
       "content_type": "theorie",
       "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
+        "Java- und OOP-Grundlagen",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8482,7 +8089,7 @@
       "content_type": "theorie",
       "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
+        "Java- und OOP-Grundlagen",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8494,7 +8101,7 @@
       "content_type": "theorie",
       "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
+        "Java- und OOP-Grundlagen",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8506,7 +8113,7 @@
       "content_type": "theorie",
       "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
+        "Java- und OOP-Grundlagen",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8518,7 +8125,7 @@
       "content_type": "theorie",
       "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
+        "Java- und OOP-Grundlagen",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8530,7 +8137,7 @@
       "content_type": "theorie",
       "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
+        "Java- und OOP-Grundlagen",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8542,7 +8149,7 @@
       "content_type": "theorie",
       "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
+        "Java- und OOP-Grundlagen",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8554,7 +8161,7 @@
       "content_type": "theorie",
       "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
+        "Java- und OOP-Grundlagen",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8566,8 +8173,8 @@
       "content_type": "theorie",
       "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Operatoren und Bedingungen",
-        "Unternehmenswiki",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8579,7 +8186,7 @@
       "content_type": "theorie",
       "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
+        "Java- und OOP-Grundlagen",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8591,8 +8198,8 @@
       "content_type": "theorie",
       "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Operatoren und Bedingungen",
-        "Unternehmenswiki",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8604,8 +8211,8 @@
       "content_type": "theorie",
       "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Operatoren und Bedingungen",
-        "Unternehmenswiki",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8617,8 +8224,8 @@
       "content_type": "theorie",
       "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Operatoren und Bedingungen",
-        "Unternehmenswiki",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8630,8 +8237,8 @@
       "content_type": "theorie",
       "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Operatoren und Bedingungen",
-        "Unternehmenswiki",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -8643,9 +8250,9 @@
       "content_type": "theorie",
       "primary_topic": "Objektorientierung",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Objektorientierung",
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+        "Operatoren und Bedingungen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8656,8 +8263,8 @@
       "content_type": "theorie",
       "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Objektorientierung"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8668,8 +8275,8 @@
       "content_type": "theorie",
       "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Objektorientierung"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8680,8 +8287,8 @@
       "content_type": "theorie",
       "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Objektorientierung"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8692,8 +8299,8 @@
       "content_type": "theorie",
       "primary_topic": "Objektorientierung",
       "canonical_topics": [
-        "Objektorientierung",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Objektorientierung"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8704,9 +8311,9 @@
       "content_type": "theorie",
       "primary_topic": "Objektorientierung",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+        "Objektorientierung"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8717,9 +8324,9 @@
       "content_type": "theorie",
       "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+        "Objektorientierung"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8730,9 +8337,9 @@
       "content_type": "theorie",
       "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+        "Objektorientierung"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8743,9 +8350,9 @@
       "content_type": "theorie",
       "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+        "Objektorientierung"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8756,9 +8363,9 @@
       "content_type": "theorie",
       "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+        "Objektorientierung"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8769,9 +8376,9 @@
       "content_type": "theorie",
       "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+        "Objektorientierung"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8782,9 +8389,9 @@
       "content_type": "theorie",
       "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+        "Objektorientierung"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8795,9 +8402,9 @@
       "content_type": "theorie",
       "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+        "Objektorientierung"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8808,9 +8415,9 @@
       "content_type": "theorie",
       "primary_topic": "Methoden, Parameter und Rückgabewerte",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Methoden, Parameter und Rückgabewerte",
-        "Objektorientierung",
-        "Unternehmenswiki"
+        "Objektorientierung"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8821,9 +8428,9 @@
       "content_type": "theorie",
       "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Methoden, Parameter und Rückgabewerte",
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+        "Operatoren und Bedingungen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8834,9 +8441,9 @@
       "content_type": "theorie",
       "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Operatoren und Bedingungen",
-        "Programmablaufdarstellungen",
-        "Unternehmenswiki"
+        "Programmablaufdarstellungen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8847,8 +8454,8 @@
       "content_type": "theorie",
       "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Operatoren und Bedingungen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8859,8 +8466,8 @@
       "content_type": "theorie",
       "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Operatoren und Bedingungen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8871,8 +8478,8 @@
       "content_type": "theorie",
       "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Operatoren und Bedingungen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8883,8 +8490,8 @@
       "content_type": "theorie",
       "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Operatoren und Bedingungen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8895,8 +8502,8 @@
       "content_type": "theorie",
       "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Operatoren und Bedingungen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8907,8 +8514,8 @@
       "content_type": "theorie",
       "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Operatoren und Bedingungen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8919,9 +8526,9 @@
       "content_type": "theorie",
       "primary_topic": "Schleifen",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Operatoren und Bedingungen",
-        "Schleifen",
-        "Unternehmenswiki"
+        "Schleifen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8932,8 +8539,8 @@
       "content_type": "theorie",
       "primary_topic": "Schleifen",
       "canonical_topics": [
-        "Schleifen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Schleifen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8944,9 +8551,9 @@
       "content_type": "theorie",
       "primary_topic": "Schleifen",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Programmablaufdarstellungen",
-        "Schleifen",
-        "Unternehmenswiki"
+        "Schleifen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8957,9 +8564,9 @@
       "content_type": "theorie",
       "primary_topic": "Schleifen",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Programmablaufdarstellungen",
-        "Schleifen",
-        "Unternehmenswiki"
+        "Schleifen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8970,8 +8577,8 @@
       "content_type": "theorie",
       "primary_topic": "Schleifen",
       "canonical_topics": [
-        "Schleifen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Schleifen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8982,9 +8589,9 @@
       "content_type": "theorie",
       "primary_topic": "Schleifen",
       "canonical_topics": [
+        "Java- und OOP-Grundlagen",
         "Programmablaufdarstellungen",
-        "Schleifen",
-        "Unternehmenswiki"
+        "Schleifen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -8996,8 +8603,8 @@
       "primary_topic": "Arrays und Datenstrukturen",
       "canonical_topics": [
         "Arrays und Datenstrukturen",
-        "Schleifen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Schleifen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -9009,7 +8616,7 @@
       "primary_topic": "Arrays und Datenstrukturen",
       "canonical_topics": [
         "Arrays und Datenstrukturen",
-        "Unternehmenswiki",
+        "Java- und OOP-Grundlagen",
         "Variablen und Datentypen"
       ],
       "source_text_status": "ok",
@@ -9022,7 +8629,7 @@
       "primary_topic": "Arrays und Datenstrukturen",
       "canonical_topics": [
         "Arrays und Datenstrukturen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -9034,7 +8641,7 @@
       "primary_topic": "Arrays und Datenstrukturen",
       "canonical_topics": [
         "Arrays und Datenstrukturen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -9046,7 +8653,7 @@
       "primary_topic": "Arrays und Datenstrukturen",
       "canonical_topics": [
         "Arrays und Datenstrukturen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -9058,7 +8665,7 @@
       "primary_topic": "Arrays und Datenstrukturen",
       "canonical_topics": [
         "Arrays und Datenstrukturen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -9070,7 +8677,7 @@
       "primary_topic": "Arrays und Datenstrukturen",
       "canonical_topics": [
         "Arrays und Datenstrukturen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -9082,8 +8689,8 @@
       "primary_topic": "Arrays und Datenstrukturen",
       "canonical_topics": [
         "Arrays und Datenstrukturen",
-        "Schleifen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Schleifen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -9095,8 +8702,8 @@
       "primary_topic": "Arrays und Datenstrukturen",
       "canonical_topics": [
         "Arrays und Datenstrukturen",
-        "Schleifen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Schleifen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -9108,8 +8715,8 @@
       "primary_topic": "Arrays und Datenstrukturen",
       "canonical_topics": [
         "Arrays und Datenstrukturen",
-        "Schleifen",
-        "Unternehmenswiki"
+        "Java- und OOP-Grundlagen",
+        "Schleifen"
       ],
       "source_text_status": "ok",
       "quote_safe": true
@@ -9301,7 +8908,7 @@
       ],
       "source_text_status": "missing",
       "quote_safe": false,
-      "exclusion_reason": "Personenbezogenes oder persönliches Bild/Fragment ohne Lernbezug"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=2",
@@ -9312,7 +8919,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Visuell leere Seite ohne Lerninhalt"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=3",
@@ -9323,7 +8930,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=4",
@@ -9334,7 +8941,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=5",
@@ -9345,7 +8952,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=6",
@@ -9356,7 +8963,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=7",
@@ -9367,7 +8974,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=8",
@@ -9378,7 +8985,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=9",
@@ -9389,7 +8996,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=10",
@@ -9400,7 +9007,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=11",
@@ -9411,7 +9018,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=12",
@@ -9422,7 +9029,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=13",
@@ -9433,7 +9040,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=14",
@@ -9444,7 +9051,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=15",
@@ -9455,7 +9062,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=16",
@@ -9466,7 +9073,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=17",
@@ -9477,7 +9084,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=18",
@@ -9488,7 +9095,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=19",
@@ -9499,7 +9106,7 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=20",
@@ -9510,362 +9117,315 @@
       ],
       "source_text_status": "ok",
       "quote_safe": false,
-      "exclusion_reason": "Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation"
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=21",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Java-Grundlagen",
-        "Programm und Software",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=22",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=23",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=24",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=25",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Programmiersprachen und Übersetzer",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=26",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=27",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=28",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=29",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=30",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=31",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=32",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=33",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "beispiel",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Entwicklungswerkzeuge und Debugging",
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=34",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=35",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Java Grundlagen",
       "canonical_topics": [
-        "Java-Grundlagen",
-        "Unternehmenswiki"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=36",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=37",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=38",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=39",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=40",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=41",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=42",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=43",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=44",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=45",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=46",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Operatoren und Bedingungen",
       "canonical_topics": [
-        "Operatoren und Bedingungen",
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=47",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=48",
-      "status": "evidence",
+      "status": "excluded",
       "content_type": "theorie",
-      "primary_topic": "Variablen und Datentypen",
       "canonical_topics": [
-        "Unternehmenswiki",
-        "Variablen und Datentypen"
+
       ],
       "source_text_status": "ok",
-      "quote_safe": true
+      "quote_safe": false,
+      "exclusion_reason": "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
     },
     {
       "id": "02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41#page=1",
@@ -9875,7 +9435,7 @@
       "canonical_topics": [
         "Sicherheitsmanagement und ISMS"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -9899,7 +9459,7 @@
         "Hochverfügbarkeit und Redundanz",
         "Malware und Angriffe"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -11695,23 +11255,23 @@
       "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=42",
       "status": "evidence",
       "content_type": "aufgabe",
-      "primary_topic": "Netzplantechnik",
+      "primary_topic": "Projektplanung und Netzplanmethode",
       "canonical_topics": [
         "Projektplanung und Netzplanmethode"
       ],
-      "source_text_status": "ok",
-      "quote_safe": true
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
     },
     {
       "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=43",
       "status": "evidence",
       "content_type": "loesung",
-      "primary_topic": "Netzplantechnik",
+      "primary_topic": "Projektplanung und Netzplanmethode",
       "canonical_topics": [
         "Projektplanung und Netzplanmethode"
       ],
-      "source_text_status": "ok",
-      "quote_safe": true
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
     },
     {
       "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=44",
@@ -15348,7 +14908,7 @@
         "Datenschutz und Rollen",
         "Kryptografie, Hash und Signatur"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -15360,18 +14920,18 @@
         "Datenschutz und Rollen",
         "Kryptografie, Hash und Signatur"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=15",
       "status": "evidence",
       "content_type": "loesung",
-      "primary_topic": "Schutzziele und Schutzbedarfsfeststellung",
+      "primary_topic": "Schutzbedarfsfeststellung",
       "canonical_topics": [
         "Schutzbedarfsfeststellung"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17022,7 +16582,7 @@
       "canonical_topics": [
         "Elektrotechnik-Rechenmethoden"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17033,7 +16593,7 @@
       "canonical_topics": [
         "Elektrotechnik-Rechenmethoden"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17044,7 +16604,7 @@
       "canonical_topics": [
         "Elektrotechnik-Rechenmethoden"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17055,7 +16615,7 @@
       "canonical_topics": [
         "Elektrotechnik-Rechenmethoden"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17066,7 +16626,7 @@
       "canonical_topics": [
         "Elektrotechnik-Rechenmethoden"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17077,7 +16637,7 @@
       "canonical_topics": [
         "Elektrotechnik-Rechenmethoden"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17099,7 +16659,7 @@
       "canonical_topics": [
         "Elektrotechnik-Rechenmethoden"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17110,7 +16670,7 @@
       "canonical_topics": [
         "Elektrotechnik-Rechenmethoden"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17121,7 +16681,7 @@
       "canonical_topics": [
         "Elektrotechnik-Rechenmethoden"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17132,7 +16692,7 @@
       "canonical_topics": [
         "Elektrische Ladung"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17143,7 +16703,7 @@
       "canonical_topics": [
         "Elektrische Ladung"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17154,7 +16714,7 @@
       "canonical_topics": [
         "Elektrische Ladung"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17220,7 +16780,7 @@
       "canonical_topics": [
         "Elektrischer Strom und Messtechnik"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17231,7 +16791,7 @@
       "canonical_topics": [
         "Elektrischer Strom und Messtechnik"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17242,7 +16802,7 @@
       "canonical_topics": [
         "Elektrischer Strom und Messtechnik"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17253,7 +16813,7 @@
       "canonical_topics": [
         "Netzteil"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17264,7 +16824,7 @@
       "canonical_topics": [
         "Netzteil"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17275,7 +16835,7 @@
       "canonical_topics": [
         "Netzteil"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17286,7 +16846,7 @@
       "canonical_topics": [
         "Netzteil"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17297,7 +16857,7 @@
       "canonical_topics": [
         "Elektrischer Strom und Messtechnik"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17308,7 +16868,7 @@
       "canonical_topics": [
         "Elektrischer Strom und Messtechnik"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17497,7 +17057,7 @@
         "Elektrische Ladung",
         "Elektrische Leistung"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17510,7 +17070,7 @@
         "Elektrische Ladung",
         "Elektrische Leistung"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17523,7 +17083,7 @@
         "Elektrische Ladung",
         "Elektrische Leistung"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17571,7 +17131,7 @@
         "Netzteil",
         "Spannung, Strom und Widerstand"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17583,7 +17143,7 @@
         "Netzteil",
         "Spannung, Strom und Widerstand"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17880,7 +17440,7 @@
       "canonical_topics": [
         "Gefahren des elektrischen Stroms"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17891,7 +17451,7 @@
       "canonical_topics": [
         "Gefahren des elektrischen Stroms"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17902,7 +17462,7 @@
       "canonical_topics": [
         "Gefahren des elektrischen Stroms"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17913,7 +17473,7 @@
       "canonical_topics": [
         "Gefahren des elektrischen Stroms"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17924,7 +17484,7 @@
       "canonical_topics": [
         "Gefahren des elektrischen Stroms"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17935,7 +17495,7 @@
       "canonical_topics": [
         "Gefahren des elektrischen Stroms"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17946,7 +17506,7 @@
       "canonical_topics": [
         "Gefahren des elektrischen Stroms"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17957,7 +17517,7 @@
       "canonical_topics": [
         "Gefahren des elektrischen Stroms"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17968,7 +17528,7 @@
       "canonical_topics": [
         "Gefahren des elektrischen Stroms"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17979,7 +17539,7 @@
       "canonical_topics": [
         "Gefahren des elektrischen Stroms"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17990,7 +17550,7 @@
       "canonical_topics": [
         "Elektrische Sicherheit und Erste Hilfe"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -18001,7 +17561,7 @@
       "canonical_topics": [
         "Elektrische Sicherheit und Erste Hilfe"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -18012,7 +17572,7 @@
       "canonical_topics": [
         "Elektrische Sicherheit und Erste Hilfe"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -18158,7 +17718,7 @@
       "canonical_topics": [
         "Elektrotechnik-Rechenmethoden"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -18169,7 +17729,7 @@
       "canonical_topics": [
         "Netzteil"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -20034,7 +19594,7 @@
         "Freiheit und Selbstbestimmung",
         "Gewissen und Verantwortung"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -20046,29 +19606,29 @@
         "Freiheit und Selbstbestimmung",
         "Gewissen und Verantwortung"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
       "id": "02_Faecher/Religion/Quellen/Reli_Notizen#page=5",
       "status": "evidence",
       "content_type": "aufgabe",
-      "primary_topic": "Nelson Mandela – Referatsauftrag",
+      "primary_topic": "Nelson Mandela und Vorbilder",
       "canonical_topics": [
         "Nelson Mandela und Vorbilder"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
       "id": "02_Faecher/Religion/Quellen/Reli_Notizen#page=6",
       "status": "evidence",
       "content_type": "loesung",
-      "primary_topic": "Karwoche, Ostern und Kirchenjahr",
+      "primary_topic": "Karwoche und Kirchenjahr",
       "canonical_topics": [
         "Karwoche und Kirchenjahr"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -20102,7 +19662,7 @@
         "Elektrotechnik-Rechenmethoden",
         "SI-Vorsätze und Einheitenumrechnung"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -20114,7 +19674,7 @@
         "Elektrotechnik-Rechenmethoden",
         "SI-Vorsätze und Einheitenumrechnung"
       ],
-      "source_text_status": "ocr_error",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -20126,7 +19686,7 @@
         "Elektrotechnik-Rechenmethoden",
         "SI-Vorsätze und Einheitenumrechnung"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     }
   ]

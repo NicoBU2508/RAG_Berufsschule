@@ -29,7 +29,7 @@ tags:
 ?
 Die lineare Suche geht ein Array mit $n$ Elementen Element für Element durch und vergleicht, bis das gesuchte Element (z. B. ein konkreter Wert oder das Maximum) gefunden ist.
 Im besten Fall steht der Treffer an erster, im ungünstigsten Fall an letzter Stelle; der Suchaufwand steigt mit der Anzahl der Elemente.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 44 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 44](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -38,7 +38,7 @@ Im besten Fall steht der Treffer an erster, im ungünstigsten Fall an letzter St
 ?
 Zuerst wird das mittlere Element mit dem gesuchten Wert verglichen: Ist es größer, wird nur in der unteren Hälfte weitergesucht; ist es kleiner, nur in der oberen Hälfte.
 Die zu prüfende Elementmenge halbiert sich in jedem Schritt, bis das Element gefunden wurde oder nur noch ein Element übrig bleibt (Treffer oder nicht im Array enthalten).
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 44 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 44](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -47,7 +47,7 @@ Die zu prüfende Elementmenge halbiert sich in jedem Schritt, bis das Element ge
 ?
 Die binäre Suche setzt zwingend ein bereits geordnetes (nach Größe der Elemente sortiertes) Array voraus und ist dann deutlich effizienter als die lineare Suche.
 Bei unsortierten Arrays kann sie nicht angewendet werden; dort nutzt man die lineare Suche.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 44 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 44](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -56,4 +56,4 @@ Bei unsortierten Arrays kann sie nicht angewendet werden; dort nutzt man die lin
 ?
 Bei nullindizierten Feldern startet der Index bei `0` (`feld[0] = 10`, `feld[1] = 11`, `feld[2] = 12`, `feld[3] = 15`).
 Der ausgegebene Index `max = 3` entspricht daher dem vierten Feldelement – eine typische Stolperstelle beim Schreibtischtest.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 45 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 45](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=45>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*

@@ -34,7 +34,7 @@ tags:
 ?
 - **Formell:** *Dear Mr/Ms ...* oder *Dear Sir or Madam* · Einstieg: *I am writing to ...* · Schluss: *Best regards* / *Regards*
 - **Informell:** *Dear \<Vorname\>* · Einstieg: *This is just a quick email to ...* · Schluss: *Best* / *All the best* / *Best wishes*
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 24 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 24](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -43,7 +43,7 @@ tags:
 ?
 - **Bestellung & Rabatt:** *I would like to order ..., please.* / *place a trial order* (Probebestellung) / *I can offer you a discount of ... % if you order ...*
 - **Bestand & Bestätigung:** *I'm afraid we don't have those in stock at the moment.* / *I'll confirm the order in writing / in an email.*
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 24, 28 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 24, 28](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -54,7 +54,7 @@ tags:
 - *invoice* → Rechnung (im Bestell-/B2B-Kontext)
 - *to quote* → ein Angebot / einen Preis nennen
 - *to settle* → eine Rechnung begleichen bzw. eine Angelegenheit klären (*settle the bill*)
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 24–26 (von 49), OCR/Original prüfen · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 24–26](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24>) (von 49), OCR/Original prüfen · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -63,7 +63,7 @@ tags:
 ?
 - **Reklamation:** *There should have been ... items, but we only received ...* / *Unfortunately the invoice didn't state the prices we agreed on.*
 - **Reaktion/Entschädigung:** *I apologize for the errors.* / *I will send the missing items immediately.* / *To make up for any inconvenience, I have sent ... free of charge / at no extra cost.*
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 24 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 24](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -73,7 +73,7 @@ tags:
 - **to amend:** eine Rechnung oder Bestellung ändern bzw. korrigieren (*I have amended the invoice*).
 - **to waive / to forgo:** auf eine Gebühr oder Forderung verzichten (*waive the delivery charge*).
 - **Merke:** *forgo* bedeutet „verzichten auf“ (nicht „vorausgehen“).
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 25–26 (von 49), OCR/Original prüfen · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 25–26](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=25>) (von 49), OCR/Original prüfen · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -82,4 +82,4 @@ tags:
 ?
 - `@` = **at** · `.` = **dot** · `-` = **hyphen** · `_` = **underscore** · `+` = **plus**
 - In E-Mail-Betreffzeilen (*subject lines*) formuliert man zudem den konkreten Zweck knapp und eindeutig (z. B. Terminänderung oder Informationsanfrage).
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 29–30 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 29–30](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*

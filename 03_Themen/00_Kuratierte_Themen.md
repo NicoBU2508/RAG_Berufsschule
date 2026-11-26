@@ -29,6 +29,7 @@ Dieser Index enthält **140 kanonische Themen**. Jede Zuordnung beruht auf der S
 - [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenherkunft und Informationsbeschaffung|Datenherkunft und Informationsbeschaffung]]
 - [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/EVA-Prinzip|EVA-Prinzip]]
 - [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Entwicklungswerkzeuge und Debugging|Entwicklungswerkzeuge und Debugging]]
+- [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java- und OOP-Grundlagen|Java- und OOP-Grundlagen]]
 - [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java-Grundlagen|Java-Grundlagen]]
 - [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Methoden Parameter und Rückgabewerte|Methoden, Parameter und Rückgabewerte]]
 - [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Objektorientierung|Objektorientierung]]
@@ -49,7 +50,6 @@ Dieser Index enthält **140 kanonische Themen**. Jede Zuordnung beruht auf der S
 - [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwaretest und Testverfahren|Softwaretest und Testverfahren]]
 - [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Suchalgorithmen|Suchalgorithmen]]
 - [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/UML-Diagramme|UML-Diagramme]]
-- [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Unternehmenswiki|Unternehmenswiki]]
 - [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Variablen und Datentypen|Variablen und Datentypen]]
 
 ## Deutsch Englisch Kommunikation

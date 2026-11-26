@@ -14,6 +14,7 @@
     "[[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenherkunft und Informationsbeschaffung]]",
     "[[03_Themen/Visuell_geprueft/Anwendungsentwicklung/EVA-Prinzip]]",
     "[[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Entwicklungswerkzeuge und Debugging]]",
+    "[[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java- und OOP-Grundlagen]]",
     "[[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java-Grundlagen]]",
     "[[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Methoden Parameter und Rückgabewerte]]",
     "[[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Objektorientierung]]",
@@ -34,7 +35,6 @@
     "[[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwaretest und Testverfahren]]",
     "[[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Suchalgorithmen]]",
     "[[03_Themen/Visuell_geprueft/Anwendungsentwicklung/UML-Diagramme]]",
-    "[[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Unternehmenswiki]]",
     "[[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Variablen und Datentypen]]",
     "[[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Applying for a Position]]",
     "[[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Arbeitszeugnis]]",
@@ -153,13 +153,10 @@
     "[[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift]]",
     "[[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript]]",
     "[[02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics]]",
-    "[[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block]]",
-    "[[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block]]",
     "[[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block]]",
     "[[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824]]",
     "[[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_AEuP_Stol]]",
     "[[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol]]",
-    "[[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki]]",
     "[[02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41]]",
     "[[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP]]",
     "[[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift]]",
@@ -196,6 +193,6 @@
     "[[02_Faecher/Religion/Quellen/Reli_Notizen]]",
     "[[02_Faecher/Vertretung/Quellen/Untitled]]"
   ],
-  "count": 192,
-  "sha256": "ad68e1d3f26454875ac52b61fea224e816d728a46889938c8a9eb782d02c424d"
+  "count": 189,
+  "sha256": "a72b3f8998046ee7b861713062bf72710065c7f3ce06181136f57d16bb9526cf"
 }

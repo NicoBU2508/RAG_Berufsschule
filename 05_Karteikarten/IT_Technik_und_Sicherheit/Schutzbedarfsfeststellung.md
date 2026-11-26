@@ -36,7 +36,7 @@ tags:
 - **Vertraulichkeit**: vertrauliche Informationen werden unberechtigt zur Kenntnis genommen oder weitergegeben.
 - **Integrität**: Korrektheit der Informationen und Funktionsweise von Systemen ist nicht mehr gegeben.
 - **Verfügbarkeit**: autorisierte Benutzer werden am Zugriff auf Informationen und Systeme behindert.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 17 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 17](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -46,7 +46,7 @@ tags:
 - **normal**: Die Schadensauswirkungen sind begrenzt und überschaubar.
 - **hoch**: Die Schadensauswirkungen können beträchtlich sein.
 - **sehr hoch**: Die Schadensauswirkungen können ein existentiell bedrohliches, katastrophales Ausmaß erreichen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 17 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 17](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -56,7 +56,7 @@ tags:
 1. Verstöße gegen Gesetze, Vorschriften oder Verträge sowie Beeinträchtigungen des informationellen Selbstbestimmungsrechts.
 2. Beeinträchtigungen der persönlichen Unversehrtheit oder der Aufgabenerfüllung.
 3. Negative Innen- oder Außenwirkung (Image-Schaden) sowie finanzielle Auswirkungen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 17 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 17](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -66,7 +66,7 @@ tags:
 - **Maximumprinzip**: Der höchste Schutzbedarf aller darauf laufenden Anwendungen wird übernommen.
 - **Kumulationseffekt**: Mehrere Einzelschäden (z. B. gleichzeitiger Ausfall normaler Anwendungen auf einem Server) addieren sich zu einem höheren Gesamtschaden.
 - **Verteilungseffekt**: Der Schutzbedarf sinkt, wenn eine Anwendung verteilt ist und auf dem System nur weniger kritische Teile oder redundante Ausweichsysteme laufen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 17 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 17](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=17>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -75,7 +75,7 @@ tags:
 ?
 1. Wenn das IT-System nur weniger wichtige Teile einer Anwendung bedient (z. B. bei verteilter Architektur oder nur pseudonymisierten Daten).
 2. Wenn mindestens ein weiteres **redundantes IT-System** in Betrieb ist, das die Anwendung innerhalb kurzer Zeit bereitstellen kann (**Verteilungseffekt**).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 23 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 23](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=23>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -84,7 +84,7 @@ tags:
 ?
 Durch den **Kumulationseffekt**: Fällt ein Server aus, übernimmt der zweite – fällt jedoch der gesamte Raum aus (z. B. durch einen Brand), sind **beide** Server gleichzeitig betroffen.
 Werden die gespiegelten Server auf unterschiedliche Räume oder Gebäude verteilt, tritt dieser Effekt nicht auf.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 22 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 22](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=22>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -94,4 +94,4 @@ Werden die gespiegelten Server auf unterschiedliche Räume oder Gebäude verteil
 1. Verbindungen, die aus der Institution in ein **öffentliches Netz** (z. B. Internet) oder über öffentliches Gelände reichen.
 2. Verbindungen, über die **besonders schützenswerte Informationen** übertragen werden (Gefahr von Abhören, Manipulation, Ausfall).
 3. Verbindungen, über die **vertrauliche Informationen nicht übertragen werden dürfen** (Schutz vor Einsicht durch Unbefugte).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 22 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 22](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=22>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*

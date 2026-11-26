@@ -40,7 +40,7 @@ tags:
 **Was versteht man unter dem Gewissen und welche drei Aufgaben erfüllt es?**
 ?
 Das Gewissen ist der **innere moralische Kompass**, der zeigt, was gut oder schlecht ist, und bei verantwortungsvollen Entscheidungen unterstützt. Es **warnt** vor falschem Handeln, **meldet sich** danach als schlechtes Gewissen und **bestätigt** uns, wenn wir etwas Richtiges tun.
-*Quelle: Religion (2. LJ) · `01_Skript_Gewissen.pdf` S. 7 (von 14) · [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Quellnotiz]], OCR/Original prüfen*
+*Quelle: Religion (2. LJ) · [01_Skript_Gewissen.pdf · S. 7](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=7>) (von 14) · [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -48,7 +48,7 @@ Das Gewissen ist der **innere moralische Kompass**, der zeigt, was gut oder schl
 **Wie grenzt Erich Fromm das kindliche Gehorsamsgewissen vom mündigen Gewissen ab?**
 ?
 Das **kindliche Gehorsamsgewissen** entwickelt sich durch Gebote und Verbote der Eltern und handelt, um anderen zu gefallen. Das **mündige Gewissen** basiert dagegen auf eigenen, freien Ansichten sowie selbst gewählten Grundsätzen und Normen.
-*Quelle: Religion (2. LJ) · `01_Skript_Gewissen.pdf` S. 5 (von 14) · [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Quellnotiz]], OCR/Original prüfen*
+*Quelle: Religion (2. LJ) · [01_Skript_Gewissen.pdf · S. 5](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=5>) (von 14) · [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -56,7 +56,7 @@ Das **kindliche Gehorsamsgewissen** entwickelt sich durch Gebote und Verbote der
 **Welche drei Bereiche der Seele unterscheidet Sigmund Freud und welchem ordnet das Skript das Gewissen zu?**
 ?
 Freud unterscheidet das **Über-Ich** (anerzogene, nicht hinterfragte Kindheitsnormen), das **Es** (natürliche Triebe) und das **Ich** (eigene Definition gesunder Menschen, woraus Schuldgefühle entstehen). Laut Skript gehört das Gewissen zum **Ich**.
-*Quelle: Religion (2. LJ) · `01_Skript_Gewissen.pdf` S. 6 (von 14) · [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Quellnotiz]], OCR/Original prüfen*
+*Quelle: Religion (2. LJ) · [01_Skript_Gewissen.pdf · S. 6](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=6>) (von 14) · [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -64,7 +64,7 @@ Freud unterscheidet das **Über-Ich** (anerzogene, nicht hinterfragte Kindheitsn
 **Wodurch entwickelt sich das Gewissen und welche Faktoren können es im Alltag beeinflussen?**
 ?
 Die Entwicklung erfolgt über **Eigeninteressen/Erfahrungen**, **Erziehung**, **Freunde** und die **Gesellschaft** (Normen/Werte). Beeinflusst wird das Gewissen sowohl durch **Vorbilder** als auch durch **Gruppenzwang**, **Egoismus** und **Hass**.
-*Quelle: Religion (2. LJ) · `01_Skript_Gewissen.pdf` S. 7 (von 14) · [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Quellnotiz]], OCR/Original prüfen*
+*Quelle: Religion (2. LJ) · [01_Skript_Gewissen.pdf · S. 7](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=7>) (von 14) · [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -72,7 +72,7 @@ Die Entwicklung erfolgt über **Eigeninteressen/Erfahrungen**, **Erziehung**, **
 **Wann entsteht Schuld und welche drei Bedeutungsaspekte stecken laut Skript dahinter?**
 ?
 Schuld entsteht, wenn individuelle, objektive oder kollektive Werte und Normen absichtlich oder unabsichtlich überschritten werden. Sie umfasst drei Aspekte: **Urheberschaft**, **Pflicht zur Wiedergutmachung** (individuell/gesellschaftlich) und **Beeinträchtigung eines anderen**.
-*Quelle: Religion (2. LJ) · `01_Skript_Gewissen.pdf` S. 10 (von 14) · [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Quellnotiz]], OCR/Original prüfen*
+*Quelle: Religion (2. LJ) · [01_Skript_Gewissen.pdf · S. 10](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=10>) (von 14) · [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -81,7 +81,7 @@ Schuld entsteht, wenn individuelle, objektive oder kollektive Werte und Normen a
 ?
 1. **Kriminelle Schuld:** Bruch von Gesetzen. 2. **Moralische Schuld:** Verletzung eigener innerer Überzeugungen.
 3. **Politische Schuld:** Mitverantwortung der Bürger beim Zulassen eines Unrechtsstaates. 4. **Metaphysische Schuld:** Grundlegende Verantwortung jedes Menschen für Schicksal und Leid anderer.
-*Quelle: Religion (2. LJ) · `01_Skript_Gewissen.pdf` S. 10 (von 14) · [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Quellnotiz]], OCR/Original prüfen*
+*Quelle: Religion (2. LJ) · [01_Skript_Gewissen.pdf · S. 10](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=10>) (von 14) · [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -89,4 +89,4 @@ Schuld entsteht, wenn individuelle, objektive oder kollektive Werte und Normen a
 **Ist ein Verstoß gegen geltende Gesetze oder Regeln ethisch immer eindeutig als Schuld zu werten?**
 ?
 Nein – Schuld ist **nicht immer eindeutig**, sondern hängt von **Zeit, Perspektive und Gewissen** ab. Beispiele für solche Gewissenskonflikte gegen staatliches Recht sind etwa die **Geschwister Scholl** (NS-Widerstand), **Martin Luther King** oder **Edward Snowden**.
-*Quelle: Religion (2. LJ) · `01_Skript_Gewissen.pdf` S. 14 (von 14) · [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Quellnotiz]]*
+*Quelle: Religion (2. LJ) · [01_Skript_Gewissen.pdf · S. 14](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=14>) (von 14) · [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Quellnotiz]]*

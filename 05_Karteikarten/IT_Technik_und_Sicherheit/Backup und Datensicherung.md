@@ -36,7 +36,7 @@ tags:
 ?
 - **Backup**: Sicherheitskopie für den Fall eines unerwarteten Datenverlusts, um schnell wieder auf dem aktuellen Stand zu sein.
 - **Archivierung**: Aufbewahrung von Daten in einem bestimmten Zustand (z. B. für Zugriff auf ältere Versionen oder aufgrund gesetzlicher Aufbewahrungsvorschriften).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 93 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 93](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=93>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -45,7 +45,7 @@ tags:
 ?
 - **Backup**: Sichert ausgewählte Dateien und Verzeichnisse – ideal für persönliche bzw. selbst produzierte Daten.
 - **Image**: Erstellt ein Abbild einer kompletten Partition – ideal für die schnelle Wiederherstellung des Betriebssystems (inkl. Programmkonfigurationen).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 94 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 94](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=94>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -55,7 +55,7 @@ tags:
 - **Voll-Backup**: Sichert alle Daten; einfaches Zurückspielen, braucht aber viel Speicherplatz.
 - **Inkrementell**: Sichert nur Änderungen seit dem **letzten Backup**; spart Platz, macht Restore aufwendig (Voll-Backup + alle inkrementellen in Entstehungsreihenfolge).
 - **Differenziell**: Sichert alle Änderungen seit dem **letzten Voll-Backup**; Mittelweg beim Platz, für Restore genügen Voll-Backup + **letztes** differenzielles Backup.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 95 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 95](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=95>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -64,7 +64,7 @@ tags:
 ?
 Sie fordert **3 Kopien** der Daten auf **2 verschiedenen Medientypen**, davon **1 Kopie an einem externen Standort**.
 Dadurch schützt sie vor Hardware-Ausfall, Diebstahl, Feuer und Ransomware.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 95 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 95](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=95>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -75,7 +75,7 @@ Es nutzt drei Stufen (typisch 19 Bänder für ein Jahr):
 - **Söhne**: 4 Bänder für tägliche inkrementelle Sicherungen (Mo–Do).
 - **Väter**: 3 Bänder für wöchentliche Vollsicherungen (freitags).
 - **Großväter**: 12 Monatsbänder (am letzten Freitag des Monats statt eines Wochenbands).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 97 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 97](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=97>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -84,7 +84,7 @@ Es nutzt drei Stufen (typisch 19 Bänder für ein Jahr):
 ?
 Ein RAID stellt nur die Verfügbarkeit beim Ausfall einzelner Datenträger sicher, ermöglicht aber **keine echte Trennung zwischen Originaldaten und Backup**.
 Es schützt daher z. B. nicht vor Viren (die alle Daten löschen), Ransomware oder versehentlichem Überschreiben.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 98 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 98](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=98>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -93,4 +93,4 @@ Es schützt daher z. B. nicht vor Viren (die alle Daten löschen), Ransomware od
 ?
 Man muss Bandbreite (z. B. Kombination aus lokalem Voll-Backup + täglichem inkrementellem Online-Backup per VPN) und Datenschutz (vertrauenswürdiger Anbieter, Rechtsraum) prüfen.
 Liegen Backups bei Dritten, sollten sie **verschlüsselt** werden (z. B. mit PGP), wobei die Schlüssel sicher für den Notfall aufbewahrt werden müssen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 99 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 99](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=99>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*

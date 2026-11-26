@@ -1,8 +1,9 @@
 {
   "schema_version": 1,
   "scope": "GoodNotes-Import: 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md (Seiten 20–20)",
-  "replaces_existing": false,
-  "topic_categories": {},
+  "replaces_existing": true,
+  "topic_categories": {
+  },
   "pages": [
     {
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
@@ -12,7 +13,9 @@
         "visual_checked": true,
         "audit_date": "2026-11-26",
         "primary_topic": "UML-Diagramme",
-        "secondary_topics": [],
+        "secondary_topics": [
+
+        ],
         "recommended_topics": [
           "UML-Diagramme"
         ],
@@ -20,7 +23,9 @@
         "source_text_match": "partial",
         "mapping_status": "ok",
         "confidence": "high",
-        "issues": [],
+        "issues": [
+
+        ],
         "exclusion_reason": null,
         "support_only": false,
         "sensitive": false,

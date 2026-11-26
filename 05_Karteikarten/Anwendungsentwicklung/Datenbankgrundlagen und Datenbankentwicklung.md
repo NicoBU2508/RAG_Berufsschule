@@ -45,7 +45,7 @@ tags:
 ?
 Durch Mehrfachspeicherung gleicher Daten in getrennten Anwendungen werden Speicherplatz verschwendet, Prozesse ineffizient und Daten bei unterschiedlichen Änderungen widersprüchlich (inkonsistent).
 Zudem lädt Excel beim Öffnen den gesamten Datenbestand in den Hauptspeicher, während ein Datenbanksystem nur unmittelbar benötigte Daten lädt und bei großen Mengen deutlich performanter ist.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kis_Mitschrift.pdf` S. 4 (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 4](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=4>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -54,7 +54,7 @@ Zudem lädt Excel beim Öffnen den gesamten Datenbestand in den Hauptspeicher, w
 ?
 Es besteht aus dem Datenbankmanagementsystem (DBMS) und der Datenbasis (Datenbank).
 Das DBMS übernimmt: 1. Definition (Aufbau der Datenstruktur), 2. Manipulation (Eingeben, Ändern, Löschen), 3. Abfrage (Informationsgewinnung) und 4. Kontrolle (Zugangs- und Zugriffsrechte verwalten).
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kis_Mitschrift.pdf` S. 5 (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 5](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=5>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -63,7 +63,7 @@ Das DBMS übernimmt: 1. Definition (Aufbau der Datenstruktur), 2. Manipulation (
 ?
 Gleichartige Entitäten (reale oder abstrakte Objekte) werden in einer Tabelle (Relation) gespeichert; jede Tabellenzeile bildet eine Entität als Datensatz (Tupel) ab.
 Die Spalten heißen Attribute (gespeichert in Datenfeldern) und erhalten zur leichteren Speicherung und Fehlervermeidung einen festgelegten Datentyp samt Größe.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kis_Mitschrift.pdf` S. 5–6 (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 5–6](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=5>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -72,7 +72,7 @@ Die Spalten heißen Attribute (gespeichert in Datenfeldern) und erhalten zur lei
 ?
 Die Phasen lauten: 1. Externe Phase → 2. Konzeptionelle Phase → 3. Logische Phase → 4. Physische Phase.
 In der externen Phase wird der Informationsbedarf der „Miniwelt“ ermittelt und informal beschrieben (Interviews, Dokumentenanalyse); in der konzeptionellen Phase entsteht daraus ein grafisches semantisches Modell (ER-Modell).
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kis_Mitschrift.pdf` S. 7, 13 (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 7, 13](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=7>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -81,7 +81,7 @@ In der externen Phase wird der Informationsbedarf der „Miniwelt“ ermittelt u
 ?
 In der logischen Phase wird das ER-Modell in ein relationales Tabellenschema überführt, durch Normalisierung optimiert (Redundanzabbau) und der Beziehungstyp festgelegt.
 In der physischen Phase wird dieses Schema konkret mit Datentypen, Wertebereichen, Gültigkeitsregeln und Speicherungsstrukturen in einem DBMS umgesetzt, sodass am Ende die Datenbank existiert.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kis_Mitschrift.pdf` S. 8–9, 13 (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 8–9, 13](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=8>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -90,4 +90,4 @@ In der physischen Phase wird dieses Schema konkret mit Datentypen, Wertebereiche
 ?
 Die externe, konzeptionelle und logische Phase sind vollständig vom Datenbankmanagementsystem (DBMS) unabhängig.
 Erst die vierte und letzte Phase – die physische Phase – ist vom eingesetzten DBMS abhängig.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kis_Mitschrift.pdf` S. 7–9, 13 (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 7–9, 13](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=7>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*

@@ -49,7 +49,7 @@ tags:
 **Worin unterscheiden sich Balkendiagramm (Gantt) und Netzplan in der Projektplanung?**
 ?
 Das Balkendiagramm stellt parallele und aufeinanderfolgende Arbeitsabläufe im Zeitverlauf dar (Ziel: Kapazitätsauslastung und Erkennen von Ressourcenüberlastungen). Der Netzplan eignet sich auch für größere Projekte, bildet Abläufe funktions- und zeitorientiert inkl. Abhängigkeiten ab und zielt zunächst auf die Ermittlung des kritischen Weges.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `Bgwp schredl.pdf` S. 28, 30, 37 (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 28, 30, 37](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=28>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
 
 ---
 
@@ -57,7 +57,7 @@ Das Balkendiagramm stellt parallele und aufeinanderfolgende Arbeitsabläufe im Z
 **Welche drei Hauptschritte gehören zur Erstellung eines Netzplans?**
 ?
 1. Projektstruktur: systematische Erfassung aller Teilvorgänge und ihrer Vorgänger in einer Vorgangsliste. 2. Zeitanalyse: Vorwärtsrechnung (Projektendtermin), Rückwärtsrechnung (späteste Anfangs-/Endtermine), Pufferberechnung und Ermittlung des kritischen Weges. 3. Ressourcenplanung (Kosten- und Kapazitätsanalyse).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `Bgwp schredl.pdf` S. 37 (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 37](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=37>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
 
 ---
 
@@ -65,7 +65,7 @@ Das Balkendiagramm stellt parallele und aufeinanderfolgende Arbeitsabläufe im Z
 **Wofür stehen `FAZ`, `FEZ`, `SAZ` und `SEZ` im Netzplanknoten und wie werden sie bei Startzeitpunkt 0 berechnet?**
 ?
 `FAZ` = frühester Anfangszeitpunkt, `FEZ` = frühester Endzeitpunkt, `SAZ` = spätester Anfangszeitpunkt, `SEZ` = spätester Endzeitpunkt. In der Vorwärtsrechnung (Start ab 0) gilt `FEZ = FAZ + Dauer` (größter `FEZ` der Vorgänger = neuer `FAZ`), in der Rückwärtsrechnung `SAZ = SEZ − Dauer` (kleinster `SAZ` der Nachfolger = neuer `SEZ`).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `Bgwp schredl.pdf` S. 37–39 (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 37–39](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=37>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
 
 ---
 
@@ -73,7 +73,7 @@ Das Balkendiagramm stellt parallele und aufeinanderfolgende Arbeitsabläufe im Z
 **Wie unterscheiden sich Gesamtpuffer (`GP`) und Freier Puffer (`FP`) nach Bedeutung und Formel?**
 ?
 Der Gesamtpuffer (`GP = SAZ − FAZ` bzw. `SEZ − FEZ`) gibt an, wie sich eine Verspätung eines Vorgangs auf das gesamte Projektende auswirkt. Der Freie Puffer (`FP = FAZ_Nachfolger − FEZ_Vorgang`, bei Start ab 0) zeigt an, wie viel Zeitspielraum besteht, bevor sich eine Verspätung auf den direkt nachfolgenden Knoten auswirkt.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `Bgwp schredl.pdf` S. 37, 40 (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 37, 40](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=37>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
 
 ---
 
@@ -81,7 +81,7 @@ Der Gesamtpuffer (`GP = SAZ − FAZ` bzw. `SEZ − FEZ`) gibt an, wie sich eine 
 **Was ist der kritische Weg (CPM) im Netzplan und woran erkennt man die zugehörigen Vorgänge?**
 ?
 Die Methode des Kritischen Weges (CPM) berechnet die Gesamtdauer eines Projekts über die Kette der Vorgänge ohne Pufferzeiten. Alle Vorgänge auf dem kritischen Pfad haben `GP = 0` und `FP = 0`, sodass jede Verzögerung unmittelbar die Gesamtprojektdauer verlängert.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `Bgwp schredl.pdf` S. 37–38 (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 37–38](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=37>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
 
 ---
 
@@ -89,4 +89,4 @@ Die Methode des Kritischen Weges (CPM) berechnet die Gesamtdauer eines Projekts 
 **Wie ändern sich die Netzplanformeln bei der „2. Methode“ (Zählung ab Tag 1 statt Tag 0)?**
 ?
 Beginnt der Startknoten mit `FAZ = 1`, verschieben sich die Zeitformeln jeweils um 1: `FEZ = FAZ + Dauer − 1`, `SAZ = SEZ − Dauer + 1` und `FP = FAZ_Nachfolger − FEZ_Vorgang − 1`. Werden Formeln der 0- und der 1-Methode gemischt, stimmen Projektdauer und freie Puffer nicht mehr.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `Bgwp schredl.pdf` S. 43 (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 43](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=43>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*

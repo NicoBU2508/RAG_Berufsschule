@@ -29,7 +29,7 @@ tags:
 **Was bezeichnet laut BSI-Baustein APP.5.2 ein Microsoft Exchange-System?**
 ?
 Ein **Microsoft Exchange-System** ist die Kombination aus **Microsoft Exchange-Servern** (Groupware-Lösung für E-Mails, Kontakte, Kalender, Aufgaben und Notizen) und **Outlook-Clients** (Office-Client, mobil integriert oder über die **Outlook Web App (OWA)** im Browser).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 43 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 43](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -39,7 +39,7 @@ Ein **Microsoft Exchange-System** ist die Kombination aus **Microsoft Exchange-S
 1. Server (insbesondere die **Exchange-Server-Datenbanken**) vor Installationen und Konfigurationsänderungen sichern.
 2. Server regelmäßig in **zyklischen Abständen** sichern.
 3. **Gelöschte Exchange-Objekte** erst nach einiger Zeit endgültig aus der Datenbank entfernen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 44–45 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 44–45](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=44>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -47,7 +47,7 @@ Ein **Microsoft Exchange-System** ist die Kombination aus **Microsoft Exchange-S
 **Wie unterscheiden sich Encrypting File System (EFS) und Windows BitLocker bei der Absicherung von Outlook-Daten?**
 ?
 **EFS** ist ein System zur **Dateiverschlüsselung** auf NTFS-Datenträgern, sodass Dateiinhalte auch bei Diebstahl des Mediums vertraulich bleiben. **Windows BitLocker** ist eine **Festplattenverschlüsselung**, mit der auch das gesamte Systemlaufwerk verschlüsselt werden kann.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 45 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 45](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=45>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -55,7 +55,7 @@ Ein **Microsoft Exchange-System** ist die Kombination aus **Microsoft Exchange-S
 **Wofür stehen NTFS-Berechtigungen und PST-Dateien im Zusammenhang mit Exchange und Outlook?**
 ?
 **NTFS-Berechtigungen** speichern zusätzliche Zugriffsrechte direkt an Dateien (für das Exchange-Verzeichnis auf autorisierte Admins und Systemkonten einzuschränken). Im Format **Personal Store (PST)** speichert Outlook lokal E-Mails, Kalender, Aufgaben und Notizen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 44–45 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 44–45](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=44>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -63,7 +63,7 @@ Ein **Microsoft Exchange-System** ist die Kombination aus **Microsoft Exchange-S
 **Welche Standard-Anforderungen gelten für die sichere Konfiguration von Outlook-Clients?**
 ?
 Dateianhänge dürfen **nicht automatisch** geöffnet werden, **Vorschaufenster und Autovorschau** sind zu deaktivieren, Benutzer dürfen nur ausgewählte Profileinstellungen ändern und **Lesebestätigungen** sowie interne Strukturinfos dürfen nicht an externe Anwender gesendet werden.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 44 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 44](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=44>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -71,4 +71,4 @@ Dateianhänge dürfen **nicht automatisch** geöffnet werden, **Vorschaufenster 
 **Welche Sicherheitsrisiken entstehen durch unsachgemäßen Browserzugriff (OWA/IIS) und selbst entwickelte Makros in Outlook?**
 ?
 Ein falsch konfigurierter Browserzugriff über **IIS** kann Angreifern von außen Zugriff auf E-Mails, Spam-Versand und interne Infos ermöglichen (**C, I, A**). Bösartige oder fehlerhafte **Makros/APIs** können per einfachem Aufruf Daten manipulieren, automatisierten Datenabfluss auslösen oder durch Indexfehler Fehlentscheidungen verursachen (**C, I, A**).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 43, 45 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 43, 45](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=43>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*

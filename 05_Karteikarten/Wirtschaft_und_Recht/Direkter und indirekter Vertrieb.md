@@ -29,7 +29,7 @@ tags:
 ?
 - **Direkter Vertrieb:** Das Unternehmen verkauft Produkte ohne Zwischenhändler direkt an den Endkunden (z. B. eigener Online-Shop, Werksverkauf, Außendienst, eigene Filialen).
 - **Indirekter Vertrieb:** Der Hersteller nutzt Zwischenhändler (Groß- oder Einzelhändler, Distributoren, Handelsvertreter), um Produkte an den Endkunden zu bringen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 45 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 45](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=45>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -38,7 +38,7 @@ tags:
 ?
 - **Direkter Vertrieb:** Höhere Marge und hohe Kontrolle über Preis/Präsentation, aber höherer eigener Vertriebsaufwand und geringere Marktreichweite.
 - **Indirekter Vertrieb:** Geringerer eigener Vertriebsaufwand und größere Marktreichweite durch Händlernetz, aber geringere Kontrolle und niedrigere Marge (Händlermarge).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 45 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 45](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=45>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -47,7 +47,7 @@ tags:
 ?
 - **Direkter Vertrieb:** Geeignet für hochpreisige, erklärungsbedürftige Produkte oder wenn enger Kundenkontakt wichtig ist.
 - **Indirekter Vertrieb:** Geeignet für eine breite Marktabdeckung mit geringem Eigenaufwand.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 45 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 45](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=45>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -55,4 +55,4 @@ tags:
 **Warum entscheiden sich viele Unternehmen gegen ein „Entweder-oder“ und kombinieren direkten und indirekten Vertrieb?**
 ?
 Mit einer **Multi-Channel-Strategie** (Kombination beider Wege) lassen sich sowohl maximale Kontrolle und enger Kundenkontakt als auch größtmögliche Marktreichweite gleichzeitig erzielen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 45 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 45](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=45>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*

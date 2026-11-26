@@ -27,7 +27,7 @@ tags:
 **Welche zentralen Prompt-Techniken werden im Umgang mit KI unterschieden?**
 ?
 Zu den Prompt-Techniken gehören **Zero-Shot-**, **One-Shot-** und **Few-Shot-Prompting** sowie **Chain of Thoughts**, **Prompting for Structure**, **Roleplaying** und **Self-Correction**.
-*Quelle: ITT IT-Technik (1. LJ) · `Grudausbildumg.pdf` S. 5 (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 5](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=5>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -35,7 +35,7 @@ Zu den Prompt-Techniken gehören **Zero-Shot-**, **One-Shot-** und **Few-Shot-Pr
 **Wie grenzen sich Zero-Shot-, One-Shot- und Few-Shot-Prompting beim Prinzip „Beispiele verwenden“ voneinander ab?**
 ?
 Beim **One-Shot-** und **Few-Shot-Prompting** gibt man der KI Beispiele (im passenden Format wie `tex`, `html` oder `plantUML`) mit, während beim **Zero-Shot-Prompting** keine Beispiele verwendet werden.
-*Quelle: ITT IT-Technik (1. LJ) · `Grudausbildumg.pdf` S. 5 (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 5](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=5>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -43,7 +43,7 @@ Beim **One-Shot-** und **Few-Shot-Prompting** gibt man der KI Beispiele (im pass
 **Welche Prinzipien sorgen in einem Prompt für präzise und direkt verwertbare KI-Ausgaben?**
 ?
 Man sollte **konkret formulieren (was + wie)**, eine **Struktur vorgeben** und ein **für die KI verständliches Format** (z. B. `tex`, `html`, `plantUML`) wählen.
-*Quelle: ITT IT-Technik (1. LJ) · `Grudausbildumg.pdf` S. 5 (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 5](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=5>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -51,4 +51,4 @@ Man sollte **konkret formulieren (was + wie)**, eine **Struktur vorgeben** und e
 **Warum reicht ein reiner Wunsch ohne Rollen- und Kontrollvorgaben bei komplexen Prompts oft nicht aus?**
 ?
 Ein guter Prompt kombiniert konkrete Was-/Wie-Formulierungen und Strukturvorgaben zusätzlich mit **Role-Playing** (Perspektive vorgeben) und **Self-Correction** (Ergebnis durch die KI selbst prüfen/verbessern lassen).
-*Quelle: ITT IT-Technik (1. LJ) · `Grudausbildumg.pdf` S. 5 (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 5](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=5>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*

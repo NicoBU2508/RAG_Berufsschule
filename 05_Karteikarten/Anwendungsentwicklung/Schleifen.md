@@ -56,7 +56,7 @@ tags:
 **Aus welchen Bestandteilen setzt sich die Kontrollstruktur „Schleife“ zusammen?**
 ?
 Eine **Schleife** ermöglicht die wiederholte Ausführung von Anweisungen und besteht aus der **Schleifensteuerung** (unterteilt in **Schleifenkopf** und **Schleifenfuß**) sowie dem **Schleifenrumpf**, der die zu wiederholenden Anweisungen enthält.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 17 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 17](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=17>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -64,7 +64,7 @@ Eine **Schleife** ermöglicht die wiederholte Ausführung von Anweisungen und be
 **Wie unterscheiden sich kopfgesteuerte (`while`) und fußgesteuerte (`do-while`) bedingte Schleife?**
 ?
 Die **kopfgesteuerte Schleife (`while`)** prüft die Bedingung **vor** dem Rumpf und wird bei anfänglich falscher Bedingung **0-mal** ausgeführt (**abweisende/vorprüfende** Schleife). Die **fußgesteuerte Schleife (`do-while`)** prüft erst **nach** dem Rumpf, sodass dieser **mindestens 1-mal** durchlaufen wird (**annehmende/nachprüfende** Schleife).
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 20–21 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 20–21](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -72,7 +72,7 @@ Die **kopfgesteuerte Schleife (`while`)** prüft die Bedingung **vor** dem Rumpf
 **Welche Ausgabe entsteht bei `nummer := 50` in einer `while (nummer < 50)`-Schleife im Vergleich zu `do { Ausgabe(nummer); nummer := nummer * nummer; } while (nummer < 50)`?**
 ?
 Die **`while`-Schleife** prüft `50 < 50` zuerst (`false`) und gibt **nichts** aus. Die **`do-while`-Schleife** gibt zuerst **`50`** aus, berechnet `2500`, prüft danach `2500 < 50` (`false`) und beendet die Schleife.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 20–21 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 20–21](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -80,7 +80,7 @@ Die **`while`-Schleife** prüft `50 < 50` zuerst (`false`) und gibt **nichts** a
 **Wann verwendet man eine zählergesteuerte `for`-Schleife und aus welchen drei Teilen besteht ihre Steuerung in Java?**
 ?
 Man nutzt sie, wenn die **Anzahl der Durchläufe (Anfangs- und Endwert) bekannt** ist. Der Kopf `for (initStatement; condition; nextStatement)` umfasst **Initialisierung** der Laufvariable, **Bedingungsausdruck** (Abbruchkriterium) und **Aktualisierungsteil** (meist In-/Dekrement).
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `02_Unternehmenswiki-7.Block.pdf` S. 60–61 (von 71) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [02_Unternehmenswiki-7.Block.pdf · S. 60–61](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=60>) (von 71) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block|Quellnotiz]]*
 
 ---
 
@@ -88,7 +88,7 @@ Man nutzt sie, wenn die **Anzahl der Durchläufe (Anfangs- und Endwert) bekannt*
 **Ist die zählergesteuerte `for`-Schleife kopf- oder fußgesteuert — und wie oft läuft sie, wenn der Anfangswert bereits über dem Endwert liegt?**
 ?
 Die `for`-Schleife ist **kopfgesteuert**, da die Bedingung vor jedem Schleifendurchlauf geprüft wird. Ist die Laufvariable bei der Initialisierung bereits größer als der Endwert (bei positiver Schrittweite), werden die Schleifenanweisungen **kein einziges Mal** ausgeführt.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 20 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 20](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=20>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -96,7 +96,7 @@ Die `for`-Schleife ist **kopfgesteuert**, da die Bedingung vor jedem Schleifendu
 **Wie durchläuft man in Java ein Array `arrayEins` mit einer `for`-Schleife sicher über alle Elemente?**
 ?
 Man startet bei `int i = 0`, prüft **`i < arrayEins.length`** (echt kleiner, weil die Indizes von `0` bis `length - 1` laufen) und zählt `i++` nach jedem Durchlauf hoch.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `02_Unternehmenswiki-7.Block.pdf` S. 69 (von 71) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [02_Unternehmenswiki-7.Block.pdf · S. 69](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=69>) (von 71) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block|Quellnotiz]]*
 
 ---
 
@@ -104,4 +104,4 @@ Man startet bei `int i = 0`, prüft **`i < arrayEins.length`** (echt kleiner, we
 **Wie unterscheiden sich die Schleifen-Steueranweisungen `break`, `continue` und `pass` in Python?**
 ?
 **`break`** beendet die Schleifenausführung sofort komplett, **`continue`** springt unmittelbar zur nächsten Iteration der Schleife und **`pass`** führt keine Aktion aus (leerer Platzhalter).
-*Quelle: ITT IT-Technik (1. LJ) · `Grudausbildumg.pdf` S. 10 (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 10](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=10>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*

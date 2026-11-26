@@ -31,7 +31,7 @@ tags:
 **Welche betrieblichen Voraussetzungen müssen für die Gründung eines Betriebsrats nach §§ 1, 8 BetrVG erfüllt sein?**
 ?
 Im Betrieb müssen in der Regel **mindestens fünf wahlberechtigte** Arbeitnehmer beschäftigt sein, von denen **mindestens drei wählbar** sind.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 32 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 32](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -40,7 +40,7 @@ Im Betrieb müssen in der Regel **mindestens fünf wahlberechtigte** Arbeitnehme
 ?
 - **Wahlberechtigt:** Alle Arbeitnehmer (einschließlich Auszubildender), die das **16. Lebensjahr** vollendet haben; Leiharbeiter (> 3 Monate im Betrieb) sowie Telearbeiter zählen mit und haben volles Stimmrecht.
 - **Wählbar:** Volljährige Arbeitnehmer mit mindestens **6 Monaten Betriebszugehörigkeit**.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 32, 34 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 32, 34](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -48,7 +48,7 @@ Im Betrieb müssen in der Regel **mindestens fünf wahlberechtigte** Arbeitnehme
 **Dürfen Geschäftsführer oder Prokuristen an der Betriebsratswahl teilnehmen?**
 ?
 **Nein.** Nach **§ 5 BetrVG** zählen gesetzliche Vertreter des Unternehmens (z. B. Geschäftsführer) und leitende Angestellte (z. B. Prokuristen) nicht als Arbeitnehmer im Sinne des BetrVG und sind daher weder wahlberechtigt noch wählbar.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 32, 34 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 32, 34](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -57,7 +57,7 @@ Im Betrieb müssen in der Regel **mindestens fünf wahlberechtigte** Arbeitnehme
 ?
 - **Mitgliederzahl (§ 9 BetrVG):** Bei 51–100 Wahlberechtigten **5 Mitglieder** (5–20: 1 Betriebsobmann; 21–50: 3; 101–200: 7).
 - **Wahl & Amtszeit:** Alle **4 Jahre** (regulär Anfang März bis Ende Mai) in **geheimer, unmittelbarer Wahl** während der Arbeitszeit; die **Kosten trägt der Arbeitgeber**.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 32, 34 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 32, 34](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -67,7 +67,7 @@ Im Betrieb müssen in der Regel **mindestens fünf wahlberechtigte** Arbeitnehme
 - **Betriebsausschuss (§ 27 BetrVG):** Ab **9 Betriebsratsmitgliedern** (Führung der laufenden Geschäfte).
 - **Wirtschaftsausschuss (§§ 106, 107 BetrVG):** Bei **mehr als 100 ständig Beschäftigten** (3–7 Mitglieder, Beratung mit Geschäftsleitung über wirtschaftliche Angelegenheiten).
 - **Freistellung (§ 38 BetrVG):** Ab **200 Arbeitnehmern** muss mindestens ein Betriebsratsmitglied freigestellt werden.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 32–33, 35 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 32–33, 35](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=32>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -75,4 +75,4 @@ Im Betrieb müssen in der Regel **mindestens fünf wahlberechtigte** Arbeitnehme
 **Was ist eine Betriebsvereinbarung und welche inhaltlichen Grenzen gelten für sie?**
 ?
 Eine **Betriebsvereinbarung** ist eine von **Arbeitgeber und Betriebsrat gemeinsam schriftlich beschlossene** Vereinbarung, die grundsätzlich für alle Arbeitnehmer des Betriebs verbindlich ist (z. B. Arbeitszeiten im sozialen Bereich). Sie darf nicht gegen Gesetze oder Tarifverträge verstoßen, keine bereits **tarifvertraglich geregelten Inhalte** (z. B. Löhne/Gehälter) festlegen und individuelle Arbeitsverträge nicht verschlechtern.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 36 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 36](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=36>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*

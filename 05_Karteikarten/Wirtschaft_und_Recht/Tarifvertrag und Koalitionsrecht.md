@@ -31,7 +31,7 @@ tags:
 ?
 - **Koalitionsrecht (Art. 9 GG):** Recht aller Personen und Berufe, Vereinigungen zur Wahrung und Förderung der Arbeits- und Wirtschaftsbedingungen zu bilden (Gewerkschaften und Arbeitgeberverbände).
 - **Tarifautonomie:** Recht der Tarifpartner, **unabhängig von staatlichen Reglementierungen** Tarifverträge frei auszuhandeln, abzuschließen und zu beenden.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 29 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 29](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -40,7 +40,7 @@ tags:
 ?
 - **Manteltarifvertrag (Laufzeit ca. 3–5 Jahre):** regelt allgemeine Arbeitsbedingungen wie Arbeitszeit, Urlaub, Kündigungsfristen, Arbeitsschutz, Nacht-/Feiertagsarbeit oder vermögenswirksame Leistungen.
 - **Lohn-/Gehaltstarifvertrag (Laufzeit ca. 1–2 Jahre):** regelt konkret die Höhe von Löhnen und Gehältern (nach Alter, Ortsklassen, Entgeltgruppen) sowie Zulagen und besondere Lohnformen.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 29 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 29](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -49,7 +49,7 @@ tags:
 ?
 - **Grundsatz:** Ein Tarifvertrag gilt unmittelbar nur zwischen den **Mitgliedern der Tarifvertragsparteien** (Arbeitgeber im Arbeitgeberverband und Arbeitnehmer in der Gewerkschaft); häufig werden Nicht-Organisierte aber nach dem Gleichbehandlungsgrundsatz einbezogen.
 - **Ausnahme (§ 5 TVG):** Der **Bundesminister für Arbeit und Soziales** kann einen Tarifvertrag für **allgemeinverbindlich** erklären – dann gilt er auch für nicht tarifgebundene Arbeitgeber und Arbeitnehmer.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 29 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 29](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -57,7 +57,7 @@ tags:
 **Wie bestimmt das „Industrieprinzip“ den zuständigen Tarifvertrag (Beispiel: Bürokaufleute in einem Chemiekonzern)?**
 ?
 Der Schwerpunkt der Tätigkeit des Betriebs bestimmt, welche Verbände für Firmen und Arbeitnehmer zuständig sind. Daher gilt auch für Bürokaufleute in einem Chemiekonzern der **Tarifvertrag der chemischen Industrie** (und jeder Arbeitgeber muss den maßgebenden Tarifvertrag im Betrieb auslegen).
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 29 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 29](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=29>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -65,7 +65,7 @@ Der Schwerpunkt der Tätigkeit des Betriebs bestimmt, welche Verbände für Firm
 **Dürfen vereinbarte Tarifbestimmungen im Arbeitsvertrag unterschritten werden?**
 ?
 **Nein.** Tarifbestimmungen wirken als Mindestbedingungen und dürfen grundsätzlich **nicht unterschritten** werden – Abweichungen im Einzelarbeitsvertrag sind nur **zugunsten des Arbeitnehmers** zulässig.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 28 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 28](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=28>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -74,7 +74,7 @@ Der Schwerpunkt der Tätigkeit des Betriebs bestimmt, welche Verbände für Firm
 ?
 - **Ablauf bei Scheitern:** Nach gescheiterten Verhandlungen (ggf. mit Warnstreiks) vermittelt ein **neutraler Schlichter** (Friedenspflicht bleibt bestehen). Scheitert auch die Schlichtung, endet die **Friedenspflicht** und Arbeitskampfmaßnahmen sind möglich.
 - **Friedenspflicht:** Während der gesamten **Laufzeit eines Tarifvertrages** darf kein Arbeitskampf geführt werden.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 30 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 30](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=30>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -83,4 +83,4 @@ Der Schwerpunkt der Tätigkeit des Betriebs bestimmt, welche Verbände für Firm
 ?
 - **Gewerkschaft (Streik):** Arbeitsniederlegung; erfordert vor Streikbeginn eine Urabstimmung mit **mind. 75 %** Zustimmung der abstimmenden Mitglieder (Annahme eines neuen Verhandlungsergebnisses ab **25 %** Zustimmung).
 - **Arbeitgeber (Aussperrung):** Fernhalten der Arbeitnehmer von der Arbeit (betrifft auch nicht organisierte Arbeitnehmer, die kein Streikgeld erhalten); es gilt das **Gebot der Verhältnismäßigkeit**.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 30 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 30](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=30>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*

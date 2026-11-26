@@ -29,7 +29,7 @@ tags:
 **Wie lauten die fünf Sicherheitsregeln für das Arbeiten an elektrischen Anlagen in der richtigen Reihenfolge?**
 ?
 1. Freischalten, 2. Gegen Wiedereinschalten sichern, 3. Spannungsfreiheit feststellen, 4. Erden & Kurzschließen (ab 1 kV), 5. Abdecken & Abschranken (ab 1 kV).
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 88–89 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 88–89](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=88>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -37,7 +37,7 @@ tags:
 **Mit welchen konkreten Maßnahmen werden die ersten drei Sicherheitsregeln (Freischalten, Sichern, Feststellen) umgesetzt?**
 ?
 Freischalten durch Herausdrehen oder Ausschalten von Sicherungen bzw. Ausstecken; gegen Wiedereinschalten durch spezielle Schlösser absichern; Spannungsfreiheit allpolig mit geeignetem Messgerät (z. B. zweipoliger Spannungsprüfer) feststellen.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 88 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 88](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=88>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -45,7 +45,7 @@ Freischalten durch Herausdrehen oder Ausschalten von Sicherungen bzw. Ausstecken
 **Ab welcher Spannungsebene sind die Sicherheitsregeln 4 (Erden & Kurzschließen) und 5 (Abdecken & Abschranken) anzuwenden, und was ist ihr Zweck?**
 ?
 Sie gelten ab 1 kV-Anlagen: Erden & Kurzschließen löst bei irrtümlichem Einschalten die vorgeschaltete Sicherheitseinrichtung aus; Abdecken & Abschranken schützt benachbarte unter Spannung stehende Teile gegen Berührung.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 88–89 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 88–89](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=88>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -53,7 +53,7 @@ Sie gelten ab 1 kV-Anlagen: Erden & Kurzschließen löst bei irrtümlichem Einsc
 **Was ist bei einem Stromunfall der erste Schritt, wenn das Opfer durch Muskelverkrampfung am Leiter „klebt“?**
 ?
 Unter Beachtung der Eigensicherung den Betroffenen von der Stromquelle trennen: Stromkreis freischalten/unterbrechen oder das Opfer mittels eines Isolators (z. B. Stuhl, Tisch, Besenstiel) von der Spannungsquelle lösen.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 89 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 89](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=89>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -61,7 +61,7 @@ Unter Beachtung der Eigensicherung den Betroffenen von der Stromquelle trennen: 
 **Welche Information ist beim Notruf (112) nach einem Stromschlag besonders wichtig und warum?**
 ?
 Man muss ausdrücklich auf einen Elektrounfall hinweisen (zusätzlich zu den 5 W-Fragen), da ein Stromschlag Herzkammerflimmern oder eine Asystolie (Herzstillstand) auslösen kann und die Leitstelle deshalb neben dem Rettungswagen auch einen Notarzt entsendet.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 89 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 89](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=89>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -69,4 +69,4 @@ Man muss ausdrücklich auf einen Elektrounfall hinweisen (zusätzlich zu den 5 W
 **Warum sollte man nach einem „kleinen“ Stromunfall (z. B. beim Wechsel einer Glühbirne) anschließend immer einen Arzt aufsuchen?**
 ?
 Die Folgen eines Stromunfalls (vor allem bei Wechselspannung) können sich noch Tage nach dem Unfall in Form von Herzrhythmusstörungen bemerkbar machen.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 90 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 90](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=90>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*

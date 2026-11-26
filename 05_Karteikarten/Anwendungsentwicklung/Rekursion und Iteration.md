@@ -30,7 +30,7 @@ tags:
 **Was versteht man unter einem rekursiven Algorithmus?**
 ?
 Ein rekursiver Algorithmus ist eine Funktion bzw. ein Unterprogramm, das sich immer wieder selbst aufruft, bis eine definierte Abbruchbedingung erfüllt ist.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 47 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 47](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=47>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -39,7 +39,7 @@ Ein rekursiver Algorithmus ist eine Funktion bzw. ein Unterprogramm, das sich im
 ?
 Ein iterativer Algorithmus löst eine Aufgabe mithilfe von Schleifendurchläufen (z. B. `while`-Schleife).
 Ein rekursiver Algorithmus löst die Aufgabe durch wiederholte Selbstaufrufe einer Funktion bis zur Abbruchbedingung.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 46–47 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 46–47](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=46>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -48,7 +48,7 @@ Ein rekursiver Algorithmus löst die Aufgabe durch wiederholte Selbstaufrufe ein
 ?
 Startend mit `x = 5` durchläuft die Schleife `result = result * x` und `x = x - 1` für `x = 5, 4, 3, 2` (`result`: `5 -> 20 -> 60 -> 120`).
 Bei `x = 1` ist `x > 1` gleich `false`, die Schleife bricht ab und der Algorithmus gibt `120` zurück.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 46 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 46](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=46>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -57,7 +57,7 @@ Bei `x = 1` ist `x > 1` gleich `false`, die Schleife bricht ab und der Algorithm
 ?
 Ausgehend von `x = 4` ruft sich das Unterprogramm jeweils mit `x - 1` selbst auf (`4 -> 3 -> 2 -> 1 -> 0`), bis bei `x = 0` die Bedingung `x > 0` nicht mehr erfüllt ist.
 Beim schrittweisen Zurückkehren aus den Unterprogrammaufrufen werden die Werte aufaddiert (`0 + 1 + 2 + 3 + 4`), sodass `10` zurückgegeben wird.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 48–49 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 48–49](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=48>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -66,4 +66,4 @@ Beim schrittweisen Zurückkehren aus den Unterprogrammaufrufen werden die Werte 
 ?
 Ohne eine Abbruchbedingung (z. B. Stopp bei `x = 0`), der sich der Parameter mit jedem Aufruf annähert (z. B. `x - 1`), würde sich die Funktion endlos selbst aufrufen.
 Ein geordnetes Zurückkehren und Aufsummieren bzw. Berechnen des Rückgabewerts wäre dann nicht möglich.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 47–48 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 47–48](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=47>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]], OCR/Original prüfen*

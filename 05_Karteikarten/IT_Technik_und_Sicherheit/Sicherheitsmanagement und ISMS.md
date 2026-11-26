@@ -35,7 +35,7 @@ tags:
 ?
 Eine isolierte Umsetzung ohne Konzept und Erfolgskontrolle ist weder effektiv noch effizient.
 Ein **Informationssicherheitsmanagementsystem (ISMS)** sorgt dafür, dass alle Maßnahmen zielgerichtet gesteuert, überwacht und als kontinuierlicher Prozess angepasst werden.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 3 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 3](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -46,7 +46,7 @@ Ein **Informationssicherheitsmanagementsystem (ISMS)** sorgt dafür, dass alle M
 - **Do**: Umsetzung der Maßnahmen.
 - **Check**: Erfolgskontrolle und Überwachung der Zielerreichung.
 - **Act**: Beseitigung von Defiziten und kontinuierliche Verbesserung.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 3 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 3](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -55,7 +55,7 @@ Ein **Informationssicherheitsmanagementsystem (ISMS)** sorgt dafür, dass alle M
 ?
 - **Dokumentation** macht den Sicherheitsprozess und Entscheidungen nachvollziehbar und vermeidet Missverständnisse (elektronisch leicht aktualisierbar, Zugriffsrechte regeln).
 - **Informationsklassifizierung** stuft Dokumente nach Vertraulichkeit ein, sodass Mitarbeiter über Klassifizierungsvermerke direkt die geltenden Umgangsregeln erkennen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 3 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 3](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=3>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -64,7 +64,7 @@ Ein **Informationssicherheitsmanagementsystem (ISMS)** sorgt dafür, dass alle M
 ?
 Er koordiniert den Sicherheitsprozess, unterstützt die Leitung bei der Sicherheitsleitlinie, erstellt das Sicherheitskonzept sowie Realisierungspläne und initiiert deren Umsetzung.
 Zudem berichtet er der Leitungsebene über den Status, untersucht sicherheitsrelevante Vorfälle und initiiert Schulungen sowie Sensibilisierungen.
-*Quelle: ITT IT-Technik (1. LJ) · `Sicherheitsmanagement.pdf` S. 6 (von 16), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Sicherheitsmanagement.pdf · S. 6](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=6>) (von 16), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]]*
 
 ---
 
@@ -73,7 +73,7 @@ Zudem berichtet er der Leitungsebene über den Status, untersucht sicherheitsrel
 ?
 1. Initiierung des Prozesses (Leitung übernimmt Verantwortung, stellt finanzielle/personelle/zeitliche Ressourcen bereit, wählt Vorgehensweise).
 2. Erstellung der Leitlinie zur Informationssicherheit -> 3. Organisation des Sicherheitsprozesses -> 4. Erstellung und 5. Umsetzung einer Sicherheitskonzeption -> 6. Aufrechterhaltung und Verbesserung (Fortentwicklung des ISMS).
-*Quelle: ITT IT-Technik (1. LJ) · `Sicherheitsmanagement.pdf` S. 7 (von 16), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Sicherheitsmanagement.pdf · S. 7](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=7>) (von 16), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]]*
 
 ---
 
@@ -83,4 +83,4 @@ Zudem berichtet er der Leitungsebene über den Status, untersucht sicherheitsrel
 - **0**: Kein Prozess und keine Planungen vorhanden. | **1**: Planungen vorhanden, aber keine Umsetzung.
 - **2**: Teile des Prozesses umgesetzt, Dokumentation fehlt. | **3**: Prozess vollständig umgesetzt und dokumentiert.
 - **4**: Prozess zusätzlich regelmäßig auf Effektivität überprüft. | **5**: Zusätzlich Maßnahmen zur kontinuierlichen Verbesserung vorhanden.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 62 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 62](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=62>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*

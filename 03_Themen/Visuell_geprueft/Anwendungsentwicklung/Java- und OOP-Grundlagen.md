@@ -1,5 +1,5 @@
 ---
-id: vault.thema.visuell.unternehmenswiki
+id: vault.thema.visuell.java.und.oop.grundlagen
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
 stand: 2026-11-23
@@ -7,21 +7,21 @@ reviewed_on: 2026-11-23
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
-thema: "Unternehmenswiki"
+thema: "Java- und OOP-Grundlagen"
 kategorie: Anwendungsentwicklung
 pruefung: "BS"
-quellen: 4
-seiten: 197
+quellen: 1
+seiten: 69
 tags:
   - ki_quelle
   - visuell_geprueft
   - thema
 ---
 
-# Unternehmenswiki
+# Java- und OOP-Grundlagen
 
 > [!tip] Lern- & Prüfungsfokus
-> **Prüfung:** ⚪ BS · **Training:** [[05_Karteikarten/Anwendungsentwicklung/Unternehmenswiki|🗂️ Karteikarten-Deck öffnen]] · **Katalog:** [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|IHK-AP1-Checkliste]]
+> **Prüfung:** ⚪ BS · **Training:** [[05_Karteikarten/Anwendungsentwicklung/Java- und OOP-Grundlagen|🗂️ Karteikarten-Deck öffnen]] · **Katalog:** [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|IHK-AP1-Checkliste]]
 
 Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Seitenprüfung abgeleitet. Sie ordnet Belege ein; fachliche Aussagen müssen aus der verlinkten Quellnotiz stammen und bei OCR-, Layout-, Zahlen-, Code- oder Rechtsfragen am Original geprüft werden.
 
@@ -29,14 +29,11 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [3–48](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=3>) | beispiel, theorie | Text für Zitate geeignet |
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [3–56](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=3>) | beispiel, theorie | Text für Zitate geeignet |
 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block\|Stol_02_Unternehmenswiki_7_Block]] | [3–71](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=3>) | beispiel, theorie | Text für Zitate geeignet |
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki\|Stol_Wiki]] | [21–48](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf#page=21>) | beispiel, theorie | Text für Zitate geeignet |
 
 ## Belegregel für GPT
 
-- Nur die oben aufgeführten Seiten als Beleg für **Unternehmenswiki** verwenden.
+- Nur die oben aufgeführten Seiten als Beleg für **Java- und OOP-Grundlagen** verwenden.
 - Ausgeschlossene Seiten, alte Themenseiten und generierte Lernmodule nicht als Faktenquelle behandeln.
 - Bei „OCR/Original prüfen“ nicht wörtlich aus dem OCR-Text zitieren; die verlinkte PDF-Seite visuell kontrollieren.
 - Fragmentseiten sind höchstens unterstützend und dürfen keine Aussage allein tragen.

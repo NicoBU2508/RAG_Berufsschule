@@ -274,7 +274,7 @@ class KarteikartenManager
       **Frage hier eintragen**
       ?
       Antwort hier eintragen.
-      *Quelle: Fach · `Datei.pdf` S. X (von N) · [[Quellnotiz]]*
+      *Quelle: Fach · [Datei.pdf · S. X](<99_Originale/.../Datei.pdf#page=X>) (von N) · [[Quellnotiz]]*
     MARKDOWN
 
     VaultSupport.write_if_changed(deck_abs, content)
@@ -975,7 +975,8 @@ class KarteikartenManager
   end
 
   def strip_wikilinks(text)
-    text.to_s.gsub(/\[\[([^\]|]+)\|([^\]]+)\]\]/, '\2').gsub(/\[\[([^\]]+)\]\]/, '\1')
+    text.to_s.gsub(/\[([^\]]+)\]\(<[^>]+>\)/, '\1')
+        .gsub(/\[\[([^\]|]+)\|([^\]]+)\]\]/, '\2').gsub(/\[\[([^\]]+)\]\]/, '\1')
   end
 
   def markdown_to_anki_html(text)

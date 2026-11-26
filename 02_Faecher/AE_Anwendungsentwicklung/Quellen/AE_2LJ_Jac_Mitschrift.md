@@ -19,7 +19,7 @@ seiten_mit_kanonischem_thema: 20
 ki_support_seiten: [9]
 lernstatus: "aktiv"
 textstatus: "eingeschränkt: visuell geprüft (ocr_verified=20)"
-textzeichen: 30627
+textzeichen: 30829
 ---
 # 📄 AE jac Mitschrift
 > [!quelle] Quellenstatus
@@ -899,7 +899,7 @@ Handschriftliche Lösungen zur Fehleranalyse im Zustandsdiagramm „sm Geldautom
 > ![[99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=20]]
 
 > [!ocr] Visuell transkribiert
-> Im PDF fehlte die gedruckte Textschicht; Aufgabenstellung und handschriftliches UML-Zustandsdiagramm wurden bei der Sichtprüfung vollständig transkribiert.
+> Abgedruckte Aufgabenstellung (UML-Zustandsdiagramm Immobilienverkauf) sowie handschriftliches Zustandsdiagramm aus Sichtprüfung vollständig transkribiert.
 
 #### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
@@ -907,9 +907,7 @@ Handschriftliche Lösungen zur Fehleranalyse im Zustandsdiagramm „sm Geldautom
 UML: Uebung (ET => 9_6_AE_UML__Zustands_D_UE_Immobilie, Seite 1)
 
 Ausgangssituation:
-Die H & D GmbH verkauft Immobilien.
-Sie sind Mitarbeiter/-in der aCo GmbH die Softwarelösungen zur Verfügung stellt.
-Sie sollen als Mitarbeiter/-in der aCo GmbH eine Software entwickeln, die folgendes leistet:
+Die H & D GmbH verkauft Immobilien. Sie sind Mitarbeiter/-in der aCo GmbH, die Softwarelösungen zur Verfügung stellt. Sie sollen als Mitarbeiter/-in der aCo GmbH eine Software entwickeln, die folgendes leistet:
 
 Beschreibung:
 Eine Verkaufsimmobilie kann folgende Zustände haben:
@@ -929,13 +927,16 @@ Hinweis:
 Aufgabe:
 Erstellen Sie zum beschriebenen Sachverhalt ein entsprechendes UML-Zustandsdiagramm.
 
-Handschriftliche Lösung – UML-Zustandsdiagramm (Rahmen: „Verkaufsimmobilie“):
-- Äußerer Startzustand (Start) -> Transition auf den Rand des zusammengesetzten Zustands „Reservierbar“
-- Zusammengesetzter Zustand „Reservierbar“:
-  - Interner Startzustand -> Zustand „steht zur Verfügung“
-  - Transition von „steht zur Verfügung“ mit Ereignis „anfrage“ -> Zustand „Angefragt“
-  - Flache Historie (Symbol H im Kreis) innerhalb von „Reservierbar“
-- Vom äußeren Rand von „Reservierbar“ Transition „reservierung“ -> Zustand „Reserviert“ (interne Aktion: entry / reservierungsbestätigung versenden)
-- Von „Reserviert“ Transition „Rücknahme auf (H)“ -> direkt zurück zum Historien-Pseudozustand (H) in „Reservierbar“ (stellt letzten Unterzustand wieder her, da Anfragen bestehen bleiben)
-- Von „Reserviert“ Transition „Unterschrift“ -> Endzustand „Ende“
+Handschriftliche Lösung – UML-Zustandsdiagramm „Verkaufsimmobilie“:
+- Startpseudozustand (oben im Rahmen, beschriftet „Start“) -> Transition in den zusammengesetzten Zustand „Reservierbar“.
+- Zusammengesetzter Superzustand „Reservierbar“:
+  - Innerer Startpseudozustand -> Zustand „steht zur Verfügung“
+  - „steht zur Verfügung“ --(anfrage)--> Zustand „Angefragt“
+  - Zustand „Angefragt“: interne Aktivität `entry / info verschicken` + Selbsttransition (erneute Anfrage bleibt in „Angefragt“ und löst `entry` erneut aus)
+  - Flacher History-Pseudozustand `(H)` am rechten Rand innerhalb „Reservierbar“
+- Transition von „Reservierbar“ --(reservierung)--> Zustand „Reserviert“
+- Zustand „Reserviert“: `entry / reservierungsbestätigung versenden`
+- Rücknahme-Transition: „Reserviert“ --(Rücknahme / auf H)--> `(H)` in „Reservierbar“ (stellt bei Rücknahme der Reservierung den letzten aktiven Unterzustand – „steht zur Verfügung“ oder „Angefragt“ – wieder her)
+- Verkaufs-Transition: „Reserviert“ --(Unterschrift)--> Endzustand (beschriftet „Ende“)
 ```
+

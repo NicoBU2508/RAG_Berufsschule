@@ -12,7 +12,7 @@ tags:
   - quelle
   - religion
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
 kanonische_themen: 6
 seiten_mit_kanonischem_thema: 6
@@ -20,15 +20,15 @@ ki_exclude_seiten: [1]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 ki_sensitive_seiten: [2]
 lernstatus: "aktiv"
-textstatus: "eingeschränkt: visuell geprüft (ocr_verified=1, redacted_summary=1, ocr_error=4)"
-textzeichen: 3160
+textstatus: "eingeschränkt: visuell geprüft (ocr_verified=5, redacted_summary=1)"
+textzeichen: 3502
 ---
 # 📄 Reli Notizen
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/Religion/Religion|Religion]]
 > - **Original-PDF:** [Reli Notizen.pdf](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf>)
 > - **Seiten:** 7
-> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=1, redacted_summary=1, ocr_error=4)
+> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=5, redacted_summary=1)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -87,88 +87,24 @@ textzeichen: 3160
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=3]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Korint
-M
-sehr offen
-liberal
-in bezug auf
-Ernährung , Politik,
-Sexualität
-1 Kor
-6: 12
-Apostel Paulus
-Alles
-ist
-mir erlaubt
-, aber nichteie
-zum
-Guten !
-Freiheit
-Alles
-ist
-mir erlaubt aber nichts soll
-I
-Macht haben über mich !
-2
-Verantwortung
-- Meinungen
--Social Media
--Geld
-- Süchte
-, Drogen
-- Stolz
--Ängste
-Das
-Gewissen
-ist abhänig
-von :
-Sokrates
-- Erziehung
-- Umfeld
-(griech
-. Philosoph)
-- werten
-- Religiöse Normen
-daimonion"
-- Erfahrungen ,Meinungen
-- Politik
-I
-innere Stimme
-die
-bei Entscheidungen
-Hilft
-!
-Kardinal
-John Henry Neuman
-Gewissen
-ist das Echo der Stimme Gottes"
-- Kompass
-innere Stimme (richtig 0. falsch)
--Leitfaden
-- Gefühl
-↑Das
-Gewissen ist
-in jedem Menschen veranlagt
-nicht
-Gefühl
-Bequemlichkeits
--
-> urteilt über Gut
-und Böse
-instanz
--> spricht
-mit Autorität im
-inneren
-sondern
--> moralisch
-und
-religiös verankert
-Verpflichtung der Warheit
-innere Moralische Autorität
-Hinweis auf Gott
+Religion/Ethik – Freiheit, Verantwortung und Gewissen:
+
+1. 1 Kor 6,12 (Apostel Paulus, Korinth – sehr offen/liberal in Bezug auf Ernährung, Politik, Sexualität):
+   - „Alles ist mir erlaubt, aber nicht alles dient zum Guten!“
+   - „Alles ist mir erlaubt, aber nichts soll Macht haben über mich!“ (z. B. Meinungen, Social Media, Geld, Süchte/Drogen, Stolz, Ängste)
+   - Verknüpfung: Freiheit -> Verantwortung.
+
+2. Das Gewissen:
+   - Abhängig von: Erziehung, Umfeld, Werten, religiösen Normen, Erfahrungen/Meinungen, Politik.
+   - Sokrates (griech. Philosoph): „daimonion“ = innere Stimme, die bei Entscheidungen hilft.
+   - Kardinal John Henry Newman: „Gewissen ist das Echo der Stimme Gottes“ (Kompass/innere Stimme für richtig vs. falsch, Leitfaden, Gefühl).
+   - Merkmale: Das Gewissen ist in jedem Menschen veranlagt, urteilt über Gut und Böse, spricht mit Autorität im Inneren, moralisch und religiös verankert -> nicht bloß Gefühl oder Bequemlichkeitsinstanz, sondern Verpflichtung der Wahrheit, innere moralische Autorität, Hinweis auf Gott.
 ```
 
 ### Seite 4
@@ -180,117 +116,28 @@ Hinweis auf Gott
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=4]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Das
-Gerissen ist
-nicht Gott
-selbst
-aber (Widerhall
-, deshalb
-innere Tiefe)
-Es
-erinnert
-uns daran :
-- dass
-wir verantwortlich sind
-- das
-wir nicht
-nur
-uns gehören
-- dass
-es
-höhere Ordnung gibt
-Das
-Gewissen
-ist der Ort der Regelung
-zwischen
-Gott und Mensch
-Es muss :
-- gebildet
-- geprüft
-- an
-warheit
-Orientiert
-sein
-Film
-:
-1. Welche
-Dilemata(s)
-treten
-auf ?
-Potentiell viele tote
-oder
-wenige durch handeln
-2.
-- Hauptpersonen
-Für richtig gehalten
--Nebenpersonen3
-Gewissen Frau ist auf seite
-ihry Mames
--
-Ich
-3.
-Wie urteile Ich
-, und
-warum
-Dilemata ?
-Rolle des
-Gewissens
-Pilot
-Richter
-StA
-RA
-1. Leben
-us . Leben
-handelt klar nach
-zwischen Mitgefühl
-verkörpert den
-Utilitarismus
-2
-. Recht gegen Moral
-seinem Gewissen
-und Recht
-Rechtsstaat
-Gedanken
-muss Gewissendem
-Prinzipien über
--
-3. Würde
-us. Nutzen
-Recht unterordnen
-konsequenzen
-möglichst wenig leid für
-grüßte Gruppe
-4
-.
-Schuld
-us. gute Absicht
-5. Verantwortung des Einzelnen
-1848
-1989
-6. Sicherheit
-us Freiheit
-Ermordung
-Mauerfall
-Robert Blum
-9
-. 11
-1938
-1918
-1923
-Reichskristalt
-9. 11 5- Date
-- Ende
-UKI
-Hitlerputch
-nacht
-Ende der Monarchie
-in
-+ Film
-Ausruf der Republik
-München
+Religion/Ethik – Gewissen, Dilemmata und 9. November in der deutschen Geschichte:
+
+1. Gewissen (Fortsetzung):
+   - Das Gewissen ist nicht Gott selbst, aber Widerhall (deshalb innere Tiefe). Es erinnert uns daran, dass wir verantwortlich sind, nicht nur uns gehören und es eine höhere Ordnung gibt.
+   - „Das Gewissen ist der Ort der Begegnung/Regelung zwischen Gott und Mensch.“ Es muss gebildet, geprüft und an Wahrheit orientiert sein.
+
+2. Film-Analyse / Ethische Dilemmata („Rolle des Gewissens“):
+   - Dilemmata: 1. Leben vs. Leben · 2. Recht gegen Moral · 3. Würde vs. Nutzen · 4. Schuld vs. gute Absicht · 5. Verantwortung des Einzelnen · 6. Sicherheit vs. Freiheit.
+   - Rollen: Pilot (handelt klar nach seinem Gewissen), Richter (zwischen Mitgefühl und Recht; muss Gewissen dem Recht unterordnen), Staatsanwalt/StA (verkörpert den Rechtsstaat; Prinzipien über Konsequenzen), Rechtsanwalt/RA (Utilitarismus-Gedanke = möglichst wenig Leid für größte Gruppe).
+
+3. 9.11. – Fünf historische Daten in Deutschland:
+   - 1848: Ermordung Robert Blum
+   - 1918: Ende WKI, Ende der Monarchie, Ausruf der Republik
+   - 1923: Hitlerputsch in München
+   - 1938: Reichskristallnacht (Novemberpogrome)
+   - 1989: Mauerfall
 ```
 
 ### Seite 5
@@ -302,31 +149,19 @@ München
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=5]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Referat
-über
-Nebun Mandela
-1
-. Biographie
-2. Entscheidung/Tat
-Warum
-hat die Person sich
-so entschieden
-3. Warum ausgesuchtheutiges
-Vermächtniss
-G
-. Quellen
-mit
-gamma Al bit
-zum
-nächsten
-Block fatig
-5-7 Min
-.
-Präsi/keine unnötigen Bilder
-nur auf das wesentliche Fokussieren
+Religion/Ethik – Referatsauftrag über Nelson Mandela:
+
+Gliederung (5–7 Min., prägnant, keine unnötigen Bilder, auf das Wesentliche fokussieren):
+1. Biographie
+2. Entscheidung / Tat (Warum hat die Person sich so entschieden?)
+3. Warum ausgesucht / heutiges Vermächtnis
+4. Quellen
 ```
 
 ### Seite 6
@@ -338,66 +173,22 @@ nur auf das wesentliche Fokussieren
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=6]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Karwoche
-" santa
-settimanta"
-die heilige Woche
-Palmsonntag
-Montag
-Dienstag
-Mittwoch
-Gründonnerstag
-Karfreitag
-↳altden. greinen
-D Hosana
-Jesus im
-Liebe deinen
-Judas erhielt
-Fußraschung
-Verhör
-Tempel
-das
-letzte
-nächsten wie
-30 silberlinge
-Abendmahl
-Vorteilung
-Jubeltag
-1
-h
-dich selbst
-für den verag
-(Geburt d
-.
-Kreuzweg
-Jesus zieht in
-HI. Messel
-Jerusalem
-ein
-Vertreibung
-Verhaftung
-Golgotta
-der Händle
-#
-Grablegung
-Karsamstag
-Hallelüsa !Der Herr
-ist wahrhaft
-aufestanden
-Traue
-Fassungslosigkeit
-Angst
-u·
--
-Leere
-alles umsonst
-Osternacht
-Begegnung mit den
-Frauen
-Emausgang
+Religion/Ethik – Karwoche („santa settimana“ / die heilige Woche):
+
+- Palmsonntag: Hosanna, Jubeltag, Jesus zieht in Jerusalem ein (Palmzweige)
+- Montag: Jesus im Tempel, Vertreibung der Händler
+- Dienstag: „Liebe deinen nächsten wie dich selbst“
+- Mittwoch: Judas erhielt 30 Silberlinge für den Verrat
+- Gründonnerstag (Gottesdienst in Weiß/Grün): Fußwaschung, das letzte Abendmahl (Geburt d. Hl. Messe), Verhaftung
+- Karfreitag: Verhör, Verurteilung, Kreuzweg, Golgotha, Grablegung
+- Karsamstag: Trauer, Fassungslosigkeit, Angst, Leere, alles umsonst
+- Osternacht / Ostersonntag: „Halleluja! Der Herr ist wahrhaft auferstanden“ (leeres Grab, Begegnung mit den Frauen, Emmausgang)
 ```
 
 ### Seite 7

@@ -38,7 +38,7 @@ tags:
 **Welche Hauptkategorien werden im Deutschen grundsätzlich großgeschrieben, und wie prüft man Substantive?**
 ?
 Großgeschrieben werden Satzanfänge, Substantive (Nomen), Eigennamen, Höflichkeitsanreden sowie Substantivierungen (Nominalisierungen). Substantive erkennt man mithilfe der Artikelprobe (`der/die/das`, `ein/eine`) — auch bei verschmolzenen Präpositionen wie `im` (= `in dem`) oder `zum` (= `zu dem`).
-*Quelle: Deutsch (2. LJ) · `Skript_Deutsch.pdf` S. 26 (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
+*Quelle: Deutsch (2. LJ) · [Skript_Deutsch.pdf · S. 26](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=26>) (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
 
 ---
 
@@ -46,7 +46,7 @@ Großgeschrieben werden Satzanfänge, Substantive (Nomen), Eigennamen, Höflichk
 **Wann werden Adjektive, Partizipien und Verben durch Substantivierung (Nominalisierung) großgeschrieben?**
 ?
 Sie werden großgeschrieben, wenn sie die Funktion von Substantiven übernehmen — erkennbar an Artikeln, Präposition-Artikel-Verschmelzungen oder Begleitwörtern wie `etwas`, `nichts`, `viel`, `wenig` (z. B. `beim Arbeiten`, `zum Lesen`, `das Gute`, `etwas Derartiges`, `im Wesentlichen`).
-*Quelle: Deutsch (2. LJ) · `Skript_Deutsch.pdf` S. 26–27 (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
+*Quelle: Deutsch (2. LJ) · [Skript_Deutsch.pdf · S. 26–27](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=26>) (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
 
 ---
 
@@ -54,7 +54,7 @@ Sie werden großgeschrieben, wenn sie die Funktion von Substantiven übernehmen 
 **Wie unterscheidet sich die Groß- und Kleinschreibung bei Wochentagen, Tageszeiten und Ausdrücken nach `gestern`, `heute`, `morgen`?**
 ?
 Substantivische Wochentage und Tageszeiten schreibt man groß (`Montag`, `Abend`), ebenso Tageszeiten nach den Adverbien `gestern`, `heute`, `morgen`, `vorgestern`, `übermorgen` (`heute Morgen`, `gestern Abend`). Reine Zeitadverbien schreibt man dagegen klein (`montags`, `abends`, `mittags`).
-*Quelle: Deutsch (1. LJ) · `Regelsammlung.pdf` S. 1 (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Regelsammlung.pdf · S. 1](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1>) (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
 
 ---
 
@@ -62,7 +62,7 @@ Substantivische Wochentage und Tageszeiten schreibt man groß (`Montag`, `Abend`
 **Wann werden Anredepronomen (`Sie`/`du`) in Briefen und E-Mails groß- bzw. kleingeschrieben?**
 ?
 Die Höflichkeitsanrede `Sie`, `Ihnen`, `Ihr`, `Ihre` wird bei direkter Ansprache immer großgeschrieben (nicht aber das Personalpronomen `sie` in der 3. Person). Die informellen Anreden `du`, `dich`, `dein`, `euch`, `eure` schreibt man grundsätzlich klein; in Briefen können sie auch großgeschrieben werden.
-*Quelle: Deutsch (2. LJ) · `Skript_Deutsch.pdf` S. 26, 28 (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
+*Quelle: Deutsch (2. LJ) · [Skript_Deutsch.pdf · S. 26, 28](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=26>) (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
 
 ---
 
@@ -70,7 +70,7 @@ Die Höflichkeitsanrede `Sie`, `Ihnen`, `Ihr`, `Ihre` wird bei direkter Ansprach
 **Wie werden Wörter wie `recht`, `schuld`, `leid`, `angst` in Verbindung mit `haben` vs. `sein` geschrieben?**
 ?
 In Verbindung mit `haben` handelt es sich um Substantive, die **großgeschrieben** werden (`Du hast Recht.`, `Ich habe Angst.`). In Verbindung mit `sein` sind es prädikative Adjektive, die **kleingeschrieben** werden (`Ich bin schuld.`, `Mir ist angst und bange.`).
-*Quelle: Deutsch (1. LJ) · `Regelsammlung.pdf` S. 1–2 (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Regelsammlung.pdf · S. 1–2](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=1>) (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
 
 ---
 
@@ -78,4 +78,4 @@ In Verbindung mit `haben` handelt es sich um Substantive, die **großgeschrieben
 **Wie schreibt man Ordnungszahlen/Ziffern, Superlative mit `am` sowie von Personennamen abgeleitete Adjektive (z. B. `ohmscher Widerstand`)?**
 ?
 Substantivierte Ordnungszahlen und Ziffern schreibt man groß (`als Erstes`, `eine Sechs würfeln`, aber `über sechzig`), ebenso Farb- und Sprachbezeichnungen als Substantiv (`auf Rot`, `Ihr Französisch`). Superlative mit `am` (`am lautesten`) und Adjektive auf `-sch` (`der ohmsche Widerstand`, mit Apostroph auch `Ohm'sche`) schreibt man klein.
-*Quelle: Deutsch (2. LJ) · `Skript_Deutsch.pdf` S. 26, 28 (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
+*Quelle: Deutsch (2. LJ) · [Skript_Deutsch.pdf · S. 26, 28](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=26>) (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*

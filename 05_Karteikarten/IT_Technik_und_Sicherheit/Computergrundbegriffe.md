@@ -28,7 +28,7 @@ tags:
 **Womit befasst sich die Informatik und was beschreibt der Begriff CPU im Computergrundaufbau?**
 ?
 Die **Informatik** beschäftigt sich mit der Verarbeitung von Informationen. Die **CPU** ist dabei eine **Digitalschaltung** zur Datenverarbeitung im Computer (der erste Computer wird in der Mitschrift mit `1941` datiert).
-*Quelle: ITT IT-Technik (1. LJ) · `Grudausbildumg.pdf` S. 8 (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 8](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=8>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -36,7 +36,7 @@ Die **Informatik** beschäftigt sich mit der Verarbeitung von Informationen. Die
 **Welche Bedeutung haben die Grundbegriffe Provider, Browser, LAN und RAM?**
 ?
 Ein **Provider** ist eine Organisation, die einen Internetzugang anbietet; ein **Browser** ist die Software zum Anzeigen von Webseiten. **LAN** steht für *Local Area Network* und **RAM** (*Random Access Memory*) für den Hauptspeicher.
-*Quelle: ITT IT-Technik (1. LJ) · `Begriffe Computerwelt - Gitterrätsel.pdf` S. 1 (von 1) · [[02_Faecher/ITT_IT_Technik/Quellen/Begriffe_Computerwelt_Gitterratsel|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Begriffe Computerwelt - Gitterrätsel.pdf · S. 1](<99_Originale/Berufsschule/ITT/1_LJ/ITT Ziel/Begriffe Computerwelt - Gitterrätsel.pdf#page=1>) (von 1) · [[02_Faecher/ITT_IT_Technik/Quellen/Begriffe_Computerwelt_Gitterratsel|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -44,7 +44,7 @@ Ein **Provider** ist eine Organisation, die einen Internetzugang anbietet; ein *
 **Wozu dient die Python-Funktion `int(x, base)` und was ist ihr Standard-Anwendungsfall?**
 ?
 `int()` wandelt den Wert `x` (unter Angabe des Zahlensystems über `base`) in eine **Ganzzahl** als Rückgabewert um. Typischer Anwendungsfall sind **Benutzereingaben**, die zunächst als Text vorliegen.
-*Quelle: ITT IT-Technik (1. LJ) · `Grudausbildumg.pdf` S. 8 (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 8](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=8>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -52,4 +52,4 @@ Ein **Provider** ist eine Organisation, die einen Internetzugang anbietet; ein *
 **Was ist der Unterschied zwischen Compiler-Ausgabe und Text-Eingaben im Hinblick auf Verarbeitung und Datentypen?**
 ?
 Ein **Compiler** übersetzt Programmcode in `0`/`1`-**Maschinensprache** (Befehlssatz / `.exe`), wovon der **Interpreter** als anderes Konzept abgegrenzt wird. Auf Programmebene kommen Benutzereingaben dagegen als **Text** an und müssen für Ganzzahloperationen explizit per `int()` umgewandelt werden.
-*Quelle: ITT IT-Technik (1. LJ) · `Grudausbildumg.pdf` S. 8 (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 8](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=8>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*

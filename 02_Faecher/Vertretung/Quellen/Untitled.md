@@ -12,22 +12,22 @@ tags:
   - quelle
   - vertretung
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-07-13"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
 kanonische_themen: 2
 seiten_mit_kanonischem_thema: 3
 ki_exclude_seiten: [1]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
-textstatus: "eingeschränkt: visuell geprüft (partial=1, ocr_error=2)"
-textzeichen: 1823
+textstatus: "eingeschränkt: visuell geprüft (ocr_verified=3)"
+textzeichen: 2889
 ---
 # 📄 Untitled
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/Vertretung/Vertretung|Vertretung]]
 > - **Original-PDF:** [Untitled.pdf](<99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf>)
 > - **Seiten:** 4
-> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (partial=1, ocr_error=2)
+> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=3)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -60,45 +60,25 @@ textzeichen: 1823
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=2]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-l = 0, 6km + 5, 5m = 605, 5m
-l = 3, 6km + 1, 3km + 0, 4km + 5, 52m = 5305, 52m
-U = 0, 06V + 30mV + 80000µV + 3mV + 4kV = 4000, 173V
-m = 30kg + 5 · 103g + 0, 2kg + 7, 5 · 102g + 2, 5 · 101g = 35975g = 35, 975kg
-I = 0, 38 · 10−1A + 1, 7 · 103mA + 5 · 105µA + 300mA + 0, 7A = 3, 238A
-C = 10nF + 0, 04µF + 12 · 103pF + 2, 2 · 10−8F + 1, 5 · 10−2µF = 99nF
-R = 0, 47k⌦+ 2, 2 · 102⌦+ 5, 6 · 105m⌦+ 8, 2 · 10−4M⌦+ 100⌦= 2170⌦= 2, 17k⌦
-L = 0, 8 · 105µH + 1, 5 · 101mH + 4, 2 · 10−2H + 30 · 10−3H + 0, 002H = 0, 169H
-P = 5 · 109µW + 3 · 103W + 5, 5kW + 2500W + 7 · 106mW = 23000W = 23kW
-U = 0, 005V + 8 · 10−2mV + 14 · 10−4V + 3, 6 · 101µV + 4200 · 10−2µV = 6, 558mV
-220V · 0, 25A = 55V A
-6005, 5 km
-3955 m
-6OOmV + 30mV+80mV + 3mV + 4000020nV =
-400 +13mU
-30ky+ 5ky
-+ 0
-,2ky
-+
-0
-,75ky
-+45ky
-= 38 , 45kg
-0, 38. 18"A
-+1, 7A + 5. 10
-. 1A + 0,3A + 0
-, 7A = 3
-, 228A
-10nF + 4OnF + 1InF +2 InF +15nF=SSnF
-2770 ~
-&OmH
-+ 15mH + 42rH +ZnH = 163 mH
-5 W + 3000W
-+55CW + 2500W + 7W =M1012V
-500rV +80pV + 7400uV +36aV +92mV+0558y2
-5 พ
+Mathematik-Elektro: UE – 1 Aufgaben (Einheitenumrechnung 1–11 mit handschriftlichen Ergebnissen & Korrekturhinweisen):
+
+1. l = 0,6 km + 5,5 m = (korrekt: 0,6055 km bzw. 605,5 m; handschr. 6005,5 km [Fehler])
+2. l = 3,6 km + 1,3 km + 0,4 km + 5,52 m = (korrekt: 5305,52 m; handschr. 3955 m [Fehler])
+3. U = 0,06 V + 30 mV + 80000 µV + 3 mV + 4 kV = handschr. 600 mV + 30 mV + 80 mV + 3 mV + 4000000 mV = 4000713 mV [Hinweis: 0,06 V = 60 mV -> korrekt 4.000.173 mV]
+4. m = 30 kg + 5 · 10^3 g + 0,2 kg + 7,5 · 10^2 g + 2,5 · 10^1 g = 30 kg + 5 kg + 0,2 kg + 0,75 kg + 2,5 kg [Hinweis: 2,5·10^1 g = 0,025 kg -> korrekt 35,975 kg; handschr. 38,45 kg]
+5. I = 0,38 · 10^-1 A + 1,7 · 10^3 mA + 5 · 10^5 µA + 300 mA + 0,7 A = 0,038 A + 1,7 A + 0,5 A + 0,3 A + 0,7 A = 3,238 A
+6. C = 10 nF + 0,04 µF + 12 · 10^3 pF + 2,2 · 10^-8 F + 1,5 · 10^-2 µF = 10 nF + 40 nF + 12 nF + 22 nF + 15 nF = 99 nF
+7. R = 0,47 kΩ + 2,2 · 10^2 Ω + 5,6 · 10^5 mΩ + 8,2 · 10^-4 MΩ + 100 Ω = 470 + 220 + 560 + 820 + 100 = 2170 Ω
+8. L = 0,8 · 10^5 µH + 1,5 · 10^1 mH + 4,2 · 10^-2 H + 30 · 10^-3 H + 0,002 H = 80 mH + 15 mH + 42 mH + 30 mH + 2 mH = 169 mH
+9. P = 5 · 10^9 µW + 3 · 10^3 W + 5,5 kW + 2500 W + 7 · 10^6 mW = 5 W + 3000 W + 5500 W + 2500 W + 7 W = 11012 W [handschr. V]
+10. U = 0,005 V + 8 · 10^-2 mV + 14 · 10^-4 V + 3,6 · 10^1 µV + 4200 · 10^-2 µV = 5000 µV + 80 µV + 1400 µV + 36 µV + 42 µV = 6558 µV [handschr. 500 µV + ... = 6558 µV]
+11. 220 V · 0,25 A = 55 W
 ```
 
 ### Seite 3
@@ -110,47 +90,24 @@ U = 0, 005V + 8 · 10−2mV + 14 · 10−4V + 3, 6 · 101µV + 4200 · 10−2µV
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=3]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-(220V )2
-30V A
-= 1613V
-A = 1, 61k⌦
-Q = 345p As
-V · 200V = 69nAs
-500 · 1, 6A
-40cm
-= 20 A
-cm
-49V A
-14kA · 7mV = 0, 5
-48µV A
-12mA = 4mV
-1
-40 1
-s · 2k V
-A
-= 12, 5µ As
-V = 12, 5µF
-27µ⌦2
-3m⌦= 9m⌦
-p
-(2, 5mA)2 + (2mA)2 = 3, 20mA
-24As2
-3ms · 2kA = 4s
-501
-s · 1, 2 V s
-m2 · 4000(cm)2 = 24V
-TG132
-69n[
-8=200‰
-49 VA
-= 0.5
-19000,007
-6mL
-12, 5
-φ
+Mathematik-Elektro: UE – Aufgaben 12–21 (Rechnen mit Einheiten):
+
+12. (220 V)^2 / (30 VA) = 1613 Ω (genauer 1613,33 Ω)
+13. Q = 345 p(As/V) · 200 V = 69 nC
+14. (500 · 1,6 A) / (40 cm) = 800 A / 0,4 m = 2000 A/m
+15. (49 VA) / (14 kA · 7 mV) = 49 VA / (14000 A · 0,007 V) = 0,5
+16. (48 µVA) / (12 mA) = 4 mV [handschr. fälschlich 6 mV]
+17. 1 / (40 (1/s) · 2 k(V/A)) = 12,5 µF
+18. 27 µΩ^2 / (3 mΩ) = (9 mΩ)
+19. sqrt((2,5 mA)^2 + (2 mA)^2) = (3,20 mA)
+20. (24 As^2) / (3 ms · 2 kA) = (4 s)
+21. 50 (1/s) · 1,2 (Vs/m^2) · 4000 (cm)^2 = (24 V)
 ```
 
 ### Seite 4
@@ -162,50 +119,24 @@ TG132
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf#page=4]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-l = 1000
-= 1012
-1012W = 1T W
-= 109
-109Hz = 1GHz
-= 106
-106⌦= 1M⌦
-= 103
-103g = 1kg
-= 100
-= 10−3
-10−3S = 1mS
-= 10−6
-µ
-10−6V = 1µV
-= 10−9
-10−9A = 1nA
-= 10−12
-10−12F = 1pF
-I = 5mA + 6000µA −0, 003A
-I = 5 · 10−3A + 6 · 103 · 10−6A −3 · 10−3A
-I = 5 · 10−3A + 6 · 10−3A −3 · 10−3A
-I = 8mA
-A = 7m · 90cm
-A = 7m·9·101·10−2m = 7m·9·10−1m = 6, 3m2
-h =
-8m2
-200cm =
-8m2
-2 · 102 · 10−2 = 8m2
-2m = 4m
-U 2 = (4mV )2 = (4 · 10−3V )2 = 16 · 10−6V 2
-U 2 = 16µV 2
-l =
-p
-441cm2
-l =
-p
-441 ·
-p
-cm2
-l = 21cm
+Mathematik-Elektro: UE – Theorie: Definition, Vorsätze & Rechenregeln (S. 3)
+
+2 Definition
+Physikalische Größe = Formelzeichen = Zahlenwert · Einheitenzeichen (z. B. l = 1000 m, Spannung U = 10 Volt).
+
+3 Vorsätze für Vielfache und Teile:
+10^12 Tera (T) | 10^9 Giga (G) | 10^6 Mega (M) | 10^3 Kilo (k) | 10^0 | 10^-3 Milli (m) | 10^-6 Mikro (µ) | 10^-9 Nano (n) | 10^-12 Pico (p).
+
+4 Rechenregeln:
+4.1 Addieren und Subtrahieren: Zahlenwerte addieren/subtrahieren bei gleicher Maßeinheit (z. B. I = 5 mA + 6000 µA - 0,003 A = 8 mA).
+4.2 Multiplizieren und Dividieren: Zahlenwerte und Einheiten getrennt multiplizieren bzw. dividieren (z. B. A = 7 m · 90 cm = 6,3 m^2; h = 8 m^2 / 200 cm = 4 m).
+4.3 Potenzieren: Zahlenwerte und Einheiten einzeln potenzieren (z. B. U^2 = (4 mV)^2 = 16 · 10^-6 V^2 = 16 µV^2).
+4.4 Radizieren: Aus Zahlenwert und Einheit einzeln die Wurzel ziehen (z. B. l = sqrt(441 cm^2) = 21 cm).
 ```
 

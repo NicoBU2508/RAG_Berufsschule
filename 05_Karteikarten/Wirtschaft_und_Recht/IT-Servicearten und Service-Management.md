@@ -32,7 +32,7 @@ tags:
 ?
 - **Helpdesk (1st-Level-Support):** Zentrale Anlaufstelle (**SPOC**) für Anwender bei IT-Fragen, Störungen (*Incidents*) und Serviceanfragen; nimmt Tickets entgegen, dokumentiert/kategorisiert sie, löst einfache Probleme direkt und eskaliert komplexe Fälle.
 - **Administrator (oft 2nd-/3rd-Level-Support):** Verantwortet laufenden Betrieb, Einrichtung, Wartung und Sicherheit der IT-Infrastruktur (Server, Netzwerke, Clients, Datenbanken), vergibt Zugriffsrechte, spielt Updates ein und behebt komplexe technische Störungen.
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 32 (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 32](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=32>) (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -41,7 +41,7 @@ tags:
 ?
 - **Change Manager:** Steuert, prüft und koordiniert geplante Änderungen (*Changes*) an IT-Infrastruktur und IT-Services (z. B. Software-Rollouts, Hardware-Tausch), bewertet Risiken, holt Genehmigungen ein und sichert eine dokumentierte Umsetzung mit minimalen Ausfallzeiten.
 - **Anwender:** Nutzen bereitgestellte IT-Systeme und -Services für ihre Geschäftsaufgaben, melden Störungen oder Änderungsbedarfe an den Helpdesk und halten IT-Nutzungs- und Sicherheitsrichtlinien ein.
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 31–32 (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 31–32](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=31>) (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -50,7 +50,7 @@ tags:
 ?
 - **Managed Services:** Dauerhafte, wiederkehrende IT-Service-Leistungen eines *Managed Services Providers (MSP)*, deren Art, Umfang und Qualität vorab vertraglich in einem **Service Level Agreement (SLA)** festgelegt werden.
 - **Break/Fix-Support (Field Service, Vor-Ort-Service):** Ausführung von IT-Dienstleistungen erst **nach Bedarf und Anforderung** durch Techniker vor Ort; abgerechnet werden Arbeitszeit, ggf. Anfahrtskosten und eingesetzte Ersatzteile.
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 33–34 (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 33–34](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=33>) (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -60,7 +60,7 @@ tags:
 - **Garantie-Service:** Unentgeltlicher Service aufgrund bestehender **Gewährleistungs- oder Garantieansprüche** des Kunden.
 - **Kulanz:** **Freiwilliger**, unentgeltlicher Service des Auftragnehmers ohne Rechtspflicht.
 - **Wartungs-Service:** Regelmäßiger Service auf Basis abgeschlossener **Wartungsverträge** (neben dem **Reparatur-Service** zur Instandsetzung).
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 33–34 (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 33–34](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=33>) (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -71,7 +71,7 @@ tags:
 - **IT-Outsourcing:** Auslagerung umfangreicher IT-Aufgaben oder ganzer IT-Abteilungen an ein externes Unternehmen.
 - **Swap-Service:** Mitarbeitende erhalten bei Ausfall ein **identisch aufgesetztes Austauschgerät** als direkten Ersatz.
 - **Do-It-Yourself-Service:** Vereinbarung, nach der Kunden bestimmte Servicearbeiten an Produkten selbst durchführen dürfen, **ohne dass Gewährleistungsansprüche verloren gehen**.
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 33–34 (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 33–34](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=33>) (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -81,4 +81,4 @@ tags:
 - **IT-Handel / IT-Vertrieb:** Beschaffung von IT-Systemen und Komponenten – auf Wunsch inklusive funktionstüchtigem Aufbau und Netzwerkanschluss.
 - **Helpdesk-Service & Live-Chat:** Online-Services über einen Helpdesk bzw. direkter Echtzeit-Chatkontakt mit Mitarbeitenden beim Aufruf einer Webseite.
 - **IT-Einweisung vs. IT-Training / IT-Schulung:** Einweisung führt Kunden/Mitarbeitende in die IT ein; Training/Schulung vermittelt vertieftes Wissen an Kunden **gegen Entgelt**.
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 33–34 (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 33–34](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=33>) (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*

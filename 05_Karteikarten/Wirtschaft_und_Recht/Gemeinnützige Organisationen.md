@@ -30,7 +30,7 @@ tags:
 **Was kennzeichnet eine gemeinnützige Organisation laut Definition?**
 ?
 Sie verfolgt keine Gewinnerzielung für Eigentümer oder Gesellschafter, sondern dient dem **Wohl der Allgemeinheit** (z. B. in Bildung, Sport, Tierschutz, Umweltschutz, Gesundheit oder humanitärer Hilfe).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 71 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 71](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=71>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -38,7 +38,7 @@ Sie verfolgt keine Gewinnerzielung für Eigentümer oder Gesellschafter, sondern
 **Darf eine gemeinnützige Organisation Gewinne erzielen, und was muss mit diesen Gewinnen geschehen?**
 ?
 **Ja**, eine gemeinnützige Organisation darf Gewinne erzielen (z. B. durch Veranstaltungen oder Produktverkäufe), sie darf diese Gewinne jedoch **nicht an Mitglieder ausschütten**, sondern muss sie selbstlos für ihren gemeinnützigen Zweck verwenden.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 72 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 72](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=72>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -47,7 +47,7 @@ Sie verfolgt keine Gewinnerzielung für Eigentümer oder Gesellschafter, sondern
 ?
 - **Finanzierung:** Mitgliedsbeiträge, Spenden, Sponsoring, öffentliche Fördergelder, Einnahmen aus Veranstaltungen sowie Produktverkäufe.
 - **Typische Rechtsformen:** eingetragener Verein (e.V.), Stiftung und gemeinnützige GmbH (gGmbH).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 72 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 72](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=72>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -57,7 +57,7 @@ Sie verfolgt keine Gewinnerzielung für Eigentümer oder Gesellschafter, sondern
 - **Ziel:** Gemeinwohl vs. Gewinnerzielung.
 - **Finanzierung & Steuern:** Spendenfinanzierung und Steuervergünstigungen möglich vs. keine Spendenfinanzierung und normale Besteuerung.
 - **Gewinnverwendung:** Gewinne verbleiben in der Organisation vs. Auszahlung an Eigentümer.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 72 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 72](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=72>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -65,7 +65,7 @@ Sie verfolgt keine Gewinnerzielung für Eigentümer oder Gesellschafter, sondern
 **Ein Sportverein erzielt beim Sommerfest 5.000 € Gewinn und der Vorstand möchte jedem Mitglied 100 € auszahlen. Ist das zulässig?**
 ?
 **Nein.** Eine gemeinnützige Organisation arbeitet selbstlos und unterliegt dem Verbot der Gewinnausschüttung an Mitglieder; der Gewinn muss zweckgebunden für den Verein eingesetzt werden.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 73 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 73](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=73>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -73,4 +73,4 @@ Sie verfolgt keine Gewinnerzielung für Eigentümer oder Gesellschafter, sondern
 **Wird ein gewinnorientiertes Unternehmen automatisch gemeinnützig, wenn es jedes Jahr 20.000 € an ein Tierheim spendet?**
 ?
 **Nein.** Solange die Organisation selbst nicht als Non-Profit-Organisation auf das Gemeinwohl ausgerichtet ist, sondern weiterhin Gewinnmaximierung für Eigentümer/Gesellschafter als Ziel verfolgt, bleibt sie nicht gemeinnützig.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 73 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 73](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=73>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]], OCR/Original prüfen*

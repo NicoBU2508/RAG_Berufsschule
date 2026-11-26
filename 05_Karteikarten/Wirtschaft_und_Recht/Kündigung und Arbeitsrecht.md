@@ -39,7 +39,7 @@ tags:
 ?
 - **Kündigung:** einseitige, empfangsbedürftige Willenserklärung (durch Arbeitgeber oder Arbeitnehmer), entweder ordentlich (fristgerecht) oder außerordentlich (fristlos).
 - **Aufhebungsvertrag:** zweiseitige, empfangsbedürftige Willenserklärung (beide Parteien einigen sich einvernehmlich auf die Beendigung).
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 19 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 19](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 ---
 
 <!-- card-id: kuendigung-und-arbeitsrecht-02 | typ: anwendung | pruefung: AP2 -->
@@ -48,7 +48,7 @@ tags:
 - **Probezeit:** 2 Wochen (14 Tage), ohne Angabe von Gründen.
 - **Grundkündigungsfrist:** 4 Wochen (28 Tage) zum 15. oder zum Ende eines Kalendermonats.
 - **Verlängerte Kündigungsfrist:** greift nur bei Kündigung durch den Arbeitgeber (ab mehr als 2 Jahren Betriebszugehörigkeit), immer zum Monatsende.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 19, 24 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 19, 24](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=19>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 ---
 
 <!-- card-id: kuendigung-und-arbeitsrecht-03 | typ: pruefungsfalle | pruefung: AP2 -->
@@ -56,7 +56,7 @@ tags:
 ?
 Es muss ein **wichtiger Grund** vorliegen (z. B. Diebstahl oder Schweigepflichtsverletzung beim Arbeitgeber; Ausbleiben des Gehalts beim Arbeitnehmer).
 Die Kündigung muss **innerhalb von 2 Wochen** nach Bekanntwerden des wichtigen Grundes ausgesprochen werden.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 20, 24 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 20, 24](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 ---
 
 <!-- card-id: kuendigung-und-arbeitsrecht-04 | typ: definition | pruefung: AP2 -->
@@ -64,7 +64,7 @@ Die Kündigung muss **innerhalb von 2 Wochen** nach Bekanntwerden des wichtigen 
 ?
 Voraussetzungen: **Volljährigkeit**, Betriebszugehörigkeit **länger als 6 Monate** ohne Unterbrechung und **mehr als 10 Arbeitnehmer** im Betrieb (Azubis zählen nicht mit).
 Zulässige Kündigungsgründe sind dann nur **personenbedingte** (z. B. längere Krankheit), **betriebsbedingte** (z. B. Rationalisierung mit Sozialauswahl) oder **verhaltensbedingte** Gründe (z. B. unerlaubtes Fernbleiben, i. d. R. nach Abmahnung).
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 21–22 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 21–22](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=21>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 ---
 
 <!-- card-id: kuendigung-und-arbeitsrecht-05 | typ: pruefungsfalle | pruefung: AP2 -->
@@ -73,14 +73,14 @@ Zulässige Kündigungsgründe sind dann nur **personenbedingte** (z. B. längere
 - **Form:** zwingend **schriftlich mit Unterschrift** (eine Kündigung per E-Mail ist unwirksam).
 - **Betriebsrat:** muss vor jeder Arbeitgeber-Kündigung angehört worden sein, sonst ist die Kündigung **unwirksam**.
 - **Klagefrist:** Gegen eine Kündigung muss innerhalb von **3 Wochen** nach Zugang beim Arbeitsgericht geklagt werden.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 20–21, 24 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 20–21, 24](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 ---
 
 <!-- card-id: kuendigung-und-arbeitsrecht-06 | typ: abgrenzung | pruefung: AP2 -->
 **Welche Personengruppen genießen einen besonderen Kündigungsschutz?**
 ?
 Besonderen Kündigungsschutz haben u. a. **Schwerbehinderte**, **Schwangere** (bis 4 Monate nach Geburt), Arbeitnehmer in **Eltern- oder Pflegezeit**, **Auszubildende** (nach Probezeit), **Betriebsrat / JAV** sowie **Datenschutz- bzw. Sicherheitsbeauftragte** (jeweils bis 1 Jahr nach Tätigkeitsende) und **Freiwilligen-/Wehrdienstleistende**.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 20 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 20](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=20>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 ---
 
 <!-- card-id: kuendigung-und-arbeitsrecht-07 | typ: abgrenzung | pruefung: AP2 -->
@@ -89,4 +89,4 @@ Besonderen Kündigungsschutz haben u. a. **Schwerbehinderte**, **Schwangere** (b
 - **Einfaches Zeugnis:** enthält mindestens Angaben zu **Art und Dauer** der Tätigkeit.
 - **Qualifiziertes Zeugnis:** erstreckt sich auf Verlangen des Arbeitnehmers zusätzlich auf **Leistung und Verhalten**.
 - **Form:** Es muss **schriftlich** erteilt werden; die elektronische Form ist gesetzlich ausgeschlossen (§ 109 Abs. 3 GewO, § 16 Abs. 1 BBiG).
-*Quelle: Deutsch (2. LJ) · `Skript_Deutsch.pdf` S. 5 (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
+*Quelle: Deutsch (2. LJ) · [Skript_Deutsch.pdf · S. 5](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=5>) (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*

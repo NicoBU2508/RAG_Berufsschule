@@ -39,7 +39,7 @@ tags:
 **Mit welchen sechs englischen Fragen erfragt man Eckdaten zu einem Unternehmen und der eigenen Tätigkeit (*Asking for information*)?**
 ?
 1. *Who do you work for?* (Arbeitgeber) · 2. *Where is it located?* (Standort) · 3. *How many employees does it have?* (Mitarbeiterzahl) · 4. *In which sector do you work?* (Branche) · 5. *When was it founded?* (Gründungsjahr) · 6. *What's your job?* (Aufgabe).
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 7 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 7](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=7>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -50,7 +50,7 @@ tags:
 - *The line is busy* = *The line is engaged* (Besetzt)
 - *Hold on, please* = *Just a moment, please* (Bitte warten)
 - *Shall I ask him/her to call back?* = *Should he/she ring you back?* (Soll er/sie zurückrufen?)
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 31–32 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 31–32](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=31>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -58,7 +58,7 @@ tags:
 **Welche höflichen englischen Standardformulierungen nutzt man am Telefon bei Rückfragen, Nichtverstehen und Abwesenheit?**
 ?
 Hilfe/Identität: *How can I help you?* / *Who is calling, please?* Bei Nichtverstehen: *I'm sorry, could you spell/repeat your name, please?* / *I didn't catch that.* Bei Abwesenheit: *I'm afraid Mr/Ms ... is unavailable at the moment. Would you like to leave a message?*
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 32, 34 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 32, 34](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=32>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -68,7 +68,7 @@ Hilfe/Identität: *How can I help you?* / *Who is calling, please?* Bei Nichtver
 - **Type I (likely / wahrscheinlich)**: *If* + Simple Present, *will*-Future (*If I find time, I'll call.*)
 - **Type II (possible but unlikely / unwahrscheinlich)**: *If* + Simple Past, *would* + Infinitiv (*If I found time, I would call.*)
 - **Type III (merely speculative / vergangen)**: *If* + Past Perfect, *would have* + Past Participle (*If I had found time, I would have called.*)
-*Quelle: Englisch (2. LJ) · `01_Conditionals.pdf` S. 1 (von 14) · [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals|Quellnotiz]]*
+*Quelle: Englisch (2. LJ) · [01_Conditionals.pdf · S. 1](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=1>) (von 14) · [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals|Quellnotiz]]*
 
 ---
 
@@ -76,7 +76,7 @@ Hilfe/Identität: *How can I help you?* / *Who is calling, please?* Bei Nichtver
 **Wann verwendet man einen *Mixed Conditional* (Mischung aus Type II und III) und wie wird er gebildet?**
 ?
 Ein *Mixed Conditional* verbindet eine irreale Bedingung in der Vergangenheit (**Type III**: *If* + Past Perfect) mit einer Folge in der Gegenwart (**Type II**: *would* + Infinitiv), z. B. *If they hadn't married so young, they would be happy now.* oder *Where would we be today if computers hadn't been invented?*
-*Quelle: Englisch (2. LJ) · `01_Conditionals.pdf` S. 1–2 (von 14) · [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals|Quellnotiz]], OCR/Original prüfen*
+*Quelle: Englisch (2. LJ) · [01_Conditionals.pdf · S. 1–2](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=1>) (von 14) · [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -87,4 +87,4 @@ Ein *Mixed Conditional* verbindet eine irreale Bedingung in der Vergangenheit (*
 - `unless` = *if ... not* / *except in the case that* (es sei denn; danach keine Verneinung!)
 - `in case` = *for fear that* / falls (Vorsorge, z. B. *in case of emergency*)
 - `when` = *at the time at which* (sobald/wenn sicher eintritt)
-*Quelle: Englisch (2. LJ) · `01_Conditionals.pdf` S. 1–2 (von 14) · [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals|Quellnotiz]], OCR/Original prüfen*
+*Quelle: Englisch (2. LJ) · [01_Conditionals.pdf · S. 1–2](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=1>) (von 14) · [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals|Quellnotiz]], OCR/Original prüfen*

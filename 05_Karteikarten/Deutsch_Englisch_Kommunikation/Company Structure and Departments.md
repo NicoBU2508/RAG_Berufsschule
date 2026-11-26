@@ -36,7 +36,7 @@ tags:
 - Vertrieb & Marketing: **Sales and Marketing**
 - Einkauf: **Purchasing** (bzw. **Ordering**)
 - Buchhaltung / Finanzen: **Accounts** / **Finance**
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 17–19 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 17–19](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=17>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -45,7 +45,7 @@ tags:
 ?
 - **R&D (Research and Development):** entwickelt neue Produkte und Ideen (*develops new products / creates new ideas*).
 - **Quality Control / Quality Assurance:** prüft, dass die Produkte unbeschädigt und fehlerfrei sind (*checks that the products are not damaged*).
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 18–19 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 18–19](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -54,7 +54,7 @@ tags:
 ?
 Man verwendet `<Department> is in charge of <Verb + -ing>` oder `<Department> is responsible for <Verb + -ing>` (alternativ direkt das Verb im Simple Present).
 Beispiel: *IT maintains the computer network.* / *Logistics is in charge of distributing finished products.*
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 19–20 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 19–20](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=19>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -64,7 +64,7 @@ Beispiel: *IT maintains the computer network.* / *Logistics is in charge of dist
 - **Logistics:** verteilt bzw. liefert die fertigen Produkte an Kunden (*distributes finished products to customers*).
 - **Production Planning:** organisiert die Produktionspläne (*organizes production schedules*).
 - **Customer Service:** bearbeitet Kundenprobleme und berät Käufer (*deals with customer problems*).
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 18–20 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 18–20](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -73,7 +73,7 @@ Beispiel: *IT maintains the computer network.* / *Logistics is in charge of dist
 ?
 - **Purchasing** kauft Rohstoffe und Komponenten ein (*buys raw materials / components*), während **Production** die Produkte herstellt (*makes the products*).
 - **Accounts** verwaltet im Unternehmenskontext nicht Kundenkonten im Vertrieb, sondern die **Unternehmensfinanzen** (*handles the company's finances*).
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 18–20 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 18–20](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=18>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -82,4 +82,4 @@ Beispiel: *IT maintains the computer network.* / *Logistics is in charge of dist
 ?
 - **Vertikale Hierarchie:** erleichtert die Planung, sorgt für Vorhersagbarkeit und Zuverlässigkeit (*predictability and reliability*) und vereinfacht die Kontrolle großer Gruppen von oben nach unten.
 - **Flache Hierarchie:** kein klassisches Management; Mitarbeiter übernehmen Eigenverantwortung, starten eigene Projekte und stehen direkter an den Kundenbedürfnissen.
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 22–23 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 22–23](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=22>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*

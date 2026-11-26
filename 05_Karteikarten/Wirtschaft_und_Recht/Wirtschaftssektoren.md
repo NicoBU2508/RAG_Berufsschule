@@ -33,7 +33,7 @@ tags:
 - **Sekundärer Sektor (industrieller Sektor):** Weiterverarbeitung der Rohstoffe (z. B. Industrie, Handwerk, Baugewerbe, Energie- und Wasserversorgung).
 - **Tertiärer Sektor (Dienstleistungssektor):** Handel und Dienstleistungen (z. B. Ärzte, Banken, Versicherungen, Tourismus, Friseur).
 - **Quartärsektor (Informationssektor):** Analyse und Verarbeitung von Informationen und Daten (z. B. IT-Dienstleister, Steuerberater, Forschungszentren).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 13 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 13](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=13>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -43,7 +43,7 @@ tags:
 - **Primärer Sektor:** Kiesgrube (Rohstoffgewinnung).
 - **Sekundärer Sektor:** Bäckerei, Zimmerei (Weiterverarbeitung/Handwerk).
 - **Tertiärer Sektor:** Möbelhaus (Handel), Autowerkstatt, Softwarefirma (Dienstleistung).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 14 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 14](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=14>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -51,7 +51,7 @@ tags:
 **Worin unterscheiden sich der Tertiär- und der Quartärsektor?**
 ?
 Der **Tertiäre Sektor** umfasst Handel und klassische Dienstleistungen (z. B. Banken, Versicherungen, Tourismus, Friseur). Der **Quartärsektor** wird als eigener vierter Bereich abgegrenzt und umfasst die **Analyse und Verarbeitung von Informationen und Daten** (z. B. IT-Dienstleister, Steuerberater, Forschungszentren).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 13 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 13](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=13>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -60,7 +60,7 @@ Der **Tertiäre Sektor** umfasst Handel und klassische Dienstleistungen (z. B. B
 ?
 1. In Deutschland nimmt der **Primärsektor den kleinsten** Anteil an der Wirtschaft ein (dominant ist der Tertiärsektor).
 2. **Fischerei** gehört zur Gewinnung von Rohstoffen (Urproduktion) und zählt daher zum **Primärsektor**, nicht zum Sekundärsektor.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 14 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 14](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=14>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -70,4 +70,4 @@ Der **Tertiäre Sektor** umfasst Handel und klassische Dienstleistungen (z. B. B
 - **Entwicklungsland (z. B. Kenia):** Größter Anteil im Primärsektor; Wirtschaft ist von Landwirtschaft geprägt, geringer Industrialisierungsgrad, niedriger Wohlstand.
 - **Schwellenland (z. B. Indien):** Primärsektor noch bedeutend, aber Tertiärsektor wächst; Übergang von Landwirtschaft zu Industrie und Dienstleistung.
 - **Industrieland (z. B. Deutschland):** Tertiärsektor dominant; hoch entwickeltes Industrieland mit hohem Lebensstandard und Wohlstand.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 15 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 15](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=15>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*

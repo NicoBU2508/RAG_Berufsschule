@@ -3,7 +3,7 @@ typ: quelle
 fach: "AE_Anwendungsentwicklung"
 fach_anzeige: "AE Anwendungsentwicklung"
 original_pfad: "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf"
-seiten: 61
+seiten: 62
 pruefung: "AP1, AP2"
 cssclasses:
   - lernquelle
@@ -12,23 +12,23 @@ tags:
   - quelle
   - ae_anwendungsentwicklung
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-24"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
 kanonische_themen: 5
-seiten_mit_kanonischem_thema: 59
+seiten_mit_kanonischem_thema: 60
 ki_exclude_seiten: [1,2]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 ki_sensitive_seiten: [23,25,38,39,40,52]
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=44, ocr_verified=9, redacted_summary=6)"
-textzeichen: 48385
+textstatus: "gemischt: visuell geprüft (ok=44, ocr_verified=10, redacted_summary=6)"
+textzeichen: 50300
 ---
 # 📄 AE Kislik
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/AE_Anwendungsentwicklung/AE_Anwendungsentwicklung|AE Anwendungsentwicklung]]
 > - **Original-PDF:** [AE_Kislik.pdf](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf>)
-> - **Seiten:** 61
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=44, ocr_verified=9, redacted_summary=6)
+> - **Seiten:** 62
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=44, ocr_verified=10, redacted_summary=6)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -36,7 +36,7 @@ textzeichen: 48385
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankgrundlagen und Datenbankentwicklung\|Datenbankgrundlagen und Datenbankentwicklung]] | Prüfungsrahmen der Quelle | 3–8, 12 | Visuell bestätigt auf 7 Seite(n). |
-| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell\|Datenbankmodellierung und ER-Modell]] | Prüfungsrahmen der Quelle | 6–7, 10–22, 58–61 | Visuell bestätigt auf 19 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell\|Datenbankmodellierung und ER-Modell]] | Prüfungsrahmen der Quelle | 6–7, 10–22, 58–62 | Visuell bestätigt auf 20 Seite(n); bei 4 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/SQL-Aggregatfunktionen und Gruppierung\|SQL-Aggregatfunktionen und Gruppierung]] | Prüfungsrahmen der Quelle | 33–37, 48–51 | Visuell bestätigt auf 9 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/SQL-Datenmanipulation INSERT UPDATE DELETE\|SQL-Datenmanipulation INSERT UPDATE DELETE]] | Prüfungsrahmen der Quelle | 23, 38–41, 52–57 | Visuell bestätigt auf 11 Seite(n); bei 6 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/SQL-Grundlagen und SELECT-Abfragen\|SQL-Grundlagen und SELECT-Abfragen]] | Prüfungsrahmen der Quelle | 9, 22–32, 42–47 | Visuell bestätigt auf 18 Seite(n); bei 5 Seite(n) OCR/Original für exakte Zitate prüfen. |
@@ -2281,4 +2281,42 @@ vertritt
 m
 ￼
 n
+```
+
+### Seite 62
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [AE_Kislik.pdf Seite 62](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=62>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=62]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=62]]
+
+> [!ocr] Visuell transkribiert
+> Abgedruckte Aufgabenstellung (16 Punkte) sowie handschriftliches ER-Diagramm aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Aufgabe: ER-Modell Gemeinschaftspraxis (16 Punkte)
+
+Situationsbeschreibung:
+Für die Terminverwaltung soll ein Datenbankmodell verwendet werden. Dazu soll zuerst die Terminbuchung dargestellt werden. Folgende Situationsbeschreibung liegt Ihnen vor:
+In einer Gemeinschaftspraxis arbeiten Ärzte, von denen jeder die Betreuung mehrerer Patienten übernimmt. Dabei hat jeder Patient einen Arzt, der ihn für gewöhnlich betreut. Ärzte können sich gegenseitig vertreten. Für eine Vertretung wird das Start- und das Enddatum erfasst.
+Ein Patient kann mehrere Termine vereinbaren, wobei zu einem Termin immer genau ein Patient zugeordnet wird. Zu einem geplanten Termin eines Patienten wird ein beliebiger Arzt zugewiesen. Generell kann ein Arzt aber mehrere Termine zugewiesen bekommen. Zu einem Termin wird die benötigte Terminart gespeichert. Eine Terminart kann mehreren Terminen zugewiesen werden. Zu jeder Terminart werden die entsprechenden Ressourcen hinterlegt. Dabei kann eine Ressource bei mehreren Terminarten ausgewählt werden.
+
+Arbeitsauftrag:
+Erstellen Sie ein ER-Modell für die Gemeinschaftspraxis. Verzichten Sie auf weitere Attribute außer den genannten.
+
+Handschriftliches ER-Modell (Chen-Notation):
+- Entitätsmengen (Rechtecke): Arzt, Patient, Termin, Terminart, Ressourcen
+- Beziehungen & Kardinalitäten:
+  - Rekursive Beziehung an Arzt: [Arzt] — n — <vertritt> — m — [Arzt] (m:n)
+    - Attribute an <vertritt>: Startdatum, Enddatum
+  - [Arzt] — 1 — <betreut> — n — [Patient] (1:n)
+  - [Patient] — 1 — <vereinbaren> — n — [Termin] (1:n)
+  - [Arzt] — 1 — <zugewiesen> — n — [Termin] (1:n)
+  - [Termin] — n — <zugewiesen> — 1 — [Terminart] (n:1)
+  - [Ressourcen] — n — <hat> — 1 — [Terminart] (gezeichnet als n:1)
+    [Hinweis: Fachlich laut Text („zu jeder Terminart die entsprechenden Ressourcen“, „eine Ressource bei mehreren Terminarten auswählbar“) eine m:n-Beziehung zwischen Terminart und Ressource.]
 ```

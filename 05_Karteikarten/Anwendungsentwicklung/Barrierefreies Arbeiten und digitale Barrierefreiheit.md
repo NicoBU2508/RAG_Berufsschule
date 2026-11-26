@@ -32,7 +32,7 @@ tags:
 ?
 Barrierefreiheit bedeutet, dass Menschen mit und ohne Behinderung Einrichtungen, Anwendungen oder Websites in allgemein üblicher Weise und ohne fremde Hilfe auffinden und nutzen können.
 Für digitale Barrierefreiheit gelten in Deutschland und der EU die Norm **EN 301 549** sowie international die **WCAG 2.2**.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 96–98 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 96–98](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=96>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -42,7 +42,7 @@ Für digitale Barrierefreiheit gelten in Deutschland und der EU die Norm **EN 30
 - **SGB IX (§ 164 Abs. 4) & ArbStättV (§ 3a Abs. 2 / ASR V3a.2):** verpflichten Arbeitgeber, Arbeitsplätze und Arbeitsstätten behindertengerecht und barrierefrei einzurichten.
 - **BITV 2.0:** regelt die digitale Barrierefreiheit für Websites, Apps und GUIs öffentlicher Stellen des Bundes.
 - **BFSG (ab 28.06.2025):** verpflichtet auch privatwirtschaftliche Anbieter (z. B. E-Commerce, Banken, Softwarehersteller) zu barrierefreien digitalen Produkten.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 94, 97–98 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 94, 97–98](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=94>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -53,7 +53,7 @@ Für digitale Barrierefreiheit gelten in Deutschland und der EU die Norm **EN 30
 2. **Bedienbarkeit:** 100 % Tastaturbedienung, logische Tab-Reihenfolge, keine Tastaturfallen, abschaltbare Timeouts.
 3. **Verständlichkeit:** einfache Sprache, konsistente Navigation, beschreibende Fehlermeldungen.
 4. **Robustheit:** semantisches HTML (`<nav>`, `<main>`, ARIA-Labels) für zuverlässiges Auslesen durch Hilfstechnologien.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 96, 98 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 96, 98](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=96>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -62,7 +62,7 @@ Für digitale Barrierefreiheit gelten in Deutschland und der EU die Norm **EN 30
 ?
 Das Prinzip der alternativen Wahrnehmung verlangt, dass Informationen mindestens über zwei Sinne (z. B. Sehen und Hören) zugänglich sind.
 Daher müssen z. B. Alarmsysteme, Ruf- oder Klingeltöne zusätzlich zum akustischen Signal auch optisch (etwa durch starkes Blinklicht für Gehörlose) angezeigt werden.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 95, 97 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 95, 97](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=95>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -71,7 +71,7 @@ Daher müssen z. B. Alarmsysteme, Ruf- oder Klingeltöne zusätzlich zum akustis
 ?
 - **Visuelle Einschränkungen:** Screenreader (Sprachausgabe des Bildschirminhalts), Braillezeilen (ertastbare Punktschrift) und Großschrifttastaturen.
 - **Motorische Einschränkungen:** Alternative Mäuse (Trackball, Vertikal-/Fußmaus, Head-/Eye-Tracking), Spezialtastaturen (Einhandtastatur, vertiefte Tasten) und Switches (Taster mit Scanning-Software).
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 96, 98 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 96, 98](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=96>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -80,4 +80,4 @@ Daher müssen z. B. Alarmsysteme, Ruf- oder Klingeltöne zusätzlich zum akustis
 ?
 Eine bloße Farbmarkierung verstößt gegen die Verständlichkeit/Wahrnehmbarkeit – nötig sind klare Textmeldungen zur Fehlerbehebung.
 Fehlende `alt`-Attribute und unsemantisches HTML verhindern zudem, dass Screenreader und Braillezeilen Inhalte korrekt auslesen und wiedergeben.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 96, 98 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 96, 98](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=96>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*

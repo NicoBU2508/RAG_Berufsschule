@@ -36,7 +36,7 @@ tags:
 **Auf welchem Grundprinzip beruht die deutsche Sozialversicherung, wer war ihr Ideengeber und welche fünf Zweige umfasst sie?**
 ?
 Sie entspringt dem **Solidaritätsprinzip** (Deutschland als Sozialstaat); Ideengeber war **Otto von Bismarck**. Die 5 Sozialversicherungen sind: **Kranken-, Pflege-, Renten-, Arbeitslosen-** und **Unfallversicherung**.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 42 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 42](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=42>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -44,7 +44,7 @@ Sie entspringt dem **Solidaritätsprinzip** (Deutschland als Sozialstaat); Ideen
 **Wie wird ausgehend vom Bruttoentgelt in der Entgeltabrechnung das Nettoentgelt und anschließend der Auszahlungsbetrag berechnet?**
 ?
 Vom **Bruttoentgelt** (Grundentgelt + Sonderzahlungen + AG-Anteil VL + Zuschläge) werden der **Arbeitnehmeranteil zur Sozialversicherung** (KV, PV, RV, AV) und die **Steuern** (Lohn-, Kirchensteuer, Solidaritätszuschlag vom steuerpflichtigen Bruttoentgelt) abgezogen = **Nettoentgelt**; abzüglich **vermögenswirksame Leistungen (VL)** ergibt sich der Auszahlungsbetrag.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 41, 48 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 41, 48](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=41>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -52,7 +52,7 @@ Vom **Bruttoentgelt** (Grundentgelt + Sonderzahlungen + AG-Anteil VL + Zuschläg
 **Welche der fünf Sozialversicherungen wird auf der Entgeltabrechnung NICHT vom Arbeitnehmeranteil des Bruttoentgelts abgezogen?**
 ?
 Die **gesetzliche Unfallversicherung** (Abzug auf der Entgeltabrechnung erfolgt nur für Kranken-, Pflege-, Renten- und Arbeitslosenversicherung).
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 41–42, 48 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 41–42, 48](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=41>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -60,7 +60,7 @@ Die **gesetzliche Unfallversicherung** (Abzug auf der Entgeltabrechnung erfolgt 
 **Wie unterscheiden sich Beitragsbemessungsgrenze und Versicherungspflichtgrenze in der Sozialversicherung?**
 ?
 Die **Beitragsbemessungsgrenze** legt fest, bis zu welcher Entgelthöhe Beiträge berechnet werden (Einkommen darüber bleibt unberücksichtigt). Die **Versicherungspflichtgrenze** bestimmt, bis zu welchem Jahreseinkommen Arbeitnehmer in der gesetzlichen Krankenversicherung pflichtversichert sind (darüber: freiwillig gesetzlich oder privat möglich).
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 47 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 47](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=47>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -68,7 +68,7 @@ Die **Beitragsbemessungsgrenze** legt fest, bis zu welcher Entgelthöhe Beiträg
 **Welche Sozialversicherung ist zuständig für: (a) Krankengeld & Mutterschaftsgeld, (b) Kurzarbeitergeld, (c) Erwerbsunfähigkeits- & Witwenrente?**
 ?
 (a) **Gesetzliche Krankenversicherung**, (b) **Arbeitslosenversicherung**, (c) **Gesetzliche Rentenversicherung** (ebenso Hinterbliebenenrente).
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 47 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 47](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=47>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -76,4 +76,4 @@ Die **Beitragsbemessungsgrenze** legt fest, bis zu welcher Entgelthöhe Beiträg
 **Welche Sozialversicherung übernimmt das Sterbegeld bei Tod infolge eines Arbeitsunfalls oder einer Berufskrankheit?**
 ?
 Die **gesetzliche Unfallversicherung** (nicht die Kranken- oder Rentenversicherung).
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 47 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 47](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=47>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*

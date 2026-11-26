@@ -29,7 +29,7 @@ tags:
 ?
 Primärdaten werden vom Unternehmen neu für die aktuelle Fragestellung erhoben (z. B. durch Befragungen, Interviews, Beobachtungen) und liefern genau die benötigten Daten.
 Sekundärdaten wurden bereits früher für andere, ähnliche Problemstellungen erhoben; sie sind schnell verfügbar und sparen Erhebungskosten, sind aber oft nicht aktuell und nur bedingt einsetzbar.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 99 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 99](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=99>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -38,7 +38,7 @@ Sekundärdaten wurden bereits früher für andere, ähnliche Problemstellungen e
 ?
 Interne Quellen sind bereits vorhanden (z. B. Kunden-, Lieferanten-, Artikeldateien, Auftragsstatistiken); sie sind schnell und kostenlos abrufbar, aber pflegeintensiv und oft nicht aktuell.
 Externe Quellen (z. B. Internet, Messen, Fachzeitschriften, Kunden-/Lieferantenbesuche) aktualisieren und ergänzen interne Daten, verursachen jedoch häufig Kosten, Suchaufwand und erhöhten Prüfbedarf bei der Korrektheit.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 99 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 99](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=99>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -47,7 +47,7 @@ Externe Quellen (z. B. Internet, Messen, Fachzeitschriften, Kunden-/Lieferantenb
 ?
 Der Datenschutz schützt die Privatsphäre eines Menschen (Recht auf informationelle Selbstbestimmung, u. a. geregelt im Bundesdatenschutzgesetz BDSG) und klärt, ob personenbezogene Daten überhaupt erhoben und verarbeitet werden dürfen.
 Die Datensicherheit schützt alle Daten – unabhängig vom Personenbezug – durch Maßnahmen vor Datenverlust, Manipulation und unberechtigten Einblicken.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 99–100 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 99–100](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=99>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -57,4 +57,4 @@ Die Datensicherheit schützt alle Daten – unabhängig vom Personenbezug – du
 - **Vertraulichkeit:** Nur ein befugter Personenkreis erhält Zugriff und Einblick in die Daten.
 - **Integrität:** Die Daten sind vor Verlust und Manipulation geschützt.
 - **Verfügbarkeit:** Autorisierte Personen können über einen bestimmten Zeitraum auf die Daten zugreifen.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 99 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 99](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=99>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*

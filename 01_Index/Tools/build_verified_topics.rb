@@ -65,7 +65,10 @@ class ExclusionPolicy
   WHOLE_SOURCE_REASONS = {
     "IT_Sicherheit_Fachbegriffe.md" => "Export visuell nicht belastbar: sichtbar sind nur Überschriften; Definitionen liegen außerhalb der sichtbaren Seitenfläche",
     "IT_Sicherheit_Aufgabe_1_1.md" => "Exakte Seitendublette von IT_Sicherheit_Aufgabe_1.md, Seite 2",
-    "IT_Sicherheit_Lernziele.md" => "Nur Index- und Lernhinweisseiten ohne eigenständigen fachlichen Lerninhalt"
+    "IT_Sicherheit_Lernziele.md" => "Nur Index- und Lernhinweisseiten ohne eigenständigen fachlichen Lerninhalt",
+    "Stol_02_Unternehmenswiki_4_Block.md" => "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten",
+    "Stol_02_Unternehmenswiki_5_Block.md" => "Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten",
+    "Stol_Wiki.md" => "Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten"
   }.freeze
 
   PERSONAL_PAGES = {
@@ -196,7 +199,8 @@ class TopicMapper
     "Softwarequalität Wartbarkeit Usability" => ["Softwarequalität und Wartbarkeit"],
     "Syntax und Code-Struktur" => ["Java-Syntax und Codestruktur"],
     "Unternehmen und betriebliche Funktionen" => ["Betrieb und Unternehmen"],
-    "Unternehmenswiki Projektaufgaben" => ["Unternehmenswiki"],
+    "Unternehmenswiki" => ["Java- und OOP-Grundlagen"],
+    "Unternehmenswiki Projektaufgaben" => ["Java- und OOP-Grundlagen"],
     "Werkzeuge Debugging und IDE" => ["Entwicklungswerkzeuge und Debugging"]
   }.freeze
 
@@ -254,7 +258,7 @@ class CategoryResolver
     "Programmablaufdarstellungen", "Programmiersprachen und Übersetzer",
     "Rekursion und Iteration", "Schleifen", "Softwareanpassung und Dokumentation",
     "Softwarelebenszyklus und Vorgehensmodelle", "Softwarequalität und Wartbarkeit",
-    "Suchalgorithmen", "Unternehmenswiki", "Variablen und Datentypen"
+    "Suchalgorithmen", "Java- und OOP-Grundlagen", "Variablen und Datentypen"
   ].freeze
 
   BASELINE_IT_TOPICS = [

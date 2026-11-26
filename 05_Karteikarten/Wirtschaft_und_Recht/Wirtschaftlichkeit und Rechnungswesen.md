@@ -34,7 +34,7 @@ tags:
 ?
 In der Praxis treffen **unendliche Bedürfnisse** auf **knappe Güter/begrenzte Mittel**.
 Wirtschaftliches Handeln („wirtschaften“) bedeutet, diese knappen Mittel planvoll und vernünftig so einzusetzen, dass ein Maximum an Bedürfnisbefriedigung erreicht wird.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 16 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 16](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=16>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -43,7 +43,7 @@ Wirtschaftliches Handeln („wirtschaften“) bedeutet, diese knappen Mittel pla
 ?
 **Minimalprinzip:** Ein *gegebenes Ziel* (Ertrag/Zweck) wird mit *minimalem Mitteleinsatz* erreicht (z. B. bestimmten Umsatz mit möglichst geringen Personalkosten).
 **Maximalprinzip:** Mit *gegebenen Mitteln* (z. B. 10 l Benzin / festes Budget) wird ein *maximales Ziel* erzielt (z. B. möglichst weit fahren / möglichst viele Werkzeuge aus 1 t Stahl herstellen).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 16–18 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 16–18](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=16>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -52,7 +52,7 @@ Wirtschaftliches Handeln („wirtschaften“) bedeutet, diese knappen Mittel pla
 ?
 Das ökonomische Prinzip kennt nur die Optimierung **einer** Größe bei **vorgegebener** anderer Größe: Entweder ist das Ziel fest (**Minimalprinzip**) oder der Mitteleinsatz ist fest (**Maximalprinzip**).
 Beides gleichzeitig zu extremieren („Weder noch“) ist logisch nicht möglich.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 16–17 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 16–17](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=16>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -61,7 +61,7 @@ Beides gleichzeitig zu extremieren („Weder noch“) ist logisch nicht möglich
 ?
 1. **Ökonomische Ziele** (Oberziel: Gewinnmaximierung; monetär z. B. Kostensenkung, nicht-monetär z. B. Marktanteil; Nebenbedingung: Aufrechterhaltung der **Liquidität**).
 2. **Ökologische Ziele** (z. B. CO2-Reduzierung) und 3. **Soziale Ziele** (z. B. Arbeitsplatzerhalt, faire Bezahlung).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `ZusammenfassungBGWP.pdf` S. 6 (von 7) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [ZusammenfassungBGWP.pdf · S. 6](<99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6>) (von 7) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -70,7 +70,7 @@ Beides gleichzeitig zu extremieren („Weder noch“) ist logisch nicht möglich
 ?
 Zielbeziehungen: **Zielharmonie** (komplementär: Ziel A fördert B), **Zielkonflikt** (konkurrierend: Ziel A beeinträchtigt B) und **indifferente Ziele** (unabhängig).
 Die **SMART-Regel** für Ziele steht für: **S**pezifisch, **M**essbar, **A**kzeptiert, **R**ealistisch, **T**erminiert.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `ZusammenfassungBGWP.pdf` S. 6 (von 7) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [ZusammenfassungBGWP.pdf · S. 6](<99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=6>) (von 7) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -79,7 +79,7 @@ Die **SMART-Regel** für Ziele steht für: **S**pezifisch, **M**essbar, **A**kze
 ?
 Solange der **Deckungsbeitrag positiv** ist (`Verkaufserlöse - variable Kosten > 0`), trägt das Produkt zur Deckung der fixen Kosten bei und wird aufgenommen bzw. bleibt im Sortiment.
 Bei einem **negativen Deckungsbeitrag** leistet es keinen Beitrag zur Fixkostendeckung und wird gestrichen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 37 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 37](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=37>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -87,4 +87,4 @@ Bei einem **negativen Deckungsbeitrag** leistet es keinen Beitrag zur Fixkostend
 **Wie setzen sich die Gesamtkosten (`Kg`) einer Periode im Rechnungswesen zusammen?**
 ?
 Die Gesamtkosten (`Kg`) einer Periode (z. B. Monat) ergeben sich aus den **fixen Kosten (`Kf`)**, die mengenunabhängig anfallen (z. B. Steuern, Versicherung, Instandhaltung, Abschreibung, Zinsen, Gehälter), plus den **variablen Kosten (`Kv`)**, die mengenabhängig anfallen (z. B. Rohstoffe, Hilfsstoffe, Energie, Löhne).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 39 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 39](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=39>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*

@@ -24,7 +24,10 @@ EXTRA_EXCLUSIONS = [
   "06_Altklausuren",
   ".agents",
   "IT_Sicherheit_Aufgabe_1_1.md",
-  "IT_Sicherheit_Lernziele.md"
+  "IT_Sicherheit_Lernziele.md",
+  "Stol_02_Unternehmenswiki_4_Block.md",
+  "Stol_02_Unternehmenswiki_5_Block.md",
+  "Stol_Wiki.md"
 ].freeze
 OBSOLETE_EXCLUSIONS = [
   "03_Themen/Weiterleitungen",

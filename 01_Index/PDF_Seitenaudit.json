@@ -1,30 +1,30 @@
 {
   "schema_version": 2,
   "audit_date": "2026-11-26",
-  "scope": "Alle 1402 aktiven, nichtprivaten PDF-Seiten wurden visuell geprüft; private Inhalte blieben ungelesen.",
+  "scope": "Alle 1403 aktiven, nichtprivaten PDF-Seiten wurden visuell geprüft; private Inhalte blieben ungelesen.",
   "method": "Jede aktive PDF-Seite wurde über vollständig gerenderte Kontaktbögen oder Einzelseiten bei Originaldetail visuell geprüft und mit Quelltext sowie bestehenden Modul-/Themenlinks verglichen.",
   "privacy": "Der private Notenordner wurde nur als ausgeschlossener Pfad inventarisiert und nicht geöffnet.",
   "totals": {
     "active_pdfs": 53,
-    "active_pages": 1402,
+    "active_pages": 1403,
     "visually_identical_duplicate_pdfs": 0,
     "visually_identical_duplicate_pages": 0,
     "nonprivate_pdfs_accounted_for": 53,
-    "nonprivate_pages_accounted_for": 1402,
+    "nonprivate_pages_accounted_for": 1403,
     "private_pdfs_unread": 1,
     "source_text_match": {
       "missing": 28,
       "ocr_error": 22,
       "ok": 938,
-      "partial": 414
+      "partial": 415
     },
     "mapping_status_before_correction": {
-      "correct": 95,
+      "correct": 88,
       "excluded": 23,
-      "missing": 335,
-      "mixed": 431,
-      "ok": 246,
-      "overbroad": 265,
+      "missing": 317,
+      "mixed": 422,
+      "ok": 311,
+      "overbroad": 235,
       "verified": 7
     },
     "content_type": {
@@ -34,12 +34,12 @@
       "fragment": 55,
       "index": 34,
       "leer": 19,
-      "loesung": 323,
+      "loesung": 324,
       "theorie": 585
     },
     "confidence": {
-      "high": 1365,
-      "medium": 37
+      "high": 1369,
+      "medium": 34
     }
   },
   "duplicate_evidence": {
@@ -93,8 +93,9 @@
         "partial": 2
       },
       "mapping_status_before_correction": {
-        "missing": 22,
-        "mixed": 76,
+        "missing": 18,
+        "mixed": 71,
+        "ok": 9,
         "overbroad": 2
       }
     },
@@ -152,13 +153,14 @@
       "subject": "AE_Anwendungsentwicklung",
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
-      "pages": 61,
+      "pages": 62,
       "source_text_match": {
         "ok": 52,
-        "partial": 9
+        "partial": 10
       },
       "mapping_status_before_correction": {
-        "missing": 61
+        "missing": 61,
+        "ok": 1
       }
     },
     {
@@ -280,8 +282,8 @@
         "partial": 2
       },
       "mapping_status_before_correction": {
-        "missing": 3,
-        "mixed": 1
+        "missing": 2,
+        "ok": 2
       }
     },
     {
@@ -337,8 +339,8 @@
       },
       "mapping_status_before_correction": {
         "mixed": 6,
-        "ok": 1,
-        "overbroad": 38
+        "ok": 3,
+        "overbroad": 36
       }
     },
     {
@@ -581,9 +583,10 @@
         "partial": 13
       },
       "mapping_status_before_correction": {
-        "correct": 5,
-        "mixed": 9,
-        "overbroad": 2
+        "correct": 4,
+        "mixed": 8,
+        "ok": 3,
+        "overbroad": 1
       }
     },
     {
@@ -669,8 +672,9 @@
       },
       "mapping_status_before_correction": {
         "correct": 11,
-        "missing": 34,
-        "overbroad": 56
+        "missing": 21,
+        "ok": 39,
+        "overbroad": 30
       }
     },
     {
@@ -683,7 +687,8 @@
         "partial": 7
       },
       "mapping_status_before_correction": {
-        "mixed": 7,
+        "mixed": 5,
+        "ok": 2,
         "overbroad": 1
       }
     },
@@ -799,10 +804,8 @@
         "partial": 1
       },
       "mapping_status_before_correction": {
-        "correct": 3,
         "mixed": 2,
-        "ok": 1,
-        "overbroad": 1
+        "ok": 5
       }
     },
     {
@@ -816,8 +819,8 @@
         "partial": 1
       },
       "mapping_status_before_correction": {
-        "correct": 3,
-        "mixed": 1
+        "mixed": 1,
+        "ok": 3
       }
     }
   ],
@@ -9412,6 +9415,25 @@
       ]
     },
     {
+      "report": "01_Index/Auditdaten/Import/20261126_ae_2lj_kislik_skript_s62_62.json",
+      "scope": "GoodNotes-Import: 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md (Seiten 62–62)",
+      "coverage": null,
+      "counts": null,
+      "validation": null,
+      "critical_findings": [
+
+      ],
+      "text_issues": [
+
+      ],
+      "mapping_issues": [
+
+      ],
+      "canonical_topic_candidates": [
+
+      ]
+    },
+    {
       "report": "01_Index/Auditdaten/Import/20261126_bgwp_2lj_mitschrift_s28_35.json",
       "scope": "GoodNotes-Import: 02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md (Seiten 28–35)",
       "coverage": null,
@@ -9471,6 +9493,25 @@
     {
       "report": "01_Index/Auditdaten/Import/20261126_it_tech_2lj_jacob_verstaerkung_daempfung_s5_8.json",
       "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md (Seiten 5–8)",
+      "coverage": null,
+      "counts": null,
+      "validation": null,
+      "critical_findings": [
+
+      ],
+      "text_issues": [
+
+      ],
+      "mapping_issues": [
+
+      ],
+      "canonical_topic_candidates": [
+
+      ]
+    },
+    {
+      "report": "01_Index/Auditdaten/Import/20261126_ocr_visual_transcriptions.json",
+      "scope": "Visuelle Transkription und OCR-Verifizierung von 64 Seiten (ocr_error, 9 komplett schwache Themen, Bgwp_schredl S. 42-43)",
       "coverage": null,
       "counts": null,
       "validation": null,
@@ -9592,7 +9633,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
       "page": 3,
       "source_text_status": "ocr",
-      "source_section_chars": 1530,
+      "source_section_chars": 1221,
       "previous_modules": [
 
       ],
@@ -9606,11 +9647,10 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ocr_error",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Aufgaben Übungen und Lösungen",
-          "Programm und Software"
+
         ],
         "recommended_topics": [
           "Programm und Software"
@@ -9618,6 +9658,11 @@
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -9821,7 +9866,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
       "page": 9,
       "source_text_status": "ocr",
-      "source_section_chars": 1650,
+      "source_section_chars": 1557,
       "previous_modules": [
 
       ],
@@ -9835,10 +9880,10 @@
         ],
         "content_type": "beispiel",
         "source_text_match": "ocr_error",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Algorithmus und Programmablauf"
+
         ],
         "recommended_topics": [
           "Algorithmus",
@@ -9847,6 +9892,11 @@
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -10010,7 +10060,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
       "page": 14,
       "source_text_status": "ocr",
-      "source_section_chars": 1026,
+      "source_section_chars": 1708,
       "previous_modules": [
 
       ],
@@ -10025,12 +10075,10 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ocr_error",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Algorithmus und Programmablauf",
-          "Aufgaben Übungen und Lösungen",
-          "Operatoren und Bedingungen"
+
         ],
         "recommended_topics": [
           "Operatoren und Bedingungen",
@@ -10039,6 +10087,11 @@
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -10538,7 +10591,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
       "page": 28,
       "source_text_status": "ocr",
-      "source_section_chars": 10497,
+      "source_section_chars": 2010,
       "previous_modules": [
 
       ],
@@ -10554,11 +10607,10 @@
         ],
         "content_type": "beispiel",
         "source_text_match": "ocr_error",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Softwareentwicklung Vorgehensmodelle Scrum V-Modell",
-          "Softwarequalität Wartbarkeit Usability"
+
         ],
         "recommended_topics": [
           "Softwarelebenszyklus und Vorgehensmodelle",
@@ -10567,6 +10619,11 @@
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -10617,7 +10674,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
       "page": 30,
       "source_text_status": "ocr",
-      "source_section_chars": 3217,
+      "source_section_chars": 2077,
       "previous_modules": [
 
       ],
@@ -10631,10 +10688,10 @@
         ],
         "content_type": "theorie",
         "source_text_match": "ocr_error",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Arrays und Sammlungen"
+
         ],
         "recommended_topics": [
           "Arrays und Datenstrukturen"
@@ -10642,6 +10699,11 @@
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -10811,7 +10873,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
       "page": 35,
       "source_text_status": "ocr",
-      "source_section_chars": 1616,
+      "source_section_chars": 1768,
       "previous_modules": [
 
       ],
@@ -10826,13 +10888,10 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ocr_error",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Arrays und Sammlungen",
-          "Aufgaben Übungen und Lösungen",
-          "Operatoren und Bedingungen",
-          "Schleifen"
+
         ],
         "recommended_topics": [
           "Arrays und Datenstrukturen",
@@ -10842,6 +10901,11 @@
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -10852,7 +10916,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
       "page": 36,
       "source_text_status": "ocr",
-      "source_section_chars": 2229,
+      "source_section_chars": 1890,
       "previous_modules": [
 
       ],
@@ -10867,12 +10931,10 @@
         ],
         "content_type": "aufgabe",
         "source_text_match": "ocr_error",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Arrays und Sammlungen",
-          "Aufgaben Übungen und Lösungen",
-          "Schleifen"
+
         ],
         "recommended_topics": [
           "Arrays und Datenstrukturen",
@@ -10881,6 +10943,11 @@
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -11305,7 +11372,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
       "page": 48,
       "source_text_status": "ocr",
-      "source_section_chars": 1730,
+      "source_section_chars": 1524,
       "previous_modules": [
 
       ],
@@ -11320,11 +11387,10 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ocr_error",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Algorithmus und Programmablauf",
-          "Aufgaben Übungen und Lösungen"
+
         ],
         "recommended_topics": [
           "Algorithmus",
@@ -11333,6 +11399,11 @@
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -11922,7 +11993,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
       "page": 64,
       "source_text_status": "ocr",
-      "source_section_chars": 2469,
+      "source_section_chars": 1602,
       "previous_modules": [
 
       ],
@@ -11938,19 +12009,23 @@
         ],
         "content_type": "beispiel",
         "source_text_match": "ocr_error",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Java Grundlagen und IDE",
-          "Werkzeuge Debugging und IDE"
+
         ],
         "recommended_topics": [
           "Entwicklungswerkzeuge und Debugging",
-          "Java Grundlagen"
+          "Java-Grundlagen"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -15306,7 +15381,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
       "page": 20,
       "source_text_status": "ocr",
-      "source_section_chars": 2717,
+      "source_section_chars": 2919,
       "previous_modules": [
 
       ],
@@ -15335,6 +15410,7 @@
         "support_only": false,
         "sensitive": false,
         "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -19498,7 +19574,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
       "page": 61,
       "source_text_status": "text",
-      "source_section_chars": 744,
+      "source_section_chars": 745,
       "previous_modules": [
 
       ],
@@ -19527,6 +19603,45 @@
         "support_only": false,
         "sensitive": false,
         "ocr_verified": false,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=62",
+      "subject": "AE_Anwendungsentwicklung",
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
+      "page": 62,
+      "source_text_status": "ocr",
+      "source_section_chars": 2514,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "Datenbankmodellierung und ER-Modell",
+        "secondary_topics": [
+
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Datenbankmodellierung und ER-Modell"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
         "visual_checked": true
       }
     },
@@ -19698,7 +19813,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 1,
       "source_text_status": "text",
-      "source_section_chars": 239,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -19733,7 +19848,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 2,
       "source_text_status": "text",
-      "source_section_chars": 239,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -19768,15 +19883,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 3,
       "source_text_status": "text",
-      "source_section_chars": 2306,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Java-Grundlagen",
-        "Programm und Software",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "audit": {
         "primary_topic": "Java Grundlagen",
@@ -19813,12 +19925,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 4,
       "source_text_status": "text",
-      "source_section_chars": 2284,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Entwicklungswerkzeuge und Debugging"
+
       ],
       "audit": {
         "primary_topic": "Programmiersprachen und Übersetzer",
@@ -19857,7 +19969,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 5,
       "source_text_status": "text",
-      "source_section_chars": 2397,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -19901,7 +20013,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 6,
       "source_text_status": "text",
-      "source_section_chars": 2265,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -19945,7 +20057,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 7,
       "source_text_status": "text",
-      "source_section_chars": 1173,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -19989,7 +20101,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 8,
       "source_text_status": "text",
-      "source_section_chars": 962,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20031,7 +20143,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 9,
       "source_text_status": "text",
-      "source_section_chars": 856,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20073,7 +20185,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 10,
       "source_text_status": "text",
-      "source_section_chars": 794,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20115,7 +20227,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 11,
       "source_text_status": "text",
-      "source_section_chars": 1572,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20157,7 +20269,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 12,
       "source_text_status": "text",
-      "source_section_chars": 1076,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20199,7 +20311,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 13,
       "source_text_status": "text",
-      "source_section_chars": 802,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20241,7 +20353,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 14,
       "source_text_status": "text",
-      "source_section_chars": 704,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20283,7 +20395,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 15,
       "source_text_status": "text",
-      "source_section_chars": 1741,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20325,7 +20437,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 16,
       "source_text_status": "text",
-      "source_section_chars": 2457,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20367,7 +20479,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 17,
       "source_text_status": "text",
-      "source_section_chars": 1900,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20405,12 +20517,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 18,
       "source_text_status": "text",
-      "source_section_chars": 2541,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Variablen und Datentypen"
+
       ],
       "audit": {
         "primary_topic": "Variablen und Datentypen",
@@ -20444,7 +20556,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 19,
       "source_text_status": "text",
-      "source_section_chars": 2091,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20483,7 +20595,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 20,
       "source_text_status": "text",
-      "source_section_chars": 2031,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20522,7 +20634,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 21,
       "source_text_status": "text",
-      "source_section_chars": 2142,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20561,7 +20673,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 22,
       "source_text_status": "text",
-      "source_section_chars": 1981,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20600,7 +20712,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 23,
       "source_text_status": "text",
-      "source_section_chars": 1944,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20639,7 +20751,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 24,
       "source_text_status": "text",
-      "source_section_chars": 1604,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20676,7 +20788,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 25,
       "source_text_status": "text",
-      "source_section_chars": 1473,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20713,7 +20825,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 26,
       "source_text_status": "text",
-      "source_section_chars": 2825,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20750,7 +20862,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 27,
       "source_text_status": "text",
-      "source_section_chars": 1101,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20787,12 +20899,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 28,
       "source_text_status": "text",
-      "source_section_chars": 1486,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Operatoren und Bedingungen"
+
       ],
       "audit": {
         "primary_topic": "Operatoren und Bedingungen",
@@ -20827,7 +20939,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 29,
       "source_text_status": "text",
-      "source_section_chars": 2254,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20865,7 +20977,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 30,
       "source_text_status": "text",
-      "source_section_chars": 1538,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20905,7 +21017,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 31,
       "source_text_status": "text",
-      "source_section_chars": 1543,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20945,7 +21057,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 32,
       "source_text_status": "text",
-      "source_section_chars": 1200,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -20985,7 +21097,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 33,
       "source_text_status": "text",
-      "source_section_chars": 1662,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21025,12 +21137,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 34,
       "source_text_status": "text",
-      "source_section_chars": 2564,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Objektorientierung"
+
       ],
       "audit": {
         "primary_topic": "Objektorientierung",
@@ -21066,7 +21178,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 35,
       "source_text_status": "text",
-      "source_section_chars": 2335,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21105,7 +21217,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 36,
       "source_text_status": "text",
-      "source_section_chars": 2246,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21144,7 +21256,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 37,
       "source_text_status": "text",
-      "source_section_chars": 2127,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21183,7 +21295,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 38,
       "source_text_status": "text",
-      "source_section_chars": 2157,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21222,7 +21334,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 39,
       "source_text_status": "text",
-      "source_section_chars": 2195,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21261,12 +21373,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 40,
       "source_text_status": "text",
-      "source_section_chars": 2334,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Methoden, Parameter und Rückgabewerte"
+
       ],
       "audit": {
         "primary_topic": "Methoden, Parameter und Rückgabewerte",
@@ -21302,7 +21414,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 41,
       "source_text_status": "text",
-      "source_section_chars": 1364,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21343,7 +21455,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 42,
       "source_text_status": "text",
-      "source_section_chars": 1824,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21384,7 +21496,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 43,
       "source_text_status": "text",
-      "source_section_chars": 1344,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21425,7 +21537,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 44,
       "source_text_status": "text",
-      "source_section_chars": 1667,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21466,7 +21578,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 45,
       "source_text_status": "text",
-      "source_section_chars": 1920,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21507,7 +21619,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 46,
       "source_text_status": "text",
-      "source_section_chars": 1320,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21548,7 +21660,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 47,
       "source_text_status": "text",
-      "source_section_chars": 1788,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21589,7 +21701,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
       "page": 48,
       "source_text_status": "text",
-      "source_section_chars": 754,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21630,7 +21742,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 1,
       "source_text_status": "text",
-      "source_section_chars": 239,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21665,7 +21777,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 2,
       "source_text_status": "text",
-      "source_section_chars": 239,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21700,15 +21812,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 3,
       "source_text_status": "text",
-      "source_section_chars": 2630,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Java-Grundlagen",
-        "Programm und Software",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "audit": {
         "primary_topic": "Java Grundlagen",
@@ -21745,12 +21854,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 4,
       "source_text_status": "text",
-      "source_section_chars": 2430,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Entwicklungswerkzeuge und Debugging"
+
       ],
       "audit": {
         "primary_topic": "Programmiersprachen und Übersetzer",
@@ -21789,7 +21898,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 5,
       "source_text_status": "text",
-      "source_section_chars": 2397,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21833,7 +21942,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 6,
       "source_text_status": "text",
-      "source_section_chars": 2265,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21877,7 +21986,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 7,
       "source_text_status": "text",
-      "source_section_chars": 1173,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21921,7 +22030,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 8,
       "source_text_status": "text",
-      "source_section_chars": 962,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -21963,7 +22072,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 9,
       "source_text_status": "text",
-      "source_section_chars": 856,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22005,7 +22114,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 10,
       "source_text_status": "text",
-      "source_section_chars": 794,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22047,7 +22156,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 11,
       "source_text_status": "text",
-      "source_section_chars": 1572,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22089,7 +22198,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 12,
       "source_text_status": "text",
-      "source_section_chars": 1076,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22131,7 +22240,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 13,
       "source_text_status": "text",
-      "source_section_chars": 802,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22173,7 +22282,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 14,
       "source_text_status": "text",
-      "source_section_chars": 704,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22215,7 +22324,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 15,
       "source_text_status": "text",
-      "source_section_chars": 1741,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22257,7 +22366,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 16,
       "source_text_status": "text",
-      "source_section_chars": 2457,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22299,7 +22408,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 17,
       "source_text_status": "text",
-      "source_section_chars": 1900,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22337,12 +22446,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 18,
       "source_text_status": "text",
-      "source_section_chars": 2541,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Variablen und Datentypen"
+
       ],
       "audit": {
         "primary_topic": "Variablen und Datentypen",
@@ -22376,7 +22485,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 19,
       "source_text_status": "text",
-      "source_section_chars": 2091,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22415,7 +22524,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 20,
       "source_text_status": "text",
-      "source_section_chars": 2031,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22454,7 +22563,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 21,
       "source_text_status": "text",
-      "source_section_chars": 2142,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22493,7 +22602,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 22,
       "source_text_status": "text",
-      "source_section_chars": 1981,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22532,7 +22641,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 23,
       "source_text_status": "text",
-      "source_section_chars": 1944,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22571,7 +22680,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 24,
       "source_text_status": "text",
-      "source_section_chars": 1604,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22608,7 +22717,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 25,
       "source_text_status": "text",
-      "source_section_chars": 1473,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22645,7 +22754,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 26,
       "source_text_status": "text",
-      "source_section_chars": 2825,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22682,7 +22791,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 27,
       "source_text_status": "text",
-      "source_section_chars": 1101,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22719,12 +22828,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 28,
       "source_text_status": "text",
-      "source_section_chars": 1486,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Operatoren und Bedingungen"
+
       ],
       "audit": {
         "primary_topic": "Operatoren und Bedingungen",
@@ -22759,7 +22868,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 29,
       "source_text_status": "text",
-      "source_section_chars": 2254,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22797,7 +22906,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 30,
       "source_text_status": "text",
-      "source_section_chars": 1538,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22837,7 +22946,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 31,
       "source_text_status": "text",
-      "source_section_chars": 1543,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22877,7 +22986,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 32,
       "source_text_status": "text",
-      "source_section_chars": 1200,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22917,7 +23026,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 33,
       "source_text_status": "text",
-      "source_section_chars": 1662,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -22957,12 +23066,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 34,
       "source_text_status": "text",
-      "source_section_chars": 2564,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Objektorientierung"
+
       ],
       "audit": {
         "primary_topic": "Objektorientierung",
@@ -22998,7 +23107,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 35,
       "source_text_status": "text",
-      "source_section_chars": 2335,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23037,7 +23146,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 36,
       "source_text_status": "text",
-      "source_section_chars": 2246,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23076,7 +23185,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 37,
       "source_text_status": "text",
-      "source_section_chars": 2127,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23115,7 +23224,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 38,
       "source_text_status": "text",
-      "source_section_chars": 2157,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23154,7 +23263,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 39,
       "source_text_status": "text",
-      "source_section_chars": 2195,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23193,12 +23302,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 40,
       "source_text_status": "text",
-      "source_section_chars": 2334,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Methoden, Parameter und Rückgabewerte"
+
       ],
       "audit": {
         "primary_topic": "Methoden, Parameter und Rückgabewerte",
@@ -23234,7 +23343,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 41,
       "source_text_status": "text",
-      "source_section_chars": 1364,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23275,7 +23384,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 42,
       "source_text_status": "text",
-      "source_section_chars": 1824,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23316,7 +23425,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 43,
       "source_text_status": "text",
-      "source_section_chars": 1344,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23357,7 +23466,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 44,
       "source_text_status": "text",
-      "source_section_chars": 1667,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23398,7 +23507,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 45,
       "source_text_status": "text",
-      "source_section_chars": 1920,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23439,7 +23548,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 46,
       "source_text_status": "text",
-      "source_section_chars": 1320,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23480,7 +23589,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 47,
       "source_text_status": "text",
-      "source_section_chars": 1788,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23521,7 +23630,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 48,
       "source_text_status": "text",
-      "source_section_chars": 2138,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23562,7 +23671,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 49,
       "source_text_status": "text",
-      "source_section_chars": 1598,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23603,7 +23712,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 50,
       "source_text_status": "text",
-      "source_section_chars": 1211,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23644,7 +23753,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 51,
       "source_text_status": "text",
-      "source_section_chars": 1851,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23685,7 +23794,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 52,
       "source_text_status": "text",
-      "source_section_chars": 1666,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23726,7 +23835,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 53,
       "source_text_status": "text",
-      "source_section_chars": 1849,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23767,7 +23876,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 54,
       "source_text_status": "text",
-      "source_section_chars": 1941,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23808,7 +23917,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 55,
       "source_text_status": "text",
-      "source_section_chars": 1512,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23849,7 +23958,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf",
       "page": 56,
       "source_text_status": "text",
-      "source_section_chars": 1169,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -23975,10 +24084,10 @@
 
       ],
       "previous_curated_topics": [
+        "Java- und OOP-Grundlagen",
         "Java-Grundlagen",
         "Programm und Software",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+        "Programmiersprachen und Übersetzer"
       ],
       "audit": {
         "primary_topic": "Java-Grundlagen",
@@ -27578,7 +27687,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 1,
       "source_text_status": "text",
-      "source_section_chars": 252,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -27613,7 +27722,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 2,
       "source_text_status": "text",
-      "source_section_chars": 210,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -27648,7 +27757,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 3,
       "source_text_status": "text",
-      "source_section_chars": 239,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -27683,7 +27792,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 4,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -27725,7 +27834,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 5,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -27769,7 +27878,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 6,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -27813,7 +27922,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 7,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -27857,7 +27966,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 8,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -27901,7 +28010,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 9,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -27943,7 +28052,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 10,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -27985,7 +28094,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 11,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28027,7 +28136,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 12,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28069,7 +28178,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 13,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28111,7 +28220,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 14,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28153,7 +28262,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 15,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28195,7 +28304,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 16,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28237,7 +28346,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 17,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28276,7 +28385,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 18,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28315,7 +28424,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 19,
       "source_text_status": "text",
-      "source_section_chars": 260,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28354,7 +28463,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 20,
       "source_text_status": "text",
-      "source_section_chars": 239,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28390,15 +28499,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 21,
       "source_text_status": "text",
-      "source_section_chars": 2759,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Java-Grundlagen",
-        "Programm und Software",
-        "Programmiersprachen und Übersetzer",
-        "Unternehmenswiki"
+
       ],
       "audit": {
         "primary_topic": "Java Grundlagen",
@@ -28436,12 +28542,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 22,
       "source_text_status": "text",
-      "source_section_chars": 2350,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Entwicklungswerkzeuge und Debugging"
+
       ],
       "audit": {
         "primary_topic": "Programmiersprachen und Übersetzer",
@@ -28480,7 +28586,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 23,
       "source_text_status": "text",
-      "source_section_chars": 2243,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28524,7 +28630,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 24,
       "source_text_status": "text",
-      "source_section_chars": 2434,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28568,7 +28674,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 25,
       "source_text_status": "text",
-      "source_section_chars": 867,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28612,7 +28718,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 26,
       "source_text_status": "text",
-      "source_section_chars": 1249,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28654,7 +28760,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 27,
       "source_text_status": "text",
-      "source_section_chars": 768,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28696,7 +28802,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 28,
       "source_text_status": "text",
-      "source_section_chars": 702,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28738,7 +28844,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 29,
       "source_text_status": "text",
-      "source_section_chars": 1480,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28780,7 +28886,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 30,
       "source_text_status": "text",
-      "source_section_chars": 984,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28822,7 +28928,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 31,
       "source_text_status": "text",
-      "source_section_chars": 710,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28864,7 +28970,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 32,
       "source_text_status": "text",
-      "source_section_chars": 612,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28906,7 +29012,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 33,
       "source_text_status": "text",
-      "source_section_chars": 1649,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28948,7 +29054,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 34,
       "source_text_status": "text",
-      "source_section_chars": 2365,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -28987,7 +29093,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 35,
       "source_text_status": "text",
-      "source_section_chars": 1808,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -29026,12 +29132,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 36,
       "source_text_status": "text",
-      "source_section_chars": 2449,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Variablen und Datentypen"
+
       ],
       "audit": {
         "primary_topic": "Variablen und Datentypen",
@@ -29066,7 +29172,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 37,
       "source_text_status": "text",
-      "source_section_chars": 1999,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -29106,7 +29212,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 38,
       "source_text_status": "text",
-      "source_section_chars": 1939,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -29146,7 +29252,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 39,
       "source_text_status": "text",
-      "source_section_chars": 2050,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -29186,7 +29292,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 40,
       "source_text_status": "text",
-      "source_section_chars": 1889,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -29226,7 +29332,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 41,
       "source_text_status": "text",
-      "source_section_chars": 1852,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -29266,7 +29372,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 42,
       "source_text_status": "text",
-      "source_section_chars": 1512,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -29306,7 +29412,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 43,
       "source_text_status": "text",
-      "source_section_chars": 1381,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -29346,7 +29452,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 44,
       "source_text_status": "text",
-      "source_section_chars": 2733,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -29386,7 +29492,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 45,
       "source_text_status": "text",
-      "source_section_chars": 1009,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -29426,12 +29532,12 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 46,
       "source_text_status": "text",
-      "source_section_chars": 1394,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
       "previous_curated_topics": [
-        "Operatoren und Bedingungen"
+
       ],
       "audit": {
         "primary_topic": "Operatoren und Bedingungen",
@@ -29466,7 +29572,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 47,
       "source_text_status": "text",
-      "source_section_chars": 2162,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -29505,7 +29611,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Wiki.pdf",
       "page": 48,
       "source_text_status": "text",
-      "source_section_chars": 658,
+      "source_section_chars": 266,
       "previous_modules": [
 
       ],
@@ -29544,7 +29650,7 @@
       "pdf_path": "99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf",
       "page": 1,
       "source_text_status": "ocr",
-      "source_section_chars": 3874,
+      "source_section_chars": 1707,
       "previous_modules": [
 
       ],
@@ -29559,19 +29665,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ocr_error",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Aufgaben Übungen und Lösungen",
-          "IT Sicherheit Überblick"
+
         ],
         "recommended_topics": [
-          "Sicherheitsmanagement und ISMS",
-          "Sicherheitsprozess PDCA"
+          "Sicherheitsmanagement und ISMS"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -29622,8 +29731,8 @@
       "source_note": "02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41.md",
       "pdf_path": "99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf",
       "page": 3,
-      "source_text_status": "text",
-      "source_section_chars": 1914,
+      "source_text_status": "ocr",
+      "source_section_chars": 2323,
       "previous_modules": [
 
       ],
@@ -29638,12 +29747,10 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ocr_error",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Aufgaben Übungen und Lösungen",
-          "Hochverfügbarkeit und Redundanz",
-          "Ransomware und Malware"
+
         ],
         "recommended_topics": [
           "Hochverfügbarkeit und Redundanz",
@@ -29652,6 +29759,11 @@
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -35862,8 +35974,8 @@
       "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md",
       "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf",
       "page": 42,
-      "source_text_status": "text",
-      "source_section_chars": 634,
+      "source_text_status": "ocr",
+      "source_section_chars": 1499,
       "previous_modules": [
 
       ],
@@ -35871,24 +35983,28 @@
 
       ],
       "audit": {
-        "primary_topic": "Netzplantechnik",
+        "primary_topic": "Projektplanung und Netzplanmethode",
         "secondary_topics": [
           "kritischer Weg"
         ],
         "content_type": "aufgabe",
         "source_text_match": "ok",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Projektplanung und Netzplanmethode",
-          "Aufgaben Übungen und Lösungen"
+
         ],
         "recommended_topics": [
-
+          "Projektplanung und Netzplanmethode"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -35898,8 +36014,8 @@
       "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md",
       "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf",
       "page": 43,
-      "source_text_status": "text",
-      "source_section_chars": 563,
+      "source_text_status": "ocr",
+      "source_section_chars": 1063,
       "previous_modules": [
 
       ],
@@ -35907,25 +36023,29 @@
 
       ],
       "audit": {
-        "primary_topic": "Netzplantechnik",
+        "primary_topic": "Projektplanung und Netzplanmethode",
         "secondary_topics": [
           "kritischer Weg",
           "Pufferzeiten"
         ],
         "content_type": "loesung",
         "source_text_match": "ok",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Projektplanung und Netzplanmethode",
-          "Aufgaben Übungen und Lösungen"
+
         ],
         "recommended_topics": [
-
+          "Projektplanung und Netzplanmethode"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -48262,7 +48382,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 13,
       "source_text_status": "ocr",
-      "source_section_chars": 2340,
+      "source_section_chars": 2131,
       "previous_modules": [
 
       ],
@@ -48280,18 +48400,23 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ocr_error",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Kryptografie Verschlüsselung Hash Signatur",
-          "Datenschutz und Rollen"
-        ],
-        "recommended_topics": [
 
         ],
-        "issues": [
-          "Handschrift/OCR stark fehlerhaft; manuelle Transkription erforderlich"
+        "recommended_topics": [
+          "Datenschutz und Rollen",
+          "Kryptografie, Hash und Signatur"
         ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -48302,7 +48427,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 14,
       "source_text_status": "ocr",
-      "source_section_chars": 2045,
+      "source_section_chars": 1975,
       "previous_modules": [
 
       ],
@@ -48320,18 +48445,23 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ocr_error",
-        "mapping_status": "correct",
-        "confidence": "medium",
+        "mapping_status": "ok",
+        "confidence": "high",
         "recommended_modules": [
-          "Kryptografie Verschlüsselung Hash Signatur",
-          "Datenschutz und Rollen"
-        ],
-        "recommended_topics": [
 
         ],
-        "issues": [
-          "Handschrift/OCR stark fehlerhaft; manuelle Transkription erforderlich"
+        "recommended_topics": [
+          "Datenschutz und Rollen",
+          "Kryptografie, Hash und Signatur"
         ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -48342,7 +48472,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
       "page": 15,
       "source_text_status": "ocr",
-      "source_section_chars": 2422,
+      "source_section_chars": 2472,
       "previous_modules": [
 
       ],
@@ -48350,7 +48480,7 @@
         "Schutzbedarfsfeststellung"
       ],
       "audit": {
-        "primary_topic": "Schutzziele und Schutzbedarfsfeststellung",
+        "primary_topic": "Schutzbedarfsfeststellung",
         "secondary_topics": [
           "Maximumprinzip",
           "Kumulationseffekt",
@@ -48358,17 +48488,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ocr_error",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Schutzbedarfsfeststellung (neu)"
-        ],
-        "recommended_topics": [
 
         ],
-        "issues": [
-          "Handschrift/OCR stark fehlerhaft; manuelle Transkription erforderlich"
+        "recommended_topics": [
+          "Schutzbedarfsfeststellung"
         ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54049,8 +54184,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 1,
-      "source_text_status": "text",
-      "source_section_chars": 2241,
+      "source_text_status": "ocr",
+      "source_section_chars": 1597,
       "previous_modules": [
 
       ],
@@ -54064,17 +54199,22 @@
         ],
         "content_type": "theorie",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrotechnik-Rechenmethoden"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54084,8 +54224,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 2,
-      "source_text_status": "text",
-      "source_section_chars": 2384,
+      "source_text_status": "ocr",
+      "source_section_chars": 1704,
       "previous_modules": [
 
       ],
@@ -54099,17 +54239,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrotechnik-Rechenmethoden"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54119,8 +54264,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 3,
-      "source_text_status": "text",
-      "source_section_chars": 1575,
+      "source_text_status": "ocr",
+      "source_section_chars": 1919,
       "previous_modules": [
 
       ],
@@ -54134,17 +54279,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrotechnik-Rechenmethoden"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54154,8 +54304,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 4,
-      "source_text_status": "text",
-      "source_section_chars": 1402,
+      "source_text_status": "ocr",
+      "source_section_chars": 1230,
       "previous_modules": [
 
       ],
@@ -54169,17 +54319,22 @@
         ],
         "content_type": "theorie",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrotechnik-Rechenmethoden"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54189,8 +54344,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 5,
-      "source_text_status": "text",
-      "source_section_chars": 2389,
+      "source_text_status": "ocr",
+      "source_section_chars": 1440,
       "previous_modules": [
 
       ],
@@ -54204,17 +54359,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrotechnik-Rechenmethoden"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54224,8 +54384,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 6,
-      "source_text_status": "text",
-      "source_section_chars": 2488,
+      "source_text_status": "ocr",
+      "source_section_chars": 1314,
       "previous_modules": [
 
       ],
@@ -54239,17 +54399,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrotechnik-Rechenmethoden"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54294,8 +54459,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 8,
-      "source_text_status": "text",
-      "source_section_chars": 1268,
+      "source_text_status": "ocr",
+      "source_section_chars": 1221,
       "previous_modules": [
 
       ],
@@ -54309,17 +54474,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrotechnik-Rechenmethoden"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54329,8 +54499,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 9,
-      "source_text_status": "text",
-      "source_section_chars": 2150,
+      "source_text_status": "ocr",
+      "source_section_chars": 860,
       "previous_modules": [
 
       ],
@@ -54344,17 +54514,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrotechnik-Rechenmethoden"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54364,8 +54539,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 10,
-      "source_text_status": "text",
-      "source_section_chars": 1648,
+      "source_text_status": "ocr",
+      "source_section_chars": 992,
       "previous_modules": [
 
       ],
@@ -54379,17 +54554,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrotechnik-Rechenmethoden"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54399,8 +54579,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 11,
-      "source_text_status": "text",
-      "source_section_chars": 2429,
+      "source_text_status": "ocr",
+      "source_section_chars": 1264,
       "previous_modules": [
 
       ],
@@ -54414,17 +54594,22 @@
         ],
         "content_type": "theorie",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrische Ladung"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54434,8 +54619,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 12,
-      "source_text_status": "text",
-      "source_section_chars": 2658,
+      "source_text_status": "ocr",
+      "source_section_chars": 1582,
       "previous_modules": [
 
       ],
@@ -54450,17 +54635,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrische Ladung"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54470,8 +54660,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 13,
-      "source_text_status": "text",
-      "source_section_chars": 1765,
+      "source_text_status": "ocr",
+      "source_section_chars": 1492,
       "previous_modules": [
 
       ],
@@ -54486,17 +54676,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrische Ladung"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54685,8 +54880,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 19,
-      "source_text_status": "text",
-      "source_section_chars": 2630,
+      "source_text_status": "ocr",
+      "source_section_chars": 1469,
       "previous_modules": [
 
       ],
@@ -54700,17 +54895,22 @@
         ],
         "content_type": "theorie",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrischer Strom und Messtechnik"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54720,8 +54920,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 20,
-      "source_text_status": "text",
-      "source_section_chars": 3282,
+      "source_text_status": "ocr",
+      "source_section_chars": 1617,
       "previous_modules": [
 
       ],
@@ -54735,17 +54935,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrischer Strom und Messtechnik"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54755,8 +54960,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 21,
-      "source_text_status": "text",
-      "source_section_chars": 2918,
+      "source_text_status": "ocr",
+      "source_section_chars": 1007,
       "previous_modules": [
 
       ],
@@ -54770,17 +54975,22 @@
         ],
         "content_type": "aufgabe",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrischer Strom und Messtechnik"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54790,8 +55000,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 22,
-      "source_text_status": "text",
-      "source_section_chars": 1356,
+      "source_text_status": "ocr",
+      "source_section_chars": 1176,
       "previous_modules": [
 
       ],
@@ -54805,17 +55015,22 @@
         ],
         "content_type": "formular",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Netzteil"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54825,8 +55040,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 23,
-      "source_text_status": "text",
-      "source_section_chars": 1203,
+      "source_text_status": "ocr",
+      "source_section_chars": 1669,
       "previous_modules": [
 
       ],
@@ -54840,17 +55055,22 @@
         ],
         "content_type": "formular",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Netzteil"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54860,8 +55080,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 24,
-      "source_text_status": "text",
-      "source_section_chars": 1751,
+      "source_text_status": "ocr",
+      "source_section_chars": 1837,
       "previous_modules": [
 
       ],
@@ -54875,17 +55095,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Netzteil"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54895,8 +55120,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 25,
-      "source_text_status": "text",
-      "source_section_chars": 2228,
+      "source_text_status": "ocr",
+      "source_section_chars": 1518,
       "previous_modules": [
 
       ],
@@ -54910,17 +55135,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Netzteil"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54930,8 +55160,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 26,
-      "source_text_status": "text",
-      "source_section_chars": 1301,
+      "source_text_status": "ocr",
+      "source_section_chars": 1190,
       "previous_modules": [
 
       ],
@@ -54945,17 +55175,22 @@
         ],
         "content_type": "theorie",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrischer Strom und Messtechnik"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54965,8 +55200,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 27,
-      "source_text_status": "text",
-      "source_section_chars": 1725,
+      "source_text_status": "ocr",
+      "source_section_chars": 1291,
       "previous_modules": [
 
       ],
@@ -54980,17 +55215,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrischer Strom und Messtechnik"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -55566,8 +55806,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 44,
-      "source_text_status": "text",
-      "source_section_chars": 1896,
+      "source_text_status": "ocr",
+      "source_section_chars": 1498,
       "previous_modules": [
 
       ],
@@ -55583,17 +55823,24 @@
         ],
         "content_type": "aufgabe",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrische Arbeit und Energiekosten",
+          "Elektrische Ladung",
+          "Elektrische Leistung"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -55603,8 +55850,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 45,
-      "source_text_status": "text",
-      "source_section_chars": 3602,
+      "source_text_status": "ocr",
+      "source_section_chars": 1286,
       "previous_modules": [
 
       ],
@@ -55620,17 +55867,24 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrische Arbeit und Energiekosten",
+          "Elektrische Ladung",
+          "Elektrische Leistung"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -55640,8 +55894,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 46,
-      "source_text_status": "text",
-      "source_section_chars": 3442,
+      "source_text_status": "ocr",
+      "source_section_chars": 1415,
       "previous_modules": [
 
       ],
@@ -55657,17 +55911,24 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrische Arbeit und Energiekosten",
+          "Elektrische Ladung",
+          "Elektrische Leistung"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -55785,8 +56046,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 50,
-      "source_text_status": "text",
-      "source_section_chars": 2337,
+      "source_text_status": "ocr",
+      "source_section_chars": 1276,
       "previous_modules": [
 
       ],
@@ -55801,17 +56062,23 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Netzteil",
+          "Spannung, Strom und Widerstand"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -55821,8 +56088,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 51,
-      "source_text_status": "text",
-      "source_section_chars": 2222,
+      "source_text_status": "ocr",
+      "source_section_chars": 1547,
       "previous_modules": [
 
       ],
@@ -55837,17 +56104,23 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Netzteil",
+          "Spannung, Strom und Widerstand"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -56767,8 +57040,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 78,
-      "source_text_status": "text",
-      "source_section_chars": 2297,
+      "source_text_status": "ocr",
+      "source_section_chars": 1428,
       "previous_modules": [
 
       ],
@@ -56782,17 +57055,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Gefahren des elektrischen Stroms"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -56802,8 +57080,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 79,
-      "source_text_status": "text",
-      "source_section_chars": 1908,
+      "source_text_status": "ocr",
+      "source_section_chars": 1691,
       "previous_modules": [
 
       ],
@@ -56818,17 +57096,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Gefahren des elektrischen Stroms"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -56838,8 +57121,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 80,
-      "source_text_status": "text",
-      "source_section_chars": 1664,
+      "source_text_status": "ocr",
+      "source_section_chars": 1252,
       "previous_modules": [
 
       ],
@@ -56854,17 +57137,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Gefahren des elektrischen Stroms"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -56874,8 +57162,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 81,
-      "source_text_status": "text",
-      "source_section_chars": 1790,
+      "source_text_status": "ocr",
+      "source_section_chars": 1292,
       "previous_modules": [
 
       ],
@@ -56890,17 +57178,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Gefahren des elektrischen Stroms"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -56910,8 +57203,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 82,
-      "source_text_status": "text",
-      "source_section_chars": 1143,
+      "source_text_status": "ocr",
+      "source_section_chars": 1266,
       "previous_modules": [
 
       ],
@@ -56926,17 +57219,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Gefahren des elektrischen Stroms"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -56946,8 +57244,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 83,
-      "source_text_status": "text",
-      "source_section_chars": 1658,
+      "source_text_status": "ocr",
+      "source_section_chars": 1234,
       "previous_modules": [
 
       ],
@@ -56962,17 +57260,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Gefahren des elektrischen Stroms"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -56982,8 +57285,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 84,
-      "source_text_status": "text",
-      "source_section_chars": 1852,
+      "source_text_status": "ocr",
+      "source_section_chars": 1069,
       "previous_modules": [
 
       ],
@@ -56998,17 +57301,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Gefahren des elektrischen Stroms"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -57018,8 +57326,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 85,
-      "source_text_status": "text",
-      "source_section_chars": 1937,
+      "source_text_status": "ocr",
+      "source_section_chars": 1179,
       "previous_modules": [
 
       ],
@@ -57034,17 +57342,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Gefahren des elektrischen Stroms"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -57054,8 +57367,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 86,
-      "source_text_status": "text",
-      "source_section_chars": 1923,
+      "source_text_status": "ocr",
+      "source_section_chars": 1220,
       "previous_modules": [
 
       ],
@@ -57070,17 +57383,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Gefahren des elektrischen Stroms"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -57090,8 +57408,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 87,
-      "source_text_status": "text",
-      "source_section_chars": 1475,
+      "source_text_status": "ocr",
+      "source_section_chars": 1217,
       "previous_modules": [
 
       ],
@@ -57106,17 +57424,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Gefahren des elektrischen Stroms"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -57126,8 +57449,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 88,
-      "source_text_status": "text",
-      "source_section_chars": 1785,
+      "source_text_status": "ocr",
+      "source_section_chars": 1337,
       "previous_modules": [
 
       ],
@@ -57141,17 +57464,22 @@
         ],
         "content_type": "theorie",
         "source_text_match": "partial",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrische Sicherheit und Erste Hilfe"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -57161,8 +57489,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 89,
-      "source_text_status": "text",
-      "source_section_chars": 2212,
+      "source_text_status": "ocr",
+      "source_section_chars": 1209,
       "previous_modules": [
 
       ],
@@ -57176,17 +57504,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrische Sicherheit und Erste Hilfe"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -57196,8 +57529,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 90,
-      "source_text_status": "text",
-      "source_section_chars": 1445,
+      "source_text_status": "ocr",
+      "source_section_chars": 1461,
       "previous_modules": [
 
       ],
@@ -57211,17 +57544,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrische Sicherheit und Erste Hilfe"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -57718,7 +58056,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf",
       "page": 2,
       "source_text_status": "ocr",
-      "source_section_chars": 3875,
+      "source_section_chars": 1781,
       "previous_modules": [
 
       ],
@@ -57734,17 +58072,22 @@
         ],
         "content_type": "theorie",
         "source_text_match": "partial",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrotechnik-Rechenmethoden"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -57755,7 +58098,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf",
       "page": 3,
       "source_text_status": "ocr",
-      "source_section_chars": 2452,
+      "source_section_chars": 1652,
       "previous_modules": [
 
       ],
@@ -57770,17 +58113,22 @@
         ],
         "content_type": "theorie",
         "source_text_match": "partial",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Netzteil"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -64108,8 +64456,8 @@
       "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
       "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
       "page": 3,
-      "source_text_status": "text",
-      "source_section_chars": 1327,
+      "source_text_status": "ocr",
+      "source_section_chars": 1612,
       "previous_modules": [
 
       ],
@@ -64125,18 +64473,23 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ocr_error",
-        "mapping_status": "correct",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
+
+        ],
+        "recommended_topics": [
           "Freiheit und Selbstbestimmung",
           "Gewissen und Verantwortung"
         ],
-        "recommended_topics": [
+        "issues": [
 
         ],
-        "issues": [
-          "Handschrift-OCR enthält zahlreiche Segmentierungs- und Erkennungsfehler"
-        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -64146,8 +64499,8 @@
       "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
       "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
       "page": 4,
-      "source_text_status": "text",
-      "source_section_chars": 1555,
+      "source_text_status": "ocr",
+      "source_section_chars": 1779,
       "previous_modules": [
 
       ],
@@ -64163,18 +64516,23 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ocr_error",
-        "mapping_status": "correct",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
+
+        ],
+        "recommended_topics": [
           "Freiheit und Selbstbestimmung",
           "Gewissen und Verantwortung"
         ],
-        "recommended_topics": [
+        "issues": [
 
         ],
-        "issues": [
-          "Handschrift-OCR enthält zahlreiche Segmentierungs- und Erkennungsfehler"
-        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -64184,8 +64542,8 @@
       "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
       "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
       "page": 5,
-      "source_text_status": "text",
-      "source_section_chars": 695,
+      "source_text_status": "ocr",
+      "source_section_chars": 843,
       "previous_modules": [
 
       ],
@@ -64193,7 +64551,7 @@
         "Nelson Mandela und Vorbilder"
       ],
       "audit": {
-        "primary_topic": "Nelson Mandela – Referatsauftrag",
+        "primary_topic": "Nelson Mandela und Vorbilder",
         "secondary_topics": [
           "Biografie",
           "Vorbilder",
@@ -64201,17 +64559,22 @@
         ],
         "content_type": "aufgabe",
         "source_text_match": "ocr_error",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Nelson Mandela und Vorbilder"
-        ],
-        "recommended_topics": [
 
         ],
-        "issues": [
-          "Handschrift-OCR enthält zahlreiche Segmentierungs- und Erkennungsfehler"
+        "recommended_topics": [
+          "Nelson Mandela und Vorbilder"
         ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -64221,8 +64584,8 @@
       "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
       "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
       "page": 6,
-      "source_text_status": "text",
-      "source_section_chars": 993,
+      "source_text_status": "ocr",
+      "source_section_chars": 1246,
       "previous_modules": [
 
       ],
@@ -64230,7 +64593,7 @@
         "Karwoche und Kirchenjahr"
       ],
       "audit": {
-        "primary_topic": "Karwoche, Ostern und Kirchenjahr",
+        "primary_topic": "Karwoche und Kirchenjahr",
         "secondary_topics": [
           "Palmsonntag",
           "Karfreitag",
@@ -64239,17 +64602,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ocr_error",
-        "mapping_status": "correct",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Karwoche und Kirchenjahr"
-        ],
-        "recommended_topics": [
 
         ],
-        "issues": [
-          "Handschrift-OCR enthält zahlreiche Segmentierungs- und Erkennungsfehler"
+        "recommended_topics": [
+          "Karwoche und Kirchenjahr"
         ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -64337,8 +64705,8 @@
       "source_note": "02_Faecher/Vertretung/Quellen/Untitled.md",
       "pdf_path": "99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf",
       "page": 2,
-      "source_text_status": "text",
-      "source_section_chars": 1423,
+      "source_text_status": "ocr",
+      "source_section_chars": 1998,
       "previous_modules": [
 
       ],
@@ -64355,18 +64723,23 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ocr_error",
-        "mapping_status": "correct",
-        "confidence": "medium",
+        "mapping_status": "ok",
+        "confidence": "high",
         "recommended_modules": [
-          "Einheiten Umrechnen",
-          "Elektrotechnik Rechenübungen"
-        ],
-        "recommended_topics": [
 
         ],
-        "issues": [
-          "Formel-/Handschrift-OCR verliert Einheiten, Exponenten oder Rechenstruktur; Originalseite bleibt maßgeblich"
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden",
+          "SI-Vorsätze und Einheitenumrechnung"
         ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -64376,8 +64749,8 @@
       "source_note": "02_Faecher/Vertretung/Quellen/Untitled.md",
       "pdf_path": "99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf",
       "page": 3,
-      "source_text_status": "text",
-      "source_section_chars": 744,
+      "source_text_status": "ocr",
+      "source_section_chars": 1090,
       "previous_modules": [
 
       ],
@@ -64393,18 +64766,23 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ocr_error",
-        "mapping_status": "correct",
-        "confidence": "medium",
+        "mapping_status": "ok",
+        "confidence": "high",
         "recommended_modules": [
-          "Einheiten Umrechnen",
-          "Elektrotechnik Rechenübungen"
-        ],
-        "recommended_topics": [
 
         ],
-        "issues": [
-          "Formel-/Handschrift-OCR verliert Einheiten, Exponenten oder Rechenstruktur; Originalseite bleibt maßgeblich"
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden",
+          "SI-Vorsätze und Einheitenumrechnung"
         ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -64414,8 +64792,8 @@
       "source_note": "02_Faecher/Vertretung/Quellen/Untitled.md",
       "pdf_path": "99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf",
       "page": 4,
-      "source_text_status": "text",
-      "source_section_chars": 895,
+      "source_text_status": "ocr",
+      "source_section_chars": 1466,
       "previous_modules": [
 
       ],
@@ -64431,18 +64809,23 @@
         ],
         "content_type": "theorie",
         "source_text_match": "partial",
-        "mapping_status": "correct",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Einheiten Umrechnen",
-          "Elektrotechnik Rechenübungen"
-        ],
-        "recommended_topics": [
 
         ],
-        "issues": [
-          "Formel-/Handschrift-OCR verliert Einheiten, Exponenten oder Rechenstruktur; Originalseite bleibt maßgeblich"
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden",
+          "SI-Vorsätze und Einheitenumrechnung"
         ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     }

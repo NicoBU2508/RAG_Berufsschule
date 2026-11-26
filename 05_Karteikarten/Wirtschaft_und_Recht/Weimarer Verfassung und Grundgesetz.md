@@ -31,7 +31,7 @@ tags:
 **Was versteht man unter der „wehrhaften Demokratie“ im Grundgesetz und welche Instrumente sieht das GG dafür vor?**
 ?
 Das Grundgesetz lässt nicht zu, dass die Demokratie auf demokratischem Wege beseitigt wird, und bekämpft Verfassungsgegner aktiv. Zentrale Instrumente sind die **Grundrechtsverwirkung** (Art. 18 GG), das **Parteienverbot** (Art. 21 Abs. 2 GG), der **Verfassungsschutz** samt Polizei-Staatsschutzabteilungen, das **Widerstandsrecht** (Art. 20 Abs. 4 GG) sowie die **Ewigkeitsklausel** (Art. 79 Abs. 3 GG).
-*Quelle: PuG Politik und Gesellschaft (2. LJ) · `PUG_Mitschrift.pdf` S. 9 (von 14) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (2. LJ) · [PUG_Mitschrift.pdf · S. 9](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=9>) (von 14) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -39,7 +39,7 @@ Das Grundgesetz lässt nicht zu, dass die Demokratie auf demokratischem Wege bes
 **Wer darf ein Parteienverbot nach Art. 21 Abs. 2 GG aussprechen und welche Befugnisse hat der Verfassungsschutz im Unterschied zur Polizei?**
 ?
 Über ein Parteienverbot darf ausschließlich das **Bundesverfassungsgericht** entscheiden (bisherige Verbote: SRP 1952, KPD 1956). Der **Verfassungsschutz** beobachtet extremistische Aktivitäten systematisch (Verfassungsschutzbericht), besitzt aber **keine polizeilichen Befugnisse** (keine Verhaftungen) — dafür sind besondere Abteilungen der Polizei zuständig.
-*Quelle: PuG Politik und Gesellschaft (2. LJ) · `PUG_Mitschrift.pdf` S. 9 (von 14) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (2. LJ) · [PUG_Mitschrift.pdf · S. 9](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=9>) (von 14) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -48,7 +48,7 @@ Das Grundgesetz lässt nicht zu, dass die Demokratie auf demokratischem Wege bes
 ?
 - **Widerstandsrecht (Art. 20 Abs. 4 GG):** Bei wirklicher Gefährdung der gesamten demokratischen Ordnung darf jeder Deutsche als letztes Mittel Widerstand leisten, wenn staatliche Organe untätig bleiben oder nicht eingreifen können.
 - **Ewigkeitsklausel (Art. 79 Abs. 3 GG):** Die Grundrechte der Staatsbürger und die demokratischen Grundgedanken dürfen auch durch eine Verfassungsänderung nicht angetastet werden.
-*Quelle: PuG Politik und Gesellschaft (2. LJ) · `PUG_Mitschrift.pdf` S. 9 (von 14) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (2. LJ) · [PUG_Mitschrift.pdf · S. 9](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=9>) (von 14) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -60,7 +60,7 @@ Sie ersetzte das monarchische Prinzip durch die **Volkssouveränität** und füh
 2. **Volksbegehren und Volksentscheide**,
 3. **Reichstag** als auf 4 Jahre gewähltes Parlament (Gesetzgebung, Haushaltsbewilligung, Misstrauensvotum),
 4. Direktwahl des **Reichspräsidenten** durch das Volk.
-*Quelle: PuG Politik und Gesellschaft (2. LJ) · `PUG_Mitschrift.pdf` S. 11–12 (von 14), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (2. LJ) · [PUG_Mitschrift.pdf · S. 11–12](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=11>) (von 14), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -69,7 +69,7 @@ Sie ersetzte das monarchische Prinzip durch die **Volkssouveränität** und füh
 ?
 - **Reichspräsident (WRV):** Direkt vom Volk auf 7 Jahre gewählt, Oberbefehlshaber der Reichswehr, ernannte/entließ Reichskanzler, konnte den Reichstag auflösen (Art. 25) und per **Notverordnung nach Art. 48 WRV** ohne Parlament regieren („Ersatzkaiser“).
 - **Bundespräsident (GG):** Staatsoberhaupt mit vorwiegend **repräsentativen Aufgaben** sowie Prüfung und Bestätigung aller Gesetze — ohne Notverordnungs- oder Alleinregierungsrechte.
-*Quelle: PuG Politik und Gesellschaft (2. LJ) · `PUG_Mitschrift.pdf` S. 11–13 (von 14), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (2. LJ) · [PUG_Mitschrift.pdf · S. 11–13](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=11>) (von 14), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -80,4 +80,4 @@ Sie ersetzte das monarchische Prinzip durch die **Volkssouveränität** und füh
 2. **Fehlender Schutz gegen verfassungsfeindliche Parteien** → **Parteienverbot (Art. 21 Abs. 2 GG)**.
 3. **Zu mächtiger Reichspräsident** (Art. 48 und Art. 25) → stark begrenzte Kompetenzen des Bundespräsidenten.
 4. **Fehlende Einklagbarkeit/Sicherung der Grundrechte** → Schutz der Grundrechte und **Ewigkeitsklausel (Art. 79 GG)**.
-*Quelle: PuG Politik und Gesellschaft (2. LJ) · `PUG_Mitschrift.pdf` S. 13 (von 14), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (2. LJ) · [PUG_Mitschrift.pdf · S. 13](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=13>) (von 14), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]]*

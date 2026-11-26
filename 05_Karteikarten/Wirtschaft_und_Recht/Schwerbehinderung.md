@@ -29,7 +29,7 @@ tags:
 **Wann gilt ein Mensch laut Arbeitsrecht als schwerbehindert?**
 ?
 Wenn die körperliche, geistige Fähigkeit oder seelische Gesundheit **länger als 6 Monate** von dem für das Lebensalter typischen Zustand abweicht und ein **Grad der Behinderung (GdB) von mindestens 50 %** vorliegt.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 17 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 17](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -38,7 +38,7 @@ Wenn die körperliche, geistige Fähigkeit oder seelische Gesundheit **länger a
 ?
 - **Pflicht:** Alle privaten und öffentlichen Arbeitgeber ab **mindestens 20 Arbeitsplätzen** müssen schwerbehinderte Menschen beschäftigen (Quotenstaffelung nach Betriebsgröße).
 - **Nichterfüllung:** Der Arbeitgeber kann sich nicht einfach befreien; pro unbesetztem Pflichtarbeitsplatz muss er eine **Ausgleichsabgabe** zahlen.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 17 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 17](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -47,7 +47,7 @@ Wenn die körperliche, geistige Fähigkeit oder seelische Gesundheit **länger a
 ?
 - **Kündigungsschutz:** Kündigung ist nur mit vorheriger **Zustimmung des Integrationsamtes** zulässig; die Kündigungsfrist beträgt **mindestens 4 Wochen**.
 - **Zusatzurlaub:** Schwerbehinderte erhalten bei einer 5-Tage-Woche **5 Arbeitstage** zusätzlichen Urlaub pro Jahr.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 17 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 17](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=17>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -56,7 +56,7 @@ Wenn die körperliche, geistige Fähigkeit oder seelische Gesundheit **länger a
 ?
 - **§ 164 Abs. 4 SGB IX:** Arbeitgeber müssen Arbeitsplatz, Arbeitsumfeld und Arbeitsorganisation behindertengerecht gestalten; es besteht Anspruch auf **barrierefreie Soft- und Hardware**.
 - **ArbStättV (§ 3a Abs. 2 / Anhang 3.1) & ASR V3a.2:** Arbeitsstätten müssen barrierefrei zugänglich und sicher nutzbar sein (z. B. Bewegungsflächen, Rampen, barrierefreie Fluchtwege); Integrationsamt, Reha-Träger oder BA können sich an Umbaukosten beteiligen.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 94 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 94](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=94>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -65,7 +65,7 @@ Wenn die körperliche, geistige Fähigkeit oder seelische Gesundheit **länger a
 ?
 - **BITV 2.0:** Regelt detaillierte technische Standards (basierend auf WCAG) für Webseiten, Apps und GUIs **öffentlicher Stellen**.
 - **BFSG (ab 28. Juni 2025):** Verpflichtet auch **privatwirtschaftliche Unternehmen** (z. B. E-Commerce, Softwarehersteller), digitale Produkte barrierefrei anzubieten.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 94 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 94](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=94>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -73,4 +73,4 @@ Wenn die körperliche, geistige Fähigkeit oder seelische Gesundheit **länger a
 **Was versteht man bei der barrierefreien Arbeitsplatzgestaltung unter dem „Zwei-Sinne-Prinzip“?**
 ?
 Informationen müssen für **mindestens zwei Sinne** (Hören, Sehen, Tasten, Riechen, Schmecken) zugänglich sein – beispielsweise werden akustische Ruf- oder Klingeltöne zusätzlich visuell angezeigt und visuelle Signale akustisch ausgegeben.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 97 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 97](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=97>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*

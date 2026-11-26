@@ -34,7 +34,7 @@ tags:
 ?
 Die **Aufbauorganisation** bildet die Struktur des Unternehmens ab (Organigramm: *Wer macht was?*).
 Die **Ablauforganisation** regelt den Ablauf und die zeitlich-räumliche Reihenfolge der Aufgaben (*Wie werden Aufgaben erledigt?*).
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 1 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 1](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=1>) (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -43,7 +43,7 @@ Die **Ablauforganisation** regelt den Ablauf und die zeitlich-räumliche Reihenf
 ?
 Sie ist geprägt von Abteilungs- und Bereichsdenken mit hohem Abstimmungsaufwand und Zielkonflikten zwischen Abteilungen.
 An Schnittstellen entstehen durch mangelnde Kommunikation Engpässe, Mehrfacherfassung von Daten (**Datenredundanz**) und **Datenbrüche**.
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 3 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 3](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=3>) (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -52,7 +52,7 @@ An Schnittstellen entstehen durch mangelnde Kommunikation Engpässe, Mehrfacherf
 ?
 Geschäftsprozesse sind sachlogisch zusammenhängende, inhaltlich abgeschlossene Aktivitäten und Funktionen, die übergeordneten Unternehmenszielen dienen und Wertschöpfung (Wertzuwachs) erbringen.
 Kennzeichen u. a.: Auslösung durch Ereignis bis Zielerreichung, auf Wiederholung angelegt, messbar (Zeit/Durchlaufzeit, Kosten/Prozesskosten, Qualität) und durch Prozessverantwortliche gesteuert.
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 5 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 5](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=5>) (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -61,7 +61,7 @@ Kennzeichen u. a.: Auslösung durch Ereignis bis Zielerreichung, auf Wiederholun
 ?
 **Effektivität:** *Werden die richtigen Prozesse betrieben?* → zielt auf die **Neugestaltung** von Prozessen ab.
 **Effizienz:** *Werden Prozesse richtig betrieben?* → zielt auf die **kontinuierliche Verbesserung (KVP)** bestehender Prozesse ab.
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 1, 4 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 1, 4](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=1>) (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -70,7 +70,7 @@ Kennzeichen u. a.: Auslösung durch Ereignis bis Zielerreichung, auf Wiederholun
 ?
 Die drei Eckpunkte sind **Kosten**, **Qualität** und **Zeit**.
 Zwischen allen drei Eckpunkten bestehen **Zielkonflikte** – die optimale Gestaltung erfordert, allen drei Anforderungen gleichzeitig gerecht zu werden.
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 4 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 4](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=4>) (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -79,7 +79,7 @@ Zwischen allen drei Eckpunkten bestehen **Zielkonflikte** – die optimale Gesta
 ?
 **Kernprozesse** haben eine direkte Schnittstelle zum Kunden und erbringen Wertschöpfung für ihn (z. B. Beschaffung, Produktion, Absatz, Kundenservice).
 **Unterstützungs-/Serviceprozesse** haben keine direkte Kundenschnittstelle, sondern erbringen Wertschöpfung für die Kernprozesse (z. B. F&E, Wartung der Maschinen, Personalbereitstellung).
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 6 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 6](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=6>) (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -88,4 +88,4 @@ Zwischen allen drei Eckpunkten bestehen **Zielkonflikte** – die optimale Gesta
 ?
 Jeder Prozess beginnt mit einem **Start-/Auslöseereignis** und endet mit einem **End-/Ergebnisereignis**; **Funktionen** (Verben, verbrauchen Zeit/Ressourcen) folgen auf Ereignisse.
 **Organisationseinheit** und **Informationsobjekt** dürfen nur mit Funktionen verbunden werden; Verzweigungen erfolgen über `UND`, `ODER` und `XOR` (exklusives Oder).
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 7 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 7](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=7>) (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*

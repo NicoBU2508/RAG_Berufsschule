@@ -30,7 +30,7 @@ tags:
 ?
 Fremdwörter sind aus anderen Sprachen übernommene Wörter, die in der Regel durch abweichende **Aussprache, Wortbildung, Lautung und Schreibweise** auffallen (z. B. *Engagement*, *Portemonnaie*).
 Bei ca. 500.000 Wörtern im Deutschen sind gut ein Fünftel Fremdwörter; in Zeitungsartikeln liegt der Anteil laut Duden bei 8 bis 9 %.
-*Quelle: Deutsch (1. LJ) · `Regelsammlung.pdf` S. 8 (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Regelsammlung.pdf · S. 8](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8>) (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
 
 ---
 
@@ -40,7 +40,7 @@ Bei ca. 500.000 Wörtern im Deutschen sind gut ein Fünftel Fremdwörter; in Zei
 - **Lateinisch & Griechisch** (am häufigsten, seit den Humanisten): Wissenschaft, Recht, Technik
 - **Französisch** (Gallizismen, 17./18. Jh.): Staatswesen/Militär (*Etat*, *Deserteur*), Mode, Kosmetik, Kochkunst, Politik
 - **Englisch** (heute meiste Neuzugänge): Technik, Wirtschaft, Neue Medien, Alltagskultur, Sport, Werbesprache
-*Quelle: Deutsch (1. LJ) · `Regelsammlung.pdf` S. 8 (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Regelsammlung.pdf · S. 8](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=8>) (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
 
 ---
 
@@ -50,7 +50,7 @@ Bei ca. 500.000 Wörtern im Deutschen sind gut ein Fünftel Fremdwörter; in Zei
 - **a-/an-**: Verneinung (z. B. *der Analphabet*)
 - **anti-/ant-**: gegen, wider (z. B. *die Antipathie*)
 - **auto-**: selbst (z. B. *automatisch*, *Autopilot*)
-*Quelle: Deutsch (1. LJ) · `Regelsammlung.pdf` S. 9 (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Regelsammlung.pdf · S. 9](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9>) (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
 
 ---
 
@@ -60,7 +60,7 @@ Bei ca. 500.000 Wörtern im Deutschen sind gut ein Fünftel Fremdwörter; in Zei
 - **homo-**: gleich (z. B. *homogen*, *homonym*)
 - **poly-**: viel (z. B. *polyglott*, *Polygon*)
 - **tele-**: fern (z. B. *das Telefon*, *Teleskop*)
-*Quelle: Deutsch (1. LJ) · `Regelsammlung.pdf` S. 9 (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Regelsammlung.pdf · S. 9](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=9>) (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
 
 ---
 
@@ -70,4 +70,4 @@ Bei ca. 500.000 Wörtern im Deutschen sind gut ein Fünftel Fremdwörter; in Zei
 - Vorhersage: **die Prognose**
 - Kennzeichen bzw. Merkmal einer Krankheit: **das Symptom**
 - Übersetzung eines Films in eine andere Sprache: **die Synchronisation**
-*Quelle: Deutsch (1. LJ) · `Regelsammlung.pdf` S. 10 (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Regelsammlung.pdf · S. 10](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=10>) (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*

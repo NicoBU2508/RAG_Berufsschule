@@ -34,7 +34,7 @@ tags:
 ?
 - **Aufgaben:** IT auf Geschäftsprozesse anwenden (*apply IT to business processes*), technische Trends verfolgen sowie Kunden zu Optionen, Kosten, Nutzen, Risiken und Auswirkungen beraten.
 - **Kompetenzen:** fundierte Ausbildung in *Computer Science* und *Business*, starke analytische und kommunikative Fähigkeiten sowie Präsentationssicherheit.
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 2–3 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 2–3](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -43,7 +43,7 @@ tags:
 ?
 - **Network Administrator:** installiert, aktualisiert und entstört Netzwerke (Hardware & Software), wartet *LAN/WAN* und plant bzw. führt Reparaturen durch.
 - **Computer Programmer:** entwickelt neue Anwendungen von der ersten Idee bis zur Umsetzung (*implementation*), wartet bestehende Programme und verbessert Datenvisualisierung.
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 2 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 2](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -52,7 +52,7 @@ tags:
 ?
 - **Aufgaben:** Websites für Unternehmen gestalten und entwickeln, *SQL Server*-Datenbanken einbinden und die Geschäftsführung bei der Web-Performance-Strategie unterstützen.
 - **Kompetenzen:** mehrere Programmiersprachen, Datenbankwissen, Grafikdesign-Grundlagen und Liebe zum Detail (*an eye for detail*).
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 2 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 2](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=2>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -63,7 +63,7 @@ tags:
 - *essential* → unerlässlich / unentbehrlich
 - *broad range of skills* → breites Spektrum an Fähigkeiten
 - *leading blue chip company* → erstrangiges / führendes Unternehmen
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 4, 37 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 4, 37](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -73,7 +73,7 @@ tags:
 - **to troubleshoot:** allgemeine Fehlerbehebung bei Systemen, Hardware oder Netzwerken.
 - **to debug:** gezieltes Suchen und Beheben von Fehlern im Programmcode.
 - **to maintain** (*maintenance*): laufende Wartung und Instandhaltung bestehender Systeme oder Software.
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 5, 37 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 5, 37](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=5>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -84,4 +84,4 @@ tags:
 - *thorough* → gründlich
 - *apprenticeship* / *apprentice* → Ausbildung / Auszubildender (Lehrling)
 - *responsibilities* → Aufgaben / Verantwortlichkeiten
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 4–5, 37 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 4–5, 37](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*

@@ -31,7 +31,7 @@ tags:
 **Welche Formvorschriften gelten für den Abschluss eines Berufsausbildungsvertrags nach dem BBiG?**
 ?
 Für den Ausbildungsvertrag ist die **Schriftform** gesetzlich erforderlich. Bei **minderjährigen** Auszubildenden müssen außerdem die **Eltern** (gesetzlichen Vertreter) den Vertrag ebenfalls unterschreiben.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 4 (von 51), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 4](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4>) (von 51), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -40,7 +40,7 @@ Für den Ausbildungsvertrag ist die **Schriftform** gesetzlich erforderlich. Bei
 ?
 - **In der Probezeit:** Beide Seiten (Arbeitgeber und Azubi) können jederzeit **fristlos** und **ohne Angabe von Gründen** kündigen.
 - **Nach der Probezeit:** Kündigung durch den **Arbeitgeber** nur aus **wichtigem Grund** (z. B. Pflichtverletzung); der **Azubi** kann mit **4 Wochen Frist** kündigen, wenn er die Ausbildung beendet oder einen anderen Ausbildungsberuf beginnt (jeweils mit Angabe des Grundes).
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 4–5 (von 51), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 4–5](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4>) (von 51), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -49,7 +49,7 @@ Für den Ausbildungsvertrag ist die **Schriftform** gesetzlich erforderlich. Bei
 ?
 - **Rechte:** Vergütung, Urlaub, fachspezifische Ausbildung, Ausbildungsmittel, Fürsorge, Freistellung für die Berufsschule, Teilnahme an Prüfungen und Kündigung.
 - **Pflichten:** Lernpflicht, Sorgfaltspflicht, Weisungen befolgen, Berichtsheft führen, Besuch der Berufsschule und Schweigepflicht.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 5 (von 51), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 5](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=5>) (von 51), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -57,7 +57,7 @@ Für den Ausbildungsvertrag ist die **Schriftform** gesetzlich erforderlich. Bei
 **Wann endet ein Ausbildungsverhältnis regulär und worin liegt eine typische Prüfungsfalle beim Vertragsende?**
 ?
 Das Ausbildungsverhältnis beginnt in der Regel am 01.09. und endet zum vereinbarten Termin (z. B. 31.08.), jedoch **bereits vorzeitig mit Bestehen der Abschlussprüfung**, falls diese vor dem vertraglichen Ende abgelegt wird.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 4 (von 51), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 4](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=4>) (von 51), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -66,7 +66,7 @@ Das Ausbildungsverhältnis beginnt in der Regel am 01.09. und endet zum vereinba
 ?
 - **Pflichtangaben:** Art, Dauer und Ziel der Berufsausbildung sowie erworbene berufliche Fertigkeiten, Kenntnisse und Fähigkeiten (auf Verlangen Auszubildender zusätzlich Angaben über **Verhalten und Leistung**).
 - **Form:** Schriftliches Zeugnis; die **elektronische Form ist ausgeschlossen**. Wurde die Ausbildung nicht selbst durchgeführt, soll auch der Ausbilder/die Ausbilderin unterschreiben.
-*Quelle: Deutsch (2. LJ) · `Skript_Deutsch.pdf` S. 5 (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
+*Quelle: Deutsch (2. LJ) · [Skript_Deutsch.pdf · S. 5](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=5>) (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
 
 ---
 
@@ -74,4 +74,4 @@ Das Ausbildungsverhältnis beginnt in der Regel am 01.09. und endet zum vereinba
 **Wann kann ein Arbeitnehmer bereits vor Beendigung des Arbeitsverhältnisses ein Zwischenzeugnis verlangen?**
 ?
 Bei Vorliegen eines **berechtigten Interesses** (z. B. bei Zeitverträgen zur Meldung bei der Agentur für Arbeit mindestens 3 Monate vor Ende, bei drohender betriebsbedingter Kündigung, Vorgesetztenwechsel, Versetzung oder längerer Unterbrechung wie Elternzeit). Den Bewerbungsgrund muss man dem Arbeitgeber nicht mitteilen.
-*Quelle: Deutsch (2. LJ) · `Skript_Deutsch.pdf` S. 5 (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
+*Quelle: Deutsch (2. LJ) · [Skript_Deutsch.pdf · S. 5](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=5>) (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*

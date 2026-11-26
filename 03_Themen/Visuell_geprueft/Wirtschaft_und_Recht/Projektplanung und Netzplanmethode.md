@@ -2,8 +2,8 @@
 id: vault.thema.visuell.projektplanung.und.netzplanmethode
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-23
-reviewed_on: 2026-11-23
+stand: 2026-11-26
+reviewed_on: 2026-11-26
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
@@ -29,7 +29,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [17–19, 21–30, 37–45](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=17>) | aufgabe, loesung, theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [17–19, 21–30, 37–45](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=17>) | aufgabe, loesung, theorie | 3 Seite(n): OCR/Original prüfen |
 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [4](<99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=4>) | theorie | 1 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT

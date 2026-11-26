@@ -31,7 +31,7 @@ tags:
 **Wie unterscheiden sich Datenschutz, Datensicherheit und Informationssicherheit?**
 ?
 Datenschutz schützt die Privatsphäre (Recht auf informationelle Selbstbestimmung, BDSG) und klärt, ob personenbezogene Daten verarbeitet werden dürfen. Datensicherheit schützt alle Daten vor Verlust, Manipulation und unbefugtem Einblick; Informationssicherheit schützt digitale wie analoge Informationen unabhängig vom Personenbezug.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 99 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 99](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=99>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -39,7 +39,7 @@ Datenschutz schützt die Privatsphäre (Recht auf informationelle Selbstbestimmu
 **Welche vier zentralen Aufgaben übernimmt der Datenschutzbeauftragte?**
 ?
 1. Beratung der Beschäftigten zu Datenschutzvorschriften, 2. Überwachung der Einhaltung dieser Vorschriften, 3. Überwachung des Auftragsverarbeiters zum Schutz personenbezogener Daten sowie 4. Zusammenarbeit mit der Aufsichtsbehörde.
-*Quelle: ITT IT-Technik (1. LJ) · `Sicherheitsmanagement.pdf` S. 12 (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Sicherheitsmanagement.pdf · S. 12](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=12>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -47,7 +47,7 @@ Datenschutz schützt die Privatsphäre (Recht auf informationelle Selbstbestimmu
 **Was sind personenbezogene Daten und wie wird die Verbindung zu einer Person hergestellt?**
 ?
 Informationen, die sich auf eine Person beziehen, indem unmittelbar (z. B. Name, Anschrift, Geburtsdatum) oder mittelbar über Zusatzwissen (z. B. Telefon- oder Sozialversicherungsnummer, IP-Adresse, Cookie-Kennung) eine Verbindung zu ihr herstellbar ist.
-*Quelle: ITT IT-Technik (1. LJ) · `Sicherheitsmanagement.pdf` S. 13 (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Sicherheitsmanagement.pdf · S. 13](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=13>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -55,7 +55,7 @@ Informationen, die sich auf eine Person beziehen, indem unmittelbar (z. B. Name,
 **Muss eine Person anhand vorliegender Daten tatsächlich identifiziert werden, damit personenbezogene Daten vorliegen?**
 ?
 Nein. Es reicht bereits aus, dass die Information die Identifizierung der betroffenen Person theoretisch ermöglicht; ob sie tatsächlich identifiziert wird, ist unerheblich.
-*Quelle: ITT IT-Technik (1. LJ) · `Sicherheitsmanagement.pdf` S. 13 (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Sicherheitsmanagement.pdf · S. 13](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=13>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -63,7 +63,7 @@ Nein. Es reicht bereits aus, dass die Information die Identifizierung der betrof
 **Wodurch sind Vertraulichkeit, Integrität und Verfügbarkeit als Ziele der Informationssicherheit definiert?**
 ?
 Vertraulichkeit stellt sicher, dass nur der befugte Personenkreis Zugriff und Einblick erhält. Integrität bedeutet Schutz vor Datenverlust und Manipulation; Verfügbarkeit ermöglicht autorisierten Personen den Zugriff über einen bestimmten Zeitraum.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 99 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 99](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=99>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -71,4 +71,4 @@ Vertraulichkeit stellt sicher, dass nur der befugte Personenkreis Zugriff und Ei
 **Wie kombiniert ein hybrides Verschlüsselungsverfahren symmetrische und asymmetrische Kryptografie?**
 ?
 Der Sender wählt einen zufälligen symmetrischen Session-Key, verschlüsselt damit schnell die Daten und verschlüsselt anschließend diesen Session-Key asymmetrisch mit dem öffentlichen Schlüssel des Empfängers (löst das Schlüsselverteilungsproblem).
-*Quelle: ITT IT-Technik (1. LJ) · `Sicherheitsmanagement.pdf` S. 13 (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Sicherheitsmanagement.pdf · S. 13](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=13>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]], OCR/Original prüfen*

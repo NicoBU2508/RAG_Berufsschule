@@ -34,7 +34,7 @@ tags:
 ?
 Das **Urheberrechtsgesetz (UrhG – Gesetz über Urheberrecht und verwandte Schutzrechte)** schützt Urheber von Werken der **Literatur, Wissenschaft und Kunst**.
 Es fördert Kreativität, indem es Bedingungen für die Nutzung festlegt und Schöpfern die Kontrolle über die Verwertung (inkl. finanzieller Unterstützung) gibt.
-*Quelle: ITT IT-Technik (1. LJ) · `00_Skript_Urheberrecht.pdf` S. 1–2 (von 5) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Urheberrecht|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [00_Skript_Urheberrecht.pdf · S. 1–2](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/00_Skript_Urheberrecht.pdf#page=1>) (von 5) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Urheberrecht|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -43,7 +43,7 @@ Es fördert Kreativität, indem es Bedingungen für die Nutzung festlegt und Sch
 ?
 In einer **geschlossenen Gesellschaft** (z. B. Geburtstagsparty mit eigenen Gästen) ist das gemeinsame Ansehen eines Films zulässig.
 Wird eine Vorführung öffentlich beworben (z. B. Plakate im Viertel) und gegen Eintritt (z. B. 5 €) ohne Lizenz veranstaltet, ist dies **unzulässig**.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 66 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 66](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=66>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -52,7 +52,7 @@ Wird eine Vorführung öffentlich beworben (z. B. Plakate im Viertel) und gegen 
 ?
 **Nein.** Mit dem Kauf erwirbt man kein Recht zur öffentlichen Verbreitung; die Rechte am Film gehören dem Urheber.
 Beim Hochladen riskiert man eine hohe **Geldstrafe**, weil nicht nur Freunde, sondern zahlreiche Dritte den Film herunterladen können.
-*Quelle: ITT IT-Technik (1. LJ) · `00_Skript_Urheberrecht.pdf` S. 3 (von 5) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Urheberrecht|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [00_Skript_Urheberrecht.pdf · S. 3](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/00_Skript_Urheberrecht.pdf#page=3>) (von 5) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Urheberrecht|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -61,7 +61,7 @@ Beim Hochladen riskiert man eine hohe **Geldstrafe**, weil nicht nur Freunde, so
 ?
 Ein neuer Song darf auf Facebook **nur geteilt werden, wenn dies offiziell erlaubt** ist.
 Ein Video für eine **öffentliche Veranstaltung** darf nicht ohne entsprechende **Rechte/Lizenzen** mit aktueller Chartmusik unterlegt werden.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 66 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 66](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=66>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -70,7 +70,7 @@ Ein Video für eine **öffentliche Veranstaltung** darf nicht ohne entsprechende
 ?
 **Nein**, das Weiterverkaufen eines E-Books ist **nicht zulässig**.
 Begründung: Bei digitalen Dateien lässt sich nicht nachprüfbar feststellen, ob die Datei beim Verkäufer wirklich gelöscht wurde.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 67 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 67](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=67>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -78,4 +78,4 @@ Begründung: Bei digitalen Dateien lässt sich nicht nachprüfbar feststellen, o
 **Was besagt das „Recht am eigenen Bild“ im Zusammenhang mit Fotos?**
 ?
 Fotos, auf denen Personen zu sehen sind, dürfen **nur mit Einwilligung** der abgebildeten Personen veröffentlicht bzw. verwendet werden.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 67 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 67](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=67>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]], OCR/Original prüfen*

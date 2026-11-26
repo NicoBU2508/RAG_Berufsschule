@@ -30,7 +30,7 @@ tags:
 **In welchen vier Schritten werden Sicherheitsmaßnahmen in der Umsetzungsplanung konkretisiert?**
 ?
 1. Nicht oder nur teilweise erfüllte Anforderungen herausfiltern. 2. Anforderungen tabellarisch nach Zielobjekten (z. B. Räumen, IT-Systemen) zusammenstellen und gruppieren. 3. Maßnahmen zur Schließung der Sicherheitslücken festlegen. 4. Maßnahmen im Zusammenhang auf Überflüssigkeit, Anpassung und Angemessenheit prüfen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 59 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 59](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=59>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -38,7 +38,7 @@ tags:
 **In welcher grundsätzlichen Anforderungs-Reihenfolge sind Maßnahmen nach IT-Grundschutz umzusetzen, und warum muss sie dokumentiert werden?**
 ?
 Zunächst werden Basis-Anforderungen umgesetzt, dann Standard-Anforderungen und zuletzt Maßnahmen für höheren Schutzbedarf (Vorbedingungen jeweils zuerst). Die sorgfältige Dokumentation der Begründung dient bei eventuellen juristischen Streitfällen als Nachweis der Sorgfaltspflicht für zeitlich nachgeordnete Restrisiken.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 59 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 59](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=59>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -46,7 +46,7 @@ Zunächst werden Basis-Anforderungen umgesetzt, dann Standard-Anforderungen und 
 **Wie ist vorzugehen, wenn das Management nicht bereit ist, das Budget für eine geplante Sicherheitsmaßnahme bereitzustellen?**
 ?
 Man erarbeitet Budgetvorschläge oder kostengünstigere Ersatzmaßnahmen, macht dem Management die verbleibenden Restrisiken bewusst und lässt die Leitung durch Unterschrift bestätigen, dass sie bereit ist, diese Restrisiken zu tragen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 58 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 58](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -54,7 +54,7 @@ Man erarbeitet Budgetvorschläge oder kostengünstigere Ersatzmaßnahmen, macht 
 **Welche Zielkonflikte können Sicherheitsmaßnahmen wie Zugangsschutz oder Verschlüsselung auslösen?**
 ?
 Zugangsschutz kann im Brandfall Fluchtwege versperren (Abstimmung mit Brandschutzexperten nötig). Verschlüsselte E-Mails können den zentralen Virenschutz auf dem Server unterlaufen und bei unzureichendem Schlüssel-Management die Verfügbarkeit wichtiger Daten auch für Berechtigte gefährden.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 58 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 58](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=58>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -62,7 +62,7 @@ Zugangsschutz kann im Brandfall Fluchtwege versperren (Abstimmung mit Brandschut
 **Warum genügen Schulungen allein nicht für die dauerhafte Wirksamkeit neuer Sicherheitsmaßnahmen?**
 ?
 Ohne Sensibilisierung und Verständnis für den Sinn der Regeln neigen Mitarbeiter dazu, unbequeme Schutzmaßnahmen zu umgehen (z. B. Brandschutztüren mit Keilen offenhalten, unverschlüsselte Mails senden oder Passwörter notieren). Daher muss nach Einführung auch die Akzeptanz überprüft werden.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 60 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 60](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -70,4 +70,4 @@ Ohne Sensibilisierung und Verständnis für den Sinn der Regeln neigen Mitarbeit
 **Welche fünf Angaben gehören in einen tabellarischen Umsetzungsplan für Sicherheitsmaßnahmen pro Zielobjekt?**
 ?
 Jeder Eintrag dokumentiert die Anforderung (z. B. Baustein-Kennung), die konkret umzusetzende Maßnahme, den Umsetzungstermin, das Budget (Anschaffung und Betrieb) sowie die zuständige Person bzw. Stelle.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 60 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 60](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=60>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*

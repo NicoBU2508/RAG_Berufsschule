@@ -12,22 +12,22 @@ tags:
   - quelle
   - itt_it_technik
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-07-13"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
 kanonische_themen: 12
 seiten_mit_kanonischem_thema: 15
 ki_exclude_seiten: [16]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
-textstatus: "eingeschränkt: visuell geprüft (partial=12, ocr_error=3)"
-textzeichen: 17218
+textstatus: "eingeschränkt: visuell geprüft (ocr_verified=3, partial=12)"
+textzeichen: 17418
 ---
 # 📄 IT Sicherheit Sicherheitsmanagement
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
 > - **Original-PDF:** [Sicherheitsmanagement.pdf](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf>)
 > - **Seiten:** 16
-> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (partial=12, ocr_error=3)
+> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=3, partial=12)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -605,41 +605,27 @@ _Datenschutzbeauftragter
 
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=13]]
-> [!ocr] OCRplus-Nachtrag integriert
-> Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
-#### OCRplus-Text für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
 Hybride Verschlüsselungsverfahren
-Kombination aus aS¥MimMetriseher Verschlüsselung
-und symmetrischen Verschlüsselung.
-Der Sender wählt einen zufälligen @¥mmethisehen Schlüssel,
-der Sessionskepgenannt wird.
-Mit diesem Session-Key werden die Daten S¥mmetriseP verschlüsselt.
-Anschließend wird der SSSSiOh=Keyasymimettischmit dem öffentlichen
-Schlüssebdes Empfängers verschlüsselt.
-Das Vorgehen löst das SChlüsselverteilingspröblem und erhält
-dabei den Geschwindigkeitsvorteil der symmetrischen Verschlüsselung.
+Kombination aus asymmetrischer Verschlüsselung und symmetrischer Verschlüsselung.
+Der Sender wählt einen zufälligen symmetrischen Schlüssel, der Session-Key genannt wird. Mit diesem Session-Key werden die Daten symmetrisch verschlüsselt. Anschließend wird der Session-Key asymmetrisch mit dem öffentlichen Schlüssel des Empfängers verschlüsselt. Das Vorgehen löst das Schlüsselverteilungsproblem und erhält dabei den Geschwindigkeitsvorteil der symmetrischen Verschlüsselung.
+
 Definition personenbezogene Daten
-Personenbezogene Daten sind Informationen, die sich auf eine Person
-Beziehen. Zwischen einer Information und einer Person
-muss also eine Verbindung herstellbar sein, unmittelbar oder mittelbar.
-Eine unmittelbare Verbindung ist beispielsweise mit dem Namen,
-der Anschrift oder dem Geburtsdatum gegeben.
-Eine mittelbare Verbindung erfolgt etwa mittels Zusatzwissen,
-beispielsweise bei Telefon-, Matrikel- und Sozialversicherungsnummern
-oder Online-Kennungen wie IP-Adressen und Cookie-Kennungen.
-Ausreichend ist, wenn die Information die Identifizierung der
-betroffenen Person theoretisch ermöglicht, es kommt nicht darauf
-an, ob die Person tatsächlich identifiziert wird.
+Personenbezogene Daten sind Informationen, die sich auf eine Person beziehen. Zwischen einer Information und einer Person muss also eine Verbindung herstellbar sein, unmittelbar oder mittelbar.
+- Unmittelbare Verbindung: z. B. Name, Anschrift oder Geburtsdatum.
+- Mittelbare Verbindung (mittels Zusatzwissen): z. B. Telefon-, Matrikel- und Sozialversicherungsnummern oder Online-Kennungen wie IP-Adressen und Cookie-Kennungen.
+Ausreichend ist, wenn die Information die Identifizierung der betroffenen Person theoretisch ermöglicht, es kommt nicht darauf an, ob die Person tatsächlich identifiziert wird.
+
 Welche Systeme zählen zu IT-Systemen?
-e Alle Computer (Client, Server) im Netz, Gruppen von Computern,
-Netzdrucker
-e — Telekommunikationsgerate, Mobiltelefone/ andere mobile Geräte
-e - Objekte des Internet of Things (loT), also Geräte, die vernetzt sind
-und Daten erfassen, speichern, verarbeiten und übertragen können,
-z.B. Webcams, Sprachassistenten
+- Alle Computer (Client, Server) im Netz, Gruppen von Computern, Netzdrucker
+- Telekommunikationsgeräte, Mobiltelefone / andere mobile Geräte
+- Objekte des Internet of Things (IoT), also Geräte, die vernetzt sind und Daten erfassen, speichern, verarbeiten und übertragen können, z. B. Webcams, Sprachassistenten
 ```
 
 ### Seite 14
@@ -650,56 +636,45 @@ z.B. Webcams, Sprachassistenten
 
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=14]]
-> [!ocr] OCRplus-Nachtrag integriert
-> Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
-#### OCRplus-Text für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Symmetetsches_ Derschlüsselungsverfahren |
-|
-e + ler & Entschlüsselung & | gletiher Schlüsse \
-+ Seqdec & Empfänger |uorab ocreinbarving gleichen geheimen Sch 5 Se) \
-- Risiko Schlesaluberg gee |
-Asyrometrtscnes +” |
-+2) Schlüsee\ für _ger= & entschlüsseln |
-A| öffentlichen | 4 |scheim
-- | Ra) Ver mise. | und anti mil geheimen [privates N
--_sichersigilung oMenil Zu Empfänger gehen |
-2 mcis4 langsamen v
-|
-Hybeiste
-+ Kombe aus syrn und asym
-"| Seqoler oa ht “Session Uey| +o) damit| werden Darden symevioch Lenshl
-‚Session Ley mil offeot\: |von | Empfange anischlässct
-Cc - | fo sh chump becericllagspeob' de
-Pecsoncabeesgene Daten
--| Jofeemeten + Person = Grrbinglang Cmte) un
-Telefon-/ Seziah_ lame, Be
-oe Beer a oh ı_= TSichtungsnn. „| a ze
-ie a el He EO
-1 or) FL [SS pe NS 1 al i T (et Taek ah
-Harimumprinzip: Fare Adenriengieakhtein | auf At LS
-BENNEREENENBEREERBEREIT UNE
-VKomutattonser@lct: Be ERHpSnnug.e en | |
-Ipedacf_sleich2e tig ausfallen, chedensg usw ic huss)
-€ pricey El gaSlot aks teen Benedigt hohen | 1
-Schuizkedaré | | | | al: #| |
-| | | | Ale. fe Karel
-RA: Asym. keryptegr Vesfahren Rum vers. and digitale Higaferte) =|
-| Lak ithe A md Schlürsel |
-Schläske) | [I lgenein | (Eee
-| CCT)
-1 17 EE aa
-[| Ce Tee
-ee [oa
-mar Soe"
-__ aaa
-_ ELSE
-• iz
-r
-|
-(ia
+Handschriftliche Zusammenfassung:
+
+Symmetrisches Verschlüsselungsverfahren:
+- Ver- & Entschlüsselung = gleicher Schlüssel
+- Sender & Empfänger vorab Vereinbarung gleichen geheimen Schlüssel
+- Risiko: Schlüsselübergabe
+
+Asymmetrisches Verschlüsselungsverfahren:
+- 2 Schlüssel für Ver- & Entschlüsseln (1 öffentlicher & 1 geheimer)
+- Text ver- mit öffentl. und ent- mit geheimen / privaten Schlüssel
+- Sicherstellung, dass öffentl. Schlüssel zu Empfänger gehört
+- meist langsamer
+
+Hybride:
+- Kombi aus sym und asym
+- Sender wählt Session Key -> damit werden Daten symmetrisch verschl.
+- Session Key mit öffentl. von Empfänger entschlüsselt [Hinweis: mit öffentl. Schlüssel des Empfängers verschlüsselt und mit privatem vom Empfänger entschlüsselt]
+- löst Schlüsselverteilungsproblem
+
+Personenbezogene Daten:
+- Information -> Person = Verbindung (mittel-/unmittelbar)
+  - mittelbar: Telefon-/Sozialversicherungsnr., IP-Adresse
+  - unmittelbar: Name, Anschrift, Geburtsdatum
+
+Maximumprinzip:
+- höchster Anwendungsschutz auf Gesamtsystem übernommen
+
+Kumulationseffekt:
+- mehrere Anwendungen mit normalen Schutzbedarf gleichzeitig ausfallen -> (Schadensauswirkung) beträchtlich = Gesamtsystem benötigt hohen Schutzbedarf
+
+RSA:
+- Asym. kryptogr. Verfahren zum Verschlüsseln und digitalen Signieren (öffentlicher Schlüssel / privater Schlüssel geheim)
 ```
 
 ### Seite 15
@@ -710,39 +685,38 @@ r
 
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=15]]
-> [!ocr] OCRplus-Nachtrag integriert
-> Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
-#### OCRplus-Text für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
 Aufgabe 1:
-Eine Information ist nur für einen beschränkten Empfängerkreis vorgesehen
-Beispiel: E-Mail wird verschlüsselt übermittelt
-b) Was versteht man unter dem Begriff Integrität? Überlege dir ein konkretes Beispiel:
-Daten müssen korret sein und dürfen nicht unbemerkt verändert werden
-Beispiel: Shared User Accounts zerstören leicht die Integrität von Datenbeständen
-Fragen/Notizen: 15
-Wittmann Datum:
-c) Was versteht man unter dem Begriff Verfügbarkeit? Überlege dir ein konkretes Beispiel:
-Verfügbarkeit beschreibt die Zeit, in der das System funktioniert
-Beispiel: Ein Stromausfall führt dazu, dass der Mailserver mehrere Stunden nicht funktioniert
+a) Was versteht man unter dem Begriff Vertraulichkeit? Überlege dir ein konkretes Beispiel.
+   Eine Information ist nur für einen beschränkten Empfängerkreis vorgesehen.
+   Beispiel: E-Mail wird verschlüsselt übermittelt.
+b) Was versteht man unter dem Begriff Integrität? Überlege dir ein konkretes Beispiel.
+   Daten müssen korrekt sein und dürfen nicht unbemerkt verändert werden.
+   Beispiel: Shared User Accounts zerstören leicht die Integrität von Datenbeständen.
+c) Was versteht man unter dem Begriff Verfügbarkeit? Überlege dir ein konkretes Beispiel.
+   Verfügbarkeit beschreibt die Zeit, in der das System funktioniert.
+   Beispiel: Ein Stromausfall führt dazu, dass der Mailserver mehrere Stunden nicht funktioniert.
+
 Aufgabe 2: Nenne die 3 Schutzbedarfskategorien:
-Normal: Schadenauswirkungen sind begrenzt
-Hoch: Schadenauswirkungen können beträchtlich sein
-Sehr hoch: Schadenasauswirkungen können existentiell bedrohlich sein
+- Normal: Schadensauswirkungen sind begrenzt
+- Hoch: Schadensauswirkungen können beträchtlich sein
+- Sehr hoch: Schadensauswirkungen können existentiell bedrohlich sein
+
 Aufgabe 3:
-a) Was versteht man unter dem Maximumprinzip? J
-Der héchte Schutzbedarf der Anwendung wird auf das Gesamtsystem Ubernommen
-b) Was versteht man unter dem Kumulationseffekt? J
-Wenn mehrere Anwendungen mit einem normalen Schutzbedarf gleichzeitig ausfallen, können die
-Schadensauswirkungen beträchtlich sein, und das Gesamtsystem benötigt hohen Schutzbedarf
-c) Wann kann unter Umständen der Schutzbedarf des Systems geringer ausfallen als der Schutzbedarf der
-zugeordneten Anwendung?
-Wenn nur weniger wichtige Teile einer Anwendung mit hohem Schutzbedarf auf dem System
-ausgeführt werden, kann der Schutzbedarf des Systems niedriger sein
-Benötigt man Informationen von eienr liefernden Anwendung, muss das System der leifernden
-Anwendung den gleichen Schutzbedarf aufweisen
+a) Was versteht man unter dem Maximumprinzip?
+   Der höchste Schutzbedarf der Anwendung wird auf das Gesamtsystem übernommen.
+b) Was versteht man unter dem Kumulationseffekt?
+   Wenn mehrere Anwendungen mit einem normalen Schutzbedarf gleichzeitig ausfallen, können die Schadensauswirkungen beträchtlich sein, und das Gesamtsystem benötigt hohen Schutzbedarf.
+c) Wann kann unter Umständen der Schutzbedarf des Systems geringer ausfallen als der Schutzbedarf der zugeordneten Anwendung?
+   Wenn nur weniger wichtige Teile einer Anwendung mit hohem Schutzbedarf auf dem System ausgeführt werden, kann der Schutzbedarf des Systems niedriger sein.
+d) Erläutere, wann man innerhalb der Schutzbedarfskategorien von Abhängigkeiten spricht.
+   Benötigt man Informationen von einer liefernden Anwendung, muss das System der liefernden Anwendung den gleichen Schutzbedarf aufweisen.
 ```
 
 ### Seite 16

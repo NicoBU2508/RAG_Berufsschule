@@ -30,7 +30,7 @@ tags:
 - **ß**: nur nach **langem Vokal** oder **Diphthong** (Zwielaut, z. B. *ei, au*): *groß, der Gruß, außer, gießen*
 - **ss**: nach **kurzem Vokal**: *der Fluss, passend, die Masse, wässrig*
 - **s**: in allen anderen Fällen: *die Reise, besonders, singen*
-*Quelle: Deutsch (2. LJ) · `Skript_Deutsch.pdf` S. 24 (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
+*Quelle: Deutsch (2. LJ) · [Skript_Deutsch.pdf · S. 24](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=24>) (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
 
 ---
 
@@ -39,7 +39,7 @@ tags:
 ?
 - Ausnahmen zu **ß** (einfaches `s` trotz langem Vokal/Diphthong): *aus, heraus, Eis*
 - Ausnahmen zu **ss** (einfaches `s` trotz kurzem Vokal): *das, was, des, bis*
-*Quelle: Deutsch (2. LJ) · `Skript_Deutsch.pdf` S. 24 (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
+*Quelle: Deutsch (2. LJ) · [Skript_Deutsch.pdf · S. 24](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=24>) (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
 
 ---
 
@@ -48,7 +48,7 @@ tags:
 ?
 - **Busse** (kurzer Vokal → `ss`): Plural von *Bus* (Verkehrsmittel) vs. **Buße** (langer Vokal → `ß`): Strafe
 - **die Masse** (kurzer Vokal → `ss`) vs. **das Maß** (langer Vokal → `ß`)
-*Quelle: Deutsch (2. LJ) · `Skript_Deutsch.pdf` S. 24–25 (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
+*Quelle: Deutsch (2. LJ) · [Skript_Deutsch.pdf · S. 24–25](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=24>) (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
 
 ---
 
@@ -57,4 +57,4 @@ tags:
 ?
 - **Sonderfall**: `s` vor `p` oder `t` wird als `s` geschrieben, aber als `sch` gesprochen (z. B. *Spiel, Stuhl, Spanne, Start*).
 - **Schreibung**: *Mi**ss**geschick* (kurz), *Salzwa**ss**er* (kurz), *Spa**ß*** (langer Vokal, mit *Sp-* am Wortanfang).
-*Quelle: Deutsch (2. LJ) · `Skript_Deutsch.pdf` S. 24–25 (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
+*Quelle: Deutsch (2. LJ) · [Skript_Deutsch.pdf · S. 24–25](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=24>) (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*

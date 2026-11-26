@@ -32,7 +32,7 @@ tags:
 - **Personalplanung:** Setzt Ziele und legt spätere Maßnahmen fest.
 - **Personalverwaltung:** Erledigt die laufenden Aufgaben.
 - **Personalinformationssystem:** Liefert die benötigten Informationen.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 37 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 37](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=37>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -40,7 +40,7 @@ tags:
 **Welche sieben Einzelaufgaben gehören zur Personalwirtschaft?**
 ?
 1. Personalbedarfsermittlung · 2. Personalbeschaffung (Anwerbung, Auswahl, Einstellung) · 3. Personaleinsatz (Stellenbeschreibung, Einweisung, Arbeitszeit-/Urlaubsregelung, Umsetzungen) · 4. Personalentwicklung (Aus-, Fort- und Weiterbildung, Beurteilung) · 5. Personalbetreuung/Sozialwesen · 6. Arbeitsbewertung und Entlohnung · 7. Personalfreistellung.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 37 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 37](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=37>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -48,7 +48,7 @@ tags:
 **Worüber gibt eine Stellenbeschreibung Auskunft und wofür wird sie vor allem benötigt?**
 ?
 Sie informiert über Position, Haupttätigkeiten, Verantwortung, Entscheidungsbefugnis (= Kompetenz) und Qualifikationsanforderungen. Sie schafft Klarheit über den Stelleninhalt – wichtig vor allem bei Neubesetzungen (Beförderung oder Neueinstellung).
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 38 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 38](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=38>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -57,7 +57,7 @@ Sie informiert über Position, Haupttätigkeiten, Verantwortung, Entscheidungsbe
 ?
 - **Fortbildung:** Gezielte Weiterqualifizierung mit Bezug auf den derzeit ausgeübten Beruf (Zweck im BBiG festgelegt; Kosten meist vom Arbeitgeber, teils BAföG/Förderung).
 - **Weiterbildung:** Ohne direkten Bezug zum bestehenden Job und ohne konkreten betrieblichen Zweck (Ausbau des eigenen Qualifikationsprofils).
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 39 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 39](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=39>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -68,7 +68,7 @@ Sie informiert über Position, Haupttätigkeiten, Verantwortung, Entscheidungsbe
 - **Anpassungsfortbildung:** Wissensstand an technische Neuerungen im Beruf anpassen.
 - **Erweiterungsfortbildung:** Vorhandene Qualifikationen durch zusätzliche Lerninhalte erweitern.
 - **Aufstiegsfortbildung:** Für höhere Verantwortung/Gehalt (i. d. R. mit Abschlussprüfung, z. B. Fachwirt, Meister, Techniker).
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 39 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 39](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=39>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -76,4 +76,4 @@ Sie informiert über Position, Haupttätigkeiten, Verantwortung, Entscheidungsbe
 **Ein Mitarbeiter besucht einen allgemeinbildenden Kurs bzw. möchte einen ganz neuen Beruf erlernen – handelt es sich um eine Fort- oder Weiterbildung?**
 ?
 Es handelt sich um eine **Weiterbildung**, da kein konkreter betrieblicher Zweck im vorhandenen Beruf verfolgt wird (im Gegensatz zur Fortbildung, die innerhalb des bestehenden Berufs neue Betätigungsfelder oder höheren Verdienst ermöglicht).
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 39 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 39](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=39>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*

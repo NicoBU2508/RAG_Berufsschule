@@ -29,7 +29,7 @@ tags:
 **Welche drei Standard-Attribute besitzt jedes Nachrichtenobjekt (`msg`) in Node-RED und wofür stehen `payload` und `topic`?**
 ?
 Jedes Nachrichtenobjekt besitzt `msg.payload`, `msg.topic` und `msg._msgid`. `Payload` bezeichnet die Nutzlast (den eigentlichen Inhalt einer Übertragung) und `Topic` das Thema der Nachricht.
-*Quelle: ITT IT-Technik (2. LJ) · `Unbenannt.pdf` S. 2 (von 9) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Zielske_Node_RED|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Unbenannt.pdf · S. 2](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Zielske/Unbenannt.pdf#page=2>) (von 9) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Zielske_Node_RED|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -37,7 +37,7 @@ Jedes Nachrichtenobjekt besitzt `msg.payload`, `msg.topic` und `msg._msgid`. `Pa
 **Woran erkennt man in Node-RED, dass Änderungen an einem Node noch nicht aktiv sind, und wie werden sie übernommen?**
 ?
 Ein blauer Punkt am Node signalisiert, dass Änderungen noch nicht ausgerollt wurden. Erst über die Schaltfläche „Deploy“ wird der angepasste Flow übernommen und ausgeführt.
-*Quelle: ITT IT-Technik (2. LJ) · `Unbenannt.pdf` S. 1 (von 9) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Zielske_Node_RED|Quellnotiz]]*
+*Quelle: ITT IT-Technik (2. LJ) · [Unbenannt.pdf · S. 1](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Zielske/Unbenannt.pdf#page=1>) (von 9) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Zielske_Node_RED|Quellnotiz]]*
 
 ---
 
@@ -45,7 +45,7 @@ Ein blauer Punkt am Node signalisiert, dass Änderungen noch nicht ausgerollt wu
 **Welche Rollenverteilung gilt zwischen Steuerung (z. B. S7/LOGO!) und Node-RED, und welche drei Parameter definieren einen Endpoint?**
 ?
 Die Steuerung übernimmt die Rolle des Servers, während Node-RED als Client (über S7-Node oder OPC-Node) zugreift. Die Schnittstellendefinition eines Endpoints umfasst IP-Adresse, Port und die jeweilige Variable für den lesenden oder schreibenden Zugriff.
-*Quelle: ITT IT-Technik (2. LJ) · `20261005_145426.pdf` S. 15 (von 18) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [20261005_145426.pdf · S. 15](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf#page=15>) (von 18) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -53,7 +53,7 @@ Die Steuerung übernimmt die Rolle des Servers, während Node-RED als Client (ü
 **Welche Aufgaben übernehmen das IoT-Gateway und der MQTT-Broker bei der Vernetzung cyberphysischer Systeme mit Node-RED?**
 ?
 Das IoT-Gateway sorgt für die Trennung zwischen IT-Netz und OT-Netz (Steuerungen/Sensorik). Der MQTT-Broker vermittelt Nachrichten zwischen den Komponenten nach dem Publish/Subscribe-Prinzip.
-*Quelle: ITT IT-Technik (2. LJ) · `20261005_145426.pdf` S. 15 (von 18) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [20261005_145426.pdf · S. 15](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf#page=15>) (von 18) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -61,4 +61,4 @@ Das IoT-Gateway sorgt für die Trennung zwischen IT-Netz und OT-Netz (Steuerunge
 **Wie ist ein Ping-Flow in Node-RED aufgebaut, der die Erreichbarkeit eines Servers regelmäßig prüft und als Statusmeldung ausgibt?**
 ?
 Ein Inject-Node löst den Ping-Node periodisch (z. B. jede Minute) aus; ein Switch-Node teilt bei Erfolg bzw. Misserfolg auf zwei Pfade auf, Change-Nodes setzen die passende Text-Payload („läuft“ / „offline“) und ein Debug-Node gibt die Meldung aus.
-*Quelle: ITT IT-Technik (2. LJ) · `Unbenannt.pdf` S. 2 (von 9) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Zielske_Node_RED|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Unbenannt.pdf · S. 2](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Zielske/Unbenannt.pdf#page=2>) (von 9) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Zielske_Node_RED|Quellnotiz]], OCR/Original prüfen*

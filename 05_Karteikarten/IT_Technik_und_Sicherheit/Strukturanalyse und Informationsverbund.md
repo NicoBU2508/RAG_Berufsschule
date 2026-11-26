@@ -38,7 +38,7 @@ tags:
 **Welche zwei Ziele verfolgt die Strukturanalyse in der IT-Grundschutz-Methodik?**
 ?
 Die Strukturanalyse ermittelt zum einen die **Objekte, die in einem Sicherheitskonzept zu berücksichtigen sind** (inkl. ihres Zusammenwirkens), und sorgt zum anderen für eine **angemessene Zusammenfassung (Gruppierung) von Objekten**, für die gleiche Sicherheitsmaßnahmen angewendet werden können.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 9 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 9](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=9>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -46,7 +46,7 @@ Die Strukturanalyse ermittelt zum einen die **Objekte, die in einem Sicherheitsk
 **Welche sechs Kriterien müssen Komponenten für eine Gruppierung in der Strukturanalyse erfüllen, und welche Gefahr droht bei falscher Gruppierung?**
 ?
 Sie müssen vom **gleichen Typ** sein, **gleich/nahezu gleich konfiguriert** und **ins Netz eingebunden** sein, den **gleichen administrativen und infrastrukturellen Rahmenbedingungen** unterliegen, **gleiche Anwendungen** bedienen und denselben **Schutzbedarf** aufweisen. Das Zusammenfassen von Objekten mit unterschiedlichem Schutzbedarf kann zu **Sicherheitslücken** führen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 9 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 9](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=9>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -54,7 +54,7 @@ Sie müssen vom **gleichen Typ** sein, **gleich/nahezu gleich konfiguriert** und
 **Welche vier Angaben sind bei der Erhebung der Geschäftsprozesse in der Strukturanalyse festzuhalten?**
 ?
 Für jeden Geschäftsprozess werden eine **eindeutige Kennung** (Nummer oder Kürzel), der **Name des Prozesses**, eine **kurze Beschreibung** (Ziel, Abläufe, verarbeitete Informationen) sowie die **verantwortlichen Personen** dokumentiert.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 10 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 10](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=10>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -62,7 +62,7 @@ Für jeden Geschäftsprozess werden eine **eindeutige Kennung** (Nummer oder Kü
 **Welche Angaben kommen bei der Erhebung von Anwendungen zusätzlich zu den Angaben eines Geschäftsprozesses hinzu?**
 ?
 Neben eindeutiger Kennung, Namen, Beschreibung (Ziel, Funktion, verarbeitete Informationen) und Verantwortlichen werden bei Anwendungen zusätzlich die **Benutzer dieser Anwendung** sowie die **Prozesse und Fachaufgaben** festgehalten, in denen sie genutzt wird.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 11 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 11](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=11>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -72,7 +72,7 @@ Neben eindeutiger Kennung, Namen, Beschreibung (Ziel, Funktion, verarbeitete Inf
 - **Eingebundene IT-Systeme:** Computer (Clients, Server), Netzdrucker, aktive Netzkomponenten (Switches, Router, WLAN-APs)
 - **Verbindungen zwischen IT-Systemen:** LAN-Verbindungen (Ethernet), Backbone-Technik (z. B. ATM)
 - **Außenverbindungen** mit Kennzeichnung der Art: z. B. Internet-Anbindung, DSL
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 12 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 12](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=12>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -80,7 +80,7 @@ Neben eindeutiger Kennung, Namen, Beschreibung (Ziel, Funktion, verarbeitete Inf
 **Warum werden Laptops bei der Strukturanalyse getrennt von stationären Arbeitsplatzrechnern derselben Abteilung gruppiert?**
 ?
 Weil bei Laptops wegen der mobilen Nutzung **zusätzliche Sicherheitsanforderungen** beachtet werden müssen. Sie unterliegen damit nicht denselben Rahmenbedingungen wie stationäre Desktops und bilden deshalb eine eigene Gruppe.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 12 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 12](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=12>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -88,4 +88,4 @@ Weil bei Laptops wegen der mobilen Nutzung **zusätzliche Sicherheitsanforderung
 **Welche vier Kategorien von Geräten zählen bei der Strukturanalyse zur Erhebung der „IT-Systeme“?**
 ?
 Zur Erhebung zählen neben Computern (Clients/Server), Netzdruckern und aktiven Netzkomponenten auch **industrielle Steuerungen (ICS, z. B. SPS und Steuer-PCs)**, **Telekommunikations- und Mobilgeräte** sowie **IoT-Geräte** (vernetzte Geräte wie Webcams oder Smart-Home-Komponenten).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 14 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 14](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=14>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*

@@ -35,7 +35,7 @@ tags:
 ?
 Mit Komma stehen entgegenstellende/zweiteilige Verbindungen wie *einerseits …, andererseits*, *je …, desto*, *nicht nur …, sondern (auch)* oder *zwar …, jedoch*.
 Ohne Komma bei gleichrangigen Wörtern/Wortgruppen stehen *und*, *oder*, *sowie*, *sowohl … als auch*, *entweder … oder* und *weder … noch*.
-*Quelle: Deutsch (1. LJ) · `Regelsammlung.pdf` S. 6 (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Regelsammlung.pdf · S. 6](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6>) (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
 
 ---
 
@@ -43,7 +43,7 @@ Ohne Komma bei gleichrangigen Wörtern/Wortgruppen stehen *und*, *oder*, *sowie*
 **Welche Kommaregel gilt für Nebensätze und Vergleichssätze?**
 ?
 Nebensätze (eingeleitet z. B. durch *da/weil*, *dass*, *als*, *wenn/falls*, *während*, *nachdem*, *obwohl*, *indem*) sowie Vergleichssätze (*so lange, wie …*) werden immer durch ein Komma vom übergeordneten Satz abgetrennt.
-*Quelle: Deutsch (1. LJ) · `Regelsammlung.pdf` S. 6 (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Regelsammlung.pdf · S. 6](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6>) (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
 
 ---
 
@@ -51,7 +51,7 @@ Nebensätze (eingeleitet z. B. durch *da/weil*, *dass*, *als*, *wenn/falls*, *w�
 **Wann wird bei mehreren Adjektiven vor einem Nomen ein Komma gesetzt?**
 ?
 Nur bei der Reihung gleichwertiger Adjektive wird ein Komma gesetzt (Beispiel: *„neue, umweltfreundliche Methoden“*).
-*Quelle: Deutsch (1. LJ) · `Regelsammlung.pdf` S. 6 (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Regelsammlung.pdf · S. 6](<99_Originale/Berufsschule/Deutsch/1_LJ/Regelsammlung.pdf#page=6>) (von 10) · [[02_Faecher/Deutsch/Quellen/Regelsammlung|Quellnotiz]]*
 
 ---
 
@@ -59,7 +59,7 @@ Nur bei der Reihung gleichwertiger Adjektive wird ein Komma gesetzt (Beispiel: *
 **Warum folgt nach einem Komma nicht automatisch „dass“?**
 ?
 Nach einem Komma folgt oft kein Nebensatz mit der Konjunktion *„dass“*, sondern ein Relativsatz mit dem Relativpronomen *„das“* (z. B. *„Das Modul, das die Daten prüft, …“*). Relativsätze werden ebenfalls durch Kommas abgetrennt.
-*Quelle: Deutsch (2. LJ) · `Skript_Deutsch.pdf` S. 16 (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
+*Quelle: Deutsch (2. LJ) · [Skript_Deutsch.pdf · S. 16](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=16>) (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
 
 ---
 
@@ -67,7 +67,7 @@ Nach einem Komma folgt oft kein Nebensatz mit der Konjunktion *„dass“*, sond
 **Wo steht das Komma bei „sodass“, „ohne dass“, „anstatt dass“ und „als dass“?**
 ?
 Das Komma steht immer vor der gesamten Verbindung (z. B. *„Die Bedingung blieb wahr, sodass …“* bzw. *„… lief weiter, ohne dass …“*), und *dass* wird dabei stets mit Doppel-s geschrieben.
-*Quelle: Deutsch (2. LJ) · `Skript_Deutsch.pdf` S. 16 (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
+*Quelle: Deutsch (2. LJ) · [Skript_Deutsch.pdf · S. 16](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=16>) (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
 
 ---
 
@@ -75,4 +75,4 @@ Das Komma steht immer vor der gesamten Verbindung (z. B. *„Die Bedingung blieb
 **Welche vier Wortarten können sich hinter „das“/„dass“ verbergen (z. B. in „Dass das das Problem …“)?**
 ?
 *Dass* ist eine Konjunktion (leitet Nebensätze ein); *das* kann Demonstrativpronomen (*dieses*), bestimmter Artikel oder Relativpronomen (*welches*) sein. Vor der Konjunktion *dass* und vor Relativsätzen steht immer ein Komma.
-*Quelle: Deutsch (2. LJ) · `Skript_Deutsch.pdf` S. 16, 20 (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*
+*Quelle: Deutsch (2. LJ) · [Skript_Deutsch.pdf · S. 16, 20](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=16>) (von 40) · [[02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript|Quellnotiz]]*

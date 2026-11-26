@@ -35,7 +35,7 @@ tags:
 **Wen schützt das Gesetz gegen den unlauteren Wettbewerb (UWG) und welche Werbe- bzw. Geschäftsmethoden verbietet es?**
 ?
 Das UWG schützt **Verbraucherinnen, Verbraucher und Unternehmen** vor unfairer Werbung und Geschäftsmethoden. Verboten sind irreführende Werbung (z. B. vorher erhöhter Preis vor „50 % Rabatt“), verschleierte Werbung (z. B. bezahlte Influencer-Empfehlungen ohne Kennzeichnung), aggressiver Kaufdruck sowie das Schlechtmachen oder Nachahmen von Konkurrenten.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 75 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 75](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=75>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -43,7 +43,7 @@ Das UWG schützt **Verbraucherinnen, Verbraucher und Unternehmen** vor unfairer 
 **Worin liegt der rechtliche Hauptunterschied zwischen einem Konzern und einer Fusion?**
 ?
 Bei einem **Konzern** bleiben die beteiligten Unternehmen rechtlich selbstständig, werden aber wirtschaftlich unter einer einheitlichen Leitung gesteuert. Bei einer **Fusion** schließen sich zwei oder mehr Unternehmen zu einem neuen oder gemeinsamen Unternehmen zusammen und geben ihre bisherige rechtliche Selbstständigkeit ganz oder teilweise auf.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 76 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 76](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=76>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -51,7 +51,7 @@ Bei einem **Konzern** bleiben die beteiligten Unternehmen rechtlich selbstständ
 **Welche Funktion hat eine Holding im Vergleich zu produzierenden Tochterunternehmen?**
 ?
 Eine **Holding** hält vor allem Beteiligungen an anderen Unternehmen und kontrolliert diese, produziert selbst aber häufig keine Waren und bietet oft keine Dienstleistungen an. Stattdessen übernimmt sie strategische Planung, Finanzierung oder Verwaltung ihrer Tochterunternehmen.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 76 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 76](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=76>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -59,7 +59,7 @@ Eine **Holding** hält vor allem Beteiligungen an anderen Unternehmen und kontro
 **Was kennzeichnet ein Kartell und welche Behörden überwachen das Kartellrecht in Deutschland und der EU?**
 ?
 Ein **Kartell** ist eine Vereinbarung oder abgestimmte Zusammenarbeit zwischen rechtlich selbstständigen Unternehmen über ihr Marktverhalten, um den Wettbewerb zu verringern und höhere Gewinne zu erzielen. Die Einhaltung überwachen in Deutschland das **Bundeskartellamt** und auf europäischer Ebene die **Europäische Kommission**.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 76, 83 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 76, 83](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=76>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -67,7 +67,7 @@ Ein **Kartell** ist eine Vereinbarung oder abgestimmte Zusammenarbeit zwischen r
 **Wie unterscheiden sich Preis-, Gebiets-, Kunden-, Quoten- und Submissionskartell?**
 ?
 **Preiskartell:** gemeinsame Preise/Aufschläge; **Gebietskartell:** Aufteilung von Verkaufsregionen; **Kundenkartell:** Aufteilung von Kundengruppen; **Quotenkartell:** Festlegung von Produktions-/Verkaufsmengen; **Submissionskartell:** heimliche Absprache bei Ausschreibungen, wer den Auftrag erhält.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 76, 81 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 76, 81](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=76>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -75,7 +75,7 @@ Ein **Kartell** ist eine Vereinbarung oder abgestimmte Zusammenarbeit zwischen r
 **Unter welchen Bedingungen ist ein Normenkartell ausnahmsweise erlaubt?**
 ?
 Ein **Normenkartell** (gemeinsame technische Standards/Normen) kann erlaubt sein, wenn die Standards **für alle offen zugänglich** sind, den **Wettbewerb nicht behindern**, Sicherheit, Qualität oder Kompatibilität verbessern und weder Preise abgesprochen noch Wettbewerber ausgeschlossen werden.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 82–83 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 82–83](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=82>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -83,4 +83,4 @@ Ein **Normenkartell** (gemeinsame technische Standards/Normen) kann erlaubt sein
 **Zwei kleine regionale Lieferdienste kaufen gemeinsam Verpackungsmaterial ein, sprechen aber keine Kundenpreise ab. Ist diese Kooperation zulässig?**
 ?
 **Ja, erlaubt.** Kleine Unternehmen dürfen beim Einkauf oder bei Lieferungen zusammenarbeiten, solange dadurch keine marktbeherrschende Stellung entsteht und keine Preise gegenüber den Kunden abgesprochen werden.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 82–83 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 82–83](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=82>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*

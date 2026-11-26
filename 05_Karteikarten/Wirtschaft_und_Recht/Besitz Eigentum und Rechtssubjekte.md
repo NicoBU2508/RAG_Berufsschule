@@ -29,7 +29,7 @@ tags:
 **Was bedeutet Rechtsfähigkeit und wann beginnt bzw. endet sie bei natürlichen Personen?**
 ?
 Rechtsfähigkeit ist die Fähigkeit, selbständig Träger von Rechten und Pflichten zu sein (z. B. erben, klagen, Verträge schließen, Steuern zahlen). Bei natürlichen Personen beginnt sie nach § 1 BGB mit Vollendung der Geburt (vorher ggf. Anwärterschaft, z. B. Erbfall) und endet mit dem Tod (Hirntod).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 4–5 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 4–5](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=4>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -37,7 +37,7 @@ Rechtsfähigkeit ist die Fähigkeit, selbständig Träger von Rechten und Pflich
 **Was sind „juristische Personen“ – und wer nimmt deren Rechte und Pflichten wahr?**
 ?
 Gemeint sind keine Rechtsanwälte, sondern rechtsfähige Vereine, Organisationen, Stiftungen oder Gesellschaften (Personenvereinigungen oder Vermögensmassen). Ihre Rechte und Pflichten werden von einem **Vertreter** wahrgenommen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 4–5 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 4–5](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=4>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -46,7 +46,7 @@ Gemeint sind keine Rechtsanwälte, sondern rechtsfähige Vereine, Organisationen
 ?
 - **Privates Recht:** z. B. e.V. (Vereinsregister), Stiftung, GmbH, AG, eingetragene Genossenschaft (Handelsregister); Rechtsfähigkeit durch Registereintragung bzw. Gründung.
 - **Öffentliches Recht:** Körperschaften, Anstalten und Stiftungen öffentlichen Rechts (z. B. Bund, Land, Gemeinden, IHK, Ärztekammer); Rechtsfähigkeit kraft Gesetzes.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 5 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 5](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=5>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -55,7 +55,7 @@ Gemeint sind keine Rechtsanwälte, sondern rechtsfähige Vereine, Organisationen
 ?
 - **Besitz:** Tatsächliche Gewalt über eine Sache („Wer hat die Sache?“); der Besitzer ist immer „sichtbar“.
 - **Eigentum:** Rechtliche Gewalt über eine Sache („Wem gehört die Sache?“); der Eigentümer kann „unsichtbar“ sein.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 6 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 6](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=6>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -63,7 +63,7 @@ Gemeint sind keine Rechtsanwälte, sondern rechtsfähige Vereine, Organisationen
 **Was ist zur Übertragung des Eigentums an einer beweglichen Sache (z. B. Fahrzeug, Möbel) erforderlich?**
 ?
 Erforderlich sind **Einigung** (Eigentümer ↔ neuer Eigentümer) und **Übergabe** (Besitzwechsel zum neuen Besitzer/Eigentümer); für den reinen Besitzwechsel genügt die Übergabe.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 6 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 6](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=6>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -71,4 +71,4 @@ Erforderlich sind **Einigung** (Eigentümer ↔ neuer Eigentümer) und **Überga
 **Wie wird das Eigentum an einer unbeweglichen Sache (z. B. Grundstück, Gebäude) übertragen?**
 ?
 Erforderlich sind **Auflassung** (= Einigung zwischen Eigentümer und neuem Eigentümer), ein **notarieller Vertrag** sowie die **Grundbucheintragung** (für den Besitzwechsel erfolgt die Überlassung).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 6 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 6](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=6>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]], OCR/Original prüfen*

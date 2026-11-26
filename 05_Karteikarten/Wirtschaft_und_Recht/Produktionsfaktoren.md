@@ -31,7 +31,7 @@ tags:
 - **Menschliche Arbeitskraft:** geistige und körperliche Anstrengungen der Mitarbeiter zur Leistungserstellung (z. B. Produktionsmitarbeiter, Buchhalter).
 - **Betriebsmittel:** Gegenstände, mit deren Hilfe die Leistungen erstellt werden (z. B. Maschinen, Werkzeuge, Werkstatt, Bauplan).
 - **Werkstoffe:** Güter, die weiterverarbeitet werden oder für den Produktionsprozess bzw. Weiterverkauf bestimmt sind.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 3 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 3](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -41,7 +41,7 @@ tags:
 - **Rohstoffe:** werden in der Produktion weiterverarbeitet und sind *wesentliche Bestandteile* des Fertigerzeugnisses (z. B. Carbon, Aluminium, Holz).
 - **Fremdbauteile:** zusammengesetzte Zukaufteile von Vorlieferern für das eigene Produkt (z. B. Akku, Bremsen, Fahrradsattel).
 - **Hilfsstoffe:** werden bei der Bearbeitung verbraucht und gehen ins Produkt ein, sind aber *keine wesentlichen Bestandteile* (z. B. Lack, Schrauben).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 3 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 3](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -50,7 +50,7 @@ tags:
 ?
 - **Hilfsstoffe** gehen als unwesentliche Bestandteile *in das fertige Produkt ein* (z. B. Lack, Schrauben).
 - **Betriebsstoffe** werden zum Betreiben der Maschinen gebraucht und *gehen nicht in das fertige Produkt ein* (z. B. Strom, Wasser, Öl).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 3 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 3](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -58,7 +58,7 @@ tags:
 **Welche Besonderheit gilt für Handelswaren im Vergleich zu anderen Werkstoffen in einem Industriebetrieb?**
 ?
 Handelswaren sind fertige Waren, die der Industriebetrieb von anderen Unternehmen bezieht und **unverändert weiterverkauft** (z. B. Luftpumpe oder Helm beim Fahrradhersteller).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 3 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 3](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -68,7 +68,7 @@ Handelswaren sind fertige Waren, die der Industriebetrieb von anderen Unternehme
 - **Aluminium:** Rohstoff (wesentlicher Bestandteil) | **Bremsen:** Fremdbauteile (zugekaufte Baugruppe)
 - **Lack:** Hilfsstoff (unwesentlicher Bestandteil) | **Maschinenstrom:** Betriebsstoff (geht nicht ins Produkt ein)
 - **Helme:** Handelswaren (unveränderter Weiterverkauf)
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 3 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 3](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=3>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -77,4 +77,4 @@ Handelswaren sind fertige Waren, die der Industriebetrieb von anderen Unternehme
 ?
 - **Betriebsmittel** sind langlebige Gegenstände, *mit deren Hilfe* Leistungen erstellt werden (z. B. Maschinen, Werkzeuge, Werkstatt, Bauplan).
 - **Betriebsstoffe** sind Verbrauchsstoffe, die *für den Betrieb der Maschinen* notwendig sind und nicht ins Produkt einfließen (z. B. Strom, Öl).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `ZusammenfassungBGWP.pdf` S. 5 (von 7) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [ZusammenfassungBGWP.pdf · S. 5](<99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=5>) (von 7) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP|Quellnotiz]], OCR/Original prüfen*

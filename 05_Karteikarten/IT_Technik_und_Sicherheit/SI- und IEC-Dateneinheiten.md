@@ -35,7 +35,7 @@ tags:
 ?
 - **SI-Präfixe** (Dezimalpräfixe) rechnen zur **Basis 10** in Tausenderschritten: $10^{3 \cdot n}$ (z. B. k = $10^3$, M = $10^6$, G = $10^9$).
 - **IEC-Präfixe** (Binärpräfixe, erkennbar am `i`) rechnen zur **Basis 2** in 1024er-Schritten: $2^{10 \cdot n}$ (z. B. Ki = $2^{10}$, Mi = $2^{20}$, Gi = $2^{30}$).
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 6 (von 29), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]]*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 6](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=6>) (von 29), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]]*
 
 ---
 
@@ -44,7 +44,7 @@ tags:
 ?
 1. $10^3$ **k** vs. $2^{10}$ **Ki** · 2. $10^6$ **M** vs. $2^{20}$ **Mi** · 3. $10^9$ **G** vs. $2^{30}$ **Gi**
 4. $10^{12}$ **T** vs. $2^{40}$ **Ti** · 5. $10^{15}$ **P** vs. $2^{50}$ **Pi** · 6. $10^{18}$ **E** vs. $2^{60}$ **Ei**
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 6 (von 29), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]]*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 6](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=6>) (von 29), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]]*
 
 ---
 
@@ -53,7 +53,7 @@ tags:
 ?
 1. **Basis-Unterschied**: Dateigrößen stehen oft in **IEC-Einheiten** (`500 MiB` = $500 \cdot 2^{20}$ B), Übertragungsraten in **SI-Einheiten** (`10 Mbit/s` = $10 \cdot 10^6$ bit/s).
 2. **Byte vs. Bit**: Byte müssen mit dem **Faktor 8** in Bit umgerechnet werden (oder bit/s durch 8 in B/s).
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 6 (von 29), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]]*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 6](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=6>) (von 29), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]]*
 
 ---
 
@@ -63,7 +63,7 @@ tags:
 Zwei gleichwertige Rechenwege (mit einheitlichen Einheiten in Bit oder Byte):
 - Über Frame-Anzahl: $t = \frac{(\text{Dateigröße} / \text{Netto-Framegröße}) \cdot \text{Framegröße}}{\text{Übertragungsrate}}$
 - Über Nutzdatenanteil: $t = \frac{\text{Dateigröße}}{(\text{Netto-Framegröße} / \text{Framegröße}) \cdot \text{Übertragungsrate}}$
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 7 (von 29), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]]*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 7](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=7>) (von 29), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]]*
 
 ---
 
@@ -71,7 +71,7 @@ Zwei gleichwertige Rechenwege (mit einheitlichen Einheiten in Bit oder Byte):
 **Welcher Rechenfehler entsteht, wenn man $2.160\text{ GiB}$ einfach durch $1.000$ statt durch $1.024$ in $\text{TiB}$ umrechnet?**
 ?
 Bei dezimaler Näherung ($/ 1.000$) erhält man $2{,}16\text{ TiB}$; binär exakt ($2.160 / 1.024$) sind es jedoch nur **$2{,}109\text{ TiB}$** (da $1\text{ TiB} = 2^{10}\text{ GiB} = 1.024\text{ GiB}$).
-*Quelle: ITT IT-Technik (2. LJ) · `Mitschriften_Abde.pdf` S. 7 (von 7), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften|Quellnotiz]]*
+*Quelle: ITT IT-Technik (2. LJ) · [Mitschriften_Abde.pdf · S. 7](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=7>) (von 7), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften|Quellnotiz]]*
 
 ---
 
@@ -80,4 +80,4 @@ Bei dezimaler Näherung ($/ 1.000$) erhält man $2{,}16\text{ TiB}$; binär exak
 ?
 - Bit -> Byte (durch 8 teilen): $704\text{ Bit} / 8 = \mathbf{88\text{ Byte}}$.
 - MB/s -> Mbit/s (mit 8 multiplizieren): $100\text{ MB/s} \cdot 8 = \mathbf{800\text{ Mbit/s}}$.
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 9 (von 29), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]]*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 9](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=9>) (von 29), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]]*

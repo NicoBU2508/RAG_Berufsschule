@@ -46,7 +46,7 @@ tags:
 **Welche vier Gefahrenbereiche der physischen Sicherheit müssen im IT-Betrieb abgesichert werden und mit welchen Maßnahmen?**
 ?
 1. **Unberechtigter Zugang zum Raum** (Schließsysteme, biometrische Zugangskontrolle, separate Serverräume), 2. **Unberechtigter Zugriff auf das System** (abschließbare Server-/Etagenverteilerschränke, Gehäuseverschluss, Kensington-Schloss), 3. **Physischer Zugriff auf Netzwerkkabel** (Unterboden-Verlegung, verdeckte Schächte) und 4. **Klima/Umwelt** (Klimaanlage, Umgebungs-Kontrollen, Reinigung).
-*Quelle: ITT IT-Technik (1. LJ) · `Aufgabe 1.pdf` S. 2 (von 4) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Aufgabe 1.pdf · S. 2](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=2>) (von 4) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1|Quellnotiz]]*
 
 ---
 
@@ -54,7 +54,7 @@ tags:
 **Welche Vorgaben zu Sicherheitszonen macht der BSI-Baustein INF.2 für ein Rechenzentrum (Basis-Anforderung) im Unterschied zum Serverraum?**
 ?
 Ein **Rechenzentrum** muss insgesamt als geschlossener Sicherheitsbereich mit getrennten Sicherheitszonen für Verwaltungs-, Logistik-, Technik- und IT-Flächen konzipiert werden. Bei einem **Serverraum** sollte hingegen geprüft werden, ob unterschiedliche Sicherheitszonen (sowie Brand- und Rauchabschnitte) eingerichtet werden können.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 25 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 25](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=25>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -62,7 +62,7 @@ Ein **Rechenzentrum** muss insgesamt als geschlossener Sicherheitsbereich mit ge
 **Wie können Verschmutzung, unzureichende Klimatisierung und fehlerhafte Standortplanung das Schutzziel Verfügbarkeit beeinträchtigen?**
 ?
 Staub und Verschmutzungen können Lüfter zusetzen, sodass Geräte überhitzen und ausfallen; auch Abweichungen bei Temperatur oder Luftfeuchte gefährden den Betrieb. Eine fehlerhafte Planung führt z. B. zu Standortrisiken (Erdbeben, Hochwasser, Luftverkehr), zu geringer Bandbreite oder unzureichender Energieversorgung.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 24, 28 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 24, 28](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=24>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -70,7 +70,7 @@ Staub und Verschmutzungen können Lüfter zusetzen, sodass Geräte überhitzen u
 **Welche Basis-Anforderungen gelten laut BSI INF.2 für eine unterbrechungsfreie Stromversorgung (USV) im Rechenzentrum?**
 ?
 Für alle betriebsrelevanten Komponenten muss eine ausreichend dimensionierte USV installiert, bei Verbraucheränderungen neu geprüft, regelmäßig gewartet/getestet und automatisch auf Störmeldungen überwacht werden. Batterien müssen im passenden Temperaturbereich gehalten und möglichst räumlich getrennt von der Leistungselektronik stehen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 25–26, 28 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 25–26, 28](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=25>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -78,7 +78,7 @@ Für alle betriebsrelevanten Komponenten muss eine ausreichend dimensionierte US
 **Welche zusätzlichen Anforderungen stellt der Standard-Schutzbedarf (NEA) an die Notstromversorgung gegenüber der Basis-Anforderung (USV)?**
 ?
 Im Standard-Schutzbedarf sollte zusätzlich eine **Netzersatzanlage (NEA)** ergänzt werden (alternativ eine USV mit angemessener Autonomiezeit). Die NEA muss regelmäßig unter Last getestet werden; Betriebsmittelvorräte sind regelmäßig zu prüfen, statt Diesel sollte schwefelarmes Heizöl verwendet und Tankvorgänge müssen protokolliert werden.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 28 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 28](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=28>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -86,7 +86,7 @@ Im Standard-Schutzbedarf sollte zusätzlich eine **Netzersatzanlage (NEA)** erg�
 **Welche Vorgaben gelten laut BSI INF.2 für Leitungen durch das Rechenzentrum sowie für den Brandschutz (Basis vs. Standard)?**
 ?
 Im Rechenzentrum dürfen grundsätzlich nur Leitungen zur unmittelbaren Versorgung der eigenen Technik (IT/Kühlung) liegen; unvermeidbare Fremdleitungen müssen dokumentiert, eingehaust und überwacht werden. Beim Brandschutz fordern Basis-Anforderungen Brand-/Rauchabschnitte plus Brandfrüherkennung mit Alarmierung/Schutzreaktion; Standard-Anforderungen ergänzen automatische Lösch- oder Brandvermeidungsanlagen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 25–27 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 25–27](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=25>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -94,4 +94,4 @@ Im Rechenzentrum dürfen grundsätzlich nur Leitungen zur unmittelbaren Versorgu
 **Welche Maßnahmen fordert BSI INF.2 bei erhöhtem Schutzbedarf für ein Ausweichrechenzentrum und bei Baumaßnahmen?**
 ?
 Bei erhöhtem Schutzbedarf sollte ein geografisch separiertes, ständig einsatzbereites **Ausweichrechenzentrum** aufgebaut, regelmäßig mit gespiegelten Daten versorgt, redundant angebunden und der Schwenk dorthin geübt werden. Bei Erweiterungen eines Rechenzentrums sind Staubschutzmaßnahmen von unbeteiligten Personen engmaschig zu kontrollieren.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 27 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 27](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=27>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*

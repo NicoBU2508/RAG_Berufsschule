@@ -38,7 +38,7 @@ tags:
 ?
 - **Verbale Elemente**: gesprochene oder geschriebene Sprache, Wortschatz und grammatikalischer Ausdruck.
 - **Nonverbale Elemente**: auditive Signale (Lautstärke, Stimmlage, Aussprache, Sprechgeschwindigkeit, Betonung) und visuelle Signale (Körperhaltung, Gestik, Mimik, Blickkontakt, äußeres Erscheinungsbild).
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 36, 38 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 36, 38](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=36>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -46,7 +46,7 @@ tags:
 **Was besagt Paul Watzlawicks Axiom „Man kann nicht nicht kommunizieren“?**
 ?
 Bei jedem menschlichen Zusammentreffen findet Kommunikation statt – auch Schweigen, Wegsehen oder die Körperhaltung senden Signale an das Gegenüber.
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 37 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 37](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -54,7 +54,7 @@ Bei jedem menschlichen Zusammentreffen findet Kommunikation statt – auch Schwe
 **Wie läuft Kommunikation im Sender-Empfänger-Modell (nach Stuart Hall) ab und wodurch entstehen Störungen?**
 ?
 Sender A übermittelt eine Nachricht in 7 Schritten (Absicht → Codierung in Worte → Aussprechen → Übermittlung → Hören → Übersetzen → Interpretation) an Empfänger B. Störungen entstehen bei fehlendem gemeinsamen Code (unterschiedliche Begriffsdeutung) oder bei akustischen bzw. Übermittlungsfehlern.
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 37–38 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 37–38](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=37>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -66,7 +66,7 @@ Jede Äußerung sendet gleichzeitig auf vier Ebenen (Schnäbel/Ohren):
 2. **Selbstkundgabe** (was der Sender von sich preisgibt)
 3. **Beziehungshinweis** (wie der Sender zum Empfänger steht)
 4. **Appell** (was der Empfänger tun, denken oder fühlen soll)
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 39–40 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 39–40](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=39>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -74,7 +74,7 @@ Jede Äußerung sendet gleichzeitig auf vier Ebenen (Schnäbel/Ohren):
 **Wie entstehen im 4-Ohren-Modell Missverständnisse?**
 ?
 Ein Missverständnis entsteht, wenn der Empfänger eine Äußerung auf einem anderen Ohr interpretiert als sie vom Sender gemeint war – etwa wenn eine sachliche Aussage (*„Es ist kein Papier mehr im Drucker“* / *„Es zieht hier“*) vorrangig auf dem Beziehungs-Ohr als Vorwurf gehört wird.
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 41–42 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 41–42](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=41>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -85,7 +85,7 @@ Ein Missverständnis entsteht, wenn der Empfänger eine Äußerung auf einem and
 - **Einfühlsame**: hören stark auf Aussagen über den Sender selbst (Selbstkundgabe).
 - **Sensible**: reagieren sehr stark auf der Beziehungsebene und fühlen sich schnell angegriffen.
 - **Handlungsorientierte**: reagieren vor allem auf den Appell und wollen sofort aktiv werden.
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 42 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 42](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=42>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -95,4 +95,4 @@ Ein Missverständnis entsteht, wenn der Empfänger eine Äußerung auf einem and
 - **Sichtbare Ebene (ca. 20 %)** – Sachebene: Fakten, Daten, Inhalte (was gesagt wird).
 - **Unsichtbare Ebene (ca. 80 %)** – Beziehungsebene: Gefühle, Werte, Erfahrungen, Bedürfnisse, Sympathie/Antipathie, Tonfall und Körpersprache.
 Kernaussage: Der größte Teil der Kommunikation passiert auf der Beziehungsebene; Reaktionen hängen oft stärker von Gefühlen und Tonfall ab als vom reinen Sachinhalt.
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 45 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 45](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=45>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*

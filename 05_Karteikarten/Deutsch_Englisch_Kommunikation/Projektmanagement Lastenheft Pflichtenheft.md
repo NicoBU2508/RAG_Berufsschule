@@ -53,7 +53,7 @@ tags:
 ?
 - **Definition (DIN 69901):** Vorhaben, das im Wesentlichen durch die Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist (Zielvorgabe, zeitliche, finanzielle, personelle und andere Begrenzungen).
 - **Merkmale:** Klares Ziel, zeitlich begrenzt (definierter Start/Ende), außerhalb der Routinetätigkeit, komplex, kostenintensiv, ungewisser Ausgang, fachübergreifendes Team.
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 10 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 10](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -63,7 +63,7 @@ tags:
 - **Projektauftraggeber:** Eigentümer des Projekts; entscheidet über Prioritäten, Budget sowie Terminfreigaben und trägt die letzte Verantwortung für den Erfolg.
 - **Projektmanager:** Hat Autorität und Verantwortung, die Anforderungen innerhalb der gesetzten Kosten- und Zeitgrenzen umzusetzen.
 - **Stakeholder:** Alle direkt oder indirekt am Projekt beteiligten Personen/-gruppen, die über Erfolg oder Misserfolg mitentscheiden (z. B. Kunde, Projektleiter, Team, betroffene Organisationen).
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 10–11 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 10–11](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=10>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -72,7 +72,7 @@ tags:
 ?
 - **Drei Zieldimensionen:** Sachziel (*Was* soll erreicht werden?), Termin-/Zeitziel (*Bis wann* inkl. Meilensteine?) und Kostenziel (*Was darf es insgesamt kosten?*).
 - **Formulierungsregeln:** Nach **SMART** schriftlich, positiv, erreichbar und objektiv messbar formulieren; sie erfüllen Präzisierungs-, Orientierungs-, Motivations- und Kontrollfunktion.
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 21 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 21](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=21>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -81,7 +81,7 @@ tags:
 ?
 - **Internes Projekt:** Auftraggeber und ausführende Stelle gehören demselben Unternehmen an; es besteht **kein Vertragsverhältnis**.
 - **Externes Projekt:** Auftraggeber und Auftragnehmer sind verschiedene Firmen; Grundlage ist ein **Vertrag** (nach Anfrage/Ausschreibung, Angebot, Auftrag), der größte Arbeitsanteil liegt beim Auftragnehmer und das Projekt endet mit der **Abnahme**.
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 20 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 20](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=20>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -90,7 +90,7 @@ tags:
 ?
 - **Lastenheft:** Vorab vom **Auftraggeber** erstellt; beschreibt das **WAS** (fachliche Basisanforderungen auf höherem Abstraktionsniveau) als Angebots- und Planungsgrundlage.
 - **Pflichtenheft:** Vom **Auftragnehmer** (in Absprache mit dem Auftraggeber) nach der Planungsphase erstellt; beschreibt detailliert das **WIE** (Umsetzung funktionaler/nichtfunktionaler Anforderungen) und dient als juristische Vertrags- und Abnahmebasis.
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 24, 26, 30 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 24, 26, 30](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=24>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -99,7 +99,7 @@ tags:
 ?
 - **Nichtfunktionale Anforderungen:** Vorgaben außerhalb von Funktionalität, Leistung und UI – z. B. einzuhaltende Gesetze und Normen, Revisionsfähigkeit, Plattformabhängigkeiten sowie Sicherheitsanforderungen (Passwortschutz, Protokollierung, sichere Übertragung).
 - **Nummerierung:** Zwingend erforderlich, um sich in späteren Projektphasen und anderen Dokumenten eindeutig auf einzelne Anforderungen beziehen zu können.
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 26, 29 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 26, 29](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=26>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -108,4 +108,4 @@ tags:
 ?
 - **Kick-Off-Meeting:** Erste offizielle Teamsitzung noch ohne inhaltliche Projektarbeit; dient dem Kennenlernen, der Information über Projektziel/Rollen und dem Festlegen von Spielregeln.
 - **Meilensteine & Lessons Learned:** Meilensteine dienen am Phasenende per Review/Freigabe der Entscheidung über den Start der nächsten Phase; am Ende sichern **Lessons Learned** gesammelte Erfahrungen (Best Practices) als feste Routine.
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 19, 23 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 19, 23](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=19>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*

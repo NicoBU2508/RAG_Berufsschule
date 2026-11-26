@@ -43,7 +43,7 @@ tags:
 ?
 Nach `INSERT INTO <Tabelle> (<Spaltenliste>) VALUES` werden die einzelnen Datensatz-Tupel jeweils in runden Klammern angegeben und durch Kommas getrennt (Abschluss mit `;`).
 Beispiel: `INSERT INTO fahrraeder (rahmennr, tagesmietpreis, fahrradart) VALUES ("380/4532", 22, "Mountainbike"), ("TS-457-5", 15, "Trekkingrad");`
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kislik.pdf` S. 53 (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 53](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=53>) (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
 
 ---
 
@@ -52,7 +52,7 @@ Beispiel: `INSERT INTO fahrraeder (rahmennr, tagesmietpreis, fahrradart) VALUES 
 ?
 Man weist der Spalte im `SET`-Teil eine Multiplikation auf Basis des aktuellen Werts zu und grenzt die Zieldatensätze über `WHERE` ein.
 Für +20 % verwendet man z. B. `SET tagesmietpreis = tagesmietpreis * 1.2`, für −12 % entsprechend `SET tagesmietpreis = tagesmietpreis * 0.88`.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kislik.pdf` S. 54–55 (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 54–55](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=54>) (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
 
 ---
 
@@ -61,7 +61,7 @@ Für +20 % verwendet man z. B. `SET tagesmietpreis = tagesmietpreis * 1.2`, für
 ?
 Zwischen den Ungleich-Bedingungen (`!=`) muss `AND` stehen, z. B. `WHERE fahrradart != "Trekkingrad" AND fahrradart != "Mountainbike";`.
 Ein `OR` ist eine typische Prüfungsfalle: Da kein Wert gleichzeitig beide Typen sein kann, wäre die Bedingung für jeden Datensatz wahr und würde die gesamte Tabelle ändern.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kislik.pdf` S. 55–56 (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 55–56](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=55>) (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
 
 ---
 
@@ -70,7 +70,7 @@ Ein `OR` ist eine typische Prüfungsfalle: Da kein Wert gleichzeitig beide Typen
 ?
 Man führt zuerst eine `SELECT *`-Abfrage mit exakt derselben `FROM`- und `WHERE`-Klausel aus (z. B. `SELECT * FROM fahrraeder WHERE YEAR(kaufdatum) <= 2016 - 2;`).
 Erst wenn die angezeigte Treffermenge stimmt, ersetzt man `SELECT *` durch `DELETE`.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kislik.pdf` S. 57 (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 57](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=57>) (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
 
 ---
 
@@ -79,7 +79,7 @@ Erst wenn die angezeigte Treffermenge stimmt, ersetzt man `SELECT *` durch `DELE
 ?
 Mit `OR`, wenn Datensätze gelöscht werden sollen, die *mindestens eine* der Teilbedingungen erfüllen (z. B. `WHERE anschaffungswert < 100 OR fahrradart = "Kinderrad";`).
 `AND` würde dagegen nur Datensätze löschen, auf die beide Kriterien gleichzeitig zutreffen.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kislik.pdf` S. 57 (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 57](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=57>) (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
 
 ---
 
@@ -88,4 +88,4 @@ Mit `OR`, wenn Datensätze gelöscht werden sollen, die *mindestens eine* der Te
 ?
 „Safe Updates“ verbietet `UPDATE`- und `DELETE`-Befehle ohne Schlüsselspalte in der `WHERE`-Klausel oder ohne `LIMIT`-Klausel.
 Nach dem Setzen oder Entfernen des Hakens (unter *Edit → Preferences... → SQL Queries → General*) muss die bestehende Verbindung geschlossen und neu verbunden (*Reconnect*) werden.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kislik.pdf` S. 41 (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 41](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=41>) (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]], OCR/Original prüfen*

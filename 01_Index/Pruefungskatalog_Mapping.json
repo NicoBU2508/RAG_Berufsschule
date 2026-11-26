@@ -26,7 +26,7 @@
     "Programm und Software": { "pruefung": "AP1", "ap1_ref": "2.4", "hinweis": "System- vs. Anwendungssoftware, Standard- vs. Individualsoftware" },
     "Programmablaufdarstellungen": { "pruefung": "BS", "ap1_ref": null, "hinweis": "PAP & Struktogramm ab Frühjahr 2025 aus IHK-AP1 gestrichen (nur Berufsschule)" },
     "Programmiersprachen und Übersetzer": { "pruefung": "AP1", "ap1_ref": "3.8", "hinweis": "Compiler vs. Interpreter" },
-    "Python-Grundlagen": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "Sprachspezifisch für Berufsschule & AP2" },
+    "Python-Grundlagen": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "Sprachspezifisch für Berufsschule & AP2 (AP1-Logik/Schreibtischtests sind über Algorithmus, Variablen, Schleifen und Arrays als AP1/AP2 abgedeckt)" },
     "Rekursion und Iteration": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "Vertiefte Algorithmen für AP2 FIAE Teil 2" },
     "SQL-Aggregatfunktionen und Gruppierung": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "SQL-Abfragen (GROUP BY / HAVING) ab 2025 in AP2 verschoben" },
     "SQL-Datenmanipulation INSERT UPDATE DELETE": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "SQL-DML ab 2025 in AP2 verschoben" },
@@ -38,7 +38,7 @@
     "Softwaretest und Testverfahren": { "pruefung": "AP1/AP2", "ap1_ref": "5.1", "hinweis": "Black-Box/White-Box & Testprotokoll in AP1; Äquivalenzklassen/Unit-Test in AP2" },
     "Suchalgorithmen": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "Lineare/Binäre Suche & Sortieralgorithmen in AP2 FIAE Teil 2" },
     "UML-Diagramme": { "pruefung": "AP1/AP2", "ap1_ref": "3.8", "hinweis": "AP1: Aktivitätsdiagramm & Use-Case-Basis (Zustands-/Klassendiagramm in AP2)" },
-    "Unternehmenswiki": { "pruefung": "BS", "ap1_ref": null, "hinweis": "Rahmenszenario aus dem Berufsschulunterricht" },
+    "Java- und OOP-Grundlagen": { "pruefung": "BS", "ap1_ref": null, "hinweis": "Java- und OOP-Grundlagen aus dem Unternehmenswiki-Rahmenskript (Berufsschule & AP2-Basis)" },
     "Variablen und Datentypen": { "pruefung": "AP1/AP2", "ap1_ref": "3.8", "hinweis": "Datentypen & Speicherbedarf in Pseudocode und Programmierung" },
 
     "Applying for a Position": { "pruefung": "BS", "ap1_ref": null, "hinweis": "Englisch Berufsschule" },

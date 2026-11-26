@@ -10,8 +10,8 @@ canonical_evidence: false
 thema: "Methoden, Parameter und Rückgabewerte"
 kategorie: Anwendungsentwicklung
 pruefung: "AP1/AP2"
-quellen: 7
-seiten: 39
+quellen: 5
+seiten: 21
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -30,8 +30,6 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift\|AE_2LJ_Jac_Mitschrift]] | [3](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=3>) | beispiel | 1 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block\|Stol_02_Unternehmenswiki_4_Block]] | [40–48](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf#page=40>) | theorie | Text für Zitate geeignet |
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block\|Stol_02_Unternehmenswiki_5_Block]] | [40–48](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-5.Block.pdf#page=40>) | theorie | Text für Zitate geeignet |
 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block\|Stol_02_Unternehmenswiki_7_Block]] | [39–48](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=39>) | theorie | Text für Zitate geeignet |
 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824\|Stol_Lernzettel_260210_092824]] | [4](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=4>) | beispiel | 1 Seite(n): OCR/Original prüfen |
 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [3–8](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=3>) | aufgabe, fragment, loesung | 1 Seite(n): OCR/Original prüfen |

@@ -6,14 +6,14 @@ Ein Wissens- und Lern-RAG für die Fachinformatiker-Ausbildung (AE) IHK Bayern, 
 
 Nutzbar ist das RAG über alle in der IDE integrierten KI Agenten sowie alle die die Zugriff auf Lokale Datein auf deinem PC haben. Für die light Version Reicht es den aktuellen stand in eine ZIP zu packen und ihm einen Skill oder einem Agenten anzuhängen (wichtig dabei ist das dieser Skill mit enthalten ist KI-Lerncoach-Skill (`ap-lerncoach`)). Falls diese zu groß ist können auch nur die Themenbereche und Karteikarten gezipt werden, da diese in für KI gut lesbaren .md Format geschrieben sind und für die reine Funktionalität absolut ausreichen.
 
-> **Stand (Audit 26.11.2026):** **49** kanonische Quellnotizen · **1.402** visuell geprüfte PDF-Seiten (**1.263** Belegseiten) · **140** kuratierte Themen · **140** Karteikarten-Decks · **192** freigegebene RAG-/Copilot-Dateien
+> **Stand (Audit 26.11.2026):** **46** kanonische Quellnotizen · **1.403** visuell geprüfte PDF-Seiten (**1.136** Belegseiten) · **140** kuratierte Themen · **140** Karteikarten-Decks · **189** freigegebene RAG-/Copilot-Dateien
 
 ---
 
 ## ✨ Kernfunktionen
 
 - **Visuell geprüfte Wissensbasis & Quellenlayer**  
-  Jede aktive PDF unter `99_Originale/` ist seitenweise (`### Seite N` + `#page=N`-Link) in `02_Faecher/<Fach>/Quellen/` abgebildet. Handschriftliche Notizen und Scans sind visuell geprüft und transkribiert; die fachliche Navigation erfolgt über **139 kuratierte Themen** in 6 Kategorien (`03_Themen/Visuell_geprueft/`).
+  Jede aktive PDF unter `99_Originale/` ist seitenweise (`### Seite N` + `#page=N`-Link) in `02_Faecher/<Fach>/Quellen/` abgebildet. Handschriftliche Notizen und Scans sind visuell geprüft und transkribiert; die fachliche Navigation erfolgt über **140 kuratierte Themen** in 6 Kategorien (`03_Themen/Visuell_geprueft/`).
 - **Automatisierte GoodNotes-Import-Pipeline (`goodnotes-import`)**  
   `import_goodnotes.rb` scannt neue oder aktualisierte GoodNotes-PDFs in `00_Posteingang_GoodNotes/`, erkennt per SHA-256 und visuellem Seiten-Fingerprint automatisch Duplikate sowie erweiterte Notizbücher (`EXTENDED_NOTEBOOK`), rendert neue Seiten zur visuellen Prüfung (Swift/PDFKit) und aktualisiert anschließend alle Indizes, Themen, Allowlists und Validierungen in einem Lauf.
 - **Fail-Closed RAG & Datenschutz**  
@@ -21,7 +21,7 @@ Nutzbar ist das RAG über alle in der IDE integrierten KI Agenten sowie alle die
 - **KI-Lerncoach & Fast Retrieval (`ap-lerncoach`)**  
   Ein didaktischer Lern-Skill (Sokratisches Scaffolding, Active Recall, IHK-Operatoren, AP1/AP2-Priorisierung) mit dem lokalen Suchwerkzeug `vault_lookup.rb` (fail-closed Suche & Seitenextraktion in `< 150 ms` ohne Token-Ballast).
 - **Karteikarten & Multi-Plattform-Export**  
-  Alle 139 Themen sind als Karteikarten-Decks (`05_Karteikarten/`, 860 Karten) für **Obsidian Spaced Repetition** gepflegt und lassen sich per `sync_karteikarten.rb` für **Anki** und **NotebookLM** exportieren. Zusätzlich erzeugt `export_gemini_bundle.rb` 7 kompakte, datenschutzsichere Markdown-Pakete für **Gemini Skills / Google Drive**.
+  Alle 140 Themen sind als Karteikarten-Decks (`05_Karteikarten/`, 878 Karten) für **Obsidian Spaced Repetition** gepflegt und lassen sich per `sync_karteikarten.rb` für **Anki** und **NotebookLM** exportieren. Zusätzlich erzeugt `export_gemini_bundle.rb` 7 kompakte, datenschutzsichere Markdown-Pakete für **Gemini Skills / Google Drive**.
 - **IHK-Prüfungsvorbereitung & Hybrid-Aufgabengenerator**  
   Strukturierte Lernplanung über IHK-AP1-Prüfungskatalog & Checkliste, AP1-Lernmatrix, AP2-Ausbauplan (`04_Pruefung/`) sowie eine automatisierte Import- und Analyse-Pipeline für **Original-IHK-Altklausuren + offizielle Lösungshinweise** (`06_Altklausuren/`, `import_altklausur.rb`, Skill `altklausur-import`), aus denen `ap-lerncoach` interaktive 1-nach-1-Aufgaben (Skript-Stil + IHK-Prüfungsstil) generiert.
 
@@ -39,10 +39,10 @@ Nutzbar ist das RAG über alle in der IDE integrierten KI Agenten sowie alle die
 │   └── Auditdaten/                    # Maschinenlesbare Audit- & Manifestdaten
 ├── 02_Faecher/                        # Fachordner (AE, BGWP, ITT, Deutsch, Englisch, PuG, Reli)
 ├── 03_Themen/
-│   ├── 00_Kuratierte_Themen.md        # Index aller 139 visuell geprüften Themen
+│   ├── 00_Kuratierte_Themen.md        # Index aller 140 visuell geprüften Themen
 │   └── Visuell_geprueft/              # Themen in 6 kanonischen Kategorien
 ├── 04_Pruefung/                       # AP1-Katalog, Lernmatrix, AP2-Ausbauplan, Prüfungsmodus
-├── 05_Karteikarten/                   # 139 Decks (860 Karten) + Gesamtindex
+├── 05_Karteikarten/                   # 140 Decks (878 Karten) + Gesamtindex
 ├── 06_Altklausuren/                   # Struktur & Workflow für AP1/AP2-Altklausuren
 ├── 98_Archiv_nicht_lernen/            # Duplikate & private Dokumente (Privatordner git-ignored)
 ├── 99_Originale/                      # Originale PDF-Mitschriften nach Fächern

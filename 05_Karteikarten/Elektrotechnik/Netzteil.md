@@ -33,7 +33,7 @@ tags:
 **Welche Hauptaufgabe erfüllt ein PC-Netzteil (PSU – Power Supply Unit)?**
 ?
 Es wandelt die vom Verteilungsnetzbetreiber gelieferte Netzwechselspannung von 230 V (AC) in kleinere Gleichspannungen (DC) zwischen +3,3 V und +12 V für die PC-Komponenten um.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 22 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 22](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=22>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -41,7 +41,7 @@ Es wandelt die vom Verteilungsnetzbetreiber gelieferte Netzwechselspannung von 2
 **Was legt der Formfaktor ATX bei einem PC-Netzteil fest?**
 ?
 Der Formfaktor ATX normiert die Gehäuseabmessungen (Form und Größe) des Netzteils, sodass es sich problemlos in genormte PC-Gehäuse einbauen lässt.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 23 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 23](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=23>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -49,7 +49,7 @@ Der Formfaktor ATX normiert die Gehäuseabmessungen (Form und Größe) des Netzt
 **Welche PC-Komponenten werden über die verschiedenen Gleichspannungsausgänge (+3,3 V, +5 V, +12 V und Standby) eines ATX-Netzteils versorgt?**
 ?
 +3,3 V versorgt Arbeitsspeicher und Teile des Mainboards; +5 V CPU-Bereiche und USB-Anschlüsse; +12 V (oft auf zwei Ausgängen) CPU, Grafikkarte (PCIe/Slot) und Laufwerke; der Standby-Ausgang (+5 V) versorgt Maus, Tastatur, Netzwerkkarte und RAM im Energiesparmodus.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 23–25 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 23–25](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=23>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -57,7 +57,7 @@ Der Formfaktor ATX normiert die Gehäuseabmessungen (Form und Größe) des Netzt
 **Wofür steht die Netzteil-Schutzfunktion „SCP“ („Safety feature SCP“) und wie wirkt sie?**
 ?
 SCP steht für *Short Circuit Protection* (Kurzschlussschutz). Sie erkennt einen Kurzschluss an einem Ausgang (z. B. an einem Kabel) und schaltet das Netzteil automatisch ab.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 25 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 25](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=25>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -65,7 +65,7 @@ SCP steht für *Short Circuit Protection* (Kurzschlussschutz). Sie erkennt einen
 **Wie grenzen sich die Netzteil-Schutzfunktionen OPP, OVP und UVP voneinander ab?**
 ?
 **OPP** (*Over Power Protection*) schaltet ab, wenn die Gesamtleistung die maximal zulässige Last übersteigt; **OVP** (*Over Voltage Protection*) bei zu hoher Ausgangs- oder Eingangsspannung; **UVP** (*Under Voltage Protection*) bei zu niedriger Ausgangsspannung zur Vermeidung von Fehlfunktionen.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 25 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 25](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=25>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -73,4 +73,4 @@ SCP steht für *Short Circuit Protection* (Kurzschlussschutz). Sie erkennt einen
 **Was passiert bei einem geschützten PC-Netzteil, wenn eine Grafikkarte angeschlossen wird, die mehr Leistung benötigt als das Netzteil bereitstellen kann?**
 ?
 Die Hardware nimmt durch die Überlastung keinen direkten Schaden, da die Überlastschutzschaltung (OPP) das Netzteil im Fehlerfall automatisch abschaltet.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 23, 25 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 23, 25](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=23>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*

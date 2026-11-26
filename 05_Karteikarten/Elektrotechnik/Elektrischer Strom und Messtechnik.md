@@ -31,7 +31,7 @@ tags:
 **Welche Voraussetzungen müssen erfüllt sein, damit in einem Stromkreis ein elektrischer Strom $I$ fließt?**
 ?
 Es muss ein geschlossener Stromkreis aus Erzeuger, Hin-/Rückleiter und leitfähigem Verbraucher vorliegen, und zwischen den Polen des Erzeugers muss eine Potenzialdifferenz (Quellspannung $U_0$) herrschen.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 19, 26 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 19, 26](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=19>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -39,7 +39,7 @@ Es muss ein geschlossener Stromkreis aus Erzeuger, Hin-/Rückleiter und leitfäh
 **Wie unterscheiden sich Elektronenbewegungsrichtung und technischer Stromrichtungspfeil?**
 ?
 Die Elektronen bewegen sich vom Minuspol (Elektronenüberschuss / „Kathode“) zum Pluspol (Elektronenmangel / „Anode“); der Stromrichtungspfeil zeigt hingegen vom höheren zum niedrigeren Potenzial.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 19–20 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 19–20](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=19>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -47,7 +47,7 @@ Die Elektronen bewegen sich vom Minuspol (Elektronenüberschuss / „Kathode“)
 **Welche Formel verknüpft Stromstärke $I$, Ladungsmenge $Q$ und Zeit $t$, und welche Einheit hat $I$?**
 ?
 $I = \frac{Q}{t}$ mit der Einheit Ampere ($\text{A}$). Fließt z. B. $Q = 0{,}06\text{ C}$ in $t = 200\text{ ms}$, beträgt die Stromstärke $I = \frac{0{,}06\text{ C}}{0{,}2\text{ s}} = 0{,}3\text{ A} = 300\text{ mA}$.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 20 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 20](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=20>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -55,7 +55,7 @@ $I = \frac{Q}{t}$ mit der Einheit Ampere ($\text{A}$). Fließt z. B. $Q = 0{,}06
 **Wie werden Voltmeter und Amperemeter jeweils in einen Stromkreis geschaltet, und wie unterscheidet sich ihr Innenwiderstand?**
 ?
 Das Voltmeter (Spannungsmessung $U$) ist **hochohmig** und wird **parallel** geschaltet; das Amperemeter (Strommessung $I$) ist **niederohmig** und wird **in Reihe** geschaltet.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 26 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 26](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=26>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -63,7 +63,7 @@ Das Voltmeter (Spannungsmessung $U$) ist **hochohmig** und wird **parallel** ges
 **Was passiert jeweils bei falscher Schaltung von Voltmeter (in Reihe) und Amperemeter (parallel) an einem Verbraucher?**
 ?
 Wird das hochohmige Voltmeter in Reihe geschaltet, fließt kein Strom mehr; wird das niederohmige Amperemeter parallel zum Verbraucher geschaltet, entsteht ein Kurzschluss (Überlastung der Spannungsquelle).
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 26–27 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 26–27](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=26>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -71,4 +71,4 @@ Wird das hochohmige Voltmeter in Reihe geschaltet, fließt kein Strom mehr; wird
 **Welche Kennbuchstaben erhalten Batterie, Glühlampe und Schalter im Schaltbild eines einfachen Stromkreises?**
 ?
 Die Gleichspannungsquelle (Batterie) erhält `U` (z. B. $U_0$), der Schalter `S` (z. B. $S_0$) und die Glühlampe `H` (z. B. $H_0$).
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 19 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 19](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=19>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*

@@ -12,22 +12,22 @@ tags:
   - quelle
   - bgwp_betriebswirtschaft
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
 kanonische_themen: 2
 seiten_mit_kanonischem_thema: 43
 ki_exclude_seiten: [16,20]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=42, ocr_verified=1)"
-textzeichen: 44613
+textstatus: "gemischt: visuell geprüft (ok=40, ocr_verified=3)"
+textzeichen: 45694
 ---
 # 📄 Bgwp schredl
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/BGWP_Betriebswirtschaft/BGWP_Betriebswirtschaft|BGWP Betriebswirtschaft]]
 > - **Original-PDF:** [Bgwp schredl.pdf](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf>)
 > - **Seiten:** 45
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=42, ocr_verified=1)
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=40, ocr_verified=3)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -35,7 +35,7 @@ textzeichen: 44613
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Organisation im Betrieb\|Organisation im Betrieb]] | Prüfungsrahmen der Quelle | 1–15, 17, 19, 21–36 | Visuell bestätigt auf 33 Seite(n). |
-| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Projektplanung und Netzplanmethode\|Projektplanung und Netzplanmethode]] | Prüfungsrahmen der Quelle | 17–19, 21–30, 37–45 | Visuell bestätigt auf 22 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Projektplanung und Netzplanmethode\|Projektplanung und Netzplanmethode]] | Prüfungsrahmen der Quelle | 17–19, 21–30, 37–45 | Visuell bestätigt auf 22 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
 
@@ -3415,68 +3415,26 @@ Leitungsverlegung
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=42]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Vorgang 1
-2
-4
-Vorgang 2
-8
-Vorgang 4
-2
-Vorgang 5
-5
-Vorgang 6
-2
-14
-Vorgang 7
-3
-Vorgang 3
-Übung
-Ablauforganistation/ Netzplan
-BWP
-2
-S
-17
-14
-1
-1
-g
-0
-3
-7
-12
-U
-2
-Z
-5
-5
-7
-7
-12
-O
-O
-O
-O
-O
-O
-O
-O
-4p = 0
-2
-2
-5
-j
-9
-+
-12
-2
-1
-2
-2
-4
-12
+Ablauforganisation / Netzplan – BWP – Übung (vollständiger berechneter Vorgangsknoten-Netzplan)
+
+Knotenaufbau: Oben: FAZ | Vorgang | FEZ · Mitte: GP | Dauer | FP · Unten: SAZ | | SEZ
+
+Berechnete Knoten:
+- Vorgang 1: FAZ=0, FEZ=2, Dauer=2, GP=0, FP=0, SAZ=0, SEZ=2 -> Nachfolger: Vorgang 2, Vorgang 3, Vorgang 4
+- Vorgang 2: FAZ=2, FEZ=6, Dauer=4, GP=1, FP=1, SAZ=3, SEZ=7 -> Nachfolger: Vorgang 6
+- Vorgang 3: FAZ=2, FEZ=5, Dauer=3, GP=0, FP=0, SAZ=2, SEZ=5 -> Nachfolger: Vorgang 5
+- Vorgang 4: FAZ=2, FEZ=10, Dauer=8, GP=2, FP=2, SAZ=4, SEZ=12 -> Nachfolger: Vorgang 7
+- Vorgang 5: FAZ=5, FEZ=7, Dauer=2, GP=0, FP=0, SAZ=5, SEZ=7 -> Nachfolger: Vorgang 6
+- Vorgang 6: FAZ=7, FEZ=12, Dauer=5, GP=0, FP=0, SAZ=7, SEZ=12 -> Nachfolger: Vorgang 7
+- Vorgang 7: FAZ=12, FEZ=14, Dauer=2, GP=0, FP=0, SAZ=12, SEZ=14 -> Nachfolger: -
+
+Gesamtdauer: 14 · Kritischer Pfad (GP = 0, FP = 0): Vorgang 1 -> Vorgang 3 -> Vorgang 5 -> Vorgang 6 -> Vorgang 7.
 ```
 
 ### Seite 43
@@ -3488,49 +3446,23 @@ j
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=43]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-2
-. Methode
-1
-HW-E
-5
-6
-Programm.
-8
-S
-Imp
-10
-05
-Z
-G
-3
-2
-O
-Z
-2
-&
-10
-11
-12
-FEZ =
-FAL + Dauer-1
-=
-1
-+5
-- 1
-= 5
-&
-SAL :
-SE-Dauer
-+1
-FD :F
-=
-6
--
-5
-- 1 = 0
+Netzplan – 2. Methode (Beginn bei Tag 1 statt Tag 0)
+
+Knoten:
+- HW-E: FAZ=1, FEZ=5, Dauer=5, GP=0, FP=0 (im Knoten handschriftlich 2 notiert, unten per Formel zu 0 berechnet) -> Nachfolger: Programm.
+- Programm.: FAZ=6, FEZ=8, Dauer=3, GP=0, FP=2, SAZ=8, SEZ=10 -> Nachfolger: Imp.
+- Imp.: FAZ=9, FEZ=10, Dauer=2, GP=0, FP=2, SAZ=11, SEZ=12
+
+Formeln (2. Methode / Tageszählung ab 1):
+- FEZ = FAZ + Dauer - 1 = 1 + 5 - 1 = 5
+- SAZ = SEZ - Dauer + 1 = 12 - 2 + 1 = 11
+- FP = FAZ_N - FEZ_V - 1 = 6 - 5 - 1 = 0
 ```
 
 ### Seite 44

@@ -2,8 +2,8 @@
 id: vault.thema.visuell.datenbankmodellierung.und.er.modell
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-24
-reviewed_on: 2026-11-24
+stand: 2026-11-26
+reviewed_on: 2026-11-26
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
@@ -11,7 +11,7 @@ thema: "Datenbankmodellierung und ER-Modell"
 kategorie: Anwendungsentwicklung
 pruefung: "AP1/AP2"
 quellen: 2
-seiten: 34
+seiten: 35
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -30,7 +30,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift\|AE_2LJ_Kislik_Mitschrift]] | [7–8, 14–26](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=7>) | beispiel, theorie | 1 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript\|AE_2LJ_Kislik_Skript]] | [6–7, 10–22, 58–61](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=6>) | beispiel, loesung, theorie | 3 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript\|AE_2LJ_Kislik_Skript]] | [6–7, 10–22, 58–62](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=6>) | beispiel, loesung, theorie | 4 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

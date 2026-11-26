@@ -1,0 +1,1819 @@
+{
+  "schema_version": 1,
+  "scope": "Visuelle Transkription und OCR-Verifizierung von 64 Seiten (ocr_error, 9 komplett schwache Themen, Bgwp_schredl S. 42-43)",
+  "replaces_existing": true,
+  "topic_categories": {
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Programm und Software",
+        "secondary_topics": [
+          "Softwarearten"
+        ],
+        "recommended_topics": [
+          "Programm und Software"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 9,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Programmablaufdarstellungen",
+        "secondary_topics": [
+          "Algorithmus"
+        ],
+        "recommended_topics": [
+          "Algorithmus",
+          "Programmablaufdarstellungen"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 14,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Operatoren und Bedingungen",
+        "secondary_topics": [
+          "Mehrfachverzweigung",
+          "Programmablaufdarstellungen"
+        ],
+        "recommended_topics": [
+          "Operatoren und Bedingungen",
+          "Programmablaufdarstellungen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 28,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Softwarequalität und Wartbarkeit",
+        "secondary_topics": [
+          "Softwarefehler",
+          "Softwarewartung",
+          "Softwarelebenszyklus"
+        ],
+        "recommended_topics": [
+          "Softwarelebenszyklus und Vorgehensmodelle",
+          "Softwarequalität und Wartbarkeit"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 30,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Arrays und Datenstrukturen",
+        "secondary_topics": [
+          "Eindimensionale Arrays"
+        ],
+        "recommended_topics": [
+          "Arrays und Datenstrukturen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 35,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Arrays und Datenstrukturen",
+        "secondary_topics": [
+          "Schleifen",
+          "Operatoren und Bedingungen"
+        ],
+        "recommended_topics": [
+          "Arrays und Datenstrukturen",
+          "Operatoren und Bedingungen",
+          "Schleifen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 36,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Arrays und Datenstrukturen",
+        "secondary_topics": [
+          "Zweidimensionale Arrays",
+          "Schleifen"
+        ],
+        "recommended_topics": [
+          "Arrays und Datenstrukturen",
+          "Schleifen"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 48,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Rekursion und Iteration",
+        "secondary_topics": [
+          "Rekursiver Algorithmus",
+          "Schreibtischtest"
+        ],
+        "recommended_topics": [
+          "Algorithmus",
+          "Rekursion und Iteration"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 64,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Entwicklungswerkzeuge und Debugging",
+        "secondary_topics": [
+          "BlueJ",
+          "Robot Karol",
+          "Java"
+        ],
+        "recommended_topics": [
+          "Entwicklungswerkzeuge und Debugging",
+          "Java-Grundlagen"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41.md",
+      "pdf_path": "99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Sicherheitsmanagement und ISMS",
+        "secondary_topics": [
+          "PDCA-Zyklus",
+          "Informationssicherheitsmanagement"
+        ],
+        "recommended_topics": [
+          "Sicherheitsmanagement und ISMS"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41.md",
+      "pdf_path": "99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Hochverfügbarkeit und Redundanz",
+        "secondary_topics": [
+          "Redundanz",
+          "Malwarearten"
+        ],
+        "recommended_topics": [
+          "Hochverfügbarkeit und Redundanz",
+          "Malware und Angriffe"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf",
+      "page": 42,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Projektplanung und Netzplanmethode",
+        "secondary_topics": [
+          "kritischer Weg"
+        ],
+        "recommended_topics": [
+          "Projektplanung und Netzplanmethode"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf",
+      "page": 43,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Projektplanung und Netzplanmethode",
+        "secondary_topics": [
+          "kritischer Weg",
+          "Pufferzeiten"
+        ],
+        "recommended_topics": [
+          "Projektplanung und Netzplanmethode"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "page": 13,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Kryptografie, Datenschutz und Sicherheitsmaßnahmen",
+        "secondary_topics": [
+          "AES",
+          "RSA",
+          "SHA",
+          "personenbezogene Daten",
+          "mobile Systeme"
+        ],
+        "recommended_topics": [
+          "Datenschutz und Rollen",
+          "Kryptografie, Hash und Signatur"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "page": 14,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Kryptografie, Datenschutz und Sicherheitsmaßnahmen",
+        "secondary_topics": [
+          "AES",
+          "RSA",
+          "SHA",
+          "personenbezogene Daten",
+          "mobile Systeme"
+        ],
+        "recommended_topics": [
+          "Datenschutz und Rollen",
+          "Kryptografie, Hash und Signatur"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf",
+      "page": 15,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Schutzbedarfsfeststellung",
+        "secondary_topics": [
+          "Maximumprinzip",
+          "Kumulationseffekt",
+          "Verteilungseffekt"
+        ],
+        "recommended_topics": [
+          "Schutzbedarfsfeststellung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnik-Rechenmethoden",
+        "secondary_topics": [
+          "Zehnerpotenzen und Einheitenvorsätze"
+        ],
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 2,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnik-Rechenmethoden",
+        "secondary_topics": [
+          "Zehnerpotenzen und Einheitenvorsätze"
+        ],
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnik-Rechenmethoden",
+        "secondary_topics": [
+          "Zehnerpotenzen und Einheitenvorsätze"
+        ],
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 4,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnik-Rechenmethoden",
+        "secondary_topics": [
+          "Gleichungen umstellen"
+        ],
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnik-Rechenmethoden",
+        "secondary_topics": [
+          "Gleichungen umstellen"
+        ],
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnik-Rechenmethoden",
+        "secondary_topics": [
+          "Gleichungen umstellen"
+        ],
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 8,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnik-Rechenmethoden",
+        "secondary_topics": [
+          "Zehnerpotenzen und Einheitenvorsätze"
+        ],
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 9,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnik-Rechenmethoden",
+        "secondary_topics": [
+          "Zehnerpotenzen und Einheitenvorsätze"
+        ],
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 10,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnik-Rechenmethoden",
+        "secondary_topics": [
+          "Zehnerpotenzen und Einheitenvorsätze"
+        ],
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 11,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrische Ladung",
+        "secondary_topics": [
+          "Atommodell und Elementarladung"
+        ],
+        "recommended_topics": [
+          "Elektrische Ladung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 12,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrische Ladung",
+        "secondary_topics": [
+          "Atommodell und Elementarladung",
+          "Leiter und Isolatoren"
+        ],
+        "recommended_topics": [
+          "Elektrische Ladung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 13,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrische Ladung",
+        "secondary_topics": [
+          "Atommodell und Elementarladung",
+          "Leiter und Isolatoren"
+        ],
+        "recommended_topics": [
+          "Elektrische Ladung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 19,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrischer Strom und Messtechnik",
+        "secondary_topics": [
+          "Stromkreis und Stromstärke"
+        ],
+        "recommended_topics": [
+          "Elektrischer Strom und Messtechnik"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 20,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrischer Strom und Messtechnik",
+        "secondary_topics": [
+          "Stromstärke und Ladungsmenge"
+        ],
+        "recommended_topics": [
+          "Elektrischer Strom und Messtechnik"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 21,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrischer Strom und Messtechnik",
+        "secondary_topics": [
+          "Stromstärke und Ladungsmenge"
+        ],
+        "recommended_topics": [
+          "Elektrischer Strom und Messtechnik"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 22,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Netzteil",
+        "secondary_topics": [
+          "PC-Netzteil: Funktion, Kennwerte und Schutz"
+        ],
+        "recommended_topics": [
+          "Netzteil"
+        ],
+        "content_type": "formular",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 23,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Netzteil",
+        "secondary_topics": [
+          "PC-Netzteil: Funktion, Kennwerte und Schutz"
+        ],
+        "recommended_topics": [
+          "Netzteil"
+        ],
+        "content_type": "formular",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 24,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Netzteil",
+        "secondary_topics": [
+          "PC-Netzteil: Funktion, Kennwerte und Schutz"
+        ],
+        "recommended_topics": [
+          "Netzteil"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 25,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Netzteil",
+        "secondary_topics": [
+          "PC-Netzteil: Funktion, Kennwerte und Schutz"
+        ],
+        "recommended_topics": [
+          "Netzteil"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 26,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrischer Strom und Messtechnik",
+        "secondary_topics": [
+          "Spannungs- und Strommessung"
+        ],
+        "recommended_topics": [
+          "Elektrischer Strom und Messtechnik"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 27,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrischer Strom und Messtechnik",
+        "secondary_topics": [
+          "Spannungs- und Strommessung"
+        ],
+        "recommended_topics": [
+          "Elektrischer Strom und Messtechnik"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 44,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnik-Prüfungstraining",
+        "secondary_topics": [
+          "Elektrische Leistung",
+          "Elektrische Arbeit und Energiekosten",
+          "Elektrische Ladung"
+        ],
+        "recommended_topics": [
+          "Elektrische Arbeit und Energiekosten",
+          "Elektrische Ladung",
+          "Elektrische Leistung"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 45,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnik-Prüfungstraining",
+        "secondary_topics": [
+          "Elektrische Leistung",
+          "Elektrische Arbeit und Energiekosten",
+          "Elektrische Ladung"
+        ],
+        "recommended_topics": [
+          "Elektrische Arbeit und Energiekosten",
+          "Elektrische Ladung",
+          "Elektrische Leistung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 46,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnik-Prüfungstraining",
+        "secondary_topics": [
+          "Elektrische Leistung",
+          "Elektrische Arbeit und Energiekosten",
+          "Elektrische Ladung"
+        ],
+        "recommended_topics": [
+          "Elektrische Arbeit und Energiekosten",
+          "Elektrische Ladung",
+          "Elektrische Leistung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 50,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnik-Prüfungstraining",
+        "secondary_topics": [
+          "Spannung, Strom und Widerstand",
+          "Netzteil"
+        ],
+        "recommended_topics": [
+          "Netzteil",
+          "Spannung, Strom und Widerstand"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 51,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnik-Prüfungstraining",
+        "secondary_topics": [
+          "Spannung, Strom und Widerstand",
+          "Netzteil"
+        ],
+        "recommended_topics": [
+          "Netzteil",
+          "Spannung, Strom und Widerstand"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 78,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Gefahren des elektrischen Stroms",
+        "secondary_topics": [
+          "Durchströmungsunfall"
+        ],
+        "recommended_topics": [
+          "Gefahren des elektrischen Stroms"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 79,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Gefahren des elektrischen Stroms",
+        "secondary_topics": [
+          "Körperstrom und Strompfade",
+          "Durchströmungsunfall"
+        ],
+        "recommended_topics": [
+          "Gefahren des elektrischen Stroms"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 80,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Gefahren des elektrischen Stroms",
+        "secondary_topics": [
+          "Körperstrom und Strompfade",
+          "Durchströmungsunfall"
+        ],
+        "recommended_topics": [
+          "Gefahren des elektrischen Stroms"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 81,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Gefahren des elektrischen Stroms",
+        "secondary_topics": [
+          "Körperstrom und Strompfade",
+          "Durchströmungsunfall"
+        ],
+        "recommended_topics": [
+          "Gefahren des elektrischen Stroms"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 82,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Gefahren des elektrischen Stroms",
+        "secondary_topics": [
+          "Körperstrom und Strompfade",
+          "Durchströmungsunfall"
+        ],
+        "recommended_topics": [
+          "Gefahren des elektrischen Stroms"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 83,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Gefahren des elektrischen Stroms",
+        "secondary_topics": [
+          "Körperstrom und Strompfade",
+          "Durchströmungsunfall"
+        ],
+        "recommended_topics": [
+          "Gefahren des elektrischen Stroms"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 84,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Gefahren des elektrischen Stroms",
+        "secondary_topics": [
+          "Körperstrom und Strompfade",
+          "Durchströmungsunfall"
+        ],
+        "recommended_topics": [
+          "Gefahren des elektrischen Stroms"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 85,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Gefahren des elektrischen Stroms",
+        "secondary_topics": [
+          "Körperstrom und Strompfade",
+          "Durchströmungsunfall"
+        ],
+        "recommended_topics": [
+          "Gefahren des elektrischen Stroms"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 86,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Gefahren des elektrischen Stroms",
+        "secondary_topics": [
+          "Körperstrom und Strompfade",
+          "Durchströmungsunfall"
+        ],
+        "recommended_topics": [
+          "Gefahren des elektrischen Stroms"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 87,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Gefahren des elektrischen Stroms",
+        "secondary_topics": [
+          "Körperstrom und Strompfade",
+          "Durchströmungsunfall"
+        ],
+        "recommended_topics": [
+          "Gefahren des elektrischen Stroms"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 88,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrische Sicherheit und Erste Hilfe",
+        "secondary_topics": [
+          "Fünf Sicherheitsregeln"
+        ],
+        "recommended_topics": [
+          "Elektrische Sicherheit und Erste Hilfe"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 89,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrische Sicherheit und Erste Hilfe",
+        "secondary_topics": [
+          "Erste Hilfe bei Stromunfällen"
+        ],
+        "recommended_topics": [
+          "Elektrische Sicherheit und Erste Hilfe"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 90,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrische Sicherheit und Erste Hilfe",
+        "secondary_topics": [
+          "Erste Hilfe bei Stromunfällen"
+        ],
+        "recommended_topics": [
+          "Elektrische Sicherheit und Erste Hilfe"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf",
+      "page": 2,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnik-Rechenmethoden",
+        "secondary_topics": [
+          "Elektrische Ladung",
+          "Spannung, Strom und Widerstand",
+          "Spannungserzeugung"
+        ],
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Netzteil",
+        "secondary_topics": [
+          "Elektrischer Strom und Messtechnik",
+          "Spannungs- und Strommessung"
+        ],
+        "recommended_topics": [
+          "Netzteil"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Freiheit, Gewissen und Verantwortung",
+        "secondary_topics": [
+          "Paulus",
+          "Kardinal Newman",
+          "Dilemmata"
+        ],
+        "recommended_topics": [
+          "Freiheit und Selbstbestimmung",
+          "Gewissen und Verantwortung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
+      "page": 4,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Freiheit, Gewissen und Verantwortung",
+        "secondary_topics": [
+          "Paulus",
+          "Kardinal Newman",
+          "Dilemmata"
+        ],
+        "recommended_topics": [
+          "Freiheit und Selbstbestimmung",
+          "Gewissen und Verantwortung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Nelson Mandela und Vorbilder",
+        "secondary_topics": [
+          "Biografie",
+          "Vorbilder",
+          "Quellenarbeit"
+        ],
+        "recommended_topics": [
+          "Nelson Mandela und Vorbilder"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
+      "pdf_path": "99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Karwoche und Kirchenjahr",
+        "secondary_topics": [
+          "Palmsonntag",
+          "Karfreitag",
+          "Karsamstag",
+          "Ostern"
+        ],
+        "recommended_topics": [
+          "Karwoche und Kirchenjahr"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Vertretung/Quellen/Untitled.md",
+      "pdf_path": "99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf",
+      "page": 2,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnische Größen- und Einheitenrechnungen",
+        "secondary_topics": [
+          "Einheitenumrechnung",
+          "Formelzeichen",
+          "Zehnerpotenzen"
+        ],
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden",
+          "SI-Vorsätze und Einheitenumrechnung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Vertretung/Quellen/Untitled.md",
+      "pdf_path": "99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf",
+      "page": 3,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrotechnische Größen- und Einheitenrechnungen",
+        "secondary_topics": [
+          "Einheitenumrechnung",
+          "Formelzeichen",
+          "Zehnerpotenzen"
+        ],
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden",
+          "SI-Vorsätze und Einheitenumrechnung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ocr_error",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/Vertretung/Quellen/Untitled.md",
+      "pdf_path": "99_Originale/Berufsschule/Vertretung/1_LJ/Untitled.pdf",
+      "page": 4,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Physikalische Größen, SI-Vorsätze und Rechenregeln",
+        "secondary_topics": [
+          "Einheitenumrechnung",
+          "Formelzeichen",
+          "Zehnerpotenzen"
+        ],
+        "recommended_topics": [
+          "Elektrotechnik-Rechenmethoden",
+          "SI-Vorsätze und Einheitenumrechnung"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

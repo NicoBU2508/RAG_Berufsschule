@@ -162,7 +162,7 @@ HEADER_BOILERPLATE_PATTERNS = [
 RULE_SIGNAL_PATTERNS = [
   /\bmerke\s*:/i,
   /\bprogrammierrichtlinien\b/i,
-  /\bvorausgesetzt\b/i,
+  /\b(?:stets\s+vorausgesetzt|in\s+AE\s+vorausgesetzt|werden\s+.*\bvorausgesetzt)\b/i,
   /\bentspricht nicht dem\b/i,
   /\bbeachten sie stets\b/i,
   /\bstandardtypen\b/i,
@@ -180,7 +180,7 @@ EXERCISE_SIGNAL_PATTERNS = [
 ].freeze
 
 INSTALL_BOILERPLATE_PATTERNS = [
-  /\b(herunterladen und installieren|eclipse marketplace|extension fuer python|projekt in eclipse anlegen|pydev package explorer)\b/i
+  /\b(herunterladen und installieren|eclipse marketplace|extension fuer python|projekt in eclipse anlegen|pydev package explorer|projektmappen explorer|py datei|python code file|aussagekraeftigen projekt namen)\b/i
 ].freeze
 
 class VaultLookup
@@ -986,11 +986,201 @@ class VaultLookup
 
   # ---------- NEUER AUFGABEN- & ALTKLAUSUR-GENERATOR-KONTEXT (`tasks`) ----------
 
+  def install_boilerplate?(entry)
+    normalize(entry[:text]).match?(INSTALL_BOILERPLATE_PATTERNS.first)
+  end
+
+  def topic_category_by_name(name)
+    return nil if name.to_s.strip.empty?
+    return @topics[name]["category"] if @topics.key?(name)
+
+    key = @topics.keys.find { |k| normalize(k) == normalize(name) }
+    key ? @topics[key]["category"] : nil
+  end
+
+  def source_matches_category?(source_rel, category)
+    case category
+    when "Anwendungsentwicklung"
+      source_rel.start_with?("02_Faecher/AE_Anwendungsentwicklung/")
+    when "IT_Technik_und_Sicherheit", "Elektrotechnik"
+      source_rel.start_with?("02_Faecher/ITT_IT_Technik/", "02_Faecher/Allgemein_Berufsschule/")
+    when "Wirtschaft_und_Recht"
+      source_rel.start_with?("02_Faecher/BGWP_Betriebswirtschaft/", "02_Faecher/PuG_Politik_und_Gesellschaft/", "02_Faecher/Allgemein_Berufsschule/")
+    when "Deutsch_Englisch_Kommunikation"
+      source_rel.start_with?("02_Faecher/Deutsch/", "02_Faecher/Englisch/")
+    when "Religion_Ethik"
+      source_rel.start_with?("02_Faecher/Religion/")
+    else
+      true
+    end
+  end
+
+  def source_profile(source_rel)
+    @source_profile_cache ||= {}
+    return @source_profile_cache[source_rel] if @source_profile_cache.key?(source_rel)
+
+    prefix = "#{source_rel.sub(/\.md\z/, '')}#page="
+    primaries = {}
+    cat_counts = Hash.new(0)
+
+    @pages_by_id.each do |pid, meta|
+      next unless pid.start_with?(prefix)
+      next if meta["status"] == "excluded"
+
+      pt = meta["primary_topic"].to_s.strip
+      primaries[normalize(pt)] = true unless pt.empty?
+      cat = topic_category_by_name(pt)
+      cat_counts[cat] += 1 if cat
+    end
+
+    dominant_category = cat_counts.max_by { |_, cnt| cnt }&.first
+    @source_profile_cache[source_rel] = {
+      distinct_primaries: primaries.size,
+      dominant_category: dominant_category
+    }
+  end
+
+  def filter_task_entries(entries, topic_name, info)
+    return entries if entries.length <= 2
+
+    t_norm = normalize(topic_name)
+    t_cat = info["category"]
+    debug_topic = (t_norm == normalize("Entwicklungswerkzeuge und Debugging"))
+
+    filtered = entries.reject do |e|
+      next false if debug_topic
+      next true if install_boilerplate?(e)
+
+      no_body_text = e[:text].to_s.strip.empty? || e[:text].start_with?("[Datenschutzsichere Zusammenfassung]")
+      no_body_text && normalize(e[:meta]["primary_topic"].to_s) == normalize("Entwicklungswerkzeuge und Debugging")
+    end
+    filtered = entries if filtered.empty?
+
+    primary_counts = Hash.new(0)
+    filtered.each do |e|
+      primary_counts[e[:source_rel]] += 1 if normalize(e[:meta]["primary_topic"].to_s) == t_norm
+    end
+    total_primary = primary_counts.values.sum
+    return filtered if total_primary < 2
+
+    narrowed = filtered.reject do |e|
+      e_prim = e[:meta]["primary_topic"].to_s.strip
+      next false if e_prim.empty?
+      next false if normalize(e_prim) == t_norm
+
+      ctype = e[:meta]["content_type"].to_s
+      e_prim_cat = topic_category_by_name(e_prim)
+      prof = source_profile(e[:source_rel])
+      src_prim_cnt = primary_counts[e[:source_rel]]
+
+      if e_prim_cat && e_prim_cat != t_cat && ctype == "theorie"
+        true
+      elsif src_prim_cnt.zero?
+        ctype == "theorie"
+      else
+        ctype == "theorie" && prof[:distinct_primaries] >= 6 && !source_matches_category?(e[:source_rel], t_cat)
+      end
+    end
+
+    narrowed.length >= 2 ? narrowed : filtered
+  end
+
+  def complete_rule_sentence(lines, idx)
+    raw_line = lines[idx].to_s.strip
+    return nil if raw_line.empty?
+
+    # Wenn die Trefferzeile mitten im Satz beginnt (Kleinbuchstabe oder schliessende Klammer),
+    # versuche den Satzanfang aus den unmittelbar vorhergehenden Zeilen zu rekonstruieren.
+    if raw_line.match?(/\A[a-zäöüß)\],.;:?!]/)
+      rebuilt = raw_line
+      repaired = false
+      back = idx - 1
+      while back >= 0 && back >= idx - 2
+        prev = lines[back].to_s.strip
+        break if prev.empty?
+
+        if prev.match?(/[.!?]\s*\z/)
+          rebuilt = "#{prev.sub(/\A.*[.!?]\s+/, '')} #{rebuilt}".strip
+          repaired = !rebuilt.match?(/\A[a-zäöüß)\],.;:?!]/)
+          break
+        else
+          # Trenne ggf. nach dem letzten Satzende innerhalb der Vorzeile ab
+          if prev =~ /\A.*[.!?]\s+(.+)\z/
+            rebuilt = "#{$1} #{rebuilt}".strip
+            repaired = true
+            break
+          else
+            rebuilt = "#{prev} #{rebuilt}".strip
+            if !rebuilt.match?(/\A[a-zäöüß)\],.;:?!]/)
+              repaired = true
+              break
+            end
+          end
+        end
+        back -= 1
+      end
+
+      unless repaired
+        if raw_line =~ /\b((?:Merke|Wichtig|Achtung|Faustregel|Formel|Definition)\s*:.*)\z/i
+          rebuilt = $1.strip
+          repaired = true
+        end
+      end
+
+      return nil unless repaired && !rebuilt.match?(/\A[a-zäöüß)\],.;:?!]/)
+      start_line = rebuilt
+    else
+      start_line = raw_line
+    end
+
+    parts = [start_line]
+    j = idx + 1
+    while j < lines.length && j <= idx + 2
+      nxt = lines[j].to_s.strip
+      break if nxt.empty?
+
+      prev_ended = parts.last.match?(/[.!?]\s*\z/)
+      is_bullet = nxt.start_with?("•", "-", "*", "➔", "->")
+      if prev_ended
+        break unless is_bullet
+      else
+        # Kein Satzende vorne: keine isolierten Kurzfetzen / Tabellenkoepfe blind anhaengen,
+        # wenn bereits mindestens ein Satzzeichen oder genuegend Kontext vorliegt.
+        break if nxt.match?(/\ABezeichnung\s+beinhaltet\z/i)
+        break if nxt.length < 18 && !nxt.match?(/[.!?]\z/) && parts.join(" ").length > 70
+      end
+
+      candidate = "#{parts.join(' ')} #{nxt}".strip
+      break if candidate.length > 260 && parts.join(" ").length >= 80
+      parts << nxt
+      break if candidate.length >= 180 && nxt.match?(/[.!?]\s*\z/)
+      j += 1
+    end
+
+    window = parts.join(" ").gsub(/\s+/, " ").gsub(/([a-zäöüß]{2,})-\s+(?!(?:und|oder|bzw|sowie|als)\b)([a-zäöüß]{2,})/, '\1\2').strip
+    if window.length > 220
+      head = window[0, 220]
+      if (dot = head.rindex(/[.!?](?=\s|\z)/)) && dot >= 85
+        window = head[0..dot].strip
+      else
+        cut = head.rindex(/\s/) || 219
+        window = head[0, cut].rstrip + "…"
+      end
+    end
+    window
+  end
+
   def extract_script_conventions(entries)
     notes = []
     seen = {}
 
-    entries.each do |e|
+    candidate_entries = entries.reject do |e|
+      %w[ocr_error missing redacted_summary].include?(e[:meta]["source_text_status"].to_s) || install_boilerplate?(e)
+    end
+    candidate_entries = entries.reject { |e| install_boilerplate?(e) } if candidate_entries.empty?
+    candidate_entries = entries if candidate_entries.empty?
+
+    candidate_entries.each do |e|
       lines = e[:text].lines.map { |l| l.strip.gsub(/[￼]+/, "").gsub(/\s+/, " ").strip }
                       .reject { |l| boilerplate_header_line?(l, e[:repeated_headers]) }
 
@@ -999,8 +1189,8 @@ class VaultLookup
         next if idx <= last_taken_idx + 2
         next unless RULE_SIGNAL_PATTERNS.any? { |pat| line.match?(pat) }
 
-        window = lines[idx, 3].join(" ")
-        window = window[0, 220].rstrip + "…" if window.length > 220
+        window = complete_rule_sentence(lines, idx)
+        next if window.nil? || window.length < 25
         sig = normalize(window)[0, 80]
         next if sig.empty? || seen[sig]
         seen[sig] = true
@@ -1017,13 +1207,14 @@ class VaultLookup
     end
 
     # Spezifische Mustererkennung fuer Code-Namenskonventionen im Skript (z. B. Praefixe i_, f_, s_, b_)
-    all_text = entries.map { |e| e[:text] }.join("\n")
+    all_text = candidate_entries.map { |e| e[:text] }.join("\n")
     prefixes = all_text.scan(/\b([ifsbc]_[A-Za-z][A-Za-z0-9_]*)\b/).flatten.uniq
     if prefixes.length >= 3
+      prefix_entry = candidate_entries.find { |e| prefixes.any? { |p| e[:text].include?(p) } } || candidate_entries.first
       sample = prefixes.first(5).map { |p| "`#{p}`" }.join(", ")
       notes.unshift({
-        source_name: File.basename(entries.first[:source_rel], ".md"),
-        page_num: entries.first[:page_num],
+        source_name: File.basename(prefix_entry[:source_rel], ".md"),
+        page_num: prefix_entry[:page_num],
         snippet: "Erkannte Variablen-Namenskonvention im Unterrichtsskript (Typ-Präfixe): #{sample}"
       })
     end
@@ -1073,7 +1264,7 @@ class VaultLookup
 
   def cmd_tasks(query, exam_filter: nil, max_pages: 8, max_chars: MAX_PAGE_CHARS_DEFAULT)
     topic_name, info, related_search_topics = resolve_topic(query, best_match: true)
-    entries = collect_topic_entries(info, include_support: false)
+    entries = filter_task_entries(collect_topic_entries(info, include_support: false), topic_name, info)
 
     exam_entry = @exam_topics[topic_name.unicode_normalize(:nfc)] || @exam_topics[topic_name] || {}
     coupled_counts = Hash.new(0)

@@ -48,7 +48,7 @@ tags:
 ?
 Der Ablauf verläuft iterativ über OOA (Objektorientierte Analyse: Problem verstehen – „Was ist zu tun?“), OOD (Objektorientiertes Design: Klassen, Methoden und Schnittstellen entwerfen – „Wie ist es zu tun?“) und OOP (Implementierung mit Komponententests/Integrationstests).
 UML-Diagramme werden dabei in OOA und OOD eingesetzt.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_jac_Mitschrift.pdf` S. 1 (von 17) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_jac_Mitschrift.pdf · S. 1](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=1>) (von 17) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -57,7 +57,7 @@ UML-Diagramme werden dabei in OOA und OOD eingesetzt.
 ?
 Zu den Strukturdiagrammen (statische Diagramme) zählen Klassen-, Objekt-, Kompositionsstruktur-, Komponenten-, Verteilungs- und Paketdiagramm.
 Das Klassendiagramm beschreibt Entitäten, Klassen, Schnittstellen und deren Beziehungen, während das Objektdiagramm Instanzen von Klassen zur Laufzeit (eine Momentaufnahme der Objektbeziehungen) darstellt.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_jac_Mitschrift.pdf` S. 5 (von 17) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_jac_Mitschrift.pdf · S. 5](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=5>) (von 17) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -66,7 +66,7 @@ Das Klassendiagramm beschreibt Entitäten, Klassen, Schnittstellen und deren Bez
 ?
 Verhaltensdiagramme sind Anwendungsfall-, Aktivitäts- und Zustandsdiagramm; zu den Interaktionsdiagrammen gehören Sequenz-, Kommunikations-, Timing- und Interaktionsübersichtsdiagramm (sowie das Profildiagramm zur UML-Erweiterung auf Meta-Ebene).
 Das Sequenzdiagramm zeigt Typ und Reihenfolge der Nachrichten, während das Timingdiagramm exakte zeitliche Vorgaben (z. B. für Echtzeitsysteme) fokussiert.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_jac_Mitschrift.pdf` S. 6 (von 17) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_jac_Mitschrift.pdf · S. 6](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=6>) (von 17) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -75,7 +75,7 @@ Das Sequenzdiagramm zeigt Typ und Reihenfolge der Nachrichten, während das Timi
 ?
 Es besteht aus einer endlichen Menge von Zuständen, Ereignissen, Transitionen, einem Anfangszustand und einem oder mehreren Endzuständen.
 Innerhalb eines Zustands löst `entry` automatisch beim Eintritt aus, `do` läuft während der gesamten Dauer des aktiven Zustands und `exit` wird automatisch beim Verlassen ausgeführt.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_jac_Mitschrift.pdf` S. 10–11 (von 17) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_jac_Mitschrift.pdf · S. 10–11](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=10>) (von 17) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -84,7 +84,7 @@ Innerhalb eines Zustands löst `entry` automatisch beim Eintritt aus, `do` läuf
 ?
 Die allgemeine Beschriftung lautet `Ereignis (Argumente) [Bedingung] / Operation (Argumente)`.
 Fehlt das Ereignis, entspricht dies „Aktivität ist abgeschlossen“; fehlt die Bedingung (Guard), gilt `[true]`: Eine unbeschriftete Transition schaltet sofort weiter, sobald alle Aktionen (`entry`, `do`, `exit`) des Zustands beendet sind.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_jac_Mitschrift.pdf` S. 12 (von 17) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_jac_Mitschrift.pdf · S. 12](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=12>) (von 17) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -93,7 +93,7 @@ Fehlt das Ereignis, entspricht dies „Aktivität ist abgeschlossen“; fehlt di
 ?
 Die flache Historie (`H`) kehrt zum zuletzt aktiven direkten Unterzustand der aktuellen Ebene zurück; die tiefe Historie (`H*`) kehrt rekursiv zum zuletzt aktiven Unterzustand aller verschachtelten Ebenen zurück.
 Der Terminator (großes `X`) beendet dagegen sofort den gesamten Zustandsautomaten (Ende der Lebenszeit des Objekts), unabhängig von Ebene oder Region.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_jac_Mitschrift.pdf` S. 13–14 (von 17) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_jac_Mitschrift.pdf · S. 13–14](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=13>) (von 17) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -102,7 +102,7 @@ Der Terminator (großes `X`) beendet dagegen sofort den gesamten Zustandsautomat
 ?
 Pro Zustandsautomat bzw. Ebene darf es nur **einen Startzustand** geben; in ihn darf **keine Transition hineinführen**, und seine ausgehende Transition darf **keinen Guard** (keine Bedingung) tragen.
 Ein **Endzustand** markiert das reguläre Ende und darf **keine ausgehende Transition** besitzen.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_jac_Mitschrift.pdf` S. 18–19 (von 19) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_jac_Mitschrift.pdf · S. 18–19](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=18>) (von 19) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -111,7 +111,7 @@ Ein **Endzustand** markiert das reguläre Ende und darf **keine ausgehende Trans
 ?
 Beides führt zu **Nichtdeterminismus**: Überlappende Guards (z. B. `[PIN falsch && versuch >= 3]` neben `[PIN falsch]`) verdecken den spezielleren Zweig – Guards müssen **disjunkt** sein (oder `[else]` nutzen).
 Ebenso dürfen aus demselben Zustand nicht zwei Transitionen mit **demselben Ereignis** ohne unterscheidende Guards zu verschiedenen Zielen führen.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_jac_Mitschrift.pdf` S. 18–19 (von 19) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_jac_Mitschrift.pdf · S. 18–19](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=18>) (von 19) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -121,7 +121,7 @@ Ebenso dürfen aus demselben Zustand nicht zwei Transitionen mit **demselben Ere
 1. **Fehlender Ausgang (Sackgasse):** Ein normaler Zustand ohne ausgehende Transition (und ohne Endzustand) lässt sich nicht mehr verlassen.
 2. **Eintrittspunkt am einfachen Zustand:** Eintrittspunkte (leerer Kreis am Rand) gehören nur zu zusammengesetzten Zuständen / Unterzustandsautomaten, nicht zu einfachen Zuständen.
 3. **Unzulässige Übergangssymbole:** Eckige/unbenannte Kästen am Zustandsrand sind kein gültiges Transitions- oder Zustandssymbol.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_jac_Mitschrift.pdf` S. 18 (von 20) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_jac_Mitschrift.pdf · S. 18](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=18>) (von 20) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -129,4 +129,4 @@ Ebenso dürfen aus demselben Zustand nicht zwei Transitionen mit **demselben Ere
 **Wie modelliert man im UML-Zustandsdiagramm (Beispiel Verkaufsimmobilie), dass bei Rücknahme einer Reservierung erkennbar bleibt, ob zuvor schon Anfragen vorlagen?**
 ?
 Die Zustände `steht zur Verfügung` und `Angefragt` werden in einem zusammengesetzten Zustand `Reservierbar` mit **flacher Historie (`H`)** gekapselt. Von `Reservierbar` führt `reservierung` nach `Reserviert` (`entry / Reservierungsbestätigung versenden`); bei `Rücknahme` führt die Transition direkt auf `(H)` zurück und stellt so exakt den letzten Unterzustand (`steht zur Verfügung` oder `Angefragt`) wieder her.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_jac_Mitschrift.pdf` S. 20 (von 20) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_jac_Mitschrift.pdf · S. 20](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=20>) (von 20) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*

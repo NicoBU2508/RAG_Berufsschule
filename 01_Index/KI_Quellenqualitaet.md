@@ -14,11 +14,11 @@ tags:
 
 ## Ergebnis
 
-- **53 nicht-private PDFs / 1402 Seiten** vollständig berücksichtigt.
-- **53 aktive PDFs / 1402 Seiten** seitenweise visuell geprüft.
+- **53 nicht-private PDFs / 1403 Seiten** vollständig berücksichtigt.
+- **53 aktive PDFs / 1403 Seiten** seitenweise visuell geprüft.
 - **0 inaktive PDFs / 0 Seiten** als pixelidentische Dubletten nachgewiesen.
 - **140 kanonische Themen** mit exakten Seitenbelegen erzeugt.
-- **1263 Evidenzseiten**, **11 nur unterstützende Fragmentseiten**, **128 ausgeschlossene aktive Seiten**.
+- **1136 Evidenzseiten**, **11 nur unterstützende Fragmentseiten**, **256 ausgeschlossene aktive Seiten**.
 - Der private Notenbereich und seine PDF wurden nicht geöffnet, gerendert, geOCRt oder inhaltlich inventarisiert.
 
 ## Ausschlussgründe
@@ -35,8 +35,8 @@ tags:
 | Leere Karoseite am Notizbuchende ohne Inhalt | 1 |
 | Nahezu unausgefüllte Arbeitsblatt-Vorlage (Seite 4/4, nur kurze handschriftliche Notiz bei Aufgabe 11); die vollständig ausgefüllte Version inkl. dieser Notiz befindet sich auf Seite 37. | 1 |
 | Nur Index- und Lernhinweisseiten ohne eigenständigen fachlichen Lerninhalt | 2 |
-| Personenbezogenes oder persönliches Bild/Fragment ohne Lernbezug | 7 |
-| Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation | 27 |
+| Personenbezogenes oder persönliches Bild/Fragment ohne Lernbezug | 6 |
+| Reine Index-, Inhaltsverzeichnis- oder Metaseite; nur Navigation | 21 |
 | Reine Titel- oder Dekorationsfolie (Wortwolke IDE) ohne eigenständigen Lerninhalt | 1 |
 | Unausgefüllte Arbeitsblatt-Vorlage (Seite 1/4); die vollständig ausgefüllte Version befindet sich auf Seite 34. | 1 |
 | Unausgefüllte Arbeitsblatt-Vorlage (Seite 2/4); die vollständig ausgefüllte Version befindet sich auf Seite 35. | 1 |
@@ -50,9 +50,10 @@ tags:
 | Unbearbeitetes Duplikat der ausgefüllten Arbeitsblattseite S.80 | 1 |
 | Unbearbeitetes Duplikat der ausgefüllten Arbeitsblattseite S.81 | 1 |
 | Unbearbeitetes Duplikat der ausgefüllten Arbeitsblattseite S.82 | 1 |
-| Visuell leere Seite ohne Lerninhalt | 14 |
+| Visuell leere Seite ohne Lerninhalt | 13 |
 | Zu schwacher Titel-/Fragmentbeleg; nicht als alleinige Wissensevidenz verwendbar | 5 |
-| Überlappende kürzere Wiki-Ausgabe; für Retrieval gilt die längere Ausgabe ab Seite 20 | 16 |
+| Überlappende ältere Block-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten | 104 |
+| Überlappende ältere Wiki-Ausgabe; vollständig in Stol_02_Unternehmenswiki_7_Block enthalten | 48 |
 
 ## Betroffene aktive Quellen
 
@@ -62,11 +63,11 @@ tags:
 | `02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift.md` | 1–3 |
 | `02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md` | 1–2 |
 | `02_Faecher/AE_Anwendungsentwicklung/Quellen/JAVA_Java_Basics.md` | 1 |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block.md` | 1–2 |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block.md` | 1–2 |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block.md` | 1–48 |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block.md` | 1–56 |
 | `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md` | 1–2 |
 | `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md` | 2 |
-| `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki.md` | 1–20 |
+| `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki.md` | 1–48 |
 | `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md` | 54, 56 |
 | `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md` | 35 |
 | `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Unbenannt_Einzelseite.md` | 1 |

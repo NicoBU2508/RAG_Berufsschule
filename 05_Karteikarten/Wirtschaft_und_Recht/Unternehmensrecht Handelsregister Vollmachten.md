@@ -41,7 +41,7 @@ tags:
 - **Istkaufmann (§ 1 HGB):** betreibt ein Handelsgewerbe (erfordert in kaufmännischer Weise eingerichteten Geschäftsbetrieb); Kaufmann bereits ab Betriebsaufnahme, HR-Eintragung ist **deklaratorisch** (Eintragungspflicht).
 - **Kannkaufmann (§§ 2, 3 HGB):** Kleingewerbetreibende oder Land-/Forstwirte; werden erst durch freiwillige HR-Eintragung Kaufmann (**konstitutiv**).
 - **Formkaufmann (§ 6 HGB):** Handelsgesellschaften kraft Rechtsform (z. B. GmbH, AG, KGaA, eG).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 38–39 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 38–39](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=38>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 ---
 
 <!-- card-id: unternehmensrecht-handelsregister-vollmachten-02 | typ: pruefungsfalle | pruefung: AP2 -->
@@ -49,7 +49,7 @@ tags:
 ?
 Freiberufler üben eine selbstständige wissenschaftliche, künstlerische, schriftstellerische, unterrichtende oder erzieherische Tätigkeit aus (§ 18 EStG) und betreiben kein Handelsgewerbe – sie sind **Nicht-Kaufleute** ohne HR-Eintragung.
 Ausnahme: Schließen sie sich in einer Kapitalgesellschaft (z. B. GmbH, AG) zusammen, werden sie durch die Rechtsform **Formkaufmann (§ 6 HGB)** mit Eintragungspflicht.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 38–40 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 38–40](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=38>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 ---
 
 <!-- card-id: unternehmensrecht-handelsregister-vollmachten-03 | typ: definition | pruefung: AP2 -->
@@ -59,7 +59,7 @@ Ausnahme: Schließen sie sich in einer Kapitalgesellschaft (z. B. GmbH, AG) zusa
 - **Firmenbeständigkeit (§§ 21, 22):** Fortführung bei Inhaberwechsel mit ausdrücklicher Einwilligung möglich.
 - **Firmenöffentlichkeit (§ 29):** Anmeldung und Eintragung ins Handelsregister plus Bekanntmachung.
 - **Firmenausschließlichkeit (§ 30):** keine gleichen Firmen am selben Ort (sowie **Firmeneinheit**).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 41–42 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 41–42](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=41>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 ---
 
 <!-- card-id: unternehmensrecht-handelsregister-vollmachten-04 | typ: abgrenzung | pruefung: AP2 -->
@@ -67,7 +67,7 @@ Ausnahme: Schließen sie sich in einer Kapitalgesellschaft (z. B. GmbH, AG) zusa
 ?
 - **Abteilung A:** Einzelunternehmen (`e. K.`) und Personengesellschaften (`OHG`, `KG`, `GmbH & Co. KG`) mit Firma, Sitz, Inhaber bzw. persönlich haftenden Gesellschaftern, Prokura und bei der KG den Einlagen der Teilhafter.
 - **Abteilung B:** Kapitalgesellschaften (`GmbH`, `AG`, `KGaA`) zusätzlich mit Unternehmensgegenstand, Stamm- bzw. Grundkapital und Geschäftsführer/Vorstand.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 44 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 44](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=44>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 ---
 
 <!-- card-id: unternehmensrecht-handelsregister-vollmachten-05 | typ: anwendung | pruefung: AP2 -->
@@ -76,7 +76,7 @@ Ausnahme: Schließen sie sich in einer Kapitalgesellschaft (z. B. GmbH, AG) zusa
 - **§ 15 Abs. 1 (negative Publizität):** Eine nicht eingetragene und bekannt gemachte Tatsache kann einem gutgläubigen Dritten nicht entgegengesetzt werden (z. B. vergessene Löschung eines Prokuristen).
 - **§ 15 Abs. 2 (positive Publizität):** Nach Eintragung und Bekanntmachung muss der Dritte die Tatsache gegen sich gelten lassen (15-Tage-Schonfrist bei unverschuldeter Unkenntnis).
 - **§ 15 Abs. 3:** Bei unrichtiger Bekanntmachung darf sich ein gutgläubiger Dritter auf das Bekanntgemachte berufen.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 43–45 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 43–45](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=43>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 ---
 
 <!-- card-id: unternehmensrecht-handelsregister-vollmachten-06 | typ: abgrenzung | pruefung: AP2 -->
@@ -85,7 +85,7 @@ Ausnahme: Schließen sie sich in einer Kapitalgesellschaft (z. B. GmbH, AG) zusa
 Ein Prokurist darf alle gerichtlichen und außergerichtlichen Geschäfte vornehmen, die ein Handelsgewerbe mit sich bringt – eine interne Beschränkung ist **nach außen unwirksam**.
 - **Nur mit besonderer Ermächtigung:** Grundstücke verkaufen oder belasten (Grundstücke *kaufen* darf er!).
 - **Gesetzlich verboten:** Unternehmen auflösen/verkaufen, Insolvenz anmelden, Prokura erteilen, Bilanz/Steuererklärung unterschreiben, HR-Anmeldungen vornehmen.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 46, 48, 50 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 46, 48, 50](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=46>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 ---
 
 <!-- card-id: unternehmensrecht-handelsregister-vollmachten-07 | typ: abgrenzung | pruefung: AP2 -->
@@ -93,4 +93,4 @@ Ein Prokurist darf alle gerichtlichen und außergerichtlichen Geschäfte vornehm
 ?
 - **Prokura:** gesetzlich festgelegter Umfang (nach außen unbeschränkbar), **muss ins HR eingetragen** werden, Zeichnung mit Zusatz `ppa.`.
 - **Handlungsvollmacht (allgemeine HV, Artvollmacht, Einzelvollmacht):** formfrei erteilbar, **kein HR-Eintrag**, nach außen beschränkbar (wenn Dritter es kannte/kennen musste), Zeichnung `i. V.` (bzw. `i. A.`). Grundsätzlich verboten sind Grundstücksveräußerung/-belastung, Wechselverbindlichkeiten, Darlehensaufnahme und Prozessführung.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 46–48 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 46–48](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=46>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*

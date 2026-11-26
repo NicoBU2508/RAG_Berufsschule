@@ -41,7 +41,7 @@ tags:
 **Welche Grundgesetze gelten für Stromstärke $I$, Spannung $U$ und Gesamtwiderstand $R_{\text{ges}}$ in der Reihenschaltung?**
 ?
 In der Reihenschaltung fließt überall derselbe Strom ($I = I_1 = I_2 = \dots = I_n$), die Gesamtspannung ist die Summe aller Teilspannungen ($U_{\text{ges}} = U_1 + U_2 + \dots + U_n$) und der Gesamtwiderstand ist die Summe der Einzelwiderstände ($R_{\text{ges}} = R_1 + R_2 + \dots + R_n$).
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 64–65, 67 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 64–65, 67](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=64>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -49,7 +49,7 @@ In der Reihenschaltung fließt überall derselbe Strom ($I = I_1 = I_2 = \dots =
 **Welche Grundgesetze gelten für Spannung $U$, Stromstärke $I$ (Knotenpunktsatz) und Ersatzwiderstand $R_{\text{ges}}$ in der Parallelschaltung?**
 ?
 An parallel geschalteten Verbrauchern liegt dieselbe Spannung ($U_{\text{ges}} = U_1 = U_2 = \dots$), der Gesamtstrom verzweigt sich ($I_{\text{ges}} = I_1 + I_2 + \dots$, Knotenpunktsatz) und die Kehrwerte bzw. Leitwerte ($G = \frac{1}{R}$) addieren sich: $\frac{1}{R_{\text{ges}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots$.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 68–69 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 68–69](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=68>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -57,7 +57,7 @@ An parallel geschalteten Verbrauchern liegt dieselbe Spannung ($U_{\text{ges}} =
 **Wie verändert sich der Gesamtwiderstand, wenn ein weiterer Widerstand in Reihe bzw. parallel hinzugeschaltet wird?**
 ?
 In der **Reihenschaltung** steigt $R_{\text{ges}}$ durch Addition an (bei konstanter Quellspannung sinkt der Strom, z. B. leuchtet eine verlängerte Lichterkette schwächer). In der **Parallelschaltung** sinkt $R_{\text{ges}}$ und ist stets kleiner als der kleinste Einzelwiderstand, weil der Strom einen weiteren Pfad erhält.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 67, 69 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 67, 69](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=67>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -65,7 +65,7 @@ In der **Reihenschaltung** steigt $R_{\text{ges}}$ durch Addition an (bei konsta
 **Wie geht man systematisch vor, um den Ersatzwiderstand einer gemischten Schaltung (Gruppenschaltung) zu berechnen?**
 ?
 Man fasst schrittweise von **innen nach außen** einzelne reine Teil-Reihenschaltungen und Teil-Parallelschaltungen zu Ersatzwiderständen zusammen, bis am Ende nur noch ein einziger Gesamtwiderstand $R_{\text{ges}}$ übrig bleibt.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 70 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 70](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=70>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -73,7 +73,7 @@ Man fasst schrittweise von **innen nach außen** einzelne reine Teil-Reihenschal
 **Wie berechnet man bei einem ohmschen Spannungsteiler ($R_1 = 10\text{ k}\Omega$, $R_2 = 10\text{ k}\Omega$, $U_E = 10\text{ V}$) den Gesamtstrom $I_G$ und die Ausgangsspannung $U_A = U_2$?**
 ?
 Über den Reihen-Gesamtwiderstand $R_G = R_1 + R_2 = 20\text{ k}\Omega$ folgt $I_G = \frac{U_E}{R_G} = \frac{10\text{ V}}{20\text{ k}\Omega} = 0{,}5\text{ mA}$. Damit fällt an $R_2$ die Teilspannung $U_A = U_2 = I_2 \cdot R_2 = 0{,}5\text{ mA} \cdot 10\text{ k}\Omega = 5\text{ V}$ ab.
-*Quelle: ITT IT-Technik (2. LJ) · `1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf` S. 5 (von 8) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf · S. 5](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf#page=5>) (von 8) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -81,7 +81,7 @@ Man fasst schrittweise von **innen nach außen** einzelne reine Teil-Reihenschal
 **Welcher Rechenfehler passiert bei der Parallelschaltung am häufigsten nach dem Berechnen von $\frac{1}{R_1} + \frac{1}{R_2} + \dots$?**
 ?
 Es wird vergessen, am Schluss erneut den **Kehrwert** zu bilden! Die Summe der Kehrwerte ergibt den Gesamtleitwert $G_{\text{ges}}$ (in $\text{S}$), erst $R_{\text{ges}} = \frac{1}{G_{\text{ges}}}$ liefert den gesuchten Ersatzwiderstand in $\Omega$.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 69–70 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 69–70](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=69>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -89,4 +89,4 @@ Es wird vergessen, am Schluss erneut den **Kehrwert** zu bilden! Die Summe der K
 **Drei Widerstände ($R_1 = R_2 = R_3 = 360\,\Omega$) liegen hintereinander; eine Brücke ($R = 0\,\Omega$) verbindet den Eingang vor $R_1$ mit dem Knoten zwischen $R_2$ und $R_3$, eine zweite Brücke den Knoten zwischen $R_1$ und $R_2$ mit dem Ausgang hinter $R_3$. Welche Schaltungsart entsteht und wie groß ist $R_{\text{ges}}$?**
 ?
 Es entsteht kein Kurzschluss, sondern eine **reine Parallelschaltung aller drei Widerstände**: Jeder Widerstand liegt mit einer Seite am Eingangspotenzial und mit der anderen am Ausgangspotenzial. Damit gilt $R_{\text{ges}} = \frac{360\,\Omega}{3} = 120\,\Omega$.
-*Quelle: ITT IT-Technik (2. LJ) · `1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf` S. 6 (von 8) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf · S. 6](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf#page=6>) (von 8) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]], OCR/Original prüfen*

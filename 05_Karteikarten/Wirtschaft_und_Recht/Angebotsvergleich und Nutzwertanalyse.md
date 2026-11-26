@@ -47,7 +47,7 @@ tags:
 **Wie lautet das Berechnungsschema des quantitativen Angebotsvergleichs (Bezugskalkulation)?**
 ?
 Listeneinkaufspreis − Liefererrabatt = Zieleinkaufspreis; Zieleinkaufspreis − Liefererskonto = Bareinkaufspreis; Bareinkaufspreis + Bezugskosten (z. B. Verpackung, Transport, Zoll, Versicherung) = Bezugspreis (Einstandspreis). So werden Angebote rechnerisch vergleichbar.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 20, 53 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 20, 53](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=20>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -55,7 +55,7 @@ Listeneinkaufspreis − Liefererrabatt = Zieleinkaufspreis; Zieleinkaufspreis �
 **Worin unterscheiden sich Rabatt und Skonto in der Bezugskalkulation?**
 ?
 Der Rabatt wird vom Listeneinkaufspreis abgezogen und aus besonderem Anlass oder üblicher Vereinbarung gewährt (z. B. größere Abnahmemenge oder langjährige Treue). Das Skonto wird anschließend vom Zieleinkaufspreis abgezogen und ist ein Preisnachlass bei Bezahlung innerhalb einer bestimmten Frist.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 20 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 20](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=20>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -63,7 +63,7 @@ Der Rabatt wird vom Listeneinkaufspreis abgezogen und aus besonderem Anlass oder
 **Wie ergänzen sich quantitativer und qualitativer Angebotsvergleich und in welcher Reihenfolge sollten sie erfolgen?**
 ?
 Der quantitative Vergleich ermittelt allein den Bezugspreis, während der qualitative Vergleich (Nutzwertanalyse / Scoring-Modell) Kriterien wie Qualität, Lieferzeit, Zuverlässigkeit, Service oder Standortnähe bewertet. Zuerst sollte der quantitative Vergleich durchgeführt werden, um den Preis danach als ein Kriterium in den qualitativen Vergleich einzubinden.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 20, 25 (von 54), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 20, 25](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=20>) (von 54), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -71,7 +71,7 @@ Der quantitative Vergleich ermittelt allein den Bezugspreis, während der qualit
 **In welchen drei Schritten wird eine Entscheidungsmatrix (Nutzwertanalyse) aufgebaut und ausgewertet?**
 ?
 1. Kriterien festlegen und frei gewichten, wobei die Summe aller Gewichtungen 100 (= 100 %) betragen muss. 2. Wertungspunkte pro Kriterium vergeben (5 = sehr gut, 4 = gut, 3 = durchschnittlich, 2 = ausreichend, 1 = kaum/nicht erfüllt). 3. Gewichtung × Punkte multiplizieren, je Lieferant aufsummieren und den Anbieter mit der höchsten Punktzahl wählen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 25–26 (von 54), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 25–26](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=25>) (von 54), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -79,7 +79,7 @@ Der quantitative Vergleich ermittelt allein den Bezugspreis, während der qualit
 **Berechne den Bezugspreis für ein Angebot mit 5.134,77 € Listeneinkaufspreis, 0,00 € Rabatt, 102,70 € Skonto und 50,00 € Bezugskosten.**
 ?
 5.134,77 € Listeneinkaufspreis − 0,00 € Rabatt = 5.134,77 € Zieleinkaufspreis. Nach Abzug von 102,70 € Skonto beträgt der Bareinkaufspreis 5.032,07 €, zuzüglich 50,00 € Bezugskosten ergibt sich ein Bezugspreis von 5.082,07 € (Beispiel PC-Kontor).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 53 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 53](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=53>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -87,4 +87,4 @@ Der quantitative Vergleich ermittelt allein den Bezugspreis, während der qualit
 **Warum erhält bei der Nutzwertanalyse nicht automatisch der preislich günstigste Lieferant den Zuschlag?**
 ?
 Ein günstiger Anbieter kann bei qualitativen Kriterien stark abfallen: So hat E-TopShop mit 4.892,74 € zwar den niedrigsten Bezugspreis, erreicht in der Matrix aber nur 305 Punkte (Rang 3) wegen Schwächen bei Beratung, Reklamationsmanagement und Nachhaltigkeit, während PC-Kontor mit 450 Punkten auf Rang 1 liegt.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 53–54 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 53–54](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=53>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*

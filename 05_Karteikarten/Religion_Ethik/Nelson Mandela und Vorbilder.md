@@ -27,7 +27,7 @@ tags:
 **Welche vier inhaltlichen Bausteine sieht die Unterrichtsnotiz für das Referat über Nelson Mandela als Vorbild vor?**
 ?
 1. **Biographie**, 2. **Entscheidung/Tat** (inkl. Begründung, *warum* er sich so entschieden hat), 3. **Auswahlbegründung und heutiges Vermächtnis** sowie 4. **Quellen**.
-*Quelle: Religion (1. LJ) · `Reli Notizen.pdf` S. 5 (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
+*Quelle: Religion (1. LJ) · [Reli Notizen.pdf · S. 5](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=5>) (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
 
 ---
 
@@ -35,7 +35,7 @@ tags:
 **Welche zwei ethischen Leitfragen stehen bei der Betrachtung von Vorbildern wie Nelson Mandela im Zentrum der Analyse?**
 ?
 Erstens die Frage nach den Beweggründen (*„Warum hat sich die Person so entschieden?“*) und zweitens die Frage nach der eigenen Vorbildfunktion und Gegenwartsbedeutung (*„Warum ausgesucht / heutiges Vermächtnis?“*).
-*Quelle: Religion (1. LJ) · `Reli Notizen.pdf` S. 5 (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
+*Quelle: Religion (1. LJ) · [Reli Notizen.pdf · S. 5](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=5>) (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
 
 ---
 
@@ -43,4 +43,4 @@ Erstens die Frage nach den Beweggründen (*„Warum hat sich die Person so entsc
 **Welche formalen Vorgaben gelten laut Mitschrift für die Präsentation über Nelson Mandela?**
 ?
 Die Präsentation (mit Gamma AI erstellt) soll **5–7 Minuten** dauern, auf unnötige Bilder verzichten und sich konsequent auf das Wesentliche fokussieren.
-*Quelle: Religion (1. LJ) · `Reli Notizen.pdf` S. 5 (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*
+*Quelle: Religion (1. LJ) · [Reli Notizen.pdf · S. 5](<99_Originale/Berufsschule/Religion/1_LJ/Reli Notizen.pdf#page=5>) (von 7), OCR/Original prüfen · [[02_Faecher/Religion/Quellen/Reli_Notizen|Quellnotiz]]*

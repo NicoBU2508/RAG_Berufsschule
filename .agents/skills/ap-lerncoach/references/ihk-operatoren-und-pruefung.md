@@ -19,7 +19,7 @@ Für Fachinformatiker-Abschlussprüfungen (**AP1: Einrichten eines IT-gestützte
 
 ## 2. Verbindung zu den 6 kanonischen Vault-Kategorien
 
-Alle 139 visuell geprüften Themen liegen unter `03_Themen/Visuell_geprueft/` in sechs Kategorien (Übersicht: [[03_Themen/00_Kuratierte_Themen]]; maschinenlesbares AP1/AP2-Mapping: `01_Index/Pruefungskatalog_Mapping.json`):
+Alle 140 visuell geprüften Themen liegen unter `03_Themen/Visuell_geprueft/` in sechs Kategorien (Übersicht: [[03_Themen/00_Kuratierte_Themen]]; maschinenlesbares AP1/AP2-Mapping: `01_Index/Pruefungskatalog_Mapping.json`):
 
 | Vault-Kategorie (`03_Themen/Visuell_geprueft/...`) | Prüfungsrelevanz (AP1 / AP2 / Berufsschule) | Besonders wirksame Lernmethoden |
 |---|---|---|

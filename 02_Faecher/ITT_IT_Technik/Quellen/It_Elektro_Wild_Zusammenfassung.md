@@ -12,22 +12,22 @@ tags:
   - quelle
   - itt_it_technik
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-07-13"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
 kanonische_themen: 4
 seiten_mit_kanonischem_thema: 7
 ki_exclude_seiten: [1]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
-textstatus: "eingeschränkt: visuell geprüft (partial=7)"
-textzeichen: 10555
+textstatus: "eingeschränkt: visuell geprüft (ocr_verified=2, partial=5)"
+textzeichen: 7947
 ---
 # 📄 It Elektro Wild Zusammenfassung
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
 > - **Original-PDF:** [Zusammenfassung.pdf](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf>)
 > - **Seiten:** 8
-> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (partial=7)
+> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=2, partial=5)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -61,76 +61,26 @@ textzeichen: 10555
 
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=2]]
-> [!ocr] OCRplus-Nachtrag integriert
-> Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
-#### OCRplus-Text für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Faktor | __Vorsatz | Vorsatzzeichen Die elektrische Ladung Q
-= Pr Alle Stoffe unserer Umwelt bestehen aus Atomen. Um uns vorzustellen, wie ein Atom
-10-2 = 0,000000000001 poo | aufgebaut ist, betrachten wir das sog. Bohrsche Atommodell (auch Schalenmodell).
-a n Lt Recherchiere im Internet nach dem Bohrschen Atommodell und bezeichne die Elemente in
-6 A
-om | Eleuion _ Atty
-10" = 2,007 eee ee leben N, Atom hen
-105 =100 00 meee Mw \ a - Homhalle
-3 , EN i fo
-‚Abbildung 1: Darstellung eines Atoms gemäß Schalenmodell am Boispiol Lithium
-Spannung U und Potenzial @
-* De GEE sd neigh seladme Tether in der Alorhälle
-Pluspol (Anode) Une Minuspol (Kathode) Dic FD) sir positiv ‚sehdee. Tether in Aonberr
-. MATT, o—ow—
-u 8 o
-positiv geladen sy negativ geladen + Die Vee) ‚sinel newf al geladene Teilyer im. Abonken , e 5 i
-& 4
-T © Que! Jleicharta geladene Teiln on sich ab -•@ ©:
-o®oeo000 1 ts | |
-| © Loci undeich geladene Teilchen ziehen sich ar @::©
-© © vo © O Jala, Seating tL
-H 4
-© © ®o oo
-Abbildung 1: Ladungstrennung am Beispiel einer KFZ-Batterie
-\ = ee = /
-® In Spannungsquellen werden Ladungen voneinander getrennt
->. Ursache: .ladaklion.......
-s Getrennte Ladungen haben da Bestreben sich auszugleichen —> | Werden ein Leiter und ein Magnetfeld zueinander bewegt, wird im
-Leiter eine Spannung induziert.
-om © ane laı
-® Jede Ladung im Raum hat ein bestimmtes elektrisches Potenzial "phi'p FEIERN Verwendung: ROD nn
-zB. Fahrraddynamo, Kfz-Lichtmaschine, elektrodynamisches Mikrofon
-© Die Potenzialdifferenz heifßt Spannung U + - Ursache: „Chemische... - LER nn
-Kupfer (Vv) znk- | Zwei verschiedene Metalle (Elektroden) erzeugen in einer leitenden
-AN. || Pate | Flüssigkeit (Elektrolyt) eine Spannung.
-© _ Eine Spannung herscht immer zwischen zwei Potenzialpunkten = | = x +
-H es Verwendung: Galvorisches... Glemen Eeasensenes
-BSS zB. Batterien, Akkumulatoren
-Cee Ursache: ...W Ulm. nn
-= i _ i N = Durch Erwärmen der Verbindungsstelle zweier verschiedener
-UAs phi A phi B (in Volt V) Drähte, entsteht eine Spannung.
-A 8 7 L
-“onstantan = Verwendung: „ Mecmoeement nu...
-zB. Temperatur-Fern-Messung an schwer zugänglichen Stellen
-r Ursache: „Licht. nn.
-= Trifft Licht auf eine Solarzelle, werden Elektronen frei und
-wandern auf eine Seite. | 4
-Porgy ER Verwendung: .kobelement..........
-ag Grotte zB. Solarzellen als Spannungsquelle für Satelliten, Uhren, Taschenrechner,
-emeuerbare Energien
-Druchkraft _guktremncner Ursache: „Kustellveformena.........
-r 4 n Ze ©) Bei bestimmten Kristallen (z. B. Quarz, Turmalin) entsteht durch
-H i Druck eine panne den Außenflächen. [|
-esi = ji
-PR ~smomicven | Verwendung: ..Diezo-Kustalle......
-z.B. Entzünden von Gasflammen, Feuerzeug, Kristallmikrofon
-Ursache: ‚SH Lace age PO I ge
-nr Beim Reiben von Isolferstoffen entstehen hohe Spannungen (auch
-bei fließenden, Aelh: Flüssigkeiten, z.B. Öl),
-Verwendung: a ek £ tostarhsche sn Aufleuan
-z.B. meist ungewollt z.B. bei Kunststofffolien oder Fahrzeugen. 1 @
-Vorsicht bei elektrostatisch gefährdeten Bauteilen (z.B. Platinen)
-& (Diese können durch elektrische Schläge, aufgrund der eigenen elektrostatischen
-‚Aufladung, zerstört werden.)
+Zusammenfassung Elektrotechnik – Ladung Q, Spannung U und Ursachen der Spannungserzeugung:
+
+1. Vorsatztabelle (femto 10^-15 bis tera 10^12) & Atommodell (Elektron -, Neutron neutral, Proton +, Atomkern, Atomhülle; gleiche Ladungen stoßen sich ab, ungleiche ziehen sich an).
+2. Spannung U und Potenzial φ:
+   - Pluspol (Anode): Elektronenmangel · Minuspol (Kathode): Elektronenüberschuss
+   - Getrennte Ladungen streben Ausgleich an; die Potenzialdifferenz heißt Spannung U: U_AB = φ_A - φ_B (in Volt = V).
+3. 6 Ursachen der Spannungserzeugung (mit Verwendungsbeispiel):
+   - Induktion (Leiter + Magnetfeld bewegt) -> Generator (Fahrraddynamo, Kfz-Lichtmaschine)
+   - Chemische Wirkung (zwei Metalle in Elektrolyt) -> Galvanisches Element (Batterien, Akkumulatoren)
+   - Wärme (Erwärmung Verbindungsstelle zweier Metalle) -> Thermoelement (Temperatur-Fernmessung)
+   - Licht (Licht auf Solarzelle löst Elektronen) -> Fotoelement (Solarzellen)
+   - Kristallverformung (Druck auf Quarz/Turmalin) -> Piezo-Kristalle (Gasflammenzünder, Feuerzeug, Kristallmikrofon)
+   - Reibung (Reiben von Isolierstoffen) -> Elektrostatische Aufladung (ESD-Gefahr bei Bauteilen wie Platinen!)
 ```
 
 ### Seite 3
@@ -141,49 +91,28 @@ Vorsicht bei elektrostatisch gefährdeten Bauteilen (z.B. Platinen)
 
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=3]]
-> [!ocr] OCRplus-Nachtrag integriert
-> Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
 
-#### OCRplus-Text für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Nob AD m ett 1. vauıı.
-Ge"
-> a PC-Netzteil - Funktion und Kennwerte / über weichen Ausgang AZ
-acer 9
-1. Erkläre die Aufgabe des PC - Netzteils PSU ( Pur Swaehy Unit ):
-‚NVo@chiedene Gleichspannuna un EN
-2. Erläutere den Formfaktor ATX: a
-„die. Foto. 00.462... hes. (ehe...
-5. Erläutere die Sicherungseinrichtungen des PC-Netzteils mithilfe des Internets:
-ret. one... Scroller abe vum de ap bh
-‚Betectien........ | die. max..2ulavine. lest ubesterd....
-Ves Volta @ & ef N USG GA am
-ove | Art..\altase.... |Schadiel.ab.senn. Ausenappamen.
-Ptetection..... | 20 hoch. ist.avch ber cu hohe. Eimanasunen
-Potection | Susann. Lb Kabel) couse
-uvp Undfez...oltase. Schaltet ab..sem. Asssomszunauns
-Plotecion..... | 20. media... um Pehknklan zu vemeider
-I
-Ober O|
-- Messung von Spannung U und Strom I Pure
-Zur Erinnerung: Bilden Erzeuger (z.B. Batterie) und Verbraucher (z.B. Glühlampe) einen a.
-geschlossenen Stromkreis, dann wird durch die Quellspannung Uo des Erzeugers ein elektrischer ve] . E i‘
-Strom I durch den Verbraucher getrieben. Voraussetzung hierfür ist, dass zwischen den Polen des u)
-Erzeugers eine Potenzialdifferenz herrscht (z.B. Batterie geladen). Außerdem muss der Verbraucher
-leitfähig sein. Akldung 4: Einfacher geachlnsener Sramieais
-Anordnung der Messinstrumente:
-ee ee
-mn Vole (ang)
-a L ©
-I TV
-3. Stelle die Werte der Spannungsquelle gemäß nachstehender Tabelle ein und notiere die zugehörigen Strommesswerte:
-Spannung, und. Stoo. Sioch..ohtekl. prpedional
-|
-4. Schalte nun das Voltmeter in Reihe zur Gliihlampe. Notiere deine Beobachtungen:
-Pic hein. dO mehr... nn
-5. Schalte nun das Amperemeter parallel zur Glühlampe. Notiere deine Beobachtungen:
-.Kureschlus. 2. Batterie. ben occu
+Zusammenfassung Elektrotechnik – PC-Netzteil & Messung von Spannung U und Strom I:
+
+1. PC-Netzteil (PSU = Power Supply Unit):
+   - Aufgabe: Wandelt 230 V Wechselspannung (AC) in verschiedene Gleichspannungen (3,3 V–12 V DC) um.
+   - Formfaktor ATX: genormte Form und Größe des Netzteils.
+   - Sicherungseinrichtungen:
+     - OPP (Over Power Protection): Abschaltung bei Überschreiten der max. Gesamtleistung.
+     - OVP (Over Voltage Protection): Abschaltung bei zu hoher Ausgangs- oder Eingangsspannung.
+     - SCP (Short Circuit Protection): Kurzschlusserkennung an Ausgängen.
+     - UVP (Under Voltage Protection): Abschaltung bei zu niedriger Ausgangsspannung.
+2. Messung von Spannung U und Strom I:
+   - Spannung U: Voltmeter (hochohmig), parallel schalten.
+   - Strom I: Amperemeter (niederohmig), in Reihe schalten.
+   - Messreihe (12 V -> 1,2 A; 60 V -> 6 A; 120 V -> 12 A): Spannung und Strom sind direkt proportional zueinander.
+   - Fehlerfälle: Voltmeter in Reihe -> es fließt kein Strom mehr; Amperemeter parallel -> Kurzschluss!
 ```
 
 ### Seite 4

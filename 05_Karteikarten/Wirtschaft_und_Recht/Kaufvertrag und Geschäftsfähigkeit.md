@@ -40,7 +40,7 @@ tags:
 Ein Kaufvertrag kommt durch zwei gleichlautende Willenserklärungen – **Angebot** (Antrag) und **Annahme** – zustande.
 - **Verkäufer:** Sache übergeben, Eigentum verschaffen (frei von Sach- und Rechtsmängeln) und Kaufpreis annehmen.
 - **Käufer:** Vereinbarten Kaufpreis zahlen und gekaufte Sache abnehmen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 7, 9 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 7, 9](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=7>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 ---
 
 <!-- card-id: kaufvertrag-und-geschaeftsfaehigkeit-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
@@ -49,7 +49,7 @@ Ein Kaufvertrag kommt durch zwei gleichlautende Willenserklärungen – **Angebo
 - **Geschäftsunfähig** (unter 7 Jahre oder dauerhafte krankhafte Störung der Geistestätigkeit): Willenserklärungen sind **nichtig** (§ 105 BGB).
 - **Beschränkt geschäftsfähig** (7 bis unter 18 Jahre): Verträge ohne Einwilligung sind zunächst **schwebend unwirksam** (§ 108 BGB).
 - **Voll geschäftsfähig** (ab Vollendung des 18. Lebensjahres, § 2 BGB): Rechtsgeschäfte sind **voll wirksam**.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 1, 3 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 1, 3](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=1>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 ---
 
 <!-- card-id: kaufvertrag-und-geschaeftsfaehigkeit-03 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
@@ -58,7 +58,7 @@ Ein Kaufvertrag kommt durch zwei gleichlautende Willenserklärungen – **Angebo
 1. **Lediglich rechtlicher Vorteil** (§ 107 BGB, z. B. reine Schenkung ohne Verpflichtungen).
 2. **Taschengeldparagraph** (§ 110 BGB): Leistung wird mit Mitteln bewirkt, die ihm zu diesem Zweck oder zur freien Verfügung überlassen wurden.
 3. **Dienst- oder Arbeitsverhältnis / Ausbildung** (§ 113 BGB): für Rechtsgeschäfte im Rahmen des vom gesetzlichen Vertreter gestatteten Arbeitsverhältnisses.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 1–3 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 1–3](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=1>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 ---
 
 <!-- card-id: kaufvertrag-und-geschaeftsfaehigkeit-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
@@ -66,7 +66,7 @@ Ein Kaufvertrag kommt durch zwei gleichlautende Willenserklärungen – **Angebo
 ?
 - **Einwilligung (§ 107 BGB):** Zustimmung des gesetzlichen Vertreters **vor** Abschluss des Rechtsgeschäfts.
 - **Genehmigung (§ 108 BGB):** Nachträgliche Zustimmung **nach** Abschluss; bis dahin ist der Vertrag schwebend unwirksam (bei Aufforderung gilt eine 2-Wochen-Frist, sonst gilt sie als verweigert).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 1–3 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 1–3](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=1>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 ---
 
 <!-- card-id: kaufvertrag-und-geschaeftsfaehigkeit-05 | typ: anwendung | pruefung: AP1/AP2 -->
@@ -74,7 +74,7 @@ Ein Kaufvertrag kommt durch zwei gleichlautende Willenserklärungen – **Angebo
 ?
 Für Kaufverträge gilt grundsätzlich **Formfreiheit** (mündlich, schriftlich, per E-Mail, Telefon oder konkludent).
 Ausnahmen mit gesetzlicher Formvorschrift (bei Verstoß droht Nichtigkeit nach § 125 BGB): z. B. **Schriftform** (§ 126 BGB) bei Darlehens-, Bürgschafts- und Leasingverträgen sowie **notarielle Beurkundung** (§ 128 BGB) bei Grundstückskaufverträgen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 7–8 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 7–8](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=7>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 ---
 
 <!-- card-id: kaufvertrag-und-geschaeftsfaehigkeit-06 | typ: abgrenzung | pruefung: AP1/AP2 -->
@@ -83,7 +83,7 @@ Ausnahmen mit gesetzlicher Formvorschrift (bei Verstoß droht Nichtigkeit nach �
 - **Kauf auf Probe:** Käufer kann die Ware innerhalb einer vereinbarten Frist prüfen und bei Nichtgefallen zurückgeben.
 - **Kauf nach Probe:** Käufer bestellt nach einem Muster; die gelieferte Ware muss der Probe entsprechen.
 - **Kauf zur Probe:** Käufer bestellt zunächst eine kleine Testmenge **ohne Rückgaberecht**; erst bei Gefallen folgt eine größere Bestellung.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 11 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 11](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=11>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 ---
 
 <!-- card-id: kaufvertrag-und-geschaeftsfaehigkeit-07 | typ: abgrenzung | pruefung: AP1/AP2 -->
@@ -91,4 +91,4 @@ Ausnahmen mit gesetzlicher Formvorschrift (bei Verstoß droht Nichtigkeit nach �
 ?
 - **Besitz:** tatsächliche Sachherrschaft („Wer hat die Sache?“), übertragen durch Übergabe (beweglich) bzw. Überlassung (unbeweglich).
 - **Eigentum:** rechtliche Zugehörigkeit („Wem gehört die Sache?“), übertragen durch Einigung + Übergabe (beweglich) bzw. Auflassung (Einigung, notarieller Vertrag, Grundbucheintragung) bei unbeweglichen Sachen.
-*Quelle: ITT IT-Technik (1. LJ) · `Zusammenfassung _260120_080521.pdf` S. 2 (von 4) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Zusammenfassung_260120_080521|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Zusammenfassung _260120_080521.pdf · S. 2](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Zusammenfassung _260120_080521.pdf#page=2>) (von 4) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Zusammenfassung_260120_080521|Quellnotiz]], OCR/Original prüfen*

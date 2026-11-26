@@ -45,7 +45,7 @@ tags:
 **Welche Wirtschaftssubjekte wirken im einfachen bzw. im erweiterten Wirtschaftskreislauf zusammen?**
 ?
 Im einfachen Wirtschaftskreislauf stellen Haushalte Arbeit, Kapital und Boden bereit und kaufen Konsumgüter von Unternehmen, die dafür Löhne, Gehälter, Miete, Pacht oder Zinsen zahlen. Im erweiterten Kreislauf kommen Banken (Ersparnisse/Kredite), der Staat (Steuern, Transferzahlen, Subventionen) sowie das Ausland (Exporte/Importe) hinzu.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 22–24 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 22–24](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=22>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -53,7 +53,7 @@ Im einfachen Wirtschaftskreislauf stellen Haushalte Arbeit, Kapital und Boden be
 **Worin unterscheiden sich Verkäufermarkt und Käufermarkt sowie freier und geschlossener Markt?**
 ?
 Auf einem Verkäufermarkt besitzen die Anbieter eine starke Position, auf einem Käufermarkt hingegen die Nachfrager. Auf einem freien Markt hat jeder Zugang (z. B. Lebensmittel-, Automarkt), während auf einem geschlossenen Markt Zugangsbeschränkungen bestehen (z. B. Waffenmarkt, Großhandel wie Metro).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 26 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 26](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=26>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -61,7 +61,7 @@ Auf einem Verkäufermarkt besitzen die Anbieter eine starke Position, auf einem 
 **Wie unterscheiden sich Monopol, Oligopol und Polypol hinsichtlich der Anzahl der Marktteilnehmer?**
 ?
 Beim Monopol existiert für ein Wirtschaftsgut nur ein Anbieter (Angebotsmonopol), ein Nachfrager (Nachfragemonopol) oder beides zugleich (zweiseitiges Monopol). Beim Angebotsoligopol stehen wenigen Anbietern viele Nachfrager gegenüber (z. B. Mobilfunk, Strom, Mineralöl), beim Polypol treffen viele Anbieter auf viele Nachfrager.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 29–30 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 29–30](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=29>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -69,7 +69,7 @@ Beim Monopol existiert für ein Wirtschaftsgut nur ein Anbieter (Angebotsmonopol
 **Was ist ein Quasimonopol und mit welchen Mitteln streben Unternehmen im Polypol danach?**
 ?
 Unternehmen versuchen in polypolistischen Märkten durch Einzigartigkeit ihres Angebots Eigenschaften eines Monopolisten (Preissetzungsmacht) zu erlangen. Typische Maßnahmen sind Diversifikation, Exklusivität, Imagebildung, Innovation, Übernahme von Mitbewerbern oder das Ausnutzen natürlicher Wettbewerbsvorteile.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 29 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 29](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=29>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -77,7 +77,7 @@ Unternehmen versuchen in polypolistischen Märkten durch Einzigartigkeit ihres A
 **Warum sind die Bedingungen eines vollkommenen Marktes in der Praxis regelmäßig nicht erfüllt?**
 ?
 In der Realität gibt es keine vollständige Markttransparenz (nicht alle Marktbedingungen sind jederzeit bekannt) und keine rein homogenen Güter (Unternehmen differenzieren Produkte bzw. Statussymbole). Zudem bestehen persönliche, räumliche oder ethische Präferenzen sowie zeitliche Anpassungsverzögerungen durch Vergleiche und Umstrukturierungen.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 28 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 28](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=28>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -85,4 +85,4 @@ In der Realität gibt es keine vollständige Markttransparenz (nicht alle Marktb
 **Welche Marktungleichgewichte entstehen oberhalb bzw. unterhalb des Gleichgewichtspreises und welche Funktionen hat der Preis?**
 ?
 Ein Preis über dem Gleichgewichtspreis führt zu einem Angebotsüberschuss, ein Preis darunter zu einem Nachfrageüberschuss. Der Preis signalisiert Wert/Knappheit eines Gutes, bringt Angebot und Nachfrage ins Gleichgewicht, verdrängt falsch wirtschaftende Unternehmen und erzieht zu wirtschaftlichem Handeln.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 34, 37 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 34, 37](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=34>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*

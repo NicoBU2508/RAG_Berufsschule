@@ -45,7 +45,7 @@ tags:
 ?
 - **Formell:** `Dear Mr/Ms ...` oder `Dear Sir or Madam` → `I am writing to ...` → `Please do not hesitate to contact us` → `Best regards` / `Regards`.
 - **Informell:** `Dear <Vorname>` → `This is just a quick email to ...` → `Get in touch` → `Best` / `Best wishes` / `All the best`.
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 24 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 24](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -54,7 +54,7 @@ tags:
 ?
 - **Mehrwertsteuer:** `value added tax (VAT)` · **Rabatt:** `discount`
 - **Rechnung:** `invoice` (bzw. `bill` für Rechnung/Quittung) · **auf Lager:** `in stock`
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 35 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 35](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -63,7 +63,7 @@ tags:
 ?
 - **Entschuldigung:** `I apologize for the errors in dealing with your order.` / `Please accept my apologies.`
 - **Lösung & Kulanz:** `I will send the missing items immediately.` und `To make up for any inconvenience, I have sent ... free of charge / at no extra cost.`
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 24 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 24](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=24>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -72,7 +72,7 @@ tags:
 ?
 - `+` = `plus`, `_` = `underscore`, `@` = `at`, `-` = `hyphen`, `.` = `dot`.
 - **Prüfungsfalle:** `_` (`underscore`) und `-` (`hyphen`) sowie `.` (`dot`, nicht „point“) werden beim Buchstabieren am Telefon häufig verwechselt.
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 29 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 29](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=29>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -82,7 +82,7 @@ tags:
 - **Verbinden:** `I'll put you through.` / `I'll connect you.`
 - **Besetzt:** `The line is busy / engaged.`
 - **Nachricht / Rückruf:** `Would you like to leave a message?` bzw. `Shall I ask him/her to call back?`
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 37 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 37](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=37>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -91,7 +91,7 @@ tags:
 ?
 - **Vertikale Hierarchie:** Gewährleistet Planbarkeit und Verlässlichkeit (`predictability and reliability`) und erleichtert die Top-down-Kontrolle über viele Mitarbeitende.
 - **Flache Hierarchie:** Kein Management-Reporting; Mitarbeitende initiieren eigene Projekte, übernehmen Verantwortung und stehen ohne Barrieren nah am Kundenwunsch.
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 22 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 22](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=22>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -100,4 +100,4 @@ tags:
 ?
 - **Einstieg:** Publikum begrüßen (`greeting`), sich selbst und das Anliegen vorstellen (`introducing yourself and your cause`).
 - **Hauptteil & Abschluss:** PowerPoint nur als unterstützendes Argumentationsmittel (nicht als Untertitel/Vorlesetext) nutzen, mit überzeugender `conclusion` schließen, danken und das Meeting gezielt beenden.
-*Quelle: Englisch (2. LJ) · `01_Conditionals.pdf` S. 5 (von 14) · [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals|Quellnotiz]]*
+*Quelle: Englisch (2. LJ) · [01_Conditionals.pdf · S. 5](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=5>) (von 14) · [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals|Quellnotiz]]*

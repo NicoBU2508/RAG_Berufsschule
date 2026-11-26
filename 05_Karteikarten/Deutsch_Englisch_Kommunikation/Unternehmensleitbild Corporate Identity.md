@@ -34,7 +34,7 @@ tags:
 - **Vision**: Ein klares Bild von der Zukunft (langfristige abstrakte Ziele)
 - **Mission**: Aufgaben und Zwecke zur Erfüllung der Vision
 - **Unternehmensleitbild**: Abgeleitete Verhaltensrichtlinien, die das Selbstverständnis eines Unternehmens widerspiegeln sollen
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 6 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 6](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -45,7 +45,7 @@ tags:
 - **Motivationsfunktion**: Mitarbeiter sehen Sinn in der täglichen Arbeit (fördert intrinsische Motivation)
 - **Legitimationsfunktion**: Dient zur Rechtfertigung bestimmter Entscheidungen
 - **Integrationsfunktion**: Erzeugt Zusammengehörigkeit („Wir-Gefühl“)
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 6 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 6](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=6>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -55,7 +55,7 @@ tags:
 - **Präambel** (*Grund*): Erklärt, warum das Leitbild geschaffen wird
 - **Kernleitbild** (*allgemeine Ziele / Werte*): Enthält relativ allgemeine Aussagen zu Werten und Zielen
 - **Leitsätze** (*konkrete Ziele*): Konkretisieren das Kernleitbild durch konkrete Orientierung und Maßnahmen
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 7 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 7](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=7>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -64,7 +64,7 @@ tags:
 ?
 Werden Mitarbeiter und Führungskräfte des **Lower-Managements** nicht einbezogen, wird das Leitbild den Ansprüchen nicht gerecht und scheitert.
 Erfolgsfaktoren sind **Projektgruppen** und regelmäßige Treffen sowie Implementierungsmaßnahmen (Schulungen, Betriebsversammlungen, Teamsitzungen, Intranet, Aushänge, Hauszeitungen, Rundschreiben).
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 7 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 7](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=7>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -74,7 +74,7 @@ Erfolgsfaktoren sind **Projektgruppen** und regelmäßige Treffen sowie Implemen
 - „Um den Verkauf erfolgreich zu starten, hat Qualität oberste Priorität“ → **Präambel** (Begründung/Grund)
 - „Umweltschonende Produktion“ → **Kernleitbild** (allgemeiner Wert/Ziel)
 - „Eröffnung eines zweiten Standorts“ → **Leitsätze** (konkrete Maßnahme/Ziel)
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 7–8 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 7–8](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=7>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
 
 ---
 
@@ -85,4 +85,4 @@ Erfolgsfaktoren sind **Projektgruppen** und regelmäßige Treffen sowie Implemen
 - **Corporate Behaviour**: Verhalten/Auftritt gegenüber Kunden, Partnern und Öffentlichkeit – die **gelebte Umsetzung** der Corporate Culture
 - **Corporate Design**: Visuelle Identität / einheitliches Erscheinungsbild (Formulare, Farbgebung, Arbeitskleidung, Branding)
 - **Corporate Communication**: Gesamte interne und externe Unternehmenskommunikation (Werbung, Öffentlichkeitsarbeit, interne Kommunikation)
-*Quelle: Deutsch (1. LJ) · `Deutsch.pdf` S. 9 (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*
+*Quelle: Deutsch (1. LJ) · [Deutsch.pdf · S. 9](<99_Originale/Berufsschule/Deutsch/1_LJ/Deutsch.pdf#page=9>) (von 46) · [[02_Faecher/Deutsch/Quellen/Deutsch|Quellnotiz]]*

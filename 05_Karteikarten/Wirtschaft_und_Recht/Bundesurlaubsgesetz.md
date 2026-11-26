@@ -29,7 +29,7 @@ tags:
 **Welche Tage gelten laut Bundesurlaubsgesetz als „Werktage“?**
 ?
 Als Werktage gelten alle Kalendertage, die **nicht** Sonn- oder gesetzliche Feiertage sind.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 11–12 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 11–12](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=11>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -37,7 +37,7 @@ Als Werktage gelten alle Kalendertage, die **nicht** Sonn- oder gesetzliche Feie
 **Wie ist der Erholungsurlaub nach dem Bundesurlaubsgesetz grundsätzlich zu gewähren?**
 ?
 Der Urlaub ist grundsätzlich **zusammenhängend** zu gewähren.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 11–12 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 11–12](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=11>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -45,7 +45,7 @@ Der Urlaub ist grundsätzlich **zusammenhängend** zu gewähren.
 **Kann der Arbeitgeber die Gewährung des beantragten Urlaubs verweigern?**
 ?
 Ja, der Arbeitgeber kann die Urlaubsgewährung verweigern – allerdings **nur bei dringenden betrieblichen Belangen**.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 11–12 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 11–12](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=11>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -53,7 +53,7 @@ Ja, der Arbeitgeber kann die Urlaubsgewährung verweigern – allerdings **nur b
 **Bis wann muss der Urlaub vom Arbeitnehmer grundsätzlich genommen werden, und bis wann gilt er ausnahmsweise bei Übertragung?**
 ?
 Der Urlaub muss grundsätzlich bis zum **31.12.** des Jahres eingebracht (genommen) werden; ausnahmsweise ist eine Übertragung bis zum **31.03.** des Folgejahres möglich.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 11–12 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 11–12](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=11>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -61,7 +61,7 @@ Der Urlaub muss grundsätzlich bis zum **31.12.** des Jahres eingebracht (genomm
 **Ab wann besteht nach dem Bundesurlaubsgesetz ein Teilanspruch bzw. der volle Urlaubsanspruch?**
 ?
 Ab Beginn des Arbeitsverhältnisses entsteht pro Monat ein **Teilanspruch**; nach **6 Monaten** Bestehen des Arbeitsverhältnisses entsteht der **volle** Urlaubsanspruch.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 11–12 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 11–12](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=11>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -69,4 +69,4 @@ Ab Beginn des Arbeitsverhältnisses entsteht pro Monat ein **Teilanspruch**; nac
 **Eine Arbeitnehmerin nimmt im Januar ihren gesamten Jahresurlaub und wechselt zum 01.04. zu einem neuen Arbeitgeber. Hat sie dort erneut Anspruch auf Urlaub für dasselbe Jahr?**
 ?
 **Nein.** Sie besitzt beim neuen Arbeitgeber keinen erneuten Voll- oder Teilurlaubsanspruch für dieses Kalenderjahr, da ihr gesamter Jahresurlaub bereits gewährt wurde.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 11–12 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 11–12](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=11>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*

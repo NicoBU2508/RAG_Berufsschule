@@ -42,22 +42,22 @@
     {
       "name": "kanonische Seitenbilanz konsistent",
       "status": "pass",
-      "details": "{\"evidence\"=>1263, \"support_only\"=>11, \"excluded\"=>128}"
+      "details": "{\"evidence\"=>1136, \"support_only\"=>11, \"excluded\"=>256}"
     },
     {
       "name": "Evidenzseiten gezählt",
       "status": "pass",
-      "details": "{\"evidence\"=>1263, \"support_only\"=>11, \"excluded\"=>128}"
+      "details": "{\"evidence\"=>1136, \"support_only\"=>11, \"excluded\"=>256}"
     },
     {
       "name": "Support-Seiten gezählt",
       "status": "pass",
-      "details": "{\"evidence\"=>1263, \"support_only\"=>11, \"excluded\"=>128}"
+      "details": "{\"evidence\"=>1136, \"support_only\"=>11, \"excluded\"=>256}"
     },
     {
       "name": "ausgeschlossene Seiten gezählt",
       "status": "pass",
-      "details": "{\"evidence\"=>1263, \"support_only\"=>11, \"excluded\"=>128}"
+      "details": "{\"evidence\"=>1136, \"support_only\"=>11, \"excluded\"=>256}"
     },
     {
       "name": "Ausschlüsse tragen keine Themen",
@@ -144,7 +144,7 @@
     {
       "name": "Copilot-Dateiallowlist und Sicherheitsmodus gehärtet",
       "status": "pass",
-      "details": "Ist: 192; Soll: 192; fehlende Exclusions: []; Prompt aktiv: true"
+      "details": "Ist: 189; Soll: 189; fehlende Exclusions: []; Prompt aktiv: true"
     },
     {
       "name": "Manifest: geprüfte Themen primär",
@@ -186,7 +186,7 @@
     {
       "name": "alle nicht-privaten lokalen Referenzen auflösbar",
       "status": "pass",
-      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-11-26\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>385, \"wiki_links\"=>4614, \"local_markdown_links\"=>1664, \"unresolved\"=>0, \"failures\"=>[]}"
+      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-11-26\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>385, \"wiki_links\"=>4388, \"local_markdown_links\"=>2394, \"unresolved\"=>0, \"failures\"=>[]}"
     }
   ]
 }

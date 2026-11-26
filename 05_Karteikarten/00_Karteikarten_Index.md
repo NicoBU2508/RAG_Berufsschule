@@ -11,8 +11,8 @@ canonical_evidence: false
 
 ## Überblick (Stand 2026-11-26)
 
-- **Aktive Decks:** **140** von **140** kanonischen Themen (**877** Karten gesamt)
-- **Prüfungsverteilung:** 🎯 **AP1-Fokus: 482 Karten** (`AP1`: 277 · `AP1/AP2`: 205) · 📘 `AP2`: 220 · 🏫 `BS` (Berufsschule): 175
+- **Aktive Decks:** **140** von **140** kanonischen Themen (**878** Karten gesamt)
+- **Prüfungsverteilung:** 🎯 **AP1-Fokus: 483 Karten** (`AP1`: 277 · `AP1/AP2`: 206) · 📘 `AP2`: 220 · 🏫 `BS` (Berufsschule): 175
 - **Aktuell:** 140 · **Update nötig (neue PDF-Seiten):** 0 · **Noch ohne Deck:** 0
 
 ### Schnellbefehle
@@ -32,18 +32,19 @@ ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm --exam AP1
 - [[05_Karteikarten/Anwendungsentwicklung/Arrays und Datenstrukturen|Arrays und Datenstrukturen]] — **6 Karten** (🟢 AP1+AP2 · 25 S. · aktuell)
 - [[05_Karteikarten/Anwendungsentwicklung/Barrierefreies Arbeiten und digitale Barrierefreiheit|Barrierefreies Arbeiten und digitale Barrierefreiheit]] — **6 Karten** (🟢 AP1 · 5 S. · aktuell)
 - [[05_Karteikarten/Anwendungsentwicklung/Datenbankgrundlagen und Datenbankentwicklung|Datenbankgrundlagen und Datenbankentwicklung]] — **6 Karten** (🟢 AP1+AP2 · 18 S. · aktuell)
-- [[05_Karteikarten/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell|Datenbankmodellierung und ER-Modell]] — **10 Karten** (🟢 AP1+AP2 · 34 S. · aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell|Datenbankmodellierung und ER-Modell]] — **11 Karten** (🟢 AP1+AP2 · 35 S. · aktuell)
 - [[05_Karteikarten/Anwendungsentwicklung/Datenherkunft und Informationsbeschaffung|Datenherkunft und Informationsbeschaffung]] — **4 Karten** (🟢 AP1 · 2 S. · aktuell)
-- [[05_Karteikarten/Anwendungsentwicklung/Entwicklungswerkzeuge und Debugging|Entwicklungswerkzeuge und Debugging]] — **6 Karten** (🟢 AP1+AP2 · 76 S. · aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Entwicklungswerkzeuge und Debugging|Entwicklungswerkzeuge und Debugging]] — **6 Karten** (🟢 AP1+AP2 · 38 S. · aktuell)
 - [[05_Karteikarten/Anwendungsentwicklung/EVA-Prinzip|EVA-Prinzip]] — **5 Karten** (🟢 AP1 · 5 S. · aktuell)
-- [[05_Karteikarten/Anwendungsentwicklung/Java-Grundlagen|Java-Grundlagen]] — **6 Karten** (🔵 AP2 · 75 S. · aktuell)
-- [[05_Karteikarten/Anwendungsentwicklung/Methoden Parameter und Rückgabewerte|Methoden, Parameter und Rückgabewerte]] — **7 Karten** (🟢 AP1+AP2 · 39 S. · aktuell)
-- [[05_Karteikarten/Anwendungsentwicklung/Objektorientierung|Objektorientierung]] — **7 Karten** (🔵 AP2 · 59 S. · aktuell)
-- [[05_Karteikarten/Anwendungsentwicklung/Operatoren und Bedingungen|Operatoren und Bedingungen]] — **7 Karten** (🟢 AP1+AP2 · 58 S. · aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Java- und OOP-Grundlagen|Java- und OOP-Grundlagen]] — **6 Karten** (⚪ BS · 69 S. · aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Java-Grundlagen|Java-Grundlagen]] — **6 Karten** (🔵 AP2 · 30 S. · aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Methoden Parameter und Rückgabewerte|Methoden, Parameter und Rückgabewerte]] — **7 Karten** (🟢 AP1+AP2 · 21 S. · aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Objektorientierung|Objektorientierung]] — **7 Karten** (🔵 AP2 · 29 S. · aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Operatoren und Bedingungen|Operatoren und Bedingungen]] — **7 Karten** (🟢 AP1+AP2 · 37 S. · aktuell)
 - [[05_Karteikarten/Anwendungsentwicklung/Power Apps und Power Automate|Power Apps und Power Automate]] — **4 Karten** (⚪ BS · 2 S. · aktuell)
-- [[05_Karteikarten/Anwendungsentwicklung/Programm und Software|Programm und Software]] — **6 Karten** (🟢 AP1 · 13 S. · aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Programm und Software|Programm und Software]] — **6 Karten** (🟢 AP1 · 10 S. · aktuell)
 - [[05_Karteikarten/Anwendungsentwicklung/Programmablaufdarstellungen|Programmablaufdarstellungen]] — **6 Karten** (⚪ BS · 20 S. · aktuell)
-- [[05_Karteikarten/Anwendungsentwicklung/Programmiersprachen und Übersetzer|Programmiersprachen und Übersetzer]] — **6 Karten** (🟢 AP1 · 35 S. · aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Programmiersprachen und Übersetzer|Programmiersprachen und Übersetzer]] — **6 Karten** (🟢 AP1 · 20 S. · aktuell)
 - [[05_Karteikarten/Anwendungsentwicklung/Python-Grundlagen|Python-Grundlagen]] — **6 Karten** (🔵 AP2 · 34 S. · aktuell)
 - [[05_Karteikarten/Anwendungsentwicklung/Rekursion und Iteration|Rekursion und Iteration]] — **5 Karten** (🔵 AP2 · 4 S. · aktuell)
 - [[05_Karteikarten/Anwendungsentwicklung/Schleifen|Schleifen]] — **7 Karten** (🟢 AP1+AP2 · 30 S. · aktuell)
@@ -56,8 +57,7 @@ ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm --exam AP1
 - [[05_Karteikarten/Anwendungsentwicklung/SQL-Grundlagen und SELECT-Abfragen|SQL-Grundlagen und SELECT-Abfragen]] — **7 Karten** (🔵 AP2 · 33 S. · aktuell)
 - [[05_Karteikarten/Anwendungsentwicklung/Suchalgorithmen|Suchalgorithmen]] — **4 Karten** (🔵 AP2 · 2 S. · aktuell)
 - [[05_Karteikarten/Anwendungsentwicklung/UML-Diagramme|UML-Diagramme]] — **10 Karten** (🟢 AP1+AP2 · 21 S. · aktuell)
-- [[05_Karteikarten/Anwendungsentwicklung/Unternehmenswiki|Unternehmenswiki]] — **6 Karten** (⚪ BS · 197 S. · aktuell)
-- [[05_Karteikarten/Anwendungsentwicklung/Variablen und Datentypen|Variablen und Datentypen]] — **6 Karten** (🟢 AP1+AP2 · 82 S. · aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/Variablen und Datentypen|Variablen und Datentypen]] — **6 Karten** (🟢 AP1+AP2 · 37 S. · aktuell)
 
 ### IT-Technik und Sicherheit
 

@@ -43,7 +43,7 @@ tags:
 - `MAX(Attribut)` / `MIN(Attribut)`: Maximal- bzw. Minimalwert einer Spalte
 - `AVG(Attribut)`: Durchschnittswert einer Spalte
 - `SUM(Attribut)`: Werte einer Spalte addieren
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kis_Mitschrift.pdf` S. 37 (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 37](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=37>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -52,7 +52,7 @@ tags:
 ?
 Man kombiniert `FORMAT(Ausdruck, 2)` und setzt den Alias (`AS`) mit Leerzeichen in Anführungszeichen/Hochkommas:
 `SELECT FORMAT(AVG(tagesmietpreis), 2) AS "Durchschnittlicher Tagesmietpreis" FROM fahrraeder;`
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kislik.pdf` S. 48 (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 48](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=48>) (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
 
 ---
 
@@ -60,7 +60,7 @@ Man kombiniert `FORMAT(Ausdruck, 2)` und setzt den Alias (`AS`) mit Leerzeichen 
 **Worin unterscheiden sich `GROUP BY` (ohne Funktion) und `SELECT DISTINCT` beim Entfernen von Mehrfachnennungen?**
 ?
 Beide fassen Datensätze mit identischen Werten zu einer Zeile zusammen. `GROUP BY` sortiert dabei automatisch **aufsteigend** nach dem gruppierten Attribut, während bei `SELECT DISTINCT` die Reihenfolge durch die Anordnung in der Ausgangstabelle bestimmt wird.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kis_Mitschrift.pdf` S. 40 (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 40](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=40>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -68,7 +68,7 @@ Beide fassen Datensätze mit identischen Werten zu einer Zeile zusammen. `GROUP 
 **Welche Regel gilt in SQL, wenn in `SELECT` sowohl normale Attribute als auch Aggregatfunktionen stehen?**
 ?
 Normale Attribute dürfen in `SELECT` nur dann mit Aggregatfunktionen kombiniert werden, wenn über alle diese Attribute mit `GROUP BY` Gruppen gebildet werden.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kis_Mitschrift.pdf` S. 40 (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 40](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=40>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -76,7 +76,7 @@ Normale Attribute dürfen in `SELECT` nur dann mit Aggregatfunktionen kombiniert
 **Wie unterscheiden sich die SQL-Klauseln `WHERE` und `HAVING` bei gruppierten Abfragen?**
 ?
 `WHERE` filtert einzelne Datensätze **vor** der Gruppenbildung. `HAVING` wirkt ausschließlich zusammen mit `GROUP BY` und legt fest, welche der bereits **gruppierten Datensätze** angezeigt werden.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kis_Mitschrift.pdf` S. 40 (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 40](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=40>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -85,7 +85,7 @@ Normale Attribute dürfen in `SELECT` nur dann mit Aggregatfunktionen kombiniert
 ?
 Man extrahiert das Jahr mit `YEAR(kaufdatum)` und gruppiert sowie sortiert danach:
 `SELECT YEAR(kaufdatum) AS "Kaufjahr", COUNT(*) AS "Anzahl" FROM fahrraeder GROUP BY YEAR(kaufdatum) ORDER BY YEAR(kaufdatum);`
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kislik.pdf` S. 50 (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 50](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=50>) (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
 
 ---
 
@@ -93,4 +93,4 @@ Man extrahiert das Jahr mit `YEAR(kaufdatum)` und gruppiert sowie sortiert danac
 **Wo steht in einer gruppierten Abfrage eine Filterbedingung auf Einzelzeilen (z. B. `kaufdatum < "2015-1-1"`) im Gegensatz zu einer Gruppenbedingung?**
 ?
 Einzelzeilen-Filter stehen vor `GROUP BY` in der `WHERE`-Klausel, damit nur relevante Datensätze in die Gruppenbildung eingehen; `HAVING` wird erst nach `GROUP BY` auf die gebildeten Gruppen angewendet.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kislik.pdf` S. 50–51 (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 50–51](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=50>) (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*

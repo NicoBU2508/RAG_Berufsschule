@@ -67,7 +67,7 @@ tags:
 **Wie unterscheiden sich Organisation, Disposition und Improvisation nach Regelungsart und Zielsetzung?**
 ?
 Organisation schafft generelle, dauerhafte Regelungen für sich wiederholende Vorgänge (Ziel: Stabilität). Disposition trifft im Voraus geplante fallweise Regelungen, solange keine endgültigen Regeln vorliegen (Ziel: Flexibilität). Improvisation sind spontane, intuitive Entscheidungen in unvorhersehbaren Situationen und selten von langer Dauer (Ziel: Wirtschaftlichkeit).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `Bgwp schredl.pdf` S. 1–2, 7 (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 1–2, 7](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=1>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
 
 ---
 
@@ -75,7 +75,7 @@ Organisation schafft generelle, dauerhafte Regelungen für sich wiederholende Vo
 **Welche vier Organisationsgrundsätze müssen bei der betrieblichen Organisation eingehalten werden?**
 ?
 Eine Organisation muss 1. wirtschaftlich sein (Minimal-/Maximalprinzip), 2. zweckmäßig für den betrieblichen Zweck sein, 3. gleichzeitig flexibel und stabil bleiben (besser keine Regel als jeden Monat neue Regeln) sowie 4. klar und eindeutig sein.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `Bgwp schredl.pdf` S. 1 (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 1](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=1>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
 
 ---
 
@@ -83,7 +83,7 @@ Eine Organisation muss 1. wirtschaftlich sein (Minimal-/Maximalprinzip), 2. zwec
 **Worin unterscheiden sich Aufbauorganisation und Ablauforganisation?**
 ?
 Die Aufbauorganisation ist das eher langfristige, hierarchische Gefüge der Abteilungen und Stellen („Wie sind Aufgaben verteilt? Wer hat welche Weisungsbefugnis?“; z. B. Organigramm). Die Ablauforganisation ist eher kurzfristig/dynamisch und gestaltet den Arbeitsablauf („Wie sollen Aufgaben bearbeitet werden?“; z. B. Balkendiagramm, Netzplan, Entscheidungstabelle).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `Bgwp schredl.pdf` S. 1–2, 7 (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 1–2, 7](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=1>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
 
 ---
 
@@ -91,7 +91,7 @@ Die Aufbauorganisation ist das eher langfristige, hierarchische Gefüge der Abte
 **Welche Vor- und Nachteile haben Einliniensystem und Mehrliniensystem?**
 ?
 Einliniensystem: Jeder Untergebene hat genau einen direkten Vorgesetzten (Instanzenweg); das bringt klare Kompetenzverteilung und straffe Disziplin, aber lange Weisungswege, Bürokratie und Überlastung der oberen Leitung. Mehrliniensystem: Mehrfachunterstellungen schaffen kurze Kommunikationswege und entlasten Zwischeninstanzen, führen jedoch zu Kompetenzkonflikten und schwieriger Fehlerzuweisung.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `Bgwp schredl.pdf` S. 9, 11 (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 9, 11](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=9>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
 
 ---
 
@@ -99,7 +99,7 @@ Einliniensystem: Jeder Untergebene hat genau einen direkten Vorgesetzten (Instan
 **Welche Aufgaben und Befugnisse besitzt eine Stabsstelle im Stabliniensystem?**
 ?
 Stäbe sind spezialisierte Wissensträger, die Linieninstanzen beratend unterstützen, Entscheidungen sorgfältig vorbereiten und entlasten. Prüfungsfalle: Eine Stabsstelle hat grundsätzlich keine direkte Weisungsbefugnis gegenüber Linienabteilungen; die Verantwortung für die Zielerreichung bleibt bei den Linien.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `Bgwp schredl.pdf` S. 7, 10 (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 7, 10](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=7>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
 
 ---
 
@@ -107,7 +107,7 @@ Stäbe sind spezialisierte Wissensträger, die Linieninstanzen beratend unterst�
 **Was kennzeichnet die Matrixorganisation und welche Vor- und Nachteile entstehen dabei?**
 ?
 Sie ist eine mehrdimensionale Organisationsstruktur, die Schnittstellen zwischen funktionalen Organisationsbereichen und Geschäftsbereichen als Matrix abbildet. Vorteile sind Entlastung der Unternehmensführung, flache Hierarchien, gezielte Teamarbeit und kurze Kommunikationswege; Nachteile sind hoher Koordinations- und Kommunikationsbedarf sowie fehlende Transparenz und Unsicherheiten.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `Bgwp schredl.pdf` S. 12 (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 12](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=12>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
 
 ---
 
@@ -115,7 +115,7 @@ Sie ist eine mehrdimensionale Organisationsstruktur, die Schnittstellen zwischen
 **Wie ist eine Entscheidungstabelle nach DIN 66241 aufgebaut und welche Regel gilt für den Bedingungsteil?**
 ?
 Eine Entscheidungstabelle gliedert sich in Bedingungen („wenn“, oben links), Regeln 1, 2, 3 … mit `J`/`N` (oben rechts), Aktionen („dann“, unten links) und Anzeiger mit `X` für zutreffende Aktionen (unten rechts). Im Bedingungsteil sind Bedingungskombinationen unzulässig — jede Bedingung muss in einer eigenen Zeile stehen.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `Bgwp schredl.pdf` S. 24–25 (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 24–25](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=24>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
 
 ---
 
@@ -125,4 +125,4 @@ Eine Entscheidungstabelle gliedert sich in Bedingungen („wenn“, oben links),
 - **Vorstand:** Oberstes Leitungsorgan (z. B. einer AG); legt die Unternehmensstrategie fest, trifft Grundsatzentscheidungen, genehmigt große IT-Investitionen und trägt die Gesamtverantwortung.
 - **IT-Management:** Leitet dauerhaft die IT-Abteilung, plant IT-Strategie, Budget, Personal und Dienstleister und überwacht SLAs sowie gesetzliche Vorgaben (z. B. Datenschutz).
 - **Projektleiter & Projektteam:** Setzen **zeitlich begrenzte, einmalige** IT-Vorhaben um (Projektleiter verantwortet Zeitplan, Budget und Ziele; Projektteam führt fachlich/technisch aus).
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 31–32 (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 31–32](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=31>) (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*

@@ -43,7 +43,7 @@ tags:
 ?
 - **Ereignis (passive Komponente):** Sechseck; beantwortet *„Was ist passiert?“* (betriebswirtschaftlicher Zustand, der eine Funktion auslöst oder ihr Ergebnis ist); Benennung: **Substantiv + Verb im Perfekt** (z. B. *„Bestellung ist eingegangen“*).
 - **Funktion (aktive Komponente):** abgerundetes Rechteck; beantwortet *„Was soll gemacht werden?“* (verbraucht Zeit/Ressourcen); Benennung: **Substantiv + Verb im Infinitiv** (z. B. *„Ware vorbereiten“*).
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 7, 9 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 7, 9](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=7>) (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 ---
 
 <!-- card-id: ereignisgesteuerte-prozessketten-epk-02 | typ: definition | pruefung: AP2 -->
@@ -52,7 +52,7 @@ tags:
 - Jede EPK **beginnt** mit mindestens einem Ereignis (oder Prozesswegweiser) und **endet** mit mindestens einem Ereignis (oder Prozesswegweiser) sowie enthält mindestens eine Funktion.
 - Ereignisse und Funktionen **wechseln sich streng ab** (niemals zwei Ereignisse oder zwei Funktionen direkt hintereinander).
 - Leserichtung/Kontrollfluss verläuft vertikal von **oben nach unten**; Ereignisse und Funktionen haben jeweils **genau eine Eingangs- und eine Ausgangslinie**.
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 8–9, 12 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 8–9, 12](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=8>) (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 ---
 
 <!-- card-id: ereignisgesteuerte-prozessketten-epk-03 | typ: abgrenzung | pruefung: AP2 -->
@@ -61,7 +61,7 @@ tags:
 - **UND (`∧`):** Alle verknüpften Pfade/Bedingungen müssen gleichzeitig zutreffen bzw. ausgeführt werden.
 - **ODER (`∨`):** Mindestens ein Pfad – also A, B oder beide – trifft zu (inklusives Oder).
 - **XOR (exklusives Oder):** Entweder nur A **oder** nur B trifft zu (genau eine Alternative).
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 7, 10 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 7, 10](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=7>) (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 ---
 
 <!-- card-id: ereignisgesteuerte-prozessketten-epk-04 | typ: pruefungsfalle | pruefung: AP2 -->
@@ -69,7 +69,7 @@ tags:
 ?
 **ODER- oder XOR-Verknüpfungsoperatoren, die eine Gabelung (Aufspaltung) darstellen, dürfen nicht direkt einem Ereignis folgen!**
 Begründung: Da ein Ereignis ein passiver Zustand ist, kann es keine Entscheidung treffen – Entscheidungen mit `ODER` oder `XOR` gehen immer von einer **Funktion** aus (Ausnahme: reine Parallelität über `UND` bzw. Zusammenführungen vor einer Funktion).
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 8, 13 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 8, 13](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=8>) (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*
 ---
 
 <!-- card-id: ereignisgesteuerte-prozessketten-epk-05 | typ: definition | pruefung: AP2 -->
@@ -79,7 +79,7 @@ Die eEPK erweitert die reine Ablauforganisation um **aufbauorganisatorische** un
 - **Organisationseinheit** (Oval mit Strich links): beantwortet *„Wer führt die Funktion aus?“* (Stelle, nicht Mitarbeiter).
 - **Informationsobjekt** (Rechteck mit zwei Strichen / Dokument): beantwortet *„Welche Daten/Dokumente werden benötigt oder erzeugt?“*.
 Beide dürfen **ausschließlich mit Funktionen** verbunden werden (nicht mit Ereignissen).
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 7–8, 11 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 7–8, 11](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=7>) (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 ---
 
 <!-- card-id: ereignisgesteuerte-prozessketten-epk-06 | typ: anwendung | pruefung: AP2 -->
@@ -88,4 +88,4 @@ Beide dürfen **ausschließlich mit Funktionen** verbunden werden (nicht mit Ere
 - **`IO → Funktion`:** Eingangsdatenfluss (**Lesen**) – die Funktion liest Daten aus dem Informationsobjekt.
 - **`IO ← Funktion`:** Ausgangsdatenfluss (**Schreiben**) – die Funktion schreibt/erzeugt Daten im Informationsobjekt.
 - **`IO ↔ Funktion`:** **Lesen – Schreiben** – Daten werden eingelesen, bearbeitet und zurückgeschrieben (z. B. beim Buchhaltungssystem).
-*Quelle: BGWP Betriebswirtschaft (2. LJ) · `BGWP mitschickt.pdf` S. 8, 16 (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 8, 16](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=8>) (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*

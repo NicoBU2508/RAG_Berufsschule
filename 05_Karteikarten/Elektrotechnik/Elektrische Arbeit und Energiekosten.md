@@ -39,7 +39,7 @@ tags:
 **Wie werden elektrische Arbeit $W_{el}$ und ihre Basiseinheit definiert und berechnet?**
 ?
 Elektrische Arbeit (Energie) ist das Produkt aus elektrischer Leistung $P_{el}$ und Betriebsdauer $t$: $W_{el} = P_{el} \cdot t = U \cdot I \cdot t$. Die Basiseinheit ist die Wattsekunde ($[W_{el}] = \text{V} \cdot \text{A} \cdot \text{s} = \text{Ws}$).
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 34 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 34](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=34>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -47,7 +47,7 @@ Elektrische Arbeit (Energie) ist das Produkt aus elektrischer Leistung $P_{el}$ 
 **Mit welcher Formel und in welchen Einheiten werden elektrische Energiekosten $K$ berechnet?**
 ?
 Die Energiekosten ergeben sich aus der elektrischen Arbeit in Kilowattstunden mal dem Stromtarif $T$: $K = W_{el} \cdot T$. Die Einheiten lauten $[K] = \text{kWh} \cdot \frac{\text{€}}{\text{kWh}} = \text{€}$.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 34 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 34](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=34>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -55,7 +55,7 @@ Die Energiekosten ergeben sich aus der elektrischen Arbeit in Kilowattstunden ma
 **Wie unterscheiden sich elektrische Leistung $P_{el}$ und elektrische Arbeit $W_{el}$ fachlich voneinander?**
 ?
 Die elektrische Leistung $P_{el} = U \cdot I$ (in $\text{W}$) beschreibt die momentane Energieaufnahme bzw. -umsetzung eines Verbrauchers. Die elektrische Arbeit $W_{el} = P_{el} \cdot t$ (in $\text{Wh}$ bzw. $\text{kWh}$) berücksichtigt zusätzlich die Betriebsdauer $t$ und bildet die Abrechnungsgröße für Energiekosten.
-*Quelle: ITT IT-Technik (2. LJ) · `20261005_145426.pdf` S. 16 (von 18) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [20261005_145426.pdf · S. 16](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf#page=16>) (von 18) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -63,7 +63,7 @@ Die elektrische Leistung $P_{el} = U \cdot I$ (in $\text{W}$) beschreibt die mom
 **Eine SPS-Komponente nimmt über ein Netzteil ($\eta = 80\,\%$) bei $P_{ab} = 0{,}51\text{ W}$ dauerhaft ($24\text{ h} \cdot 365\text{ Tage}$) Strom auf. Wie hoch sind Arbeit $W$ und Jahreskosten bei $0{,}38\text{ €/kWh}$?**
 ?
 Aufnahmeleistung des Netzteils: $P_{zu} = \frac{0{,}51\text{ W}}{0{,}80} = 0{,}64\text{ W}$. Jahresarbeit: $W = 0{,}64\text{ W} \cdot 24\text{ h/Tag} \cdot 365\text{ Tage} \approx 5\,606\text{ Wh} \approx 5{,}61\text{ kWh}$. Jahreskosten: $5{,}61\text{ kWh} \cdot 0{,}38\text{ €/kWh} = 2{,}13\text{ €}$.
-*Quelle: ITT IT-Technik (2. LJ) · `20261005_145426.pdf` S. 16 (von 18) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [20261005_145426.pdf · S. 16](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf#page=16>) (von 18) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -71,7 +71,7 @@ Aufnahmeleistung des Netzteils: $P_{zu} = \frac{0{,}51\text{ W}}{0{,}80} = 0{,}6
 **Welche Einheiten-Falle droht beim Berechnen von Energiekosten aus $P_{el}$ (in $\text{W}$), Zeitdauer $t$ (z. B. in Minuten) und Tarif $T$ (in $\text{ct/kWh}$)?**
 ?
 Für $K = W_{el} \cdot T$ müssen alle Größen zusammenpassen: Zeit $t$ immer in Stunden ($\text{h}$) umrechnen, Arbeit von $\text{Wh}$ in $\text{kWh}$ ($\div 1\,000$) wandeln und den Tarif von $\text{ct/kWh}$ in $\text{€/kWh}$ ($\div 100$) umrechnen.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 35, 46 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 35, 46](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=35>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -79,4 +79,4 @@ Für $K = W_{el} \cdot T$ müssen alle Größen zusammenpassen: Zeit $t$ immer i
 **Was ist bei der Jahresenergiekosten-Berechnung eines Geräts mit Standby-Modus gegenüber vollständigem Abschalten zu beachten?**
 ?
 Im Standby-Fall läuft das Gerät während der übrigen Tageszeit ($24\text{ h} - t_{\text{Betrieb}}$) mit seiner Standby-Leistung weiter; für die Gesamtkosten müssen die elektrische Arbeit des Betriebs und die des Standby-Zeitraums addiert werden.
-*Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 37, 54–55 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 37, 54–55](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=37>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*

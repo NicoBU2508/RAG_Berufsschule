@@ -2,13 +2,13 @@
 typ: karteikarten_deck
 thema: Datenbankmodellierung und ER-Modell
 kategorie: Anwendungsentwicklung
-pruefung: "AP1/AP2"
+pruefung: AP1/AP2
 thema_quelle: 03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankmodellierung
   und ER-Modell.md
-stand_karten: '2026-11-24'
-stand_quelle: '2026-11-24'
-quellseiten_anzahl: 34
-quellseiten_hash: b5a6c7b38472
+stand_karten: '2026-11-26'
+stand_quelle: '2026-11-26'
+quellseiten_anzahl: 35
+quellseiten_hash: bb2ed6f87d9c
 quellseiten:
 - 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift#page=14
 - 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift#page=15
@@ -43,6 +43,7 @@ quellseiten:
 - 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=6
 - 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=60
 - 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=61
+- 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=62
 - 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript#page=7
 rag_include: false
 canonical_evidence: false
@@ -53,7 +54,7 @@ tags:
 # 🗂️ Karteikarten: Datenbankmodellierung und ER-Modell
 
 > [!tip] Quellenbasis
-> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell|Datenbankmodellierung und ER-Modell]] (**34 visuell geprüfte Seiten**).
+> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell|Datenbankmodellierung und ER-Modell]] (**35 visuell geprüfte Seiten**).
 
 ---
 
@@ -61,7 +62,7 @@ tags:
 **Welche drei DBMS-unabhängigen Phasen durchläuft die Datenbankentwicklung vor der Umsetzung?**
 ?
 **1. Externe Phase:** Ermittlung des Informationsbedarfs der „Miniwelt“ (informelle Beschreibung). **2. Konzeptionelle Phase:** Erstellung des semantischen Modells (**ER-Modell**) als erste formale, grafische Gesamtsicht. **3. Logische Phase:** Überführung in ein relationales **Tabellenschema** inkl. Beziehungstypen und Normalisierung.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kis_Mitschrift.pdf` S. 7–8 (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 7–8](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=7>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -69,7 +70,7 @@ tags:
 **Wofür stehen die Begriffe Entitätstyp, Entität (Tupel) und Attribut im relationalen Tabellenmodell?**
 ?
 Der **Entitätstyp** bezeichnet die **Tabelle** (z. B. `fahrschueler`), jede einzelne **Entität** (Datensatz, Tupel) entspricht einer **Zeile** und jedes **Attribut** einer **Spalte** für genau eine Einzelinformation (z. B. `nachname`, `vorname`).
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kis_Mitschrift.pdf` S. 16 (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 16](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=16>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -77,7 +78,7 @@ Der **Entitätstyp** bezeichnet die **Tabelle** (z. B. `fahrschueler`), jede ein
 **Welche Aufgabe hat ein Primärschlüssel in einer Tabelle und welcher Datentyp wird dafür empfohlen?**
 ?
 Der **Primärschlüssel** ist ein Attribut, dessen Wert in allen Datensätzen der Tabelle nur **einmal** vorkommt und so jede Zeile **eindeutig identifiziert** (z. B. `schuelernr`). Als Datentyp wird **`INT`** (ganze Zahl) gewählt, bei dem keine maximale Zeichenanzahl nötig ist.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kis_Mitschrift.pdf` S. 17 (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 17](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=17>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -85,7 +86,7 @@ Der **Primärschlüssel** ist ein Attribut, dessen Wert in allen Datensätzen de
 **Wofür werden `INT`, `DOUBLE`, `VARCHAR(n)`, `DATE` und `TIME` eingesetzt und welche Schreibweisen gelten?**
 ?
 **`INT`** (4 B): ganze Zahlen; **`DOUBLE`** (8 B): Kommazahlen mit **Dezimalpunkt** (z. B. `17.99`); **`VARCHAR(n)`** (`n + 1` B): variable Zeichenketten bis `n` Zeichen; **`DATE`** (3 B): `YYYY-MM-DD`; **`TIME`** (3 B): `hh:mm:ss`.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kis_Mitschrift.pdf` S. 18 (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 18](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=18>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -93,7 +94,7 @@ Der **Primärschlüssel** ist ein Attribut, dessen Wert in allen Datensätzen de
 **Warum werden Tabellen in der logischen Phase normalisiert, statt wiederholte Werte (wie einen Wohnort) in jedem Datensatz zu speichern?**
 ?
 Die **Normalisierung eliminiert Redundanzen**: Mehrfachspeicherung erzeugt hohen Änderungsaufwand und führt bei Tippfehlern (z. B. „Führt“ statt „Fürth“) zu **Inkonsistenzen**, sodass betroffene Datensätze in Abfragen nicht mehr gefunden werden.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kis_Mitschrift.pdf` S. 8 (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 8](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=8>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -101,7 +102,7 @@ Die **Normalisierung eliminiert Redundanzen**: Mehrfachspeicherung erzeugt hohen
 **Wie unterscheiden sich externe und konzeptionelle Phase bei der Beschreibung realer und abstrakter Objekte?**
 ?
 Die **externe Phase** sammelt reale Objekte (z. B. Lehrer, Schüler) und abstrakte Objekte (z. B. Fächer, Noten) über Interviews und Dokumentenanalysen noch **informell**. Die **konzeptionelle Phase** überführt sie in ein **formales grafisches ER-Modell**, das ihre **Beziehungen** zueinander abbildet.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kislik.pdf` S. 6–7 (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 6–7](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=6>) (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
 
 ---
 
@@ -109,7 +110,7 @@ Die **externe Phase** sammelt reale Objekte (z. B. Lehrer, Schüler) und abstrak
 **Welche drei Grundelemente enthält ein ER-Diagramm (Chen-Notation) und mit welchen Symbolen werden sie dargestellt?**
 ?
 **Entitätsmenge** (Zusammenfassung gleicher Entitäten: Individuen, reale Objekte, abstrakte Konzepte oder Ereignisse) → **Rechteck**; **Attribut** (Eigenschaft einer Entitätsmenge oder einer Beziehung) → **Oval**; **Beziehung / Beziehungstyp** (Verbindung zwischen mindestens zwei Entitätsmengen) → **Raute**.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kislik.pdf` S. 58 (von 61) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 58](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=58>) (von 61) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
 
 ---
 
@@ -117,7 +118,7 @@ Die **externe Phase** sammelt reale Objekte (z. B. Lehrer, Schüler) und abstrak
 **Was gibt die Kardinalität im ER-Modell an und welche drei Typen unterscheidet man?**
 ?
 Die **Kardinalität** gibt wechselseitig (mit **zwei Angaben**) an, wie viele Entitäten eines Entitätstyps **höchstens** mit einer Entität des anderen Typs in Beziehung stehen: **`1:1`** (z. B. Schüler ↔ Jahreszeugnis), **`1:n`** (z. B. Schüler ↔ Hefter) und **`n:m`** (z. B. Schüler ↔ Schul-PC).
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kislik.pdf` S. 59 (von 61) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 59](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=59>) (von 61) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
 
 ---
 
@@ -125,7 +126,7 @@ Die **Kardinalität** gibt wechselseitig (mit **zwei Angaben**) an, wie viele En
 **Ein Projekt wird von genau einem Mitarbeiter geleitet, ein Mitarbeiter kann aber mehreren Projekten vorstehen. Wie wird das im ER-Diagramm modelliert?**
 ?
 Als **`1:n`-Beziehung** in Chen-Notation: **`[Mitarbeiter] — 1 — <leitet> — n — [Project]`** (Entitätsmengen als Rechtecke, `<leitet>` als Raute, zugehörige Attribute wie `Name`, `Datum`, `Budget` als Ovale).
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kislik.pdf` S. 60 (von 61) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 60](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=60>) (von 61) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
 
 ---
 
@@ -133,4 +134,12 @@ Als **`1:n`-Beziehung** in Chen-Notation: **`[Mitarbeiter] — 1 — <leitet> �
 **Wie wird eine Beziehung innerhalb derselben Entitätsmenge im ER-Diagramm dargestellt (z. B. ein Lehrer vertritt einen anderen Lehrer)?**
 ?
 Die **Entitätsmenge** (`Lehrer`) wird über **beide Kanten** mit derselben **Beziehungsraute** (`vertritt`) verbunden. Da ein Lehrer mehrere andere Lehrer vertreten und von mehreren vertreten werden kann, lautet die Kardinalität **`m:n`**.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_Kislik.pdf` S. 61 (von 61) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 61](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=61>) (von 61) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
+
+---
+
+<!-- card-id: datenbankmodellierung-und-er-modell-11 | typ: anwendung | pruefung: AP1/AP2 -->
+**Wo werden Attribute wie `Startdatum` und `Enddatum` einer Vertretung im ER-Modell (Chen-Notation) modelliert, und welche Kardinalität gilt für „Arzt vertritt Arzt“?**
+?
+Da `Startdatum` und `Enddatum` nicht einen Arzt dauerhaft beschreiben, sondern den konkreten **Vertretungsvorgang**, hängen die Attribute als **Ovale direkt an der Beziehungsraute `<vertritt>`**. Da sich Ärzte gegenseitig mehrfach vertreten können, bildet `<vertritt>` eine **rekursive `m:n`-Beziehung** am Entitätstyp `Arzt`.
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 62](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=62>) (von 62) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*

@@ -60,7 +60,7 @@ tags:
 **Worin unterscheidet sich die Variablenerstellung in Python von Programmiersprachen wie Java oder C?**
 ?
 In Python müssen Variablen vorab nicht deklariert werden und es muss kein Speicherplatz in einem festen Datentyp reserviert werden. Eine Variable wird automatisch in dem Moment erstellt, in dem ihr zum ersten Mal ein Wert zugewiesen wird.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `Mitschrift_AE_Eix.pdf` S. 14 (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [Mitschrift_AE_Eix.pdf · S. 14](<99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf#page=14>) (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -68,7 +68,7 @@ In Python müssen Variablen vorab nicht deklariert werden und es muss kein Speic
 **Welchen Datentyp liefert `input()` in Python immer zurück und was ist beim Einlesen von Zahlen zwingend zu beachten?**
 ?
 `input()` liest Eingaben immer als Zeichenkette (`str`) ein. Sollen Zahlenwerte verarbeitet werden, muss der Rückgabewert explizit umgewandelt werden (z. B. `int(input())` für Ganzzahlen).
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `Mitschrift_AE_Eix.pdf` S. 16 (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [Mitschrift_AE_Eix.pdf · S. 16](<99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf#page=16>) (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -76,7 +76,7 @@ In Python müssen Variablen vorab nicht deklariert werden und es muss kein Speic
 **Was besagt das EVA-Prinzip in der Programmierung und warum verstößt `print(a + b)` dagegen?**
 ?
 Jeder Informationsverarbeitungsprozess gliedert sich getrennt in **Eingabe** (z. B. `input()`), **Verarbeitung** (Berechnung in eine Variable) und **Ausgabe** (z. B. `print()`). Bei `print(a + b)` werden Verarbeitung und Ausgabe unzulässig vermischt.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `Mitschrift_AE_Eix.pdf` S. 17 (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [Mitschrift_AE_Eix.pdf · S. 17](<99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf#page=17>) (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -84,7 +84,7 @@ Jeder Informationsverarbeitungsprozess gliedert sich getrennt in **Eingabe** (z.
 **Wie unterscheiden sich implizites und explizites Casting in Python?**
 ?
 Beim **impliziten Casting** wandelt Python bei gemischten Datentypen das Ergebnis automatisch in den leistungsfähigeren Typ um (z. B. `int * float` ergibt `float`). Beim **expliziten Casting** (Type Cast) wird ein Zieltyp per Funktion erzwungen (z. B. `int(5 / 6)` ergibt `0`).
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `Mitschrift_AE_Eix.pdf` S. 19 (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [Mitschrift_AE_Eix.pdf · S. 19](<99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf#page=19>) (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -92,7 +92,7 @@ Beim **impliziten Casting** wandelt Python bei gemischten Datentypen das Ergebni
 **Warum führt `wahr = false` in Python zu einem `NameError`, und welchen Wert liefert `bool(0)`?**
 ?
 Boolesche Werte müssen in Python großgeschrieben werden (`True` bzw. `False`); kleingeschriebenes `false` wird als unbekannter Bezeichner interpretiert. `bool(0)` wird zum booleschen Wert `False` ausgewertet.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `Mitschrift_AE_Eix.pdf` S. 20 (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [Mitschrift_AE_Eix.pdf · S. 20](<99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf#page=20>) (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -100,4 +100,4 @@ Boolesche Werte müssen in Python großgeschrieben werden (`True` bzw. `False`);
 **Wozu dient die Abfrage `if __name__ == '__main__':` in einem Python-Modul?**
 ?
 Der eingerückte Codeblock wird nur ausgeführt, wenn die `.py`-Datei direkt gestartet wird (`__name__ == "__main__"`). Wird die Datei hingegen über `import` als Modul geladen, entspricht `__name__` dem Modulnamen und der Block läuft nicht automatisch.
-*Quelle: ITT IT-Technik (1. LJ) · `Grudausbildumg.pdf` S. 13 (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 13](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=13>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*

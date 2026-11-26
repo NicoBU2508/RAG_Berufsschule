@@ -58,7 +58,7 @@ tags:
 3. Vermittlungsschicht (Network → **Packets**)
 2. Sicherungsschicht (Data Link → **Frames**)
 1. Bitübertragungsschicht (Physical → **Bits**)
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 23–24 (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 23–24](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=23>) (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -67,7 +67,7 @@ tags:
 ?
 - **DoD-Modell:** OSI 5–7 → Anwendungsschicht (Process) · OSI 4 → Host-to-Host · OSI 3 → Internet · OSI 1–2 → Netzzugangsschicht (Network).
 - **Media-Layer (1–3):** Zuständig für die Datenübertragung zum Ziel; **Host-Layer (4–7):** Zuständig für die Zuordnung innerhalb eines PCs.
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 23–24 (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 23–24](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=23>) (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -75,7 +75,7 @@ tags:
 **Was bedeutet Data Encapsulation (Datenkapselung) im OSI-Modell, und in welcher Reihenfolge läuft sie bei Sender und Empfänger ab?**
 ?
 Beim Sender durchlaufen die Daten die Schichten **7 → 1**; jedes Protokoll hängt seine eigenen Steuerinfos als **Header** vorne (und ggf. **Trailer** hinten) an die für es unverständliche **SDU** an (zusammen **PDU**). Beim Empfänger werden die Schichten umgekehrt von **1 → 7** wieder entpackt.
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 17–18, 29 (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 17–18, 29](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=17>) (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -85,7 +85,7 @@ Beim Sender durchlaufen die Daten die Schichten **7 → 1**; jedes Protokoll hä
 - **Schicht 1 (Physical):** Hub, Kabel (Bits & elektrische/optische Signale)
 - **Schicht 2 (Data Link):** Switch, Bridge, WLAN-Access-Point (WAP); physische **MAC-Adresse** (Ethernet IEEE 802.3)
 - **Schicht 3 (Network):** Router; logische **IP-Adresse** und Routing
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 23–25 (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 23–25](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=23>) (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -94,7 +94,7 @@ Beim Sender durchlaufen die Daten die Schichten **7 → 1**; jedes Protokoll hä
 ?
 - **TCP:** Verbindungsorientiert und zuverlässig (3-Wege-Handshake, Empfangsbestätigung). **UDP:** Verbindungslos und unzuverlässig (z. B. Streaming, Broadcast/Multicast).
 - **Wichtige Ports (L5–7):** SSH `22`, SMTP `25`, DNS `53`, DHCP `67/68`, HTTP `80`, POP3 `110`, IMAP `143`/`993`, HTTPS `443`, FTP `20/21`.
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 24–25 (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 24–25](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=24>) (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -102,7 +102,7 @@ Beim Sender durchlaufen die Daten die Schichten **7 → 1**; jedes Protokoll hä
 **Wie ist ein Ethernet-II-Frame aufgebaut (Felder und Byte-Größen)?**
 ?
 Präambel (**7 B**) + SFD (**1 B**) + Empfänger-MAC (**6 B**) + Absender-MAC (**6 B**) + EtherType (**2 B**) + Payload/Daten (**46–1500 B**) + CRC/FCS-Prüfsumme (**4 B**). *(Im reinen Hexdump ohne Präambel/SFD: 14 B Header + Payload + 4 B FCS.)*
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 19–20 (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 19–20](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=19>) (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -111,7 +111,7 @@ Präambel (**7 B**) + SFD (**1 B**) + Empfänger-MAC (**6 B**) + Absender-MAC (*
 ?
 - **Fester Header:** Jede Schicht versteht nur ihren eigenen Header und muss exakt wissen, an welchem Byte-Offset welches Feld steht (nur der Datenbereich ist variabel).
 - **Anwendungsprogramme:** Endbenutzerprogramme wie Word oder Firefox gehören **nicht** zum OSI-Modell (umgangssprachlich „Schicht 8“).
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 21, 25 (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 21, 25](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=21>) (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -123,7 +123,7 @@ Präambel (**7 B**) + SFD (**1 B**) + Empfänger-MAC (**6 B**) + Absender-MAC (*
 - **CNAME (Canonical Name):** Definiert einen Alias auf einen anderen Domainnamen.
 - **MX (Mail Exchange):** Legt den zuständigen Mailserver (inkl. Priorität) für den E-Mail-Empfang fest.
 - **`nslookup`:** CLI-Tool zur DNS-Abfrage und -Diagnose (z. B. `nslookup -type=MX beispiel.de`).
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 34, 37 (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 34, 37](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=34>) (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -135,7 +135,7 @@ Präambel (**7 B**) + SFD (**1 B**) + Empfänger-MAC (**6 B**) + Absender-MAC (*
 3. **DHCPREQUEST** (Client → Server, Broadcast): Annahme des Angebots.
 4. **DHCPACK** (Server → Client, Unicast/Broadcast): Bestätigung und Zuweisung des **Lease**.
 - **Zugewiesene Konfiguration:** IP-Adresse, Subnetzmaske, Standardgateway und DNS-Server.
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 34, 36 (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 34, 36](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=34>) (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -146,7 +146,7 @@ Präambel (**7 B**) + SFD (**1 B**) + Empfänger-MAC (**6 B**) + Absender-MAC (*
 - **SMTP** (TCP `25`/`587`): Versenden vom Client (MUA → MTA) und Weiterleiten zwischen Mailservern (MTA → MTA).
 - **POP3** (TCP `110`/`995`): Abrufen vom Server; Nachrichten werden lokal heruntergeladen und standardmäßig auf dem Server gelöscht.
 - **IMAP4** (TCP `143`/`993`): Verwalten direkt auf dem Server; Ordner und Lesestatus bleiben über mehrere Endgeräte synchron.
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 35–36 (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 35–36](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=35>) (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -156,4 +156,4 @@ Präambel (**7 B**) + SFD (**1 B**) + Empfänger-MAC (**6 B**) + Absender-MAC (*
 - **HTTP/2:** Binäres Protokoll, **Multiplexing** (mehrere Anfragen/Antworten gleichzeitig über eine TCP-Verbindung ohne HTTP-Head-of-Line-Blocking), **HPACK**-Header-Komprimierung, **Server Push** und Stream-Priorisierung.
 - **SFTP vs. FTPS:** **SFTP** (SSH File Transfer Protocol) überträgt Dateien verschlüsselt über **SSH (Port 22)**; **FTPS** nutzt FTP mit **TLS/SSL**.
 - **SMB / CIFS:** Server Message Block / Common Internet File System – Protokolle für Datei-, Ordner- und Druckerfreigabe im lokalen Netzwerk (Windows und Linux via Samba).
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 37 (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 37](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=37>) (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*

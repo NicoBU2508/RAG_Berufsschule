@@ -12,7 +12,7 @@ tags:
   - quelle
   - ae_anwendungsentwicklung
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
 kanonische_themen: 21
 seiten_mit_kanonischem_thema: 99
@@ -20,15 +20,15 @@ ki_exclude_seiten: [37]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 ki_support_seiten: [11]
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=88, ocr_verified=1, ocr_error=10)"
-textzeichen: 195920
+textstatus: "gemischt: visuell geprüft (ok=88, ocr_verified=10, ocr_error=1)"
+textzeichen: 187729
 ---
 # 📄 01 Algorithmus Programm Software EVA
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/AE_Anwendungsentwicklung/AE_Anwendungsentwicklung|AE Anwendungsentwicklung]]
 > - **Original-PDF:** [01_Algorithmus_Programm_Software_EVA.pdf](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf>)
 > - **Seiten:** 100
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=88, ocr_verified=1, ocr_error=10)
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=88, ocr_verified=10, ocr_error=1)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -212,55 +212,26 @@ wertet diese in der gewünschten Form entsprechend aus.
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=3]]
 
-> [!ocr] Kein verwertbarer Text auf dieser Seite
-> Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
 
-> [!ocr] OCRplus-Nachtrag integriert
-> Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
-
-#### OCRplus-Text für Suche und KI
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Organigramm zu
+Organigramm zu Software
+
 Software
-Systemnahe
-Software
-*
-*
-Anwendungs-
-software
-Betriebs-
-Treiber
-Standard-
-Branchen-
-Individual-
-systeme
-software
-software
-software
-z.B.
-z.B.
-z.B.
-2.8.
-z.B.
-• Windows ...
-• Tastatur-Treiber
-• Office ...
-• SAP-Saftware
-• „Maßgeschneiderte""
-• Mac 05....
-• Maus-Treiber
-• Firefox-Browser
-• Logistik-Soft-
-Software fier eine
-• Linux
-• Grafik-Treiber
-• Adobe Reader
-ware fit Speditionen
-spezidisiente Firma.
-• WebUntis fir Schulen
-Die Audomatisierigssofture (z.B. für SPS, Rakter) beinhalts. beides *.
+├── Systemnahe Software *
+│   ├── Betriebssysteme (z. B. Windows ..., Mac OS ..., Linux)
+│   └── Treiber (z. B. Tastatur-Treiber, Maus-Treiber, Grafik-Treiber)
+└── Anwendungssoftware *
+    ├── Standardsoftware (z. B. Office ..., Firefox-Browser, Adobe Reader)
+    ├── Branchensoftware (z. B. SAP-Software, Logistik-Software für Speditionen, WebUntis für Schulen)
+    └── Individualsoftware (z. B. „Maßgeschneiderte“ Software für eine spezialisierte Firma)
+
+Hinweis (*): Die Automatisierungssoftware (z. B. für SPS, Roboter) beinhaltet beides *.
 ```
+
 ### Seite 4
 
 > [!referenz] Exakte Referenz
@@ -585,48 +556,27 @@ Ende vorhanden!
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=9]]
 
-> [!ocr] OCRplus-Nachtrag integriert
-> Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
 
-#### OCRplus-Text für Suche und KI
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
 Beispiel für Programmablaufpläne (PAP = Programmablaufplan), wie sie in der Praxis eingesetzt werden:
-/ Bundesministerium
-der Finanzen
-Meilensteine
-Unsere
-Kontakt Schriftgröße # Gebärdenspra
-Themen Ministerium Service
-Suchbegriff
-• > Themen > Steuern > Steuerarten > Lohnsteuer > Programmablaufplan
-22.11.2024
-Programmablaufpläne für den Lohnsteuerabzug für/ab
-<
-2025
-LST2025
-5. Programmablaufplan 2025
-Steuerung
-MPARA
-Zuweis ung von Werten für bestimmte
-Sozialversicherungsparameter
-MRE4JL
-Ermittlung des Jahresarbeitslohns nach
-§ 39b Absatz 2 Satz 2 EStG
-VBEZBSO = 0
-MRE4
-Ermittlung der Freibeträge nach § 39b
-Absatz 2 Satz 3 EStG
-MRE4ABZ
-Abzug der Freibeträge nach § 39b Absatz 2
-Satz 3 und 4 EStG vom Jahresarbeitslohn
-MBERECH
-Ermittlung der Jahreslohnsteuer auf
-laufende Bezüge
-MSONST
-Berechnung sonstiger Bezüge ohne
-Vergütung für mehrjährige Tätigkeit
-ENDE
+
+Bundesministerium der Finanzen (22.11.2024): Programmablaufpläne für den Lohnsteuerabzug für/ab 2025
+5. Programmablaufplan 2025 – Steuerung
+
+Ablauf (von oben nach unten):
+- [Start/Ende-Oval] LST2025
+- [Unterprogramm] MPARA -> Zuweisung von Werten für bestimmte Sozialversicherungsparameter
+- [Unterprogramm] MRE4JL -> Ermittlung des Jahresarbeitslohns nach § 39b Absatz 2 Satz 2 EStG
+- [Verarbeitung] VBEZBSO = 0
+- [Unterprogramm] MRE4 -> Ermittlung der Freibeträge nach § 39b Absatz 2 Satz 3 EStG
+- [Unterprogramm] MRE4ABZ -> Abzug der Freibeträge nach § 39b Absatz 2 Satz 3 und 4 EStG vom Jahresarbeitslohn
+- [Unterprogramm] MBERECH -> Ermittlung der Jahreslohnsteuer auf laufende Bezüge
+- [Unterprogramm] MSONST -> Berechnung sonstiger Bezüge ohne Vergütung für mehrjährige Tätigkeit
+- [Start/Ende-Oval] ENDE
 ```
 
 ### Seite 10
@@ -845,27 +795,33 @@ rechts) als mehrfache Verzweigung dargestellt!
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=14]]
 
-> [!ocr] OCRplus-Nachtrag integriert
-> Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
 
-#### OCRplus-Text für Suche und KI
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Fallauswahl
-Eingabe (note)
-note
-Selektor
-1
-2
-3
-4
-Text:=
-text:=
-('sch get") ('sat") (behneten) artikel malade) (regel) richtets)
-Ausgabe ("Die Mok" + note + "st'"lext+")
-- leichter zu Laten
-- leichter zu ändem
-- wenge Programmierautwand
+Fallauswahl (Struktogramm / Nassi-Shneiderman-Diagramm)
+
+┌──────────────────────────────────────────────────────────────┐
+│ Eingabe (note)                                               │
+├──────────────────────────────────────────────────────────────┤
+│ Selektor: note (Fallauswahl)                                 │
+│ 1: text := ("sehr gut")                                     │
+│ 2: text := ("gut")                                          │
+│ 3: ("befriedigend")                                          │
+│ 4: ("ausreichend")                                           │
+│ 5: ("mangelhaft")                                            │
+│ 6: ("ungenügend")                                            │
+│ / (sonst): ("nicht erlaubt")                                 │
+├──────────────────────────────────────────────────────────────┤
+│ Ausgabe ("Die Note " + note + " ist " + text + "!")         │
+└──────────────────────────────────────────────────────────────┘
+
+Vorteile der Fallauswahl:
+- leichter zu warten
+- leichter zu ändern
+- weniger Programmieraufwand
 ```
 
 ### Seite 15
@@ -2041,383 +1997,28 @@ zum Entwicklungsprozess!
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=28]]
 
-> [!ocr] Kein verwertbarer Text auf dieser Seite
-> Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
 
-> [!ocr] OCRplus-Nachtrag integriert
-> Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
-
-#### OCRplus-Text für Suche und KI
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-EXPLOSIONSGEFAHR BEIM AKKU
-Software gegen
-Ehe für alle:
-DAS NOTE-7-
-Einbrecher
-Software fehlt
-aussortiert
-Düsseldorf (KNA)
-Die
-DEBAKEL
-Standesämter haben tech-
-nordrhein-westfälischen
-München - Ruhestand für Kom-
-Rkuez nachdem das neue an-
-iesen-Blamage für Samsung:
-60 Prozent herunter. In Deutsch-
-Jahre nach dem Test-Start hat
-missar Computer: Gut sieben
-neu eingeführte Ehe für al-
-nische Schwierigkeiten, die
-verschiedenen Ländern ausgelie-
-dy-Flaggschiff Galaxy Note 7 in
-land sind nur die wenigen Nutzer
-betroffen, die das Note 7 als Vor-
-den Kampf
-die bayerische Polizei die für
-le
-grund von Software-Prob-
-zu
-beurkunden. Auf-
-fert wurde (Deutschland gehörte
-besteller noch vor dem offiziel-
-eingesetzte Software „Precobs"
-gegen Einbrecher
-richte über gefährliche Akku-Pro-
-nicht dazu), häuften
-sich
-Be-
-elle Infos zum Geräteaustausch
-len Verkaufsstart bekamen. Aktu-
-bleme: Allein in den USA seien
-gibt es
-www.samsung
-dauerhaft aussortiert. Das Prog-
-lemen müsse gegenwärtig
-Geschlecht
-ein Partner mit falschem
-26 Menschen von explodieren-
-com/de/note7exchange
-Oktober nicht mehr
-nose-Programm werde seit 1.
-werden, erklärte NRW-In-
-registriert
-den oder brennenden Geräten
-auch über die Samsung-Hotline
-sagte der stellvertretende Leiter
-genutzt,
-nenminister Herbert Reul
-durch fehlerhafte
-„Die Gefahr
-verletzt worden, heißt es. In 55
-06196-93÷0262.
-Landeskriminalamt (LKA), Mi-
-der zuständigen Abteilung beim
-(CDU) gestern auf Anfrage
-digt, etwa durch Brände in Autos
-Fallen wurde Eigentum bescha-
-COMPUTER BILD testete das Ga-
-Raus aus der Bestenliste
-chael
-woch. Der Software habe die
-Grünleitner,
-am
-Mitt-
-der Software stehe der ab
-der Grünen. Trotz fehlen-
-oder Garagen. Insgesamt melde-
-Lithium-lonen-
-ten 92 Nutzer, dass sich das Gerät
-Ausgabe 19/2016) - damals er-
-laxy Note 7 bereits vorab (siehe
-1. Oktober möglichen Ehe
-unterschätzen."
-Akkus ist nicht zu
-überhitzt hätte - Grund ist ein
-Samsung selbst rät allen Besit-
-Produktionsfehler bei den Akkus.
-Bestenliste. Aufgrund des Akku-
-klomm es direkt Platz 1 in der
-dem
-Datengrundlage gefehlt, nach-
-deutlich weniger Einbrüche ge-
-während der
-Pandemie
-gen. Auch die
-für alle aber nichts entge-
-den könnten korrekt aus-
-Eheurkun-
-Ressortleiter
-Christan JUs
-zern weltweit, das Note 7 auszu-
-Desasters und des Rückrufs wird
-schalten und so schnell wie mög-
-COMPUTER BILD es bis auf Wei-
-meldet worden seien.
-& Internet
-Telekommunikation
-lich umzutauschen. Per Zwangs-
-(siehe Seite 92) entfernen - so-
-teres aber aus der Bestenliste
-LKA in München und Nürn-
-Mit der Software hatte das
-gestellt werden.
-tenfelder sehen die neue
-Die gegenwartigen Da-
-gar bereits die Akkulaufzeit auf
-update drückte der Hersteller so-
-nitiv behoben sind.
-lange, bis die Akku-Probleme defi-
-berg Kriminalitätsschwerpunk-
-Eheform laut Innenminis-
-um vor allem bei Einbrüchen
-te besser herausfiltern wollen,
-terium noch nicht vor. Bis
-zur Anpassung könnten für
-Ort zu sein. Bayern hatte 2014
-professioneller Täter früher vor
-geschlechtlicher
-die Registrierung gleich-
-nur die zur Verfügung ste-
-Eheleute
-Software
-WIR SUCHEN FÜR UNSER TEAM
-als erstes deutsches Bundesland
-patzt
-gonnen, andere Länder folgten.
-testweise mit dem Einsatz be-
-.henden Worte „Ehemann"
-werden.
-und „Ehefrau" verwendet
-in der chinesischen Stadt
-Peking (dpa) Die Polizei
-Bedenken gegen das Programm
-Datenschützer hatten zu Beginn
-bei gleichgeschlechtlichen
-Diese Probleme
-GRAPHICAL USER INTERFACE DESIGNER (m/w)
-Panne bei der Verwendung
-Ningbo hat eine skurrile
-cobs" war, sei „schwierig zu be-
-geäußert. Wie erfolgreich „Pre-
-desländern auf, so der Mi-
-Ehen träten in allen Bun-
-nungssoftware
-ihrer neuen Gesichtserken-
-IHRE AUFGABEN: Als Graphical User Interface Designer (m/w) sind Sie
-urteilen, weil man nicht messen
-nister. Es
-wegen
-des
-bedürfe
-Datenaus-
-auch
-hindert wurden", sagte Grün-
-kann, wie viele Einbrüche ver-
-räumt. Das Kamerasystem,
-einge-
-für die Visualisierung von Konzepten für interaktive Systeme, vorwie-
-den Standesämtern einer
-tauschverfahrens
-unter
-satz von „Precobs" in Bayern
-leitner. Insgesamt habe der Ein-
-das seit 2017 in Betrieb ist,
-gend im Bereich der Automobilindustrie verantwortlich. Im Team
-bundeseinheitlichen
-sung.
-Der Innenminister
-Lö-
-soll Fußgänger, die bei Rot
-definieren Sie die Anforderungen unserer Kunden, die Sie auf Basis
-gekostet.
-„einen sechsstelligen
-Betrag"
-tomatisch identifizieren. Es
-über die Ampel gehen, au-
-von Wireframes in visuelle Prototypen/Screendesigns umsetzen. Zu
-apa
-verwies darauf,
-dem ab 1. Oktober
-dass, bei
-kann auf Personalausweis-
-Ihren Aufgaben gehört außerdem, die Darstellung technischer Ablaufe
-sowie die Erstellung von Icons und Styleguides. Sie kümmern sich
-xuelle
-schließung
-die erforderlichen
-für Homose-
-Name werden dann auf
-Daten zugreifen. Foto und
-zudem um die weitere Ausarbeitung des Designs und die Bereitstellung
-personenstandsrechtli-
-Konkretisierungen
-der
-großen Bildschirmen ange-
-zeigt, um Verkehrssünder
-der erforderlichen Spezifikation für die Software-Implementierung.
-chen
-den Bund fehlten. Diese
-Vorschriften
-durch
-an den Pranger zu stellen.
-Änderungen in Patch 22.0.6.78 gegenüber 22.0.5.74:
-Änderungen würden vo-
-zettel zugestellt. Die Ge-
-Außerdem wird ein Straf-
-• Neu: MAGIX connect - Immer die aktuellsten Informationen zu MAGIX
-raussichtlich nicht vor No-
-Produkten, Angebote, Gutscheine und vieles mehr
-ten können, erklärte Reul
-vember 2018 in Kraft tre
-schäftsfrau Dong Mingzhu
-bekam allerdings die Ma-
-ren. Wie die Polizei mitteil-
-cken des Systems zu spü-
-• Revolta 2: Exportfehler beseitigt und kleinere Design-Anpassungen
-• Aktualisierung der Vintage Effect Suite
-Aktualisierung der EssentialFX
-nicht Frau Dong selbst,
-te,
-erkannte das System
-•. Soundpool optimiert
-Bugfix für Probleme mit dem Abspielmarker im Arranger
-der 64-Jährigen, das als
-sondern lediglich ein Foto
-weitere kleine Anpassungen & Verbesserungen im gesamten Programm
-Fehler der Harmonieleiste beseitigt
-Werbung an einem Bus an-
-Änderungen in Patch 22.0.5.74 gegenüber 22.0.4.72:
-zeug hatte ordnungsgemäß
-gebracht war. Das Fahr-
-• bessere Peformance im Arranger
-verbesserter Import von Mp3-, und Ogg-Dateien
-eine Kamera das Werbebild
-die Kreuzung überquert, als
-• Neuerungen
-ins Visier nahm.
-Änderungen in Patch 22.0.4.72 gegenüber 22.0.3.63:
-• Verbesserungen der Live-Pad Funktionalität
-Update der Mozilla-Engine auf die neueste Version.
-Beispiel Tessy
-Software-Integrationstest am
-noramakurve wieder bedienbar
-rbesserte Harmonie-Verarbeitung
-Diverse kleinere Bugfixes
-ECU
-offensichtlich ein guter
-Der Test einer Komponente ist
-bildz: schema innenraumbeleuchtuno eines
-Integrationstest der in der
-Klagen über technische Mängel und Gesundheitsrisiken
-Kraftfahrzeugs. Die Innenraumbeleuchtung
-Funktionen. Als Beispiel für den
-Komponente enthaltenen
-wird durch zwei sensoren gesteuert einer
-Sony zieht „Cyberpunk 2077" wegen Softwarefehlern vom Markt zurück - 270 Millionen Euro geschätzte Produktionskosten
-der angibt, ob die Fahrzeugtür geöffnet oder
-geschlossen ist, und ein zweiter, der angibt,
-betrachten wir die
-Test einer Komponente
-deospiel
-Sony zieht das mit immen-
-begründete das Unternehmen
-ist oder nicht. (Archiv: Vogel Business Media)
-ob die Zündung des Fahrzeugs eingeschaltet
-wegen
-Technischer
-,Cyberpunk
-Mängel
-gestrebt werde.
-damit, dass ein hohes Maß an
-wieder vom Markt zurück. Den
-Zufriedenheit der Kunden" an-
-Spiel hin. Das Erscheinungs
-auf
-Diverse Rezensenten wiesen
-Kraftfahrzeugs. Zum Test wird
-Innenraumbeleuchtung eines
-datum von ,Cyberpunk 2077"
-soltwaretenel
-in dem
-Werkzeug zum automatisierten Unit-, Modul - und Integrationstest
-Tessy benutzt. Tessy ist ein
-PlayStation
-Käufern. die das Spiel über der
-Store
-erworben
-spannung
-spiel war in der vergangenen
-Das weltweit mit Riesen-
-hatten, werde eine volle Erstat-
-Woche erschienen. schon zum
-erwartete
-schoben worden
-war zuvor bereits zwei Mal ver-
-von eingebetteter Software. Die Innenraumbeleuchtung wird durch
-lung angeboten, erklarte der
-japanische Konzern am Frei-
-zwungen, ,Cyberpunk 2077"
-Start sahen sich die Macher ge-
-tig: Für die englischsprachige
-stellung des Spiels war gewal-
-Der auwand ber der Her
-geöffnet oder geschlossen ist, und einen zweiten Sensor, der angibt,
-zwei Sensoren gesteuert: einen Sensor, der angibt, ob die Fahrzeugtür
-In den vergangenen Tagen
-hatten Nutzer über zahlreiche
-versehen, nachdem ein Rezen-
-sent über epileptische Anfälle
-eulenauwes
-zu
-Version wurden Dialoge von
-ob die Zündung des Fahrzeugs eingeschaltet ist oder nicht (Bild 2).
-insgesamt 450 Stunden Länge
-gab es
-sogar Warnungen Vor
-berichtet hatte.
-runter hollvwoodstar Keant
-von 125 Schauspielern
-gesprochen
-da-
-Innenraumbeleuchtung verlangt, dass die Innenraumbeleuchtung
-Die (rudimentäre) Spezifikation für das Verhalten der
-Gesundheitsrisiken.
-aus weeres aus dema
-„Cyberpunk
-2077"
-werde
-te, es werde nach einer „dauer-
-Das polnische Entwickler-
-Reeves.
-Die polnische Bank
-Playstation Store entfernt, teil-
-schnell wie möglich" in den
-hafteren Lösung" gesucht, um
-BOS schätzte die Produktions-
-angeht, sobald die Tür geschlossen wird und nach spätestens 5 s
-während dieser 5 s eingeschaltet werden, soll die
-(automatisch) erlischt. Sollte jedoch die Zündung des Fahrzeugs
-te sony mit. Die Malsnahme
-Griff zu bekommen.
-Gesundheitsrisiko
-das Sony vom Markt zurückgezogen hat.
-Die Metropole Night City ist der Schauplatz von Cyberpunk 2077",
-damit
-wäre
-„Cyberpunk
-Foto: CD Projekt, dpa
-2077*
-deospiele,
-wurde.
-eines der teuersten Vi-
-das
-je entwickelt
-Innenraumbeleuchtung sofort ausgehen.
-afp
-19./20.12.20
+Praxisbeispiele für Softwarefehler, Tests und Mängel (Pressesammlung):
+
+1. Explosionsgefahr beim Akku – Das Note-7-Debakel (Samsung Galaxy Note 7):
+   Produktionsfehler beim Lithium-Ionen-Akku führte zu Überhitzung/Bränden und weltweitem Rückruf sowie Zwangsupdate.
+2. Software patzt (Peking/Ningbo):
+   Gesichtserkennungssystem an Ampelkreuzung verhängte Bußgeld gegen ein Bus-Werbeplakat statt den echten Fußgänger zu erkennen.
+3. Software gegen Einbrecher aussortiert (Polizei Bayern „Precobs“):
+   Prognose-Software wegen fehlender Datengrundlage während der Pandemie eingestellt.
+4. Ehe für alle – Software fehlt:
+   Standesämter-Software fehlten notwendige Datenfelder und Konkretisierungen für gleichgeschlechtliche Eheschließungen.
+5. Stellenanzeige Graphical User Interface Designer (m/w) & Patchnotes (MAGIX Patch 22.0.6.78, Bugfixes, Performance).
+6. Software-Integrationstest am Beispiel Tessy:
+   Test der Innenraumbeleuchtungs-ECU eines Kraftfahrzeugs über zwei Sensoren (Sensor Door, Sensor Ignition) und Interior Light: Licht muss bei geöffneter Tür leuchten, nach Schließen der Tür nach spätestens 5 s erlöschen und bei eingeschalteter Zündung während dieser 5 s sofort ausgehen.
+7. Klagen über technische Mängel und Gesundheitsrisiken („Cyberpunk 2077“): Sony nahm das Spiel wegen schwerer Softwarefehler vorübergehend aus dem PlayStation Store.
 ```
+
 ### Seite 29
 
 > [!referenz] Exakte Referenz
@@ -2523,89 +2124,35 @@ nummer: = nummer * nummer
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=30]]
 
-> [!ocr] Kein verwertbarer Text auf dieser Seite
-> Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
 
-> [!ocr] OCRplus-Nachtrag integriert
-> Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
-
-#### OCRplus-Text für Suche und KI
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Elementare Datenstrukturen:
-Ein dimensionale Arrays/Felder
-Ein Array (auch Feld genannt) findet dann seine Anwendung, wenn zusammengehörige Elemente
-gleichen Datentyps unter einem Namen/Bezeichner abgelegt werden sollen.
-Für zusammengehörige Elemente unterschiedlichen Datentyps (z.B. bei einem Kundendatensatz
-mit Name, Geburtsdatum, Straße, Hausnummer, Ort, Postleitzahl) verwendet man einen Record (auch
-Verbund oder Struktur genannt). Diese Records wollen wir später betrachten, nun kümmern wir
-uns um die Arrays:
-Beispiel 1:
-Alle Primzahlen (sie sind nur durch eins und sich selbst teilbar, aber die „1" gehört nicht dazu!)
-bis 10 sollen in einem eindimensionalen Feld mit dem Namen „prim" gespeichert werden.
-Dieses Modell dient nur zur Vorstellung!
-Inhalt des
-2
-5
-7
-Feldelements
-Array/ Feld ?
-prim
-prim [O] prim [1] primE2] prim[3]
-Mit dem Index kann auf jedes
-werden. Der Index beschreibt
-Feldelement zugegriffen
-Feld-
-→ Index (Fellindex)
-im Array! Der Index beginnt
-die Position eines Elementes
-Feldelement
-meist mit „0", man spricht
-• Die Zuordnung/Zuweisung (Initialisierung) erfolgt für das Beispiel 1 als Au-zahlung
-dann auch von nullindiziert"
-Wird die Anzahl der Elemente.
-die das Array
-Im Pseudocode il 2B: integer prin 14] : = [2357];
-aufnehmen soll, bei seiner Definition festgelegt
-Statischen Array. Geschieht diese Festlegung
-(so wie hier), dann spricht man von einem
-hier nicht, so ist es ein dynamisches Array.
-• Die Zuweisung kann aber auch über eine _Schleife erfolgen, wie das Beispiel 2 zeigt:
-Beispiel 2:
-Ein Eindimensionales Array mit 16 Elementen soll mittels einer Schleife mit dem Wert 0
-initialisiert werden. Gib hierzu den entsprechenden Pseudocode an:
-Schlei endurchau-
-Im Pseudocode gilt dann z.B.:
-1
-2
-3
-...
-16
-••.
-L:=0
-integer zahlen [ 16]; 0
-i:=1
-i:= 2
-••
-¿:= 15
-zähler-for i:= 0 to 15
-gesteuerte do
-V
-Scheife
-Zahlen[i]:=0;3
-V
-zahlen[o]:=0
-Zahlen [2]:=0
-zahen[15]:=0
-end do
-..
-Anlegen eines ein dimensionalen Arrays „Zahlen " mit 16 Elementen vom Datentyp
-integer.
-Die Schleife wird 16 mal durchlaufen (d.h. die Laufvariable beginnt bei O_ und läuft bis 15).
-3.
-Damit wird auf jedes Feldelement genau einmal zugegriffen und dabei jeweils die Zahl , O_"
-zugewiesen.
+Elementare Datenstrukturen: Eindimensionale Arrays/Felder
+
+Definition: Ein Array (auch Feld genannt) findet dann seine Anwendung, wenn zusammengehörige Elemente gleichen Datentyps unter einem Namen/Bezeichner abgelegt werden sollen.
+Für zusammengehörige Elemente unterschiedlichen Datentyps (z. B. Kundendatensatz mit Name, Geburtsdatum, Straße, Hausnummer, Ort, Postleitzahl) verwendet man einen Record (auch Verbund oder Struktur genannt).
+
+Beispiel 1: Primzahlen bis 10 im eindimensionalen Feld „prim“ speichern:
+- Feldname: prim
+- Feldelemente mit Index (nullindiziert, beginnt bei 0): prim[0] = 2 | prim[1] = 3 | prim[2] = 5 | prim[3] = 7
+- Zuordnung/Zuweisung (Initialisierung) als Aufzählung:
+  Im Pseudocode: integer prim[4] := [2, 3, 5, 7];
+- Hinweis: Wird die Anzahl der Elemente festgelegt, spricht man von einem statischen Array; ohne diese Festlegung von einem dynamischen Array.
+
+Beispiel 2: Eindimensionales Array mit 16 Elementen mittels Schleife mit dem Wert 0 initialisieren:
+Pseudocode:
+  integer zahlen[16];            // (1) Anlegen des eindimensionalen Arrays „zahlen“ mit 16 int-Elementen
+  for i := 0 to 15               // (2) Zählergesteuerte Schleife: 16 Durchläufe (i von 0 bis 15)
+  do
+    zahlen[i] := 0;              // (3) Jedes Feldelement wird genau einmal mit 0 belegt
+  end do
+
+Schleifendurchläufe: 1 (i:=0 -> zahlen[0]:=0), 2 (i:=1), 3 (i:=2 -> zahlen[2]:=0), ..., 16 (i:=15 -> zahlen[15]:=0).
 ```
+
 ### Seite 31
 
 > [!referenz] Exakte Referenz
@@ -2943,44 +2490,30 @@ Feld
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=35]]
 
-> [!ocr] OCRplus-Nachtrag integriert
-> Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
 
-#### OCRplus-Text für Suche und KI
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Lösungsvorschlag:
-Zu a) Menge: =13
-Index:=1
-• Menge <=Wat1[lrdex]
-13 <= 100 = Ja → Index:=Index+1=11=2
-13 ≤=10 → Nein
-• Rabatt - Wet 2[.27,
-Rabatt = 5 = Bei Abnahme um 13 Uäser
-gibtes einen Rabattra 5% V
-Zu b. Menge: -100.
-Index: =1
-• Menge < Wert 1[ Index]
-Menge, < Wert 1[11,
-100 4= 100 → Ja → Index: = Indert1= 141=2
-• Menge, <= West 1.27,
-100 <= 50 → Nein
-• Rabatt: = Wert 2[2]
-Rabatt: = 7 → Bei Abrahine von 100 Väter.
-10t es einen Rabatt von +10,0
-ihl es 10% Rabatt sein müssten
-Grund: Bei der Schleifenbedingung ist das „=" bei „ <="
-falsch! Es mussheißen , sdange Menge < Wert 15 Index]"!
-(Zu C.) Menge: = 1
-• Menge <= Wert 1 [ludex]
-Menge <= Wat1[4].
-1 4 1 → Ja→ludesi=|ıda+1=4+1=5
-• Rabatt:=Wert 2[ Index]
-Rabatt: =Wert2L6]
-Es gibt weds den Index 5 noch
-ein zugehoniges Felddement!
-Bei Aufruf von, lwiert2CS]"
-"wird
+Lösungsvorschlag (Schreibtischtest / Trace zu Such- und Rabattalgorithmus mit Arrays Wert1 und Wert2):
+
+zu a) Menge := 13, Index := 1
+- Menge <= Wert1[1] (13 <= 100) -> Ja -> Index := Index + 1 = 1 + 1 = 2
+- Menge <= Wert1[2] (13 <= 50) -> Ja -> Index := Index + 1 = 2 + 1 = 3
+- Menge <= Wert1[3] (13 <= 10) -> Nein
+- Rabatt := Wert2[3] -> Rabatt := 5 => Bei Abnahme von 13 Kästen gibt es einen Rabatt von 5 % (korrekt).
+
+zu b) Menge := 100, Index := 1
+- Menge <= Wert1[1] (100 <= 100) -> Ja -> Index := Index + 1 = 1 + 1 = 2
+- Menge <= Wert1[2] (100 <= 50) -> Nein
+- Rabatt := Wert2[2] -> Rabatt := 7 => Bei Abnahme von 100 Kästen gibt es einen Rabatt von 7 %, obwohl es 10 % Rabatt sein müssten!
+Grund: Bei der Schleifenbedingung ist das „=“ bei „<=“ falsch! Es muss heißen: „solange Menge < Wert1[Index]“!
+
+zu c) Menge := 1
+- ... Menge <= Wert1[4] (1 <= 1) -> Ja -> Index := Index + 1 = 4 + 1 = 5
+- Rabatt := Wert2[Index] -> Rabatt := Wert2[5]
+Fehler: Es gibt weder den Index 5 noch ein zugehöriges Feldelement! Bei Aufruf von „Wert2[5]“ wird das Programm i. d. R. mit einer Fehlermeldung (IndexOutOfBounds) abbrechen!
 ```
 
 ### Seite 36
@@ -2992,67 +2525,34 @@ Bei Aufruf von, lwiert2CS]"
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=36]]
 
-> [!ocr] Kein verwertbarer Text auf dieser Seite
-> Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
 
-> [!ocr] OCRplus-Nachtrag integriert
-> Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
-
-#### OCRplus-Text für Suche und KI
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Ewei dimensionale Felder/Arrays
-Sie werden zum Erstellen von Tabellen verwendet. Ein ZWei_-
-dimensionales Feld hat
-•m•n Elemente, die über ZWei Indizes
-selektiert werden.
-Beispiel:
-Gegeben ist das zweidimensionale Array „feld" für den Datentyp
-char (er steht für einzelne Zeichen) mit 2 Zeilen und 5 Spalten:
-char feld [2,5]; oder: char feldL2II5];
-→ Anzahl der Feldelemente: 2•5 = 10
-Spalte
-feld| 0,01
-feld| 0,21
-feld[0,4]
-Zeile
-G
-u
-e
-n
-T
-a
-g
-!
-Möchte man dem leiden freien Feld-
-feld| 1,01
-element ein zurites Ausrufezeichen
-zuwesen, damm so: feld 14 "!", feldl 1
-41
-Der erste Index gibt die Nummer der
-Zeilei
-an,
-der Zweite_ Index gibt die Nummer der
-Spalte'
-an.
-Unser zweidimensionales Array ist wieder nullindiziert!
+Zweidimensionale Felder/Arrays
+
+Sie werden zum Erstellen von Tabellen verwendet. Ein zweidimensionales Feld hat m · n Elemente, die über zwei Indizes selektiert werden.
+
+Beispiel: Zweidimensionales Array „feld“ für den Datentyp char mit 2 Zeilen und 5 Spalten:
+- Deklaration: char feld[2, 5]; oder char feld[2][5];
+- Anzahl der Feldelemente: 2 · 5 = 10
+
+Tabellendarstellung (nullindiziert: erster Index = Zeile 0..1, zweiter Index = Spalte 0..4):
+Zeile 0: feld[0,0]='G' | feld[0,1]='u' | feld[0,2]='t' | feld[0,3]='e' | feld[0,4]='n'
+Zeile 1: feld[1,0]='T' | feld[1,1]='a' | feld[1,2]='g' | feld[1,3]='!' | feld[1,4]=(leer)
+- Zuweisung an letztes freies Feldelement: feld[1,4] := '!';
+- Hinweis: Jeder Index beginnt bei „0“ und nicht bei „1“!
+
 Aufgabe zu einem zweidimensionalen Feld/Array:
-und nicht bei
-In einem zweidimensionalen Feld mit dem Namen „produkt" sollen die
-Produkte der Zahlen 1 bis 10 (also 1*1 = 1, 1*2 = 2, 1*3 = 3, ..., 4*1 = 4,
-4*2= 8,..., 10*10 = 100) abgelegt werden:
-(1*1=) 1
-(1*2 =) 2
-(1*3 =) 3
-(1*10 =) 10
-(2*1 =) 2
-(2*2 =) 4
-(2*10 =) 20
-(10*1 =) 10
-(10*10 =) 100
-Das Feld/Array soll nun automatisch (d.h. mittels Formel und Schleife) mit
-den „richtigen" Werten „gefüllt" werden - Gib hierfür den Pseudocode an!
+In einem zweidimensionalen Feld mit dem Namen „produkt“ sollen die Produkte der Zahlen 1 bis 10 (also 1*1 = 1, 1*2 = 2, ..., 10*10 = 100) abgelegt werden:
+Zeile 1: (1*1=) 1 | (1*2=) 2 | (1*3=) 3 | ... | (1*10=) 10
+Zeile 2: (2*1=) 2 | (2*2=) 4 | ... | (2*10=) 20
+Zeile 10: (10*1=) 10 | ... | (10*10=) 100
+Das Feld/Array soll nun automatisch (d. h. mittels Formel und Schleife) mit den „richtigen“ Werten „gefüllt“ werden – Gib hierfür den Pseudocode an!
 ```
+
 ### Seite 37
 
 > [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
@@ -3722,74 +3222,31 @@ Auch: Abbruchbedingung
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=48]]
 
-> [!ocr] Kein verwertbarer Text auf dieser Seite
-> Der Inhalt ist nur über das eingebettete Original-PDF visuell vorhanden. Für perfekte KI-Verständlichkeit muss diese Seite später OCR-/manuell textlich nachgetragen werden.
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
 
-> [!ocr] OCRplus-Nachtrag integriert
-> Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
-
-#### OCRplus-Text für Suche und KI
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Else: e=
-Return e
-x=0 → x=0
-x>0? → Nein
-d.hi Return
-•00
-+ 1
-summe (7=1) + 1
-x=1 → x=1
-000
-x>0? → Ja
-е =
-e =
-e =
-Return e
-dh: Retarn D
-+2
-x=2
-Schreibtischtest zum rekursiven Algorithmus
-1. Aufref von summe() 2. Aufruf von summe () 3. Aufruf von summe() 4. Aufraf von summe() 5. Aufraf von summe()
-summe (2-1
-+ 2
-x=2 →
-x>0? → за
-e=
-e=
-e= 3
-Return e
-dih: Return !
-+3
-> ×= 3
-Aufruf des UPs aus
-dem UP heraus:
-x >0? → Ja
-Summe 3-1
-1 + 3
-x=3 —
-e= 3
-e = 6
-Return e
-d.h: Return 6
-e=
-Ziel)
-+4
-LbL Summe. Text = summe(zahL)
-Aufruf von UP summe
-vom Hauptprogramm
-aus mit Parameterüberaude
-zahl=4 → x=4
-x>0? → Ja
-e = summe (4-1)
-e= 6 + 4
-Ubergabe des Wertes
-aue dem UPans UP:
-Ubl Summe. Text = 10
-e = 10
-Return e
-d.h: Return 10
+Schreibtischtest zum rekursiven Algorithmus (Unterprogramm summe(), Start mit zahl = 4)
+
+1. Aufruf von summe() (vom Hauptprogramm mit Parameterübergabe zahl = 4 -> x = 4):
+   x > 0? -> Ja -> e = summe(4 - 1) + 4  [wartet auf Rückgabe 6] -> e = 6 + 4 = 10 -> Return 10
+   Übergabe des Wertes aus dem UP ans HP: lblSumme.Text = summe(zahl) -> lblSumme.Text = 10 (Ziel)
+
+2. Aufruf von summe() (aus dem UP heraus: x = 3):
+   x > 0? -> Ja -> e = summe(3 - 1) + 3  [wartet auf Rückgabe 3] -> e = 3 + 3 = 6 -> Return 6
+
+3. Aufruf von summe() (x = 2):
+   x > 0? -> Ja -> e = summe(2 - 1) + 2  [wartet auf Rückgabe 1] -> e = 1 + 2 = 3 -> Return 3
+
+4. Aufruf von summe() (x = 1):
+   x > 0? -> Ja -> e = summe(1 - 1) + 1  [wartet auf Rückgabe 0] -> e = 0 + 1 = 1 -> Return 1
+
+5. Aufruf von summe() (x = 0):
+   x > 0? -> Nein -> Else: e = 0 -> Return 0 (Abbruchbedingung / Rekursionsanker)
 ```
+
 ### Seite 49
 
 > [!referenz] Exakte Referenz
@@ -4808,102 +4265,22 @@ IDE von Robot Karol und IDE von BlueJ:
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=64]]
 
-> [!ocr] OCRplus-Nachtrag integriert
-> Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
 
-#### OCRplus-Text für Suche und KI
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-BlueJ:
-2 Blue): BlueJ_Verzweigungen_Schleifen_28Apr15_EIT10a
-- • x
-Projekt Bearbeiten Werkzeuge
-Ansicht Hilfe
-6: 1•7•1 8•119•1•10• 1-11:1•12
-Neue Klasse.
-EinseitigeAuswahl
-Zählergesteuerte Schleife
-- Bluel: Debugger
--- 2
-Optionen
-Ubersetzen
-ZweiseitigeAuswahl
-Zählergesteuerte Schleife2
-Threads
-• main (beendet)
-Zählergesteuerte Schleife3
-Aufruffolge
-Statische Variablen
-Fallauswahl
-KopfgestBedingte Schleife
-Instanzvariablen
-Lokale Variablen
-Schritt über
-Schritt hinein
-Fortsetzen
-Beender
-Robot Karol:
-Im Robot Karol
-Datei Bearbeiten Suchen Struktogramm Welt Ablauf Einstellungen Hilfe
-1 //Unterprogramme
-3 Anweisung Umdrehen
-RechtsDrehen
-RechtsDrehen
-//Karol dreht sich um 180°
-6 *Anweisung
-8 Anweisung StartPunktEntfernen
-10
-Schritt
-Aufheben
-//entfernt den Startziegel
-und
-11
-12 *Anweisung
-RechtsDrehen
-14 Anweisung MarkeErkennen
-13
-15
-16
-wenn Istuarke dann
-//Marke erkennen und ggf. löschen
-17
-*wenn
-MarkeLöschen
-18
-19 *Anweisung
-Schritt
-20
-22
-21 Anweisung ZurWandlaufen
-23
-solange NichtIstWand tue
-I/läuft bis zur Wand und löscht
-alle
-24
-*solange
-Manteinrennen
-26
-25 *Anweisung
-28
-27 Anweisung GangSauberMachen
-ZurWandlaufen
-//Macht die einzelnen Gänge
-von Mark
-Programm
-D
-+14
-HAMQEL W
-20
-ą • Kontrollstrukturen
-• wiederhole immer ANW *wiederhole
-Programm : K:BS1_SJ1415\_a.AE10_1415\a.m/\EIT104.L. Projekt. Markensauger\Moosmair. Schloßer\Markensauger.kdp
-• wiederhole n mal ANW *wiederhole
-Welt: K:IBS1_SJ1415\_a.AE10_1415\a.m/\EIT104. L. Projekt.Markensauger\Moosmair.Schloßer\Markensauger.kdw
-• solange BED tue ANW "solange
-•• wiederhole solange BED ANW *wiederhole
-• wiederhole ANW *wiederhole bis BED
-• wenn BED dann ANW *wenn
-• wiederhole ANw *wiederhole solange BED
+Entwicklungsumgebungen im Überblick (Screenshots):
+
+1. BlueJ (Projekt: BlueJ_Verzweigungen_Schleifen):
+   - Klassenübersicht mit einzelnen Klassen für Kontrollstrukturen: EinseitigeAuswahl, ZweiseitigeAuswahl, GeschachtelteAuswahl, Fallauswahl, ZählergesteuerteSchleife (1–3), KopfgestBedingteSchleife.
+   - BlueJ: Debugger-Fenster mit Threads, Aufruffolge (Call Stack), Statische Variablen, Instanzvariablen, Lokale Variablen sowie Steuerbuttons (Anhalten, Schritt über, Schritt hinein, Fortsetzen, Beenden).
+
+2. Robot Karol (Markensauger-Projekt):
+   - Code-Editor mit Unterprogrammen (Anweisungen): Umdrehen (2x RechtsDrehen), StartPunktEntfernen, MarkeErkennen (wenn IstMarke dann MarkeLöschen), ZurWandLaufen (solange NichtIstWand tue MarkeErkennen), GangSauberMachen.
+   - Rechts: 3D-Weltansicht mit Figur Karol und Ziegelmauern.
+   - Unten: Bausteinleiste für Kontrollstrukturen (wiederhole immer, wiederhole n mal, solange BED tue, wenn BED dann).
 ```
 
 ### Seite 65

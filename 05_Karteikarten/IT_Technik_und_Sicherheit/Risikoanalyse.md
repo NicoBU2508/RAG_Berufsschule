@@ -36,7 +36,7 @@ tags:
 **Für welche drei Gruppen von Zielobjekten sollte im Rahmen der IT-Grundschutz-Standard-Absicherung eine Risikoanalyse erfolgen?**
 ?
 Eine Risikoanalyse ist erforderlich für Zielobjekte, die in mindestens einem der drei Grundwerte (Vertraulichkeit, Integrität, Verfügbarkeit) einen **hohen oder sehr hohen Schutzbedarf** haben, für die **kein passender IT-Grundschutz-Baustein** existiert oder die in **untypischen Einsatzszenarien** betrieben werden.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 48 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 48](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=48>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -44,7 +44,7 @@ Eine Risikoanalyse ist erforderlich für Zielobjekte, die in mindestens einem de
 **Wie erstellt man im ersten Schritt der Risikoanalyse eine Gefährdungsübersicht (mit vs. ohne passenden Baustein)?**
 ?
 Gibt es keinen Baustein, prüft man die vollständige Liste der 47 elementaren Gefährdungen auf Relevanz. Existiert ein Baustein, nutzt man dessen referenzierte elementare Gefährdungen und prüft zusätzlich, ob weitere oder betriebsspezifische Gefährdungen nennenswerten Schaden verursachen können.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 50 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 50](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=50>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -52,7 +52,7 @@ Gibt es keinen Baustein, prüft man die vollständige Liste der 47 elementaren G
 **Aus welchen zwei Faktoren wird die Risikohöhe bestimmt und warum nutzt man dafür qualitative Kategorien statt exakter Zahlen?**
 ?
 Die Risikohöhe ergibt sich aus **Eintrittshäufigkeit** und **drohender Schadenshöhe**. Da verlässliche quantitative Statistiken für Sicherheitsvorfälle kaum vorliegen, empfiehlt sich eine qualitative Bewertung in vier Stufen (Häufigkeit: selten–sehr häufig; Schaden: vernachlässigbar–existenzbedrohend) mithilfe einer Risikomatrix.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 51 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 51](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=51>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -63,7 +63,7 @@ Die Risikohöhe ergibt sich aus **Eintrittshäufigkeit** und **drohender Schaden
 - **Risikoreduktion (Risikomodifikation):** Verringerung durch zusätzliche, höherwertige Maßnahmen
 - **Risikotransfer:** Verlagerung auf Dritte (z. B. Versicherung oder Outsourcing mit klarer Vertragsgestaltung)
 - **Risikoakzeptanz:** Übernahme des verbleibenden Restrisikos
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 55 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 55](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=55>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -71,7 +71,7 @@ Die Risikohöhe ergibt sich aus **Eintrittshäufigkeit** und **drohender Schaden
 **Unter welcher Voraussetzung darf ein Risiko akzeptiert werden und was bedeutet „Risiken unter Beobachtung“?**
 ?
 Ein Risiko darf nur akzeptiert werden, wenn das Restrisiko den festgelegten Risikoakzeptanzkriterien entspricht und von der Institution getragen werden kann. Risiken unter Beobachtung werden vorübergehend akzeptiert, aber regelmäßig überprüft, um bei steigender Gefährdungslage vorbereitete Maßnahmen rasch einzusetzen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 55 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 55](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=55>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -79,4 +79,4 @@ Ein Risiko darf nur akzeptiert werden, wenn das Restrisiko den festgelegten Risi
 **Was geschieht im abschließenden Schritt der Risikoanalyse, der „Konsolidierung des Sicherheitskonzepts“?**
 ?
 Die beschlossenen zusätzlichen Sicherheitsmaßnahmen werden in das vorhandene Sicherheitskonzept integriert. Dabei prüft man Eignung, Angemessenheit, Benutzerfreundlichkeit und das Zusammenwirken mit bestehenden Maßnahmen, was zu Anpassungen führen kann.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 57 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 57](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=57>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*

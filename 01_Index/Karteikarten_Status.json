@@ -8,11 +8,11 @@
     "decks_update_noetig": 0,
     "topics_ohne_deck": 0,
     "verwaiste_decks": 0,
-    "cards_total": 877,
-    "ap1_focus_cards": 482,
+    "cards_total": 878,
+    "ap1_focus_cards": 483,
     "cards_by_exam": {
       "AP1": 277,
-      "AP1/AP2": 205,
+      "AP1/AP2": 206,
       "AP2": 220,
       "BS": 175
     }
@@ -103,12 +103,12 @@
       "pruefung": "AP1/AP2",
       "deck_path": "05_Karteikarten/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell.md",
-      "karten_anzahl": 10,
-      "quellseiten_anzahl": 34,
-      "stand_karten": "2026-11-24",
+      "karten_anzahl": 11,
+      "quellseiten_anzahl": 35,
+      "stand_karten": "2026-11-26",
       "stand_quelle": "2026-11-26",
-      "quellseiten_hash_aktuell": "b5a6c7b38472",
-      "quellseiten_hash_deck": "b5a6c7b38472",
+      "quellseiten_hash_aktuell": "bb2ed6f87d9c",
+      "quellseiten_hash_deck": "bb2ed6f87d9c",
       "neue_seiten": [
 
       ],
@@ -142,11 +142,11 @@
       "deck_path": "05_Karteikarten/Anwendungsentwicklung/Entwicklungswerkzeuge und Debugging.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Entwicklungswerkzeuge und Debugging.md",
       "karten_anzahl": 6,
-      "quellseiten_anzahl": 76,
-      "stand_karten": "2026-11-24",
+      "quellseiten_anzahl": 38,
+      "stand_karten": "2026-11-26",
       "stand_quelle": "2026-11-26",
-      "quellseiten_hash_aktuell": "3508fa625930",
-      "quellseiten_hash_deck": "3508fa625930",
+      "quellseiten_hash_aktuell": "76b81b045594",
+      "quellseiten_hash_deck": "76b81b045594",
       "neue_seiten": [
 
       ],
@@ -174,17 +174,36 @@
       ]
     },
     {
+      "thema": "Java- und OOP-Grundlagen",
+      "kategorie": "Anwendungsentwicklung",
+      "pruefung": "BS",
+      "deck_path": "05_Karteikarten/Anwendungsentwicklung/Java- und OOP-Grundlagen.md",
+      "thema_quelle": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java- und OOP-Grundlagen.md",
+      "karten_anzahl": 6,
+      "quellseiten_anzahl": 69,
+      "stand_karten": "2026-11-26",
+      "stand_quelle": "2026-11-26",
+      "quellseiten_hash_aktuell": "afa9638fd4dd",
+      "quellseiten_hash_deck": "afa9638fd4dd",
+      "neue_seiten": [
+
+      ],
+      "entfernte_seiten": [
+
+      ]
+    },
+    {
       "thema": "Java-Grundlagen",
       "kategorie": "Anwendungsentwicklung",
       "pruefung": "AP2",
       "deck_path": "05_Karteikarten/Anwendungsentwicklung/Java-Grundlagen.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java-Grundlagen.md",
       "karten_anzahl": 6,
-      "quellseiten_anzahl": 75,
-      "stand_karten": "2026-11-24",
+      "quellseiten_anzahl": 30,
+      "stand_karten": "2026-11-26",
       "stand_quelle": "2026-11-26",
-      "quellseiten_hash_aktuell": "3a4c96151639",
-      "quellseiten_hash_deck": "3a4c96151639",
+      "quellseiten_hash_aktuell": "b52b3819a50a",
+      "quellseiten_hash_deck": "b52b3819a50a",
       "neue_seiten": [
 
       ],
@@ -199,11 +218,11 @@
       "deck_path": "05_Karteikarten/Anwendungsentwicklung/Methoden Parameter und Rückgabewerte.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Methoden Parameter und Rückgabewerte.md",
       "karten_anzahl": 7,
-      "quellseiten_anzahl": 39,
-      "stand_karten": "2026-11-24",
+      "quellseiten_anzahl": 21,
+      "stand_karten": "2026-11-26",
       "stand_quelle": "2026-11-26",
-      "quellseiten_hash_aktuell": "7cbf5f7b3f6b",
-      "quellseiten_hash_deck": "7cbf5f7b3f6b",
+      "quellseiten_hash_aktuell": "ad8f75ca07ff",
+      "quellseiten_hash_deck": "ad8f75ca07ff",
       "neue_seiten": [
 
       ],
@@ -218,11 +237,11 @@
       "deck_path": "05_Karteikarten/Anwendungsentwicklung/Objektorientierung.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Objektorientierung.md",
       "karten_anzahl": 7,
-      "quellseiten_anzahl": 59,
-      "stand_karten": "2026-11-24",
+      "quellseiten_anzahl": 29,
+      "stand_karten": "2026-11-26",
       "stand_quelle": "2026-11-26",
-      "quellseiten_hash_aktuell": "55ac345df4f2",
-      "quellseiten_hash_deck": "55ac345df4f2",
+      "quellseiten_hash_aktuell": "9f62aaa6a221",
+      "quellseiten_hash_deck": "9f62aaa6a221",
       "neue_seiten": [
 
       ],
@@ -237,11 +256,11 @@
       "deck_path": "05_Karteikarten/Anwendungsentwicklung/Operatoren und Bedingungen.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Operatoren und Bedingungen.md",
       "karten_anzahl": 7,
-      "quellseiten_anzahl": 58,
-      "stand_karten": "2026-11-24",
+      "quellseiten_anzahl": 37,
+      "stand_karten": "2026-11-26",
       "stand_quelle": "2026-11-26",
-      "quellseiten_hash_aktuell": "5c68f4b481f8",
-      "quellseiten_hash_deck": "5c68f4b481f8",
+      "quellseiten_hash_aktuell": "2cb1120a9fb9",
+      "quellseiten_hash_deck": "2cb1120a9fb9",
       "neue_seiten": [
 
       ],
@@ -275,11 +294,11 @@
       "deck_path": "05_Karteikarten/Anwendungsentwicklung/Programm und Software.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programm und Software.md",
       "karten_anzahl": 6,
-      "quellseiten_anzahl": 13,
-      "stand_karten": "2026-11-24",
+      "quellseiten_anzahl": 10,
+      "stand_karten": "2026-11-26",
       "stand_quelle": "2026-11-26",
-      "quellseiten_hash_aktuell": "14bc48a121cf",
-      "quellseiten_hash_deck": "14bc48a121cf",
+      "quellseiten_hash_aktuell": "59425db68f07",
+      "quellseiten_hash_deck": "59425db68f07",
       "neue_seiten": [
 
       ],
@@ -313,11 +332,11 @@
       "deck_path": "05_Karteikarten/Anwendungsentwicklung/Programmiersprachen und Übersetzer.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programmiersprachen und Übersetzer.md",
       "karten_anzahl": 6,
-      "quellseiten_anzahl": 35,
-      "stand_karten": "2026-11-24",
+      "quellseiten_anzahl": 20,
+      "stand_karten": "2026-11-26",
       "stand_quelle": "2026-11-26",
-      "quellseiten_hash_aktuell": "133b965ec669",
-      "quellseiten_hash_deck": "133b965ec669",
+      "quellseiten_hash_aktuell": "8661ad893dca",
+      "quellseiten_hash_deck": "8661ad893dca",
       "neue_seiten": [
 
       ],
@@ -554,36 +573,17 @@
       ]
     },
     {
-      "thema": "Unternehmenswiki",
-      "kategorie": "Anwendungsentwicklung",
-      "pruefung": "BS",
-      "deck_path": "05_Karteikarten/Anwendungsentwicklung/Unternehmenswiki.md",
-      "thema_quelle": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Unternehmenswiki.md",
-      "karten_anzahl": 6,
-      "quellseiten_anzahl": 197,
-      "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-26",
-      "quellseiten_hash_aktuell": "4aed9cd5a68b",
-      "quellseiten_hash_deck": "4aed9cd5a68b",
-      "neue_seiten": [
-
-      ],
-      "entfernte_seiten": [
-
-      ]
-    },
-    {
       "thema": "Variablen und Datentypen",
       "kategorie": "Anwendungsentwicklung",
       "pruefung": "AP1/AP2",
       "deck_path": "05_Karteikarten/Anwendungsentwicklung/Variablen und Datentypen.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Variablen und Datentypen.md",
       "karten_anzahl": 6,
-      "quellseiten_anzahl": 82,
-      "stand_karten": "2026-11-24",
+      "quellseiten_anzahl": 37,
+      "stand_karten": "2026-11-26",
       "stand_quelle": "2026-11-26",
-      "quellseiten_hash_aktuell": "50d2a9416d2c",
-      "quellseiten_hash_deck": "50d2a9416d2c",
+      "quellseiten_hash_aktuell": "d186344f6dd9",
+      "quellseiten_hash_deck": "d186344f6dd9",
       "neue_seiten": [
 
       ],

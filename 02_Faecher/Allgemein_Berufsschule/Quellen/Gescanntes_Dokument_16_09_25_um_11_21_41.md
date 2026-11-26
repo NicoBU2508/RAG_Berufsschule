@@ -12,20 +12,20 @@ tags:
   - quelle
   - allgemein_berufsschule
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-07-13"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
 kanonische_themen: 4
 seiten_mit_kanonischem_thema: 4
 lernstatus: "aktiv"
-textstatus: "eingeschränkt: visuell geprüft (partial=2, ocr_error=2)"
-textzeichen: 6412
+textstatus: "eingeschränkt: visuell geprüft (ocr_verified=2, partial=2)"
+textzeichen: 4656
 ---
 # 📄 Gescanntes Dokument 16 09 25 um 11 21 41
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/Allgemein_Berufsschule/Allgemein_Berufsschule|Allgemein Berufsschule]]
 > - **Original-PDF:** [Gescanntes Dokument 16.09.25 um 11.21.41.pdf](<99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf>)
 > - **Seiten:** 4
-> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (partial=2, ocr_error=2)
+> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=2, partial=2)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -55,55 +55,29 @@ textzeichen: 6412
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=1]]
 
-> [!ocr] OCRplus-Nachtrag integriert
-> Diese Seite hatte keine oder nur eine schwache PDF-Textschicht. Der folgende Text wurde per deutscher OCR/Bildanalyse aus dem Original-PDF gewonnen und ist jetzt wie die anderen Seiten suchbar. Die eingebettete Originalseite bleibt die verbindliche Referenz.
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
 
-#### OCRplus-Text für Suche und KI
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Wittmann
-Datum:_
-1 Sicherheitsmanagement
-Jede Institution benutzt Sicherheitstechnik, um sich vor Gefahren aus dem Internet abzusichern. Dazu gehören fast immer
-Virenschutzprogramme und Spamfilter, oft aber auch komplexere Lösungen wie gestaffelte Firewalls und Software zur
-Angriffserkennung. Darüber hinaus ergreifen Behörden und Unternehmen organisatorische Maßnahmen, etwa indem sie
-Richtlinien für die Benutzung mobiler Systeme erlassen oder die ihre Mitarbeiter über Gefahren im Internet informieren. Sowohl
-Erfolgskontrolle. Für eine angemessene Informationssicherheit ist die isolierte Umsetzung einzelner technischer oder
-die Anwendung von Technik als auch die Einführung organisatorischer Maßnahmen erfolgt oft jedoch ohne Konzept und
-organisatorischer Maßnahmen erfahrungsgemäß allerdings weder effektiv noch effizient. Vielmehr ist ein
-Informationssicherheitsmanagementsystem (ISMS) erforderlich, der dafür sorgt, dass alle Maßnahmen zielgerichtet gesteuert
-und überwacht werden.
-Informationssicherheit ist kein Zustand, der einmal erreicht wird und dann fortbesteht, sondern ein Prozess, der kontinuierlich
-Der Sicherheitsprozess
-angepasst werden muss. Geänderte Verfahren und Prozesse in einer Institution, der Wandel in den gesetzlichen
-Rahmenbedingungen, neue Technik, aber auch bislang unbekannte Schwachstellen und daraus erwachsende Gefährdungen
-gewährleistet sind. Der gesamte Sicherheitsprozess unterliegt daher einem Lebenszyklus, der sich in folgende Phasen gliedert:
-stellen immer wieder neue Anforderungen, so dass die nachhaltige Angemessenheit und Wirksamkeit nicht automatisch
-Plan - Planung von Sicherheitsmaßnahmen
-Do - Umsetzung der Maßnahmen,
-Check - Erfolgskontrolle, Überwachung der Zielerreichung,
-Act - Beseitigung von Defiziten, Verbesserung.
-Insbesondere die Erfolgskontrolle und die kontinuierliche Verbesserung gehören zu den wichtigsten Managementprinzipien im
-Sicherheitsprozess. Ohne regelmäßige Überprüfung ist die Wirksamkeit der organisatorischen und technischen
-Schutzmaßnahmen auf Dauer nicht sichergestellt.
-Dokumentation ist kein Selbstzweck, eine gute Dokumentation trägt aber dazu bei, den Sicherheitsprozess und getroffene
-elektronische Form hat den Vorteil, leicht aktualisierbar und bei Bedarf schnell verfügbar zu sein, wobei die Zugriffsrechte
-Entscheidungen nachvollziehbar zu gestalten und Missverständnisse zu vermeiden. Sie muss nicht in Papierform vorliegen. Eine
-sorgfältig zu regeln sind.
-Um Informationen angemessen schützen zu können, muss ihre Bedeutung für die Institution klar sein. Dies kann durch eine
-deren Behandlung Regeln festgelegt sind, die dieser Klassifizierung entsprechen. Durch einen Klassifizierungsvermerk kann jeder
-Informationsklassifizierung unterstützt werden, bei der Dokumente gemäß ihrer Vertraulichkeit klassifiziert werden und für
-Mitarbeiter unmittelbar erkennen, wie er mit den eingestuften Informationen umzugehen hat.
-Aufgabe 1: Ergänze die passenden englischen Begriffe.
-Planung
-Plan
-Verbesserung
-Umsetzung
-Act
-De
-Erfolgskontrolle
-Check
-Fragen/Notizen:
+Wittmann – 1 Sicherheitsmanagement
+
+Text: Jede Institution benutzt Sicherheitstechnik (Virenschutzprogramme, Spamfilter, gestaffelte Firewalls, Angriffserkennung) sowie organisatorische Maßnahmen (Richtlinien für mobile Systeme, Mitarbeitersensibilisierung). Isolierte Einzelmaßnahmen sind weder effektiv noch effizient; erforderlich ist ein Informationssicherheitsmanagementsystem (ISMS).
+
+Der Sicherheitsprozess (Lebenszyklus / PDCA):
+- Plan – Planung von Sicherheitsmaßnahmen
+- Do – Umsetzung der Maßnahmen
+- Check – Erfolgskontrolle, Überwachung der Zielerreichung
+- Act – Beseitigung von Defiziten, Verbesserung
+
+Wichtige Managementprinzipien: Erfolgskontrolle, kontinuierliche Verbesserung, gute Dokumentation (auch elektronisch mit geregelten Zugriffsrechten) sowie Informationsklassifizierung (Vertraulichkeitsstufen mit Behandlungsregeln und Klassifizierungsvermerk).
+
+Aufgabe 1: Ergänze die passenden englischen Begriffe im Zyklus:
+- Planung -> Plan
+- Umsetzung -> Do
+- Erfolgskontrolle -> Check
+- Verbesserung -> Act
 ```
 
 ### Seite 2
@@ -174,91 +148,30 @@ Lenziele :
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/Allgemein/1_LJ/Gescanntes Dokument 16.09.25 um 11.21.41.pdf#page=3]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschrift, Formeln, Tabellen bzw. Diagramme aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Wittmann
-Datum
-HochverfigbarkeitisteineWeiterfuhrungderFehlertoleranzDabeisindSystemealsganzemehrfachvorhanden
-EstehtnurdieHardwareredundantzurVerfugungundmuszunachst
-InstalationeinesBetriebsystemsundWiedereinspielenvonBackupsfunktionstuichtig
-gemachtwerden
-EinErsatzsystemkanbeiBedarfhochgefahrenwerdenundieFunktiondes
-ausgefalenenSystemsuibernehmen
-EinErsatzsystemuibernimtautomatischundsofortdieFunktiondes
-ausgefalenenSystems
-auolunJwMa
-COTOTO
-Ein
-schleustsichinComputerPrograme
-TOIOTOE1O
-0007559
-einundverbreitetsichselbst
-eineDateialsWirtindemsiesich
-versteckenkinen
-Virenhabenmeistenseinen
-hdieFunktiondes
-ComputersystemszubeintrachtigenBetriebsystemoder
-uweodsauniuam
-Sn20 900 S
-TOTOLOTO
-ETTZOOTZ
-oTTT100
-OT00K
-20z0
-vervielfaltigensichselbstwensle
-einmaligausgefuihrtwerden
-WirmerubertragensichselbstuiberdasNetzwerk
-tarnensichalsnutzliches
-ProgramundfuihrenimHintergrundSchadcodeaus
-Auch
-werdenumgangsprachlichals
-bezeichnetdaesauchMischformengibt
-290
-B9 00
-1arn
-1H9開
-wdewlkerwDaleinsBascn
-WeiterMalware
-OfneteinengeheimenZugangzumOpferSystem
-spionierendieDatenaufdemComputer
-oderdasBenutzerverhaltenausundschickendieDatenanden
-HersteleroderandereQuelen
-SoldenBenutzerdurchgefalschteWarnmeldungen
-verunsichernundzurInstalationvonSchadsoftwareTrojaner
-verleitenzBfalschesVirenschutzprogram
-FragenNotizen
-↳
-G
-e
-E
-↳
-~
-T
-S
-i
-E
-↳
-↓
->
-g
--
--
-O
-&
-&
-&
-E
--
-- ·
-⑳
-·
-·
-S
-:
--
-E
-↳F
+Wittmann – Hochverfügbarkeit & Malware
+
+Hochverfügbarkeit (Weiterführung der Fehlertoleranz; Systeme sind als Ganze mehrfach vorhanden):
+- Bare Metal: Es steht nur die Hardware redundant zur Verfügung und muss zunächst durch Installation eines Betriebssystems und Wiedereinspielen von Backups funktionstüchtig gemacht werden.
+- Cold Standby: Ein Ersatzsystem kann bei Bedarf hochgefahren werden und die Funktion des ausgefallenen Systems übernehmen.
+- Hot Standby: Ein Ersatzsystem übernimmt automatisch und sofort die Funktion des ausgefallenen Systems (am teuersten).
+
+Viren, Würmer und Trojaner:
+- Ein Computer-Virus schleust sich in Computer-Programme ein und verbreitet sich selbst; Viren benötigen eine Datei als Wirt, in dem sie sich verstecken können.
+- Viren haben meistens einen Schadcode, um die Funktion des Computersystems zu beeinträchtigen (Betriebssystem oder Anwendungsprogramme).
+- Computer Würmer vervielfältigen sich selbst, wenn sie einmalig ausgeführt werden; Würmer übertragen sich selbst über das Netzwerk.
+- Trojaner oder Trojanische Pferde tarnen sich als nützliches Programm und führen im Hintergrund Schadcode aus.
+- Auch Würmer und Trojaner werden umgangssprachlich als Viren bezeichnet, da es auch Mischformen gibt.
+
+Weitere Malware:
+- Backdoor: Öffnet einen geheimen Zugang zum Opfer-System.
+- Spyware und Adware: spionieren Daten auf dem Computer oder das Benutzerverhalten aus und schicken die Daten an den Hersteller oder andere Quellen.
+- Scareware: Soll den Benutzer durch gefälschte Warnmeldungen verunsichern und zur Installation von Schadsoftware (Trojaner) verleiten, z. B. falsches Virenschutzprogramm.
 ```
 
 ### Seite 4

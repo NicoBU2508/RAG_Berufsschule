@@ -34,7 +34,7 @@ tags:
 - **Tarif-/Grundentgelt** + Sonderzahlungen + Arbeitgeberanteil zu vermögenswirksamen Leistungen (VL) + Zuschläge = **Bruttoentgelt** (sozialversicherungspflichtiges Brutto)
 - Bruttoentgelt − **AN-Anteil zur Sozialversicherung** (KV, PV, RV, AV) − **Steuern** (Lohnsteuer, Kirchensteuer, Solidaritätszuschlag; vom steuerpflichtigen Bruttoentgelt) = **Nettoentgelt**
 - Nettoentgelt − **vermögenswirksame Leistungen** (und ggf. Vorschussverrechnung) = **Auszahlungs-/Überweisungsbetrag**.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 41, 48 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 41, 48](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=41>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -42,7 +42,7 @@ tags:
 **Worin liegt der Unterschied zwischen Bruttoentgelt und steuerpflichtigem Bruttoentgelt, und wovon werden SV-Beiträge bzw. Steuern berechnet?**
 ?
 Vom **Bruttoentgelt** (sozialversicherungspflichtiges Brutto) wird ggf. ein **Steuerfreibetrag** abgezogen, um das **steuerpflichtige Bruttoentgelt** zu erhalten. Der **AN-Anteil zur Sozialversicherung** wird vom **sozialversicherungspflichtigen Bruttoentgelt** berechnet, die **Steuern** hingegen vom **steuerpflichtigen Bruttoentgelt** (laut Lohnsteuertabelle).
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 41, 48 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 41, 48](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=41>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -50,7 +50,7 @@ Vom **Bruttoentgelt** (sozialversicherungspflichtiges Brutto) wird ggf. ein **St
 **Wie werden der Arbeitgeberanteil und der volle Sparbetrag vermögenswirksamer Leistungen (VL) in der Gehaltsabrechnung verrechnet?**
 ?
 Der **Arbeitgeberanteil zu den VL** wird zunächst zum Grundentgelt **addiert** (erhöht das steuer- und SV-pflichtige Bruttoentgelt). Vom **Nettoentgelt** wird anschließend der gesamte **VL-Sparbetrag** (z. B. 40,00 €) wieder **abgezogen**, da er direkt auf den Anlagevertrag überwiesen wird.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 48, 51 (von 51), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 48, 51](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=48>) (von 51), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -59,7 +59,7 @@ Der **Arbeitgeberanteil zu den VL** wird zunächst zum Grundentgelt **addiert** 
 ?
 - **Sozialversicherung (AN-Anteil):** Krankenversicherung (KV), Pflegeversicherung (PV), Rentenversicherung (RV), Arbeitslosenversicherung (AV).
 - **Steuern:** Lohnsteuer (LSt), Kirchensteuer (**8 %** in Baden-Württemberg und Bayern bzw. **9 %** bundesweit von der LSt) sowie ggf. Solidaritätszuschlag (gestaffelt max. 5,5 % der LSt).
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 48, 50 (von 51), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 48, 50](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=48>) (von 51), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -71,7 +71,7 @@ Der **Arbeitgeberanteil zu den VL** wird zunächst zum Grundentgelt **addiert** 
 - **Steuerklasse 3 / 5:** Verheiratete mit deutlichem Einkommensunterschied (3 für den besser verdienenden, 5 für den deutlich geringer verdienenden Partner).
 - **Steuerklasse 4:** Verheiratete bei ähnlichem Einkommen (Standard, wenn nichts angegeben wird).
 - **Steuerklasse 6:** Bei **zwei Jobs** für das zweite Beschäftigungsverhältnis (höchste Abzüge).
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 49 (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 49](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=49>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
 
 ---
 
@@ -82,4 +82,4 @@ Der **Arbeitgeberanteil zu den VL** wird zunächst zum Grundentgelt **addiert** 
 - **Steuern:** LSt 400,00 € + KiSt (8 % von 400 €) 32,00 € = 432,00 €.
 - **SV (vom Brutto 3.020 €):** KV 235,56 € + RV 280,86 € + AV 39,26 € + PV 72,48 € = 628,16 €.
 - **Nettogehalt:** 3.020,00 € − 432,00 € − 628,16 € = **1.959,84 €**; abzüglich 40,00 € VL = **1.919,84 € Überweisungsbetrag**.
-*Quelle: PuG Politik und Gesellschaft (1. LJ) · `Pug.pdf` S. 50–51 (von 51), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*
+*Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 50–51](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=50>) (von 51), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]]*

@@ -36,6 +36,7 @@ textzeichen: 87384
 |---|---|---:|---|
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Arrays und Datenstrukturen\|Arrays und Datenstrukturen]] | Prüfungsrahmen der Quelle | 62–71 | Visuell bestätigt auf 10 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Entwicklungswerkzeuge und Debugging\|Entwicklungswerkzeuge und Debugging]] | Prüfungsrahmen der Quelle | 4–6, 8–15 | Visuell bestätigt auf 11 Seite(n). |
+| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java- und OOP-Grundlagen\|Java- und OOP-Grundlagen]] | Prüfungsrahmen der Quelle | 3–71 | Visuell bestätigt auf 69 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java-Grundlagen\|Java-Grundlagen]] | Prüfungsrahmen der Quelle | 3–18 | Visuell bestätigt auf 16 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Methoden Parameter und Rückgabewerte\|Methoden, Parameter und Rückgabewerte]] | Prüfungsrahmen der Quelle | 39–48 | Visuell bestätigt auf 10 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Objektorientierung\|Objektorientierung]] | Prüfungsrahmen der Quelle | 34–47 | Visuell bestätigt auf 14 Seite(n). |
@@ -44,7 +45,6 @@ textzeichen: 87384
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programmablaufdarstellungen\|Programmablaufdarstellungen]] | Prüfungsrahmen der Quelle | 49, 58–59, 61 | Visuell bestätigt auf 4 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programmiersprachen und Übersetzer\|Programmiersprachen und Übersetzer]] | Prüfungsrahmen der Quelle | 3–8 | Visuell bestätigt auf 6 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Schleifen\|Schleifen]] | Prüfungsrahmen der Quelle | 56–62, 69–71 | Visuell bestätigt auf 10 Seite(n). |
-| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Unternehmenswiki\|Unternehmenswiki]] | Prüfungsrahmen der Quelle | 3–71 | Visuell bestätigt auf 69 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Variablen und Datentypen\|Variablen und Datentypen]] | Prüfungsrahmen der Quelle | 18–33, 63 | Visuell bestätigt auf 17 Seite(n). |
 
 ## 🧠 Lernstruktur

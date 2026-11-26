@@ -34,7 +34,7 @@ tags:
 **Welche Aufgaben hat der betriebliche Funktionsbereich Materialwirtschaft und welche Methoden nutzt er?**
 ?
 Aufgaben: Materialbeschaffung, interne Bereitstellung und Lagerung. Methoden: Bestandsüberwachung, Angebotsvergleich (Lieferanten) und Preisverhandlung.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 1 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 1](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -42,7 +42,7 @@ Aufgaben: Materialbeschaffung, interne Bereitstellung und Lagerung. Methoden: Be
 **Wie unterscheiden sich Finanzierung und Investition in der Finanzwirtschaft eines Unternehmens?**
 ?
 **Finanzierung** bedeutet das Beschaffen von Kapital, während **Investition** das Umwandeln von Kapital in Vermögenswerte beschreibt. Zusätzlich plant die Finanzwirtschaft den Finanzbedarf und stellt finanzielle Mittel bereit.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 1 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 1](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -50,7 +50,7 @@ Aufgaben: Materialbeschaffung, interne Bereitstellung und Lagerung. Methoden: Be
 **Wie grenzen sich Buchhaltung und Controlling im Bereich Geschäftsführung voneinander ab?**
 ?
 Die **Buchhaltung** erfasst alle Geschäftsvorfälle und bildet die wirtschaftliche Lage nach außen ab (Bilanz, Jahresabschluss). Das **Controlling** liefert die Datenbasis für Entscheidungen, unterstützt die Geschäftsführung bei der Zieldefinition sowie -erreichung und führt die Zielkontrolle durch.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 1 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 1](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -58,7 +58,7 @@ Die **Buchhaltung** erfasst alle Geschäftsvorfälle und bildet die wirtschaftli
 **Welchem betrieblichen Funktionsbereich werden (a) Marktforschung/Versand und (b) Fertigung von Kundenaufträgen/Maschinenwartung zugeordnet?**
 ?
 (a) Marktforschung, Versand, Vertrieb, Sortimentsplanung, Preispolitik und Marketing gehören zum **Absatz**. (b) Produktionsplanung, Warenherstellung, Wartung der Maschinen, Verpackung und Qualitätskontrolle gehören zur **Produktion**.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 1–2 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 1–2](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=1>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -66,7 +66,7 @@ Die **Buchhaltung** erfasst alle Geschäftsvorfälle und bildet die wirtschaftli
 **Wie unterscheiden sich Berufsbildung und Berufsspaltung innerhalb der beruflichen Arbeitsteilung?**
 ?
 **Berufsbildung** ist die Spezialisierung von Personen auf Tätigkeitsfelder nach Neigung und Fähigkeit (z. B. Tischler, Fachinformatiker). **Berufsspaltung** ist die durch Technisierung erforderliche Spezialisierung innerhalb eines Grundberufs (z. B. Fachinformatiker Anwendungsentwicklung vs. Systemintegration).
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 19 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 19](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=19>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -74,7 +74,7 @@ Die **Buchhaltung** erfasst alle Geschäftsvorfälle und bildet die wirtschaftli
 **In welche vier Wirtschaftsbereiche gliedert sich die überbetriebliche Arbeitsteilung und was bedeutet Arbeitsvereinigung?**
 ?
 Die überbetriebliche Arbeitsteilung gliedert sich in **Urproduktion**, **Weiterverarbeitung**, **Handel und andere Dienstleistungen** sowie **Informationssektor**. **Arbeitsvereinigung** bedeutet, dass die zerlegten Einzelschritte der Arbeit wieder zu einem Ganzen zusammengeführt werden müssen.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 19 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 19](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=19>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
 
 ---
 
@@ -82,4 +82,4 @@ Die überbetriebliche Arbeitsteilung gliedert sich in **Urproduktion**, **Weiter
 **Welche zentralen Nachteile entstehen durch internationale Arbeitsteilung trotz Vorteilen wie größerer Produktvielfalt und günstigeren Preisen?**
 ?
 Es entstehen eine **hohe Abhängigkeit vom Ausland**, die **Abwanderung von Arbeitsplätzen ins Ausland**, starke **Umweltverschmutzung**, eine ungleiche Verteilung von Reichtum sowie die Ausbeutung von Arbeitskräften.
-*Quelle: BGWP Betriebswirtschaft (1. LJ) · `BGWP.pdf` S. 20–21 (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [BGWP.pdf · S. 20–21](<99_Originale/Berufsschule/BGWP/1_LJ/BGWP.pdf#page=20>) (von 83) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP|Quellnotiz]]*

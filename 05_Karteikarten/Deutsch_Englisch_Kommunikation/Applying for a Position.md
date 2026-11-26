@@ -29,7 +29,7 @@ tags:
 - **erstrangiges Unternehmen**: *(leading) blue chip company*
 - **unerlässlich / unentbehrlich**: *essential*
 - **Verantwortlichkeiten**: *responsibilities*
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 4 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 4](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -39,7 +39,7 @@ tags:
 - **Sozialkompetenz**: *people skills*
 - **Kommunikationsfähigkeit**: *ability to communicate*
 - **ein breites Spektrum an Fähigkeiten**: *a broad range of skills*
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 4 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 4](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -48,7 +48,7 @@ tags:
 ?
 - Support, Administration und Implementierung von Servern, Netzwerken sowie Budgets
 - Dokumentation von Netzwerkfunktionen (*document network functions*) sowie gelegentliche Dienstreisen (*occasionally travel to other cities*)
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 4 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 4](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -56,4 +56,4 @@ tags:
 **Worin liegt die Verwechslungsgefahr bei *permanent employment* bzw. *on a permanent basis* im Vergleich zum deutschen Wort „permanent“?**
 ?
 Im Englischen bedeutet *permanent employment* bzw. *on a permanent basis* eine **unbefristete Festanstellung** (nicht „ständig/ununterbrochen“ wie umgangssprachlich im Deutschen). *Basic salary* bezeichnet dabei das Grundgehalt.
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 4 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 4](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=4>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*

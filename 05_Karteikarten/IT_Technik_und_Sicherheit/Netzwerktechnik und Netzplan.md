@@ -70,7 +70,7 @@ Eine grafische Übersicht über die Komponenten eines Netzes und ihre Verbindung
 1. **Eingebundene IT-Systeme:** Clients, Server, Netzdrucker sowie aktive Netzkomponenten (Switches, Router, WLAN-APs).
 2. **Interne Verbindungen:** z. B. LAN (Ethernet) oder Backbone-Technik.
 3. **Außenverbindungen:** inkl. Verbindungsart (z. B. Internet-Anbindung, DSL, Standleitung).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 12 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 12](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=12>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -78,7 +78,7 @@ Eine grafische Übersicht über die Komponenten eines Netzes und ihre Verbindung
 **Welche Kriterien gelten für die Gruppierung von IT-Systemen im Netzplan, und warum dürfen Desktops und Laptops derselben Abteilung nicht zusammengefasst werden?**
 ?
 IT-Systeme dürfen nur gruppiert werden bei gleichem Typ, nahezu gleicher Konfiguration, gleicher Netzeinbindung, gleichen Rahmenbedingungen, gleichen Anwendungen und **gleichem Schutzbedarf** (sonst entstehen Sicherheitslücken!). Laptops werden wegen der mobilen Nutzung und zusätzlicher Sicherheitsanforderungen getrennt von Desktops gruppiert.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 9, 12 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 9, 12](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=9>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -89,7 +89,7 @@ IT-Systeme dürfen nur gruppiert werden bei gleichem Typ, nahezu gleicher Konfig
 - **Virtualisierungsserver:** Betreibt mehrere virtuelle Server auf einem physischen Server.
 - **Druckserver:** Nimmt Druckaufträge im Netz entgegen und leitet sie an Drucker weiter.
 - **Firewall:** Überwacht den Datenverkehr und entscheidet über Durchlassen/Blockieren von Paketen.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 14 (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 14](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=14>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
 ---
 
@@ -98,7 +98,7 @@ IT-Systeme dürfen nur gruppiert werden bei gleichem Typ, nahezu gleicher Konfig
 ?
 - **Standleitung:** Permanente Verbindung im Telekommunikationsnetz, die nicht temporär auf- und abgebaut wird (z. B. Standortkopplung).
 - **Weitere Systeme:** Industrielle Steuerungen (**ICS**, z. B. SPS), Telekommunikationsgeräte/Mobilgeräte und vernetzte **IoT**-Geräte.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript_Wittmann.pdf` S. 14 (von 103) & `Sicherheitsmanagement.pdf` S. 3 (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]], [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 14](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=14>) (von 103) & [Sicherheitsmanagement.pdf · S. 3](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=3>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]], [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -106,7 +106,7 @@ IT-Systeme dürfen nur gruppiert werden bei gleichem Typ, nahezu gleicher Konfig
 **Welche Rolle spielen Router, Subnetzmaske und Default Gateway bei der Kommunikation zwischen verschiedenen Subnetzen?**
 ?
 Ohne Router wird kein Datenverkehr zwischen Subnetzen weitergeleitet. Endgeräte senden entfernten Verkehr an ihr **Default Gateway** (die angeschlossene Router-Schnittstelle im eigenen Subnetz); der Router prüft anhand der **Subnetzmaske**, ob ein Ziel lokal oder entfernt liegt, und leitet entsprechend weiter.
-*Quelle: ITT IT-Technik (2. LJ) · `00_IPv4_Wiederholung.pdf` S. 5 (von 13) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung|Quellnotiz]]*
+*Quelle: ITT IT-Technik (2. LJ) · [00_IPv4_Wiederholung.pdf · S. 5](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=5>) (von 13) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung|Quellnotiz]]*
 
 ---
 
@@ -117,7 +117,7 @@ Ohne Router wird kein Datenverkehr zwischen Subnetzen weitergeleitet. Endgeräte
 2. **Anzahl Frames** = Dateigröße (bei `MiB` mit `2^20` B) ÷ Netto-Nutzdaten/Frame.
 3. **Bruttodaten (Bit)** = Anzahl Frames × Framegröße × 8.
 4. **Zeit `t`** = Bruttodaten ÷ Übertragungsrate (bei `Mbit/s` mit `10^6` b/s; beim Upload gilt der Upstream!).
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 6–7 (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 6–7](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=6>) (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -125,7 +125,7 @@ Ohne Router wird kein Datenverkehr zwischen Subnetzen weitergeleitet. Endgeräte
 **Was ist beim Konfigurieren eines Geräts mit zwei Netzwerkkarten (z. B. IT-Netz und OT-Netz getrennt) bezüglich Gateway und DNS zu beachten?**
 ?
 **Gateway und DNS dürfen nur an einer Netzwerkkarte** (typischerweise der IT-/Schulnetz-Schnittstelle mit Internet-/Routerzugang) eingetragen werden. Werden sie an beiden Schnittstellen konfiguriert, entsteht ein Konflikt und der Router wird nicht mehr zuverlässig erreicht.
-*Quelle: ITT IT-Technik (2. LJ) · `20261005_145426.pdf` S. 18 (von 18) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [20261005_145426.pdf · S. 18](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf#page=18>) (von 18) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -134,7 +134,7 @@ Ohne Router wird kein Datenverkehr zwischen Subnetzen weitergeleitet. Endgeräte
 ?
 - **4 Phasen (DORA):** 1. `DHCPDISCOVER` (Client → Broadcast) · 2. `DHCPOFFER` (Server → Angebot, Unicast/Broadcast) · 3. `DHCPREQUEST` (Client → Broadcast, Annahme) · 4. `DHCPACK` (Server → Bestätigung & Lease, Unicast/Broadcast).
 - **Zugewiesene Daten:** IP-Adresse, Subnetzmaske, Standardgateway und DNS-Server.
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 34, 36 (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 34, 36](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=34>) (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -144,7 +144,7 @@ Ohne Router wird kein Datenverkehr zwischen Subnetzen weitergeleitet. Endgeräte
 - **Aufgabe:** Löst Domainnamen in IP-Adressen auf und umgekehrt.
 - **Records:** `A` (IPv4) · `AAAA` (IPv6) · `NS` (autoritativer Nameserver) · `CNAME` (Alias auf anderen Domainnamen) · `MX` (Mailserver inkl. Priorität).
 - **Konsole:** `nslookup <Domain>` bzw. gezielt `nslookup -type=MX beispiel.de`.
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 34, 37 (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 34, 37](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=34>) (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -153,7 +153,7 @@ Ohne Router wird kein Datenverkehr zwischen Subnetzen weitergeleitet. Endgeräte
 ?
 - **Protokolle:** **SMTP** (`TCP 25/587`) versendet und leitet weiter · **POP3** (`TCP 110/995`) lädt Mails lokal herunter (Standard: Löschen auf dem Server) · **IMAP4** (`TCP 143/993`) verwaltet und synchronisiert Mails direkt auf dem Server.
 - **Rollen:** **MUA** (E-Mail-Client) → SMTP → **MTA** (Mailserver-Weiterleitung) → **MDA** (Zustellung ins Postfach) → Abruf durch Empfänger-MUA.
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 35–36 (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 35–36](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=35>) (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -163,4 +163,4 @@ Ohne Router wird kein Datenverkehr zwischen Subnetzen weitergeleitet. Endgeräte
 - **SMB/CIFS:** Datei-, Ordner- und Druckerfreigabe im lokalen Netz (unter Linux über Samba).
 - **SSH / SFTP vs. FTPS:** **SSH** (`TCP 22`) für verschlüsselten Fernzugriff; **SFTP** überträgt Dateien verschlüsselt über SSH (Port 22), **FTPS** nutzt FTP mit TLS/SSL.
 - **HTTP/2:** Binäres Protokoll, **Multiplexing** (mehrere parallele Anfragen über eine TCP-Verbindung ohne HTTP-Head-of-Line-Blocking), Header-Komprimierung (**HPACK**), Server Push und Stream-Priorisierung.
-*Quelle: ITT IT-Technik (2. LJ) · `Einf Funktsw OSI 23-3.pdf` S. 34–35, 37 (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 34–35, 37](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=34>) (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*

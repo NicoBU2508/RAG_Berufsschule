@@ -30,7 +30,7 @@ tags:
 - **Schaltanlagenbau**: *Switchgear manufacture*
 - **Notstromsysteme**: *Emergency power systems*
 - **Technische Gebäudeausrüstung**: *Technical building equipment*
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 14–15 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 14–15](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -39,7 +39,7 @@ tags:
 ?
 *„Come to us with your ideas and let our experts plan, **price** and implement them for you.“*
 Als Verb bedeutet *to price* hier **kalkulieren / mit einem Preis versehen** (nicht nur Substantiv „Preis“).
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 14–15 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 14–15](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -48,7 +48,7 @@ Als Verb bedeutet *to price* hier **kalkulieren / mit einem Preis versehen** (ni
 ?
 - **power outage**: Stromausfall (*can bring production to a standstill and put human life at risk*)
 - **fail-safe switching system**: ausfallsicheres Schaltsystem (*to guarantee power to low and medium-voltage equipment*)
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 14–15 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 14–15](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
 
 ---
 
@@ -57,4 +57,4 @@ Als Verb bedeutet *to price* hier **kalkulieren / mit einem Preis versehen** (ni
 ?
 - **Mechatronics**: Verknüpfung von *computer technology* mit *electronic, electrical and **mechanical** engineering*
 - **Transformer installation**: *step the **voltage** up or down* (Spannung hoch- oder heruntertransformieren; *voltage* = elektrische Spannung)
-*Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 14 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+*Quelle: Englisch (1. LJ) · [Englisch.pdf · S. 14](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=14>) (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*

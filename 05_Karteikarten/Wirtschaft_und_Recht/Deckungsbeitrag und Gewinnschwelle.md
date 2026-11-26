@@ -35,7 +35,7 @@ tags:
 Der Deckungsbeitrag ist die Differenz zwischen Umsatzerlösen und variablen Kosten und zeigt an, wie viel zur Deckung der fixen Kosten beigetragen wird.
 - Pro Stück: `db = p - kv` (Verkaufspreis minus variable Stückkosten)
 - Gesamt (pro Periode): `DB = (p * m) - Kv`
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 37–38 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 37–38](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=37>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -44,7 +44,7 @@ Der Deckungsbeitrag ist die Differenz zwischen Umsatzerlösen und variablen Kost
 ?
 **Fixe Kosten (`Kf`)** fallen unabhängig von der Produktionsmenge bzw. dem Beschäftigungsgrad in gleicher Höhe an (z. B. Miete, Gehälter, Abschreibungen, Versicherungen).
 **Variable Kosten (`Kv`)** sind von der Produktionsmenge bzw. dem Beschäftigungsgrad abhängig (z. B. Rohstoffe, Hilfsstoffe, Energie, Löhne bzw. Einstandspreise).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 37, 39 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 37, 39](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=37>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -53,7 +53,7 @@ Der Deckungsbeitrag ist die Differenz zwischen Umsatzerlösen und variablen Kost
 ?
 Der Break-even-Point ist der Punkt, an dem der Betrieb in die Gewinnzone eintritt (`Erlös = Kosten`, also `p * m = kv * m + Kf`).
 Die Gewinnschwellenmenge berechnet sich mit `m* = Kf / db`; ab dem ersten Stück darüber wird ein positives Betriebsergebnis erzielt.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 38 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 38](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=38>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -62,7 +62,7 @@ Die Gewinnschwellenmenge berechnet sich mit `m* = Kf / db`; ab dem ersten Stück
 ?
 **Kurzfristige Preisuntergrenze:** `E = Kv` bzw. `p = kv` – der Preis deckt nur die variablen Kosten, es entsteht ein Verlust in Höhe der Fixkosten (`Kf`).
 **Langfristige Preisuntergrenze:** `DB = Kf` bzw. `db = kf` – der Deckungsbeitrag deckt alle Fixkosten, der Betriebsgewinn beträgt genau `0`.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 38 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 38](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=38>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -71,7 +71,7 @@ Die Gewinnschwellenmenge berechnet sich mit `m* = Kf / db`; ab dem ersten Stück
 ?
 Stückdeckungsbeitrag: `db = 55,00 € - 30,00 € = 25,00 €`; Gewinnschwelle: `m* = 20.000 / 25 = 800 Stück`.
 Steigen die Fixkosten um `6.000,00 €`, müssen `6.000 / 25 = 240 Stück` zusätzlich verkauft werden, um das Betriebsergebnis zu halten.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 40–41, 44 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 40–41, 44](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=40>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -80,7 +80,7 @@ Steigen die Fixkosten um `6.000,00 €`, müssen `6.000 / 25 = 240 Stück` zusä
 ?
 Bei `db > 0` (`p > kv`) wird der Auftrag **angenommen**, da er zur Fixkostendeckung beiträgt (z. B. `p = 35 €`, `kv = 30 €` → `db = +5 €`).
 Bei `db < 0` wird er **abgelehnt**; bei `db = 0` (`p = kv`) ist er **neutral** (kein Beitrag zur Fixkostendeckung).
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 37, 44 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 37, 44](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=37>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
 
 ---
 
@@ -89,4 +89,4 @@ Bei `db < 0` wird er **abgelehnt**; bei `db = 0` (`p = kv`) ist er **neutral** (
 ?
 Mehrstufige DB-Rechnung: `Umsatzerlöse - variable Kosten = DB I`, `DB I - erzeugnisfixe Kosten = DB II`.
 Der Betriebserfolg pro Periode ergibt sich aus: `Summe der Deckungsbeiträge aller Kostenträger - Fixkosten = Betriebsgewinn/Betriebsverlust`.
-*Quelle: ITT IT-Technik (1. LJ) · `Skript.pdf` S. 38 (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 38](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=38>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*

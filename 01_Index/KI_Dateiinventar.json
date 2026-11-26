@@ -54,11 +54,11 @@
     ]
   },
   "totals": {
-    "files": 538,
+    "files": 540,
     "by_extension": {
       "css": 2,
       "js": 2,
-      "json": 76,
+      "json": 78,
       "m": 1,
       "md": 386,
       "none": 1,
@@ -72,7 +72,7 @@
       "curated_topic": 140,
       "entrypoint": 2,
       "exam_archive": 1,
-      "excluded_source_note": 4,
+      "excluded_source_note": 7,
       "flashcard_index": 141,
       "import_inbox": 2,
       "learner_state": 1,
@@ -81,18 +81,18 @@
       "original_pdf": 53,
       "private_or_archive": 2,
       "project_metadata": 3,
-      "quality_or_navigation": 68,
-      "source_note": 49,
+      "quality_or_navigation": 70,
+      "source_note": 46,
       "subject_index": 9,
       "topic_index": 1,
       "unverified_exam_material": 19,
       "workflow_guide": 1
     },
     "by_ai_use": {
-      "excluded": 190,
-      "navigation": 79,
+      "excluded": 193,
+      "navigation": 81,
       "operational": 25,
-      "primary": 191,
+      "primary": 188,
       "verify_only": 53
     }
   },
@@ -164,7 +164,7 @@
     {
       "path": ".agents/skills/ap-lerncoach/scripts/vault_lookup.rb",
       "extension": "rb",
-      "bytes": 66657,
+      "bytes": 73596,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -268,7 +268,7 @@
     {
       "path": ".obsidian/plugins/copilot/data.json",
       "extension": "json",
-      "bytes": 27749,
+      "bytes": 27619,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -308,7 +308,7 @@
     {
       "path": ".obsidian/workspace.json",
       "extension": "json",
-      "bytes": 8639,
+      "bytes": 8524,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -356,7 +356,7 @@
     {
       "path": "01_Index/Abschlussvalidierung_Visuelle_Quellen.json",
       "extension": "json",
-      "bytes": 6253,
+      "bytes": 6271,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -684,7 +684,15 @@
     {
       "path": "01_Index/Auditdaten/Import/20261126_ae_2lj_jac_mitschrift_s20_20.json",
       "extension": "json",
-      "bytes": 942,
+      "bytes": 964,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261126_ae_2lj_kislik_skript_s62_62.json",
+      "extension": "json",
+      "bytes": 1002,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -717,6 +725,14 @@
       "path": "01_Index/Auditdaten/Import/20261126_it_tech_2lj_jacob_verstaerkung_daempfung_s5_8.json",
       "extension": "json",
       "bytes": 3787,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261126_ocr_visual_transcriptions.json",
+      "extension": "json",
+      "bytes": 55242,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -772,7 +788,7 @@
     {
       "path": "01_Index/Copilot_Allowlist.json",
       "extension": "json",
-      "bytes": 16352,
+      "bytes": 16119,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -815,7 +831,7 @@
     {
       "path": "01_Index/KI_Quellenqualitaet.md",
       "extension": "md",
-      "bytes": 6719,
+      "bytes": 6832,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -825,7 +841,7 @@
     {
       "path": "01_Index/Karteikarten_Status.json",
       "extension": "json",
-      "bytes": 88059,
+      "bytes": 88082,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -841,7 +857,7 @@
     {
       "path": "01_Index/Linkvalidierung_Nichtprivat.json",
       "extension": "json",
-      "bytes": 281,
+      "bytes": 280,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -849,7 +865,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit.json",
       "extension": "json",
-      "bytes": 1883160,
+      "bytes": 1893897,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -857,7 +873,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit.md",
       "extension": "md",
-      "bytes": 11265,
+      "bytes": 11271,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -867,7 +883,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit_Worklist.json",
       "extension": "json",
-      "bytes": 3208555,
+      "bytes": 3009877,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -875,7 +891,7 @@
     {
       "path": "01_Index/Pruefungskatalog_Mapping.json",
       "extension": "json",
-      "bytes": 20065,
+      "bytes": 20226,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -883,7 +899,7 @@
     {
       "path": "01_Index/Quellenmatrix.md",
       "extension": "md",
-      "bytes": 45388,
+      "bytes": 43011,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -901,7 +917,7 @@
     {
       "path": "01_Index/Themenreferenzen_Visuell_Geprueft.json",
       "extension": "json",
-      "bytes": 745832,
+      "bytes": 715135,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -909,7 +925,7 @@
     {
       "path": "01_Index/Tools/build_copilot_allowlist.rb",
       "extension": "rb",
-      "bytes": 3616,
+      "bytes": 3716,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -941,7 +957,7 @@
     {
       "path": "01_Index/Tools/build_verified_topics.rb",
       "extension": "rb",
-      "bytes": 43323,
+      "bytes": 43803,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1005,7 +1021,7 @@
     {
       "path": "01_Index/Tools/sync_karteikarten.rb",
       "extension": "rb",
-      "bytes": 40331,
+      "bytes": 40418,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1037,7 +1053,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/AE_Anwendungsentwicklung.md",
       "extension": "md",
-      "bytes": 13765,
+      "bytes": 11438,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
@@ -1048,7 +1064,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
       "extension": "md",
-      "bytes": 262637,
+      "bytes": 252397,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1068,7 +1084,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
       "extension": "md",
-      "bytes": 46529,
+      "bytes": 46743,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1098,7 +1114,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
       "extension": "md",
-      "bytes": 83821,
+      "bytes": 86426,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1118,27 +1134,27 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block.md",
       "extension": "md",
-      "bytes": 86282,
-      "role": "source_note",
-      "ai_use": "primary",
-      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "bytes": 15631,
+      "role": "excluded_source_note",
+      "ai_use": "excluded",
+      "reason": "Quellnotiz ist als visuell unbrauchbar oder exakt doppelt technisch ausgeschlossen",
       "typ": "quelle",
       "fach": "AE_Anwendungsentwicklung"
     },
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block.md",
       "extension": "md",
-      "bytes": 101295,
-      "role": "source_note",
-      "ai_use": "primary",
-      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "bytes": 17919,
+      "role": "excluded_source_note",
+      "ai_use": "excluded",
+      "reason": "Quellnotiz ist als visuell unbrauchbar oder exakt doppelt technisch ausgeschlossen",
       "typ": "quelle",
       "fach": "AE_Anwendungsentwicklung"
     },
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block.md",
       "extension": "md",
-      "bytes": 128340,
+      "bytes": 128356,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1178,17 +1194,17 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki.md",
       "extension": "md",
-      "bytes": 55446,
-      "role": "source_note",
-      "ai_use": "primary",
-      "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
+      "bytes": 15487,
+      "role": "excluded_source_note",
+      "ai_use": "excluded",
+      "reason": "Quellnotiz ist als visuell unbrauchbar oder exakt doppelt technisch ausgeschlossen",
       "typ": "quelle",
       "fach": "AE_Anwendungsentwicklung"
     },
     {
       "path": "02_Faecher/Allgemein_Berufsschule/Allgemein_Berufsschule.md",
       "extension": "md",
-      "bytes": 1070,
+      "bytes": 1073,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
@@ -1199,7 +1215,7 @@
     {
       "path": "02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41.md",
       "extension": "md",
-      "bytes": 11485,
+      "bytes": 9724,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1250,7 +1266,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md",
       "extension": "md",
-      "bytes": 66453,
+      "bytes": 67835,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1352,7 +1368,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/ITT_IT_Technik.md",
       "extension": "md",
-      "bytes": 18270,
+      "bytes": 18289,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
@@ -1463,7 +1479,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md",
       "extension": "md",
-      "bytes": 34254,
+      "bytes": 34051,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1523,7 +1539,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "extension": "md",
-      "bytes": 219779,
+      "bytes": 193575,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1533,7 +1549,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md",
       "extension": "md",
-      "bytes": 17568,
+      "bytes": 14646,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1624,7 +1640,7 @@
     {
       "path": "02_Faecher/Religion/Quellen/Reli_Notizen.md",
       "extension": "md",
-      "bytes": 10022,
+      "bytes": 10971,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1634,7 +1650,7 @@
     {
       "path": "02_Faecher/Religion/Religion.md",
       "extension": "md",
-      "bytes": 1402,
+      "bytes": 1389,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
@@ -1645,7 +1661,7 @@
     {
       "path": "02_Faecher/Vertretung/Quellen/Untitled.md",
       "extension": "md",
-      "bytes": 5508,
+      "bytes": 6921,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1655,7 +1671,7 @@
     {
       "path": "02_Faecher/Vertretung/Vertretung.md",
       "extension": "md",
-      "bytes": 744,
+      "bytes": 736,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
@@ -1666,7 +1682,7 @@
     {
       "path": "03_Themen/00_Kuratierte_Themen.md",
       "extension": "md",
-      "bytes": 16666,
+      "bytes": 16682,
       "role": "topic_index",
       "ai_use": "navigation",
       "reason": "Einstieg in die vollständig visuell geprüften Themen",
@@ -1753,7 +1769,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Entwicklungswerkzeuge und Debugging.md",
       "extension": "md",
-      "bytes": 3555,
+      "bytes": 2836,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -1762,9 +1778,20 @@
       "status": "visuell_geprueft"
     },
     {
+      "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java- und OOP-Grundlagen.md",
+      "extension": "md",
+      "bytes": 1776,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "Java- und OOP-Grundlagen",
+      "status": "visuell_geprueft"
+    },
+    {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java-Grundlagen.md",
       "extension": "md",
-      "bytes": 3598,
+      "bytes": 2879,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -1775,7 +1802,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Methoden Parameter und Rückgabewerte.md",
       "extension": "md",
-      "bytes": 3240,
+      "bytes": 2732,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -1786,7 +1813,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Objektorientierung.md",
       "extension": "md",
-      "bytes": 3339,
+      "bytes": 2831,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -1797,7 +1824,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Operatoren und Bedingungen.md",
       "extension": "md",
-      "bytes": 3903,
+      "bytes": 3197,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -1819,7 +1846,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programm und Software.md",
       "extension": "md",
-      "bytes": 2718,
+      "bytes": 2044,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -1841,7 +1868,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programmiersprachen und Übersetzer.md",
       "extension": "md",
-      "bytes": 3226,
+      "bytes": 2539,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -1982,20 +2009,9 @@
       "status": "visuell_geprueft"
     },
     {
-      "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Unternehmenswiki.md",
-      "extension": "md",
-      "bytes": 2457,
-      "role": "curated_topic",
-      "ai_use": "primary",
-      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
-      "typ": "visuell_geprueftes_thema",
-      "thema": "Unternehmenswiki",
-      "status": "visuell_geprueft"
-    },
-    {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Variablen und Datentypen.md",
       "extension": "md",
-      "bytes": 3793,
+      "bytes": 3099,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3225,7 +3241,7 @@
     {
       "path": "04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste.md",
       "extension": "md",
-      "bytes": 28802,
+      "bytes": 28847,
       "role": "unverified_exam_material",
       "ai_use": "excluded",
       "reason": "Planungs- oder Prüfungsschicht ohne gleichwertige seitenweise Quellenprüfung",
@@ -3389,7 +3405,7 @@
     {
       "path": "05_Karteikarten/00_Karteikarten_Index.md",
       "extension": "md",
-      "bytes": 22528,
+      "bytes": 22543,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3398,7 +3414,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Algorithmus.md",
       "extension": "md",
-      "bytes": 7835,
+      "bytes": 8455,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3408,7 +3424,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Arrays und Datenstrukturen.md",
       "extension": "md",
-      "bytes": 7001,
+      "bytes": 7535,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3418,7 +3434,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Barrierefreies Arbeiten und digitale Barrierefreiheit.md",
       "extension": "md",
-      "bytes": 6161,
+      "bytes": 6695,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3428,7 +3444,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Datenbankgrundlagen und Datenbankentwicklung.md",
       "extension": "md",
-      "bytes": 6582,
+      "bytes": 7056,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3438,7 +3454,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell.md",
       "extension": "md",
-      "bytes": 10025,
+      "bytes": 10782,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3448,7 +3464,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Datenherkunft und Informationsbeschaffung.md",
       "extension": "md",
-      "bytes": 4137,
+      "bytes": 4493,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3458,7 +3474,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/EVA-Prinzip.md",
       "extension": "md",
-      "bytes": 4124,
+      "bytes": 4552,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3468,7 +3484,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Entwicklungswerkzeuge und Debugging.md",
       "extension": "md",
-      "bytes": 11326,
+      "bytes": 8509,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3476,9 +3492,19 @@
       "thema": "Entwicklungswerkzeuge und Debugging"
     },
     {
+      "path": "05_Karteikarten/Anwendungsentwicklung/Java- und OOP-Grundlagen.md",
+      "extension": "md",
+      "bytes": 11087,
+      "role": "flashcard_index",
+      "ai_use": "excluded",
+      "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
+      "typ": "karteikarten_deck",
+      "thema": "Java- und OOP-Grundlagen"
+    },
+    {
       "path": "05_Karteikarten/Anwendungsentwicklung/Java-Grundlagen.md",
       "extension": "md",
-      "bytes": 10493,
+      "bytes": 7120,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3488,7 +3514,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Methoden Parameter und Rückgabewerte.md",
       "extension": "md",
-      "bytes": 8354,
+      "bytes": 7196,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3498,7 +3524,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Objektorientierung.md",
       "extension": "md",
-      "bytes": 10117,
+      "bytes": 7857,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3508,7 +3534,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Operatoren und Bedingungen.md",
       "extension": "md",
-      "bytes": 10013,
+      "bytes": 8586,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3518,7 +3544,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Power Apps und Power Automate.md",
       "extension": "md",
-      "bytes": 3836,
+      "bytes": 4104,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3528,7 +3554,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Programm und Software.md",
       "extension": "md",
-      "bytes": 5809,
+      "bytes": 6088,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3538,7 +3564,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Programmablaufdarstellungen.md",
       "extension": "md",
-      "bytes": 7181,
+      "bytes": 7713,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3548,7 +3574,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Programmiersprachen und Übersetzer.md",
       "extension": "md",
-      "bytes": 7817,
+      "bytes": 7060,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3558,7 +3584,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Python-Grundlagen.md",
       "extension": "md",
-      "bytes": 6819,
+      "bytes": 7272,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3568,7 +3594,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Rekursion und Iteration.md",
       "extension": "md",
-      "bytes": 4282,
+      "bytes": 4727,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3578,7 +3604,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/SQL-Aggregatfunktionen und Gruppierung.md",
       "extension": "md",
-      "bytes": 6109,
+      "bytes": 6645,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3588,7 +3614,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/SQL-Datenmanipulation INSERT UPDATE DELETE.md",
       "extension": "md",
-      "bytes": 6199,
+      "bytes": 6631,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3598,7 +3624,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/SQL-Grundlagen und SELECT-Abfragen.md",
       "extension": "md",
-      "bytes": 7872,
+      "bytes": 8416,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3608,7 +3634,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Schleifen.md",
       "extension": "md",
-      "bytes": 7836,
+      "bytes": 8438,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3618,7 +3644,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Softwareanpassung und Dokumentation.md",
       "extension": "md",
-      "bytes": 5813,
+      "bytes": 6347,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3628,7 +3654,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Softwarelebenszyklus und Vorgehensmodelle.md",
       "extension": "md",
-      "bytes": 6805,
+      "bytes": 7339,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3638,7 +3664,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Softwarequalität und Wartbarkeit.md",
       "extension": "md",
-      "bytes": 5685,
+      "bytes": 6206,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3648,7 +3674,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Softwaretest und Testverfahren.md",
       "extension": "md",
-      "bytes": 6287,
+      "bytes": 6910,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3658,7 +3684,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Suchalgorithmen.md",
       "extension": "md",
-      "bytes": 3552,
+      "bytes": 3908,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3668,7 +3694,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/UML-Diagramme.md",
       "extension": "md",
-      "bytes": 9846,
+      "bytes": 10613,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3676,19 +3702,9 @@
       "thema": "UML-Diagramme"
     },
     {
-      "path": "05_Karteikarten/Anwendungsentwicklung/Unternehmenswiki.md",
-      "extension": "md",
-      "bytes": 21780,
-      "role": "flashcard_index",
-      "ai_use": "excluded",
-      "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
-      "typ": "karteikarten_deck",
-      "thema": "Unternehmenswiki"
-    },
-    {
       "path": "05_Karteikarten/Anwendungsentwicklung/Variablen und Datentypen.md",
       "extension": "md",
-      "bytes": 11536,
+      "bytes": 8108,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3698,7 +3714,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Applying for a Position.md",
       "extension": "md",
-      "bytes": 3011,
+      "bytes": 3275,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3708,7 +3724,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Arbeitszeugnis.md",
       "extension": "md",
-      "bytes": 5727,
+      "bytes": 6227,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3718,7 +3734,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Business Communication English.md",
       "extension": "md",
-      "bytes": 6075,
+      "bytes": 6550,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3728,7 +3744,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Company Structure and Departments.md",
       "extension": "md",
-      "bytes": 4900,
+      "bytes": 5302,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3738,7 +3754,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Company Websites and Web Design.md",
       "extension": "md",
-      "bytes": 3188,
+      "bytes": 3456,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3748,7 +3764,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Fremdwörter.md",
       "extension": "md",
-      "bytes": 3496,
+      "bytes": 3847,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3758,7 +3774,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Geschäftsbrief.md",
       "extension": "md",
-      "bytes": 5194,
+      "bytes": 5802,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3768,7 +3784,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Geschäftsmail.md",
       "extension": "md",
-      "bytes": 5291,
+      "bytes": 5723,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3778,7 +3794,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Groß- und Kleinschreibung.md",
       "extension": "md",
-      "bytes": 5174,
+      "bytes": 5602,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3788,7 +3804,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/IT Jobs and Roles.md",
       "extension": "md",
-      "bytes": 4624,
+      "bytes": 5020,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3798,7 +3814,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/IT Vocabulary and Hardware.md",
       "extension": "md",
-      "bytes": 6413,
+      "bytes": 6895,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3808,7 +3824,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Introducing a Company.md",
       "extension": "md",
-      "bytes": 5269,
+      "bytes": 5671,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3818,7 +3834,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Kommasetzung.md",
       "extension": "md",
-      "bytes": 4168,
+      "bytes": 4594,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3828,7 +3844,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Kommunikation Modelle.md",
       "extension": "md",
-      "bytes": 5442,
+      "bytes": 5897,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3838,7 +3854,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Making Phone Calls and Voicemail.md",
       "extension": "md",
-      "bytes": 4375,
+      "bytes": 4777,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3848,7 +3864,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Ordering Technical Products.md",
       "extension": "md",
-      "bytes": 4876,
+      "bytes": 5278,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3858,7 +3874,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Projektmanagement Lastenheft Pflichtenheft.md",
       "extension": "md",
-      "bytes": 7439,
+      "bytes": 7894,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3868,7 +3884,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Reading Comprehension and Case Studies.md",
       "extension": "md",
-      "bytes": 5867,
+      "bytes": 6361,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3878,7 +3894,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/S-Schreibung.md",
       "extension": "md",
-      "bytes": 2940,
+      "bytes": 3228,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3888,7 +3904,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Unternehmensleitbild Corporate Identity.md",
       "extension": "md",
-      "bytes": 5193,
+      "bytes": 5577,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3898,7 +3914,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Useful Phrases and Grammar.md",
       "extension": "md",
-      "bytes": 5375,
+      "bytes": 5794,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3908,7 +3924,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/das oder dass.md",
       "extension": "md",
-      "bytes": 4815,
+      "bytes": 5247,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3918,7 +3934,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Elektrische Arbeit und Energiekosten.md",
       "extension": "md",
-      "bytes": 5906,
+      "bytes": 6416,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3928,7 +3944,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Elektrische Ladung.md",
       "extension": "md",
-      "bytes": 4516,
+      "bytes": 5020,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3938,7 +3954,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Elektrische Leistung.md",
       "extension": "md",
-      "bytes": 6642,
+      "bytes": 7230,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3948,7 +3964,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Elektrische Sicherheit und Erste Hilfe.md",
       "extension": "md",
-      "bytes": 4699,
+      "bytes": 5203,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3958,7 +3974,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Elektrischer Strom und Messtechnik.md",
       "extension": "md",
-      "bytes": 4624,
+      "bytes": 5128,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3968,7 +3984,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Elektrotechnik-Rechenmethoden.md",
       "extension": "md",
-      "bytes": 5246,
+      "bytes": 5699,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3978,7 +3994,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Gefahren des elektrischen Stroms.md",
       "extension": "md",
-      "bytes": 5334,
+      "bytes": 5838,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3988,7 +4004,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Netzteil-Wirkungsgrad und 80 PLUS.md",
       "extension": "md",
-      "bytes": 5922,
+      "bytes": 6426,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -3998,7 +4014,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Netzteil.md",
       "extension": "md",
-      "bytes": 4505,
+      "bytes": 5009,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4008,7 +4024,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand.md",
       "extension": "md",
-      "bytes": 6106,
+      "bytes": 6754,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4018,7 +4034,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen.md",
       "extension": "md",
-      "bytes": 7140,
+      "bytes": 7788,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4028,7 +4044,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/SI-Vorsätze und Einheitenumrechnung.md",
       "extension": "md",
-      "bytes": 4195,
+      "bytes": 4603,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4038,7 +4054,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Spannung Strom und Widerstand.md",
       "extension": "md",
-      "bytes": 4928,
+      "bytes": 5415,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4048,7 +4064,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/USV-Anlagen.md",
       "extension": "md",
-      "bytes": 6173,
+      "bytes": 6761,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4058,7 +4074,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Verstärkung Dämpfung und Pegelrechnung.md",
       "extension": "md",
-      "bytes": 7213,
+      "bytes": 8125,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4068,7 +4084,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/BSI-Modellierung.md",
       "extension": "md",
-      "bytes": 7406,
+      "bytes": 7987,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4078,7 +4094,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Backup und Datensicherung.md",
       "extension": "md",
-      "bytes": 5865,
+      "bytes": 6446,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4088,7 +4104,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Binärzahlen.md",
       "extension": "md",
-      "bytes": 4790,
+      "bytes": 5212,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4098,7 +4114,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Computergrundbegriffe.md",
       "extension": "md",
-      "bytes": 3239,
+      "bytes": 3540,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4108,7 +4124,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Cyberphysische Systeme und Automatisierungspyramide.md",
       "extension": "md",
-      "bytes": 7139,
+      "bytes": 7744,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4118,7 +4134,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Datenschutz und Rollen.md",
       "extension": "md",
-      "bytes": 4975,
+      "bytes": 5509,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4128,7 +4144,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Digitaltechnik und Logikschaltungen.md",
       "extension": "md",
-      "bytes": 5100,
+      "bytes": 5566,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4138,7 +4154,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Exchange- und Outlook-Sicherheit.md",
       "extension": "md",
-      "bytes": 4888,
+      "bytes": 5386,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4148,7 +4164,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Hexadezimalsystem.md",
       "extension": "md",
-      "bytes": 4295,
+      "bytes": 4715,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4158,7 +4174,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Hochverfügbarkeit und Redundanz.md",
       "extension": "md",
-      "bytes": 7779,
+      "bytes": 8429,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4168,7 +4184,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting.md",
       "extension": "md",
-      "bytes": 8986,
+      "bytes": 9800,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4178,7 +4194,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/IT-Sicherheit Grundlagen.md",
       "extension": "md",
-      "bytes": 5923,
+      "bytes": 6461,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4188,7 +4204,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Kryptografie Hash und Signatur.md",
       "extension": "md",
-      "bytes": 7492,
+      "bytes": 8083,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4198,7 +4214,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Künstliche Intelligenz und Prompting.md",
       "extension": "md",
-      "bytes": 3106,
+      "bytes": 3374,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4208,7 +4224,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Malware und Angriffe.md",
       "extension": "md",
-      "bytes": 9029,
+      "bytes": 9767,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4218,7 +4234,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Mobile Sicherheit.md",
       "extension": "md",
-      "bytes": 4896,
+      "bytes": 5394,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4228,7 +4244,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Netzwerktechnik und Netzplan.md",
       "extension": "md",
-      "bytes": 12040,
+      "bytes": 13057,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4238,7 +4254,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Node-RED und IoT-Flows.md",
       "extension": "md",
-      "bytes": 3944,
+      "bytes": 4352,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4248,7 +4264,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/OSI-Schichtenmodell.md",
       "extension": "md",
-      "bytes": 10915,
+      "bytes": 11850,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4258,7 +4274,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Physische Sicherheit und Infrastruktur.md",
       "extension": "md",
-      "bytes": 7654,
+      "bytes": 8228,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4268,7 +4284,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/RAID-Systeme.md",
       "extension": "md",
-      "bytes": 5297,
+      "bytes": 5871,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4278,7 +4294,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Risikoanalyse.md",
       "extension": "md",
-      "bytes": 5470,
+      "bytes": 5968,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4288,7 +4304,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/SI- und IEC-Dateneinheiten.md",
       "extension": "md",
-      "bytes": 5192,
+      "bytes": 5694,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4298,7 +4314,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Schutzbedarfsfeststellung.md",
       "extension": "md",
-      "bytes": 6296,
+      "bytes": 6877,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4308,7 +4324,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Sicherheitsmanagement und ISMS.md",
       "extension": "md",
-      "bytes": 5560,
+      "bytes": 6065,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4318,7 +4334,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Sicherheitsmanagement und Maßnahmen.md",
       "extension": "md",
-      "bytes": 5474,
+      "bytes": 5986,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4328,7 +4344,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Strukturanalyse und Informationsverbund.md",
       "extension": "md",
-      "bytes": 6405,
+      "bytes": 6984,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4338,7 +4354,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Umsetzungsplanung.md",
       "extension": "md",
-      "bytes": 4825,
+      "bytes": 5323,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4348,7 +4364,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Zeichencodierung und ASCII.md",
       "extension": "md",
-      "bytes": 4543,
+      "bytes": 4982,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4358,7 +4374,7 @@
     {
       "path": "05_Karteikarten/Religion_Ethik/Freiheit und Selbstbestimmung.md",
       "extension": "md",
-      "bytes": 4506,
+      "bytes": 4926,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4368,7 +4384,7 @@
     {
       "path": "05_Karteikarten/Religion_Ethik/Gewissen und Verantwortung.md",
       "extension": "md",
-      "bytes": 5890,
+      "bytes": 6425,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4378,7 +4394,7 @@
     {
       "path": "05_Karteikarten/Religion_Ethik/Karwoche und Kirchenjahr.md",
       "extension": "md",
-      "bytes": 2907,
+      "bytes": 3187,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4388,7 +4404,7 @@
     {
       "path": "05_Karteikarten/Religion_Ethik/Nelson Mandela und Vorbilder.md",
       "extension": "md",
-      "bytes": 2357,
+      "bytes": 2567,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4398,7 +4414,7 @@
     {
       "path": "05_Karteikarten/Religion_Ethik/Religion Ethik und Menschenbild.md",
       "extension": "md",
-      "bytes": 2389,
+      "bytes": 2599,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4408,7 +4424,7 @@
     {
       "path": "05_Karteikarten/Religion_Ethik/Symbole und Glaube.md",
       "extension": "md",
-      "bytes": 2873,
+      "bytes": 3153,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4418,7 +4434,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Angebotsvergleich und Nutzwertanalyse.md",
       "extension": "md",
-      "bytes": 6063,
+      "bytes": 6471,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4428,7 +4444,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Ausbildungsvertrag und BBiG.md",
       "extension": "md",
-      "bytes": 5041,
+      "bytes": 5407,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4438,7 +4454,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Beschaffungsquellen und Stammdaten.md",
       "extension": "md",
-      "bytes": 5260,
+      "bytes": 5696,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4448,7 +4464,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Besitz Eigentum und Rechtssubjekte.md",
       "extension": "md",
-      "bytes": 4515,
+      "bytes": 4917,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4458,7 +4474,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Betrieb und Unternehmen.md",
       "extension": "md",
-      "bytes": 5399,
+      "bytes": 5808,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4468,7 +4484,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Betriebsrat und Betriebsverfassung.md",
       "extension": "md",
-      "bytes": 5115,
+      "bytes": 5457,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4478,7 +4494,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Bezugskalkulation und Verkaufskalkulation.md",
       "extension": "md",
-      "bytes": 6054,
+      "bytes": 6462,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4488,7 +4504,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Bundesurlaubsgesetz.md",
       "extension": "md",
-      "bytes": 3841,
+      "bytes": 4183,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4498,7 +4514,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Business Process Model and Notation BPMN.md",
       "extension": "md",
-      "bytes": 6719,
+      "bytes": 7139,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4508,7 +4524,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Deckungsbeitrag und Gewinnschwelle.md",
       "extension": "md",
-      "bytes": 5616,
+      "bytes": 6092,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4518,7 +4534,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Direkter und indirekter Vertrieb.md",
       "extension": "md",
-      "bytes": 3276,
+      "bytes": 3548,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4528,7 +4544,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Ereignisgesteuerte Prozessketten EPK.md",
       "extension": "md",
-      "bytes": 6911,
+      "bytes": 7325,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4538,7 +4554,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Gemeinnützige Organisationen.md",
       "extension": "md",
-      "bytes": 4567,
+      "bytes": 4921,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4548,7 +4564,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte.md",
       "extension": "md",
-      "bytes": 9602,
+      "bytes": 10277,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4558,7 +4574,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/IT-Servicearten und Service-Management.md",
       "extension": "md",
-      "bytes": 6282,
+      "bytes": 6702,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4568,7 +4584,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Jugendarbeitsschutz.md",
       "extension": "md",
-      "bytes": 4894,
+      "bytes": 5230,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4578,7 +4594,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Kaufvertrag und Geschäftsfähigkeit.md",
       "extension": "md",
-      "bytes": 6637,
+      "bytes": 7131,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4588,7 +4604,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Kündigung und Arbeitsrecht.md",
       "extension": "md",
-      "bytes": 6444,
+      "bytes": 6857,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4598,7 +4614,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Lohn- und Gehaltsabrechnung.md",
       "extension": "md",
-      "bytes": 5833,
+      "bytes": 6175,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4608,7 +4624,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Marktumfeld und Marktformen.md",
       "extension": "md",
-      "bytes": 5890,
+      "bytes": 6244,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4618,7 +4634,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Mutterschutz.md",
       "extension": "md",
-      "bytes": 4010,
+      "bytes": 4295,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4628,7 +4644,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Organisation im Betrieb.md",
       "extension": "md",
-      "bytes": 9170,
+      "bytes": 9704,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4638,7 +4654,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Personalwirtschaft und Personalentwicklung.md",
       "extension": "md",
-      "bytes": 5005,
+      "bytes": 5347,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4648,7 +4664,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Produktionsfaktoren.md",
       "extension": "md",
-      "bytes": 4778,
+      "bytes": 5141,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4658,7 +4674,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Projektplanung und Netzplanmethode.md",
       "extension": "md",
-      "bytes": 6431,
+      "bytes": 6833,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4668,7 +4684,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Prozessmanagement und Geschäftsprozesse.md",
       "extension": "md",
-      "bytes": 6143,
+      "bytes": 6626,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4678,7 +4694,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Rechtsformen.md",
       "extension": "md",
-      "bytes": 6049,
+      "bytes": 6403,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4688,7 +4704,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Schwerbehinderung.md",
       "extension": "md",
-      "bytes": 5026,
+      "bytes": 5464,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4698,7 +4714,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Sozialversicherung.md",
       "extension": "md",
-      "bytes": 4876,
+      "bytes": 5218,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4708,7 +4724,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Tarifvertrag und Koalitionsrecht.md",
       "extension": "md",
-      "bytes": 6011,
+      "bytes": 6410,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4718,7 +4734,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur.md",
       "extension": "md",
-      "bytes": 6217,
+      "bytes": 6625,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4728,7 +4744,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Unternehmensrecht Handelsregister Vollmachten.md",
       "extension": "md",
-      "bytes": 7388,
+      "bytes": 7801,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4738,7 +4754,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Unternehmensziele.md",
       "extension": "md",
-      "bytes": 4810,
+      "bytes": 5174,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4748,7 +4764,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Urheberrecht.md",
       "extension": "md",
-      "bytes": 4856,
+      "bytes": 5366,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4758,7 +4774,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Weimarer Verfassung und Grundgesetz.md",
       "extension": "md",
-      "bytes": 6165,
+      "bytes": 6570,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4768,7 +4784,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Wettbewerbsrecht und Unternehmenszusammenschlüsse.md",
       "extension": "md",
-      "bytes": 6094,
+      "bytes": 6507,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4778,7 +4794,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Wirtschaftlichkeit und Rechnungswesen.md",
       "extension": "md",
-      "bytes": 5862,
+      "bytes": 6321,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4788,7 +4804,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Wirtschaftssektoren.md",
       "extension": "md",
-      "bytes": 4581,
+      "bytes": 4876,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4921,7 +4937,7 @@
     {
       "path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
       "extension": "pdf",
-      "bytes": 5922767,
+      "bytes": 6301365,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
@@ -4937,7 +4953,7 @@
     {
       "path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
       "extension": "pdf",
-      "bytes": 6602625,
+      "bytes": 6608913,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
@@ -5257,7 +5273,7 @@
     {
       "path": "README.md",
       "extension": "md",
-      "bytes": 6002,
+      "bytes": 5996,
       "role": "project_metadata",
       "ai_use": "excluded",
       "reason": "Projekt-, Git- und Auditmetadaten; kein fachlicher Lernbeleg"

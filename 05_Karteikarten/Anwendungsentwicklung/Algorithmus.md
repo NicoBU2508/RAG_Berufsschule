@@ -51,7 +51,7 @@ tags:
 **Wie hängen Algorithmus, Programm und Software nach dem EVA-Prinzip zusammen?**
 ?
 Ein **Algorithmus** ist eine Bearbeitungsvorschrift (Lösungsweg) für eine Aufgabe; in einer Programmiersprache formuliert bildet er ein **Programm**, das Daten nach dem **EVA-Prinzip** (Eingabe → Verarbeitung → Ausgabe) verarbeitet. **Software** ist der umfassendere Begriff und schließt neben Programmen auch zugehörige Daten und Dokumentationen ein.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 1 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 1](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=1>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -59,7 +59,7 @@ Ein **Algorithmus** ist eine Bearbeitungsvorschrift (Lösungsweg) für eine Aufg
 **Wodurch unterscheiden sich Struktogramm (STG), Programmablaufplan (PAP) und Pseudocode?**
 ?
 Das **Struktogramm** (Nassi-Shneiderman-Diagramm) stellt den Ablauf als geschlossenen Block dar, der **PAP** nutzt genormte Flusssymbole mit Ablaufpfeilen (DIN 66001) und **Pseudocode** beschreibt ihn halbformal textuell (nicht genormt, Anweisungen mit `:=` und `;`, inkl. Variablen-/Konstantendeklarationen).
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 7–8, 10 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 7–8, 10](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -67,7 +67,7 @@ Das **Struktogramm** (Nassi-Shneiderman-Diagramm) stellt den Ablauf als geschlos
 **Was unterscheidet eine einseitig bedingte Auswahl von einer zweiseitig bedingten Auswahl (Verzweigung/Alternative)?**
 ?
 Bei der **einseitig bedingten Auswahl** (bedingte Anweisung) wird nur bei erfüllter Bedingung ein Anweisungsblock ausgeführt, während der Nein-Zweig leer bleibt. Bei der **zweiseitig bedingten Auswahl** existiert sowohl für `Ja` als auch für `Nein` ein eigener Ausführungszweig.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 7–8 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 7–8](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=7>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -75,7 +75,7 @@ Bei der **einseitig bedingten Auswahl** (bedingte Anweisung) wird nur bei erfül
 **Welche drei Methoden der schrittweisen Verfeinerung (Stepwise Refinement) werden beim Programmentwurf unterschieden?**
 ?
 **Top-Down** (Gesamtproblem wird in Teilalgorithmen zerlegt), **Bottom-Up** (einzelne Module werden bei ungenauer Aufgabenstellung entwickelt und zusammengefügt) und **Up-Down / Gegenstrom- / Middle-Out-Verfahren** (Gesamtaufgabe Top-Down verfeinern, kritische Teilaufgaben vorab Bottom-Up testen).
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 24–25 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 24–25](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=24>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -83,7 +83,7 @@ Bei der **einseitig bedingten Auswahl** (bedingte Anweisung) wird nur bei erfül
 **Wie grenzen sich das Modularitätsprinzip und das Abstraktionsprinzip voneinander ab?**
 ?
 Das **Modularitätsprinzip** zerlegt die Gesamtaufgabe in einzeln programmier-, test- und wiederverwendbare Module, die über definierte **Schnittstellen (Interfaces)** Daten austauschen. Das **Abstraktionsprinzip** reduziert die Betrachtung auf das Wesentliche, indem unwesentliche Daten weggelassen werden.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 25 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 25](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=25>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -91,7 +91,7 @@ Das **Modularitätsprinzip** zerlegt die Gesamtaufgabe in einzeln programmier-, 
 **Was stellt ein Datenflussplan (DFP) nach DIN 66001 im Unterschied zu einem PAP dar?**
 ?
 Während der PAP den logischen Kontrollfluss eines Programms abbildet, zeigt der **Datenflussplan (data flow chart)** grafisch den **Verlauf der Daten** über Eingabeeinheiten, (manuelle/allgemeine) Verarbeitungsvorgänge, Ausgaben sowie Speicher mit sequenziellem oder direktem Zugriff.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 42 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 42](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=42>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---
 
@@ -99,4 +99,4 @@ Während der PAP den logischen Kontrollfluss eines Programms abbildet, zeigt der
 **Wie funktioniert ein Schreibtischtest und was wird dabei anhand eines Struktogramms geprüft?**
 ?
 Beim **Schreibtischtest** werden alle beteiligten Variablen (z. B. Laufvariable, Merker wie `Position` und Vergleichswerte) Durchlauf für Durchlauf tabellarisch mit konkreten Testdaten nachvollzogen. So lassen sich Ablaufstrukturen, Zwischenwerte und die finale Ausgabe manuell verifizieren.
-*Quelle: AE Anwendungsentwicklung (1. LJ) · `01_Algorithmus_Programm_Software_EVA.pdf` S. 19 (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 19](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=19>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
