@@ -2,7 +2,7 @@
 
 Erstelle am 20.06.26
 
-Ein Wissens- und Lern-RAG für die Fachinformatiker-Ausbildung (AE) IHK Bayern, das Obsidian über automatisierte über Python Scripte mit GoodNotes verbindet. Neue PDF-Mitschriften werden automatisch auf Duplikate geprüft, für KI-Assistenten aufbereitet und automatisch in Themenbereiche sowie Karteikarten eingeordnet und logisch aufbereitet. – ergänzt durch einen maßgeschneiderten KI-Lerncoach-Skill (`ap-lerncoach`) mit wissenschaftlichen Lernmethoden zur gezielten IHK-Prüfungsvorbereitung (**AP1** und **AP2**) sowie zum Lernen für Tests.
+Ein Wissens- und Lern-RAG für die Fachinformatiker-Ausbildung (AE) IHK Bayern, das Obsidian über automatisierte Python Scripte mit GoodNotes verbindet. Neue PDF-Mitschriften werden automatisch auf Duplikate geprüft, für KI-Assistenten aufbereitet und automatisch in Themenbereiche sowie Karteikarten eingeordnet und logisch aufbereitet. – ergänzt durch einen maßgeschneiderten KI-Lerncoach-Skill (`ap-lerncoach`) mit wissenschaftlichen Lernmethoden zur gezielten IHK-Prüfungsvorbereitung (**AP1** und **AP2**) sowie zum Lernen für Tests.
 
 Nutzbar ist das RAG über alle in der IDE integrierten KI Agenten sowie alle die die Zugriff auf Lokale Datein auf deinem PC haben. Für die light Version Reicht es den aktuellen stand in eine ZIP zu packen und ihm einen Skill oder einem Agenten anzuhängen (wichtig dabei ist das dieser Skill mit enthalten ist KI-Lerncoach-Skill (`ap-lerncoach`)). Falls diese zu groß ist können auch nur die Themenbereche und Karteikarten gezipt werden, da diese in für KI gut lesbaren .md Format geschrieben sind und für die reine Funktionalität absolut ausreichen.
 
