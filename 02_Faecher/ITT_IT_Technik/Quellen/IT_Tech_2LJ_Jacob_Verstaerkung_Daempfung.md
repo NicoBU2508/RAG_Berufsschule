@@ -3,7 +3,7 @@ typ: quelle
 fach: "ITT_IT_Technik"
 fach_anzeige: "ITT IT-Technik"
 original_pfad: "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf"
-seiten: 7
+seiten: 8
 pruefung: "AP1, AP2"
 cssclasses:
   - lernquelle
@@ -12,31 +12,31 @@ tags:
   - quelle
   - itt_it_technik
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
 kanonische_themen: 3
-seiten_mit_kanonischem_thema: 6
-ki_exclude_seiten: [7]
+seiten_mit_kanonischem_thema: 7
+ki_exclude_seiten: [8]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=4, ocr_verified=2)"
-textzeichen: 6914
+textstatus: "gemischt: visuell geprüft (ok=3, ocr_verified=4)"
+textzeichen: 8588
 ---
 # 📄 1 30 Grundlagen Elektro  Verstaerkung Daempfung
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
 > - **Original-PDF:** [1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf>)
-> - **Seiten:** 7
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=4, ocr_verified=2)
+> - **Seiten:** 8
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=3, ocr_verified=4)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
 
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
-| [[03_Themen/Visuell_geprueft/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand\|Ohmsches Gesetz und Leiterwiderstand]] | Prüfungsrahmen der Quelle | 5 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen\|Reihen-, Parallel- und Gruppenschaltungen]] | Prüfungsrahmen der Quelle | 5 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/Elektrotechnik/Verstärkung Dämpfung und Pegelrechnung\|Verstärkung Dämpfung und Pegelrechnung]] | Prüfungsrahmen der Quelle | 1–6 | Visuell bestätigt auf 6 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand\|Ohmsches Gesetz und Leiterwiderstand]] | Prüfungsrahmen der Quelle | 5–6 | Visuell bestätigt auf 2 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen\|Reihen-, Parallel- und Gruppenschaltungen]] | Prüfungsrahmen der Quelle | 5–6 | Visuell bestätigt auf 2 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Elektrotechnik/Verstärkung Dämpfung und Pegelrechnung\|Verstärkung Dämpfung und Pegelrechnung]] | Prüfungsrahmen der Quelle | 1–5, 7 | Visuell bestätigt auf 6 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
 
@@ -217,16 +217,27 @@ Handschriftliche Lösungen zu den Aufgaben „Übertragung – Verstärkungs- un
 > ![[99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf#page=5]]
 
 > [!ocr] Visuell transkribiert
-> Text und Inhalte aus der visuellen Seitenprüfung verifiziert und ergänzt.
+> Handschriftlicher Lösungsansatz sowie eingefügtes Foto der vollständigen RC-Tiefpass-Berechnung zu Aufgabe 8 aus der Sichtprüfung transkribiert.
 
 #### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Handschriftlicher Lösungsansatz zu Aufgabe 8 (Spannungsteiler / Reihenschaltung R_1 = 10 kΩ, R_2 = 10 kΩ, U_E = 10 V):
-- Gesucht: D_U = U_E / U_A
-- U_A = U_2 = I_2 * R_2
+Lösungen zu Aufgabe 8 (von Seite 3):
+
+1. Oberer handschriftlicher Ansatz (ohmscher Spannungsteiler R_1 = 10 kΩ, R_2 = 10 kΩ, U_E = 10 V):
+- Gesucht: D_U = U_E / U_A = 10 V / U_A
+- U_A = U_2 = I_2 * R_2 mit R_2 = 10 kΩ
 - I_2 = I_1 = I_G = U_E / R_G = 10 V / (R_1 + R_2) = 10 V / 20 kΩ = 0,5 mA
-(Hinweis: Ansatz mit rein ohmschem Spannungsteiler; bei Aufgabe 8 auf S. 3 war ein RC-Tiefpass mit C = 22 nF bei f = 1 kHz gegeben.)
+
+2. Eingefügtes Foto – vollständige Lösung zum RC-Tiefpass (Bild 3: R = 10 kΩ, C = 22 nF, U_1 = 10 V bei f = 1 kHz):
+- Aufgabenstellung: Berechnen Sie den Spannungsdämpfungsfaktor des Tiefpasses (Bild 3) bei einer Frequenz von 1 kHz.
+- Kapazitiver Blindwiderstand:
+  X_C = 1 / (2 * pi * f * C) = 1 / (2 * pi * 1 kHz * 22 nF) = 7,2 kΩ
+- Scheinwiderstand (Impedanz, Zeigeraddition R senkrecht zu X_C):
+  Z = sqrt(R^2 + X_C^2) = 12,3 kΩ
+- Spannungsdämpfungsfaktor:
+  D = U_E / U_A = U_E / (I_2 * X_C) = U_E / ((U_g / Z) * X_C)
+    = 10 V / ((10 V / 12,3 kΩ) * 7,2 kΩ) = 1,7
 ```
 
 ### Seite 6
@@ -239,32 +250,60 @@ Handschriftlicher Lösungsansatz zu Aufgabe 8 (Spannungsteiler / Reihenschaltung
 > ![[99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf#page=6]]
 
 > [!ocr] Visuell transkribiert
-> Im PDF fehlte die sichtbare Aufgabentextschicht (nur versteckte Formelzeichen mit Nullbytes wurden extrahiert). Sichtbare Aufgaben 1–3 aus Sichtprüfung sauber transkribiert.
+> Eingefügtes Tafelfoto und schrittweise Schaltungsumzeichnung (Brückenleitungen R = 0 Ω -> Parallelschaltung) aus der Sichtprüfung transkribiert.
 
 #### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Signaltechnik – 6 Aufgaben (Blatt 3, unausgefüllt)
+Schaltungsanalyse – Gesamtwiderstand R_ges bei Überbrückungsleitungen (R = 0 Ω):
 
-1. Multiple-Choice-Frage zur Leistungsverstärkung:
-   Welche Aussage ist richtig? Erhöht sich das Leistungsverstärkungsmaß um 3 dB, dann:
-   - versechsfacht / verdreifacht / verdoppelt / halbiert / drittelt / sechstelt sich der Leistungsverstärkungsfaktor?
+1. Gegebene Schaltung (Tafelfoto oben):
+- Drei Widerstände mit je 360 Ω (R_1 = 360 Ω, R_2 = 360 Ω, R_3 = 360 Ω) liegen nebeneinander in einem Strang.
+- Obere Brücke (R = 0 Ω): verbindet den Knoten links vor R_1 direkt mit dem Knoten zwischen R_2 und R_3.
+- Untere Brücke (R = 0 Ω): verbindet den Knoten zwischen R_1 und R_2 direkt mit dem Knoten rechts hinter R_3.
+- Gesucht: R_ges = ?
 
-2. Empfangsantenne / Leitungsdämpfung:
-   - Pegel an Empfangsantenne: L_U = 46 dBµV
-   - Leitungslänge Antenne–Empfänger: l = 24 m
-   - Leitungsdämpfung: a_L = 8,4 dB pro 100 m
-   - a) Welcher Spannungspegel ist am Empfänger vorhanden?
-   - b) Welches Verstärkungsmaß ist notwendig, wenn ein Mindestpegel von 60 dBµV am Empfänger anliegen muss?
-
-3. Verstärker:
-   - Ausgangsspannung U_A = 6 V, Spannungsverstärkungsmaß v_U = 30 dB
-   - a) Berechnen Sie den Spannungsverstärkungsfaktor V_U.
-   - b) Berechnen Sie die anliegende Eingangsspannung U_E.
+2. Schrittweise Umzeichnung (Mitte und unten):
+- Da beide Brücken widerstandslos (R = 0 Ω) sind, liegen jeweils auf gleichem Potenzial:
+  - Eingangspotenzial (links): linker Anschluss von Widerstand 1, rechter Anschluss von Widerstand 2 und linker Anschluss von Widerstand 3.
+  - Ausgangspotenzial (rechts): rechter Anschluss von Widerstand 1, linker Anschluss von Widerstand 2 und rechter Anschluss von Widerstand 3.
+- Ersatzschaltbild (unten): Alle drei Widerstände (1, 2, 3 mit je 360 Ω) liegen elektrisch in einer reinen Parallelschaltung (R_ges = 360 Ω / 3 = 120 Ω).
 ```
 
 ### Seite 7
 
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf Seite 7](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf#page=7>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf#page=7]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf#page=7]]
+
+> [!ocr] Visuell transkribiert
+> Im PDF fehlte die sichtbare Aufgabentextschicht (nur versteckte Formelzeichen wurden extrahiert). Sichtbare Aufgaben 1–3 aus Sichtprüfung sauber transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Signaltechnik – 6 Aufgaben (IT => 1_30_Grundlagen_Elektro__Verstaerkung_Daempfung, Blatt 3, unausgefüllt)
+
+1. Multiple-Choice-Frage zur Leistungsverstärkung:
+   Welche Aussage über die Leistungsverstärkung ist richtig?
+   - Erhöht sich das Leistungsverstärkungsmaß um 3 dB dann versechsfacht / verdreifacht / verdoppelt / halbiert / drittelt / sechstelt sich der Leistungsverstärkungsfaktor.
+
+2. Empfangsantenne / Leitungsdämpfung:
+   An einer Empfangsantenne wurde ein Pegel von 46 dBµV gemessen. Die Verbindungsleitung zwischen Antenne und Empfänger hat eine Länge von 24 m. Die Dämpfung der Leitung beträgt 8,4 dB pro 100 m.
+   a) Welcher Spannungspegel ist am Empfänger vorhanden?
+   b) Welches Verstärkungsmaß ist notwendig, wenn ein Mindestpegel von 60 dBµV am Empfänger anliegen muss?
+
+3. Verstärker:
+   Ein Verstärker hat bei einer Ausgangsspannung von 6 V das Spannungsverstärkungsmaß 30 dB.
+   a) Berechnen Sie den Spannungsverstärkungsfaktor.
+   b) Berechnen Sie die anliegende Eingangsspannung.
+```
+
+### Seite 8
+
 > [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
-> Grund: Exakte seiteninterne Dublette von Seite 6. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+> Grund: Exakte seiteninterne Dublette von Seite 7. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
 

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "updated_on": "2026-11-24",
+  "hinweis": "Maschinenlesbarer Index aller visuell geprueften Original-IHK-Altklausuren und offiziellen Loesungshinweise aus 06_Altklausuren/. Wird automatisch von ruby 01_Index/Tools/import_altklausur.rb apply gepflegt.",
+  "totals": {
+    "exams": 0,
+    "tasks": 0,
+    "tasks_with_official_solution": 0
+  },
+  "exams": [
+
+  ],
+  "tasks": [
+
+  ]
+}

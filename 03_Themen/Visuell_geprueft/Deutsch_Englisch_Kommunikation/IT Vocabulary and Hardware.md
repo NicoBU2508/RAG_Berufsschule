@@ -2,8 +2,8 @@
 id: vault.thema.visuell.it.vocabulary.and.hardware
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-23
-reviewed_on: 2026-11-23
+stand: 2026-11-26
+reviewed_on: 2026-11-26
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
@@ -11,7 +11,7 @@ thema: "IT Vocabulary and Hardware"
 kategorie: Deutsch_Englisch_Kommunikation
 pruefung: "AP1"
 quellen: 2
-seiten: 9
+seiten: 15
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -30,7 +30,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
 | [[02_Faecher/Englisch/Quellen/Englisch\|Englisch]] | [35–41](<99_Originale/Berufsschule/Englisch/1_LJ/Englisch.pdf#page=35>) | aufgabe, index, loesung | Text für Zitate geeignet |
-| [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals\|Englisch_2LJ_Conditionals]] | [9–10](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=9>) | beispiel | Text für Zitate geeignet |
+| [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals\|Englisch_2LJ_Conditionals]] | [9–10, 15–20](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=9>) | aufgabe, beispiel, loesung | 3 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

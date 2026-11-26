@@ -2,19 +2,21 @@
 typ: karteikarten_deck
 thema: Grundgesetz Staatsprinzipien und Grundrechte
 kategorie: Wirtschaft_und_Recht
-pruefung: "AP2"
+pruefung: AP2
 thema_quelle: 03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien
   und Grundrechte.md
-stand_karten: '2026-11-24'
-stand_quelle: '2026-11-24'
-quellseiten_anzahl: 13
-quellseiten_hash: '090d484e28e2'
+stand_karten: '2026-11-26'
+stand_quelle: '2026-11-26'
+quellseiten_anzahl: 15
+quellseiten_hash: 3b1555862906
 quellseiten:
 - 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=1
 - 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=10
 - 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=12
 - 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=13
 - 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=15
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=16
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=19
 - 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=2
 - 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=3
 - 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=4
@@ -32,7 +34,7 @@ tags:
 # 🗂️ Karteikarten: Grundgesetz Staatsprinzipien und Grundrechte
 
 > [!tip] Quellenbasis
-> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte|Grundgesetz Staatsprinzipien und Grundrechte]] (**13 visuell geprüfte Seiten**).
+> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte|Grundgesetz Staatsprinzipien und Grundrechte]] (**15 visuell geprüfte Seiten**).
 
 ---
 
@@ -96,7 +98,7 @@ Fehlende Sperrklausel → **5 %-Hürde** gegen Zersplitterung; fehlender Verfass
 **Wie unterscheiden sich Demokratie und Diktatur bei Machterwerb und Herrschaftsausübung (Grundgesetz vs. NS-Drittes Reich)?**
 ?
 In einer **Demokratie** beruht die Herrschaft auf **freien Wahlen**, **Volkssouveränität** und **Gewaltenteilung**. In einer **Diktatur** (NS-Drittes Reich 1933–1945) gibt es ab 1933 **keine regelmäßigen, geheimen und unabhängigen Wahlen**; **eine Person** („Führer“ Adolf Hitler) besitzt uneingeschränkte Macht.
-*Quelle: PuG Politik und Gesellschaft (2. LJ) · `PUG_Mitschrift.pdf` S. 15 (von 18) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (2. LJ) · `PUG_Mitschrift.pdf` S. 15 (von 19) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -104,4 +106,12 @@ In einer **Demokratie** beruht die Herrschaft auf **freien Wahlen**, **Volkssouv
 **Welche Grundrechte garantiert die Demokratie im GG und wie wurden diese in der NS-Diktatur (1933–1945) missachtet?**
 ?
 Das GG schützt u. a. **Menschenwürde** (Art. 1), **Freiheit der Person** (Art. 2), **Gleichheit vor dem Gesetz** (Art. 3), **Glaubens- und Gewissensfreiheit** (Art. 4), **freie Meinungsäußerung** (Art. 5) und **Vereinigungsfreiheit** (Art. 9). Im **NS-Dritten Reich** folgten stattdessen Ausgrenzung, Kennzeichnungspflicht und Verfolgung (Juden, politische Gegner), Bestrafung bei regimekritischer Meinungsäußerung, Propaganda durch ein eigenes Reichsministerium, Euthanasie (Ermordung kranker und behinderter Menschen) sowie unmenschliche Lebens- und Arbeitsbedingungen in KZs (Vernichtungs- und Arbeitslager).
-*Quelle: PuG Politik und Gesellschaft (2. LJ) · `PUG_Mitschrift.pdf` S. 15 (von 18) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: PuG Politik und Gesellschaft (2. LJ) · `PUG_Mitschrift.pdf` S. 15 (von 19) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: grundgesetz-staatsprinzipien-und-grundrechte-10 | typ: abgrenzung | pruefung: AP2 -->
+**Welche demokratischen Prinzipien und Grundrechte des Grundgesetzes fehlten in der SED-Parteidiktatur der DDR?**
+?
+Es gab **keine Gewaltenteilung** (Volkskammer, Ministerrat und Staatsrat waren eng mit der SED verbunden), **keine freien Wahlen** (Scheinpluralismus der Nationalen Front), **Überwachung durch die Stasi** sowie massive Grundrechtseinschränkungen: **keine Meinungsfreiheit** (vgl. Art. 5 GG), **keine Reisefreiheit/Freizügigkeit** (vgl. Art. 11 GG) und **keine freie Berufswahl** (vgl. Art. 12 GG).
+*Quelle: PuG Politik und Gesellschaft (2. LJ) · `PUG_Mitschrift.pdf` S. 16, 19 (von 19) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*

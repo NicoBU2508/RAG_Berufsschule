@@ -1,34 +1,35 @@
 ---
 typ: karteikarten_deck
-thema: "Ohmsches Gesetz und Leiterwiderstand"
+thema: Ohmsches Gesetz und Leiterwiderstand
 kategorie: Elektrotechnik
-pruefung: "AP1"
-thema_quelle: "03_Themen/Visuell_geprueft/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand.md"
-stand_karten: 2026-11-24
-stand_quelle: 2026-11-24
-quellseiten_anzahl: 10
-quellseiten_hash: a8a1b7ec942e
+pruefung: AP1
+thema_quelle: 03_Themen/Visuell_geprueft/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand.md
+stand_karten: '2026-11-26'
+stand_quelle: '2026-11-26'
+quellseiten_anzahl: 11
+quellseiten_hash: 4a5bb469d2c8
 quellseiten:
-  - "02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT#page=1"
-  - "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=5"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=56"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=57"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=58"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=59"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=60"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=61"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=62"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=63"
+- 02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT#page=1
+- 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=5
+- 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=6
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=56
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=57
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=58
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=59
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=60
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=61
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=62
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=63
 rag_include: false
 canonical_evidence: false
 tags:
-  - karteikarten
-  - flashcards/elektrotechnik/ohmsches-gesetz-und-leiterwiderstand
+- karteikarten
+- flashcards/elektrotechnik/ohmsches-gesetz-und-leiterwiderstand
 ---
 # 🗂️ Karteikarten: Ohmsches Gesetz und Leiterwiderstand
 
 > [!tip] Quellenbasis
-> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand|Ohmsches Gesetz und Leiterwiderstand]] (**10 visuell geprüfte Seiten**).
+> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand|Ohmsches Gesetz und Leiterwiderstand]] (**11 visuell geprüfte Seiten**).
 
 ---
 
@@ -68,7 +69,7 @@ $R = \frac{U}{I} = \frac{1.000\,\text{V}}{0{,}1\,\text{A}} = 10.000\,\Omega = 10
 **Wie bestimmt man bei einem ohmschen Spannungsteiler (R₁ = 10 kΩ, R₂ = 10 kΩ, U_E = 10 V) den Gesamtstrom und U_A = U₂?**
 ?
 Zuerst Gesamtwiderstand und Strom berechnen: $I_G = \frac{U_E}{R_1 + R_2} = \frac{10\,\text{V}}{20\,\text{k}\Omega} = 0{,}5\,\text{mA}$. Da $I_2 = I_G$, folgt $U_A = U_2 = I_2 \cdot R_2 = 0{,}5\,\text{mA} \cdot 10\,\text{k}\Omega = 5\,\text{V}$.
-*Quelle: ITT IT-Technik (2. LJ) · `1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf` S. 5 (von 7) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · `1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf` S. 5 (von 8) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -77,3 +78,11 @@ Zuerst Gesamtwiderstand und Strom berechnen: $I_G = \frac{U_E}{R_1 + R_2} = \fra
 ?
 $A$ muss in $\text{mm}^2$ eingesetzt werden: $\text{cm}^2$ erst mit $100$ multiplizieren (z. B. $0{,}015\,\text{cm}^2 = 1{,}5\,\text{mm}^2$). Ist nur der Durchmesser $d$ angegeben, muss zunächst die Querschnittsfläche $A = \pi \cdot (\frac{d}{2})^2$ berechnet werden.
 *Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 56–57, 63 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: ohmsches-gesetz-und-leiterwiderstand-07 | typ: pruefungsfalle | pruefung: AP1 -->
+**Welche Wirkung hat eine ideale Verbindungs- bzw. Überbrückungsleitung mit $R = 0\,\Omega$ zwischen zwei Knoten in einem Netzwerk?**
+?
+Über einer idealen Leitung mit $R = 0\,\Omega$ fällt nach $U = R \cdot I = 0\,\text{V}$ keine Spannung ab: Beide verbundenen Knoten liegen auf exakt **gleichem elektrischen Potenzial** und lassen sich im Ersatzschaltbild zu einem gemeinsamen Knoten zusammenfassen.
+*Quelle: ITT IT-Technik (2. LJ) · `1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf` S. 6 (von 8) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]], OCR/Original prüfen*

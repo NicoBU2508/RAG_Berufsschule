@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "validated_on": "2026-11-24",
+  "validated_on": "2026-11-26",
   "status": "pass",
   "checks_passed": 42,
   "checks_failed": 0,
@@ -42,22 +42,22 @@
     {
       "name": "kanonische Seitenbilanz konsistent",
       "status": "pass",
-      "details": "{\"evidence\"=>1251, \"support_only\"=>11, \"excluded\"=>127}"
+      "details": "{\"evidence\"=>1263, \"support_only\"=>11, \"excluded\"=>128}"
     },
     {
       "name": "Evidenzseiten gezählt",
       "status": "pass",
-      "details": "{\"evidence\"=>1251, \"support_only\"=>11, \"excluded\"=>127}"
+      "details": "{\"evidence\"=>1263, \"support_only\"=>11, \"excluded\"=>128}"
     },
     {
       "name": "Support-Seiten gezählt",
       "status": "pass",
-      "details": "{\"evidence\"=>1251, \"support_only\"=>11, \"excluded\"=>127}"
+      "details": "{\"evidence\"=>1263, \"support_only\"=>11, \"excluded\"=>128}"
     },
     {
       "name": "ausgeschlossene Seiten gezählt",
       "status": "pass",
-      "details": "{\"evidence\"=>1251, \"support_only\"=>11, \"excluded\"=>127}"
+      "details": "{\"evidence\"=>1263, \"support_only\"=>11, \"excluded\"=>128}"
     },
     {
       "name": "Ausschlüsse tragen keine Themen",
@@ -74,7 +74,7 @@
     {
       "name": "kanonische Themen vorhanden",
       "status": "pass",
-      "details": "Themen: 139"
+      "details": "Themen: 140"
     },
     {
       "name": "OCR-Korrekturen registriert",
@@ -97,7 +97,7 @@
     {
       "name": "alle und nur kanonische Themendateien vorhanden",
       "status": "pass",
-      "details": "Mapping: 139; Disk: 139"
+      "details": "Mapping: 140; Disk: 140"
     },
     {
       "name": "alle Themendateien visuell markiert",
@@ -144,7 +144,7 @@
     {
       "name": "Copilot-Dateiallowlist und Sicherheitsmodus gehärtet",
       "status": "pass",
-      "details": "Ist: 191; Soll: 191; fehlende Exclusions: []; Prompt aktiv: true"
+      "details": "Ist: 192; Soll: 192; fehlende Exclusions: []; Prompt aktiv: true"
     },
     {
       "name": "Manifest: geprüfte Themen primär",
@@ -186,7 +186,7 @@
     {
       "name": "alle nicht-privaten lokalen Referenzen auflösbar",
       "status": "pass",
-      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-11-24\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>755, \"wiki_links\"=>20024, \"local_markdown_links\"=>9447, \"unresolved\"=>0, \"failures\"=>[]}"
+      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-11-26\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>760, \"wiki_links\"=>20062, \"local_markdown_links\"=>9466, \"unresolved\"=>0, \"failures\"=>[]}"
     }
   ]
 }

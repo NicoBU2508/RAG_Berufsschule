@@ -58,6 +58,7 @@ class FileClassifier
     return item("project_metadata", "excluded", "Projekt-, Git- und Auditmetadaten; kein fachlicher Lernbeleg") if %w[manifest.json .gitignore README.md].include?(path)
     return item("private_or_archive", "excluded", "Archiv, Duplikat oder ausdrücklich nicht für KI") if path.start_with?("98_Archiv_nicht_lernen/")
     return item("import_inbox", "excluded", "Posteingang für neue GoodNotes-PDFs; bis zum visuellen Audit ausgeschlossen") if path.start_with?("00_Posteingang_GoodNotes/")
+    return item("import_inbox", "excluded", "Posteingang für neue IHK-Altklausuren & Lösungen; bis zur Aufgabenanalyse ausgeschlossen") if path.start_with?("06_Altklausuren/00_Posteingang/")
     return item("agent_customization", "operational", "Projekt-spezifische Agent-Anweisungen und Skills") if path.start_with?(".agents/")
     return item("obsidian_configuration", "excluded", "Lokale Konfiguration oder Plugin-Code") if path.start_with?(".obsidian/")
     return item("copilot_prompt", "excluded", "Arbeitsanweisung, kein Lernwissen") if path.start_with?("copilot/")
@@ -135,6 +136,7 @@ class ManifestBuilder
         .select { |path| File.file?(path) }
         .reject { |path| IGNORED_PREFIXES.any? { |prefix| path.start_with?(prefix) } || File.basename(path) == ".DS_Store" }
         .reject { |path| path.start_with?("00_Posteingang_GoodNotes/") && path != "00_Posteingang_GoodNotes/README.md" }
+        .reject { |path| path.start_with?("06_Altklausuren/00_Posteingang/") && path != "06_Altklausuren/00_Posteingang/README.md" }
         .sort
     end
   end

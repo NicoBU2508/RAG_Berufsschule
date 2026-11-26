@@ -1,25 +1,25 @@
 ---
 typ: karteikarten_deck
-thema: "Verstärkung Dämpfung und Pegelrechnung"
+thema: Verstärkung Dämpfung und Pegelrechnung
 kategorie: Elektrotechnik
-pruefung: "AP1"
-thema_quelle: "03_Themen/Visuell_geprueft/Elektrotechnik/Verstärkung Dämpfung und Pegelrechnung.md"
-stand_karten: 2026-11-24
-stand_quelle: 2026-11-24
+pruefung: AP1
+thema_quelle: 03_Themen/Visuell_geprueft/Elektrotechnik/Verstärkung Dämpfung und Pegelrechnung.md
+stand_karten: '2026-11-26'
+stand_quelle: '2026-11-26'
 quellseiten_anzahl: 6
-quellseiten_hash: 800b14fd0747
+quellseiten_hash: 1ca5f620a3c8
 quellseiten:
-  - "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=1"
-  - "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=2"
-  - "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=3"
-  - "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=4"
-  - "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=5"
-  - "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=6"
+- 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=1
+- 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=2
+- 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=3
+- 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=4
+- 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=5
+- 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=7
 rag_include: false
 canonical_evidence: false
 tags:
-  - karteikarten
-  - flashcards/elektrotechnik/verstaerkung-daempfung-und-pegelrechnung
+- karteikarten
+- flashcards/elektrotechnik/verstaerkung-daempfung-und-pegelrechnung
 ---
 # 🗂️ Karteikarten: Verstärkung Dämpfung und Pegelrechnung
 
@@ -64,7 +64,7 @@ Als Faktoren ($>1$ Verstärkung, $<1$ Dämpfung) werden die Einzelwerte multipli
 **Was passiert mit dem Leistungsverstärkungsfaktor, wenn sich das Leistungsverstärkungsmaß um $+3\text{ dB}$ erhöht?**
 ?
 Der Leistungsverstärkungsfaktor **verdoppelt** sich (da $10^{\frac{3}{10}} \approx 2$).
-*Quelle: ITT IT-Technik (2. LJ) · `1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf` S. 1, 6 (von 7) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]]*
+*Quelle: ITT IT-Technik (2. LJ) · `1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf` S. 1, 7 (von 8) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]]*
 
 ---
 
@@ -72,7 +72,7 @@ Der Leistungsverstärkungsfaktor **verdoppelt** sich (da $10^{\frac{3}{10}} \app
 **Eine Empfangsantenne liefert $L_U = 46\text{ dB}\mu\text{V}$ über $24\text{ m}$ Leitung mit $a_L = 8{,}4\text{ dB}/100\text{ m}$. Welcher Pegel liegt am Empfänger an, und wie viel Verstärkung fehlt bis zum Mindestpegel $60\text{ dB}\mu\text{V}$?**
 ?
 Leitungsdämpfung: $24\text{ m} \cdot \frac{8{,}4\text{ dB}}{100\text{ m}} = 2{,}016\text{ dB}$; Empfängerpegel: $46\text{ dB}\mu\text{V} - 2{,}016\text{ dB} = 43{,}984\text{ dB}\mu\text{V}$. Notwendiges Verstärkungsmaß: $60 - 43{,}984 = 16{,}016\text{ dB}$.
-*Quelle: ITT IT-Technik (2. LJ) · `1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf` S. 2, 6 (von 7) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]]*
+*Quelle: ITT IT-Technik (2. LJ) · `1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf` S. 2, 7 (von 8) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]]*
 
 ---
 
@@ -80,4 +80,14 @@ Leitungsdämpfung: $24\text{ m} \cdot \frac{8{,}4\text{ dB}}{100\text{ m}} = 2{,
 **Ein Verstärker hat $U_A = 6\text{ V}$ und $v_U = 30\text{ dB}$. Wie groß sind Spannungsverstärkungsfaktor $V_U$ und Eingangsspannung $U_E$?**
 ?
 $V_U = 10^{\frac{v_U}{20}} = 10^{\frac{30}{20}} = 10^{1{,}5} \approx 31{,}62$; damit beträgt die Eingangsspannung $U_E = \frac{U_A}{V_U} = \frac{6\text{ V}}{31{,}62} \approx 0{,}190\text{ V}$ ($190\text{ mV}$).
-*Quelle: ITT IT-Technik (2. LJ) · `1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf` S. 1, 6 (von 7) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]]*
+*Quelle: ITT IT-Technik (2. LJ) · `1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf` S. 1, 7 (von 8) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]]*
+
+---
+
+<!-- card-id: verstaerkung-daempfung-und-pegelrechnung-08 | typ: anwendung | pruefung: BS -->
+**Wie berechnet man den Spannungsdämpfungsfaktor $D_U$ eines RC-Tiefpasses ($R = 10\,\text{k}\Omega$, $C = 22\,\text{nF}$, $U_E = 10\,\text{V}$) bei $f = 1\,\text{kHz}$?**
+?
+1. Kapazitiver Blindwiderstand: $X_C = \frac{1}{2\pi f C} = \frac{1}{2\pi \cdot 1\,\text{kHz} \cdot 22\,\text{nF}} \approx 7{,}2\,\text{k}\Omega$
+2. Scheinwiderstand (Impedanz): $Z = \sqrt{R^2 + X_C^2} \approx 12{,}3\,\text{k}\Omega$
+3. Spannungsdämpfungsfaktor: $D_U = \frac{U_E}{U_A} = \frac{U_E}{(U_E / Z) \cdot X_C} = \frac{12{,}3\,\text{k}\Omega}{7{,}2\,\text{k}\Omega} \approx 1{,}7$
+*Quelle: ITT IT-Technik (2. LJ) · `1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf` S. 3, 5 (von 8) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]], OCR/Original prüfen*

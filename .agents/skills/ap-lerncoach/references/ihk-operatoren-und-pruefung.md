@@ -41,5 +41,10 @@ Alle 139 visuell geprüften Themen liegen unter `03_Themen/Visuell_geprueft/` in
 - **AP1-Rahmen & Lernziele:** [[04_Pruefung/AP1/00_AP1_Lernmatrix]] (Orientierung über die Handlungsbereiche).
 - **AP2-Ausbau:** [[04_Pruefung/AP2/00_AP2_Ausbauplan]].
 - **Prüfungsroutine:** [[04_Pruefung/Pruefungsmodus]].
+- **Original-IHK-Altklausuren & offizielle Lösungen (`06_Altklausuren/` & `01_Index/Altklausuren_Index.json`):**
+  - Hochgeladene Originalprüfungen und Lösungshinweise werden über den Skill `altklausur-import` (`ruby 01_Index/Tools/import_altklausur.rb`) visuell geprüft, in Einzelaufgaben mit Punktzahl, Operator, Aufgabentyp, Erwartungshorizont und typischen Fallen zerlegt und in `01_Index/Altklausuren_Index.json` gespeichert.
+  - `ruby .agents/skills/ap-lerncoach/scripts/vault_lookup.rb tasks "<thema>"` lädt automatisch alle passenden Original-IHK-Aufgaben samt offiziellem Erwartungshorizont!
+  - **Bewertungsregel:** Nutze den offiziellen Erwartungshorizont aus `Altklausuren_Index.json` für die exakte Teilpunkte-Vergabe, verrate ihn aber **niemals vor dem eigenen Lösungsversuch** des Nutzers.
+  - **Hybrid-Regel bei sprachspezifischen AE-Themen (Python / Java):** Da IHK-AP1 (und weite Teile von AP2 Algorithmen) sprachneutralen Pseudocode, Schreibtischtests (Trace-Tabellen) und Fehleranalyse prüfen, während in der Berufsschule konkrete Sprachen (z. B. Python mit striktem EVA-Prinzip & Typ-Präfixen) gelehrt werden, verbinde in **Stufe 4 (Hybrid-IHK-Aufgabe)** beides: Stelle eine echte IHK-Handlungssituation mit Punkten & Operator und lasse den Nutzer wahlweise in **seinem Unterrichts-Python/-Java** oder in **IHK-Pseudocode** antworten.
 - **Quellenübersicht:** [[01_Index/Quellenmatrix]].
-- **Wichtig:** Diese Dateien dienen nur der **Navigation und Lernplanung**. Jeder fachliche Inhalt und jede Musterlösung muss immer durch die verlinkten Seiten unter `03_Themen/Visuell_geprueft/` und `02_Faecher/<Fach>/Quellen/` belegt sein (siehe [[00_KI_QUELLENSTART]]).
+- **Wichtig:** Fachliche Erklärungen und Unterrichtsregeln müssen immer durch die verlinkten Seiten unter `03_Themen/Visuell_geprueft/` und `02_Faecher/<Fach>/Quellen/` belegt sein (siehe [[00_KI_QUELLENSTART]]).

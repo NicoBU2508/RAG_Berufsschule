@@ -2,8 +2,8 @@
 id: vault.themen.kuratierter-index
 typ: themenindex
 status: visuell_geprueft
-stand: 2026-11-24
-reviewed_on: 2026-11-24
+stand: 2026-11-26
+reviewed_on: 2026-11-26
 generated_by: build_verified_topics.rb
 ki_prioritaet: 1
 canonical_evidence: false
@@ -17,7 +17,7 @@ tags:
 
 # Visuell geprüfte Themen
 
-Dieser Index enthält **139 kanonische Themen**. Jede Zuordnung beruht auf der Sichtprüfung der konkreten PDF-Seite. Themenseiten navigieren; Quellnotiz und Original-PDF belegen.
+Dieser Index enthält **140 kanonische Themen**. Jede Zuordnung beruht auf der Sichtprüfung der konkreten PDF-Seite. Themenseiten navigieren; Quellnotiz und Original-PDF belegen.
 
 ## Anwendungsentwicklung
 
@@ -152,6 +152,7 @@ Dieser Index enthält **139 kanonische Themen**. Jede Zuordnung beruht auf der S
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Ereignisgesteuerte Prozessketten EPK|Ereignisgesteuerte Prozessketten EPK]]
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Gemeinnützige Organisationen|Gemeinnützige Organisationen]]
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte|Grundgesetz Staatsprinzipien und Grundrechte]]
+- [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/IT-Servicearten und Service-Management|IT-Servicearten und Service-Management]]
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Jugendarbeitsschutz|Jugendarbeitsschutz]]
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Kaufvertrag und Geschäftsfähigkeit|Kaufvertrag und Geschäftsfähigkeit]]
 - [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Kündigung und Arbeitsrecht|Kündigung und Arbeitsrecht]]

@@ -2,12 +2,12 @@
 typ: karteikarten_deck
 thema: UML-Diagramme
 kategorie: Anwendungsentwicklung
-pruefung: "AP1/AP2"
+pruefung: AP1/AP2
 thema_quelle: 03_Themen/Visuell_geprueft/Anwendungsentwicklung/UML-Diagramme.md
-stand_karten: '2026-11-24'
-stand_quelle: '2026-11-24'
-quellseiten_anzahl: 20
-quellseiten_hash: d85776926ea0
+stand_karten: '2026-11-26'
+stand_quelle: '2026-11-26'
+quellseiten_anzahl: 21
+quellseiten_hash: bb818acacfeb
 quellseiten:
 - 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=1
 - 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=10
@@ -21,6 +21,7 @@ quellseiten:
 - 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=18
 - 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=19
 - 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=2
+- 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=20
 - 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=3
 - 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=4
 - 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=5
@@ -38,7 +39,7 @@ tags:
 # 🗂️ Karteikarten: UML-Diagramme
 
 > [!tip] Quellenbasis
-> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/UML-Diagramme|UML-Diagramme]] (**20 visuell geprüfte Seiten**).
+> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/UML-Diagramme|UML-Diagramme]] (**21 visuell geprüfte Seiten**).
 
 ---
 
@@ -120,4 +121,12 @@ Ebenso dürfen aus demselben Zustand nicht zwei Transitionen mit **demselben Ere
 1. **Fehlender Ausgang (Sackgasse):** Ein normaler Zustand ohne ausgehende Transition (und ohne Endzustand) lässt sich nicht mehr verlassen.
 2. **Eintrittspunkt am einfachen Zustand:** Eintrittspunkte (leerer Kreis am Rand) gehören nur zu zusammengesetzten Zuständen / Unterzustandsautomaten, nicht zu einfachen Zuständen.
 3. **Unzulässige Übergangssymbole:** Eckige/unbenannte Kästen am Zustandsrand sind kein gültiges Transitions- oder Zustandssymbol.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_jac_Mitschrift.pdf` S. 18 (von 19) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_jac_Mitschrift.pdf` S. 18 (von 20) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: uml-diagramme-10 | typ: anwendung | pruefung: AP2 -->
+**Wie modelliert man im UML-Zustandsdiagramm (Beispiel Verkaufsimmobilie), dass bei Rücknahme einer Reservierung erkennbar bleibt, ob zuvor schon Anfragen vorlagen?**
+?
+Die Zustände `steht zur Verfügung` und `Angefragt` werden in einem zusammengesetzten Zustand `Reservierbar` mit **flacher Historie (`H`)** gekapselt. Von `Reservierbar` führt `reservierung` nach `Reserviert` (`entry / Reservierungsbestätigung versenden`); bei `Rücknahme` führt die Transition direkt auf `(H)` zurück und stellt so exakt den letzten Unterzustand (`steht zur Verfügung` oder `Angefragt`) wieder her.
+*Quelle: AE Anwendungsentwicklung (2. LJ) · `AE_jac_Mitschrift.pdf` S. 20 (von 20) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*

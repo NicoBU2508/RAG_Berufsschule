@@ -3,7 +3,7 @@ typ: quelle
 fach: "AE_Anwendungsentwicklung"
 fach_anzeige: "AE Anwendungsentwicklung"
 original_pfad: "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf"
-seiten: 19
+seiten: 20
 pruefung: "AP1, AP2"
 cssclasses:
   - lernquelle
@@ -12,21 +12,21 @@ tags:
   - quelle
   - ae_anwendungsentwicklung
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-24"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
 kanonische_themen: 4
-seiten_mit_kanonischem_thema: 19
+seiten_mit_kanonischem_thema: 20
 ki_support_seiten: [9]
 lernstatus: "aktiv"
-textstatus: "eingeschränkt: visuell geprüft (ocr_verified=19)"
-textzeichen: 28567
+textstatus: "eingeschränkt: visuell geprüft (ocr_verified=20)"
+textzeichen: 30627
 ---
 # 📄 AE jac Mitschrift
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/AE_Anwendungsentwicklung/AE_Anwendungsentwicklung|AE Anwendungsentwicklung]]
 > - **Original-PDF:** [AE_jac_Mitschrift.pdf](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf>)
-> - **Seiten:** 19
-> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=19)
+> - **Seiten:** 20
+> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=20)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -36,7 +36,7 @@ textzeichen: 28567
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Methoden Parameter und Rückgabewerte\|Methoden, Parameter und Rückgabewerte]] | Prüfungsrahmen der Quelle | 3 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Objektorientierung\|Objektorientierung]] | Prüfungsrahmen der Quelle | 1–4, 10–11 | Visuell bestätigt auf 6 Seite(n); bei 6 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwarelebenszyklus und Vorgehensmodelle\|Softwarelebenszyklus und Vorgehensmodelle]] | Prüfungsrahmen der Quelle | 1 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/UML-Diagramme\|UML-Diagramme]] | Prüfungsrahmen der Quelle | 1–19 | Visuell bestätigt auf 19 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 19 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/UML-Diagramme\|UML-Diagramme]] | Prüfungsrahmen der Quelle | 1–20 | Visuell bestätigt auf 20 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 20 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
 
@@ -887,4 +887,55 @@ Handschriftliche Lösungen zur Fehleranalyse im Zustandsdiagramm „sm Geldautom
 - G: Aus dem gleichen Zustand dürfen keine gleichen Bedingungen raus
 - H: (nicht ausgefüllt)
 - I: (nicht ausgefüllt)
+```
+
+### Seite 20
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [AE_jac_Mitschrift.pdf Seite 20](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=20>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=20]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=20]]
+
+> [!ocr] Visuell transkribiert
+> Im PDF fehlte die gedruckte Textschicht; Aufgabenstellung und handschriftliches UML-Zustandsdiagramm wurden bei der Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+UML: Uebung (ET => 9_6_AE_UML__Zustands_D_UE_Immobilie, Seite 1)
+
+Ausgangssituation:
+Die H & D GmbH verkauft Immobilien.
+Sie sind Mitarbeiter/-in der aCo GmbH die Softwarelösungen zur Verfügung stellt.
+Sie sollen als Mitarbeiter/-in der aCo GmbH eine Software entwickeln, die folgendes leistet:
+
+Beschreibung:
+Eine Verkaufsimmobilie kann folgende Zustände haben:
+- Wenn sie zum Verkauf freigegeben wurde, steht sie zur Verfügung.
+- Für zur Verfügung stehende Immobilien können Anfragen entgegengenommen werden. Die Immobilie ist damit angefragt.
+- Für angefragte Immobilien können weitere Anfragen erfolgen.
+- Zur Verfügung stehende oder angefragte Immobilien können reserviert werden (nur eine Reservierung ist möglich). Die Immobilie ist dann reserviert.
+- Reservierte Immobilien können verkauft werden.
+- Mit dem Unterschreiben des Verkaufsvertrages wird der Endzustand erreicht.
+
+Hinweis:
+- Auf jede Anfrage wird Informationsmaterial verschickt.
+- Anfragen bleiben bei einer Reservierung bestehen.
+- Bei einer Reservierung wird eine Reservierungsbestätigung verschickt.
+- Reservierungen können zurückgenommen werden.
+
+Aufgabe:
+Erstellen Sie zum beschriebenen Sachverhalt ein entsprechendes UML-Zustandsdiagramm.
+
+Handschriftliche Lösung – UML-Zustandsdiagramm (Rahmen: „Verkaufsimmobilie“):
+- Äußerer Startzustand (Start) -> Transition auf den Rand des zusammengesetzten Zustands „Reservierbar“
+- Zusammengesetzter Zustand „Reservierbar“:
+  - Interner Startzustand -> Zustand „steht zur Verfügung“
+  - Transition von „steht zur Verfügung“ mit Ereignis „anfrage“ -> Zustand „Angefragt“
+  - Flache Historie (Symbol H im Kreis) innerhalb von „Reservierbar“
+- Vom äußeren Rand von „Reservierbar“ Transition „reservierung“ -> Zustand „Reserviert“ (interne Aktion: entry / reservierungsbestätigung versenden)
+- Von „Reserviert“ Transition „Rücknahme auf (H)“ -> direkt zurück zum Historien-Pseudozustand (H) in „Reservierbar“ (stellt letzten Unterzustand wieder her, da Anfragen bestehen bleiben)
+- Von „Reserviert“ Transition „Unterschrift“ -> Endzustand „Ende“
 ```

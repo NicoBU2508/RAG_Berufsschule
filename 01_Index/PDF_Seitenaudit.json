@@ -1,44 +1,44 @@
 {
   "schema_version": 2,
-  "audit_date": "2026-11-24",
-  "scope": "Alle 1389 aktiven, nichtprivaten PDF-Seiten wurden visuell geprüft; private Inhalte blieben ungelesen.",
+  "audit_date": "2026-11-26",
+  "scope": "Alle 1402 aktiven, nichtprivaten PDF-Seiten wurden visuell geprüft; private Inhalte blieben ungelesen.",
   "method": "Jede aktive PDF-Seite wurde über vollständig gerenderte Kontaktbögen oder Einzelseiten bei Originaldetail visuell geprüft und mit Quelltext sowie bestehenden Modul-/Themenlinks verglichen.",
   "privacy": "Der private Notenordner wurde nur als ausgeschlossener Pfad inventarisiert und nicht geöffnet.",
   "totals": {
     "active_pdfs": 53,
-    "active_pages": 1389,
+    "active_pages": 1402,
     "visually_identical_duplicate_pdfs": 3,
     "visually_identical_duplicate_pages": 97,
     "nonprivate_pdfs_accounted_for": 56,
-    "nonprivate_pages_accounted_for": 1486,
+    "nonprivate_pages_accounted_for": 1499,
     "private_pdfs_unread": 1,
     "source_text_match": {
-      "missing": 27,
+      "missing": 28,
       "ocr_error": 22,
-      "ok": 933,
-      "partial": 407
+      "ok": 938,
+      "partial": 414
     },
     "mapping_status_before_correction": {
       "correct": 95,
       "excluded": 23,
-      "missing": 340,
+      "missing": 335,
       "mixed": 431,
-      "ok": 228,
+      "ok": 246,
       "overbroad": 265,
       "verified": 7
     },
     "content_type": {
       "aufgabe": 239,
-      "beispiel": 129,
+      "beispiel": 130,
       "formular": 17,
       "fragment": 55,
       "index": 34,
-      "leer": 18,
-      "loesung": 312,
+      "leer": 19,
+      "loesung": 323,
       "theorie": 585
     },
     "confidence": {
-      "high": 1352,
+      "high": 1365,
       "medium": 37
     }
   },
@@ -113,12 +113,12 @@
       "subject": "AE_Anwendungsentwicklung",
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
-      "pages": 19,
+      "pages": 20,
       "source_text_match": {
-        "partial": 19
+        "partial": 20
       },
       "mapping_status_before_correction": {
-        "ok": 19
+        "ok": 20
       }
     },
     {
@@ -302,13 +302,14 @@
       "subject": "BGWP_Betriebswirtschaft",
       "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
       "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
-      "pages": 30,
+      "pages": 35,
       "source_text_match": {
-        "ok": 11,
-        "partial": 19
+        "missing": 1,
+        "ok": 14,
+        "partial": 20
       },
       "mapping_status_before_correction": {
-        "ok": 30
+        "ok": 35
       }
     },
     {
@@ -424,14 +425,15 @@
       "subject": "Englisch",
       "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
       "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
-      "pages": 14,
+      "pages": 20,
       "source_text_match": {
         "missing": 1,
-        "ok": 10,
+        "ok": 16,
         "partial": 3
       },
       "mapping_status_before_correction": {
-        "missing": 14
+        "missing": 14,
+        "ok": 6
       }
     },
     {
@@ -453,8 +455,7 @@
       "pages": 7,
       "source_text_match": {
         "missing": 2,
-        "ok": 3,
-        "partial": 2
+        "partial": 5
       },
       "mapping_status_before_correction": {
         "missing": 4,
@@ -480,13 +481,14 @@
       "subject": "ITT_IT_Technik",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf",
-      "pages": 15,
+      "pages": 14,
       "source_text_match": {
         "ok": 6,
-        "partial": 9
+        "partial": 8
       },
       "mapping_status_before_correction": {
-        "missing": 15
+        "missing": 13,
+        "ok": 1
       }
     },
     {
@@ -616,13 +618,14 @@
       "subject": "ITT_IT_Technik",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
-      "pages": 7,
+      "pages": 8,
       "source_text_match": {
-        "ok": 5,
-        "partial": 2
+        "ok": 4,
+        "partial": 4
       },
       "mapping_status_before_correction": {
-        "missing": 7
+        "missing": 4,
+        "ok": 4
       }
     },
     {
@@ -741,13 +744,13 @@
       "subject": "PuG_Politik_und_Gesellschaft",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
       "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
-      "pages": 18,
+      "pages": 19,
       "source_text_match": {
         "ok": 7,
-        "partial": 11
+        "partial": 12
       },
       "mapping_status_before_correction": {
-        "ok": 18
+        "ok": 19
       }
     },
     {
@@ -9332,7 +9335,7 @@
     },
     {
       "report": "01_Index/Auditdaten/Import/20261124_fu_it_2lj_zielske_ipv4_wiederholung_s14_15.json",
-      "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung.md (Seiten 14–15)",
+      "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung.md (Seite 14)",
       "coverage": null,
       "counts": null,
       "validation": null,
@@ -9371,6 +9374,120 @@
     {
       "report": "01_Index/Auditdaten/Import/20261124_pug_2lj_mitschrift_s14_18.json",
       "scope": "GoodNotes-Import: 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md (Seiten 14–18)",
+      "coverage": null,
+      "counts": null,
+      "validation": null,
+      "critical_findings": [
+
+      ],
+      "text_issues": [
+
+      ],
+      "mapping_issues": [
+
+      ],
+      "canonical_topic_candidates": [
+
+      ]
+    },
+    {
+      "report": "01_Index/Auditdaten/Import/20261126_ae_2lj_jac_mitschrift_s20_20.json",
+      "scope": "GoodNotes-Import: 02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md (Seiten 20–20)",
+      "coverage": null,
+      "counts": null,
+      "validation": null,
+      "critical_findings": [
+
+      ],
+      "text_issues": [
+
+      ],
+      "mapping_issues": [
+
+      ],
+      "canonical_topic_candidates": [
+
+      ]
+    },
+    {
+      "report": "01_Index/Auditdaten/Import/20261126_bgwp_2lj_mitschrift_s28_35.json",
+      "scope": "GoodNotes-Import: 02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md (Seiten 28–35)",
+      "coverage": null,
+      "counts": null,
+      "validation": null,
+      "critical_findings": [
+
+      ],
+      "text_issues": [
+
+      ],
+      "mapping_issues": [
+
+      ],
+      "canonical_topic_candidates": [
+
+      ]
+    },
+    {
+      "report": "01_Index/Auditdaten/Import/20261126_englisch_2lj_conditionals_s15_20.json",
+      "scope": "GoodNotes-Import: 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md (Seiten 15–20)",
+      "coverage": null,
+      "counts": null,
+      "validation": null,
+      "critical_findings": [
+
+      ],
+      "text_issues": [
+
+      ],
+      "mapping_issues": [
+
+      ],
+      "canonical_topic_candidates": [
+
+      ]
+    },
+    {
+      "report": "01_Index/Auditdaten/Import/20261126_fu_it_2lj_abded_mitschriften_s5_7.json",
+      "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften.md (Seiten 5–7)",
+      "coverage": null,
+      "counts": null,
+      "validation": null,
+      "critical_findings": [
+
+      ],
+      "text_issues": [
+
+      ],
+      "mapping_issues": [
+
+      ],
+      "canonical_topic_candidates": [
+
+      ]
+    },
+    {
+      "report": "01_Index/Auditdaten/Import/20261126_it_tech_2lj_jacob_verstaerkung_daempfung_s5_8.json",
+      "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md (Seiten 5–8)",
+      "coverage": null,
+      "counts": null,
+      "validation": null,
+      "critical_findings": [
+
+      ],
+      "text_issues": [
+
+      ],
+      "mapping_issues": [
+
+      ],
+      "canonical_topic_candidates": [
+
+      ]
+    },
+    {
+      "report": "01_Index/Auditdaten/Import/20261126_pug_2lj_mitschrift_s16_19.json",
+      "scope": "GoodNotes-Import: 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md (Seiten 16–19)",
       "coverage": null,
       "counts": null,
       "validation": null,
@@ -15560,7 +15677,7 @@
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
       "page": 19,
       "source_text_status": "text",
-      "source_section_chars": 1266,
+      "source_section_chars": 1267,
       "previous_modules": [
 
       ],
@@ -15586,6 +15703,45 @@
 
         ],
         "audit_date": "2026-11-24",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=20",
+      "subject": "AE_Anwendungsentwicklung",
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "page": 20,
+      "source_text_status": "ocr",
+      "source_section_chars": 2717,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "UML-Diagramme",
+        "secondary_topics": [
+
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "UML-Diagramme"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
         "support_only": false,
         "sensitive": false,
         "ocr_verified": true,
@@ -35418,7 +35574,7 @@
       "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
       "page": 28,
       "source_text_status": "ocr",
-      "source_section_chars": 2286,
+      "source_section_chars": 2748,
       "previous_modules": [
 
       ],
@@ -35428,9 +35584,9 @@
       "audit": {
         "primary_topic": "Business Process Model and Notation BPMN",
         "secondary_topics": [
-
+          "Prozessmanagement und Geschäftsprozesse"
         ],
-        "content_type": "aufgabe",
+        "content_type": "loesung",
         "source_text_match": "partial",
         "mapping_status": "ok",
         "confidence": "high",
@@ -35441,9 +35597,9 @@
           "Business Process Model and Notation BPMN"
         ],
         "issues": [
-          "Handschriftliche Antworten (Aufgabe 1) und begonnener Diagrammentwurf (Aufgabe 2) hatten fehlerhafte OCR-Textschicht; visuell transkribiert."
+
         ],
-        "audit_date": "2026-11-24",
+        "audit_date": "2026-11-26",
         "support_only": false,
         "sensitive": false,
         "ocr_verified": true,
@@ -35458,7 +35614,7 @@
       "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
       "page": 29,
       "source_text_status": "text",
-      "source_section_chars": 2328,
+      "source_section_chars": 2320,
       "previous_modules": [
 
       ],
@@ -35483,7 +35639,7 @@
         "issues": [
 
         ],
-        "audit_date": "2026-11-24",
+        "audit_date": "2026-11-26",
         "support_only": false,
         "sensitive": false,
         "ocr_verified": false,
@@ -35498,7 +35654,7 @@
       "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
       "page": 30,
       "source_text_status": "ocr",
-      "source_section_chars": 2042,
+      "source_section_chars": 2559,
       "previous_modules": [
 
       ],
@@ -35510,7 +35666,7 @@
         "secondary_topics": [
 
         ],
-        "content_type": "aufgabe",
+        "content_type": "loesung",
         "source_text_match": "partial",
         "mapping_status": "ok",
         "confidence": "high",
@@ -35521,12 +35677,215 @@
           "Business Process Model and Notation BPMN"
         ],
         "issues": [
-          "Querformatige BPMN-2.0-Lückendiagramm-Grafik zu Aufgabe 3 fehlte fast vollständig in der Textschicht; visuell transkribiert."
+          "Zwei Aktivitätskästchen im BPMN-Diagramm (Workaround suchen nach unknown error sowie Dokumentation in Known-Error-Datenbank speichern) blieben im Original unausgefüllt."
         ],
-        "audit_date": "2026-11-24",
+        "audit_date": "2026-11-26",
         "support_only": false,
         "sensitive": false,
         "ocr_verified": true,
+        "replaces_existing": true,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=31",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 31,
+      "source_text_status": "text",
+      "source_section_chars": 947,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "IT-Servicearten und Service-Management",
+        "secondary_topics": [
+          "Organisation im Betrieb"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "IT-Servicearten und Service-Management",
+          "Organisation im Betrieb"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false,
+        "replaces_existing": true,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=32",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 32,
+      "source_text_status": "ocr",
+      "source_section_chars": 2860,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "IT-Servicearten und Service-Management",
+        "secondary_topics": [
+          "Organisation im Betrieb"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "IT-Servicearten und Service-Management",
+          "Organisation im Betrieb"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=33",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 33,
+      "source_text_status": "ocr",
+      "source_section_chars": 2079,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "IT-Servicearten und Service-Management",
+        "secondary_topics": [
+
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "IT-Servicearten und Service-Management"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=34",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 34,
+      "source_text_status": "text",
+      "source_section_chars": 2654,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "IT-Servicearten und Service-Management",
+        "secondary_topics": [
+
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "IT-Servicearten und Service-Management"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false,
+        "replaces_existing": true,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=35",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 35,
+      "source_text_status": "text",
+      "source_section_chars": 218,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": "leer",
+        "source_text_match": "missing",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "exclusion_reason": "Leere Karoseite am Notizbuchende ohne Inhalt",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false,
         "replaces_existing": true,
         "visual_checked": true
       }
@@ -35537,8 +35896,8 @@
       "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Unbenannt_Einzelseite.md",
       "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/Unbenannt.pdf",
       "page": 1,
-      "source_text_status": "ocr",
-      "source_section_chars": 626,
+      "source_text_status": "text",
+      "source_section_chars": 229,
       "previous_modules": [
 
       ],
@@ -41065,7 +41424,7 @@
       "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
       "page": 38,
       "source_text_status": "text",
-      "source_section_chars": 2140,
+      "source_section_chars": 867,
       "previous_modules": [
 
       ],
@@ -41225,7 +41584,7 @@
       "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
       "page": 42,
       "source_text_status": "text",
-      "source_section_chars": 534,
+      "source_section_chars": 267,
       "previous_modules": [
 
       ],
@@ -41266,7 +41625,7 @@
       "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
       "page": 43,
       "source_text_status": "text",
-      "source_section_chars": 556,
+      "source_section_chars": 261,
       "previous_modules": [
 
       ],
@@ -41307,7 +41666,7 @@
       "pdf_path": "99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf",
       "page": 44,
       "source_text_status": "text",
-      "source_section_chars": 546,
+      "source_section_chars": 261,
       "previous_modules": [
 
       ],
@@ -44380,6 +44739,254 @@
       }
     },
     {
+      "id": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=15",
+      "subject": "Englisch",
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 15,
+      "source_text_status": "text",
+      "source_section_chars": 2957,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "Malware und Angriffe",
+        "secondary_topics": [
+          "IT Vocabulary and Hardware",
+          "Reading Comprehension and Case Studies"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Malware und Angriffe",
+          "IT Vocabulary and Hardware",
+          "Reading Comprehension and Case Studies"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=16",
+      "subject": "Englisch",
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 16,
+      "source_text_status": "text",
+      "source_section_chars": 3227,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "Malware und Angriffe",
+        "secondary_topics": [
+          "IT Vocabulary and Hardware",
+          "Reading Comprehension and Case Studies"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Malware und Angriffe",
+          "IT Vocabulary and Hardware",
+          "Reading Comprehension and Case Studies"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=17",
+      "subject": "Englisch",
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 17,
+      "source_text_status": "text",
+      "source_section_chars": 2212,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "Malware und Angriffe",
+        "secondary_topics": [
+          "IT Vocabulary and Hardware"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Malware und Angriffe",
+          "IT Vocabulary and Hardware"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=18",
+      "subject": "Englisch",
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 18,
+      "source_text_status": "ocr",
+      "source_section_chars": 3138,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "Malware und Angriffe",
+        "secondary_topics": [
+          "IT Vocabulary and Hardware",
+          "Reading Comprehension and Case Studies"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Malware und Angriffe",
+          "IT Vocabulary and Hardware",
+          "Reading Comprehension and Case Studies"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=19",
+      "subject": "Englisch",
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 19,
+      "source_text_status": "ocr",
+      "source_section_chars": 3485,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "Malware und Angriffe",
+        "secondary_topics": [
+          "IT Vocabulary and Hardware",
+          "Reading Comprehension and Case Studies"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Malware und Angriffe",
+          "IT Vocabulary and Hardware",
+          "Reading Comprehension and Case Studies"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=20",
+      "subject": "Englisch",
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "page": 20,
+      "source_text_status": "ocr",
+      "source_section_chars": 2293,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "Malware und Angriffe",
+        "secondary_topics": [
+          "IT Vocabulary and Hardware"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Malware und Angriffe",
+          "IT Vocabulary and Hardware"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "visual_checked": true
+      }
+    },
+    {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/Begriffe_Computerwelt_Gitterratsel#page=1",
       "subject": "ITT_IT_Technik",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Begriffe_Computerwelt_Gitterratsel.md",
@@ -44587,7 +45194,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf",
       "page": 5,
       "source_text_status": "ocr",
-      "source_section_chars": 1984,
+      "source_section_chars": 2324,
       "previous_modules": [
 
       ],
@@ -44600,8 +45207,8 @@
           "Hochverfügbarkeit und Redundanz",
           "IT-Sicherheit Grundlagen"
         ],
-        "content_type": "aufgabe",
-        "source_text_match": "ok",
+        "content_type": "loesung",
+        "source_text_match": "partial",
         "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
@@ -44615,7 +45222,7 @@
         "issues": [
 
         ],
-        "audit_date": "2026-11-24",
+        "audit_date": "2026-11-26",
         "support_only": false,
         "sensitive": false,
         "ocr_verified": true,
@@ -44630,7 +45237,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf",
       "page": 6,
       "source_text_status": "ocr",
-      "source_section_chars": 1244,
+      "source_section_chars": 1396,
       "previous_modules": [
 
       ],
@@ -44642,8 +45249,8 @@
         "secondary_topics": [
           "SI- und IEC-Dateneinheiten"
         ],
-        "content_type": "aufgabe",
-        "source_text_match": "ok",
+        "content_type": "loesung",
+        "source_text_match": "partial",
         "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
@@ -44656,7 +45263,7 @@
         "issues": [
 
         ],
-        "audit_date": "2026-11-24",
+        "audit_date": "2026-11-26",
         "support_only": false,
         "sensitive": false,
         "ocr_verified": true,
@@ -44671,7 +45278,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf",
       "page": 7,
       "source_text_status": "ocr",
-      "source_section_chars": 1894,
+      "source_section_chars": 2547,
       "previous_modules": [
 
       ],
@@ -44684,8 +45291,8 @@
           "SI- und IEC-Dateneinheiten",
           "Hochverfügbarkeit und Redundanz"
         ],
-        "content_type": "aufgabe",
-        "source_text_match": "ok",
+        "content_type": "loesung",
+        "source_text_match": "partial",
         "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
@@ -44697,9 +45304,9 @@
           "Hochverfügbarkeit und Redundanz"
         ],
         "issues": [
-
+          "Aufgabe 10 handschriftlich mit Faktor 1000 statt 1024 auf 2,16 TiB umgerechnet (binär exakt 2160 / 1024 = 2,109 TiB); Endergebnis Aufgabe 11 (9 Jahre) bleibt identisch."
         ],
-        "audit_date": "2026-11-24",
+        "audit_date": "2026-11-26",
         "support_only": false,
         "sensitive": false,
         "ocr_verified": true,
@@ -45870,7 +46477,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
       "page": 30,
       "source_text_status": "text",
-      "source_section_chars": 1873,
+      "source_section_chars": 286,
       "previous_modules": [
 
       ],
@@ -45910,7 +46517,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
       "page": 31,
       "source_text_status": "text",
-      "source_section_chars": 1128,
+      "source_section_chars": 286,
       "previous_modules": [
 
       ],
@@ -45950,7 +46557,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
       "page": 32,
       "source_text_status": "text",
-      "source_section_chars": 1327,
+      "source_section_chars": 286,
       "previous_modules": [
 
       ],
@@ -45990,7 +46597,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf",
       "page": 33,
       "source_text_status": "text",
-      "source_section_chars": 2539,
+      "source_section_chars": 361,
       "previous_modules": [
 
       ],
@@ -46701,45 +47308,6 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf",
       "page": 14,
       "source_text_status": "ocr",
-      "source_section_chars": 3641,
-      "previous_modules": [
-
-      ],
-      "previous_curated_topics": [
-
-      ],
-      "audit": {
-        "primary_topic": "IPv4-Adressierung und Subnetting",
-        "secondary_topics": [
-
-        ],
-        "content_type": "aufgabe",
-        "source_text_match": "partial",
-        "mapping_status": "missing",
-        "confidence": "high",
-        "recommended_modules": [
-
-        ],
-        "recommended_topics": [
-          "IPv4-Adressierung und Subnetting"
-        ],
-        "issues": [
-
-        ],
-        "audit_date": "2026-11-24",
-        "support_only": false,
-        "sensitive": false,
-        "ocr_verified": true,
-        "visual_checked": true
-      }
-    },
-    {
-      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=15",
-      "subject": "ITT_IT_Technik",
-      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf",
-      "page": 15,
-      "source_text_status": "ocr",
       "source_section_chars": 2644,
       "previous_modules": [
 
@@ -46754,7 +47322,7 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
@@ -46765,7 +47333,7 @@
         "issues": [
 
         ],
-        "audit_date": "2026-11-24",
+        "audit_date": "2026-11-26",
         "support_only": false,
         "sensitive": false,
         "ocr_verified": true,
@@ -54692,7 +55260,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
       "page": 5,
       "source_text_status": "ocr",
-      "source_section_chars": 1093,
+      "source_section_chars": 1650,
       "previous_modules": [
 
       ],
@@ -54707,7 +55275,7 @@
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
@@ -54720,10 +55288,11 @@
         "issues": [
 
         ],
-        "audit_date": "2026-11-23",
+        "audit_date": "2026-11-26",
         "support_only": false,
         "sensitive": false,
         "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -54734,7 +55303,48 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
       "page": 6,
       "source_text_status": "ocr",
-      "source_section_chars": 1674,
+      "source_section_chars": 1827,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "Reihen-, Parallel- und Gruppenschaltungen",
+        "secondary_topics": [
+          "Ohmsches Gesetz und Leiterwiderstand"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Reihen-, Parallel- und Gruppenschaltungen",
+          "Ohmsches Gesetz und Leiterwiderstand"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=7",
+      "subject": "ITT_IT_Technik",
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
+      "page": 7,
+      "source_text_status": "ocr",
+      "source_section_chars": 1808,
       "previous_modules": [
 
       ],
@@ -54747,8 +55357,8 @@
 
         ],
         "content_type": "aufgabe",
-        "source_text_match": "ok",
-        "mapping_status": "missing",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
@@ -54759,21 +55369,22 @@
         "issues": [
 
         ],
-        "audit_date": "2026-11-23",
+        "audit_date": "2026-11-26",
         "support_only": false,
         "sensitive": false,
-        "ocr_verified": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
     {
-      "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=7",
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=8",
       "subject": "ITT_IT_Technik",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
-      "page": 7,
+      "page": 8,
       "source_text_status": "text",
-      "source_section_chars": 216,
+      "source_section_chars": 215,
       "previous_modules": [
 
       ],
@@ -54787,7 +55398,7 @@
         ],
         "content_type": "aufgabe",
         "source_text_match": "ok",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
@@ -54798,11 +55409,12 @@
         "issues": [
 
         ],
-        "audit_date": "2026-11-23",
-        "exclusion_reason": "Exakte seiteninterne Dublette von Seite 6",
+        "audit_date": "2026-11-26",
+        "exclusion_reason": "Exakte seiteninterne Dublette von Seite 7",
         "support_only": false,
         "sensitive": false,
         "ocr_verified": false,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -63496,7 +64108,7 @@
       "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
       "page": 16,
       "source_text_status": "ocr",
-      "source_section_chars": 2243,
+      "source_section_chars": 2476,
       "previous_modules": [
 
       ],
@@ -63506,7 +64118,7 @@
       "audit": {
         "primary_topic": "Totalitäre Systeme und Diktatur",
         "secondary_topics": [
-
+          "Grundgesetz Staatsprinzipien und Grundrechte"
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
@@ -63516,12 +64128,13 @@
 
         ],
         "recommended_topics": [
-          "Totalitäre Systeme und Diktatur"
+          "Totalitäre Systeme und Diktatur",
+          "Grundgesetz Staatsprinzipien und Grundrechte"
         ],
         "issues": [
 
         ],
-        "audit_date": "2026-11-24",
+        "audit_date": "2026-11-26",
         "support_only": false,
         "sensitive": false,
         "ocr_verified": true,
@@ -63561,7 +64174,7 @@
         "issues": [
 
         ],
-        "audit_date": "2026-11-24",
+        "audit_date": "2026-11-26",
         "support_only": false,
         "sensitive": false,
         "ocr_verified": false,
@@ -63576,7 +64189,7 @@
       "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
       "page": 18,
       "source_text_status": "text",
-      "source_section_chars": 1813,
+      "source_section_chars": 1814,
       "previous_modules": [
 
       ],
@@ -63601,10 +64214,51 @@
         "issues": [
 
         ],
-        "audit_date": "2026-11-24",
+        "audit_date": "2026-11-26",
         "support_only": false,
         "sensitive": false,
         "ocr_verified": false,
+        "replaces_existing": true,
+        "visual_checked": true
+      }
+    },
+    {
+      "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=19",
+      "subject": "PuG_Politik_und_Gesellschaft",
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "page": 19,
+      "source_text_status": "ocr",
+      "source_section_chars": 826,
+      "previous_modules": [
+
+      ],
+      "previous_curated_topics": [
+
+      ],
+      "audit": {
+        "primary_topic": "Totalitäre Systeme und Diktatur",
+        "secondary_topics": [
+          "Grundgesetz Staatsprinzipien und Grundrechte"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Totalitäre Systeme und Diktatur",
+          "Grundgesetz Staatsprinzipien und Grundrechte"
+        ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
         "replaces_existing": true,
         "visual_checked": true
       }
@@ -66714,6 +67368,7 @@
     "Deckungsbeitrag und Gewinnschwelle": "Wirtschaft_und_Recht",
     "Direkter und indirekter Vertrieb": "Wirtschaft_und_Recht",
     "Business Process Model and Notation BPMN": "Wirtschaft_und_Recht",
-    "Totalitäre Systeme und Diktatur": "Wirtschaft_und_Recht"
+    "Totalitäre Systeme und Diktatur": "Wirtschaft_und_Recht",
+    "IT-Servicearten und Service-Management": "Wirtschaft_und_Recht"
   }
 }

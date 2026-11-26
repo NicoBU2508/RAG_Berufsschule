@@ -3,7 +3,7 @@ typ: quelle
 fach: "PuG_Politik_und_Gesellschaft"
 fach_anzeige: "PuG Politik und Gesellschaft"
 original_pfad: "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf"
-seiten: 18
+seiten: 19
 pruefung: "AP1, WiSo"
 cssclasses:
   - lernquelle
@@ -12,28 +12,28 @@ tags:
   - quelle
   - pug_politik_und_gesellschaft
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-24"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
 kanonische_themen: 3
-seiten_mit_kanonischem_thema: 18
+seiten_mit_kanonischem_thema: 19
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=5, ocr_verified=13)"
-textzeichen: 26450
+textstatus: "gemischt: visuell geprüft (ok=5, ocr_verified=14)"
+textzeichen: 26934
 ---
 # 📄 PUG Mitschrift
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/PuG_Politik_und_Gesellschaft/PuG_Politik_und_Gesellschaft|PuG Politik und Gesellschaft]]
 > - **Original-PDF:** [PUG_Mitschrift.pdf](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf>)
-> - **Seiten:** 18
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=5, ocr_verified=13)
+> - **Seiten:** 19
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=5, ocr_verified=14)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
 
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
-| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte\|Grundgesetz Staatsprinzipien und Grundrechte]] | Prüfungsrahmen der Quelle | 1–10, 12–13, 15 | Visuell bestätigt auf 13 Seite(n); bei 10 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur\|Totalitäre Systeme und Diktatur]] | Prüfungsrahmen der Quelle | 14–18 | Visuell bestätigt auf 5 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte\|Grundgesetz Staatsprinzipien und Grundrechte]] | Prüfungsrahmen der Quelle | 1–10, 12–13, 15–16, 19 | Visuell bestätigt auf 15 Seite(n); bei 12 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur\|Totalitäre Systeme und Diktatur]] | Prüfungsrahmen der Quelle | 14–19 | Visuell bestätigt auf 6 Seite(n); bei 4 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Weimarer Verfassung und Grundgesetz\|Weimarer Verfassung und Grundgesetz]] | Prüfungsrahmen der Quelle | 9, 11–14 | Visuell bestätigt auf 5 Seite(n); bei 4 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
@@ -637,34 +637,35 @@ Machterwerb und Herrschaftsausübung (Diktatur):
 > ![[99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=16]]
 
 > [!ocr] Visuell transkribiert
-> Handschriftliche Lückentext-Einträge zur DDR und Antworten zu Michael Gartenschläger aus Sichtprüfung bereinigt und zugeordnet.
+> Gedruckter Arbeitsblatttext, Hervorhebungen und handschriftliche Lösungen (Aufgabe 1 und 2a–e) wurden aus der Sichtprüfung vollständig verifiziert.
 
 #### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
 PUG 11.1 – Staatsziele und Staatsordnung – totalitäre Systeme
-Möchtest Du tauschen? – Jugend in der DDR –
-Wie geht es jungen Leuten in totalitären Staaten?
 
-1. Was weißt Du über die DDR?
-DDR = Deutsche Demokratische Republik
-Entstanden 1949 aus der sowjetischen Besatzungszone.
-Herrschende Partei: SED
-Herrschende Ideologie: Kommunismus / Sozialismus
+Möchtest Du tauschen? – Jugend in der DDR – Wie geht es jungen Leuten in totalitären Staaten?
+
+1. Was weißt Du über die DDR? (mit handschriftlichen Lösungen)
+- DDR = Deutsche Demokratische Republik
+- Entstanden 1949 aus der sowjetischen Besatzungszone.
+- Herrschende Partei: SED
+- Herrschende Ideologie: Kommunismus / Sozialismus
 - Einwohnerzahlen (Mio.): 1949: 18,8 | 1961: 17,1 | 1989: 16,4
-- Volksaufstand am 17. Juni 1953
-- Mauerbau am 13.8.1961
+- Volksaufstand am: 17. Juni 1953
+- Mauerbau am: 13.8.1961
 - Aus dem „Arbeiterparadies“ sind ca. 3,8 Mio. geflüchtet. Dabei starben ca. min. 140 („Mauertote“).
 
-Die Deutsche Demokratische Republik verstand sich formal als sozialistische Volksdemokratie, in der die politische Macht jedoch de facto von der Sozialistischen Einheitspartei Deutschlands (SED) ausgeübt wurde. Andere Parteien existierten nur formal und waren in der Nationalen Front mit der SED zusammengeschlossen, wodurch ein pluralistisches System nur auf dem Papier bestand.
-Gewaltenteilung gab es nicht; staatliche Organe wie Volkskammer, Ministerrat und Staatsrat waren eng mit der SED verbunden, sodass man von einer Parteidiktatur sprechen kann.
+Infotext (Hervorhebungen markiert):
+Die Deutsche Demokratische Republik verstand sich formal als sozialistische Volksdemokratie, in der die [politische Macht] jedoch de facto von der Sozialistischen Einheitspartei Deutschlands ([SED]) ausgeübt wurde. Andere Parteien existierten nur formal und waren in der Nationalen Front mit der SED zusammengeschlossen, wodurch ein [pluralistisches System nur auf dem Papier] bestand.
+[Gewaltenteilung] gab es [nicht]; staatliche Organe wie Volkskammer, Ministerrat und Staatsrat waren eng mit der SED verbunden, sodass man von einer [Parteidiktatur] sprechen kann.
 
-2. Das kurze Leben des Michael Gartenschläger
-a) Wie alt war Michael, als er Probleme mit dem DDR-Staat bekam? 17 J.
-b) Welches Hobby war der Grund dafür? Rock'n Roll
-c) Warum war der 14.8.1961 ein einschneidendes Datum in Michaels Leben? Einstellen des Betriebes vom Rock'n'Roll Club
-d) Was haben Michael und seine Freunde getan, um ihrem Ärger Luft zu machen und Veränderungen zu erreichen? Parolen verbreitet und Brandstiftung an einer Scheune
-e) Wie lautete das Gerichtsurteil dafür? (offen / nicht ausgefüllt)
+2. Das kurze Leben des Michael Gartenschläger (mit handschriftlichen Lösungen)
+a) Wie alt war Michael, als er Probleme mit dem DDR-Staat bekam? -> 17 J.
+b) Welches Hobby war der Grund dafür? -> Rock'n Roll -> „westliche“ Musik
+c) Warum war der 14.8.1961 ein einschneidendes Datum in Michaels Leben? -> Einreiseverbot nach Westberlin / sein Rock'n Roll Club wurde vom Kulturministerium verboten
+d) Was haben Michael und seine Freunde getan, um ihrem Ärger Luft zu machen und Veränderungen zu erreichen? -> Politische Parolen verbreitet und Brandstiftung an eine Scheune
+e) Wie lautete das Gerichtsurteil dafür? -> Lebenslanges Zuchthaus
 ```
 
 ### Seite 17
@@ -763,4 +764,29 @@ Leben zu riskieren?
 2. Welche Geschichte beeindruckt dich am meisten? Begründe!
 ￼
 ￼
+```
+
+### Seite 19
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [PUG_Mitschrift.pdf Seite 19](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=19>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=19]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=19]]
+
+> [!ocr] Visuell transkribiert
+> Handschriftliche Lösung zu Aufgabe 1 von Seite 18 aus der Sichtprüfung verifiziert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+Handschriftliche Lösung zu Aufgabe 1 (Gründe für die Flucht aus der DDR unter Lebensgefahr, Bezug S. 18):
+1.
+- Hoffnung auf ein besseres Leben
+- Überwachung durch die Stasi
+- keine Meinungsfreiheit
+- keine freien Wahlen
+- durfte nicht frei Reisen
+- keine freie Berufswahl
 ```

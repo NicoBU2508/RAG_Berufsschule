@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften.md (Seiten 5–7)",
+  "replaces_existing": true,
+  "topic_categories": {},
+  "pages": [
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "RAID-Systeme",
+        "secondary_topics": [
+          "Hochverfügbarkeit und Redundanz",
+          "IT-Sicherheit Grundlagen"
+        ],
+        "recommended_topics": [
+          "RAID-Systeme",
+          "Hochverfügbarkeit und Redundanz",
+          "IT-Sicherheit Grundlagen"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "RAID-Systeme",
+        "secondary_topics": [
+          "SI- und IEC-Dateneinheiten"
+        ],
+        "recommended_topics": [
+          "RAID-Systeme",
+          "SI- und IEC-Dateneinheiten"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf",
+      "page": 7,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "RAID-Systeme",
+        "secondary_topics": [
+          "SI- und IEC-Dateneinheiten",
+          "Hochverfügbarkeit und Redundanz"
+        ],
+        "recommended_topics": [
+          "RAID-Systeme",
+          "SI- und IEC-Dateneinheiten",
+          "Hochverfügbarkeit und Redundanz"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Aufgabe 10 handschriftlich mit Faktor 1000 statt 1024 auf 2,16 TiB umgerechnet (binär exakt 2160 / 1024 = 2,109 TiB); Endergebnis Aufgabe 11 (9 Jahre) bleibt identisch."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    }
+  ]
+}

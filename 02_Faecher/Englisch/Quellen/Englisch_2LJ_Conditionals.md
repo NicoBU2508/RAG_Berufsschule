@@ -3,7 +3,7 @@ typ: quelle
 fach: "Englisch"
 fach_anzeige: "Englisch"
 original_pfad: "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf"
-seiten: 14
+seiten: 20
 pruefung: "AP1, WiSo"
 cssclasses:
   - lernquelle
@@ -12,23 +12,23 @@ tags:
   - quelle
   - englisch
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
-kanonische_themen: 5
-seiten_mit_kanonischem_thema: 11
+kanonische_themen: 6
+seiten_mit_kanonischem_thema: 17
 ki_exclude_seiten: [3,13,14]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 ki_sensitive_seiten: [11,12]
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=6, ocr_verified=3, redacted_summary=2)"
-textzeichen: 13259
+textstatus: "gemischt: visuell geprüft (ok=9, ocr_verified=6, redacted_summary=2)"
+textzeichen: 27458
 ---
 # 📄 01 Conditionals
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/Englisch/Englisch|Englisch]]
 > - **Original-PDF:** [01_Conditionals.pdf](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf>)
-> - **Seiten:** 14
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=6, ocr_verified=3, redacted_summary=2)
+> - **Seiten:** 20
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=9, ocr_verified=6, redacted_summary=2)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -37,8 +37,9 @@ textzeichen: 13259
 |---|---|---:|---|
 | [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Business Communication English\|Business Communication English]] | Prüfungsrahmen der Quelle | 4–6 | Visuell bestätigt auf 3 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Entwicklungswerkzeuge und Debugging\|Entwicklungswerkzeuge und Debugging]] | Prüfungsrahmen der Quelle | 4, 6 | Visuell bestätigt auf 2 Seite(n). |
-| [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/IT Vocabulary and Hardware\|IT Vocabulary and Hardware]] | Prüfungsrahmen der Quelle | 9–10 | Visuell bestätigt auf 2 Seite(n). |
-| [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Reading Comprehension and Case Studies\|Reading Comprehension and Case Studies]] | Prüfungsrahmen der Quelle | 7–12 | Visuell bestätigt auf 6 Seite(n); bei 4 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/IT Vocabulary and Hardware\|IT Vocabulary and Hardware]] | Prüfungsrahmen der Quelle | 9–10, 15–20 | Visuell bestätigt auf 8 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Malware und Angriffe\|Malware und Angriffe]] | Prüfungsrahmen der Quelle | 15–20 | Visuell bestätigt auf 6 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Reading Comprehension and Case Studies\|Reading Comprehension and Case Studies]] | Prüfungsrahmen der Quelle | 7–12, 15–16, 18–19 | Visuell bestätigt auf 10 Seite(n); bei 6 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Useful Phrases and Grammar\|Useful Phrases and Grammar]] | Prüfungsrahmen der Quelle | 1–2 | Visuell bestätigt auf 2 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
@@ -531,3 +532,282 @@ stark bearbeitet
 > [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
 > Grund: Exaktes seiteninternes Duplikat von Seite 10 (identischer Lesetext). Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
 
+### Seite 15
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Conditionals.pdf Seite 15](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=15>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=15]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=15]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+English Malware Date:
+Malware
+Many PC users consider malware, viruses, spyware, adware, worms, Trojans, etc. as the same
+thing. While all these infections harm our computers, they are not the same. They are all types
+of malicious software that each behave differently.
+The word malware is a combination of two words “malicious” and “software”. It is a generic term
+used to describe all of the hostile1 and intrusive2 program codes including viruses, spyware,
+worms, Trojans, or anything that is designed to perform malicious operations on a computer.
+The meanings of many of these words have changed over time. Some refer to how malware
+infects your system while other words are used to describe what the malware does once it’s
+active in your machine.
+Delivery3/Infection Methods
+When we’re trying to build better software to remove malware from your machine, the main things that
+we are interested in is how it got into your computer and how it is continuing to work.
+Probably the most popular way to get something nasty into your computer is a
+_____________________________. Most of the time, it comes from visiting a bad web page.
+That web page exploits4 a weakness in your browser and causes your system to become infected.
+But infection ways are diverse and include also forms of phishing, social engineering and others.
+The downloaded malware will generally fit into one of the following categories.
+1.
+______________
+– this is a term that used to be generic5. Any bad software used to be a
+virus. However, we use the term “malware” now. We use the word to describe a program
+that self-replicates6 after hooking7 itself onto something running in your OS.
+2.
+______________
+– is another kind of self-replicating program but generally doesn’t hook
+itself onto a Windows process. They generally are little programs that run in the background
+of your system.
+3.
+______________
+– software that you thought was going to be one thing but turns out to be
+something bad. Named for the fabled “_____________
+Horse” that appeared to be a gift
+but in fact carried a dangerous payload.
+Malware Actions
+Once malware is in your computer, it can do many things. Sometimes it’s only trying to replicate
+itself with no harm to anyone, other times it’s capable of doing very nasty things.
+1 hostile = feindlich
+2 intrusive = aufdringlich, aggressiv
+3 delivery = Lieferung
+4 to exploit = ausnutzen
+5 generic = allgemein, typisch
+6 to replicate = nachbilden, kopieren
+7 to hook = festhaken
+Drive-by download – Worm – Virus – Trojan
+￼
+```
+
+### Seite 16
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Conditionals.pdf Seite 16](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=16>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=16]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=16]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+English Malware Date:
+1.
+_____________
+– not truly malware and almost never delivered
+using one of the methods above. It is software that uses some
+form of advertising delivery system. Sometimes the way that
+advertisements are delivered can be deceptive8 in that they
+track or reveal9 more information about you than you would like.
+Most of the time, you agree to the adware tracking you when you install the software that
+it comes with. Generally, it can be removed by uninstalling the software it was attached to.
+2.
+______________
+– software that monitors10 your computer and reveals collected
+information to an interested party. This can be more benign11 when it tracks what webpages
+you visit; or it can be incredibly invasive when it monitors everything you do with your
+mouse and keyboard.
+3.
+_________________
+– lately a very popular way for Internet criminals to make money. This
+malware alters your system in such a way that you’re unable to get into it normally. It will
+then display some kind of screen that demands some form of payment to have the computer
+unlocked.
+Access to your computer has literally to be ransomed12 from the cyber-criminal.
+4.
+_______________
+– software that appears to be something legit13 (usually masquerading14
+as some tool to help fix your computer) but when it runs, it tells you that your system is
+either infected or broken in some way. This message is generally delivered in a manner that
+is meant to frighten you into doing something. The software claims to be able to fix your
+problems if you pay them. Scareware is also referred to as “rogue” software – like rogue
+antivirus.
+Some malware gets onto your computer and appears to do nothing at all. Such malware may
+have no obvious symptoms, but it has infected your computer along with a group of other
+computers, forming what is called a “botnet”. This botnet can be directed by an internet criminal
+to do any number of things including spam delivery and launching DDos-attacks on internet sites.
+Internet criminals don’t want to do anything direct that may be tracked back to them, so they
+employ botnets to do their dirty work for them.
+Sometimes you’ll hear the term “rootkit” or “bootkit” used to describe a certain type of malware.
+Generally, this refers to methods that the malware uses to hide itself deep inside the inner
+workings of Windows so as to avoid detection.
+For maximum protection, make sure your PC is protected with
+security software that can protect you against malware.
+8 deceptive = irreführend, trügerisch
+9 to reveal = zeigen, aufdecken
+10 to monitor = überwachen, kontrollieren, beobachten
+11 benign (syn.:harmless) = harmlos, ungefährlich, gutartig
+12 to ransom = freikaufen
+13 legit = echt
+14 to masquerade = sich verkleiden
+Scareware
+Spyware
+Ransomware
+Adware
+￼
+```
+
+### Seite 17
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Conditionals.pdf Seite 17](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=17>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=17]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=17]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+English Malware Date:
+Malware
+Tasks:
+1. Write down in one German sentence what the following terms mean. You can use the
+computer in order to find out more.
+Virus
+_________________________________________________________________
+Worm
+_________________________________________________________________
+Trojan _________________________________________________________________
+Drive-by download _____________________________________________________
+_________________________________________________________________
+Phishing/Quishing ______________________________________________________
+_________________________________________________________________
+Adware
+_________________________________________________________________
+Spyware _________________________________________________________________
+Ransomware
+___________________________________________________________
+Scareware
+___________________________________________________________
+2. Translate the paragraph in the blue box into German.
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+```
+
+### Seite 18
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Conditionals.pdf Seite 18](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=18>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=18]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=18]]
+
+> [!ocr] Visuell transkribiert
+> Ausgefülltes Lösungsblatt zu Seite 15 – eingesetzte Fachbegriffe an den korrekten Textstellen zusammengeführt.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+English – Malware (Solution to Page 15)
+
+Many PC users consider malware, viruses, spyware, adware, worms, Trojans, etc. as the same thing. While all these infections harm our computers, they are not the same. They are all types of malicious software that each behave differently.
+The word malware is a combination of two words “malicious” and “software”. It is a generic term used to describe all of the hostile(1) and intrusive(2) program codes including viruses, spyware, worms, Trojans, or anything that is designed to perform malicious operations on a computer.
+The meanings of many of these words have changed over time. Some refer to how malware infects your system while other words are used to describe what the malware does once it’s active in your machine.
+
+Delivery(3)/Infection Methods [Drive-by download – Worm – Virus – Trojan]
+When we’re trying to build better software to remove malware from your machine, the main things that we are interested in is how it got into your computer and how it is continuing to work.
+Probably the most popular way to get something nasty into your computer is a [drive-by download]. Most of the time, it comes from visiting a bad web page. That web page exploits(4) a weakness in your browser and causes your system to become infected. But infection ways are diverse and include also forms of phishing, social engineering and others.
+
+The downloaded malware will generally fit into one of the following categories:
+1. [Virus] – this is a term that used to be generic(5). Any bad software used to be a virus. However, we use the term “malware” now. We use the word to describe a program that self-replicates(6) after hooking(7) itself onto something running in your OS.
+2. [Worm] – is another kind of self-replicating program but generally doesn’t hook itself onto a Windows process. They generally are little programs that run in the background of your system.
+3. [Trojan] – software that you thought was going to be one thing but turns out to be something bad. Named for the fabled “[Trojan] Horse” that appeared to be a gift but in fact carried a dangerous payload.
+
+Malware Actions:
+Once malware is in your computer, it can do many things. Sometimes it’s only trying to replicate itself with no harm to anyone, other times it’s capable of doing very nasty things.
+
+Vocabulary:
+1 hostile = feindlich | 2 intrusive = aufdringlich, aggressiv | 3 delivery = Lieferung | 4 to exploit = ausnutzen | 5 generic = allgemein, typisch | 6 to replicate = nachbilden, kopieren | 7 to hook = festhaken
+```
+
+### Seite 19
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Conditionals.pdf Seite 19](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=19>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=19]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=19]]
+
+> [!ocr] Visuell transkribiert
+> Ausgefülltes Lösungsblatt zu Seite 16 – eingesetzte Malware-Kategorien an den korrekten Textstellen zusammengeführt.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+English – Malware (Solution to Page 16) [Scareware | Spyware | Ransomware | Adware]
+
+1. [Adware] – not truly malware and almost never delivered using one of the methods above. It is software that uses some form of advertising delivery system. Sometimes the way that advertisements are delivered can be deceptive(8) in that they track or reveal(9) more information about you than you would like. Most of the time, you agree to the adware tracking you when you install the software that it comes with. Generally, it can be removed by uninstalling the software it was attached to.
+
+2. [Spyware] – software that monitors(10) your computer and reveals collected information to an interested party. This can be more benign(11) when it tracks what webpages you visit; or it can be incredibly invasive when it monitors everything you do with your mouse and keyboard.
+
+3. [Ransomware] – lately a very popular way for Internet criminals to make money. This malware alters your system in such a way that you’re unable to get into it normally. It will then display some kind of screen that demands some form of payment to have the computer unlocked. Access to your computer has literally to be ransomed(12) from the cyber-criminal.
+
+4. [Scareware] – software that appears to be something legit(13) (usually masquerading(14) as some tool to help fix your computer) but when it runs, it tells you that your system is either infected or broken in some way. This message is generally delivered in a manner that is meant to frighten you into doing something. The software claims to be able to fix your problems if you pay them. Scareware is also referred to as “rogue” software – like rogue antivirus.
+
+Botnet (Blue Box):
+Some malware gets onto your computer and appears to do nothing at all. Such malware may have no obvious symptoms, but it has infected your computer along with a group of other computers, forming what is called a “botnet”. This botnet can be directed by an internet criminal to do any number of things including spam delivery and launching DDos-attacks on internet sites. Internet criminals don’t want to do anything direct that may be tracked back to them, so they employ botnets to do their dirty work for them.
+
+Rootkit / Bootkit:
+Sometimes you’ll hear the term “rootkit” or “bootkit” used to describe a certain type of malware. Generally, this refers to methods that the malware uses to hide itself deep inside the inner workings of Windows so as to avoid detection.
+For maximum protection, make sure your PC is protected with security software that can protect you against malware.
+
+Vocabulary:
+8 deceptive = irreführend, trügerisch | 9 to reveal = zeigen, aufdecken | 10 to monitor = überwachen, kontrollieren, beobachten | 11 benign (syn.: harmless) = harmlos, ungefährlich, gutartig | 12 to ransom = freikaufen | 13 legit = echt | 14 to masquerade = sich verkleiden
+```
+
+### Seite 20
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [01_Conditionals.pdf Seite 20](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=20>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=20]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=20]]
+
+> [!ocr] Visuell transkribiert
+> Ausgefülltes Lösungsblatt zu Seite 17 – Begriffe und deutsche Erklärungssätze exakt zugeordnet.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+English – Malware: Tasks (Solutions to Page 17)
+
+1. Write down in one German sentence what the following terms mean. You can use the computer in order to find out more.
+- Virus: Ein Virus hängt sich an Systemprozesse an und vervielfältigt sich selbst.
+- Worm: Ein Wurm verbreitet sich selbstständig im Hintergrund ohne Wirtsprogramm.
+- Trojan: Ein Trojaner tarnt sich als nützliche Software, führt aber Schadcode aus.
+- Drive-by download: Ein Drive-by-Download lädt beim Besuch einer manipulierten Webseite unbemerkt Schadsoftware über eine Browser-Lücke herunter.
+- Phishing/Quishing: Beim Phishing bzw. Quishing stehlen Betrüger über gefälschte Nachrichten oder QR-Codes sensible Daten wie Passwörter.
+- Adware: Adware blendet ungefragt Werbung ein und verfolgt oft das Nutzerverhalten.
+- Spyware: Spyware überwacht heimlich den Computer und sendet Daten an Dritte.
+- Ransomware: Ransomware sperrt Systeme oder Daten und fordert Lösegeld.
+- Scareware: Scareware täuscht Viren vor, um Nutzer aus Angst zum Kauf zu drängen.
+
+2. Translate the paragraph in the blue box into German.
+Manche Schadsoftware gelangt auf Ihren Computer und scheint überhaupt nichts zu tun. Solche Malware weist möglicherweise keine offensichtlichen Symptome auf, hat aber Ihren Computer zusammen mit einer Gruppe anderer Computer infiziert und bildet ein sogenanntes „Botnetz“. Dieses Botnetz kann von einem Internetkriminellen gesteuert werden, um eine Vielzahl von Dingen zu tun, darunter das Versenden von Spam und das Starten von DDoS-Angriffen auf Internetseiten. Internetkriminelle wollen nichts Direktes tun, das zu ihnen zurückverfolgt werden könnte, daher setzen sie Botnetze ein, um die Drecksarbeit für sie zu erledigen.
+```

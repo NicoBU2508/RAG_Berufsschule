@@ -2,8 +2,8 @@
 id: vault.thema.visuell.organisation.im.betrieb
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-23
-reviewed_on: 2026-11-23
+stand: 2026-11-26
+reviewed_on: 2026-11-26
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
@@ -11,7 +11,7 @@ thema: "Organisation im Betrieb"
 kategorie: Wirtschaft_und_Recht
 pruefung: "AP2"
 quellen: 4
-seiten: 39
+seiten: 41
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -29,7 +29,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift\|BGWP_2LJ_Mitschrift]] | [1](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=1>) | theorie | 1 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift\|BGWP_2LJ_Mitschrift]] | [1, 31–32](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=1>) | aufgabe, loesung, theorie | 2 Seite(n): OCR/Original prüfen |
 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl\|Bgwp_schredl]] | [1–15, 17, 19, 21–36](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=1>) | aufgabe, loesung, theorie | Text für Zitate geeignet |
 | [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP\|ZusammenfassungBGWP]] | [1–4](<99_Originale/Berufsschule/BGWP/1_LJ/ZusammenfassungBGWP.pdf#page=1>) | theorie | 4 Seite(n): OCR/Original prüfen |
 | [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | [38](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=38>) | theorie | Text für Zitate geeignet |

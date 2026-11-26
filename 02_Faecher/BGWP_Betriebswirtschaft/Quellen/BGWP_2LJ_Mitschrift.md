@@ -3,7 +3,7 @@ typ: quelle
 fach: "BGWP_Betriebswirtschaft"
 fach_anzeige: "BGWP Betriebswirtschaft"
 original_pfad: "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf"
-seiten: 30
+seiten: 35
 pruefung: "AP1, WiSo"
 cssclasses:
   - lernquelle
@@ -12,21 +12,23 @@ tags:
   - quelle
   - bgwp_betriebswirtschaft
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-24"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
-kanonische_themen: 4
-seiten_mit_kanonischem_thema: 30
+kanonische_themen: 5
+seiten_mit_kanonischem_thema: 34
+ki_exclude_seiten: [35]
+ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 ki_support_seiten: [2,21]
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=11, ocr_verified=19)"
-textzeichen: 38870
+textstatus: "gemischt: visuell geprüft (ok=13, ocr_verified=21)"
+textzeichen: 46293
 ---
 # 📄 BGWP mitschickt
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/BGWP_Betriebswirtschaft/BGWP_Betriebswirtschaft|BGWP Betriebswirtschaft]]
 > - **Original-PDF:** [BGWP mitschickt.pdf](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf>)
-> - **Seiten:** 30
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=11, ocr_verified=19)
+> - **Seiten:** 35
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=13, ocr_verified=21)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -35,7 +37,8 @@ textzeichen: 38870
 |---|---|---:|---|
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Business Process Model and Notation BPMN\|Business Process Model and Notation BPMN]] | Prüfungsrahmen der Quelle | 23–30 | Visuell bestätigt auf 8 Seite(n); bei 4 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Ereignisgesteuerte Prozessketten EPK\|Ereignisgesteuerte Prozessketten EPK]] | Prüfungsrahmen der Quelle | 7–22 | Visuell bestätigt auf 16 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 9 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Organisation im Betrieb\|Organisation im Betrieb]] | Prüfungsrahmen der Quelle | 1 | Visuell bestätigt auf 1 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/IT-Servicearten und Service-Management\|IT-Servicearten und Service-Management]] | Prüfungsrahmen der Quelle | 31–34 | Visuell bestätigt auf 4 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Organisation im Betrieb\|Organisation im Betrieb]] | Prüfungsrahmen der Quelle | 1, 31–32 | Visuell bestätigt auf 3 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Prozessmanagement und Geschäftsprozesse\|Prozessmanagement und Geschäftsprozesse]] | Prüfungsrahmen der Quelle | 1–7 | Visuell bestätigt auf 7 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 6 Seite(n) OCR/Original für exakte Zitate prüfen. |
 
 ## 🧠 Lernstruktur
@@ -1165,7 +1168,7 @@ Beschriftung der BPMN-Bestandteile in der unteren Grafik:
 > ![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=28]]
 
 > [!ocr] Visuell transkribiert
-> Gedruckte BPMN-Übungsaufgaben (Aufgabe 1 und 2) sowie handschriftliche Einträge/Lösungsansatz aus Sichtprüfung transkribiert.
+> Handschriftliche Antworten zu Aufgabe 1 sowie das eingefügte BPMN-Diagrammfoto zu Aufgabe 2 (Onboarding-Prozess) aus der Sichtprüfung vollständig transkribiert.
 
 #### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
@@ -1174,17 +1177,19 @@ BGWP LF 6 – 1.6 Business Process Model and Notation (BPMN)
 BPMN – Übungsaufgaben
 
 Aufgabe 1: Lies Seite 1 im Infotext und notiere einige Vorteile der BPMN.
-Handschriftliche Antworten:
-• Einheitliche Sprache
-• Standardisierte Verwendung
-• Ausbildung und Ressourcen
+Handschriftliche Lösung:
+- Einheitliche Sprache für Geschäftsprozesse
+- Förderung eines gemeinsamen Prozessverständnisses
+- Brücke zwischen Fachbereich und IT
+- große Auswahl an Modellierungstools
+- viele Ausbildungsmöglichkeiten und Ressourcen
 
 Aufgabe 2: Sieh dir Seite 2 – 5 des Infotextes an und erstelle ein BPMN-Diagramm zu folgendem Onboarding-Prozess.
 Prozessbeschreibung:
 - Die Personalabteilung sendet dem neuen Mitarbeiter eine Begrüßungsmail mit Informationen zum ersten Arbeitstag.
 - Anschließend werden folgende Schritte parallel durchlaufen:
-  o Die IT-Abteilung erstellt ein IT-Ticket, richtet Laptop und Zugänge ein.
-  o Am ersten Arbeitstag wird der neue Mitarbeiter durch die Teamleitung begrüßt.
+  - Die IT-Abteilung erstellt ein IT-Ticket, richtet Laptop und Zugänge ein.
+  - Am ersten Arbeitstag wird der neue Mitarbeiter durch die Teamleitung begrüßt.
 - Danach führt die Personalabteilung eine kurze Einführungsveranstaltung durch.
 - Sobald der Mitarbeiter alle Stationen durchlaufen hat, ist der Onboarding-Prozess abgeschlossen.
 
@@ -1193,11 +1198,14 @@ Hinweise zur Modellierung:
 - Modellieren Sie den Ablauf logisch mit Start- und Endereignis, Aufgaben und Gateways (wenn sinnvoll).
 - Verwenden Sie Nachrichtenflüsse zwischen Lanes, wenn Informationen oder Aufgaben übergeben werden.
 
-Handschriftlicher Lösungsansatz (unvollständig begonnener Pool mit 3 Lanes: IT, Teamleitung, Personalabteilung):
-- Lane Personalabteilung: Startereignis „Mail gesendet“ -> Pfeile nach oben zu Lane Teamleitung und Lane IT
-- Lane Teamleitung: Aktivität „Begrüßung“
-- Lane IT: Aktivität „Erstellt Ticket“ -> Ereignis „Ticket erstellt“ -> Aktivität „richtet Laptop ein“
-(Paralleles Gateway, Einführungsveranstaltung und Endereignis noch nicht ergänzt.)
+Lösung (eingefügtes BPMN-Diagramm, Pool „Onboarding“ mit 3 Lanes):
+- Lane „Personalabteilung“:
+  Startereignis „Start“ -> Task „Neuen Mitarbeiter einstellen“ -> Sende-Task (Briefsymbol) „Begrüßungsmail senden“ -> Übergang zum parallelen Gateway (+) in Lane „IT-Abteilung“
+- Parallele Ausführung ab UND-Gateway (+, Aufspaltung):
+  - Zweig 1 in Lane „IT-Abteilung“: Task „IT-Ticket erstellen“ -> Task „Laptop vorbereiten“ -> Task „Zugänge einrichten“ -> Zusammenführung am zweiten UND-Gateway (+)
+  - Zweig 2 in Lane „Teamleitung“: Task „Mitarbeiter begrüßen“ -> Zusammenführung am zweiten UND-Gateway (+)
+- Nach dem zusammenführenden UND-Gateway (+) zurück in Lane „Personalabteilung“:
+  Task „Einführung durchführen“ -> Endereignis „Ende“
 ```
 
 ### Seite 29
@@ -1243,10 +1251,6 @@ around suchen. Danach muss er Fehler/ Workaround in der Known-Error-Datenbank
 dokumentieren und den Workaround umsetzen. Das System speichert die Dokumen-
 tation in der Known-Error-Datenbank. Ist beides erledigt, endet der Prozess.
 Vervollständigen Sie folgendes Diagramm, indem Sie die fehlenden Aktivitäten eintragen.
-￼
-￼
-￼
-￼
 ```
 
 ### Seite 30
@@ -1259,36 +1263,174 @@ Vervollständigen Sie folgendes Diagramm, indem Sie die fehlenden Aktivitäten e
 > ![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=30]]
 
 > [!ocr] Visuell transkribiert
-> Querformatige BPMN-2.0-Diagrammvorlage (Lückendiagramm) zu Aufgabe 3 (Sensofood-Logistik GmbH, vgl. Seite 29) aus Sichtprüfung transkribiert.
+> Querformatiges BPMN-2.0-Diagramm zu Aufgabe 3 (Sensofood-Logistik GmbH) samt handschriftlich eingetragenen Aktivitäten aus der Sichtprüfung vollständig transkribiert.
 
 #### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
 BGWP LF 6 – 1.6 Business Process Model and Notation (BPMN)
-Diagrammvorlage zu Aufgabe 3 (Sensofood-Logistik GmbH – Monitoring und Control System, vgl. Seite 29; unausgefüllte Lücken):
+Lösung zu Aufgabe 3: BPMN-2.0-Kollaborationsdiagramm (2 Pools: „Monitoring und Control System“ und „Lkw-Fahrer“)
 
-Pool 1: Monitoring und Control System
-- Startereignis: „Störung aufgetreten“
-- -> Service-Task (Zahnräder): „Selbstentstörung durchführen“
-- -> XOR-Gateway (X):
-  - Zweig „Entstörung erfolgreich“:
-    -> Script-Task (Skript): „Vorfallszähler um 1 erhöhen“
-    -> Endereignis: „Störung behoben“
-  - Zweig „Entstörung nicht erfolgreich“:
-    -> [Lücke: Service-Task] -> Übergang zu Pool 2 (Zwischenereignis „Fahrer informiert“)
-- Fortsetzung aus Pool 2 („known error“):
-  -> [Lücke: Script-Task] -> [Lücke: Service-Task] -> Übergang zurück zu Pool 2 (XOR-Zusammenführung vor Manual-Task)
-- Fortsetzung aus Pool 2 („unknown error“, paralleler Dokumentationszweig):
-  -> [Lücke: Script-Task] -> Endereignis: „Störung behoben“
+1. Pool „Monitoring und Control System“:
+- Startereignis „Störung aufgetreten“ -> Aktivität „Selbstentstörung durchführen“ -> XOR-Gateway (X):
+  - Zweig „Entstörung erfolgreich“ -> Skript-Task „Vorfallszähler um 1 erhöhen“ -> Endereignis „Störung behoben“
+  - Zweig „Entstörung nicht erfolgreich“ -> Benutzer-Task [handschriftlich: „Fahrer über Störung informieren“] -> Nachrichtenfluss an Pool „Lkw-Fahrer“ (Startereignis „Fahrer informiert“)
+- Reaktion auf „known error“ aus Pool „Lkw-Fahrer“:
+  - Skript-Task [handschriftlich: „Vorfallszähler um 1 erhöhen“] -> Benutzer-Task [handschriftlich: „Workaround vorschlagen“] -> Fluss zurück an Pool „Lkw-Fahrer“ (vor zusammenführendes XOR-Gateway)
+- Reaktion auf Dokumentation aus Pool „Lkw-Fahrer“:
+  - Skript-Task [im Blatt noch unausgefüllt; laut Prozessbeschreibung S. 29: „Dokumentation in Known-Error-Datenbank speichern“] -> Endereignis „Störung behoben“
 
-Pool 2: Lkw-Fahrer
-- Zwischenereignis: „Fahrer informiert“
-- -> [Lücke: User-Task]
-- -> XOR-Gateway (X):
-  - Zweig „known error“ -> Übergang zu Pool 1 ([Lücke: Script-Task])
-  - Zweig „unknown error“:
-    -> [Lücke: User-Task]
-    -> Parallel-Gateway (+):
-       - Zweig 1 -> XOR-Zusammenführung (mit Rückfluss aus Pool 1 „known error“) -> [Lücke: Manual-Task] -> Endereignis: „Störung behoben“
-       - Zweig 2 -> [Lücke: Service-Task] -> Übergang zu Pool 1 ([Lücke: Script-Task] -> Endereignis „Störung behoben“)
+2. Pool „Lkw-Fahrer“:
+- Nachrichten-Startereignis „Fahrer informiert“ -> Benutzer-Task [handschriftlich: „Fehler identifizieren“] -> XOR-Gateway (X):
+  - Zweig „known error“ -> Übergabe an „Monitoring und Control System“ („Vorfallszähler um 1 erhöhen“ -> „Workaround vorschlagen“) -> mündet in zusammenführendes XOR-Gateway (X)
+  - Zweig „unknown error“ -> Benutzer-Task [im Blatt noch unausgefüllt; laut Prozessbeschreibung S. 29: „Workaround suchen“] -> Paralleles UND-Gateway (+):
+    - Linker Zweig -> mündet in das zusammenführende XOR-Gateway (X)
+    - Rechter Zweig -> Benutzer-Task [handschriftlich: „Fehler und Workaround dokumentieren“] -> Übergabe an „Monitoring und Control System“
+- Nach zusammenführendem XOR-Gateway (X):
+  - Manuelle Aufgabe [handschriftlich: „Workaround umsetzen“] -> Endereignis „Störung behoben“
 ```
+
+### Seite 31
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP mitschickt.pdf Seite 31](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=31>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=31]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=31]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP LF 6 – 2.1 Servicearten und Serviceanforderungen im IT-Bereich (JIKU IT-Solutions)
+
+Situation: Du machst dich mit den verschiedenen Rollen vertraut, die sich aufgrund der Aufgaben im Unternehmen ergeben.
+Aufgabe: Erkläre die untenstehenden Begriffe. (Eigene Kurznotizen)
+- Administrator: (leer)
+- Change Manager: (leer)
+- Projektleiter und Projektteam: Verantwortlich für die Projekte
+- IT-Management: (leer)
+- Vorstand: Verantwortlich für das Unternehmen
+- Helpdesk: (leer)
+- Anwender: Personen die software nutzen
+```
+
+### Seite 32
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP mitschickt.pdf Seite 32](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=32>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=32]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=32]]
+
+> [!ocr] Visuell transkribiert
+> Vollständige Musterlösungstabelle zu den Rollen im IT-Bereich – Begriffe und Definitionen zeilengetreu zugeordnet.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+BGWP LF 6 – 2.1 Servicearten und Serviceanforderungen im IT-Bereich (JIKU IT-Solutions – Musterlösung)
+
+Situation: Du machst dich mit den verschiedenen Rollen vertraut, die sich aufgrund der Aufgaben im Unternehmen ergeben.
+Aufgabe: Erkläre die untenstehenden Begriffe.
+
+- Administrator:
+  Verantwortlich für den laufenden Betrieb, die Einrichtung, Wartung und Sicherheit der IT-Infrastruktur (Server, Netzwerke, Clients, Datenbanken). Vergibt Zugriffsrechte, spielt Updates ein, überwacht Systeme und behebt technische Störungen (oft 2nd-/3rd-Level-Support).
+- Change Manager:
+  Steuert, prüft und koordiniert geplante Änderungen (Changes) an der IT-Infrastruktur und an IT-Services (z. B. Software-Rollouts, Hardware-Tausch). Bewertet Risiken, holt Genehmigungen ein und sorgt für eine dokumentierte Umsetzung mit minimalen Ausfallzeiten.
+- Projektleiter und Projektteam:
+  Planen, steuern und setzen zeitlich begrenzte, einmalige IT-Vorhaben (Projekte) um – z. B. Einführung neuer Software oder Migrationen. Der Projektleiter verantwortet Zeitplan, Budget und Zielerreichung; das Projektteam führt die fachlichen und technischen Aufgaben aus.
+- IT-Management:
+  Leitet und organisiert die gesamte IT-Abteilung. Plant die IT-Strategie, verwaltet das IT-Budget, steuert Personal sowie Dienstleister und stellt sicher, dass alle IT-Services den geschäftlichen Anforderungen (SLAs) und gesetzlichen Vorgaben (z. B. Datenschutz) entsprechen.
+- Vorstand:
+  Oberstes Leitungsorgan des Unternehmens (z. B. bei einer AG; vergleichbar mit der Geschäftsführung). Legt die übergeordnete Unternehmensstrategie fest, trifft Grundsatzentscheidungen, genehmigt große IT-Investitionen und trägt die Gesamtverantwortung.
+- Helpdesk:
+  Zentrale Anlaufstelle (Single Point of Contact / SPOC) für Anwender bei IT-Fragen, Störungen (Incidents) und Serviceanfragen. Nimmt Tickets entgegen, dokumentiert und kategorisiert diese, löst einfache Probleme direkt (1st-Level-Support) und leitet komplexere Fälle weiter.
+- Anwender:
+  Mitarbeiter oder Kunden, die die bereitgestellten IT-Systeme und -Services im Arbeitsalltag nutzen, um ihre Geschäftsaufgaben zu erledigen. Melden Störungen oder Änderungsbedarfe an den Helpdesk und halten sich an die IT-Nutzungs- und Sicherheitsrichtlinien.
+```
+
+### Seite 33
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP mitschickt.pdf Seite 33](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=33>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=33]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=33]]
+
+> [!ocr] Visuell transkribiert
+> Infotext sowie die im Wortgitter farbig markierten IT-Servicebegriffe aus der Sichtprüfung ergänzt.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
+
+```text
+BGWP LF 6 – 2.1 Servicearten und Serviceanforderungen im IT-Bereich
+Die Servicearten im IT-Bereich
+
+Wegen der Digitalisierung werden immer mehr Hardwaresysteme virtuell bzw. digital umgesetzt, sodass virtuelle Services, Cloud-Services und die Unterstützung dieser Services stark wachsende Servicesegmente sind. Immer mehr Unternehmen verlagern ihre Server und Rechenzentren in die Cloud oder zu Servicedienstleistern und nutzen extern angebotene Servicedienstleister. Diese haben mit den Unternehmen Service- und Wartungsverträge geschlossen und sorgen entsprechend den vereinbarten Serviceleistungen für die Funktionstüchtigkeit der IT-Arbeitsplatzressourcen und Unterstützung der Mitarbeiter.
+
+Im Leistungsportfolio des Systemhauses JIKU IT-Solutions haben Serviceleistungen eine große Bedeutung. Allein im Systemhaus in Ingolstadt werden ständig über 100 Unternehmen betreut, weitere nehmen die Dienste des Systemhauses je nach Bedarf in Anspruch.
+
+Aufgabe:
+Suche im Wortgitter die auf dem Arbeitsblatt beschriebenen Servicearten aus dem IT-Bereich und trage die Begriffe in die Tabelle ein.
+Tipp: es sind deutsche und englische Wörter – diagonal ist nicht möglich.
+
+Im Wortgitter grün markierte Begriffe:
+- Waagerecht: MANAGED, VORORTSERVICE, HANDEL, HELPDESK, ONSITE, TRAINING, SCHULUNG
+- Senkrecht: REPARATUR, EINWEISUNG (teilmarkiert), VERTRIEB, CHAT (teilmarkiert), GARANTIE, WARTUNG
+(Weitere im Gitter enthaltene Suchwörter passend zur Tabelle auf S. 34: SWAP, OUTSOURCING, KULANZ, YOURSELF)
+```
+
+### Seite 34
+
+> [!referenz] Exakte Referenz
+> - PDF-Seite: [BGWP mitschickt.pdf Seite 34](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=34>)
+> - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=34]]`
+
+> [!example]- Originalseite im PDF-Layout anzeigen
+> ![[99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=34]]
+
+#### Extrahierter Originaltext für Suche und KI
+
+```text
+BGWP LF 6 – 2.1 Servicearten und Serviceanforderungen im IT-Bereich (Lückentabelle der IT-Servicearten, unausgefüllt)
+
+1. IT-__________________ / IT-______________________:
+   Dienstleistung: die Beschaffung von IT-Systemen und Komponenten - und wenn gewünscht - inklusive funktionstüchtigem Aufbau und Anschluss an das vorhandene Netzwerk.
+2. Break/Fix-Support, Field Service, ____-______-____________:
+   Ausführung von IT-Dienstleistungen nach Bedarf und Anforderung des Auftraggebers von Technikern vor Ort; dem Kunden werden Arbeitszeit, eventuell Anfahrtskosten und eingesetzte Teile in Rechnung gestellt.
+3. _______-__________-Management:
+   Übernahme von Dienstleistungen in den Räumen des Kunden.
+4. ______________-Service:
+   Es wird ein identisch aufgesetztes Gerät dem Mitarbeitenden als Ersatz zur Verfügung gestellt.
+5. Do-It-______________________-Service:
+   mit Vereinbarung, wenn Kunden Servicearbeiten an Produkten selbst durchzuführen, ohne dass Gewährleistungsansprüche verloren gehen.
+6. Live-_________________:
+   Bei Aufruf einer Webseite wird schnell ein Chat-Kontakt live zu einem Mitarbeiter des Webangebots hergestellt.
+7. ______________________ Services:
+   Dauerhafte, wiederkehrende IT-Service-Leistungen eines Serviceanbieters an einen Kunden; Art, Umfang und Qualität werden vom Dienstleister (Managed Services Provider, MSP) vorab mit seinem Kunden in einem Service Level Agreement (SLA) festlegt.
+8. ________________-Service:
+   Unentgeltlicher Service aufgrund von Gewährleistungs- oder Garantieansprüchen des Kunden.
+9. ______________________:
+   Freiwilliger unentgeltlicher Service des Auftragnehmers.
+10. ________________-Service:
+    Services, die über einen Helpdesk online erfolgen.
+11. ________________-Service:
+    Service im Rahmen von Wartungsverträgen.
+12. ________________-Service:
+    Service von Reparaturleistungen.
+13. IT-______________________:
+    Beim Outsourcing geht es um die Auslagerung umfangreicher IT-Aufgaben oder -Abteilungen an ein externes Unternehmen.
+14. IT-______________________:
+    Service der Einweisung von Kunden und Mitarbeitern in die IT.
+15. IT-______________________ / IT-______________________:
+    Training und Schulung von Kunden gegen Entgelt.
+```
+
+### Seite 35
+
+> [!warning] Vom kanonischen KI-Quelltext ausgeschlossen
+> Grund: Leere Karoseite am Notizbuchende ohne Inhalt. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.
+

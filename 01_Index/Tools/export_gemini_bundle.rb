@@ -246,22 +246,27 @@ class GeminiBundleExporter
       lines << ""
       cat_topics.each do |topic_name, info|
         by_src = Hash.new { |h, k| h[k] = [] }
+        ex_by_src = Hash.new { |h, k| h[k] = [] }
         ocr_cnt = 0
         info.fetch("pages").each do |pid|
           meta = @pages_by_id[pid]
           next unless meta
           next if meta["status"] == "excluded"
           base, num_str = pid.split("#page=", 2)
-          by_src["#{base}.md"] << num_str.to_i
+          pnum = num_str.to_i
+          src_key = "#{base}.md"
+          by_src[src_key] << pnum
+          ex_by_src[src_key] << pnum if %w[aufgabe loesung beispiel].include?(meta["content_type"])
           ocr_cnt += 1 unless meta["quote_safe"]
         end
         refs = by_src.keys.sort.map do |src_rel|
           s_info = load_source(src_rel)
+          ex_note = ex_by_src[src_rel].empty? ? "" : " [Übungen/Beispiele: S. #{format_page_ranges(ex_by_src[src_rel])}]"
           if s_info
             pdf_bn = File.basename(s_info[:original_pdf])
-            "#{s_info[:fach_label]} · `#{pdf_bn}` S. #{format_page_ranges(by_src[src_rel])} (von #{s_info[:total_pages]} S.)"
+            "#{s_info[:fach_label]} · `#{pdf_bn}` S. #{format_page_ranges(by_src[src_rel])} (von #{s_info[:total_pages]} S.)#{ex_note}"
           else
-            "`#{File.basename(src_rel, '.md')}` S. #{format_page_ranges(by_src[src_rel])}"
+            "`#{File.basename(src_rel, '.md')}` S. #{format_page_ranges(by_src[src_rel])}#{ex_note}"
           end
         end.join("; ")
         ocr_note = ocr_cnt > 0 ? " *(OCR/Original prüfen: #{ocr_cnt} S.)*" : ""
@@ -294,12 +299,13 @@ class GeminiBundleExporter
       list.each do |e|
         m = e[:meta]
         text_flag = m["quote_safe"] ? "zitatfähig" : "OCR/Original prüfen (#{m['source_text_status']})"
+        type_flag = m["content_type"] ? " | Typ: #{m['content_type']}" : ""
         sup_flag = m["status"] == "support_only" ? " | NUR UNTERSTÜTZEND (support_only)" : ""
         topics_str = m.fetch("canonical_topics", []).join(", ")
 
         lines << ""
         lines << "### #{e[:source_name]} · Seite #{e[:page_num]} von #{e[:total_pages]}"
-        lines << "> Fach: #{e[:fach_label]} | PDF: `#{e[:pdf_name]}` (Seite #{e[:page_num]} von #{e[:total_pages]}, Pfad: `#{e[:original_pdf]}#page=#{e[:page_num]}`) | Text: #{text_flag}#{sup_flag} | Themen: #{topics_str}"
+        lines << "> Fach: #{e[:fach_label]} | PDF: `#{e[:pdf_name]}` (Seite #{e[:page_num]} von #{e[:total_pages]}, Pfad: `#{e[:original_pdf]}#page=#{e[:page_num]}`)#{type_flag} | Text: #{text_flag}#{sup_flag} | Themen: #{topics_str}"
         lines << ""
         if e[:text].empty?
           lines << "_(Kein extrahierter Text — Thema visuell bestätigt; Details auf der Original-PDF-Seite prüfen.)_"

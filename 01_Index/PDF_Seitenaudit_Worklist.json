@@ -3,7 +3,7 @@
   "scope": "Alle aktiven, nichtprivaten Quell-PDFs; private Inhalte werden nicht gelesen.",
   "totals": {
     "source_notes": 53,
-    "pages": 1389,
+    "pages": 1402,
     "pages_with_modules": 802,
     "pages_with_curated_topics": 310
   },
@@ -7321,10 +7321,43 @@
     },
     {
       "page": 19,
-      "source_section_chars": 1266,
+      "source_section_chars": 1267,
       "source_text": "↭\n↭\n↭\n↭\n↭\n↭\n↭\n↭\n↭\n↭\nNur 1 Startpunkt\ndas Ende einen ausgang hat\ngeht in Start\ndarf keine Bedingung haben auf Startzustand\nKein Ausgang\nlinks wird nie benutzt weil wen Falsch immer\nins Rechte\nAus dem gleichen Zustand dürfen keine gleichen Bedingungen\nraus\n\nUML: Übung (IT => 9_6_AE_UML__Zustands_D_UE_Fehler_sus=> Schueler, Seite 2)\n\nHandschriftliche Lösungen zur Fehleranalyse im Zustandsdiagramm „sm Geldautomat“ (A–I):\n- A: Nur 1 Startpunkt\n- B: das Ende einen ausgang hat\n- C: geht in Start\n- D: darf keine Bedingung haben auf Startzustand\n- E: Kein Ausgang\n- F: links wird nie benutzt weil wen Falsch immer ins Rechte\n- G: Aus dem gleichen Zustand dürfen keine gleichen Bedingungen raus\n- H: (nicht ausgefüllt)\n- I: (nicht ausgefüllt)",
       "source_text_status": "text",
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=19",
+      "subject": "AE_Anwendungsentwicklung",
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 20,
+      "source_section_chars": 2717,
+      "source_text": "UML: Uebung (ET => 9_6_AE_UML__Zustands_D_UE_Immobilie, Seite 1)\n\nAusgangssituation:\nDie H & D GmbH verkauft Immobilien.\nSie sind Mitarbeiter/-in der aCo GmbH die Softwarelösungen zur Verfügung stellt.\nSie sollen als Mitarbeiter/-in der aCo GmbH eine Software entwickeln, die folgendes leistet:\n\nBeschreibung:\nEine Verkaufsimmobilie kann folgende Zustände haben:\n- Wenn sie zum Verkauf freigegeben wurde, steht sie zur Verfügung.\n- Für zur Verfügung stehende Immobilien können Anfragen entgegengenommen werden. Die Immobilie ist damit angefragt.\n- Für angefragte Immobilien können weitere Anfragen erfolgen.\n- Zur Verfügung stehende oder angefragte Immobilien können reserviert werden (nur eine Reservierung ist möglich). Die Immobilie ist dann reserviert.\n- Reservierte Immobilien können verkauft werden.\n- Mit dem Unterschreiben des Verkaufsvertrages wird der Endzustand erreicht.\n\nHinweis:\n- Auf jede Anfrage wird Informationsmaterial verschickt.\n- Anfragen bleiben bei einer Reservierung bestehen.\n- Bei einer Reservierung wird eine Reservierungsbestätigung verschickt.\n- Reservierungen können zurückgenommen werden.\n\nAufgabe:\nErstellen Sie zum beschriebenen Sachverhalt ein entsprechendes UML-Zustandsdiagramm.\n\nHandschriftliche Lösung – UML-Zustandsdiagramm (Rahmen: „Verkaufsimmobilie“):\n- Äußerer Startzustand (Start) -> Transition auf den Rand des zusammengesetzten Zustands „Reservierbar“\n- Zusammengesetzter Zustand „Reservierbar“:\n  - Interner Startzustand -> Zustand „steht zur Verfügung“\n  - Transition von „steht zur Verfügung“ mit Ereignis „anfrage“ -> Zustand „Angefragt“\n  - Flache Historie (Symbol H im Kreis) innerhalb von „Reservierbar“\n- Vom äußeren Rand von „Reservierbar“ Transition „reservierung“ -> Zustand „Reserviert“ (interne Aktion: entry / reservierungsbestätigung versenden)\n- Von „Reserviert“ Transition „Rücknahme auf (H)“ -> direkt zurück zum Historien-Pseudozustand (H) in „Reservierbar“ (stellt letzten Unterzustand wieder her, da Anfragen bestehen bleiben)\n- Von „Reserviert“ Transition „Unterschrift“ -> Endzustand „Ende“",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift#page=20",
       "subject": "AE_Anwendungsentwicklung",
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
@@ -30297,8 +30330,8 @@
     },
     {
       "page": 28,
-      "source_section_chars": 2286,
-      "source_text": "BGWP LF 6 – 1.6 Business Process Model and Notation (BPMN)\nBPMN – Übungsaufgaben\n\nAufgabe 1: Lies Seite 1 im Infotext und notiere einige Vorteile der BPMN.\nHandschriftliche Antworten:\n• Einheitliche Sprache\n• Standardisierte Verwendung\n• Ausbildung und Ressourcen\n\nAufgabe 2: Sieh dir Seite 2 – 5 des Infotextes an und erstelle ein BPMN-Diagramm zu folgendem Onboarding-Prozess.\nProzessbeschreibung:\n- Die Personalabteilung sendet dem neuen Mitarbeiter eine Begrüßungsmail mit Informationen zum ersten Arbeitstag.\n- Anschließend werden folgende Schritte parallel durchlaufen:\n  o Die IT-Abteilung erstellt ein IT-Ticket, richtet Laptop und Zugänge ein.\n  o Am ersten Arbeitstag wird der neue Mitarbeiter durch die Teamleitung begrüßt.\n- Danach führt die Personalabteilung eine kurze Einführungsveranstaltung durch.\n- Sobald der Mitarbeiter alle Stationen durchlaufen hat, ist der Onboarding-Prozess abgeschlossen.\n\nHinweise zur Modellierung:\n- Verwenden Sie mindestens drei Lanes: Personalabteilung, IT-Abteilung, Teamleitung.\n- Modellieren Sie den Ablauf logisch mit Start- und Endereignis, Aufgaben und Gateways (wenn sinnvoll).\n- Verwenden Sie Nachrichtenflüsse zwischen Lanes, wenn Informationen oder Aufgaben übergeben werden.\n\nHandschriftlicher Lösungsansatz (unvollständig begonnener Pool mit 3 Lanes: IT, Teamleitung, Personalabteilung):\n- Lane Personalabteilung: Startereignis „Mail gesendet“ -> Pfeile nach oben zu Lane Teamleitung und Lane IT\n- Lane Teamleitung: Aktivität „Begrüßung“\n- Lane IT: Aktivität „Erstellt Ticket“ -> Ereignis „Ticket erstellt“ -> Aktivität „richtet Laptop ein“\n(Paralleles Gateway, Einführungsveranstaltung und Endereignis noch nicht ergänzt.)",
+      "source_section_chars": 2748,
+      "source_text": "BGWP LF 6 – 1.6 Business Process Model and Notation (BPMN)\nBPMN – Übungsaufgaben\n\nAufgabe 1: Lies Seite 1 im Infotext und notiere einige Vorteile der BPMN.\nHandschriftliche Lösung:\n- Einheitliche Sprache für Geschäftsprozesse\n- Förderung eines gemeinsamen Prozessverständnisses\n- Brücke zwischen Fachbereich und IT\n- große Auswahl an Modellierungstools\n- viele Ausbildungsmöglichkeiten und Ressourcen\n\nAufgabe 2: Sieh dir Seite 2 – 5 des Infotextes an und erstelle ein BPMN-Diagramm zu folgendem Onboarding-Prozess.\nProzessbeschreibung:\n- Die Personalabteilung sendet dem neuen Mitarbeiter eine Begrüßungsmail mit Informationen zum ersten Arbeitstag.\n- Anschließend werden folgende Schritte parallel durchlaufen:\n  - Die IT-Abteilung erstellt ein IT-Ticket, richtet Laptop und Zugänge ein.\n  - Am ersten Arbeitstag wird der neue Mitarbeiter durch die Teamleitung begrüßt.\n- Danach führt die Personalabteilung eine kurze Einführungsveranstaltung durch.\n- Sobald der Mitarbeiter alle Stationen durchlaufen hat, ist der Onboarding-Prozess abgeschlossen.\n\nHinweise zur Modellierung:\n- Verwenden Sie mindestens drei Lanes: Personalabteilung, IT-Abteilung, Teamleitung.\n- Modellieren Sie den Ablauf logisch mit Start- und Endereignis, Aufgaben und Gateways (wenn sinnvoll).\n- Verwenden Sie Nachrichtenflüsse zwischen Lanes, wenn Informationen oder Aufgaben übergeben werden.\n\nLösung (eingefügtes BPMN-Diagramm, Pool „Onboarding“ mit 3 Lanes):\n- Lane „Personalabteilung“:\n  Startereignis „Start“ -> Task „Neuen Mitarbeiter einstellen“ -> Sende-Task (Briefsymbol) „Begrüßungsmail senden“ -> Übergang zum parallelen Gateway (+) in Lane „IT-Abteilung“\n- Parallele Ausführung ab UND-Gateway (+, Aufspaltung):\n  - Zweig 1 in Lane „IT-Abteilung“: Task „IT-Ticket erstellen“ -> Task „Laptop vorbereiten“ -> Task „Zugänge einrichten“ -> Zusammenführung am zweiten UND-Gateway (+)\n  - Zweig 2 in Lane „Teamleitung“: Task „Mitarbeiter begrüßen“ -> Zusammenführung am zweiten UND-Gateway (+)\n- Nach dem zusammenführenden UND-Gateway (+) zurück in Lane „Personalabteilung“:\n  Task „Einführung durchführen“ -> Endereignis „Ende“",
       "source_text_status": "ocr",
       "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=28",
       "subject": "BGWP_Betriebswirtschaft",
@@ -30330,8 +30363,8 @@
     },
     {
       "page": 29,
-      "source_section_chars": 2328,
-      "source_text": "BGWP\nLF 6\n1.6 Business Process Model and Notation\n(BPMN)\nKlasse:\nDatum:\nAufgabe 3:\nDie Sensofood-Logistik GmbH arbeitet bislang weitgehend analog. Relevantes Wissen ist vor\nallem in den Köpfen der erfahrenen Mitarbeiter vorhanden. Es ist nicht greifbar. Ein Beispiel\naus dem Logistikprozess soll dies verdeutlichen:\nWenn LKW-Fahrer auf Fahrten Probleme bekommen, sind sie weitgehend auf sich selbst ge-\nstellt. Sie müssen eigenständig eine -Lösung finden. Es kommt vor, dass LKWs liegenbleiben\noder gar Ware auf dem Transport zum Kunden verdirbt. Im Nachhinein stellt sich oft heraus,\ndass die Probleme vermeidbar gewesen wären.\nZukünftig soll ein Monitoring und Control System zum Einsatz kommen.\nEs wurde bereits ein BPMN 2.0 Diagramm begonnen, um die Funktionsweise des Monitoring\nund Control Systems zu visualisieren. Es basiert auf folgender Prozessbeschreibung:\n• Tritt eine Störung auf, versucht das Monitoring und Control System zunächst eine\nSelbstentstörung durchzuführen.\n• Ist diese erfolgreich, wird der Vorfallszähler für den ursächlichen Fehler um 1 erhöht.\nDie Störung ist behoben und der Prozess endet.\n• Ist die Selbstentstörung nicht erfolgreich, wird der Fahrer über die Störung informiert.\n• Dieser versucht daraufhin, den Fehler zu identifizieren.\n• Ist der Fehler bekannt (known error), wird vom System der Vorfallszähler um 1 erhöht.\nDas System schlägt einen Workaround vor (vorläufige Problemlösung). Der Fahrer setzt\nden Workaround um und behebt so die Störung.\n• Ist der Fehler unbekannt (unkown error), muss der Fahrer für den Fehler einen Work-\naround suchen. Danach muss er Fehler/ Workaround in der Known-Error-Datenbank\ndokumentieren und den Workaround umsetzen. Das System speichert die Dokumen-\ntation in der Known-Error-Datenbank. Ist beides erledigt, endet der Prozess.\nVervollständigen Sie folgendes Diagramm, indem Sie die fehlenden Aktivitäten eintragen.\n￼\n￼\n￼\n￼",
+      "source_section_chars": 2320,
+      "source_text": "BGWP\nLF 6\n1.6 Business Process Model and Notation\n(BPMN)\nKlasse:\nDatum:\nAufgabe 3:\nDie Sensofood-Logistik GmbH arbeitet bislang weitgehend analog. Relevantes Wissen ist vor\nallem in den Köpfen der erfahrenen Mitarbeiter vorhanden. Es ist nicht greifbar. Ein Beispiel\naus dem Logistikprozess soll dies verdeutlichen:\nWenn LKW-Fahrer auf Fahrten Probleme bekommen, sind sie weitgehend auf sich selbst ge-\nstellt. Sie müssen eigenständig eine -Lösung finden. Es kommt vor, dass LKWs liegenbleiben\noder gar Ware auf dem Transport zum Kunden verdirbt. Im Nachhinein stellt sich oft heraus,\ndass die Probleme vermeidbar gewesen wären.\nZukünftig soll ein Monitoring und Control System zum Einsatz kommen.\nEs wurde bereits ein BPMN 2.0 Diagramm begonnen, um die Funktionsweise des Monitoring\nund Control Systems zu visualisieren. Es basiert auf folgender Prozessbeschreibung:\n• Tritt eine Störung auf, versucht das Monitoring und Control System zunächst eine\nSelbstentstörung durchzuführen.\n• Ist diese erfolgreich, wird der Vorfallszähler für den ursächlichen Fehler um 1 erhöht.\nDie Störung ist behoben und der Prozess endet.\n• Ist die Selbstentstörung nicht erfolgreich, wird der Fahrer über die Störung informiert.\n• Dieser versucht daraufhin, den Fehler zu identifizieren.\n• Ist der Fehler bekannt (known error), wird vom System der Vorfallszähler um 1 erhöht.\nDas System schlägt einen Workaround vor (vorläufige Problemlösung). Der Fahrer setzt\nden Workaround um und behebt so die Störung.\n• Ist der Fehler unbekannt (unkown error), muss der Fahrer für den Fehler einen Work-\naround suchen. Danach muss er Fehler/ Workaround in der Known-Error-Datenbank\ndokumentieren und den Workaround umsetzen. Das System speichert die Dokumen-\ntation in der Known-Error-Datenbank. Ist beides erledigt, endet der Prozess.\nVervollständigen Sie folgendes Diagramm, indem Sie die fehlenden Aktivitäten eintragen.",
       "source_text_status": "text",
       "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=29",
       "subject": "BGWP_Betriebswirtschaft",
@@ -30363,8 +30396,8 @@
     },
     {
       "page": 30,
-      "source_section_chars": 2042,
-      "source_text": "BGWP LF 6 – 1.6 Business Process Model and Notation (BPMN)\nDiagrammvorlage zu Aufgabe 3 (Sensofood-Logistik GmbH – Monitoring und Control System, vgl. Seite 29; unausgefüllte Lücken):\n\nPool 1: Monitoring und Control System\n- Startereignis: „Störung aufgetreten“\n- -> Service-Task (Zahnräder): „Selbstentstörung durchführen“\n- -> XOR-Gateway (X):\n  - Zweig „Entstörung erfolgreich“:\n    -> Script-Task (Skript): „Vorfallszähler um 1 erhöhen“\n    -> Endereignis: „Störung behoben“\n  - Zweig „Entstörung nicht erfolgreich“:\n    -> [Lücke: Service-Task] -> Übergang zu Pool 2 (Zwischenereignis „Fahrer informiert“)\n- Fortsetzung aus Pool 2 („known error“):\n  -> [Lücke: Script-Task] -> [Lücke: Service-Task] -> Übergang zurück zu Pool 2 (XOR-Zusammenführung vor Manual-Task)\n- Fortsetzung aus Pool 2 („unknown error“, paralleler Dokumentationszweig):\n  -> [Lücke: Script-Task] -> Endereignis: „Störung behoben“\n\nPool 2: Lkw-Fahrer\n- Zwischenereignis: „Fahrer informiert“\n- -> [Lücke: User-Task]\n- -> XOR-Gateway (X):\n  - Zweig „known error“ -> Übergang zu Pool 1 ([Lücke: Script-Task])\n  - Zweig „unknown error“:\n    -> [Lücke: User-Task]\n    -> Parallel-Gateway (+):\n       - Zweig 1 -> XOR-Zusammenführung (mit Rückfluss aus Pool 1 „known error“) -> [Lücke: Manual-Task] -> Endereignis: „Störung behoben“\n       - Zweig 2 -> [Lücke: Service-Task] -> Übergang zu Pool 1 ([Lücke: Script-Task] -> Endereignis „Störung behoben“)",
+      "source_section_chars": 2559,
+      "source_text": "BGWP LF 6 – 1.6 Business Process Model and Notation (BPMN)\nLösung zu Aufgabe 3: BPMN-2.0-Kollaborationsdiagramm (2 Pools: „Monitoring und Control System“ und „Lkw-Fahrer“)\n\n1. Pool „Monitoring und Control System“:\n- Startereignis „Störung aufgetreten“ -> Aktivität „Selbstentstörung durchführen“ -> XOR-Gateway (X):\n  - Zweig „Entstörung erfolgreich“ -> Skript-Task „Vorfallszähler um 1 erhöhen“ -> Endereignis „Störung behoben“\n  - Zweig „Entstörung nicht erfolgreich“ -> Benutzer-Task [handschriftlich: „Fahrer über Störung informieren“] -> Nachrichtenfluss an Pool „Lkw-Fahrer“ (Startereignis „Fahrer informiert“)\n- Reaktion auf „known error“ aus Pool „Lkw-Fahrer“:\n  - Skript-Task [handschriftlich: „Vorfallszähler um 1 erhöhen“] -> Benutzer-Task [handschriftlich: „Workaround vorschlagen“] -> Fluss zurück an Pool „Lkw-Fahrer“ (vor zusammenführendes XOR-Gateway)\n- Reaktion auf Dokumentation aus Pool „Lkw-Fahrer“:\n  - Skript-Task [im Blatt noch unausgefüllt; laut Prozessbeschreibung S. 29: „Dokumentation in Known-Error-Datenbank speichern“] -> Endereignis „Störung behoben“\n\n2. Pool „Lkw-Fahrer“:\n- Nachrichten-Startereignis „Fahrer informiert“ -> Benutzer-Task [handschriftlich: „Fehler identifizieren“] -> XOR-Gateway (X):\n  - Zweig „known error“ -> Übergabe an „Monitoring und Control System“ („Vorfallszähler um 1 erhöhen“ -> „Workaround vorschlagen“) -> mündet in zusammenführendes XOR-Gateway (X)\n  - Zweig „unknown error“ -> Benutzer-Task [im Blatt noch unausgefüllt; laut Prozessbeschreibung S. 29: „Workaround suchen“] -> Paralleles UND-Gateway (+):\n    - Linker Zweig -> mündet in das zusammenführende XOR-Gateway (X)\n    - Rechter Zweig -> Benutzer-Task [handschriftlich: „Fehler und Workaround dokumentieren“] -> Übergabe an „Monitoring und Control System“\n- Nach zusammenführendem XOR-Gateway (X):\n  - Manuelle Aufgabe [handschriftlich: „Workaround umsetzen“] -> Endereignis „Störung behoben“",
       "source_text_status": "ocr",
       "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=30",
       "subject": "BGWP_Betriebswirtschaft",
@@ -30395,10 +30428,175 @@
       }
     },
     {
-      "page": 1,
-      "source_section_chars": 626,
-      "source_text": "> - PDF-Seite: [Unbenannt.pdf Seite 1](<99_Originale/Berufsschule/BGWP/2_LJ/Unbenannt.pdf#page=1>) > - Obsidian-Einbettung: `![[99_Originale/Berufsschule/BGWP/2_LJ/Unbenannt.pdf#page=1]]` > Vermutlich Handschrift, Scan oder leere Seite. Bei der visuellen Prüfung entweder verifizierte Transkription ergänzen oder die Seite als leer/ausgeschlossen markieren. #### Extrahierter Originaltext für Suche und KI ```text ```",
+      "page": 31,
+      "source_section_chars": 947,
+      "source_text": "BGWP LF 6 – 2.1 Servicearten und Serviceanforderungen im IT-Bereich (JIKU IT-Solutions)\n\nSituation: Du machst dich mit den verschiedenen Rollen vertraut, die sich aufgrund der Aufgaben im Unternehmen ergeben.\nAufgabe: Erkläre die untenstehenden Begriffe. (Eigene Kurznotizen)\n- Administrator: (leer)\n- Change Manager: (leer)\n- Projektleiter und Projektteam: Verantwortlich für die Projekte\n- IT-Management: (leer)\n- Vorstand: Verantwortlich für das Unternehmen\n- Helpdesk: (leer)\n- Anwender: Personen die software nutzen",
+      "source_text_status": "text",
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=31",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 32,
+      "source_section_chars": 2860,
+      "source_text": "BGWP LF 6 – 2.1 Servicearten und Serviceanforderungen im IT-Bereich (JIKU IT-Solutions – Musterlösung)\n\nSituation: Du machst dich mit den verschiedenen Rollen vertraut, die sich aufgrund der Aufgaben im Unternehmen ergeben.\nAufgabe: Erkläre die untenstehenden Begriffe.\n\n- Administrator:\n  Verantwortlich für den laufenden Betrieb, die Einrichtung, Wartung und Sicherheit der IT-Infrastruktur (Server, Netzwerke, Clients, Datenbanken). Vergibt Zugriffsrechte, spielt Updates ein, überwacht Systeme und behebt technische Störungen (oft 2nd-/3rd-Level-Support).\n- Change Manager:\n  Steuert, prüft und koordiniert geplante Änderungen (Changes) an der IT-Infrastruktur und an IT-Services (z. B. Software-Rollouts, Hardware-Tausch). Bewertet Risiken, holt Genehmigungen ein und sorgt für eine dokumentierte Umsetzung mit minimalen Ausfallzeiten.\n- Projektleiter und Projektteam:\n  Planen, steuern und setzen zeitlich begrenzte, einmalige IT-Vorhaben (Projekte) um – z. B. Einführung neuer Software oder Migrationen. Der Projektleiter verantwortet Zeitplan, Budget und Zielerreichung; das Projektteam führt die fachlichen und technischen Aufgaben aus.\n- IT-Management:\n  Leitet und organisiert die gesamte IT-Abteilung. Plant die IT-Strategie, verwaltet das IT-Budget, steuert Personal sowie Dienstleister und stellt sicher, dass alle IT-Services den geschäftlichen Anforderungen (SLAs) und gesetzlichen Vorgaben (z. B. Datenschutz) entsprechen.\n- Vorstand:\n  Oberstes Leitungsorgan des Unternehmens (z. B. bei einer AG; vergleichbar mit der Geschäftsführung). Legt die übergeordnete Unternehmensstrategie fest, trifft Grundsatzentscheidungen, genehmigt große IT-Investitionen und trägt die Gesamtverantwortung.\n- Helpdesk:\n  Zentrale Anlaufstelle (Single Point of Contact / SPOC) für Anwender bei IT-Fragen, Störungen (Incidents) und Serviceanfragen. Nimmt Tickets entgegen, dokumentiert und kategorisiert diese, löst einfache Probleme direkt (1st-Level-Support) und leitet komplexere Fälle weiter.\n- Anwender:\n  Mitarbeiter oder Kunden, die die bereitgestellten IT-Systeme und -Services im Arbeitsalltag nutzen, um ihre Geschäftsaufgaben zu erledigen. Melden Störungen oder Änderungsbedarfe an den Helpdesk und halten sich an die IT-Nutzungs- und Sicherheitsrichtlinien.",
       "source_text_status": "ocr",
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=32",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 33,
+      "source_section_chars": 2079,
+      "source_text": "BGWP LF 6 – 2.1 Servicearten und Serviceanforderungen im IT-Bereich\nDie Servicearten im IT-Bereich\n\nWegen der Digitalisierung werden immer mehr Hardwaresysteme virtuell bzw. digital umgesetzt, sodass virtuelle Services, Cloud-Services und die Unterstützung dieser Services stark wachsende Servicesegmente sind. Immer mehr Unternehmen verlagern ihre Server und Rechenzentren in die Cloud oder zu Servicedienstleistern und nutzen extern angebotene Servicedienstleister. Diese haben mit den Unternehmen Service- und Wartungsverträge geschlossen und sorgen entsprechend den vereinbarten Serviceleistungen für die Funktionstüchtigkeit der IT-Arbeitsplatzressourcen und Unterstützung der Mitarbeiter.\n\nIm Leistungsportfolio des Systemhauses JIKU IT-Solutions haben Serviceleistungen eine große Bedeutung. Allein im Systemhaus in Ingolstadt werden ständig über 100 Unternehmen betreut, weitere nehmen die Dienste des Systemhauses je nach Bedarf in Anspruch.\n\nAufgabe:\nSuche im Wortgitter die auf dem Arbeitsblatt beschriebenen Servicearten aus dem IT-Bereich und trage die Begriffe in die Tabelle ein.\nTipp: es sind deutsche und englische Wörter – diagonal ist nicht möglich.\n\nIm Wortgitter grün markierte Begriffe:\n- Waagerecht: MANAGED, VORORTSERVICE, HANDEL, HELPDESK, ONSITE, TRAINING, SCHULUNG\n- Senkrecht: REPARATUR, EINWEISUNG (teilmarkiert), VERTRIEB, CHAT (teilmarkiert), GARANTIE, WARTUNG\n(Weitere im Gitter enthaltene Suchwörter passend zur Tabelle auf S. 34: SWAP, OUTSOURCING, KULANZ, YOURSELF)",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=33",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 34,
+      "source_section_chars": 2654,
+      "source_text": "BGWP LF 6 – 2.1 Servicearten und Serviceanforderungen im IT-Bereich (Lückentabelle der IT-Servicearten, unausgefüllt)\n\n1. IT-__________________ / IT-______________________:\n   Dienstleistung: die Beschaffung von IT-Systemen und Komponenten - und wenn gewünscht - inklusive funktionstüchtigem Aufbau und Anschluss an das vorhandene Netzwerk.\n2. Break/Fix-Support, Field Service, ____-______-____________:\n   Ausführung von IT-Dienstleistungen nach Bedarf und Anforderung des Auftraggebers von Technikern vor Ort; dem Kunden werden Arbeitszeit, eventuell Anfahrtskosten und eingesetzte Teile in Rechnung gestellt.\n3. _______-__________-Management:\n   Übernahme von Dienstleistungen in den Räumen des Kunden.\n4. ______________-Service:\n   Es wird ein identisch aufgesetztes Gerät dem Mitarbeitenden als Ersatz zur Verfügung gestellt.\n5. Do-It-______________________-Service:\n   mit Vereinbarung, wenn Kunden Servicearbeiten an Produkten selbst durchzuführen, ohne dass Gewährleistungsansprüche verloren gehen.\n6. Live-_________________:\n   Bei Aufruf einer Webseite wird schnell ein Chat-Kontakt live zu einem Mitarbeiter des Webangebots hergestellt.\n7. ______________________ Services:\n   Dauerhafte, wiederkehrende IT-Service-Leistungen eines Serviceanbieters an einen Kunden; Art, Umfang und Qualität werden vom Dienstleister (Managed Services Provider, MSP) vorab mit seinem Kunden in einem Service Level Agreement (SLA) festlegt.\n8. ________________-Service:\n   Unentgeltlicher Service aufgrund von Gewährleistungs- oder Garantieansprüchen des Kunden.\n9. ______________________:\n   Freiwilliger unentgeltlicher Service des Auftragnehmers.\n10. ________________-Service:\n    Services, die über einen Helpdesk online erfolgen.\n11. ________________-Service:\n    Service im Rahmen von Wartungsverträgen.\n12. ________________-Service:\n    Service von Reparaturleistungen.\n13. IT-______________________:\n    Beim Outsourcing geht es um die Auslagerung umfangreicher IT-Aufgaben oder -Abteilungen an ein externes Unternehmen.\n14. IT-______________________:\n    Service der Einweisung von Kunden und Mitarbeitern in die IT.\n15. IT-______________________ / IT-______________________:\n    Training und Schulung von Kunden gegen Entgelt.",
+      "source_text_status": "text",
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=34",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 35,
+      "source_section_chars": 218,
+      "source_text": "> Grund: Leere Karoseite am Notizbuchende ohne Inhalt. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.",
+      "source_text_status": "text",
+      "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift#page=35",
+      "subject": "BGWP_Betriebswirtschaft",
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 1,
+      "source_section_chars": 229,
+      "source_text": "> Grund: Leere GoodNotes-Karopapierseite ohne fachlichen Inhalt. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.",
+      "source_text_status": "text",
       "id": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Unbenannt_Einzelseite#page=1",
       "subject": "BGWP_Betriebswirtschaft",
       "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Unbenannt_Einzelseite.md",
@@ -36930,8 +37128,8 @@
     },
     {
       "page": 38,
-      "source_section_chars": 2140,
-      "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\n10\nVermeide Umgangssprache und versuche dich gewählt auszudrücken!\nDeine Formatierung wird auch an den Empfänger übertragen. Achte also auf die\nVerwendung einer schlichten serifenlosen Schriftart (z.B. Aptos, Arial, Verdana,\nTahoma), schwarzer Schriftfarbe, einer einheitlichen Schriftgröße und einen\nangemessenen Zeilenabstand (1,15 oder 1,33)!\nPrüfe deine E-Mail stets gründlich, bevor du sie abschickst!\nAchte darauf, dass dein Email nicht offensichtlich mit KI erstellt wurde (siehe\nIndizien für KI-basierte Texterstellung)\nÜbung 1:\nAuf der Folgeseite findest du eine E-Mail an deinen Chef.\na) Die Nachricht soll an die Mailadresse deines Chefs chef@bestefirma.de gesendet\nwerden. Herrn Wild michael.wild@bs1in.de möchtest du auch informieren. Das soll\njedoch niemand wissen. Außerdem möchtest du deinen Ausbilder\nausbilder@bestefirma.de von der Kontaktaufnahme mit dem Chef in Kenntnis setzen.\nTrage die E-Mailadressen in die betreffenden Adresszeilen ein.\nb) Formuliere einen geeigneten Betreff für die Nachricht und trage diesen in die\nBetreffzeile ein.\nc) Wähle eine geeignete Anrede für deine Nachricht und füge diese in die entsprechende\nZeile ein.\nd) Wähle eine geeignete Grußformel für deine Nachricht und füge diese in die\nentsprechende Zeile ein.\ne) Markiere alle Zeilennummern, für die Zeilen, an denen du Leerzeilen einfügen\nwürdest. Füge mit einem senkrechten Strich „|“ ggf. auch passende Zeilenumbrüche\nein.\nf) Markiere und verbessere Textstellen, an denen Umgangssprache verwendet wurde.\ng) Prüfe die Mail abschließend auf Grammatik, Rechtschreibung sowie Kommasetzung\nund markiere die entsprechenden Stellen bzw. verbessere diese.",
+      "source_section_chars": 867,
+      "source_text": "> - PDF-Seite: [Skript_Deutsch.pdf Seite 38](<99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=38>) > - Obsidian-Einbettung: `![[99_Originale/Berufsschule/Deutsch/2_LJ/Skript_Deutsch.pdf#page=38]]` #### Datenschutzsichere Inhaltszusammenfassung > Personen-, Firmen-, Kontakt-, Bank-, Register- und vergleichbare Identifikationsdaten sowie problematische unkontextualisierte Formulierungen werden nicht an KI-Systeme weitergegeben. Für Zahlen oder Layout ist die lokale Originalseite maßgeblich. - Visuell bestätigtes Hauptthema: **Geschäftsmail** - Kanonische Themen: **Geschäftsmail** - Ergänzende Einordnung: keine - Inhaltstyp: aufgabe",
       "source_text_status": "text",
       "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=38",
       "subject": "Deutsch",
@@ -37062,8 +37260,8 @@
     },
     {
       "page": 42,
-      "source_section_chars": 534,
-      "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\n2\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n￼",
+      "source_section_chars": 267,
+      "source_text": "> Grund: Unausgefüllte Schreibvorlage (leere E-Mail-Maske und Zeilen 1–17 zu Übung 2 ohne Lerninhalt). Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.",
       "source_text_status": "text",
       "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=42",
       "subject": "Deutsch",
@@ -37095,8 +37293,8 @@
     },
     {
       "page": 43,
-      "source_section_chars": 556,
-      "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\n3\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39",
+      "source_section_chars": 261,
+      "source_text": "> Grund: Unausgefüllte Schreibvorlage (leere liniierte Zeilen 18–39 zu Übung 2 ohne Lerninhalt). Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.",
       "source_text_status": "text",
       "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=43",
       "subject": "Deutsch",
@@ -37128,8 +37326,8 @@
     },
     {
       "page": 44,
-      "source_section_chars": 546,
-      "source_text": "Verfassen einer Geschäftsmail\nName: Fach: Deutsch\nDatum:\n4\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58",
+      "source_section_chars": 261,
+      "source_text": "> Grund: Unausgefüllte Schreibvorlage (leere liniierte Zeilen 40–58 zu Übung 2 ohne Lerninhalt). Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.",
       "source_text_status": "text",
       "id": "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=44",
       "subject": "Deutsch",
@@ -40751,6 +40949,204 @@
       }
     },
     {
+      "page": 15,
+      "source_section_chars": 2957,
+      "source_text": "English Malware Date:\nMalware\nMany PC users consider malware, viruses, spyware, adware, worms, Trojans, etc. as the same\nthing. While all these infections harm our computers, they are not the same. They are all types\nof malicious software that each behave differently.\nThe word malware is a combination of two words “malicious” and “software”. It is a generic term\nused to describe all of the hostile1 and intrusive2 program codes including viruses, spyware,\nworms, Trojans, or anything that is designed to perform malicious operations on a computer.\nThe meanings of many of these words have changed over time. Some refer to how malware\ninfects your system while other words are used to describe what the malware does once it’s\nactive in your machine.\nDelivery3/Infection Methods\nWhen we’re trying to build better software to remove malware from your machine, the main things that\nwe are interested in is how it got into your computer and how it is continuing to work.\nProbably the most popular way to get something nasty into your computer is a\n_____________________________. Most of the time, it comes from visiting a bad web page.\nThat web page exploits4 a weakness in your browser and causes your system to become infected.\nBut infection ways are diverse and include also forms of phishing, social engineering and others.\nThe downloaded malware will generally fit into one of the following categories.\n1.\n______________\n– this is a term that used to be generic5. Any bad software used to be a\nvirus. However, we use the term “malware” now. We use the word to describe a program\nthat self-replicates6 after hooking7 itself onto something running in your OS.\n2.\n______________\n– is another kind of self-replicating program but generally doesn’t hook\nitself onto a Windows process. They generally are little programs that run in the background\nof your system.\n3.\n______________\n– software that you thought was going to be one thing but turns out to be\nsomething bad. Named for the fabled “_____________\nHorse” that appeared to be a gift\nbut in fact carried a dangerous payload.\nMalware Actions\nOnce malware is in your computer, it can do many things. Sometimes it’s only trying to replicate\nitself with no harm to anyone, other times it’s capable of doing very nasty things.\n1 hostile = feindlich\n2 intrusive = aufdringlich, aggressiv\n3 delivery = Lieferung\n4 to exploit = ausnutzen\n5 generic = allgemein, typisch\n6 to replicate = nachbilden, kopieren\n7 to hook = festhaken\nDrive-by download – Worm – Virus – Trojan\n￼",
+      "source_text_status": "text",
+      "id": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=15",
+      "subject": "Englisch",
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 16,
+      "source_section_chars": 3227,
+      "source_text": "English Malware Date:\n1.\n_____________\n– not truly malware and almost never delivered\nusing one of the methods above. It is software that uses some\nform of advertising delivery system. Sometimes the way that\nadvertisements are delivered can be deceptive8 in that they\ntrack or reveal9 more information about you than you would like.\nMost of the time, you agree to the adware tracking you when you install the software that\nit comes with. Generally, it can be removed by uninstalling the software it was attached to.\n2.\n______________\n– software that monitors10 your computer and reveals collected\ninformation to an interested party. This can be more benign11 when it tracks what webpages\nyou visit; or it can be incredibly invasive when it monitors everything you do with your\nmouse and keyboard.\n3.\n_________________\n– lately a very popular way for Internet criminals to make money. This\nmalware alters your system in such a way that you’re unable to get into it normally. It will\nthen display some kind of screen that demands some form of payment to have the computer\nunlocked.\nAccess to your computer has literally to be ransomed12 from the cyber-criminal.\n4.\n_______________\n– software that appears to be something legit13 (usually masquerading14\nas some tool to help fix your computer) but when it runs, it tells you that your system is\neither infected or broken in some way. This message is generally delivered in a manner that\nis meant to frighten you into doing something. The software claims to be able to fix your\nproblems if you pay them. Scareware is also referred to as “rogue” software – like rogue\nantivirus.\nSome malware gets onto your computer and appears to do nothing at all. Such malware may\nhave no obvious symptoms, but it has infected your computer along with a group of other\ncomputers, forming what is called a “botnet”. This botnet can be directed by an internet criminal\nto do any number of things including spam delivery and launching DDos-attacks on internet sites.\nInternet criminals don’t want to do anything direct that may be tracked back to them, so they\nemploy botnets to do their dirty work for them.\nSometimes you’ll hear the term “rootkit” or “bootkit” used to describe a certain type of malware.\nGenerally, this refers to methods that the malware uses to hide itself deep inside the inner\nworkings of Windows so as to avoid detection.\nFor maximum protection, make sure your PC is protected with\nsecurity software that can protect you against malware.\n8 deceptive = irreführend, trügerisch\n9 to reveal = zeigen, aufdecken\n10 to monitor = überwachen, kontrollieren, beobachten\n11 benign (syn.:harmless) = harmlos, ungefährlich, gutartig\n12 to ransom = freikaufen\n13 legit = echt\n14 to masquerade = sich verkleiden\nScareware\nSpyware\nRansomware\nAdware\n￼",
+      "source_text_status": "text",
+      "id": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=16",
+      "subject": "Englisch",
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 17,
+      "source_section_chars": 2212,
+      "source_text": "English Malware Date:\nMalware\nTasks:\n1. Write down in one German sentence what the following terms mean. You can use the\ncomputer in order to find out more.\nVirus\n_________________________________________________________________\nWorm\n_________________________________________________________________\nTrojan _________________________________________________________________\nDrive-by download _____________________________________________________\n_________________________________________________________________\nPhishing/Quishing ______________________________________________________\n_________________________________________________________________\nAdware\n_________________________________________________________________\nSpyware _________________________________________________________________\nRansomware\n___________________________________________________________\nScareware\n___________________________________________________________\n2. Translate the paragraph in the blue box into German.\n_____________________________________________________________________________\n_____________________________________________________________________________\n_____________________________________________________________________________\n_____________________________________________________________________________\n_____________________________________________________________________________\n_____________________________________________________________________________\n_____________________________________________________________________________\n_____________________________________________________________________________\n_____________________________________________________________________________\n_____________________________________________________________________________",
+      "source_text_status": "text",
+      "id": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=17",
+      "subject": "Englisch",
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 18,
+      "source_section_chars": 3138,
+      "source_text": "English – Malware (Solution to Page 15)\n\nMany PC users consider malware, viruses, spyware, adware, worms, Trojans, etc. as the same thing. While all these infections harm our computers, they are not the same. They are all types of malicious software that each behave differently.\nThe word malware is a combination of two words “malicious” and “software”. It is a generic term used to describe all of the hostile(1) and intrusive(2) program codes including viruses, spyware, worms, Trojans, or anything that is designed to perform malicious operations on a computer.\nThe meanings of many of these words have changed over time. Some refer to how malware infects your system while other words are used to describe what the malware does once it’s active in your machine.\n\nDelivery(3)/Infection Methods [Drive-by download – Worm – Virus – Trojan]\nWhen we’re trying to build better software to remove malware from your machine, the main things that we are interested in is how it got into your computer and how it is continuing to work.\nProbably the most popular way to get something nasty into your computer is a [drive-by download]. Most of the time, it comes from visiting a bad web page. That web page exploits(4) a weakness in your browser and causes your system to become infected. But infection ways are diverse and include also forms of phishing, social engineering and others.\n\nThe downloaded malware will generally fit into one of the following categories:\n1. [Virus] – this is a term that used to be generic(5). Any bad software used to be a virus. However, we use the term “malware” now. We use the word to describe a program that self-replicates(6) after hooking(7) itself onto something running in your OS.\n2. [Worm] – is another kind of self-replicating program but generally doesn’t hook itself onto a Windows process. They generally are little programs that run in the background of your system.\n3. [Trojan] – software that you thought was going to be one thing but turns out to be something bad. Named for the fabled “[Trojan] Horse” that appeared to be a gift but in fact carried a dangerous payload.\n\nMalware Actions:\nOnce malware is in your computer, it can do many things. Sometimes it’s only trying to replicate itself with no harm to anyone, other times it’s capable of doing very nasty things.\n\nVocabulary:\n1 hostile = feindlich | 2 intrusive = aufdringlich, aggressiv | 3 delivery = Lieferung | 4 to exploit = ausnutzen | 5 generic = allgemein, typisch | 6 to replicate = nachbilden, kopieren | 7 to hook = festhaken",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=18",
+      "subject": "Englisch",
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 19,
+      "source_section_chars": 3485,
+      "source_text": "English – Malware (Solution to Page 16) [Scareware | Spyware | Ransomware | Adware]\n\n1. [Adware] – not truly malware and almost never delivered using one of the methods above. It is software that uses some form of advertising delivery system. Sometimes the way that advertisements are delivered can be deceptive(8) in that they track or reveal(9) more information about you than you would like. Most of the time, you agree to the adware tracking you when you install the software that it comes with. Generally, it can be removed by uninstalling the software it was attached to.\n\n2. [Spyware] – software that monitors(10) your computer and reveals collected information to an interested party. This can be more benign(11) when it tracks what webpages you visit; or it can be incredibly invasive when it monitors everything you do with your mouse and keyboard.\n\n3. [Ransomware] – lately a very popular way for Internet criminals to make money. This malware alters your system in such a way that you’re unable to get into it normally. It will then display some kind of screen that demands some form of payment to have the computer unlocked. Access to your computer has literally to be ransomed(12) from the cyber-criminal.\n\n4. [Scareware] – software that appears to be something legit(13) (usually masquerading(14) as some tool to help fix your computer) but when it runs, it tells you that your system is either infected or broken in some way. This message is generally delivered in a manner that is meant to frighten you into doing something. The software claims to be able to fix your problems if you pay them. Scareware is also referred to as “rogue” software – like rogue antivirus.\n\nBotnet (Blue Box):\nSome malware gets onto your computer and appears to do nothing at all. Such malware may have no obvious symptoms, but it has infected your computer along with a group of other computers, forming what is called a “botnet”. This botnet can be directed by an internet criminal to do any number of things including spam delivery and launching DDos-attacks on internet sites. Internet criminals don’t want to do anything direct that may be tracked back to them, so they employ botnets to do their dirty work for them.\n\nRootkit / Bootkit:\nSometimes you’ll hear the term “rootkit” or “bootkit” used to describe a certain type of malware. Generally, this refers to methods that the malware uses to hide itself deep inside the inner workings of Windows so as to avoid detection.\nFor maximum protection, make sure your PC is protected with security software that can protect you against malware.\n\nVocabulary:\n8 deceptive = irreführend, trügerisch | 9 to reveal = zeigen, aufdecken | 10 to monitor = überwachen, kontrollieren, beobachten | 11 benign (syn.: harmless) = harmlos, ungefährlich, gutartig | 12 to ransom = freikaufen | 13 legit = echt | 14 to masquerade = sich verkleiden",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=19",
+      "subject": "Englisch",
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 20,
+      "source_section_chars": 2293,
+      "source_text": "English – Malware: Tasks (Solutions to Page 17)\n\n1. Write down in one German sentence what the following terms mean. You can use the computer in order to find out more.\n- Virus: Ein Virus hängt sich an Systemprozesse an und vervielfältigt sich selbst.\n- Worm: Ein Wurm verbreitet sich selbstständig im Hintergrund ohne Wirtsprogramm.\n- Trojan: Ein Trojaner tarnt sich als nützliche Software, führt aber Schadcode aus.\n- Drive-by download: Ein Drive-by-Download lädt beim Besuch einer manipulierten Webseite unbemerkt Schadsoftware über eine Browser-Lücke herunter.\n- Phishing/Quishing: Beim Phishing bzw. Quishing stehlen Betrüger über gefälschte Nachrichten oder QR-Codes sensible Daten wie Passwörter.\n- Adware: Adware blendet ungefragt Werbung ein und verfolgt oft das Nutzerverhalten.\n- Spyware: Spyware überwacht heimlich den Computer und sendet Daten an Dritte.\n- Ransomware: Ransomware sperrt Systeme oder Daten und fordert Lösegeld.\n- Scareware: Scareware täuscht Viren vor, um Nutzer aus Angst zum Kauf zu drängen.\n\n2. Translate the paragraph in the blue box into German.\nManche Schadsoftware gelangt auf Ihren Computer und scheint überhaupt nichts zu tun. Solche Malware weist möglicherweise keine offensichtlichen Symptome auf, hat aber Ihren Computer zusammen mit einer Gruppe anderer Computer infiziert und bildet ein sogenanntes „Botnetz“. Dieses Botnetz kann von einem Internetkriminellen gesteuert werden, um eine Vielzahl von Dingen zu tun, darunter das Versenden von Spam und das Starten von DDoS-Angriffen auf Internetseiten. Internetkriminelle wollen nichts Direktes tun, das zu ihnen zurückverfolgt werden könnte, daher setzen sie Botnetze ein, um die Drecksarbeit für sie zu erledigen.",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=20",
+      "subject": "Englisch",
+      "source_note": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
+      "pdf_path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
       "page": 1,
       "source_section_chars": 3288,
       "source_text": "Begriffe aus der Computerwelt - Kennst du dich aus?\n\nBereits erkennbar eingetragene Begriffe:\nProvider, Escape, Homepage, Internet, Textfeld, Task, E-Mail, Seitenansicht,\nBrowser, Scrollen, Error, Tastatur, Markieren.\n\nWaagrecht:\n1. Organisation, die einen Internetzugang anbietet.\n3. Was bedeutet ESC auf der Tastatur links oben?\n6. Eine Website oder eine eigene ....\n8. Das weltweite Computernetzwerk.\n9. Dieser Menüpunkt öffnet im Schreibprogramm ein ...\n11. Das englische Wort für \"Aufgabe\" (Computersprache).\n13. Ein elektronischer Brief, versendet über das Internet.\n14. Dieser Menüpunkt im Schreibprogramm steht für ...\n18. Ein Teil der Software, z. B. zum Zeichnen ist ein ...\n20. Die Software, mit der man Webseiten im Internet sieht.\n22. Die festen Teile des Computers bezeichnet man als ...\n25. \"Eingabe\"-Taste bezeichnet man englisch als ...\n26. Ein anderes Wort für den Bildschirm.\n28. Dieser Menüpunkt im Schreibprogramm steht für ...\n29. Er leitet im Netzwerk die Daten an den richtigen PC.\n30. Mehrere miteinander verbundene PCs bilden ein ...\n34. Dateien speichert man in einem ....\n37. Die blinkende Schreibmarke nennt man ...\n38. Gerät im PC, um Daten per Telefonleitung zu senden.\n39. Disketten, CDs, DVDs, Speichersticks sind ....\n40. Taste mit zwei Pfeilen, mit der man Abstände einstellt.\n41. Die F1-Taste bietet etwas, das jeder einmal braucht.\n\nSenkrecht:\n1. Der Teil des PCs, der die Daten verarbeitet.\n2. Englisches Wort für Bild, Abbild.\n4. Computerisierte Bilder bei Microsoft Office.\n5. Die Software, die einen PC zum Laufen bringt.\n7. Programm, das am PC großen Schaden anrichtet.\n10. Abkürzung für \"Local Area Network\".\n12. Das kann man mit dem Mausrad machen.\n15. Irrtum, Fehlermeldung am Computer.\n16. Eingabegerät zum Tippen.\n17. Was im Text verändert werden soll, muss man ...\n19. Teil des PCs, das die Bildschirmanzeige steuert.\n21. Die nutzbaren Programme des Computers.\n23. Ziehen und fallen lassen (mit der Maus): drag and ....\n24. Hilfsprogramm am PC (\"Werkzeug\" auf Englisch).\n27. Pfeil-Zurück-Taste nennt man auch Englisch ....\n31. Das Programm für tolle Texteffekte in Word.\n32. Menü in Word, zum Ändern von Zeichen, Absatz usw.\n33. Eine bekannte Suchmaschine im Internet.\n35. Hauptspeicher, Abkürzung für Random Access Memory.\n36. Eine Dateneinheit im Ordner. Englisch: \"File\".\n\nDer Lösungsspruch aus den dick umrahmten Kästchen von oben nach unten ist im Scan sichtbar,\naber nicht vollständig sicher maschinenlesbar.",
@@ -40926,8 +41322,8 @@
     },
     {
       "page": 5,
-      "source_section_chars": 1984,
-      "source_text": "FU-IT | RAID | Seite 5\n1.2 Übungsaufgaben\n\nFür unseren Kunden - die ZoF-GmbH - soll ein neues IT-Datensicherheitskonzept erstellen.\n\nAufgabe 5: Nenne zwei Risiken, vor denen Daten geschützt werden sollten, um die Datensicherheit zu gewährleisten.\n\nDie Daten der ZoF-GmbH sollen auf einem NAS abgelegt werden. Es wird diskutiert, ein RAID 10 oder RAID 5 mit jeweils vier Festplatten einzurichten (siehe Abbildungen).\nDas NAS soll eine Nettokapazität von 12 TiByte bieten. Es stehen Festplatten mit 4, 6 oder 8 TiByte Kapazität zur Verfügung.\n\nAbbildungen:\n- RAID 10 (4 Festplatten: Disk 1 bis Disk 4): Striping über zwei Spiegelpaare – Disk 1 (A, C, E) gespiegelt auf Disk 2 (A, C, E); Disk 3 (B, D, F) gespiegelt auf Disk 4 (B, D, F).\n- RAID 5 (4 Festplatten: Disk 1 bis Disk 4): Striping mit verteilter Parität – Zeile 1: A, B, C, P(ABC); Zeile 2: D, E, P(DEF), F; Zeile 3: G, P(GHI), H, I; Zeile 4: P(JKL), J, K, L.\n\nAufgabe 6: Nenne für RAID 10 und für RAID 5 jeweils anhand eines Beispiels Festplatten (Disk 1 bis 4), die höchstens gleichzeitig ausfallen können, ohne dass ein Datenverlust eintritt.\nTabelle (unausgefüllt): Spalten „Ausgefallene Disks ohne Datenverlust“ und „Beispiel“ für die Zeilen „RAID 10“ und „RAID 5“.\n\nAufgabe 7: Das NAS soll mit einer Hot-Spare-Festplatte betrieben werden. Erläutere die Funktion einer Hot-Spare-Festplatte.",
+      "source_section_chars": 2324,
+      "source_text": "FU-IT | RAID | Seite 5\n1.2 Übungsaufgaben\n\nFür unseren Kunden - die ZoF-GmbH - soll ein neues IT-Datensicherheitskonzept erstellen.\n\nAufgabe 5: Nenne zwei Risiken, vor denen Daten geschützt werden sollten, um die Datensicherheit zu gewährleisten.\nHandschriftliche Lösung:\n- Datenverlust durch Festplattenausfall\n- Datendiebstahl durch Angreifer\n\nDie Daten der ZoF-GmbH sollen auf einem NAS abgelegt werden. Es wird diskutiert, ein RAID 10 oder RAID 5 mit jeweils vier Festplatten einzurichten (siehe Abbildungen).\nDas NAS soll eine Nettokapazität von 12 TiByte bieten. Es stehen Festplatten mit 4, 6 oder 8 TiByte Kapazität zur Verfügung.\n\nAbbildungen:\n- RAID 10 (4 Festplatten: Disk 1 bis Disk 4): Striping über zwei Spiegelpaare – Disk 1 (A, C, E) gespiegelt auf Disk 2 (A, C, E); Disk 3 (B, D, F) gespiegelt auf Disk 4 (B, D, F).\n- RAID 5 (4 Festplatten: Disk 1 bis Disk 4): Striping mit verteilter Parität – Zeile 1: A, B, C, P(ABC); Zeile 2: D, E, P(DEF), F; Zeile 3: G, P(GHI), H, I; Zeile 4: P(JKL), J, K, L.\n\nAufgabe 6: Nenne für RAID 10 und für RAID 5 jeweils anhand eines Beispiels Festplatten (Disk 1 bis 4), die höchstens gleichzeitig ausfallen können, ohne dass ein Datenverlust eintritt.\nHandschriftliche Lösung (Tabelle):\n- RAID 10: Ausgefallene Disks ohne Datenverlust = 2 | Beispiel = Disk 1 + 3\n- RAID 5: Ausgefallene Disks ohne Datenverlust = 1 | Beispiel = Disk 1\n\nAufgabe 7: Das NAS soll mit einer Hot-Spare-Festplatte betrieben werden. Erläutere die Funktion einer Hot-Spare-Festplatte.\nHandschriftliche Lösung:\nEine Reservefestplatte, die eingebaut und betriebsbereit ist und im Normalbetrieb ungenutzt ist. Bei Ausfall einer Platte springt sie ein.",
       "source_text_status": "ocr",
       "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften#page=5",
       "subject": "ITT_IT_Technik",
@@ -40959,8 +41355,8 @@
     },
     {
       "page": 6,
-      "source_section_chars": 1244,
-      "source_text": "FU-IT | RAID | Seite 6\n\nAufgabe 8: Ermittle für ein NAS mit RAID Level 10 und ein NAS mit RAID Level 5 jeweils:\n- die Kapazität pro Festplatte\n- die Bruttokapazität\n- die Speichereffizienz des NAS.\nTrage die ermittelten Werte in folgende Tabelle ein. Die Rechenwege sind anzugeben.\n\nTabelle (unausgefüllt):\nSpalten: RAID Level | Kapazität pro Festplatte in TiByte | Anzahl HDD | Bruttokapazität NAS in TiByte | Nettokapazität NAS in TiByte | Speichereffizienz* NAS in %\n- RAID Level 10: Anzahl HDD = 4 (übrige Felder leer)\n- RAID Level 5: Anzahl HDD = 4 (übrige Felder leer)\n* Verhältnis Netto- zu Bruttokapazität",
+      "source_section_chars": 1396,
+      "source_text": "FU-IT | RAID | Seite 6\n\nAufgabe 8: Ermittle für ein NAS mit RAID Level 10 und ein NAS mit RAID Level 5 jeweils:\n- die Kapazität pro Festplatte\n- die Bruttokapazität\n- die Speichereffizienz des NAS.\nTrage die ermittelten Werte in folgende Tabelle ein. Die Rechenwege sind anzugeben.\n\nHandschriftlich ausgefüllte Tabelle (für geforderte Nettokapazität = 12 TiByte):\n- RAID Level 10: Kapazität pro Festplatte = 6 TiByte | Anzahl HDD = 4 | Bruttokapazität NAS = 24 TiByte | Nettokapazität NAS = 12 TiByte | Speichereffizienz* NAS = 50 %\n- RAID Level 5: Kapazität pro Festplatte = 4 TiByte | Anzahl HDD = 4 | Bruttokapazität NAS = 16 TiByte | Nettokapazität NAS = 12 TiByte | Speichereffizienz* NAS = 75 %\n* Verhältnis Netto- zu Bruttokapazität",
       "source_text_status": "ocr",
       "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften#page=6",
       "subject": "ITT_IT_Technik",
@@ -40992,8 +41388,8 @@
     },
     {
       "page": 7,
-      "source_section_chars": 1894,
-      "source_text": "FU-IT | RAID | Seite 7\n\nBei der Rusticus GmbH soll im Zuge der Digitalisierungsinitiative im Winter 2022 ein neuer Datenbankserver aufgebaut werden, da mit einem erhöhten Datenaufkommen zu rechnen ist. Als Datenspeicherlösung stehen zwei Storage Arrays mit je maximal sechzehn Festplatten zu je 4 TiB zur Verfügung.\n\nDie Datenbank ist 10 TiB groß. Zusätzlich werden 6 TiB für Nutzdaten und 10 TiB als Puffer benötigt. Um die geforderte Verfügbarkeit sicherzustellen, entscheidest du dich unter anderem zur Nutzung von RAID 6 mit Hot-Spare-Festplatte.\n\nAufgabe 9: Berechne, wie viele Festplatten benötigt werden, um den Speicherbedarf zu decken und die Architekturanforderungen zu erfüllen.\n\nEinige Zulieferer erstellen weiterhin Lieferscheine, Angebote und Rechnungen in Papierform. Diese sollen digital archiviert werden.\nPro Monat werden 60 GiB Dokumentendaten erzeugt. Diese werden mit einer Komprimierungsrate von 70 % gepackt und auf ein Archivsystem kopiert, auf dem 2 TiB Speicher für die Daten reserviert ist. Dort sollen Sie für zehn Jahre gespeichert werden.\n\nAufgabe 10: Berechne den Speicherplatz, der für die Speicherung der Daten für 10 Jahre benötigt wird.\n\nAufgabe 11: Berechne, wie lange der reservierte Speicher reicht. Runde auf ganze Jahre ab.",
+      "source_section_chars": 2547,
+      "source_text": "FU-IT | RAID | Seite 7\n\nBei der Rusticus GmbH soll im Zuge der Digitalisierungsinitiative im Winter 2022 ein neuer Datenbankserver aufgebaut werden, da mit einem erhöhten Datenaufkommen zu rechnen ist. Als Datenspeicherlösung stehen zwei Storage Arrays mit je maximal sechzehn Festplatten zu je 4 TiB zur Verfügung.\n\nDie Datenbank ist 10 TiB groß. Zusätzlich werden 6 TiB für Nutzdaten und 10 TiB als Puffer benötigt. Um die geforderte Verfügbarkeit sicherzustellen, entscheidest du dich unter anderem zur Nutzung von RAID 6 mit Hot-Spare-Festplatte.\n\nAufgabe 9: Berechne, wie viele Festplatten benötigt werden, um den Speicherbedarf zu decken und die Architekturanforderungen zu erfüllen.\nHandschriftliche Lösung:\n- Ges. Speicherbedarf: 10 TiB + 6 TiB + 10 TiB = 26 TiB\n- Anzahl benötigter Festplatten (Nutzdaten): 26 TiB : 4 TiB = 6,5 ≈ 7\n- Ges. Festplatten (inkl. 2 Paritätsplatten für RAID 6 und 1 Hot-Spare): 7 + 2 + 1 = 10\n\nEinige Zulieferer erstellen weiterhin Lieferscheine, Angebote und Rechnungen in Papierform. Diese sollen digital archiviert werden.\nPro Monat werden 60 GiB Dokumentendaten erzeugt. Diese werden mit einer Komprimierungsrate von 70 % gepackt und auf ein Archivsystem kopiert, auf dem 2 TiB Speicher für die Daten reserviert ist. Dort sollen Sie für zehn Jahre gespeichert werden.\n\nAufgabe 10: Berechne den Speicherplatz, der für die Speicherung der Daten für 10 Jahre benötigt wird.\nHandschriftliche Lösung:\n- 60 * 12 * 10 = 7200 GiB\n- 7200 GiB * 0,3 = 2.160 GiB = 2,16 TiB\n(Prüfungshinweis: Bei binären IEC-Einheiten gilt exakt 1 TiB = 1024 GiB, also 2160 GiB / 1024 = 2,109 TiB.)\n\nAufgabe 11: Berechne, wie lange der reservierte Speicher reicht. Runde auf ganze Jahre ab.\nHandschriftliche Lösung:\n- 2,16 : 10 = 0,216 TiB pro Jahr (bzw. 216 GiB pro Jahr)\n- 2 : 0,216 = 9,26 ≈ 9 Jahre (auch binär exakt: 2048 GiB : 216 GiB/Jahr = 9,48 -> abgerundet 9 Jahre)",
       "source_text_status": "ocr",
       "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften#page=7",
       "subject": "ITT_IT_Technik",
@@ -41982,8 +42378,8 @@
     },
     {
       "page": 30,
-      "source_section_chars": 1873,
-      "source_text": "Staatliche Berufsschule 1 Ingolstadt Elektrotechnik/IT\nName: Seite 1 / 4 Datum:\n24.11.2026 otma 1\nFach: ITS Anwendungsschicht (engl. Application Layer) Klasse:\n1. Erklären Sie kurz den Begriff Client-Server bezogen auf Netzwerkkommunikation!\nDer Client sendet eine Anforderung an einen Serr. Der\nver bearbeitet diese Anfrage und sende die Informati\n_\nnen an d\n_ ___\n2. Was versteht man unter einem Windows Dienst und wie heißt er unter Linux?\nDer Client sendet eine Anforderung an einen Serr. Der\nDer Client sendet eine Anforderung an einen Serr. Der\nDer Client sendet eine Anforderung an einen Serr. Der\n3. Erklären Sie kurz die Aufgabe eines…\nDNS-Servers (und die folgenden Record-Typen: A, AAA, NS, CNAME und MS):\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nDHCP-Servers: Er vergibt IP- Adresse\n_ __\nund Sunetz\n_\nmas k\n_\nts\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer\nssh-Servers: . Domain Name Server – er stellt\n__\ndie IP\n_\nresse\nDomain Name Server – er stellt di\n____\ne IP-\n_\ndre sse einer",
+      "source_section_chars": 286,
+      "source_text": "> Grund: Unausgefüllte Arbeitsblatt-Vorlage (Seite 1/4); die vollständig ausgefüllte Version befindet sich auf Seite 34.. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.",
       "source_text_status": "text",
       "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=30",
       "subject": "ITT_IT_Technik",
@@ -42015,8 +42411,8 @@
     },
     {
       "page": 31,
-      "source_section_chars": 1128,
-      "source_text": "Staatliche Berufsschule 1 Ingolstadt Elektrotechnik/IT\nName: Seite 2 / 4 Datum:\n24.11.2026 otma 2\n4. Weisen Sie den drei Schichten zugehörige Protokolle zu!\n5. Erklären Sie kurz die Aufgabe folgender Protokolle:\nSMTP: Simple Mail Transfer Protocol – Übertragung von eMails\nan den Server. eMails werden am Server gespeichert .\nPOP3: Post Office Protocol – Zum Downloaden von Emails vom\nServer. eMails werden auf dem Server gelöscht. .\nIMAP4: Internet Message Access Protocol – eMails werden vom\nServer abgerufen. eMails bleiben am Server erhalten. .\n6. Ergänzen Sie den Protocol Stack inkl. Portnummer für den links dargestellten Server.\n5-7\n4\n3\n￼\n￼\n￼",
+      "source_section_chars": 286,
+      "source_text": "> Grund: Unausgefüllte Arbeitsblatt-Vorlage (Seite 2/4); die vollständig ausgefüllte Version befindet sich auf Seite 35.. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.",
       "source_text_status": "text",
       "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=31",
       "subject": "ITT_IT_Technik",
@@ -42048,8 +42444,8 @@
     },
     {
       "page": 32,
-      "source_section_chars": 1327,
-      "source_text": "Staatliche Berufsschule 1 Ingolstadt Elektrotechnik/IT\nName: Seite 3 / 4 Datum:\n24.11.2026 otma 3\n7. Zeichnen Sie den DHCP-Prozess (und Nachrichtenart?), der beim Einschalten eines Client-PCs abläuft!\n8. Scheiben Sie die folgenden Abkürzungen aus und erklären Sie kurz deren Bedeutung und tragen Sie die\nBegriffe in das untere Schaubild ein.\nMUA _______________________________________________________________________________\n____________________________________________________________________________________\nMDA _______________________________________________________________________________\n____________________________________________________________________________________\nMTA_______________________________________________________________________________\n____________________________________________________________________________________\n￼",
+      "source_section_chars": 286,
+      "source_text": "> Grund: Unausgefüllte Arbeitsblatt-Vorlage (Seite 3/4); die vollständig ausgefüllte Version befindet sich auf Seite 36.. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.",
       "source_text_status": "text",
       "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=32",
       "subject": "ITT_IT_Technik",
@@ -42081,8 +42477,8 @@
     },
     {
       "page": 33,
-      "source_section_chars": 2539,
-      "source_text": "Staatliche Berufsschule 1 Ingolstadt Elektrotechnik/IT\nName: Seite 4 / 4 Datum:\n24.11.2026 otma 4\n9. Erläutern Sie wofür und wie der Befehl nslookup verwendet wird!\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n10. Wofür wird SMB / CIFS verwendet und was bedeuten die Abkürzungen?\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n11. Was ist SFTP(S)?\n____________________________________________________________________________________\n____________________________________________________________________________________\n12. Welche Verbesserungen hat HTTP/2 eingeführt?\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\n____________________________________________________________________________________\nFile Transfer Protocol überträgt Daten über IT-Netzwerke",
+      "source_section_chars": 361,
+      "source_text": "> Grund: Nahezu unausgefüllte Arbeitsblatt-Vorlage (Seite 4/4, nur kurze handschriftliche Notiz bei Aufgabe 11); die vollständig ausgefüllte Version inkl. dieser Notiz befindet sich auf Seite 37.. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.",
       "source_text_status": "text",
       "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell#page=33",
       "subject": "ITT_IT_Technik",
@@ -42675,43 +43071,10 @@
     },
     {
       "page": 14,
-      "source_section_chars": 3641,
-      "source_text": "OSI-Schicht3 – IPv4 IT-Systeme\nName Klasse Datum\nSeite 1\n1.1 Bestimmung der Netzadresse\nWenn eine IPv4-Adresse einem Gerät zugewiesen wurde, verwendet das Gerät die Subnetz-\nmaske um zu bestimmen, zu welcher Netzwerkadresse das Gerät gehört. Die Netzwerkad-\nresse ist die Adresse, die alle Geräte in einem gleichen Netzwerk darstellt.\nUm die Netzadresse zu bestimmen, wird eine UND-Verknüpfung von IP-Adresse und Sub-\nnetzmaske durchgeführt.\n1.2 Übungen\nÜbung: Bestimmen Sie die Netz- und Broadcastadressen, so wie die Präfixlänge.\nIP-Adresse: 192.168.112.99 IP-Adresse: 192.168.13.158\nSubnetzmaske: 255.255.192.0 /_______ Subnetzmaske: 255.255.255.224 /_____\nNetzadresse: ______________________ Netzadresse: ______________________\nBroadcastadresse: __________________ Broadcastadresse: _________________\nAnzahl Hosts:\n______________________\nAnzahl Hosts: ____________________\nIP-Adresse: 172.30.126.11 IP-Adresse: 10.98.212.34\nSubnetzmaske: 255.255.192.0 /______ Subnetzmaske: 255.248.0.0 /_______\nNetzadresse: ______________________ Netzadresse: ____________________\nBroadcastadresse: __________________ Broadcastadresse: _________________\nAnzahl Hosts: ______________________ Anzahl Hosts: _____________________\nIP-Adresse: 10.199.14.12\nSubnetzmaske: 255.240.0.0 /_________\nNetzadresse: ______________________\nBroadcastadresse: __________________\nAnzahl Hosts: ______________________\nM8 ㄻ\n192\n,\n168.64.0 152.168.13.128\n152\n.168.127\n.\n258 192\n.\n768.73\n.\n153\n16\n.\n38L ㉚\n18 3\n172\n,\n30\n. 6G\n.\n0 10. 96.0.0\n72,30.727 .255 10 .\n103.255.252\n76\n.\n382 529\n,\n2& 6\n조\n10\n.\n1g2\n.\n\nOSI-Schicht3 – IPv4 | IT-Systeme (Seite 1)\n\n1.1 Bestimmung der Netzadresse\nWenn eine IPv4-Adresse einem Gerät zugewiesen wurde, verwendet das Gerät die Subnetzmaske, um zu bestimmen, zu welcher Netzwerkadresse das Gerät gehört. Die Netzwerkadresse ist die Adresse, die alle Geräte in einem gleichen Netzwerk darstellt.\nUm die Netzadresse zu bestimmen, wird eine UND-Verknüpfung von IP-Adresse und Subnetzmaske durchgeführt.\n\n1.2 Übungen\nÜbung: Bestimmen Sie die Netz- und Broadcastadressen, sowie die Präfixlänge.\n\nAufgabe 1:\n- IP-Adresse: 192.168.112.99\n- Subnetzmaske: 255.255.192.0 / 18\n- Netzadresse: 192.168.64.0\n- Broadcastadresse: 192.168.127.255\n- Anzahl Hosts: 16.382\n\nAufgabe 2:\n- IP-Adresse: 192.168.13.158\n- Subnetzmaske: 255.255.255.224 / 27\n- Netzadresse: 192.168.13.128\n- Broadcastadresse: 192.168.13.159\n- Anzahl Hosts: 30\n\nAufgabe 3:\n- IP-Adresse: 172.30.126.11\n- Subnetzmaske: 255.255.192.0 / 18\n- Netzadresse: 172.30.64.0\n- Broadcastadresse: 172.30.127.255\n- Anzahl Hosts: 16.382\n\nAufgabe 4:\n- IP-Adresse: 10.98.212.34\n- Subnetzmaske: 255.248.0.0 / 13\n- Netzadresse: 10.96.0.0\n- Broadcastadresse: 10.103.255.255\n- Anzahl Hosts: 524.286\n\nAufgabe 5 (handschriftlich angefangen, unvollständig):\n- IP-Adresse: 10.199.14.12\n- Subnetzmaske: 255.240.0.0 / 12\n- Netzadresse: 10.192. (unvollständig)\n- Broadcastadresse: (leer)\n- Anzahl Hosts: (leer)",
-      "source_text_status": "ocr",
-      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=14",
-      "subject": "ITT_IT_Technik",
-      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung.md",
-      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf",
-      "current_modules": [
-
-      ],
-      "current_curated_topics": [
-
-      ],
-      "audit": {
-        "visual_checked": false,
-        "primary_topic": null,
-        "secondary_topics": [
-
-        ],
-        "content_type": null,
-        "source_text_match": null,
-        "mapping_status": null,
-        "recommended_modules": [
-
-        ],
-        "issues": [
-
-        ],
-        "confidence": null
-      }
-    },
-    {
-      "page": 15,
       "source_section_chars": 2644,
       "source_text": "OSI-Schicht3 – IPv4 | IT-Systeme (Seite 1 – vollständige Musterlösung & Kurzanleitung)\n\n1.1 Bestimmung der Netzadresse\nWenn eine IPv4-Adresse einem Gerät zugewiesen wurde, verwendet das Gerät die Subnetzmaske, um zu bestimmen, zu welcher Netzwerkadresse das Gerät gehört. Die Netzwerkadresse ist die Adresse, die alle Geräte in einem gleichen Netzwerk darstellt.\nUm die Netzadresse zu bestimmen, wird eine UND-Verknüpfung von IP-Adresse und Subnetzmaske durchgeführt.\n\n1.2 Übungen\nÜbung: Bestimmen Sie die Netz- und Broadcastadressen, sowie die Präfixlänge.\n\nAufgabe 1:\n- IP-Adresse: 192.168.112.99\n- Subnetzmaske: 255.255.192.0 / 18\n- Netzadresse: 192.168.64.0\n- Broadcastadresse: 192.168.127.255\n- Anzahl Hosts: 16.382\n\nAufgabe 2:\n- IP-Adresse: 192.168.13.158\n- Subnetzmaske: 255.255.255.224 / 27\n- Netzadresse: 192.168.13.128\n- Broadcastadresse: 192.168.13.159\n- Anzahl Hosts: 30\n\nAufgabe 3:\n- IP-Adresse: 172.30.126.11\n- Subnetzmaske: 255.255.192.0 / 18\n- Netzadresse: 172.30.64.0\n- Broadcastadresse: 172.30.127.255\n- Anzahl Hosts: 16.382\n\nAufgabe 4:\n- IP-Adresse: 10.98.212.34\n- Subnetzmaske: 255.248.0.0 / 13\n- Netzadresse: 10.96.0.0\n- Broadcastadresse: 10.103.255.255\n- Anzahl Hosts: 524.286\n\nAufgabe 5:\n- IP-Adresse: 10.199.14.12\n- Subnetzmaske: 255.240.0.0 / 12\n- Netzadresse: 10.192.0.0\n- Broadcastadresse: 10.207.255.255\n- Anzahl Hosts: 1.048.574\n\nKurzanleitung (So geht's einfach):\n1. Präfixlänge (/x):\n   Alle 1-Bits der Subnetzmaske zählen.\n   Merke: 255 = 8 Bits. Rest aus Tabelle:\n   128=1, 192=2, 224=3, 240=4, 248=5.\n2. Blockgröße (Schrittweite):\n   Im Oktett, das nicht 255 oder 0 ist:\n   256 - Maskenwert = Schrittweite.\n   (Bsp. 256 - 192 = 64 -> 0, 64, 128, 192)\n3. Netzadresse:\n   Das größte Vielfache der Schrittweite <= IP-Oktett. Oktette dahinter = 0.\n4. Broadcastadresse:\n   Nächstes Netz minus 1 im selben Oktett. Oktette dahinter = 255.\n5. Anzahl Hosts:\n   Formel: 2^(32 - Präfix) - 2\n   (-2 für Netz- und Broadcastadresse).",
       "source_text_status": "ocr",
-      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=15",
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=14",
       "subject": "ITT_IT_Technik",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf",
@@ -51700,8 +52063,8 @@
     },
     {
       "page": 5,
-      "source_section_chars": 1093,
-      "source_text": "Handschriftlicher Lösungsansatz zu Aufgabe 8 (Spannungsteiler / Reihenschaltung R_1 = 10 kΩ, R_2 = 10 kΩ, U_E = 10 V):\n- Gesucht: D_U = U_E / U_A\n- U_A = U_2 = I_2 * R_2\n- I_2 = I_1 = I_G = U_E / R_G = 10 V / (R_1 + R_2) = 10 V / 20 kΩ = 0,5 mA\n(Hinweis: Ansatz mit rein ohmschem Spannungsteiler; bei Aufgabe 8 auf S. 3 war ein RC-Tiefpass mit C = 22 nF bei f = 1 kHz gegeben.)",
+      "source_section_chars": 1650,
+      "source_text": "Lösungen zu Aufgabe 8 (von Seite 3):\n\n1. Oberer handschriftlicher Ansatz (ohmscher Spannungsteiler R_1 = 10 kΩ, R_2 = 10 kΩ, U_E = 10 V):\n- Gesucht: D_U = U_E / U_A = 10 V / U_A\n- U_A = U_2 = I_2 * R_2 mit R_2 = 10 kΩ\n- I_2 = I_1 = I_G = U_E / R_G = 10 V / (R_1 + R_2) = 10 V / 20 kΩ = 0,5 mA\n\n2. Eingefügtes Foto – vollständige Lösung zum RC-Tiefpass (Bild 3: R = 10 kΩ, C = 22 nF, U_1 = 10 V bei f = 1 kHz):\n- Aufgabenstellung: Berechnen Sie den Spannungsdämpfungsfaktor des Tiefpasses (Bild 3) bei einer Frequenz von 1 kHz.\n- Kapazitiver Blindwiderstand:\n  X_C = 1 / (2 * pi * f * C) = 1 / (2 * pi * 1 kHz * 22 nF) = 7,2 kΩ\n- Scheinwiderstand (Impedanz, Zeigeraddition R senkrecht zu X_C):\n  Z = sqrt(R^2 + X_C^2) = 12,3 kΩ\n- Spannungsdämpfungsfaktor:\n  D = U_E / U_A = U_E / (I_2 * X_C) = U_E / ((U_g / Z) * X_C)\n    = 10 V / ((10 V / 12,3 kΩ) * 7,2 kΩ) = 1,7",
       "source_text_status": "ocr",
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=5",
       "subject": "ITT_IT_Technik",
@@ -51733,8 +52096,8 @@
     },
     {
       "page": 6,
-      "source_section_chars": 1674,
-      "source_text": "Signaltechnik – 6 Aufgaben (Blatt 3, unausgefüllt)\n\n1. Multiple-Choice-Frage zur Leistungsverstärkung:\n   Welche Aussage ist richtig? Erhöht sich das Leistungsverstärkungsmaß um 3 dB, dann:\n   - versechsfacht / verdreifacht / verdoppelt / halbiert / drittelt / sechstelt sich der Leistungsverstärkungsfaktor?\n\n2. Empfangsantenne / Leitungsdämpfung:\n   - Pegel an Empfangsantenne: L_U = 46 dBµV\n   - Leitungslänge Antenne–Empfänger: l = 24 m\n   - Leitungsdämpfung: a_L = 8,4 dB pro 100 m\n   - a) Welcher Spannungspegel ist am Empfänger vorhanden?\n   - b) Welches Verstärkungsmaß ist notwendig, wenn ein Mindestpegel von 60 dBµV am Empfänger anliegen muss?\n\n3. Verstärker:\n   - Ausgangsspannung U_A = 6 V, Spannungsverstärkungsmaß v_U = 30 dB\n   - a) Berechnen Sie den Spannungsverstärkungsfaktor V_U.\n   - b) Berechnen Sie die anliegende Eingangsspannung U_E.",
+      "source_section_chars": 1827,
+      "source_text": "Schaltungsanalyse – Gesamtwiderstand R_ges bei Überbrückungsleitungen (R = 0 Ω):\n\n1. Gegebene Schaltung (Tafelfoto oben):\n- Drei Widerstände mit je 360 Ω (R_1 = 360 Ω, R_2 = 360 Ω, R_3 = 360 Ω) liegen nebeneinander in einem Strang.\n- Obere Brücke (R = 0 Ω): verbindet den Knoten links vor R_1 direkt mit dem Knoten zwischen R_2 und R_3.\n- Untere Brücke (R = 0 Ω): verbindet den Knoten zwischen R_1 und R_2 direkt mit dem Knoten rechts hinter R_3.\n- Gesucht: R_ges = ?\n\n2. Schrittweise Umzeichnung (Mitte und unten):\n- Da beide Brücken widerstandslos (R = 0 Ω) sind, liegen jeweils auf gleichem Potenzial:\n  - Eingangspotenzial (links): linker Anschluss von Widerstand 1, rechter Anschluss von Widerstand 2 und linker Anschluss von Widerstand 3.\n  - Ausgangspotenzial (rechts): rechter Anschluss von Widerstand 1, linker Anschluss von Widerstand 2 und rechter Anschluss von Widerstand 3.\n- Ersatzschaltbild (unten): Alle drei Widerstände (1, 2, 3 mit je 360 Ω) liegen elektrisch in einer reinen Parallelschaltung (R_ges = 360 Ω / 3 = 120 Ω).",
       "source_text_status": "ocr",
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=6",
       "subject": "ITT_IT_Technik",
@@ -51766,10 +52129,43 @@
     },
     {
       "page": 7,
-      "source_section_chars": 216,
-      "source_text": "> Grund: Exakte seiteninterne Dublette von Seite 6. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.",
-      "source_text_status": "text",
+      "source_section_chars": 1808,
+      "source_text": "Signaltechnik – 6 Aufgaben (IT => 1_30_Grundlagen_Elektro__Verstaerkung_Daempfung, Blatt 3, unausgefüllt)\n\n1. Multiple-Choice-Frage zur Leistungsverstärkung:\n   Welche Aussage über die Leistungsverstärkung ist richtig?\n   - Erhöht sich das Leistungsverstärkungsmaß um 3 dB dann versechsfacht / verdreifacht / verdoppelt / halbiert / drittelt / sechstelt sich der Leistungsverstärkungsfaktor.\n\n2. Empfangsantenne / Leitungsdämpfung:\n   An einer Empfangsantenne wurde ein Pegel von 46 dBµV gemessen. Die Verbindungsleitung zwischen Antenne und Empfänger hat eine Länge von 24 m. Die Dämpfung der Leitung beträgt 8,4 dB pro 100 m.\n   a) Welcher Spannungspegel ist am Empfänger vorhanden?\n   b) Welches Verstärkungsmaß ist notwendig, wenn ein Mindestpegel von 60 dBµV am Empfänger anliegen muss?\n\n3. Verstärker:\n   Ein Verstärker hat bei einer Ausgangsspannung von 6 V das Spannungsverstärkungsmaß 30 dB.\n   a) Berechnen Sie den Spannungsverstärkungsfaktor.\n   b) Berechnen Sie die anliegende Eingangsspannung.",
+      "source_text_status": "ocr",
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=7",
+      "subject": "ITT_IT_Technik",
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 8,
+      "source_section_chars": 215,
+      "source_text": "> Grund: Exakte seiteninterne Dublette von Seite 7. Die Originalseite bleibt lokal erhalten, wird hier aber weder eingebettet noch als Lernwissen indexiert.",
+      "source_text_status": "text",
+      "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=8",
       "subject": "ITT_IT_Technik",
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
@@ -61597,8 +61993,8 @@
     },
     {
       "page": 16,
-      "source_section_chars": 2243,
-      "source_text": "PUG 11.1 – Staatsziele und Staatsordnung – totalitäre Systeme\nMöchtest Du tauschen? – Jugend in der DDR –\nWie geht es jungen Leuten in totalitären Staaten?\n\n1. Was weißt Du über die DDR?\nDDR = Deutsche Demokratische Republik\nEntstanden 1949 aus der sowjetischen Besatzungszone.\nHerrschende Partei: SED\nHerrschende Ideologie: Kommunismus / Sozialismus\n- Einwohnerzahlen (Mio.): 1949: 18,8 | 1961: 17,1 | 1989: 16,4\n- Volksaufstand am 17. Juni 1953\n- Mauerbau am 13.8.1961\n- Aus dem „Arbeiterparadies“ sind ca. 3,8 Mio. geflüchtet. Dabei starben ca. min. 140 („Mauertote“).\n\nDie Deutsche Demokratische Republik verstand sich formal als sozialistische Volksdemokratie, in der die politische Macht jedoch de facto von der Sozialistischen Einheitspartei Deutschlands (SED) ausgeübt wurde. Andere Parteien existierten nur formal und waren in der Nationalen Front mit der SED zusammengeschlossen, wodurch ein pluralistisches System nur auf dem Papier bestand.\nGewaltenteilung gab es nicht; staatliche Organe wie Volkskammer, Ministerrat und Staatsrat waren eng mit der SED verbunden, sodass man von einer Parteidiktatur sprechen kann.\n\n2. Das kurze Leben des Michael Gartenschläger\na) Wie alt war Michael, als er Probleme mit dem DDR-Staat bekam? 17 J.\nb) Welches Hobby war der Grund dafür? Rock'n Roll\nc) Warum war der 14.8.1961 ein einschneidendes Datum in Michaels Leben? Einstellen des Betriebes vom Rock'n'Roll Club\nd) Was haben Michael und seine Freunde getan, um ihrem Ärger Luft zu machen und Veränderungen zu erreichen? Parolen verbreitet und Brandstiftung an einer Scheune\ne) Wie lautete das Gerichtsurteil dafür? (offen / nicht ausgefüllt)",
+      "source_section_chars": 2476,
+      "source_text": "PUG 11.1 – Staatsziele und Staatsordnung – totalitäre Systeme\n\nMöchtest Du tauschen? – Jugend in der DDR – Wie geht es jungen Leuten in totalitären Staaten?\n\n1. Was weißt Du über die DDR? (mit handschriftlichen Lösungen)\n- DDR = Deutsche Demokratische Republik\n- Entstanden 1949 aus der sowjetischen Besatzungszone.\n- Herrschende Partei: SED\n- Herrschende Ideologie: Kommunismus / Sozialismus\n- Einwohnerzahlen (Mio.): 1949: 18,8 | 1961: 17,1 | 1989: 16,4\n- Volksaufstand am: 17. Juni 1953\n- Mauerbau am: 13.8.1961\n- Aus dem „Arbeiterparadies“ sind ca. 3,8 Mio. geflüchtet. Dabei starben ca. min. 140 („Mauertote“).\n\nInfotext (Hervorhebungen markiert):\nDie Deutsche Demokratische Republik verstand sich formal als sozialistische Volksdemokratie, in der die [politische Macht] jedoch de facto von der Sozialistischen Einheitspartei Deutschlands ([SED]) ausgeübt wurde. Andere Parteien existierten nur formal und waren in der Nationalen Front mit der SED zusammengeschlossen, wodurch ein [pluralistisches System nur auf dem Papier] bestand.\n[Gewaltenteilung] gab es [nicht]; staatliche Organe wie Volkskammer, Ministerrat und Staatsrat waren eng mit der SED verbunden, sodass man von einer [Parteidiktatur] sprechen kann.\n\n2. Das kurze Leben des Michael Gartenschläger (mit handschriftlichen Lösungen)\na) Wie alt war Michael, als er Probleme mit dem DDR-Staat bekam? -> 17 J.\nb) Welches Hobby war der Grund dafür? -> Rock'n Roll -> „westliche“ Musik\nc) Warum war der 14.8.1961 ein einschneidendes Datum in Michaels Leben? -> Einreiseverbot nach Westberlin / sein Rock'n Roll Club wurde vom Kulturministerium verboten\nd) Was haben Michael und seine Freunde getan, um ihrem Ärger Luft zu machen und Veränderungen zu erreichen? -> Politische Parolen verbreitet und Brandstiftung an eine Scheune\ne) Wie lautete das Gerichtsurteil dafür? -> Lebenslanges Zuchthaus",
       "source_text_status": "ocr",
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=16",
       "subject": "PuG_Politik_und_Gesellschaft",
@@ -61663,10 +62059,43 @@
     },
     {
       "page": 18,
-      "source_section_chars": 1813,
+      "source_section_chars": 1814,
       "source_text": "PUG\n11.1\nStaatsziele und Staatsordnung – totalitäre\nSysteme\nKlasse:\nDatum:\n4. Peter Döbler (1971)\n• Wer? Peter Döbler, ein Leistungsschwimmer.\n• Wie? Er schwamm über 45 Kilometer durch die\nOstsee nach Schleswig-Holstein.\n• Ergebnis: Nach mehr als 20 Stunden erreichte er\nerschöpft die Bundesrepublik.\n5. Michael Gartenschläger (1976) – Rückkehr an die Grenze\n• Wer? Michael Gartenschläger, ehemaliger DDR-Häftling.\n• Was geschah? Nach seiner Freilassung in den Westen kehrte er heimlich\nan die Grenze zurück und baute zwei Selbstschussanlagen (SM-70) ab,\num ihre Existenz zu beweisen.\n• Ergebnis: Bei einem weiteren\nVersuch wurde er 1976 von einem Stasi-\nSpezialkommando erschossen.\n• Besonderheit: Er wollte nicht\nfliehen, sondern die Welt über die\nGrenzanlagen informieren.\nZwischen 1949 und 1989 versuchten viele Menschen, aus der DDR in die\nBundesrepublik Deutschland zu fliehen. Die Gründe waren unterschiedlich:\nfehlende Freiheit, politische Verfolgung, Reiseverbote oder der Wunsch nach\neinem selbstbestimmten Leben.\nDie Flucht war lebensgefährlich. Die Grenze war mit Zäunen, Minen,\nWachtürmen, Grenzsoldaten und später sogar Selbstschussanlagen gesichert.\nViele Menschen wurden bei Fluchtversuchen verletzt oder getötet.\nAufgaben:\n1. Warum waren viele Menschen bereit, bei einer Flucht aus der DDR ihr\nLeben zu riskieren?\n2. Welche Geschichte beeindruckt dich am meisten? Begründe!\n￼\n￼",
       "source_text_status": "text",
       "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=18",
+      "subject": "PuG_Politik_und_Gesellschaft",
+      "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
+      "current_modules": [
+
+      ],
+      "current_curated_topics": [
+
+      ],
+      "audit": {
+        "visual_checked": false,
+        "primary_topic": null,
+        "secondary_topics": [
+
+        ],
+        "content_type": null,
+        "source_text_match": null,
+        "mapping_status": null,
+        "recommended_modules": [
+
+        ],
+        "issues": [
+
+        ],
+        "confidence": null
+      }
+    },
+    {
+      "page": 19,
+      "source_section_chars": 826,
+      "source_text": "Handschriftliche Lösung zu Aufgabe 1 (Gründe für die Flucht aus der DDR unter Lebensgefahr, Bezug S. 18):\n1.\n- Hoffnung auf ein besseres Leben\n- Überwachung durch die Stasi\n- keine Meinungsfreiheit\n- keine freien Wahlen\n- durfte nicht frei Reisen\n- keine freie Berufswahl",
+      "source_text_status": "ocr",
+      "id": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=19",
       "subject": "PuG_Politik_und_Gesellschaft",
       "source_note": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
       "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",

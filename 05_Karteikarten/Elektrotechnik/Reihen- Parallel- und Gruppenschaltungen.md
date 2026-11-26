@@ -1,38 +1,39 @@
 ---
 typ: karteikarten_deck
-thema: "Reihen-, Parallel- und Gruppenschaltungen"
+thema: Reihen-, Parallel- und Gruppenschaltungen
 kategorie: Elektrotechnik
-pruefung: "BS"
-thema_quelle: "03_Themen/Visuell_geprueft/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen.md"
-stand_karten: 2026-11-24
-stand_quelle: 2026-11-24
-quellseiten_anzahl: 14
-quellseiten_hash: 302f025fb1fc
+pruefung: BS
+thema_quelle: 03_Themen/Visuell_geprueft/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen.md
+stand_karten: '2026-11-26'
+stand_quelle: '2026-11-26'
+quellseiten_anzahl: 15
+quellseiten_hash: 64460427c497
 quellseiten:
-  - "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=5"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=64"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=65"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=66"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=67"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=68"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=69"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=70"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=71"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=72"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=73"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=74"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=75"
-  - "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=76"
+- 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=5
+- 02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung#page=6
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=64
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=65
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=66
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=67
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=68
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=69
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=70
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=71
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=72
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=73
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=74
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=75
+- 02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=76
 rag_include: false
 canonical_evidence: false
 tags:
-  - karteikarten
-  - flashcards/elektrotechnik/reihen-parallel-und-gruppenschaltungen
+- karteikarten
+- flashcards/elektrotechnik/reihen-parallel-und-gruppenschaltungen
 ---
 # 🗂️ Karteikarten: Reihen-, Parallel- und Gruppenschaltungen
 
 > [!tip] Quellenbasis
-> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen|Reihen-, Parallel- und Gruppenschaltungen]] (**14 visuell geprüfte Seiten**).
+> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen|Reihen-, Parallel- und Gruppenschaltungen]] (**15 visuell geprüfte Seiten**).
 
 ---
 
@@ -72,7 +73,7 @@ Man fasst schrittweise von **innen nach außen** einzelne reine Teil-Reihenschal
 **Wie berechnet man bei einem ohmschen Spannungsteiler ($R_1 = 10\text{ k}\Omega$, $R_2 = 10\text{ k}\Omega$, $U_E = 10\text{ V}$) den Gesamtstrom $I_G$ und die Ausgangsspannung $U_A = U_2$?**
 ?
 Über den Reihen-Gesamtwiderstand $R_G = R_1 + R_2 = 20\text{ k}\Omega$ folgt $I_G = \frac{U_E}{R_G} = \frac{10\text{ V}}{20\text{ k}\Omega} = 0{,}5\text{ mA}$. Damit fällt an $R_2$ die Teilspannung $U_A = U_2 = I_2 \cdot R_2 = 0{,}5\text{ mA} \cdot 10\text{ k}\Omega = 5\text{ V}$ ab.
-*Quelle: ITT IT-Technik (2. LJ) · `1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf` S. 5 (von 7) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · `1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf` S. 5 (von 8) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -81,3 +82,11 @@ Man fasst schrittweise von **innen nach außen** einzelne reine Teil-Reihenschal
 ?
 Es wird vergessen, am Schluss erneut den **Kehrwert** zu bilden! Die Summe der Kehrwerte ergibt den Gesamtleitwert $G_{\text{ges}}$ (in $\text{S}$), erst $R_{\text{ges}} = \frac{1}{G_{\text{ges}}}$ liefert den gesuchten Ersatzwiderstand in $\Omega$.
 *Quelle: ITT IT-Technik (1. LJ) · `01_AB_Ladung Q.pdf` S. 69–70 (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: reihen-parallel-und-gruppenschaltungen-07 | typ: pruefungsfalle | pruefung: BS -->
+**Drei Widerstände ($R_1 = R_2 = R_3 = 360\,\Omega$) liegen hintereinander; eine Brücke ($R = 0\,\Omega$) verbindet den Eingang vor $R_1$ mit dem Knoten zwischen $R_2$ und $R_3$, eine zweite Brücke den Knoten zwischen $R_1$ und $R_2$ mit dem Ausgang hinter $R_3$. Welche Schaltungsart entsteht und wie groß ist $R_{\text{ges}}$?**
+?
+Es entsteht kein Kurzschluss, sondern eine **reine Parallelschaltung aller drei Widerstände**: Jeder Widerstand liegt mit einer Seite am Eingangspotenzial und mit der anderen am Ausgangspotenzial. Damit gilt $R_{\text{ges}} = \frac{360\,\Omega}{3} = 120\,\Omega$.
+*Quelle: ITT IT-Technik (2. LJ) · `1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf` S. 6 (von 8) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung|Quellnotiz]], OCR/Original prüfen*

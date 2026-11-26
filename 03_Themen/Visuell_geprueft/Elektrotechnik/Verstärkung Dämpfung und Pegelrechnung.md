@@ -2,8 +2,8 @@
 id: vault.thema.visuell.verstarkung.dampfung.und.pegelrechnung
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-23
-reviewed_on: 2026-11-23
+stand: 2026-11-26
+reviewed_on: 2026-11-26
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
@@ -29,7 +29,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung\|IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung]] | [1–6](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf#page=1>) | aufgabe, loesung, theorie | 2 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung\|IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung]] | [1–5, 7](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf#page=1>) | aufgabe, loesung, theorie | 3 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

@@ -1,6 +1,10 @@
 # RAG_Berufsschule
 
-Ein Wissens- und Lern-RAG für die Fachinformatiker-Ausbildung (AE), das Obsidian über automatisierte Ruby-/Swift-Tools über Python Scripte mit GoodNotes verbindet. Neue PDF-Mitschriften werden automatisch auf Duplikate geprüft, für KI-Assistenten datenschutzsicher (fail-closed) aufbereitet und automatisch in Themenbereiche sowie Karteikarten eingeordnet und logisch aufbereitet. – ergänzt durch einen maßgeschneiderten KI-Lerncoach-Skill (`ap-lerncoach`) mit wissenschaftlichen Lernmethoden zur gezielten IHK-Prüfungsvorbereitung (**AP1** und **AP2**).
+Erstelle am 20.06.26
+
+Ein Wissens- und Lern-RAG für die Fachinformatiker-Ausbildung (AE) IHK Bayern, das Obsidian über automatisierte über Python Scripte mit GoodNotes verbindet. Neue PDF-Mitschriften werden automatisch auf Duplikate geprüft, für KI-Assistenten aufbereitet und automatisch in Themenbereiche sowie Karteikarten eingeordnet und logisch aufbereitet. – ergänzt durch einen maßgeschneiderten KI-Lerncoach-Skill (`ap-lerncoach`) mit wissenschaftlichen Lernmethoden zur gezielten IHK-Prüfungsvorbereitung (**AP1** und **AP2**) sowie zum Lernen für Tests.
+
+Nutzbar ist das RAG über alle in der IDE integrierten KI Agenten sowie alle die die Zugriff auf Lokale Datein auf deinem PC haben. Für die light Version Reicht es den aktuellen stand in eine ZIP zu packen und ihm einen Skill oder einem Agenten anzuhängen (wichtig dabei ist das dieser Skill mit enthalten ist KI-Lerncoach-Skill (`ap-lerncoach`)). Falls diese zu groß ist können auch nur die Themenbereche und Karteikarten gezipt werden, da diese in für KI gut lesbaren .md Format geschrieben sind und für die reine Funktionalität absolut ausreichen.
 
 > **Stand (Audit 24.11.2026):** **49** kanonische Quellnotizen · **1.389** visuell geprüfte PDF-Seiten (**1.251** Belegseiten) · **139** kuratierte Themen · **139** Karteikarten-Decks (**860** Karten) · **191** freigegebene RAG-/Copilot-Dateien
 
@@ -18,8 +22,8 @@ Ein Wissens- und Lern-RAG für die Fachinformatiker-Ausbildung (AE), das Obsidia
   Ein didaktischer Lern-Skill (Sokratisches Scaffolding, Active Recall, IHK-Operatoren, AP1/AP2-Priorisierung) mit dem lokalen Suchwerkzeug `vault_lookup.rb` (fail-closed Suche & Seitenextraktion in `< 150 ms` ohne Token-Ballast).
 - **Karteikarten & Multi-Plattform-Export**  
   Alle 139 Themen sind als Karteikarten-Decks (`05_Karteikarten/`, 860 Karten) für **Obsidian Spaced Repetition** gepflegt und lassen sich per `sync_karteikarten.rb` für **Anki** und **NotebookLM** exportieren. Zusätzlich erzeugt `export_gemini_bundle.rb` 7 kompakte, datenschutzsichere Markdown-Pakete für **Gemini Skills / Google Drive**.
-- **IHK-Prüfungsvorbereitung**  
-  Strukturierte Lernplanung und Prüfungsorientierung über IHK-AP1-Prüfungskatalog & Checkliste, AP1-Lernmatrix, AP2-Ausbauplan (`04_Pruefung/`) und einen Workflow zur Altklausur-Analyse (`06_Altklausuren/`).
+- **IHK-Prüfungsvorbereitung & Hybrid-Aufgabengenerator**  
+  Strukturierte Lernplanung über IHK-AP1-Prüfungskatalog & Checkliste, AP1-Lernmatrix, AP2-Ausbauplan (`04_Pruefung/`) sowie eine automatisierte Import- und Analyse-Pipeline für **Original-IHK-Altklausuren + offizielle Lösungshinweise** (`06_Altklausuren/`, `import_altklausur.rb`, Skill `altklausur-import`), aus denen `ap-lerncoach` interaktive 1-nach-1-Aufgaben (Skript-Stil + IHK-Prüfungsstil) generiert.
 
 ---
 
@@ -42,7 +46,7 @@ Ein Wissens- und Lern-RAG für die Fachinformatiker-Ausbildung (AE), das Obsidia
 ├── 06_Altklausuren/                   # Struktur & Workflow für AP1/AP2-Altklausuren
 ├── 98_Archiv_nicht_lernen/            # Duplikate & private Dokumente (Privatordner git-ignored)
 ├── 99_Originale/                      # Originale PDF-Mitschriften nach Fächern
-├── .agents/skills/                    # Agent-Skills (ap-lerncoach, goodnotes-import)
+├── .agents/skills/                    # Agent-Skills (ap-lerncoach, goodnotes-import, altklausur-import)
 └── manifest.json                      # Aktueller Gesamtaudit- und Projektstatus
 ```
 ---
@@ -56,3 +60,4 @@ Die `.gitignore` schließt automatisch alle sensiblen und temporären Bereiche v
 - Temporäre Import-/Review-Artefakte (`.import_review/`, `.DS_Store`)
 
 Nach jedem PDF-Import in Obsidian einmal **`Copilot: Force reindex vault`** (`⌘P`) ausführen, damit neue Quellnotizen im lokalen RAG-Index verfügbar sind.
+

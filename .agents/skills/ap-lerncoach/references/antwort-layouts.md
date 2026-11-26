@@ -15,10 +15,11 @@ Diese Vorlagen kombinieren **Advance Organizer (BLUF)**, **Mayer's Multimedia-Pr
 
 ## Layout 1: Farbcodierte Lernkarte (Modus „Verstehen & Erklären“)
 
-Standard-Layout für Erklärungen: **fette Kurz-Antwort direkt ganz oben (ohne `[!info]`)**, farbiges Mini-Mermaid (~150 Tokens), Eselsbrücke, logische `Ursache → Wirkung`-Schritte, Kurz-Vergleich, Prüfungs-Regel und 1 kurzer Check.
+Standard-Layout für Erklärungen: **direkt unter dem Titel die klickbaren Original-PDF-Seitenlinks (ohne Begleittext!)**, danach **fette Kurz-Antwort (ohne `[!info]`)**, farbiges Mini-Mermaid (~150 Tokens), Eselsbrücke, logische `Ursache → Wirkung`-Schritte, Kurz-Vergleich, Prüfungs-Regel, 1 kurzer Check und **unten der vollständige Quellenblock mit Text**.
 
 ````markdown
 # <Thema>
+[<Dateiname.pdf> · S. <X–Y>](file:///.../99_Originale/.../<Dateiname.pdf>#page=<X>)
 
 **<1 Satz: Was macht der Oberbegriff / das Grundprinzip?>**
 
@@ -74,6 +75,7 @@ Verwenden bei neuen Verfahren (Subnetting, SQL, Java/Python, Bezugskalkulation, 
 
 ```markdown
 ## Musterfall: <Verfahren>
+[<Dateiname.pdf> · S. <X–Y>](file:///.../99_Originale/.../<Dateiname.pdf>#page=<X>)
 
 **<1–2 fette Sätze: Welches Problem löst das Verfahren und nach welcher Grundregel?>**
 
@@ -106,6 +108,7 @@ Gegeben: `<neue Werte>` · Schritt 1 *(vorgegeben)*: `<Startschritt>`
 
 ```markdown
 ### 🟡 Frage <N> · <Thema> *(Niveau: <Erinnern | Verstehen | Anwenden | Begründen>)*
+[<Dateiname.pdf> · S. <X>](file:///.../99_Originale/.../<Dateiname.pdf>#page=<X>)
 
 **<Präzise, eindeutige Frage oder Mini-Fallbeispiel in 1–3 Zeilen>**
 
@@ -120,6 +123,7 @@ Nach **jeder** Antwort des Nutzers verwenden — präzise, farbcodiert, ohne Flo
 
 ```markdown
 ### Auswertung
+[<Dateiname.pdf> · S. <X>](file:///.../99_Originale/.../<Dateiname.pdf>#page=<X>)
 
 - 🟢 **Richtig (Feed Back):** <Konkret benennen, was fachlich/methodisch stimmt>
 - 🔴 **Lücke / Denkfehler:** <Bei sicher falschem Urteil klar kontrastieren: *Du dachtest X → tatsächlich gilt Y, weil …*>
@@ -138,6 +142,7 @@ Nach **jeder** Antwort des Nutzers verwenden — präzise, farbcodiert, ohne Flo
 
 ```markdown
 ## IHK-Übungsaufgabe · <AP1 / AP2 – Bereich>
+[<Dateiname.pdf> · S. <X>](file:///.../99_Originale/.../<Dateiname.pdf>#page=<X>)
 
 **Handlungssituation:** 2–3 Sätze realistischer Betriebskontext.
 
@@ -150,7 +155,9 @@ Nach **jeder** Antwort des Nutzers verwenden — präzise, farbcodiert, ohne Flo
 
 ---
 
-## Layout 6: Session-Abschluss, FSRS-Speicherung & Fehlerjournal
+## Layout 6: Karteikarten-Abschluss mit FSRS-Speicherung *(nur Karteikarten + nur wenn aktiviert!)*
+
+> **Hinweis:** Dieses Layout wird **ausschließlich im Karteikarten-Modus** verwendet und **nur dann**, wenn der Nutzer das Speichern des Lernstands explizit aktiviert hat. In allen anderen Modi (und bei deaktiviertem Speichern) genügt ein kurzes 2–3-Zeilen-Fazit im Chat ohne `learn_tracker.rb`.
 
 ```markdown
 ## Session-Abschluss: <Thema>
@@ -177,6 +184,7 @@ Verwenden, sobald der Nutzer **eine Anschlussfrage zu einem bereits laufenden Th
 
 ```markdown
 ## <Präzise Teilfrage / Begriff>
+[<Dateiname.pdf> · S. <X>](file:///.../99_Originale/.../<Dateiname.pdf>#page=<X>)
 
 **<1–2 fette Sätze: Direkte Antwort auf die Rückfrage.>**
 
@@ -201,6 +209,7 @@ Verwenden im **Karteikarten-Modus (Modus 7)**. **Immer genau 1 Karte pro Zug**, 
 
 ```markdown
 ## 🗂️ Karte <N>/<Gesamt> · <Thema> *(Typ: <Definition | Abgrenzung | Anwendung | Prüfungsfalle>)*
+[<Dateiname.pdf> · S. <X>](file:///.../99_Originale/.../<Dateiname.pdf>#page=<X>)
 
 **<Klare, atomare Frage von der Vorderseite>**
 
@@ -211,6 +220,7 @@ Verwenden im **Karteikarten-Modus (Modus 7)**. **Immer genau 1 Karte pro Zug**, 
 
 ```markdown
 ## ✅ Rückseite · Karte <N>/<Gesamt>
+[<Dateiname.pdf> · S. <X>](file:///.../99_Originale/.../<Dateiname.pdf>#page=<X>)
 
 - 🟢 **Deine Antwort:** <Kurzes, präzises Feedback: was stimmt / was fehlte>
 - 🔵 **Musterantwort:** <Exakte Rückseite der Karteikarte>
@@ -260,15 +270,69 @@ flowchart TD
 
 ---
 
+## Layout 10: Interaktives Hybrid-Aufgaben-Training (Modus 8 — NUR auf ausdrückliche Aufgaben-Anfrage!)
+
+**Wichtig:** Nur verwenden, wenn der Nutzer **ausdrücklich nach Aufgaben / Übungen / Training fragt** (z. B. *„Mach mir Aufgaben zu AE Python“*, *„Aufgaben dazu“*). Fragt er nur nach dem Thema selbst (*„AE Python“*, *„Erklär mir …“*), immer zuerst **Layout 1 (Erklären)** nutzen und keine Aufgaben ungefragt aufdrängen!
+Beim Start von Layout 10 zuerst zwingend `vault_lookup.rb tasks "<anfrage>"` ausführen. **Immer genau 1 Aufgabe pro Zug stellen — niemals die Lösung vorab anhängen!**
+
+**Schritt A – Aufgabe stellen (Stufe 1–3 = Skript-Stil · Stufe 4 = Hybrid-IHK):**
+
+````markdown
+# 🎯 Training: <Thema> · Aufgabe <N>/4
+[<Dateiname.pdf> · S. <X>](file:///.../99_Originale/.../<Dateiname.pdf>#page=<X>)
+
+`[1 Skript-Warmup]` → `[2 Skript-Praxis]` → `[3 Trace / Fehlersuche]` → `[4 Hybrid-IHK-Aufgabe]` *(aktuell: **Stufe <N>**)*
+
+**Kontext / Gegeben:** <1–3 präzise Sätze oder gegebener Code-/Datenblock passend zum exakten Skript-Stand (bzw. IHK-Handlungssituation in Stufe 4).>
+
+## 🟡 Deine Aufgabe *(Stufe <N>: <Aufgabentyp> · <X Punkte | Operator: ...>)*
+
+**<Klare, eindeutige Aufgabenstellung ohne Mehrdeutigkeit.>**
+
+> [!WARNING]
+> **Beachte (Skript- / IHK-Maßstab):** <1–2 Zeilen zu den geltenden Regeln aus dem Skript bzw. Operator, z. B. bei AE Python: „Strikte **EVA-Trennung** einhalten (nicht in `print()` rechnen!) + Variablenpräfixe (`i_`, `f_`, `s_`) nutzen“ — bzw. in Stufe 4: „Lösbar in **Skript-Python** oder **IHK-Pseudocode**; Rechenweg/Zwischenschritte angeben“>
+
+*Schreib deine Lösung (Code / Rechenweg / Antwort) direkt in den Chat — oder tippe **„Hinweis“** / **„Lösung“** / **„Stufe 4 (IHK)“**.*
+
+---
+**Aufgabenbasis:** **<Fach (Lehrjahr)>** · [<Dateiname.pdf>](file:///.../<Dateiname.pdf>#page=<X>) · **S. <X> (von <N> Seiten)** *(Vorlage: <Übung/Kapitel im Skript bzw. Original-Altklausur AP1/AP2 Jahr Aufg. Y>)*
+````
+
+**Schritt B – Auswertung nach Nutzerversuch + direkt nächste Aufgabe stellen:**
+
+````markdown
+## ✅ Auswertung · Aufgabe <N>/4 *(<Erreichte Punkte> / <Max Punkte> P.)*
+[<Dateiname.pdf> · S. <X>](file:///.../99_Originale/.../<Dateiname.pdf>#page=<X>)
+
+- 🟢 **Stark gelöst (Feed Back):** <Was fachlich, syntaktisch und nach Skript-/IHK-Regeln exakt stimmt>
+- 🔴 **Korrektur / Falle:** <Konkreter Fehler oder verletzte Unterrichts-/IHK-Regel, z. B. „In Zeile 3 in `print()` gerechnet → verletzt EVA-Prinzip aus S. 17“ oder „`int()` schneidet Nachkommastellen ab statt zu runden“>
+- 🔵 **Musterlösung (Skript- & Prüfungsstandard):**
+
+```<python|sql|text>
+<Saubere, kompakte Musterlösung exakt nach Skript-Konventionen (bzw. offizieller IHK-Erwartungshorizont mit Teilpunkten)>
+```
+
+**Quellenbeleg:** **<Fach (Lehrjahr)>** · [<Dateiname.pdf>](file:///.../<Dateiname.pdf>#page=<X>) · **S. <X> (von <N> Seiten)** *(ggf. + Original-IHK-Lösung [<Loesung.pdf>](file:///...#page=<Y>))*
+
+---
+
+## 🎯 Weiter geht's: Aufgabe <N+1>/4 *(Stufe <N+1>: <Typ>)*
+
+**<Direkt die nächste gestufte Aufgabe ohne Spoiler stellen — oder nach Aufgabe 4/4 kurzes Session-Fazit anbieten!>**
+````
+
+---
+
 ## Regeln für visuell perfekte & token-sparende Antworten (Checkliste)
 
 1. **Größere Schriftwirkung & klare Hierarchie:** Immer `#` (Haupttitel) und `##` (Sektionen) statt kleiner `###`/`####`-Überschriften verwenden; wichtige Begriffe in größeren Texten konsequent **fett** hervorheben.
-2. **Definitionen markieren & fett setzen:** Jede Definition mit `📌 **Definition (<Begriff>):** **<Text>**` sichtbar hervorheben.
-3. **Rückfragen kompakt halten:** Bei Nachfragen zu einem laufenden Thema **Layout 7** nutzen — niemals das gesamte Voll-Layout neu aufbauen.
-4. **Kurz-Antwort ganz oben & fett:** Nie mit `[!info]` oder `[!abstract]` beginnen — direkt 1–2 dicke, klare Kernsätze ganz oben.
-5. **Kein Text-Ballast:** Max. 2–3 Zeilen pro Absatz/Punkt; Tabellenzellen max. 4–5 Wörter; Quellenblock kompakt in 1–2 Zeilen.
-6. **Farbiges Mini-Mermaid statt HTML-Widget:** Max. 6 Knoten, klare `style`-Farben (`#2563eb` blau, `#16a34a` grün, `#dc2626` rot, `#d97706` gelb, jeweils `color:#fff`), Labels mit Sonderzeichen in `"..."`, keine HTML-Tags (`<br>`). Interaktive HTML-Widgets **nur auf ausdrücklichen Wunsch**.
-7. **Saubere Alerts:** Nur `> [!TIP]` (grün) und `> [!WARNING]` (gelb/orange) nutzen — keine rohen `[!info]`/`[!abstract]`/`[!question]`-Tags.
-8. **Logik vor Auswendiglernen:** Immer `Ursache → Wirkung` erklären, plus **Eselsbrücke** und **Wenn-Dann-Regel**.
-9. **Keine Spoiler bei Checks/Quizzen:** Lösung niemals unter derselben Nachricht anhängen.
-10. **Prüfungsnotation vor Optik:** Diagramme zu Themen mit fester Darstellungsform immer nach **Layout 9** (exakte Norm-/Schulsymbole, Symbol-Legende, Quellenhinweis) – niemals ein frei gestaltetes Flussdiagramm mit falschen Formen.
+2. **Kompakter Original-PDF-Link oben (ohne Text!) + Quellentext unten:** Direkt unter dem Haupttitel **immer** pro PDF nur **einen** kurzen klickbaren Link mit kompaktem Seitenbereich (`[<Dateiname.pdf> · S. <X–Y>](file:///.../99_Originale/.../<Dateiname.pdf>#page=<X>)`, keine einzelnen `[S. 7] · [S. 8]`-Links) setzen — **ohne** erklärenden Text; der vollständige Quellenblock (Fach, Gesamtseitenzahl, OCR-Status, Ergänzungen) bleibt unten am Ende.
+3. **Definitionen markieren & fett setzen:** Jede Definition mit `📌 **Definition (<Begriff>):** **<Text>**` sichtbar hervorheben.
+4. **Rückfragen kompakt halten:** Bei Nachfragen zu einem laufenden Thema **Layout 7** nutzen — niemals das gesamte Voll-Layout neu aufbauen.
+5. **Kurz-Antwort ganz oben & fett:** Nie mit `[!info]` oder `[!abstract]` beginnen — direkt unter der oberen PDF-Linkzeile 1–2 dicke, klare Kernsätze setzen.
+6. **Kein Text-Ballast:** Max. 2–3 Zeilen pro Absatz/Punkt; Tabellenzellen max. 4–5 Wörter; Quellenblock unten kompakt in 1–2 Zeilen.
+7. **Farbiges Mini-Mermaid statt HTML-Widget:** Max. 6 Knoten, klare `style`-Farben (`#2563eb` blau, `#16a34a` grün, `#dc2626` rot, `#d97706` gelb, jeweils `color:#fff`), Labels mit Sonderzeichen in `"..."`, keine HTML-Tags (`<br>`). Interaktive HTML-Widgets **nur auf ausdrücklichen Wunsch**.
+8. **Saubere Alerts:** Nur `> [!TIP]` (grün) und `> [!WARNING]` (gelb/orange) nutzen — keine rohen `[!info]`/`[!abstract]`/`[!question]`-Tags.
+9. **Logik vor Auswendiglernen:** Immer `Ursache → Wirkung` erklären, plus **Eselsbrücke** und **Wenn-Dann-Regel**.
+10. **Keine Spoiler bei Checks/Quizzen:** Lösung niemals unter derselben Nachricht anhängen.
+11. **Prüfungsnotation vor Optik:** Diagramme zu Themen mit fester Darstellungsform immer nach **Layout 9** (exakte Norm-/Schulsymbole, Symbol-Legende, Quellenhinweis) – niemals ein frei gestaltetes Flussdiagramm mit falschen Formen.

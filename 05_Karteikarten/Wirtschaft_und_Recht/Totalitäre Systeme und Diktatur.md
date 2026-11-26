@@ -1,29 +1,31 @@
 ---
 typ: karteikarten_deck
-thema: "Totalitäre Systeme und Diktatur"
+thema: Totalitäre Systeme und Diktatur
 kategorie: Wirtschaft_und_Recht
-pruefung: "BS"
-thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur.md"
-stand_karten: 2026-11-24
-stand_quelle: 2026-11-24
-quellseiten_anzahl: 5
-quellseiten_hash: 9f13f4537afa
+pruefung: BS
+thema_quelle: 03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Totalitäre Systeme und
+  Diktatur.md
+stand_karten: '2026-11-26'
+stand_quelle: '2026-11-26'
+quellseiten_anzahl: 6
+quellseiten_hash: 1858228a29e0
 quellseiten:
-  - "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=14"
-  - "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=15"
-  - "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=16"
-  - "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=17"
-  - "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=18"
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=14
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=15
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=16
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=17
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=18
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift#page=19
 rag_include: false
 canonical_evidence: false
 tags:
-  - karteikarten
-  - flashcards/wirtschaft-und-recht/totalitaere-systeme-und-diktatur
+- karteikarten
+- flashcards/wirtschaft-und-recht/totalitaere-systeme-und-diktatur
 ---
 # 🗂️ Karteikarten: Totalitäre Systeme und Diktatur
 
 > [!tip] Quellenbasis
-> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur|Totalitäre Systeme und Diktatur]] (**5 visuell geprüfte Seiten**).
+> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur|Totalitäre Systeme und Diktatur]] (**6 visuell geprüfte Seiten**).
 
 ---
 
@@ -65,3 +67,16 @@ Die politische Macht lag **de facto allein bei der SED** (Ideologie: Kommunismus
 ?
 Die Grenze war mit **Zäunen, Minen, Wachtürmen, Grenzsoldaten** und **Selbstschussanlagen (SM-70)** gesichert. Beispiele: **Peter Fechter (1962)** verblutete angeschossen im Todesstreifen (weltweite Empörung); **Michael Gartenschläger (1976)** baute nach seiner Freilassung als Beweis zwei SM-70 ab und wurde vom Stasi-Spezialkommando erschossen; geglückte Fluchten waren u. a. die **Ballonflucht** (1979, Familien Strelzyk und Wetzel), **Wolfgang Engels** (1963, NVA-Schützenpanzer) und **Peter Döbler** (1971, über 45 km Ostsee).
 *Quelle: PuG Politik und Gesellschaft (2. LJ) · `PUG_Mitschrift.pdf` S. 17–18 (von 18) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]]*
+
+---
+
+<!-- card-id: totalitaere-systeme-und-diktatur-06 | typ: anwendung | pruefung: BS -->
+**Welche sechs konkreten Gründe im Alltag der DDR bewegten viele Menschen dazu, bei einer Flucht ihr Leben zu riskieren?**
+?
+1. Hoffnung auf ein besseres Leben
+2. Überwachung durch die Stasi
+3. Keine Meinungsfreiheit
+4. Keine freien Wahlen
+5. Keine Reisefreiheit (durfte nicht frei reisen)
+6. Keine freie Berufswahl
+*Quelle: PuG Politik und Gesellschaft (2. LJ) · `PUG_Mitschrift.pdf` S. 18–19 (von 19), OCR/Original prüfen · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift|Quellnotiz]]*

@@ -1,35 +1,40 @@
 ---
 typ: karteikarten_deck
-thema: "Reading Comprehension and Case Studies"
+thema: Reading Comprehension and Case Studies
 kategorie: Deutsch_Englisch_Kommunikation
-pruefung: "AP1"
-thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Reading Comprehension and Case Studies.md"
-stand_karten: 2026-11-24
-stand_quelle: 2026-11-24
-quellseiten_anzahl: 11
-quellseiten_hash: 824dc30718f7
+pruefung: AP1
+thema_quelle: 03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Reading Comprehension
+  and Case Studies.md
+stand_karten: '2026-11-26'
+stand_quelle: '2026-11-26'
+quellseiten_anzahl: 15
+quellseiten_hash: 88d1508cf74b
 quellseiten:
-  - "02_Faecher/Englisch/Quellen/Englisch#page=45"
-  - "02_Faecher/Englisch/Quellen/Englisch#page=46"
-  - "02_Faecher/Englisch/Quellen/Englisch#page=47"
-  - "02_Faecher/Englisch/Quellen/Englisch#page=48"
-  - "02_Faecher/Englisch/Quellen/Englisch#page=49"
-  - "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=10"
-  - "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=11"
-  - "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=12"
-  - "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=7"
-  - "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=8"
-  - "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=9"
+- 02_Faecher/Englisch/Quellen/Englisch#page=45
+- 02_Faecher/Englisch/Quellen/Englisch#page=46
+- 02_Faecher/Englisch/Quellen/Englisch#page=47
+- 02_Faecher/Englisch/Quellen/Englisch#page=48
+- 02_Faecher/Englisch/Quellen/Englisch#page=49
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=10
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=11
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=12
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=15
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=16
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=18
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=19
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=7
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=8
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=9
 rag_include: false
 canonical_evidence: false
 tags:
-  - karteikarten
-  - flashcards/deutsch-englisch-kommunikation/reading-comprehension-and-case-studies
+- karteikarten
+- flashcards/deutsch-englisch-kommunikation/reading-comprehension-and-case-studies
 ---
 # 🗂️ Karteikarten: Reading Comprehension and Case Studies
 
 > [!tip] Quellenbasis
-> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Reading Comprehension and Case Studies|Reading Comprehension and Case Studies]] (**11 visuell geprüfte Seiten**).
+> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Reading Comprehension and Case Studies|Reading Comprehension and Case Studies]] (**15 visuell geprüfte Seiten**).
 
 ---
 
@@ -81,3 +86,11 @@ Beim Design setzen Hersteller auf vielfältige Materialien/Rahmenformen oder Koo
 - *temples* → Brillenbügel; *hands-free help* → freihändige Hilfe
 - *AR overlays* → Augmented-Reality-Einblendungen
 *Quelle: Englisch (1. LJ) · `Englisch.pdf` S. 46–48 (von 49) · [[02_Faecher/Englisch/Quellen/Englisch|Quellnotiz]]*
+
+---
+
+<!-- card-id: reading-comprehension-and-case-studies-07 | typ: anwendung | pruefung: AP1 -->
+**Welche Kernaussagen enthält der englische Fachtextabschnitt zu *Botnets* und wie überträgt man die Schlüsselbegriffe ins Deutsche?**
+?
+Malware kann einen PC ohne sichtbare Symptome (*no obvious symptoms*) zusammen mit vielen weiteren Rechnern zu einem **Botnetz** (*botnet*) zusammenschließen. Cyberkriminelle steuern es für **Spam-Versand** (*spam delivery*) und **DDoS-Angriffe** (*launching DDoS-attacks*), um nicht direkt zurückverfolgt zu werden (*tracked back to them*).
+*Quelle: Englisch (2. LJ) · `01_Conditionals.pdf` S. 16, 19–20 (von 20) · [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals|Quellnotiz]]*

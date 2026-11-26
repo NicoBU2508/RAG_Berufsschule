@@ -2,7 +2,7 @@
 id: vault.ki.quellenmanifest
 typ: ki_quellenmanifest
 status: generiert
-stand: 2026-11-24
+stand: 2026-11-26
 ki_prioritaet: 1
 tags:
   - ki_quelle
@@ -19,23 +19,23 @@ Dieses Manifest klassifiziert jede Projektdatei nach ihrer Rolle für GPT-, RAG-
 
 ## Abdeckung
 
-- Dateien insgesamt: **907**
-- Stand: **2026-11-24**
+- Dateien insgesamt: **921**
+- Stand: **2026-11-26**
 - Generator: `ruby 01_Index/Tools/build_ki_manifest.rb`
 
 | KI-Nutzung | Dateien |
 |---|---:|
-| `excluded` | 530 |
-| `navigation` | 109 |
-| `operational` | 25 |
-| `primary` | 190 |
+| `excluded` | 531 |
+| `navigation` | 117 |
+| `operational` | 29 |
+| `primary` | 191 |
 | `verify_only` | 53 |
 
 | Rolle | Dateien |
 |---|---:|
-| `agent_customization` | 8 |
+| `agent_customization` | 11 |
 | `copilot_prompt` | 17 |
-| `curated_topic` | 139 |
+| `curated_topic` | 140 |
 | `duplicate_pdf` | 3 |
 | `entrypoint` | 2 |
 | `exam_archive` | 1 |
@@ -44,16 +44,16 @@ Dieses Manifest klassifiziert jede Projektdatei nach ihrer Rolle für GPT-, RAG-
 | `generated_learning_index` | 9 |
 | `generated_learning_module` | 129 |
 | `generated_vault_index` | 1 |
-| `import_inbox` | 1 |
+| `import_inbox` | 2 |
 | `learner_state` | 1 |
 | `legacy_topic` | 30 |
-| `maintenance_tool` | 17 |
+| `maintenance_tool` | 18 |
 | `navigation_index` | 10 |
 | `obsidian_configuration` | 16 |
 | `original_pdf` | 53 |
 | `private_or_archive` | 5 |
 | `project_metadata` | 3 |
-| `quality_or_navigation` | 78 |
+| `quality_or_navigation` | 86 |
 | `source_note` | 49 |
 | `subject_index` | 18 |
 | `template` | 3 |

@@ -808,6 +808,8 @@ class OutputWriter
       {
         "id" => decision.page.fetch("id"),
         "status" => decision.status,
+        "content_type" => decision.page.dig("audit", "content_type"),
+        "primary_topic" => (decision.excluded? ? nil : decision.page.dig("audit", "primary_topic")),
         "canonical_topics" => decision.topics,
         "source_text_status" => decision.effective_source_text_status,
         "quote_safe" => decision.quote_safe?,

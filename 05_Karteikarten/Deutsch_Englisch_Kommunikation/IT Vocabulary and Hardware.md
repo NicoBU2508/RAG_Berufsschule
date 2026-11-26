@@ -1,33 +1,40 @@
 ---
 typ: karteikarten_deck
-thema: "IT Vocabulary and Hardware"
+thema: IT Vocabulary and Hardware
 kategorie: Deutsch_Englisch_Kommunikation
-pruefung: "AP1"
-thema_quelle: "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/IT Vocabulary and Hardware.md"
-stand_karten: 2026-11-24
-stand_quelle: 2026-11-24
-quellseiten_anzahl: 9
-quellseiten_hash: 5078b7246a9e
+pruefung: AP1
+thema_quelle: 03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/IT Vocabulary
+  and Hardware.md
+stand_karten: '2026-11-26'
+stand_quelle: '2026-11-26'
+quellseiten_anzahl: 15
+quellseiten_hash: 4c804353c78d
 quellseiten:
-  - "02_Faecher/Englisch/Quellen/Englisch#page=35"
-  - "02_Faecher/Englisch/Quellen/Englisch#page=36"
-  - "02_Faecher/Englisch/Quellen/Englisch#page=37"
-  - "02_Faecher/Englisch/Quellen/Englisch#page=38"
-  - "02_Faecher/Englisch/Quellen/Englisch#page=39"
-  - "02_Faecher/Englisch/Quellen/Englisch#page=40"
-  - "02_Faecher/Englisch/Quellen/Englisch#page=41"
-  - "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=10"
-  - "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=9"
+- 02_Faecher/Englisch/Quellen/Englisch#page=35
+- 02_Faecher/Englisch/Quellen/Englisch#page=36
+- 02_Faecher/Englisch/Quellen/Englisch#page=37
+- 02_Faecher/Englisch/Quellen/Englisch#page=38
+- 02_Faecher/Englisch/Quellen/Englisch#page=39
+- 02_Faecher/Englisch/Quellen/Englisch#page=40
+- 02_Faecher/Englisch/Quellen/Englisch#page=41
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=10
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=15
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=16
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=17
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=18
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=19
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=20
+- 02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals#page=9
 rag_include: false
 canonical_evidence: false
 tags:
-  - karteikarten
-  - flashcards/deutsch-englisch-kommunikation/it-vocabulary-and-hardware
+- karteikarten
+- flashcards/deutsch-englisch-kommunikation/it-vocabulary-and-hardware
 ---
 # 🗂️ Karteikarten: IT Vocabulary and Hardware
 
 > [!tip] Quellenbasis
-> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/IT Vocabulary and Hardware|IT Vocabulary and Hardware]] (**9 visuell geprüfte Seiten**).
+> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/IT Vocabulary and Hardware|IT Vocabulary and Hardware]] (**15 visuell geprüfte Seiten**).
 
 ---
 
@@ -83,3 +90,14 @@ tags:
 - **Hardware/Bedienung:** Lautsprecher in den Brillenbügeln (*speakers on the temples*) strahlen Ton gezielt zum Ohr, ohne Umgebungsgeräusche abzuschotten; *hands-free* Sprachassistenten oder *wearable display* mit AR-Overlay.
 - **Datenschutz:** *On-device voice processing* (lokale Sprachverarbeitung auf dem Gerät) verhindert, dass Sprachanfragen in der Cloud gespeichert und anfällig für Hacking werden.
 *Quelle: Englisch (2. LJ) · `01_Conditionals.pdf` S. 9–10 (von 14) · [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals|Quellnotiz]]*
+
+---
+
+<!-- card-id: it-vocabulary-and-hardware-07 | typ: definition | pruefung: AP1 -->
+**Was bedeuten die englischen IT-Security-Vokabeln *hostile*, *intrusive*, *to exploit*, *to self-replicate*, *deceptive*, *benign*, *to ransom* und *to masquerade*?**
+?
+- *hostile* = feindlich · *intrusive* = aufdringlich/aggressiv · *to exploit (a weakness)* = (eine Schwachstelle) ausnutzen
+- *to self-replicate* = sich selbst vervielfältigen/kopieren · *to hook onto* = sich anhängen an (einen Prozess)
+- *deceptive* = irreführend/trügerisch · *benign* = harmlos/gutartig
+- *to ransom* = freikaufen (Lösegeld fordern) · *to masquerade* = sich tarnen/verkleiden (z. B. *rogue software*)
+*Quelle: Englisch (2. LJ) · `01_Conditionals.pdf` S. 15–16, 18–19 (von 20) · [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals|Quellnotiz]]*

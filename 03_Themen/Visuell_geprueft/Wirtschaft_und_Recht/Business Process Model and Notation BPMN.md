@@ -2,8 +2,8 @@
 id: vault.thema.visuell.business.process.model.and.notation.bpmn
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-24
-reviewed_on: 2026-11-24
+stand: 2026-11-26
+reviewed_on: 2026-11-26
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
@@ -29,7 +29,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift\|BGWP_2LJ_Mitschrift]] | [23–30](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=23>) | aufgabe, beispiel, theorie | 4 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift\|BGWP_2LJ_Mitschrift]] | [23–30](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=23>) | aufgabe, beispiel, loesung, theorie | 4 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

@@ -2,7 +2,7 @@
 id: vault.index.ki-quellenqualitaet
 typ: qualitaetsbericht
 status: abgeschlossen
-stand: 2026-11-24
+stand: 2026-11-26
 rag_include: false
 tags:
   - seitenaudit
@@ -14,11 +14,11 @@ tags:
 
 ## Ergebnis
 
-- **56 nicht-private PDFs / 1486 Seiten** vollständig berücksichtigt.
-- **53 aktive PDFs / 1389 Seiten** seitenweise visuell geprüft.
+- **56 nicht-private PDFs / 1499 Seiten** vollständig berücksichtigt.
+- **53 aktive PDFs / 1402 Seiten** seitenweise visuell geprüft.
 - **3 inaktive PDFs / 97 Seiten** als pixelidentische Dubletten nachgewiesen.
-- **139 kanonische Themen** mit exakten Seitenbelegen erzeugt.
-- **1251 Evidenzseiten**, **11 nur unterstützende Fragmentseiten**, **127 ausgeschlossene aktive Seiten**.
+- **140 kanonische Themen** mit exakten Seitenbelegen erzeugt.
+- **1263 Evidenzseiten**, **11 nur unterstützende Fragmentseiten**, **128 ausgeschlossene aktive Seiten**.
 - Der private Notenbereich und seine PDF wurden nicht geöffnet, gerendert, geOCRt oder inhaltlich inventarisiert.
 
 ## Ausschlussgründe
@@ -26,12 +26,13 @@ tags:
 | Grund | Seiten |
 |---|---:|
 | Exakte Seitendublette von IT_Sicherheit_Aufgabe_1.md, Seite 2 | 1 |
-| Exakte seiteninterne Dublette von Seite 6 | 1 |
+| Exakte seiteninterne Dublette von Seite 7 | 1 |
 | Exaktes seiteninternes Duplikat von Seite 10 (identischer Lesetext) | 1 |
 | Exaktes seiteninternes Duplikat von Seite 9 (identischer Lesetext) | 1 |
 | Export visuell nicht belastbar: sichtbar sind nur Überschriften; Definitionen liegen außerhalb der sichtbaren Seitenfläche | 34 |
 | Fachfremder Urheberrechts-Einschub; Datenschutz und externe QR-Ziele nicht freigegeben | 3 |
 | Leere GoodNotes-Karopapierseite ohne fachlichen Inhalt | 1 |
+| Leere Karoseite am Notizbuchende ohne Inhalt | 1 |
 | Nahezu unausgefüllte Arbeitsblatt-Vorlage (Seite 4/4, nur kurze handschriftliche Notiz bei Aufgabe 11); die vollständig ausgefüllte Version inkl. dieser Notiz befindet sich auf Seite 37. | 1 |
 | Nur Index- und Lernhinweisseiten ohne eigenständigen fachlichen Lerninhalt | 2 |
 | Personenbezogenes oder persönliches Bild/Fragment ohne Lernbezug | 7 |
@@ -67,6 +68,7 @@ tags:
 | `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md` | 2 |
 | `02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki.md` | 1–20 |
 | `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md` | 54, 56 |
+| `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md` | 35 |
 | `02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Unbenannt_Einzelseite.md` | 1 |
 | `02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md` | 16, 20 |
 | `02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript.md` | 1–2, 6, 42–44 |
@@ -81,7 +83,7 @@ tags:
 | `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Netzplan_251022_160116.md` | 5–7 |
 | `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement.md` | 16 |
 | `02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md` | 1–2, 63–65, 68–69, 73–76, 84–86 |
-| `02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md` | 7 |
+| `02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md` | 8 |
 | `02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md` | 7, 77 |
 | `02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md` | 1 |
 | `02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt.md` | 1, 6 |
@@ -99,7 +101,7 @@ tags:
 | Elektrotechnik | 15 |
 | IT Technik und Sicherheit | 29 |
 | Religion Ethik | 6 |
-| Wirtschaft und Recht | 37 |
+| Wirtschaft und Recht | 38 |
 
 ## Technische Schutzwirkung
 

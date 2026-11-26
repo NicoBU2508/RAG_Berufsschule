@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "audit_date": "2026-11-24",
+  "audit_date": "2026-11-26",
   "privacy": "Private Dateien wurden nur nach Existenz, Pfad, Typ und Größe inventarisiert; ihr Inhalt wurde nicht gelesen.",
   "retrieval_order": [
     "curated_topic",
@@ -54,23 +54,24 @@
     ]
   },
   "totals": {
-    "files": 907,
+    "files": 921,
     "by_extension": {
       "canvas": 1,
       "css": 2,
       "js": 2,
-      "json": 69,
-      "md": 756,
+      "json": 77,
+      "m": 1,
+      "md": 760,
       "none": 1,
       "pdf": 57,
-      "rb": 15,
+      "rb": 16,
       "swift": 3,
       "zip": 1
     },
     "by_role": {
-      "agent_customization": 8,
+      "agent_customization": 11,
       "copilot_prompt": 17,
-      "curated_topic": 139,
+      "curated_topic": 140,
       "duplicate_pdf": 3,
       "entrypoint": 2,
       "exam_archive": 1,
@@ -79,16 +80,16 @@
       "generated_learning_index": 9,
       "generated_learning_module": 129,
       "generated_vault_index": 1,
-      "import_inbox": 1,
+      "import_inbox": 2,
       "learner_state": 1,
       "legacy_topic": 30,
-      "maintenance_tool": 17,
+      "maintenance_tool": 18,
       "navigation_index": 10,
       "obsidian_configuration": 16,
       "original_pdf": 53,
       "private_or_archive": 5,
       "project_metadata": 3,
-      "quality_or_navigation": 78,
+      "quality_or_navigation": 86,
       "source_note": 49,
       "subject_index": 18,
       "template": 3,
@@ -99,18 +100,26 @@
       "working_note": 2
     },
     "by_ai_use": {
-      "excluded": 530,
-      "navigation": 109,
-      "operational": 25,
-      "primary": 190,
+      "excluded": 531,
+      "navigation": 117,
+      "operational": 29,
+      "primary": 191,
       "verify_only": 53
     }
   },
   "files": [
     {
+      "path": ".agents/skills/altklausur-import/SKILL.md",
+      "extension": "md",
+      "bytes": 5624,
+      "role": "agent_customization",
+      "ai_use": "operational",
+      "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
+    },
+    {
       "path": ".agents/skills/ap-lerncoach.zip",
       "extension": "zip",
-      "bytes": 34758,
+      "bytes": 64459,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -118,7 +127,7 @@
     {
       "path": ".agents/skills/ap-lerncoach/SKILL.md",
       "extension": "md",
-      "bytes": 25572,
+      "bytes": 36700,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -126,7 +135,7 @@
     {
       "path": ".agents/skills/ap-lerncoach/references/antwort-layouts.md",
       "extension": "md",
-      "bytes": 10489,
+      "bytes": 17365,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -134,7 +143,7 @@
     {
       "path": ".agents/skills/ap-lerncoach/references/gemini-gem-prompt.md",
       "extension": "md",
-      "bytes": 7598,
+      "bytes": 11180,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -142,7 +151,7 @@
     {
       "path": ".agents/skills/ap-lerncoach/references/ihk-operatoren-und-pruefung.md",
       "extension": "md",
-      "bytes": 5754,
+      "bytes": 7062,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -156,9 +165,25 @@
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
     },
     {
+      "path": ".agents/skills/ap-lerncoach/references/pruefungsnotation-diagramme.md",
+      "extension": "md",
+      "bytes": 13865,
+      "role": "agent_customization",
+      "ai_use": "operational",
+      "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
+    },
+    {
+      "path": ".agents/skills/ap-lerncoach/scripts/render_pdf_page.m",
+      "extension": "m",
+      "bytes": 2776,
+      "role": "agent_customization",
+      "ai_use": "operational",
+      "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
+    },
+    {
       "path": ".agents/skills/ap-lerncoach/scripts/vault_lookup.rb",
       "extension": "rb",
-      "bytes": 40208,
+      "bytes": 66657,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -174,7 +199,7 @@
     {
       "path": ".gitignore",
       "extension": "none",
-      "bytes": 605,
+      "bytes": 684,
       "role": "project_metadata",
       "ai_use": "excluded",
       "reason": "Projekt-, Git- und Auditmetadaten; kein fachlicher Lernbeleg"
@@ -262,7 +287,7 @@
     {
       "path": ".obsidian/plugins/copilot/data.json",
       "extension": "json",
-      "bytes": 27853,
+      "bytes": 27945,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -302,7 +327,7 @@
     {
       "path": ".obsidian/workspace.json",
       "extension": "json",
-      "bytes": 8651,
+      "bytes": 8686,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -371,6 +396,14 @@
       "path": "01_Index/Abschlussvalidierung_Visuelle_Quellen.json",
       "extension": "json",
       "bytes": 6253,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Altklausuren_Index.json",
+      "extension": "json",
+      "bytes": 407,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -666,7 +699,7 @@
     {
       "path": "01_Index/Auditdaten/Import/20261124_fu_it_2lj_zielske_ipv4_wiederholung_s14_15.json",
       "extension": "json",
-      "bytes": 1790,
+      "bytes": 993,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -683,6 +716,54 @@
       "path": "01_Index/Auditdaten/Import/20261124_pug_2lj_mitschrift_s14_18.json",
       "extension": "json",
       "bytes": 4282,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261126_ae_2lj_jac_mitschrift_s20_20.json",
+      "extension": "json",
+      "bytes": 942,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261126_bgwp_2lj_mitschrift_s28_35.json",
+      "extension": "json",
+      "bytes": 6763,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261126_englisch_2lj_conditionals_s15_20.json",
+      "extension": "json",
+      "bytes": 5466,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261126_fu_it_2lj_abded_mitschriften_s5_7.json",
+      "extension": "json",
+      "bytes": 3021,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261126_it_tech_2lj_jacob_verstaerkung_daempfung_s5_8.json",
+      "extension": "json",
+      "bytes": 3787,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Auditdaten/Import/20261126_pug_2lj_mitschrift_s16_19.json",
+      "extension": "json",
+      "bytes": 3479,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -739,7 +820,7 @@
     {
       "path": "01_Index/Copilot_Allowlist.json",
       "extension": "json",
-      "bytes": 16254,
+      "bytes": 16352,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -840,7 +921,7 @@
     {
       "path": "01_Index/KI_Quellenqualitaet.md",
       "extension": "md",
-      "bytes": 6590,
+      "bytes": 6720,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -856,9 +937,17 @@
       "reason": "Index, Audit oder Qualitätsbericht"
     },
     {
-      "path": "01_Index/Lernstand.json",
+      "path": "01_Index/Lernstand 2.json",
       "extension": "json",
       "bytes": 158,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
+      "path": "01_Index/Lernstand.json",
+      "extension": "json",
+      "bytes": 2400,
       "role": "learner_state",
       "ai_use": "excluded",
       "reason": "Lokaler FSRS-Lernfortschritt und Denkfehler-Historie; keine Weitergabe an Cloud-RAG"
@@ -912,7 +1001,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit.json",
       "extension": "json",
-      "bytes": 2006658,
+      "bytes": 2024931,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -920,7 +1009,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit.md",
       "extension": "md",
-      "bytes": 11237,
+      "bytes": 11266,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -930,7 +1019,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit_Worklist.json",
       "extension": "json",
-      "bytes": 4010300,
+      "bytes": 4040581,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -947,7 +1036,7 @@
     {
       "path": "01_Index/Pruefungskatalog_Mapping.json",
       "extension": "json",
-      "bytes": 19848,
+      "bytes": 20065,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -964,7 +1053,7 @@
     {
       "path": "01_Index/Quellenmatrix.md",
       "extension": "md",
-      "bytes": 45155,
+      "bytes": 45388,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -994,7 +1083,7 @@
     {
       "path": "01_Index/Themen_Kategorien.json",
       "extension": "json",
-      "bytes": 2911,
+      "bytes": 2981,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -1002,7 +1091,7 @@
     {
       "path": "01_Index/Themenreferenzen_Visuell_Geprueft.json",
       "extension": "json",
-      "bytes": 622744,
+      "bytes": 745833,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -1028,7 +1117,7 @@
     {
       "path": "01_Index/Tools/build_ki_manifest.rb",
       "extension": "rb",
-      "bytes": 12953,
+      "bytes": 13279,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1052,7 +1141,7 @@
     {
       "path": "01_Index/Tools/build_verified_topics.rb",
       "extension": "rb",
-      "bytes": 43152,
+      "bytes": 43323,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1068,7 +1157,7 @@
     {
       "path": "01_Index/Tools/export_gemini_bundle.rb",
       "extension": "rb",
-      "bytes": 12823,
+      "bytes": 13254,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1077,6 +1166,14 @@
       "path": "01_Index/Tools/goodnotes_pdf_tool.swift",
       "extension": "swift",
       "bytes": 6965,
+      "role": "maintenance_tool",
+      "ai_use": "operational",
+      "reason": "Lokales Prüf- oder Wartungswerkzeug"
+    },
+    {
+      "path": "01_Index/Tools/import_altklausur.rb",
+      "extension": "rb",
+      "bytes": 28098,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1493,7 +1590,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift.md",
       "extension": "md",
-      "bytes": 43698,
+      "bytes": 46529,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1987,7 +2084,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
       "extension": "md",
-      "bytes": 59199,
+      "bytes": 69604,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2479,7 +2576,7 @@
     {
       "path": "02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals.md",
       "extension": "md",
-      "bytes": 23266,
+      "bytes": 41184,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2868,7 +2965,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften.md",
       "extension": "md",
-      "bytes": 12173,
+      "bytes": 13320,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2888,7 +2985,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung.md",
       "extension": "md",
-      "bytes": 30345,
+      "bytes": 26650,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -2988,7 +3085,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Jacob_Verstaerkung_Daempfung.md",
       "extension": "md",
-      "bytes": 14397,
+      "bytes": 16981,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -3279,7 +3376,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
       "extension": "md",
-      "bytes": 39407,
+      "bytes": 40503,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -3539,7 +3636,7 @@
     {
       "path": "03_Themen/00_Kuratierte_Themen.md",
       "extension": "md",
-      "bytes": 16534,
+      "bytes": 16666,
       "role": "topic_index",
       "ai_use": "navigation",
       "reason": "Einstieg in die vollständig visuell geprüften Themen",
@@ -4229,7 +4326,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/IT Vocabulary and Hardware.md",
       "extension": "md",
-      "bytes": 1938,
+      "bytes": 1973,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4306,7 +4403,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Reading Comprehension and Case Studies.md",
       "extension": "md",
-      "bytes": 2017,
+      "bytes": 2035,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4460,7 +4557,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand.md",
       "extension": "md",
-      "bytes": 2289,
+      "bytes": 2303,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4471,7 +4568,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen.md",
       "extension": "md",
-      "bytes": 2112,
+      "bytes": 2126,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4515,7 +4612,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Elektrotechnik/Verstärkung Dämpfung und Pegelrechnung.md",
       "extension": "md",
-      "bytes": 1889,
+      "bytes": 1892,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4680,7 +4777,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Malware und Angriffe.md",
       "extension": "md",
-      "bytes": 2777,
+      "bytes": 3003,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -4999,7 +5096,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Business Process Model and Notation BPMN.md",
       "extension": "md",
-      "bytes": 1837,
+      "bytes": 1846,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -5054,12 +5151,23 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte.md",
       "extension": "md",
-      "bytes": 1862,
+      "bytes": 1871,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
       "typ": "visuell_geprueftes_thema",
       "thema": "Grundgesetz Staatsprinzipien und Grundrechte",
+      "status": "visuell_geprueft"
+    },
+    {
+      "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/IT-Servicearten und Service-Management.md",
+      "extension": "md",
+      "bytes": 1686,
+      "role": "curated_topic",
+      "ai_use": "primary",
+      "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
+      "typ": "visuell_geprueftes_thema",
+      "thema": "IT-Servicearten und Service-Management",
       "status": "visuell_geprueft"
     },
     {
@@ -5131,7 +5239,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Organisation im Betrieb.md",
       "extension": "md",
-      "bytes": 2325,
+      "bytes": 2352,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -8447,9 +8555,19 @@
       "status": "manuell"
     },
     {
+      "path": "06_Altklausuren/00_Posteingang/README.md",
+      "extension": "md",
+      "bytes": 1418,
+      "role": "import_inbox",
+      "ai_use": "excluded",
+      "reason": "Posteingang für neue IHK-Altklausuren & Lösungen; bis zur Aufgabenanalyse ausgeschlossen",
+      "typ": "posteingang",
+      "status": "aktiv"
+    },
+    {
       "path": "06_Altklausuren/README.md",
       "extension": "md",
-      "bytes": 547,
+      "bytes": 1220,
       "role": "exam_archive",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Altklausurstruktur",
@@ -8724,7 +8842,7 @@
     {
       "path": "99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf",
       "extension": "pdf",
-      "bytes": 6488111,
+      "bytes": 6602625,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
@@ -8764,7 +8882,7 @@
     {
       "path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
       "extension": "pdf",
-      "bytes": 3582268,
+      "bytes": 9317703,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
@@ -8820,7 +8938,7 @@
     {
       "path": "99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf",
       "extension": "pdf",
-      "bytes": 1844608,
+      "bytes": 2446595,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
@@ -8964,7 +9082,7 @@
     {
       "path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf",
       "extension": "pdf",
-      "bytes": 3680145,
+      "bytes": 3930867,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
@@ -8980,7 +9098,7 @@
     {
       "path": "99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf",
       "extension": "pdf",
-      "bytes": 2790190,
+      "bytes": 2615849,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
@@ -8988,7 +9106,7 @@
     {
       "path": "99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Jacob/1_30_Grundlagen_Elektro__Verstaerkung_Daempfung.pdf",
       "extension": "pdf",
-      "bytes": 1244059,
+      "bytes": 10477423,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
@@ -9020,7 +9138,7 @@
     {
       "path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
       "extension": "pdf",
-      "bytes": 3832442,
+      "bytes": 3950793,
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
@@ -9060,7 +9178,7 @@
     {
       "path": "README.md",
       "extension": "md",
-      "bytes": 5181,
+      "bytes": 6044,
       "role": "project_metadata",
       "ai_use": "excluded",
       "reason": "Projekt-, Git- und Auditmetadaten; kein fachlicher Lernbeleg"

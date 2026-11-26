@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "scope": "GoodNotes-Import: 02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md (Seiten 28–35)",
+  "replaces_existing": true,
+  "topic_categories": {
+    "IT-Servicearten und Service-Management": "Wirtschaft_und_Recht"
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 28,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Business Process Model and Notation BPMN",
+        "secondary_topics": [
+          "Prozessmanagement und Geschäftsprozesse"
+        ],
+        "recommended_topics": [
+          "Business Process Model and Notation BPMN"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 29,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Business Process Model and Notation BPMN",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "Business Process Model and Notation BPMN"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 30,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Business Process Model and Notation BPMN",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "Business Process Model and Notation BPMN"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+          "Zwei Aktivitätskästchen im BPMN-Diagramm (Workaround suchen nach unknown error sowie Dokumentation in Known-Error-Datenbank speichern) blieben im Original unausgefüllt."
+        ],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 31,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "IT-Servicearten und Service-Management",
+        "secondary_topics": [
+          "Organisation im Betrieb"
+        ],
+        "recommended_topics": [
+          "IT-Servicearten und Service-Management",
+          "Organisation im Betrieb"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 32,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "IT-Servicearten und Service-Management",
+        "secondary_topics": [
+          "Organisation im Betrieb"
+        ],
+        "recommended_topics": [
+          "IT-Servicearten und Service-Management",
+          "Organisation im Betrieb"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 33,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "IT-Servicearten und Service-Management",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "IT-Servicearten und Service-Management"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 34,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "IT-Servicearten und Service-Management",
+        "secondary_topics": [],
+        "recommended_topics": [
+          "IT-Servicearten und Service-Management"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": null,
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    },
+    {
+      "source_note": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf",
+      "page": 35,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": null,
+        "secondary_topics": [],
+        "recommended_topics": [],
+        "content_type": "leer",
+        "source_text_match": "missing",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [],
+        "exclusion_reason": "Leere Karoseite am Notizbuchende ohne Inhalt",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": false
+      }
+    }
+  ]
+}

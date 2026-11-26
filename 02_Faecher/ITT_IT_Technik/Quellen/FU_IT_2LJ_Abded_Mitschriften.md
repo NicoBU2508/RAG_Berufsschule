@@ -12,7 +12,7 @@ tags:
   - quelle
   - itt_it_technik
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-24"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
 kanonische_themen: 5
 seiten_mit_kanonischem_thema: 5
@@ -20,7 +20,7 @@ ki_exclude_seiten: [1,2]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
 textstatus: "eingeschränkt: visuell geprüft (ocr_verified=5)"
-textzeichen: 5702
+textzeichen: 6769
 ---
 # 📄 Mitschriften Abde
 > [!quelle] Quellenstatus
@@ -119,7 +119,7 @@ MERKE: Ein RAID ist kein Backup!
 > ![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=5]]
 
 > [!ocr] Visuell transkribiert
-> Text und Inhalte aus der visuellen Seitenprüfung verifiziert und ergänzt (Arbeitsblatt ohne ausgefüllte Lösungen).
+> Gedruckter Aufgabentext, Abbildungen und handschriftliche Lösungen aus der visuellen Seitenprüfung vollständig verifiziert und ergänzt.
 
 #### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
@@ -130,6 +130,9 @@ FU-IT | RAID | Seite 5
 Für unseren Kunden - die ZoF-GmbH - soll ein neues IT-Datensicherheitskonzept erstellen.
 
 Aufgabe 5: Nenne zwei Risiken, vor denen Daten geschützt werden sollten, um die Datensicherheit zu gewährleisten.
+Handschriftliche Lösung:
+- Datenverlust durch Festplattenausfall
+- Datendiebstahl durch Angreifer
 
 Die Daten der ZoF-GmbH sollen auf einem NAS abgelegt werden. Es wird diskutiert, ein RAID 10 oder RAID 5 mit jeweils vier Festplatten einzurichten (siehe Abbildungen).
 Das NAS soll eine Nettokapazität von 12 TiByte bieten. Es stehen Festplatten mit 4, 6 oder 8 TiByte Kapazität zur Verfügung.
@@ -139,9 +142,13 @@ Abbildungen:
 - RAID 5 (4 Festplatten: Disk 1 bis Disk 4): Striping mit verteilter Parität – Zeile 1: A, B, C, P(ABC); Zeile 2: D, E, P(DEF), F; Zeile 3: G, P(GHI), H, I; Zeile 4: P(JKL), J, K, L.
 
 Aufgabe 6: Nenne für RAID 10 und für RAID 5 jeweils anhand eines Beispiels Festplatten (Disk 1 bis 4), die höchstens gleichzeitig ausfallen können, ohne dass ein Datenverlust eintritt.
-Tabelle (unausgefüllt): Spalten „Ausgefallene Disks ohne Datenverlust“ und „Beispiel“ für die Zeilen „RAID 10“ und „RAID 5“.
+Handschriftliche Lösung (Tabelle):
+- RAID 10: Ausgefallene Disks ohne Datenverlust = 2 | Beispiel = Disk 1 + 3
+- RAID 5: Ausgefallene Disks ohne Datenverlust = 1 | Beispiel = Disk 1
 
 Aufgabe 7: Das NAS soll mit einer Hot-Spare-Festplatte betrieben werden. Erläutere die Funktion einer Hot-Spare-Festplatte.
+Handschriftliche Lösung:
+Eine Reservefestplatte, die eingebaut und betriebsbereit ist und im Normalbetrieb ungenutzt ist. Bei Ausfall einer Platte springt sie ein.
 ```
 
 ### Seite 6
@@ -154,7 +161,7 @@ Aufgabe 7: Das NAS soll mit einer Hot-Spare-Festplatte betrieben werden. Erläut
 > ![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=6]]
 
 > [!ocr] Visuell transkribiert
-> Text und Inhalte aus der visuellen Seitenprüfung verifiziert und ergänzt (Arbeitsblatt ohne ausgefüllte Lösungen).
+> Gedruckter Aufgabentext und handschriftlich ausgefüllte Ergebnistabelle aus der visuellen Seitenprüfung vollständig verifiziert und ergänzt.
 
 #### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
@@ -167,10 +174,9 @@ Aufgabe 8: Ermittle für ein NAS mit RAID Level 10 und ein NAS mit RAID Level 5 
 - die Speichereffizienz des NAS.
 Trage die ermittelten Werte in folgende Tabelle ein. Die Rechenwege sind anzugeben.
 
-Tabelle (unausgefüllt):
-Spalten: RAID Level | Kapazität pro Festplatte in TiByte | Anzahl HDD | Bruttokapazität NAS in TiByte | Nettokapazität NAS in TiByte | Speichereffizienz* NAS in %
-- RAID Level 10: Anzahl HDD = 4 (übrige Felder leer)
-- RAID Level 5: Anzahl HDD = 4 (übrige Felder leer)
+Handschriftlich ausgefüllte Tabelle (für geforderte Nettokapazität = 12 TiByte):
+- RAID Level 10: Kapazität pro Festplatte = 6 TiByte | Anzahl HDD = 4 | Bruttokapazität NAS = 24 TiByte | Nettokapazität NAS = 12 TiByte | Speichereffizienz* NAS = 50 %
+- RAID Level 5: Kapazität pro Festplatte = 4 TiByte | Anzahl HDD = 4 | Bruttokapazität NAS = 16 TiByte | Nettokapazität NAS = 12 TiByte | Speichereffizienz* NAS = 75 %
 * Verhältnis Netto- zu Bruttokapazität
 ```
 
@@ -184,7 +190,7 @@ Spalten: RAID Level | Kapazität pro Festplatte in TiByte | Anzahl HDD | Bruttok
 > ![[99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=7]]
 
 > [!ocr] Visuell transkribiert
-> Text und Inhalte aus der visuellen Seitenprüfung verifiziert und ergänzt (Arbeitsblatt ohne ausgefüllte Lösungen).
+> Gedruckter Aufgabentext und handschriftliche Rechenwege zu den Aufgaben 9–11 aus der visuellen Seitenprüfung vollständig verifiziert und ergänzt.
 
 #### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
@@ -196,12 +202,23 @@ Bei der Rusticus GmbH soll im Zuge der Digitalisierungsinitiative im Winter 2022
 Die Datenbank ist 10 TiB groß. Zusätzlich werden 6 TiB für Nutzdaten und 10 TiB als Puffer benötigt. Um die geforderte Verfügbarkeit sicherzustellen, entscheidest du dich unter anderem zur Nutzung von RAID 6 mit Hot-Spare-Festplatte.
 
 Aufgabe 9: Berechne, wie viele Festplatten benötigt werden, um den Speicherbedarf zu decken und die Architekturanforderungen zu erfüllen.
+Handschriftliche Lösung:
+- Ges. Speicherbedarf: 10 TiB + 6 TiB + 10 TiB = 26 TiB
+- Anzahl benötigter Festplatten (Nutzdaten): 26 TiB : 4 TiB = 6,5 ≈ 7
+- Ges. Festplatten (inkl. 2 Paritätsplatten für RAID 6 und 1 Hot-Spare): 7 + 2 + 1 = 10
 
 Einige Zulieferer erstellen weiterhin Lieferscheine, Angebote und Rechnungen in Papierform. Diese sollen digital archiviert werden.
 Pro Monat werden 60 GiB Dokumentendaten erzeugt. Diese werden mit einer Komprimierungsrate von 70 % gepackt und auf ein Archivsystem kopiert, auf dem 2 TiB Speicher für die Daten reserviert ist. Dort sollen Sie für zehn Jahre gespeichert werden.
 
 Aufgabe 10: Berechne den Speicherplatz, der für die Speicherung der Daten für 10 Jahre benötigt wird.
+Handschriftliche Lösung:
+- 60 * 12 * 10 = 7200 GiB
+- 7200 GiB * 0,3 = 2.160 GiB = 2,16 TiB
+(Prüfungshinweis: Bei binären IEC-Einheiten gilt exakt 1 TiB = 1024 GiB, also 2160 GiB / 1024 = 2,109 TiB.)
 
 Aufgabe 11: Berechne, wie lange der reservierte Speicher reicht. Runde auf ganze Jahre ab.
+Handschriftliche Lösung:
+- 2,16 : 10 = 0,216 TiB pro Jahr (bzw. 216 GiB pro Jahr)
+- 2 : 0,216 = 9,26 ≈ 9 Jahre (auch binär exakt: 2048 GiB : 216 GiB/Jahr = 9,48 -> abgerundet 9 Jahre)
 ```
 

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_on": "2026-11-24",
+  "generated_on": "2026-11-26",
   "policy": "exact_file_allowlist_fail_closed",
   "entries": [
     "[[00_KI_QUELLENSTART]]",
@@ -122,6 +122,7 @@
     "[[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Ereignisgesteuerte Prozessketten EPK]]",
     "[[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Gemeinnützige Organisationen]]",
     "[[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte]]",
+    "[[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/IT-Servicearten und Service-Management]]",
     "[[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Jugendarbeitsschutz]]",
     "[[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Kaufvertrag und Geschäftsfähigkeit]]",
     "[[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Kündigung und Arbeitsrecht]]",
@@ -195,6 +196,6 @@
     "[[02_Faecher/Religion/Quellen/Reli_Notizen]]",
     "[[02_Faecher/Vertretung/Quellen/Untitled]]"
   ],
-  "count": 191,
-  "sha256": "1adb3a6c2bbe778af13913bc7080a76f52577474f5fbe9be802e544b659fd3ff"
+  "count": 192,
+  "sha256": "ad68e1d3f26454875ac52b61fea224e816d728a46889938c8a9eb782d02c424d"
 }

@@ -2,13 +2,13 @@
 typ: karteikarten_deck
 thema: IPv4-Adressierung und Subnetting
 kategorie: IT_Technik_und_Sicherheit
-pruefung: "AP1"
+pruefung: AP1
 thema_quelle: 03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IPv4-Adressierung
   und Subnetting.md
-stand_karten: '2026-11-24'
-stand_quelle: '2026-11-24'
-quellseiten_anzahl: 22
-quellseiten_hash: c7e02b5c051d
+stand_karten: '2026-11-26'
+stand_quelle: '2026-11-26'
+quellseiten_anzahl: 21
+quellseiten_hash: 48a2d1418760
 quellseiten:
 - 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=1
 - 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=10
@@ -16,7 +16,6 @@ quellseiten:
 - 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=12
 - 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=13
 - 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=14
-- 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=15
 - 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=2
 - 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=3
 - 02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung#page=4
@@ -41,7 +40,7 @@ tags:
 # 🗂️ Karteikarten: IPv4-Adressierung und Subnetting
 
 > [!tip] Quellenbasis
-> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting|IPv4-Adressierung und Subnetting]] (**22 visuell geprüfte Seiten**).
+> Alle Karten basieren ausschließlich auf [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting|IPv4-Adressierung und Subnetting]] (**21 visuell geprüfte Seiten**).
 
 ---
 
@@ -105,7 +104,7 @@ Private Bereiche nur fürs LAN sind `10.0.0.0/8` (Klasse A), `172.16.0.0/16` bis
 **Wie bestimmt man Netz- und Broadcastadresse schnell mithilfe der Blockgröße (Schrittweite) ohne vollständige Binärumrechnung?**
 ?
 Im Oktett der Subnetzmaske, das ungleich `255` und `0` ist, gilt: `Schrittweite = 256 - Maskenwert`. Die **Netzadresse** nutzt das größte Vielfache der Schrittweite `<=` IP-Oktett (Oktette dahinter `0`); die **Broadcastadresse** entspricht dem nächsten Netz minus `1` in diesem Oktett (Oktette dahinter `255`).
-*Quelle: ITT IT-Technik (2. LJ) · `00_IPv4_Wiederholung.pdf` S. 15 (von 15) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · `00_IPv4_Wiederholung.pdf` S. 14 (von 14) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -113,7 +112,7 @@ Im Oktett der Subnetzmaske, das ungleich `255` und `0` ist, gilt: `Schrittweite 
 **Wie ermittelt man die CIDR-Präfixlänge `/x` schnell aus einer dezimalen Subnetzmaske?**
 ?
 Man zählt alle `1`-Bits der Subnetzmaske zusammen: Jedes Oktett mit `255` liefert `8` Bits; für typische Maskenwerte im Übergangsoktett gilt `128 = 1`, `192 = 2`, `224 = 3`, `240 = 4` und `248 = 5` Bits (z. B. `255.255.192.0` -> `8 + 8 + 2 = /18`).
-*Quelle: ITT IT-Technik (2. LJ) · `00_IPv4_Wiederholung.pdf` S. 15 (von 15) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · `00_IPv4_Wiederholung.pdf` S. 14 (von 14) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
@@ -121,4 +120,4 @@ Man zählt alle `1`-Bits der Subnetzmaske zusammen: Jedes Oktett mit `255` liefe
 **Bestimmen Sie für `10.98.212.34` mit der Subnetzmaske `255.248.0.0` Präfixlänge, Netzadresse, Broadcastadresse und Anzahl nutzbarer Hosts.**
 ?
 **Präfixlänge:** `/13` (`255` = 8 Bit, `248` = 5 Bit). Mit der Schrittweite `256 - 248 = 8` im 2. Oktett liegt `98` zwischen `96` und `104`: **Netzadresse** `10.96.0.0`, **Broadcastadresse** `10.103.255.255`, **Hosts:** `2^(32 - 13) - 2 = 524.286`.
-*Quelle: ITT IT-Technik (2. LJ) · `00_IPv4_Wiederholung.pdf` S. 14–15 (von 15) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (2. LJ) · `00_IPv4_Wiederholung.pdf` S. 14 (von 14) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung|Quellnotiz]], OCR/Original prüfen*

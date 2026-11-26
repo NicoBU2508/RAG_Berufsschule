@@ -2,8 +2,8 @@
 id: vault.thema.visuell.totalitare.systeme.und.diktatur
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-24
-reviewed_on: 2026-11-24
+stand: 2026-11-26
+reviewed_on: 2026-11-26
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
@@ -11,7 +11,7 @@ thema: "Totalitäre Systeme und Diktatur"
 kategorie: Wirtschaft_und_Recht
 pruefung: "BS"
 quellen: 1
-seiten: 5
+seiten: 6
 tags:
   - ki_quelle
   - visuell_geprueft
@@ -29,7 +29,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift\|PuG_2LJ_Mitschrift]] | [14–18](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=14>) | beispiel, loesung | 3 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift\|PuG_2LJ_Mitschrift]] | [14–19](<99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf#page=14>) | beispiel, loesung | 4 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

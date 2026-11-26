@@ -1,6 +1,6 @@
 ---
 typ: karteikarten_index
-stand: 2026-11-24
+stand: 2026-11-26
 rag_include: false
 canonical_evidence: false
 ---
@@ -9,11 +9,11 @@ canonical_evidence: false
 > [!tip] Single Source of Truth
 > Alle Karteikarten unter `05_Karteikarten/` basieren ausschließlich auf den **visuell geprüften Themen** (`03_Themen/Visuell_geprueft/`). Sie funktionieren direkt mit **Obsidian Spaced Repetition**, dem **Antigravity Karteikarten-Modus** sowie per Export mit **Anki** und **NotebookLM**.
 
-## Überblick (Stand 2026-11-24)
+## Überblick (Stand 2026-11-26)
 
-- **Aktive Decks:** **139** von **139** kanonischen Themen (**860** Karten gesamt)
-- **Prüfungsverteilung:** 🎯 **AP1-Fokus: 471 Karten** (`AP1`: 274 · `AP1/AP2`: 197) · 📘 `AP2`: 217 · 🏫 `BS` (Berufsschule): 172
-- **Aktuell:** 139 · **Update nötig (neue PDF-Seiten):** 0 · **Noch ohne Deck:** 0
+- **Aktive Decks:** **140** von **140** kanonischen Themen (**877** Karten gesamt)
+- **Prüfungsverteilung:** 🎯 **AP1-Fokus: 482 Karten** (`AP1`: 277 · `AP1/AP2`: 205) · 📘 `AP2`: 220 · 🏫 `BS` (Berufsschule): 175
+- **Aktuell:** 140 · **Update nötig (neue PDF-Seiten):** 0 · **Noch ohne Deck:** 0
 
 ### Schnellbefehle
 
@@ -55,7 +55,7 @@ ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm --exam AP1
 - [[05_Karteikarten/Anwendungsentwicklung/SQL-Datenmanipulation INSERT UPDATE DELETE|SQL-Datenmanipulation INSERT UPDATE DELETE]] — **6 Karten** (🔵 AP2 · 16 S. · aktuell)
 - [[05_Karteikarten/Anwendungsentwicklung/SQL-Grundlagen und SELECT-Abfragen|SQL-Grundlagen und SELECT-Abfragen]] — **7 Karten** (🔵 AP2 · 33 S. · aktuell)
 - [[05_Karteikarten/Anwendungsentwicklung/Suchalgorithmen|Suchalgorithmen]] — **4 Karten** (🔵 AP2 · 2 S. · aktuell)
-- [[05_Karteikarten/Anwendungsentwicklung/UML-Diagramme|UML-Diagramme]] — **9 Karten** (🟢 AP1+AP2 · 20 S. · aktuell)
+- [[05_Karteikarten/Anwendungsentwicklung/UML-Diagramme|UML-Diagramme]] — **10 Karten** (🟢 AP1+AP2 · 21 S. · aktuell)
 - [[05_Karteikarten/Anwendungsentwicklung/Unternehmenswiki|Unternehmenswiki]] — **6 Karten** (⚪ BS · 197 S. · aktuell)
 - [[05_Karteikarten/Anwendungsentwicklung/Variablen und Datentypen|Variablen und Datentypen]] — **6 Karten** (🟢 AP1+AP2 · 82 S. · aktuell)
 
@@ -71,11 +71,11 @@ ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm --exam AP1
 - [[05_Karteikarten/IT_Technik_und_Sicherheit/Exchange- und Outlook-Sicherheit|Exchange- und Outlook-Sicherheit]] — **6 Karten** (🟢 AP1 · 3 S. · aktuell)
 - [[05_Karteikarten/IT_Technik_und_Sicherheit/Hexadezimalsystem|Hexadezimalsystem]] — **6 Karten** (🟢 AP1 · 3 S. · aktuell)
 - [[05_Karteikarten/IT_Technik_und_Sicherheit/Hochverfügbarkeit und Redundanz|Hochverfügbarkeit und Redundanz]] — **8 Karten** (🟢 AP1+AP2 · 14 S. · aktuell)
-- [[05_Karteikarten/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting|IPv4-Adressierung und Subnetting]] — **10 Karten** (🟢 AP1 · 22 S. · aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting|IPv4-Adressierung und Subnetting]] — **10 Karten** (🟢 AP1 · 21 S. · aktuell)
 - [[05_Karteikarten/IT_Technik_und_Sicherheit/IT-Sicherheit Grundlagen|IT-Sicherheit Grundlagen]] — **6 Karten** (🟢 AP1+AP2 · 11 S. · aktuell)
 - [[05_Karteikarten/IT_Technik_und_Sicherheit/Kryptografie Hash und Signatur|Kryptografie, Hash und Signatur]] — **7 Karten** (🟢 AP1+AP2 · 20 S. · aktuell)
 - [[05_Karteikarten/IT_Technik_und_Sicherheit/Künstliche Intelligenz und Prompting|Künstliche Intelligenz und Prompting]] — **4 Karten** (🟢 AP1 · 1 S. · aktuell)
-- [[05_Karteikarten/IT_Technik_und_Sicherheit/Malware und Angriffe|Malware und Angriffe]] — **7 Karten** (🟢 AP1+AP2 · 21 S. · aktuell)
+- [[05_Karteikarten/IT_Technik_und_Sicherheit/Malware und Angriffe|Malware und Angriffe]] — **9 Karten** (🟢 AP1+AP2 · 27 S. · aktuell)
 - [[05_Karteikarten/IT_Technik_und_Sicherheit/Mobile Sicherheit|Mobile Sicherheit]] — **6 Karten** (🟢 AP1 · 3 S. · aktuell)
 - [[05_Karteikarten/IT_Technik_und_Sicherheit/Netzwerktechnik und Netzplan|Netzwerktechnik und Netzplan]] — **11 Karten** (🟢 AP1 · 40 S. · aktuell)
 - [[05_Karteikarten/IT_Technik_und_Sicherheit/Node-RED und IoT-Flows|Node-RED und IoT-Flows]] — **5 Karten** (⚪ BS · 3 S. · aktuell)
@@ -106,14 +106,15 @@ ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm --exam AP1
 - [[05_Karteikarten/Wirtschaft_und_Recht/Direkter und indirekter Vertrieb|Direkter und indirekter Vertrieb]] — **4 Karten** (🔵 AP2 · 2 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Ereignisgesteuerte Prozessketten EPK|Ereignisgesteuerte Prozessketten EPK]] — **6 Karten** (🔵 AP2 · 16 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Gemeinnützige Organisationen|Gemeinnützige Organisationen]] — **6 Karten** (⚪ BS · 4 S. · aktuell)
-- [[05_Karteikarten/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte|Grundgesetz Staatsprinzipien und Grundrechte]] — **9 Karten** (🔵 AP2 · 13 S. · aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte|Grundgesetz Staatsprinzipien und Grundrechte]] — **10 Karten** (🔵 AP2 · 15 S. · aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/IT-Servicearten und Service-Management|IT-Servicearten und Service-Management]] — **6 Karten** (🟢 AP1+AP2 · 4 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Jugendarbeitsschutz|Jugendarbeitsschutz]] — **6 Karten** (🔵 AP2 · 4 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Kaufvertrag und Geschäftsfähigkeit|Kaufvertrag und Geschäftsfähigkeit]] — **7 Karten** (🟢 AP1+AP2 · 12 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Kündigung und Arbeitsrecht|Kündigung und Arbeitsrecht]] — **7 Karten** (🔵 AP2 · 12 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Lohn- und Gehaltsabrechnung|Lohn- und Gehaltsabrechnung]] — **6 Karten** (🔵 AP2 · 6 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Marktumfeld und Marktformen|Marktumfeld und Marktformen]] — **6 Karten** (🔵 AP2 · 19 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Mutterschutz|Mutterschutz]] — **5 Karten** (🔵 AP2 · 3 S. · aktuell)
-- [[05_Karteikarten/Wirtschaft_und_Recht/Organisation im Betrieb|Organisation im Betrieb]] — **7 Karten** (🔵 AP2 · 39 S. · aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Organisation im Betrieb|Organisation im Betrieb]] — **8 Karten** (🔵 AP2 · 41 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Personalwirtschaft und Personalentwicklung|Personalwirtschaft und Personalentwicklung]] — **6 Karten** (🔵 AP2 · 3 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Produktionsfaktoren|Produktionsfaktoren]] — **6 Karten** (🔵 AP2 · 3 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Projektplanung und Netzplanmethode|Projektplanung und Netzplanmethode]] — **6 Karten** (🟢 AP1+AP2 · 23 S. · aktuell)
@@ -122,7 +123,7 @@ ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm --exam AP1
 - [[05_Karteikarten/Wirtschaft_und_Recht/Schwerbehinderung|Schwerbehinderung]] — **6 Karten** (🔵 AP2 · 3 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Sozialversicherung|Sozialversicherung]] — **6 Karten** (🔵 AP2 · 10 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Tarifvertrag und Koalitionsrecht|Tarifvertrag und Koalitionsrecht]] — **7 Karten** (🔵 AP2 · 4 S. · aktuell)
-- [[05_Karteikarten/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur|Totalitäre Systeme und Diktatur]] — **5 Karten** (⚪ BS · 5 S. · aktuell)
+- [[05_Karteikarten/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur|Totalitäre Systeme und Diktatur]] — **6 Karten** (⚪ BS · 6 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Unternehmensrecht Handelsregister Vollmachten|Unternehmensrecht Handelsregister Vollmachten]] — **7 Karten** (🔵 AP2 · 13 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Unternehmensziele|Unternehmensziele]] — **6 Karten** (🟢 AP1+AP2 · 10 S. · aktuell)
 - [[05_Karteikarten/Wirtschaft_und_Recht/Urheberrecht|Urheberrecht]] — **6 Karten** (🟢 AP1+AP2 · 7 S. · aktuell)
@@ -142,12 +143,12 @@ ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm --exam AP1
 - [[05_Karteikarten/Elektrotechnik/Gefahren des elektrischen Stroms|Gefahren des elektrischen Stroms]] — **6 Karten** (⚪ BS · 10 S. · aktuell)
 - [[05_Karteikarten/Elektrotechnik/Netzteil|Netzteil]] — **6 Karten** (🟢 AP1 · 7 S. · aktuell)
 - [[05_Karteikarten/Elektrotechnik/Netzteil-Wirkungsgrad und 80 PLUS|Netzteil-Wirkungsgrad und 80 PLUS]] — **6 Karten** (🟢 AP1 · 15 S. · aktuell)
-- [[05_Karteikarten/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand|Ohmsches Gesetz und Leiterwiderstand]] — **6 Karten** (🟢 AP1 · 10 S. · aktuell)
-- [[05_Karteikarten/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen|Reihen-, Parallel- und Gruppenschaltungen]] — **6 Karten** (⚪ BS · 14 S. · aktuell)
+- [[05_Karteikarten/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand|Ohmsches Gesetz und Leiterwiderstand]] — **7 Karten** (🟢 AP1 · 11 S. · aktuell)
+- [[05_Karteikarten/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen|Reihen-, Parallel- und Gruppenschaltungen]] — **7 Karten** (⚪ BS · 15 S. · aktuell)
 - [[05_Karteikarten/Elektrotechnik/SI-Vorsätze und Einheitenumrechnung|SI-Vorsätze und Einheitenumrechnung]] — **6 Karten** (🟢 AP1 · 3 S. · aktuell)
 - [[05_Karteikarten/Elektrotechnik/Spannung Strom und Widerstand|Spannung, Strom und Widerstand]] — **6 Karten** (🟢 AP1 · 8 S. · aktuell)
 - [[05_Karteikarten/Elektrotechnik/USV-Anlagen|USV-Anlagen]] — **7 Karten** (🟢 AP1 · 11 S. · aktuell)
-- [[05_Karteikarten/Elektrotechnik/Verstärkung Dämpfung und Pegelrechnung|Verstärkung Dämpfung und Pegelrechnung]] — **7 Karten** (🟢 AP1 · 6 S. · aktuell)
+- [[05_Karteikarten/Elektrotechnik/Verstärkung Dämpfung und Pegelrechnung|Verstärkung Dämpfung und Pegelrechnung]] — **8 Karten** (🟢 AP1 · 6 S. · aktuell)
 
 ### Deutsch, Englisch und Kommunikation
 
@@ -163,13 +164,13 @@ ruby 01_Index/Tools/sync_karteikarten.rb export-notebooklm --exam AP1
 - [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Groß- und Kleinschreibung|Groß- und Kleinschreibung]] — **6 Karten** (⚪ BS · 11 S. · aktuell)
 - [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Introducing a Company|Introducing a Company]] — **6 Karten** (⚪ BS · 13 S. · aktuell)
 - [[05_Karteikarten/Deutsch_Englisch_Kommunikation/IT Jobs and Roles|IT Jobs and Roles]] — **6 Karten** (⚪ BS · 7 S. · aktuell)
-- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/IT Vocabulary and Hardware|IT Vocabulary and Hardware]] — **6 Karten** (🟢 AP1 · 9 S. · aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/IT Vocabulary and Hardware|IT Vocabulary and Hardware]] — **7 Karten** (🟢 AP1 · 15 S. · aktuell)
 - [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Kommasetzung|Kommasetzung]] — **6 Karten** (⚪ BS · 8 S. · aktuell)
 - [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Kommunikation Modelle|Kommunikation Modelle]] — **7 Karten** (🟢 AP1 · 11 S. · aktuell)
 - [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Making Phone Calls and Voicemail|Making Phone Calls and Voicemail]] — **6 Karten** (⚪ BS · 7 S. · aktuell)
 - [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Ordering Technical Products|Ordering Technical Products]] — **6 Karten** (🟢 AP1 · 7 S. · aktuell)
 - [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Projektmanagement Lastenheft Pflichtenheft|Projektmanagement Lastenheft Pflichtenheft]] — **7 Karten** (🟢 AP1+AP2 · 26 S. · aktuell)
-- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Reading Comprehension and Case Studies|Reading Comprehension and Case Studies]] — **6 Karten** (🟢 AP1 · 11 S. · aktuell)
+- [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Reading Comprehension and Case Studies|Reading Comprehension and Case Studies]] — **7 Karten** (🟢 AP1 · 15 S. · aktuell)
 - [[05_Karteikarten/Deutsch_Englisch_Kommunikation/S-Schreibung|S-Schreibung]] — **4 Karten** (⚪ BS · 2 S. · aktuell)
 - [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Unternehmensleitbild Corporate Identity|Unternehmensleitbild Corporate Identity]] — **6 Karten** (⚪ BS · 5 S. · aktuell)
 - [[05_Karteikarten/Deutsch_Englisch_Kommunikation/Useful Phrases and Grammar|Useful Phrases and Grammar]] — **6 Karten** (⚪ BS · 13 S. · aktuell)

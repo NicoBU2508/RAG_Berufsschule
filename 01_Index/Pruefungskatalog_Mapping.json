@@ -2,7 +2,7 @@
   "schema_version": 1,
   "katalog_referenz": "04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste.md",
   "katalog_auflage": "AkA 2. Auflage (gültig ab Frühjahr 2025 / 2026+, AO 2020)",
-  "updated_on": "2026-11-25",
+  "updated_on": "2026-11-26",
   "legende": {
     "AP1": "Schwerpunkt Abschlussprüfung Teil 1 (Einrichten eines IT-gestützten Arbeitsplatzes)",
     "AP1/AP2": "Prüfungsrelevant sowohl in AP1 (Grundlagen/LF5) als auch vertieft in AP2 FIAE / WiSo",
@@ -131,6 +131,7 @@
     "Ereignisgesteuerte Prozessketten EPK": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "In AP1 primär BPMN 2.0; EPK ergänzend für Berufsschule & AP2" },
     "Gemeinnützige Organisationen": { "pruefung": "BS", "ap1_ref": null, "hinweis": "BWL/PuG Berufsschule" },
     "Grundgesetz Staatsprinzipien und Grundrechte": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "PuG / Sozialkunde in AP2 WiSo" },
+    "IT-Servicearten und Service-Management": { "pruefung": "AP1/AP2", "ap1_ref": "4.2", "hinweis": "LF 6: Serviceanfragen bearbeiten, SLA, Support-Level (1st/2nd/3rd), Helpdesk/SPOC, Managed Services & IT-Rollen" },
     "Jugendarbeitsschutz": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "JArbSchG in AP2 WiSo" },
     "Kaufvertrag und Geschäftsfähigkeit": { "pruefung": "AP1/AP2", "ap1_ref": "2.8", "hinweis": "Vertragsabschluss, Vertragsarten & Mängelrüge (AP1 HF 2.8/5.2 & AP2 WiSo)" },
     "Kündigung und Arbeitsrecht": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "Kündigungsschutz & Fristen in AP2 WiSo" },

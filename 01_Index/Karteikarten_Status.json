@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
-  "stand_quelle": "2026-11-24",
+  "stand_quelle": "2026-11-26",
   "totals": {
-    "canonical_topics": 139,
-    "decks_total": 139,
-    "decks_aktuell": 139,
+    "canonical_topics": 140,
+    "decks_total": 140,
+    "decks_aktuell": 140,
     "decks_update_noetig": 0,
     "topics_ohne_deck": 0,
     "verwaiste_decks": 0,
-    "cards_total": 860,
-    "ap1_focus_cards": 471,
+    "cards_total": 877,
+    "ap1_focus_cards": 482,
     "cards_by_exam": {
-      "AP1": 274,
-      "AP1/AP2": 197,
-      "AP2": 217,
-      "BS": 172
+      "AP1": 277,
+      "AP1/AP2": 205,
+      "AP2": 220,
+      "BS": 175
     }
   },
   "decks_update_noetig": [
@@ -30,7 +30,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 25,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "26d8d6a19f8c",
       "quellseiten_hash_deck": "26d8d6a19f8c",
       "neue_seiten": [
@@ -49,7 +49,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 25,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "0f7fbd433b1c",
       "quellseiten_hash_deck": "0f7fbd433b1c",
       "neue_seiten": [
@@ -68,7 +68,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 5,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "c4b2c53eba77",
       "quellseiten_hash_deck": "c4b2c53eba77",
       "neue_seiten": [
@@ -87,7 +87,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 18,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "0c0e22abd6f9",
       "quellseiten_hash_deck": "0c0e22abd6f9",
       "neue_seiten": [
@@ -106,7 +106,7 @@
       "karten_anzahl": 10,
       "quellseiten_anzahl": 34,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "b5a6c7b38472",
       "quellseiten_hash_deck": "b5a6c7b38472",
       "neue_seiten": [
@@ -125,7 +125,7 @@
       "karten_anzahl": 4,
       "quellseiten_anzahl": 2,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "fb0d6ca3f34e",
       "quellseiten_hash_deck": "fb0d6ca3f34e",
       "neue_seiten": [
@@ -144,7 +144,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 76,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "3508fa625930",
       "quellseiten_hash_deck": "3508fa625930",
       "neue_seiten": [
@@ -163,7 +163,7 @@
       "karten_anzahl": 5,
       "quellseiten_anzahl": 5,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "bb95a3417b43",
       "quellseiten_hash_deck": "bb95a3417b43",
       "neue_seiten": [
@@ -182,7 +182,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 75,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "3a4c96151639",
       "quellseiten_hash_deck": "3a4c96151639",
       "neue_seiten": [
@@ -201,7 +201,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 39,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "7cbf5f7b3f6b",
       "quellseiten_hash_deck": "7cbf5f7b3f6b",
       "neue_seiten": [
@@ -220,7 +220,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 59,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "55ac345df4f2",
       "quellseiten_hash_deck": "55ac345df4f2",
       "neue_seiten": [
@@ -239,7 +239,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 58,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "5c68f4b481f8",
       "quellseiten_hash_deck": "5c68f4b481f8",
       "neue_seiten": [
@@ -258,7 +258,7 @@
       "karten_anzahl": 4,
       "quellseiten_anzahl": 2,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "10159c1ea9bf",
       "quellseiten_hash_deck": "10159c1ea9bf",
       "neue_seiten": [
@@ -277,7 +277,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 13,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "14bc48a121cf",
       "quellseiten_hash_deck": "14bc48a121cf",
       "neue_seiten": [
@@ -296,7 +296,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 20,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "6dca37d78623",
       "quellseiten_hash_deck": "6dca37d78623",
       "neue_seiten": [
@@ -315,7 +315,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 35,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "133b965ec669",
       "quellseiten_hash_deck": "133b965ec669",
       "neue_seiten": [
@@ -334,7 +334,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 34,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "632b6e245aed",
       "quellseiten_hash_deck": "632b6e245aed",
       "neue_seiten": [
@@ -353,7 +353,7 @@
       "karten_anzahl": 5,
       "quellseiten_anzahl": 4,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "e005a1a7b680",
       "quellseiten_hash_deck": "e005a1a7b680",
       "neue_seiten": [
@@ -372,7 +372,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 30,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "0f984d44e247",
       "quellseiten_hash_deck": "0f984d44e247",
       "neue_seiten": [
@@ -391,7 +391,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 9,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "0bd14dbf9c7c",
       "quellseiten_hash_deck": "0bd14dbf9c7c",
       "neue_seiten": [
@@ -410,7 +410,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 15,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "6b01ff4f0a31",
       "quellseiten_hash_deck": "6b01ff4f0a31",
       "neue_seiten": [
@@ -429,7 +429,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 8,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "82c544b7f866",
       "quellseiten_hash_deck": "82c544b7f866",
       "neue_seiten": [
@@ -448,7 +448,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 6,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "aeb97b57a26a",
       "quellseiten_hash_deck": "aeb97b57a26a",
       "neue_seiten": [
@@ -467,7 +467,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 14,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "7e442e4ab290",
       "quellseiten_hash_deck": "7e442e4ab290",
       "neue_seiten": [
@@ -486,7 +486,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 16,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "7dfb78071cc9",
       "quellseiten_hash_deck": "7dfb78071cc9",
       "neue_seiten": [
@@ -505,7 +505,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 33,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "dad81a09c50c",
       "quellseiten_hash_deck": "dad81a09c50c",
       "neue_seiten": [
@@ -524,7 +524,7 @@
       "karten_anzahl": 4,
       "quellseiten_anzahl": 2,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "47a80d78dd0c",
       "quellseiten_hash_deck": "47a80d78dd0c",
       "neue_seiten": [
@@ -540,12 +540,12 @@
       "pruefung": "AP1/AP2",
       "deck_path": "05_Karteikarten/Anwendungsentwicklung/UML-Diagramme.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/UML-Diagramme.md",
-      "karten_anzahl": 9,
-      "quellseiten_anzahl": 20,
-      "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
-      "quellseiten_hash_aktuell": "d85776926ea0",
-      "quellseiten_hash_deck": "d85776926ea0",
+      "karten_anzahl": 10,
+      "quellseiten_anzahl": 21,
+      "stand_karten": "2026-11-26",
+      "stand_quelle": "2026-11-26",
+      "quellseiten_hash_aktuell": "bb818acacfeb",
+      "quellseiten_hash_deck": "bb818acacfeb",
       "neue_seiten": [
 
       ],
@@ -562,7 +562,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 197,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "4aed9cd5a68b",
       "quellseiten_hash_deck": "4aed9cd5a68b",
       "neue_seiten": [
@@ -581,7 +581,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 82,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "50d2a9416d2c",
       "quellseiten_hash_deck": "50d2a9416d2c",
       "neue_seiten": [
@@ -600,7 +600,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 9,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "1a1e9bdd5ef9",
       "quellseiten_hash_deck": "1a1e9bdd5ef9",
       "neue_seiten": [
@@ -619,7 +619,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 7,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "409005f0fc2b",
       "quellseiten_hash_deck": "409005f0fc2b",
       "neue_seiten": [
@@ -638,7 +638,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 24,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "c3c74323b103",
       "quellseiten_hash_deck": "c3c74323b103",
       "neue_seiten": [
@@ -657,7 +657,7 @@
       "karten_anzahl": 4,
       "quellseiten_anzahl": 2,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "fccbcc5ad8c0",
       "quellseiten_hash_deck": "fccbcc5ad8c0",
       "neue_seiten": [
@@ -676,7 +676,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 18,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "ad9e2f89d52d",
       "quellseiten_hash_deck": "ad9e2f89d52d",
       "neue_seiten": [
@@ -695,7 +695,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 5,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "5185f4068197",
       "quellseiten_hash_deck": "5185f4068197",
       "neue_seiten": [
@@ -714,7 +714,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 9,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "3d12c3b5cf48",
       "quellseiten_hash_deck": "3d12c3b5cf48",
       "neue_seiten": [
@@ -733,7 +733,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 3,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "e3e7d5c7b8e9",
       "quellseiten_hash_deck": "e3e7d5c7b8e9",
       "neue_seiten": [
@@ -752,7 +752,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 3,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "68ac69a2ae02",
       "quellseiten_hash_deck": "68ac69a2ae02",
       "neue_seiten": [
@@ -771,7 +771,7 @@
       "karten_anzahl": 8,
       "quellseiten_anzahl": 14,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "69f5333389fb",
       "quellseiten_hash_deck": "69f5333389fb",
       "neue_seiten": [
@@ -788,11 +788,11 @@
       "deck_path": "05_Karteikarten/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting.md",
       "karten_anzahl": 10,
-      "quellseiten_anzahl": 22,
-      "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
-      "quellseiten_hash_aktuell": "c7e02b5c051d",
-      "quellseiten_hash_deck": "c7e02b5c051d",
+      "quellseiten_anzahl": 21,
+      "stand_karten": "2026-11-26",
+      "stand_quelle": "2026-11-26",
+      "quellseiten_hash_aktuell": "48a2d1418760",
+      "quellseiten_hash_deck": "48a2d1418760",
       "neue_seiten": [
 
       ],
@@ -809,7 +809,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 11,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "79f8db7a8b72",
       "quellseiten_hash_deck": "79f8db7a8b72",
       "neue_seiten": [
@@ -828,7 +828,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 20,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "ec2ec3e5965f",
       "quellseiten_hash_deck": "ec2ec3e5965f",
       "neue_seiten": [
@@ -847,7 +847,7 @@
       "karten_anzahl": 4,
       "quellseiten_anzahl": 1,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "62b7c866b7e3",
       "quellseiten_hash_deck": "62b7c866b7e3",
       "neue_seiten": [
@@ -863,12 +863,12 @@
       "pruefung": "AP1/AP2",
       "deck_path": "05_Karteikarten/IT_Technik_und_Sicherheit/Malware und Angriffe.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Malware und Angriffe.md",
-      "karten_anzahl": 7,
-      "quellseiten_anzahl": 21,
-      "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
-      "quellseiten_hash_aktuell": "89befc42ef17",
-      "quellseiten_hash_deck": "89befc42ef17",
+      "karten_anzahl": 9,
+      "quellseiten_anzahl": 27,
+      "stand_karten": "2026-11-26",
+      "stand_quelle": "2026-11-26",
+      "quellseiten_hash_aktuell": "135b1fbd0f8f",
+      "quellseiten_hash_deck": "135b1fbd0f8f",
       "neue_seiten": [
 
       ],
@@ -885,7 +885,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 3,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "69394e963a8d",
       "quellseiten_hash_deck": "69394e963a8d",
       "neue_seiten": [
@@ -904,7 +904,7 @@
       "karten_anzahl": 11,
       "quellseiten_anzahl": 40,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "7913978a4b12",
       "quellseiten_hash_deck": "7913978a4b12",
       "neue_seiten": [
@@ -923,7 +923,7 @@
       "karten_anzahl": 5,
       "quellseiten_anzahl": 3,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "437fb1ed7985",
       "quellseiten_hash_deck": "437fb1ed7985",
       "neue_seiten": [
@@ -942,7 +942,7 @@
       "karten_anzahl": 11,
       "quellseiten_anzahl": 28,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "81c895ca6947",
       "quellseiten_hash_deck": "81c895ca6947",
       "neue_seiten": [
@@ -961,7 +961,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 20,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "30c81191c53b",
       "quellseiten_hash_deck": "30c81191c53b",
       "neue_seiten": [
@@ -980,7 +980,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 5,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "5f9021420193",
       "quellseiten_hash_deck": "5f9021420193",
       "neue_seiten": [
@@ -999,7 +999,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 10,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "d239df6fa2ba",
       "quellseiten_hash_deck": "d239df6fa2ba",
       "neue_seiten": [
@@ -1018,7 +1018,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 8,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "32eeca37b37e",
       "quellseiten_hash_deck": "32eeca37b37e",
       "neue_seiten": [
@@ -1037,7 +1037,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 8,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "3435ec0b0d51",
       "quellseiten_hash_deck": "3435ec0b0d51",
       "neue_seiten": [
@@ -1056,7 +1056,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 8,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "ebb7f9071aa9",
       "quellseiten_hash_deck": "ebb7f9071aa9",
       "neue_seiten": [
@@ -1075,7 +1075,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 9,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "1a0ba9301c6f",
       "quellseiten_hash_deck": "1a0ba9301c6f",
       "neue_seiten": [
@@ -1094,7 +1094,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 12,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "caaf91568841",
       "quellseiten_hash_deck": "caaf91568841",
       "neue_seiten": [
@@ -1113,7 +1113,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 4,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "8c5aef90d2a1",
       "quellseiten_hash_deck": "8c5aef90d2a1",
       "neue_seiten": [
@@ -1132,7 +1132,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 4,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "a214578c8805",
       "quellseiten_hash_deck": "a214578c8805",
       "neue_seiten": [
@@ -1151,7 +1151,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 21,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "f6974ce70a2b",
       "quellseiten_hash_deck": "f6974ce70a2b",
       "neue_seiten": [
@@ -1170,7 +1170,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 5,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "75c4219481eb",
       "quellseiten_hash_deck": "75c4219481eb",
       "neue_seiten": [
@@ -1189,7 +1189,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 8,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "6335d90e000d",
       "quellseiten_hash_deck": "6335d90e000d",
       "neue_seiten": [
@@ -1208,7 +1208,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 3,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "3a15ae77f383",
       "quellseiten_hash_deck": "3a15ae77f383",
       "neue_seiten": [
@@ -1227,7 +1227,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 8,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "7bf61d60403f",
       "quellseiten_hash_deck": "7bf61d60403f",
       "neue_seiten": [
@@ -1246,7 +1246,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 5,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "6db7a8ce4456",
       "quellseiten_hash_deck": "6db7a8ce4456",
       "neue_seiten": [
@@ -1265,7 +1265,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 14,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "b75a217ccc3d",
       "quellseiten_hash_deck": "b75a217ccc3d",
       "neue_seiten": [
@@ -1284,7 +1284,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 3,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "6ed329cd64bd",
       "quellseiten_hash_deck": "6ed329cd64bd",
       "neue_seiten": [
@@ -1303,7 +1303,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 8,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "52856295e7dc",
       "quellseiten_hash_deck": "52856295e7dc",
       "neue_seiten": [
@@ -1322,7 +1322,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 7,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "658554aa5f62",
       "quellseiten_hash_deck": "658554aa5f62",
       "neue_seiten": [
@@ -1341,7 +1341,7 @@
       "karten_anzahl": 4,
       "quellseiten_anzahl": 2,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "bce6d84403f9",
       "quellseiten_hash_deck": "bce6d84403f9",
       "neue_seiten": [
@@ -1360,7 +1360,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 16,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "ef3de45e1e7a",
       "quellseiten_hash_deck": "ef3de45e1e7a",
       "neue_seiten": [
@@ -1379,7 +1379,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 4,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "3a8f3e12f2f6",
       "quellseiten_hash_deck": "3a8f3e12f2f6",
       "neue_seiten": [
@@ -1395,12 +1395,31 @@
       "pruefung": "AP2",
       "deck_path": "05_Karteikarten/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte.md",
-      "karten_anzahl": 9,
-      "quellseiten_anzahl": 13,
-      "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
-      "quellseiten_hash_aktuell": "090d484e28e2",
-      "quellseiten_hash_deck": "090d484e28e2",
+      "karten_anzahl": 10,
+      "quellseiten_anzahl": 15,
+      "stand_karten": "2026-11-26",
+      "stand_quelle": "2026-11-26",
+      "quellseiten_hash_aktuell": "3b1555862906",
+      "quellseiten_hash_deck": "3b1555862906",
+      "neue_seiten": [
+
+      ],
+      "entfernte_seiten": [
+
+      ]
+    },
+    {
+      "thema": "IT-Servicearten und Service-Management",
+      "kategorie": "Wirtschaft_und_Recht",
+      "pruefung": "AP1/AP2",
+      "deck_path": "05_Karteikarten/Wirtschaft_und_Recht/IT-Servicearten und Service-Management.md",
+      "thema_quelle": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/IT-Servicearten und Service-Management.md",
+      "karten_anzahl": 6,
+      "quellseiten_anzahl": 4,
+      "stand_karten": "2026-11-26",
+      "stand_quelle": "2026-11-26",
+      "quellseiten_hash_aktuell": "777c09c2058d",
+      "quellseiten_hash_deck": "777c09c2058d",
       "neue_seiten": [
 
       ],
@@ -1417,7 +1436,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 4,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "d9c275bb3542",
       "quellseiten_hash_deck": "d9c275bb3542",
       "neue_seiten": [
@@ -1436,7 +1455,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 12,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "a60e0d7424ff",
       "quellseiten_hash_deck": "a60e0d7424ff",
       "neue_seiten": [
@@ -1455,7 +1474,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 12,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "c9478d35409c",
       "quellseiten_hash_deck": "c9478d35409c",
       "neue_seiten": [
@@ -1474,7 +1493,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 6,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "8f601dd12d64",
       "quellseiten_hash_deck": "8f601dd12d64",
       "neue_seiten": [
@@ -1493,7 +1512,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 19,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "ba1fad735586",
       "quellseiten_hash_deck": "ba1fad735586",
       "neue_seiten": [
@@ -1512,7 +1531,7 @@
       "karten_anzahl": 5,
       "quellseiten_anzahl": 3,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "751f9336b51f",
       "quellseiten_hash_deck": "751f9336b51f",
       "neue_seiten": [
@@ -1528,12 +1547,12 @@
       "pruefung": "AP2",
       "deck_path": "05_Karteikarten/Wirtschaft_und_Recht/Organisation im Betrieb.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Organisation im Betrieb.md",
-      "karten_anzahl": 7,
-      "quellseiten_anzahl": 39,
-      "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
-      "quellseiten_hash_aktuell": "d1da7a99b892",
-      "quellseiten_hash_deck": "d1da7a99b892",
+      "karten_anzahl": 8,
+      "quellseiten_anzahl": 41,
+      "stand_karten": "2026-11-26",
+      "stand_quelle": "2026-11-26",
+      "quellseiten_hash_aktuell": "ee1b0550c52c",
+      "quellseiten_hash_deck": "ee1b0550c52c",
       "neue_seiten": [
 
       ],
@@ -1550,7 +1569,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 3,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "b22daa51ac69",
       "quellseiten_hash_deck": "b22daa51ac69",
       "neue_seiten": [
@@ -1569,7 +1588,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 3,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "73eeb3f4df0e",
       "quellseiten_hash_deck": "73eeb3f4df0e",
       "neue_seiten": [
@@ -1588,7 +1607,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 23,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "6af61cc3988a",
       "quellseiten_hash_deck": "6af61cc3988a",
       "neue_seiten": [
@@ -1607,7 +1626,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 7,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "6e462799ed15",
       "quellseiten_hash_deck": "6e462799ed15",
       "neue_seiten": [
@@ -1626,7 +1645,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 19,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "0658b9422a29",
       "quellseiten_hash_deck": "0658b9422a29",
       "neue_seiten": [
@@ -1645,7 +1664,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 3,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "34dc5382acfa",
       "quellseiten_hash_deck": "34dc5382acfa",
       "neue_seiten": [
@@ -1664,7 +1683,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 10,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "1fb6a762f0d3",
       "quellseiten_hash_deck": "1fb6a762f0d3",
       "neue_seiten": [
@@ -1683,7 +1702,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 4,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "028592414d25",
       "quellseiten_hash_deck": "028592414d25",
       "neue_seiten": [
@@ -1699,12 +1718,12 @@
       "pruefung": "BS",
       "deck_path": "05_Karteikarten/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur.md",
-      "karten_anzahl": 5,
-      "quellseiten_anzahl": 5,
-      "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
-      "quellseiten_hash_aktuell": "9f13f4537afa",
-      "quellseiten_hash_deck": "9f13f4537afa",
+      "karten_anzahl": 6,
+      "quellseiten_anzahl": 6,
+      "stand_karten": "2026-11-26",
+      "stand_quelle": "2026-11-26",
+      "quellseiten_hash_aktuell": "1858228a29e0",
+      "quellseiten_hash_deck": "1858228a29e0",
       "neue_seiten": [
 
       ],
@@ -1721,7 +1740,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 13,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "4cebfae54438",
       "quellseiten_hash_deck": "4cebfae54438",
       "neue_seiten": [
@@ -1740,7 +1759,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 10,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "98405cdbb925",
       "quellseiten_hash_deck": "98405cdbb925",
       "neue_seiten": [
@@ -1759,7 +1778,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 7,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "d7025489715b",
       "quellseiten_hash_deck": "d7025489715b",
       "neue_seiten": [
@@ -1778,7 +1797,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 5,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "9e9bdfa6c9b0",
       "quellseiten_hash_deck": "9e9bdfa6c9b0",
       "neue_seiten": [
@@ -1797,7 +1816,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 9,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "d470dc3fba80",
       "quellseiten_hash_deck": "d470dc3fba80",
       "neue_seiten": [
@@ -1816,7 +1835,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 7,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "b49e1e72802d",
       "quellseiten_hash_deck": "b49e1e72802d",
       "neue_seiten": [
@@ -1835,7 +1854,7 @@
       "karten_anzahl": 5,
       "quellseiten_anzahl": 4,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "dce1d0e1a972",
       "quellseiten_hash_deck": "dce1d0e1a972",
       "neue_seiten": [
@@ -1854,7 +1873,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 13,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "1a6476b02888",
       "quellseiten_hash_deck": "1a6476b02888",
       "neue_seiten": [
@@ -1873,7 +1892,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 6,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "516e3608440a",
       "quellseiten_hash_deck": "516e3608440a",
       "neue_seiten": [
@@ -1892,7 +1911,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 18,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "1a6fa5293f02",
       "quellseiten_hash_deck": "1a6fa5293f02",
       "neue_seiten": [
@@ -1911,7 +1930,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 3,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "17c9428d5a2b",
       "quellseiten_hash_deck": "17c9428d5a2b",
       "neue_seiten": [
@@ -1930,7 +1949,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 5,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "62cd5686195e",
       "quellseiten_hash_deck": "62cd5686195e",
       "neue_seiten": [
@@ -1949,7 +1968,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 13,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "e80f23b0164f",
       "quellseiten_hash_deck": "e80f23b0164f",
       "neue_seiten": [
@@ -1968,7 +1987,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 10,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "b69d0c17c713",
       "quellseiten_hash_deck": "b69d0c17c713",
       "neue_seiten": [
@@ -1987,7 +2006,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 7,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "baffaf5bf175",
       "quellseiten_hash_deck": "baffaf5bf175",
       "neue_seiten": [
@@ -2006,7 +2025,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 15,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "660c42815935",
       "quellseiten_hash_deck": "660c42815935",
       "neue_seiten": [
@@ -2022,12 +2041,12 @@
       "pruefung": "AP1",
       "deck_path": "05_Karteikarten/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand.md",
-      "karten_anzahl": 6,
-      "quellseiten_anzahl": 10,
-      "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
-      "quellseiten_hash_aktuell": "a8a1b7ec942e",
-      "quellseiten_hash_deck": "a8a1b7ec942e",
+      "karten_anzahl": 7,
+      "quellseiten_anzahl": 11,
+      "stand_karten": "2026-11-26",
+      "stand_quelle": "2026-11-26",
+      "quellseiten_hash_aktuell": "4a5bb469d2c8",
+      "quellseiten_hash_deck": "4a5bb469d2c8",
       "neue_seiten": [
 
       ],
@@ -2041,12 +2060,12 @@
       "pruefung": "BS",
       "deck_path": "05_Karteikarten/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen.md",
-      "karten_anzahl": 6,
-      "quellseiten_anzahl": 14,
-      "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
-      "quellseiten_hash_aktuell": "302f025fb1fc",
-      "quellseiten_hash_deck": "302f025fb1fc",
+      "karten_anzahl": 7,
+      "quellseiten_anzahl": 15,
+      "stand_karten": "2026-11-26",
+      "stand_quelle": "2026-11-26",
+      "quellseiten_hash_aktuell": "64460427c497",
+      "quellseiten_hash_deck": "64460427c497",
       "neue_seiten": [
 
       ],
@@ -2063,7 +2082,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 3,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "bfe5b074f435",
       "quellseiten_hash_deck": "bfe5b074f435",
       "neue_seiten": [
@@ -2082,7 +2101,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 8,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "a019d00ef736",
       "quellseiten_hash_deck": "a019d00ef736",
       "neue_seiten": [
@@ -2101,7 +2120,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 11,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "c643378f04a1",
       "quellseiten_hash_deck": "c643378f04a1",
       "neue_seiten": [
@@ -2117,12 +2136,12 @@
       "pruefung": "AP1",
       "deck_path": "05_Karteikarten/Elektrotechnik/Verstärkung Dämpfung und Pegelrechnung.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Elektrotechnik/Verstärkung Dämpfung und Pegelrechnung.md",
-      "karten_anzahl": 7,
+      "karten_anzahl": 8,
       "quellseiten_anzahl": 6,
-      "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
-      "quellseiten_hash_aktuell": "800b14fd0747",
-      "quellseiten_hash_deck": "800b14fd0747",
+      "stand_karten": "2026-11-26",
+      "stand_quelle": "2026-11-26",
+      "quellseiten_hash_aktuell": "1ca5f620a3c8",
+      "quellseiten_hash_deck": "1ca5f620a3c8",
       "neue_seiten": [
 
       ],
@@ -2139,7 +2158,7 @@
       "karten_anzahl": 4,
       "quellseiten_anzahl": 1,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "ba55c6c5a7b6",
       "quellseiten_hash_deck": "ba55c6c5a7b6",
       "neue_seiten": [
@@ -2158,7 +2177,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 11,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "55d99b133572",
       "quellseiten_hash_deck": "55d99b133572",
       "neue_seiten": [
@@ -2177,7 +2196,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 18,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "866bd0d47ad6",
       "quellseiten_hash_deck": "866bd0d47ad6",
       "neue_seiten": [
@@ -2196,7 +2215,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 7,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "28c266f5556f",
       "quellseiten_hash_deck": "28c266f5556f",
       "neue_seiten": [
@@ -2215,7 +2234,7 @@
       "karten_anzahl": 4,
       "quellseiten_anzahl": 2,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "147af801ae68",
       "quellseiten_hash_deck": "147af801ae68",
       "neue_seiten": [
@@ -2234,7 +2253,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 12,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "cac472965693",
       "quellseiten_hash_deck": "cac472965693",
       "neue_seiten": [
@@ -2253,7 +2272,7 @@
       "karten_anzahl": 5,
       "quellseiten_anzahl": 3,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "d0c1fdc8ea57",
       "quellseiten_hash_deck": "d0c1fdc8ea57",
       "neue_seiten": [
@@ -2272,7 +2291,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 12,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "41b396189309",
       "quellseiten_hash_deck": "41b396189309",
       "neue_seiten": [
@@ -2291,7 +2310,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 13,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "0cc1a42dd452",
       "quellseiten_hash_deck": "0cc1a42dd452",
       "neue_seiten": [
@@ -2310,7 +2329,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 11,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "0e301ef782a9",
       "quellseiten_hash_deck": "0e301ef782a9",
       "neue_seiten": [
@@ -2329,7 +2348,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 13,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "f20befd45329",
       "quellseiten_hash_deck": "f20befd45329",
       "neue_seiten": [
@@ -2348,7 +2367,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 7,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "5efd6bf62702",
       "quellseiten_hash_deck": "5efd6bf62702",
       "neue_seiten": [
@@ -2364,12 +2383,12 @@
       "pruefung": "AP1",
       "deck_path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/IT Vocabulary and Hardware.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/IT Vocabulary and Hardware.md",
-      "karten_anzahl": 6,
-      "quellseiten_anzahl": 9,
-      "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
-      "quellseiten_hash_aktuell": "5078b7246a9e",
-      "quellseiten_hash_deck": "5078b7246a9e",
+      "karten_anzahl": 7,
+      "quellseiten_anzahl": 15,
+      "stand_karten": "2026-11-26",
+      "stand_quelle": "2026-11-26",
+      "quellseiten_hash_aktuell": "4c804353c78d",
+      "quellseiten_hash_deck": "4c804353c78d",
       "neue_seiten": [
 
       ],
@@ -2386,7 +2405,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 8,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "f9cedc23f6ba",
       "quellseiten_hash_deck": "f9cedc23f6ba",
       "neue_seiten": [
@@ -2405,7 +2424,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 11,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "441533b151ed",
       "quellseiten_hash_deck": "441533b151ed",
       "neue_seiten": [
@@ -2424,7 +2443,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 7,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "1981dafdecdc",
       "quellseiten_hash_deck": "1981dafdecdc",
       "neue_seiten": [
@@ -2443,7 +2462,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 7,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "0ba21874b759",
       "quellseiten_hash_deck": "0ba21874b759",
       "neue_seiten": [
@@ -2462,7 +2481,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 26,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "a62be31c56fd",
       "quellseiten_hash_deck": "a62be31c56fd",
       "neue_seiten": [
@@ -2478,12 +2497,12 @@
       "pruefung": "AP1",
       "deck_path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Reading Comprehension and Case Studies.md",
       "thema_quelle": "03_Themen/Visuell_geprueft/Deutsch_Englisch_Kommunikation/Reading Comprehension and Case Studies.md",
-      "karten_anzahl": 6,
-      "quellseiten_anzahl": 11,
-      "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
-      "quellseiten_hash_aktuell": "824dc30718f7",
-      "quellseiten_hash_deck": "824dc30718f7",
+      "karten_anzahl": 7,
+      "quellseiten_anzahl": 15,
+      "stand_karten": "2026-11-26",
+      "stand_quelle": "2026-11-26",
+      "quellseiten_hash_aktuell": "88d1508cf74b",
+      "quellseiten_hash_deck": "88d1508cf74b",
       "neue_seiten": [
 
       ],
@@ -2500,7 +2519,7 @@
       "karten_anzahl": 4,
       "quellseiten_anzahl": 2,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "7cbc02352db3",
       "quellseiten_hash_deck": "7cbc02352db3",
       "neue_seiten": [
@@ -2519,7 +2538,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 5,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "9343155e09e9",
       "quellseiten_hash_deck": "9343155e09e9",
       "neue_seiten": [
@@ -2538,7 +2557,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 13,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "5219b2c7f7e0",
       "quellseiten_hash_deck": "5219b2c7f7e0",
       "neue_seiten": [
@@ -2557,7 +2576,7 @@
       "karten_anzahl": 6,
       "quellseiten_anzahl": 3,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "8e005fe76316",
       "quellseiten_hash_deck": "8e005fe76316",
       "neue_seiten": [
@@ -2576,7 +2595,7 @@
       "karten_anzahl": 7,
       "quellseiten_anzahl": 14,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "beb881acf033",
       "quellseiten_hash_deck": "beb881acf033",
       "neue_seiten": [
@@ -2595,7 +2614,7 @@
       "karten_anzahl": 4,
       "quellseiten_anzahl": 1,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "6ccc20836fd1",
       "quellseiten_hash_deck": "6ccc20836fd1",
       "neue_seiten": [
@@ -2614,7 +2633,7 @@
       "karten_anzahl": 3,
       "quellseiten_anzahl": 1,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "0eadf38b30d7",
       "quellseiten_hash_deck": "0eadf38b30d7",
       "neue_seiten": [
@@ -2633,7 +2652,7 @@
       "karten_anzahl": 3,
       "quellseiten_anzahl": 1,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "e4bbbfd88ce1",
       "quellseiten_hash_deck": "e4bbbfd88ce1",
       "neue_seiten": [
@@ -2652,7 +2671,7 @@
       "karten_anzahl": 4,
       "quellseiten_anzahl": 2,
       "stand_karten": "2026-11-24",
-      "stand_quelle": "2026-11-24",
+      "stand_quelle": "2026-11-26",
       "quellseiten_hash_aktuell": "a116805df367",
       "quellseiten_hash_deck": "a116805df367",
       "neue_seiten": [
