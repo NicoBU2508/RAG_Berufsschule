@@ -10,9 +10,7 @@ PRIVATE_PREFIX = VaultSupport::PRIVATE_PREFIX
 OUTPUT = ROOT.join("01_Index/Linkvalidierung_Nichtprivat.json")
 IGNORED_PREFIXES = [
   PRIVATE_PREFIX,
-  ".git/",
-  "Obsidian_Berufsschule/",
-  ".import_review/"
+  ".git/"
 ].freeze
 
 class FileIndex

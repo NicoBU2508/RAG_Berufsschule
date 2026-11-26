@@ -9,7 +9,7 @@
       "pages": 87,
       "render_sheets": 22,
       "exact_render_matches": 22,
-      "status": "visuell_pixelidentisch"
+      "status": "visuell_pixelidentisch_entfernt"
     },
     {
       "duplicate_pdf": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf",
@@ -17,7 +17,7 @@
       "pages": 4,
       "render_sheets": 1,
       "exact_render_matches": 1,
-      "status": "visuell_pixelidentisch"
+      "status": "visuell_pixelidentisch_entfernt"
     },
     {
       "duplicate_pdf": "99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf",
@@ -25,12 +25,14 @@
       "pages": 6,
       "render_sheets": 2,
       "exact_render_matches": 2,
-      "status": "visuell_pixelidentisch"
+      "status": "visuell_pixelidentisch_entfernt"
     }
   ],
   "totals": {
-    "duplicate_pdfs": 3,
-    "duplicate_pages": 97,
+    "duplicate_pdfs": 0,
+    "duplicate_pages": 0,
+    "proven_removed_duplicate_pdfs": 3,
+    "proven_removed_duplicate_pages": 97,
     "render_sheets": 25,
     "exact_render_matches": 25
   }

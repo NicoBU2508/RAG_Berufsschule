@@ -10,8 +10,8 @@
     "canonical_evidence_pages": 1263,
     "support_only_pages": 11,
     "excluded_active_pages": 128,
-    "proven_duplicate_pdfs": 3,
-    "proven_duplicate_pages": 97
+    "proven_duplicate_pdfs": 0,
+    "proven_duplicate_pages": 0
   },
   "sources": {
     "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md": {

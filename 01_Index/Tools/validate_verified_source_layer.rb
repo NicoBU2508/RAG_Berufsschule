@@ -108,13 +108,17 @@ expected_dup_pages = audit_totals.fetch("visually_identical_duplicate_pages")
 expected_nonprivate_pdfs = expected_active_pdfs + expected_dup_pdfs
 expected_nonprivate_pages = expected_active_pages + expected_dup_pages
 
+duplicate_proof = JSON.parse(File.read(ROOT.join("01_Index/Auditdaten/PDF_Duplikatnachweis.json"), encoding: "UTF-8"))
+proven_removed_dups = duplicate_proof.fetch("pairs", [])
+dups_still_on_disk = proven_removed_dups.select { |pair| ROOT.join(pair.fetch("duplicate_pdf")).file? }
+
 validation.assert("alle nicht-privaten Original-PDFs erfasst", audit_totals.fetch("nonprivate_pdfs_accounted_for") == all_original_pdfs && all_original_pdfs == expected_nonprivate_pdfs, "Disk: #{all_original_pdfs}; Audit: #{audit_totals['nonprivate_pdfs_accounted_for']}")
-validation.assert("nicht-private Seitenbilanz konsistent", audit_totals.fetch("nonprivate_pages_accounted_for") == expected_nonprivate_pages && expected_nonprivate_pages >= 902)
+validation.assert("nicht-private Seitenbilanz konsistent", audit_totals.fetch("nonprivate_pages_accounted_for") == expected_nonprivate_pages && expected_nonprivate_pages >= 805)
 validation.assert("alle aktiven Quellnotizen auditiert", expected_active_pdfs == all_source_notes.length && expected_active_pdfs >= 33, "Disk: #{all_source_notes.length}; Audit: #{expected_active_pdfs}")
 validation.assert("alle aktiven Seiten visuell geprüft", audit_pages.length == expected_active_pages && expected_active_pages >= 805 && audit_pages.all? { |page| page.dig("audit", "visual_checked") == true })
 validation.assert("jede aktive Audit-Seite eindeutig", audit_pages.map { |page| page.fetch("id") }.uniq.length == audit_pages.length)
-validation.assert("PDF-Dubletten nachgewiesen", totals.fetch("proven_duplicate_pdfs") == expected_dup_pdfs && expected_dup_pdfs >= 3)
-validation.assert("Dublettenseiten nachgewiesen", totals.fetch("proven_duplicate_pages") == expected_dup_pages && expected_dup_pages >= 97)
+validation.assert("PDF-Dubletten verifiziert bereinigt", proven_removed_dups.length >= 3 && dups_still_on_disk.empty? && totals.fetch("proven_duplicate_pdfs") == expected_dup_pdfs)
+validation.assert("Dublettenseiten-Nachweis konsistent", duplicate_proof.dig("totals", "proven_removed_duplicate_pages").to_i >= 97 && totals.fetch("proven_duplicate_pages") == expected_dup_pages)
 validation.assert("private PDF ungelesen", audit_totals.fetch("private_pdfs_unread") == private_pdfs)
 
 status_counts = mapping_pages.each_with_object(Hash.new(0)) { |page, counts| counts[page.fetch("status")] += 1 }
@@ -214,9 +218,8 @@ sensitive_page_17 = page_reader.body(sensitive_text, 17).to_s
 validation.assert("keine widersprüchlichen OCR-Hinweise auf sensibler S.17", !sensitive_page_17.include?("Kein verwertbarer Text auf dieser Seite") && !sensitive_page_17.include?("OCRplus-Nachtrag integriert"))
 
 required_exclusions = [
-  "98_Archiv_nicht_lernen", "99_Originale", "00_Posteingang_GoodNotes", "03_Themen/Weiterleitungen", "03_Themen/Allgemein",
-  "03_Themen/Anwendungsentwicklung", "03_Themen/Deutsch_Englisch_Kommunikation", "03_Themen/Elektrotechnik",
-  "03_Themen/IT_Technik_und_Sicherheit", "03_Themen/Wirtschaft_und_Recht", "04_Pruefung",
+  "98_Archiv_nicht_lernen", "99_Originale", "00_Posteingang_GoodNotes", "04_Pruefung",
+  "05_Karteikarten", "06_Altklausuren", ".agents",
   "IT_Sicherheit_Aufgabe_1_1.md", "IT_Sicherheit_Lernziele.md"
 ]
 active_canonical_sources = mapping.fetch("sources").each_with_object([]) do |(path, source), selected|
@@ -254,18 +257,18 @@ private_files = files.select { |file| file.fetch("path").start_with?("98_Archiv_
 unclassified_files = files.select { |file| file["role"] == "unclassified" }.map { |file| file.fetch("path") }
 
 validation.assert("Manifest: geprüfte Themen primär", verified_topics.length == topic_count && verified_topics.all? { |file| file["role"] == "curated_topic" && file["ai_use"] == "primary" })
-validation.assert("Manifest: alte Themen ausgeschlossen", legacy_topics.all? { |file| file["ai_use"] == "excluded" })
-validation.assert("Manifest: alle Lernmodule ausgeschlossen", learning_modules.all? { |file| file["ai_use"] == "excluded" })
+validation.assert("Manifest: keine alten Themen vorhanden", legacy_topics.empty?)
+validation.assert("Manifest: keine alten Lernmodule vorhanden", learning_modules.empty?)
 validation.assert("Manifest: Privatbereich ausgeschlossen", !private_files.empty? && private_files.all? { |file| file["ai_use"] == "excluded" })
 validation.assert("Manifest: aktive und ausgeschlossene Quellen konsistent", files.count { |file| file["role"] == "source_note" } == active_canonical_sources.length && files.count { |file| file["role"] == "excluded_source_note" } == excluded_source_count)
 validation.assert("Manifest: Belegreihenfolge Quelle vor PDF", inventory.fetch("evidence_order") == ["source_note", "original_pdf"])
-validation.assert("Manifest: PDF-Dubletten immer ausgeschlossen", files.select { |file| file["role"] == "duplicate_pdf" }.length == expected_dup_pdfs && files.select { |file| file["role"] == "duplicate_pdf" }.all? { |file| file["ai_use"] == "excluded" })
+validation.assert("Manifest: keine PDF-Dubletten mehr im Vault", files.select { |file| file["role"] == "duplicate_pdf" }.length == expected_dup_pdfs)
 validation.assert("Manifest: keine unbekannte Datei", unclassified_files.empty? && inventory.dig("retrieval_profiles", "always_exclude").include?("unclassified"), unclassified_files.inspect)
 
 matrix = File.read(ROOT.join("01_Index/Quellenmatrix.md"), encoding: "UTF-8")
 validation.assert("Quellenmatrix nur mit geprüften Themen", !matrix.include?("/10_Lernordner/") && !matrix.match?(/\[\[03_Themen\/(?!Visuell_geprueft\/)/))
 link_report = JSON.parse(File.read(LINK_REPORT_PATH, encoding: "UTF-8"))
-validation.assert("alle nicht-privaten lokalen Referenzen auflösbar", link_report.fetch("unresolved") == 0 && link_report.fetch("markdown_files") >= 543, link_report.inspect)
+validation.assert("alle nicht-privaten lokalen Referenzen auflösbar", link_report.fetch("unresolved") == 0 && link_report.fetch("markdown_files") >= 350, link_report.inspect)
 
 validation.finish!
 puts "PASS: #{validation.checks.length} Abschlussprüfungen; #{expected_active_pages} aktive Seiten (#{topic_count} Themen, #{expected_allowlist.length} Copilot-Dateien) und #{expected_dup_pages} Dublettenseiten vollständig nachgewiesen."

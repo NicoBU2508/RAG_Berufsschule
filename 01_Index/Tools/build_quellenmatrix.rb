@@ -8,7 +8,7 @@ require_relative "lib/vault_support"
 ROOT = VaultSupport::ROOT
 OUTPUT = ROOT.join("01_Index/Quellenmatrix.md")
 
-SourceRecord = Struct.new(:path, :label, :subject, :pages, :text_status, :topic_links, keyword_init: true)
+SourceRecord = Struct.new(:path, :label, :fach_dir, :subject, :pages, :text_status, :topic_links, keyword_init: true)
 
 class SourceNoteReader
   REFERENCE_HEADING = "## 🎯 Geprüfte und sinnvolle Referenzen"
@@ -17,10 +17,12 @@ class SourceNoteReader
     text = File.read(path, encoding: "UTF-8")
     metadata = frontmatter(text)
     relative_path = Pathname.new(path).relative_path_from(root).to_s
+    fach_dir = relative_path.split("/")[1]
     SourceRecord.new(
       path: relative_path.delete_suffix(".md"),
       label: File.basename(relative_path, ".md"),
-      subject: metadata.fetch("fach_anzeige", metadata.fetch("fach", "Unbekannt")),
+      fach_dir: fach_dir,
+      subject: metadata.fetch("fach_anzeige", metadata.fetch("fach", fach_dir)),
       pages: metadata.fetch("seiten", "?"),
       text_status: metadata.fetch("textstatus", "nicht angegeben"),
       topic_links: reference_links(text)
@@ -58,10 +60,44 @@ class SourceMatrixBuilder
 
     excluded_count = records.count { |record| record.topic_links.empty? }
     rows = records.sort_by { |record| [record.subject, record.label] }.map { |record| row(record) }.join("\n")
-    [records.length, document(rows, records.length, excluded_count)]
+    subject_docs = build_subject_indexes(records)
+    [records.length, document(rows, records.length, excluded_count), subject_docs]
   end
 
   private
+
+  def build_subject_indexes(records)
+    audit_date = VaultSupport.latest_audit_date
+    records.group_by(&:fach_dir).sort.to_h do |fach_dir, list|
+      subject_title = list.first.subject
+      sorted = list.sort_by(&:label)
+      rows = sorted.map do |rec|
+        topics = rec.topic_links.empty? ? "_keine Zuordnung (ausgeschlossen)_" : rec.topic_links.join(", ")
+        "| [[#{rec.path}\\|#{rec.label}]] | #{rec.pages} | #{rec.text_status} | #{topics} |"
+      end.join("\n")
+      out_path = @root.join("02_Faecher", fach_dir, "#{fach_dir}.md")
+      doc = <<~MARKDOWN
+        ---
+        typ: fach_index
+        fach: "#{fach_dir}"
+        status: "visuell_geprueft"
+        stand: #{audit_date}
+        rag_include: false
+        ---
+        # #{subject_title}
+
+        > [!info] Fachübersicht
+        > Automatisch erzeugte Übersicht der seitenweise visuell geprüften Quellnotizen dieses Fachs und ihrer kanonischen Themen unter `03_Themen/Visuell_geprueft/`.
+
+        ## Quellen (#{sorted.length})
+
+        | Quelle | Seiten | Status | Kanonische Themen |
+        |---|---:|---|---|
+        #{rows}
+      MARKDOWN
+      [out_path, doc]
+    end
+  end
 
   def source_paths
     Dir.glob(@root.join("02_Faecher/*/Quellen/*.md").to_s)
@@ -103,6 +139,7 @@ class SourceMatrixBuilder
   end
 end
 
-count, content = SourceMatrixBuilder.new(ROOT).build
+count, content, subject_docs = SourceMatrixBuilder.new(ROOT).build
 VaultSupport.write_if_changed(OUTPUT, content)
-puts "Wrote #{OUTPUT.relative_path_from(ROOT)} (#{count} source notes)."
+subject_docs.each { |path, doc| VaultSupport.write_if_changed(path, doc) }
+puts "Wrote #{OUTPUT.relative_path_from(ROOT)} (#{count} source notes) and #{subject_docs.length} subject indexes."

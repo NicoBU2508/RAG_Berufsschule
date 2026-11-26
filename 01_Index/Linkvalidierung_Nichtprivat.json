@@ -2,9 +2,9 @@
   "schema_version": 1,
   "validated_on": "2026-11-26",
   "scope": "Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen",
-  "markdown_files": 760,
-  "wiki_links": 20062,
-  "local_markdown_links": 9466,
+  "markdown_files": 385,
+  "wiki_links": 4614,
+  "local_markdown_links": 1664,
   "unresolved": 0,
   "failures": [
 

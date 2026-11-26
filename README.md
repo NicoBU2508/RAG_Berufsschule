@@ -6,7 +6,7 @@ Ein Wissens- und Lern-RAG für die Fachinformatiker-Ausbildung (AE) IHK Bayern, 
 
 Nutzbar ist das RAG über alle in der IDE integrierten KI Agenten sowie alle die die Zugriff auf Lokale Datein auf deinem PC haben. Für die light Version Reicht es den aktuellen stand in eine ZIP zu packen und ihm einen Skill oder einem Agenten anzuhängen (wichtig dabei ist das dieser Skill mit enthalten ist KI-Lerncoach-Skill (`ap-lerncoach`)). Falls diese zu groß ist können auch nur die Themenbereche und Karteikarten gezipt werden, da diese in für KI gut lesbaren .md Format geschrieben sind und für die reine Funktionalität absolut ausreichen.
 
-> **Stand (Audit 24.11.2026):** **49** kanonische Quellnotizen · **1.389** visuell geprüfte PDF-Seiten (**1.251** Belegseiten) · **139** kuratierte Themen · **139** Karteikarten-Decks (**860** Karten) · **191** freigegebene RAG-/Copilot-Dateien
+> **Stand (Audit 26.11.2026):** **49** kanonische Quellnotizen · **1.402** visuell geprüfte PDF-Seiten (**1.263** Belegseiten) · **140** kuratierte Themen · **140** Karteikarten-Decks · **192** freigegebene RAG-/Copilot-Dateien
 
 ---
 
@@ -57,7 +57,7 @@ Die `.gitignore` schließt automatisch alle sensiblen und temporären Bereiche v
 - Private Noten/Dokumente (`**/Privat_Noten_nicht_fuer_KI/`)
 - Ungeprüfte Posteingangs-PDFs (`00_Posteingang_GoodNotes/**`)
 - Lokale Copilot-Zugangsdaten (`.obsidian/plugins/copilot/data.json`) und Workspace-Dateien
-- Temporäre Import-/Review-Artefakte (`.import_review/`, `.DS_Store`)
+- Lokale Betriebssystem-Dateien (`.DS_Store`)
 
 Nach jedem PDF-Import in Obsidian einmal **`Copilot: Force reindex vault`** (`⌘P`) ausführen, damit neue Quellnotizen im lokalen RAG-Index verfügbar sind.
 

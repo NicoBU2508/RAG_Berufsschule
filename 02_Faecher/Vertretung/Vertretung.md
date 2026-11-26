@@ -1,15 +1,17 @@
 ---
 typ: fach_index
 fach: "Vertretung"
-status: "semantisch-geprueft"
+status: "visuell_geprueft"
+stand: 2026-11-26
+rag_include: false
 ---
 # Vertretung
 
 > [!info] Fachübersicht
-> Diese Seite enthält aktive Lernquellen mit den geprüften Zielmodulen aus dem aktuellen Referenzdurchlauf.
+> Automatisch erzeugte Übersicht der seitenweise visuell geprüften Quellnotizen dieses Fachs und ihrer kanonischen Themen unter `03_Themen/Visuell_geprueft/`.
 
-## Quellen
+## Quellen (1)
 
-| Quelle | Seiten | Status | Geprüfte Themen |
+| Quelle | Seiten | Status | Kanonische Themen |
 |---|---:|---|---|
-| [[02_Faecher/Vertretung/Quellen/Untitled\|Untitled]] | 4 | gut: Textschicht vorhanden | [[02_Faecher/Vertretung/10_Lernordner/Einheiten Umrechnen/00_Einheiten Umrechnen\|Einheiten Umrechnen]], [[02_Faecher/Vertretung/10_Lernordner/Elektrotechnik Rechenuebungen/00_Elektrotechnik Rechenuebungen\|Elektrotechnik Rechenübungen]], [[02_Faecher/Vertretung/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege\|Restseiten Originalbelege]] |
+| [[02_Faecher/Vertretung/Quellen/Untitled\|Untitled]] | 4 | eingeschränkt: visuell geprüft (partial=1, ocr_error=2) | [[03_Themen/Visuell_geprueft/Elektrotechnik/Elektrotechnik-Rechenmethoden\|Elektrotechnik-Rechenmethoden]], [[03_Themen/Visuell_geprueft/Elektrotechnik/SI-Vorsätze und Einheitenumrechnung\|SI-Vorsätze und Einheitenumrechnung]] |

@@ -16,8 +16,27 @@ ENTRYPOINTS = [
   "03_Themen/00_Kuratierte_Themen"
 ].freeze
 EXTRA_EXCLUSIONS = [
+  "98_Archiv_nicht_lernen",
+  "99_Originale",
   "00_Posteingang_GoodNotes",
-  ".agents"
+  "04_Pruefung",
+  "05_Karteikarten",
+  "06_Altklausuren",
+  ".agents",
+  "IT_Sicherheit_Aufgabe_1_1.md",
+  "IT_Sicherheit_Lernziele.md"
+].freeze
+OBSOLETE_EXCLUSIONS = [
+  "03_Themen/Weiterleitungen",
+  "03_Themen/Allgemein",
+  "03_Themen/Anwendungsentwicklung",
+  "03_Themen/Deutsch_Englisch_Kommunikation",
+  "03_Themen/Elektrotechnik",
+  "03_Themen/IT_Technik_und_Sicherheit",
+  "03_Themen/Wirtschaft_und_Recht",
+  "05_Templates",
+  "07_Lernordner",
+  "10_Lernordner"
 ].freeze
 BASELINE_MINIMUM_FILES = 134
 
@@ -50,6 +69,11 @@ if copilot["qaInclusions"] != new_inclusions
 end
 
 current_exclusions = copilot.fetch("qaExclusions", "").split(",").map(&:strip).reject(&:empty?)
+filtered = current_exclusions.reject { |item| OBSOLETE_EXCLUSIONS.include?(URI.decode_www_form_component(item)) }
+if filtered.length != current_exclusions.length
+  current_exclusions = filtered
+  copilot_changed = true
+end
 decoded_exclusions = current_exclusions.map { |item| URI.decode_www_form_component(item) }
 EXTRA_EXCLUSIONS.each do |extra|
   next if decoded_exclusions.include?(extra)

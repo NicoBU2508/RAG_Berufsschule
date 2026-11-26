@@ -1,13 +1,13 @@
 ---
 typ: start
 status: ap_lernhelfer
-version: 3
-stand: 2026-11-25
+version: 4
+stand: 2026-11-26
 ---
 # 🎓 Obsidian AP-Lernhelfer Fachinformatiker
 
 > [!ap1] Ziel
-> Dieser Vault ist als AP-Lernbasis strukturiert. Alle 1.389 aktiven PDF-Seiten wurden visuell geprüft; 97 weitere Seiten wurden als pixelidentische Dubletten nachgewiesen. Kanonisch sind nur die daraus erzeugten Themenbezüge und die ausdrücklich zugelassenen Seiten der Quellnotizen.
+> Dieser Vault ist als AP-Lernbasis strukturiert. Alle **1.402 aktiven PDF-Seiten** (53 Quellen) wurden visuell geprüft; 3 pixelidentische PDF-Dubletten (97 Seiten) wurden nach Prüfung bereinigt. Kanonisch sind ausschließlich die daraus erzeugten **140 Themenbezüge** und die ausdrücklich zugelassenen Seiten der Quellnotizen.
 
 > [!important] Einstieg für GPT und Obsidian-Copilot
 > KI-Systeme beginnen bei [[00_KI_QUELLENSTART|KI-Quellenstart]]. Dort stehen Quellenpriorität, Ausschlüsse, Belegregeln und bekannte Qualitätsgrenzen.
@@ -15,7 +15,7 @@ stand: 2026-11-25
 ## Direkt starten
 
 1. [[04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste|IHK-AP1-Prüfungskatalog & Checkliste]] für die gezielte Prüfungsvorbereitung öffnen.
-2. [[03_Themen/00_Kuratierte_Themen|Visuell geprüftes Thema (139 Themen)]] auswählen.
+2. [[03_Themen/00_Kuratierte_Themen|Visuell geprüftes Thema (140 Themen)]] auswählen.
 3. Von dort die verlinkte Quellnotiz, genaue PDF-Seite oder direkt das [[05_Karteikarten/00_Karteikarten_Index|Karteikarten-Deck]] öffnen.
 4. Zahlen, Formeln, Code, Tabellen, Rechtsnormen und OCR-unsichere Stellen am Original kontrollieren.
 
@@ -26,12 +26,10 @@ stand: 2026-11-25
 - [[04_Pruefung/Fehlerjournal_und_Denkfehler|🎯 Denkfehler- & Hypercorrection-Register (Tag +1 / +7)]]
 - [[00_WORKFLOW_NEUE_MITSCHRIFTEN|Neue GoodNotes-Mitschriften integrieren]]
 - [[00_KI_QUELLENSTART|KI-/GPT-Quellenstart]]
-- [[03_Themen/00_Kuratierte_Themen|139 visuell geprüfte Themen]]
-- [[05_Karteikarten/00_Karteikarten_Index|Karteikarten (860 Karten mit AP1/AP2-Filter)]]
+- [[03_Themen/00_Kuratierte_Themen|140 visuell geprüfte Themen]]
+- [[05_Karteikarten/00_Karteikarten_Index|Karteikarten (mit AP1/AP2-Filter)]]
 - [[01_Index/KI_Quellenqualitaet|Ergebnis der vollständigen PDF- und Quellenprüfung]]
 - [[01_Index/PDF_Seitenaudit|Seitenaudit aller aktiven PDFs]]
-- [[00_Vault_Index_Vollständig|Vollständiger Vault-Index]]
-- [[01_Index/00_Gesamtindex|Gesamtindex]]
 - [[01_Index/Quellenmatrix|Quellenmatrix]]
 - [[01_Index/Duplikate und OCR|Duplikate, OCR und Datenschutz]]
 - [[04_Pruefung/AP1/00_AP1_Lernmatrix|AP1 Lernmatrix]]
@@ -40,17 +38,3 @@ stand: 2026-11-25
 
 > [!warning] Scan-Hinweis
 > `partial`, `ocr_error` oder `missing` bedeutet: Thema visuell bestätigt, Wortlaut aber nicht verlässlich maschinenlesbar. Solche Stellen niemals ungeprüft wörtlich übernehmen. Seiten mit `ki_exclude_seiten` sind kein Lern- oder KI-Beleg.
-## 🧭 Generierte Lernordner
-> [!warning] Sekundäre Lernschicht
-> Die fachweisen `10_Lernordner` können zum Üben und Suchen dienen. Ihre früher automatisch erzeugten Seitenzuordnungen waren häufig zu breit; sie sind deshalb keine kanonische GPT-Quelle und werden von Copilot nicht indexiert.
-
-- [[00_Lernordner_Gesamtindex|Lernordner Gesamtindex]]
-- [[Suchindex Themen und Begriffe]]
-
-## Historische Qualitätsberichte
-
-Die folgenden Berichte dokumentieren ältere Generierungsstände. Bei Widersprüchen gilt der vollständige Audit vom 13.07.2026.
-- [[OCRplus_Integrationsbericht]]
-- [[PDF_Vollstaendigkeitspruefung]]
-- [[Finaler_Linkcheck_OCRplus]]
-- [[01_Index/KI_Lernschicht_Projektweiter_Durchlauf_2026-06-19|KI-Lernschicht Projektbericht]]

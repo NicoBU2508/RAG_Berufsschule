@@ -8,7 +8,7 @@
     {
       "name": "alle nicht-privaten Original-PDFs erfasst",
       "status": "pass",
-      "details": "Disk: 56; Audit: 56"
+      "details": "Disk: 53; Audit: 53"
     },
     {
       "name": "nicht-private Seitenbilanz konsistent",
@@ -28,11 +28,11 @@
       "status": "pass"
     },
     {
-      "name": "PDF-Dubletten nachgewiesen",
+      "name": "PDF-Dubletten verifiziert bereinigt",
       "status": "pass"
     },
     {
-      "name": "Dublettenseiten nachgewiesen",
+      "name": "Dublettenseiten-Nachweis konsistent",
       "status": "pass"
     },
     {
@@ -151,11 +151,11 @@
       "status": "pass"
     },
     {
-      "name": "Manifest: alte Themen ausgeschlossen",
+      "name": "Manifest: keine alten Themen vorhanden",
       "status": "pass"
     },
     {
-      "name": "Manifest: alle Lernmodule ausgeschlossen",
+      "name": "Manifest: keine alten Lernmodule vorhanden",
       "status": "pass"
     },
     {
@@ -171,7 +171,7 @@
       "status": "pass"
     },
     {
-      "name": "Manifest: PDF-Dubletten immer ausgeschlossen",
+      "name": "Manifest: keine PDF-Dubletten mehr im Vault",
       "status": "pass"
     },
     {
@@ -186,7 +186,7 @@
     {
       "name": "alle nicht-privaten lokalen Referenzen auflösbar",
       "status": "pass",
-      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-11-26\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>760, \"wiki_links\"=>20062, \"local_markdown_links\"=>9466, \"unresolved\"=>0, \"failures\"=>[]}"
+      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-11-26\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>385, \"wiki_links\"=>4614, \"local_markdown_links\"=>1664, \"unresolved\"=>0, \"failures\"=>[]}"
     }
   ]
 }

@@ -1,15 +1,18 @@
 ---
 typ: fach_index
 fach: "PuG_Politik_und_Gesellschaft"
-status: "semantisch-geprueft"
+status: "visuell_geprueft"
+stand: 2026-11-26
+rag_include: false
 ---
 # PuG Politik und Gesellschaft
 
 > [!info] Fachübersicht
-> Diese Seite enthält aktive Lernquellen mit den geprüften Zielmodulen aus dem aktuellen Referenzdurchlauf.
+> Automatisch erzeugte Übersicht der seitenweise visuell geprüften Quellnotizen dieses Fachs und ihrer kanonischen Themen unter `03_Themen/Visuell_geprueft/`.
 
-## Quellen
+## Quellen (2)
 
-| Quelle | Seiten | Status | Geprüfte Themen |
+| Quelle | Seiten | Status | Kanonische Themen |
 |---|---:|---|---|
-| [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | 35 | gut: Textschicht vorhanden | [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen\|Aufgaben Übungen und Lösungen]], [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Ausbildung und Beruf/00_Ausbildung und Beruf\|Ausbildung und Beruf]], [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Ausbildungsvertrag und BBiG/00_Ausbildungsvertrag und BBiG\|Ausbildungsvertrag und BBiG]], [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen\|Betrieb und Unternehmen]], [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Betriebsrat und Betriebsverfassung/00_Betriebsrat und Betriebsverfassung\|Betriebsrat und Betriebsverfassung]], [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Bundesurlaubsgesetz/00_Bundesurlaubsgesetz\|Bundesurlaubsgesetz]], [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Elterngeld und Elternzeit/00_Elterngeld und Elternzeit\|Elterngeld und Elternzeit]], [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Jugendarbeitsschutz/00_Jugendarbeitsschutz\|Jugendarbeitsschutz]], [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Kuendigung und Arbeitsrecht/00_Kuendigung und Arbeitsrecht\|Kündigung und Arbeitsrecht]], [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Mutterschutz/00_Mutterschutz\|Mutterschutz]], [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Recht und Vertraege/00_Recht und Vertraege\|Recht und Verträge]], [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege\|Restseiten Originalbelege]], [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Schwerbehinderung/00_Schwerbehinderung\|Schwerbehinderung]], [[02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Tarifvertrag und Koalitionsrecht/00_Tarifvertrag und Koalitionsrecht\|Tarifvertrag und Koalitionsrecht]] |
+| [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift\|PuG_2LJ_Mitschrift]] | 19 | gemischt: visuell geprüft (ok=5, ocr_verified=14) | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte\|Grundgesetz Staatsprinzipien und Grundrechte]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur\|Totalitäre Systeme und Diktatur]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Weimarer Verfassung und Grundgesetz\|Weimarer Verfassung und Grundgesetz]] |
+| [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug\|Pug]] | 51 | gemischt: visuell geprüft (ok=28, ocr_verified=5, partial=16) | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Ausbildungsvertrag und BBiG\|Ausbildungsvertrag und BBiG]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Betriebsrat und Betriebsverfassung\|Betriebsrat und Betriebsverfassung]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Bundesurlaubsgesetz\|Bundesurlaubsgesetz]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Jugendarbeitsschutz\|Jugendarbeitsschutz]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Kündigung und Arbeitsrecht\|Kündigung und Arbeitsrecht]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Lohn- und Gehaltsabrechnung\|Lohn- und Gehaltsabrechnung]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Mutterschutz\|Mutterschutz]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Organisation im Betrieb\|Organisation im Betrieb]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Personalwirtschaft und Personalentwicklung\|Personalwirtschaft und Personalentwicklung]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Schwerbehinderung\|Schwerbehinderung]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Sozialversicherung\|Sozialversicherung]], [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Tarifvertrag und Koalitionsrecht\|Tarifvertrag und Koalitionsrecht]] |

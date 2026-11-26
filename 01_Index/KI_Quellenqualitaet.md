@@ -14,9 +14,9 @@ tags:
 
 ## Ergebnis
 
-- **56 nicht-private PDFs / 1499 Seiten** vollständig berücksichtigt.
+- **53 nicht-private PDFs / 1402 Seiten** vollständig berücksichtigt.
 - **53 aktive PDFs / 1402 Seiten** seitenweise visuell geprüft.
-- **3 inaktive PDFs / 97 Seiten** als pixelidentische Dubletten nachgewiesen.
+- **0 inaktive PDFs / 0 Seiten** als pixelidentische Dubletten nachgewiesen.
 - **140 kanonische Themen** mit exakten Seitenbelegen erzeugt.
 - **1263 Evidenzseiten**, **11 nur unterstützende Fragmentseiten**, **128 ausgeschlossene aktive Seiten**.
 - Der private Notenbereich und seine PDF wurden nicht geöffnet, gerendert, geOCRt oder inhaltlich inventarisiert.

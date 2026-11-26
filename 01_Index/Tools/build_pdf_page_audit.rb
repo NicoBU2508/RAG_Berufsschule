@@ -88,17 +88,11 @@ class ReferenceIndex
   end
 
   def learning_modules
-    build(
-      Dir.glob(@root.join("02_Faecher/*/10_Lernordner/*/*.md").to_s),
-      role: "module",
-      title_key: "thema"
-    )
+    Hash.new { |hash, key| hash[key] = [] }
   end
 
   def curated_topics
-    paths = Dir.glob(@root.join("03_Themen/**/*.md").to_s)
-      .reject { |path| path.include?("/Weiterleitungen/") || path.include?("/Visuell_geprueft/") }
-      .reject { |path| File.basename(path) == "00_Kuratierte_Themen.md" }
+    paths = Dir.glob(@root.join("03_Themen/Visuell_geprueft/**/*.md").to_s)
     build(paths, role: "topic", title_key: "thema")
   end
 

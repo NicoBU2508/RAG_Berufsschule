@@ -13,7 +13,7 @@ tags:
 
 # Visueller PDF-Seitenaudit
 
-Alle **53 aktiven nichtprivaten PDFs mit 1402 Seiten** wurden vollständig visuell geprüft. Zusätzlich wurden **3 inaktive PDFs mit 97 Seiten** vollständig gerendert und als pixelidentische Dubletten aktiver PDFs bestätigt. Damit sind **56 nichtprivate PDFs und 1499 Seiten** abgedeckt.
+Alle **53 aktiven nichtprivaten PDFs mit 1402 Seiten** wurden vollständig visuell geprüft. Zusätzlich wurden **0 inaktive PDFs mit 0 Seiten** vollständig gerendert und als pixelidentische Dubletten aktiver PDFs bestätigt. Damit sind **53 nichtprivate PDFs und 1402 Seiten** abgedeckt.
 
 > [!privacy] Bewusst ausgeschlossen
 > Die private Noten-PDF unter `98_Archiv_nicht_lernen/Privat_Noten_nicht_fuer_KI/` wurde nicht geöffnet, gerendert, gehasht oder inhaltlich gelesen.

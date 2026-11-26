@@ -13,9 +13,3 @@
 00_Posteingang_GoodNotes/**
 06_Altklausuren/00_Posteingang/**
 !06_Altklausuren/00_Posteingang/README.md
-
-# Local temporary review/import artifacts
-.import_review/
-
-# The initialized checkout lives here; this outer folder is the project root.
-/Obsidian_Berufsschule/

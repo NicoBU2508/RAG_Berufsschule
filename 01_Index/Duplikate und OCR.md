@@ -8,9 +8,9 @@ typ: qualitaetsbericht
 | Problem | Maßnahme |
 |---|---|
 | Noten/Leistungsdaten | aus aktivem Lernbereich entfernt und nicht verlinkt |
-| Duplikat `Berufsschule/AE/1_LJ/Anwendugse.pdf` | aktive Referenz ist `Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf`; Duplikatnotiz liegt im Archiv |
-| Duplikat `Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf` | aktive Referenz ist `Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf`; Duplikatnotiz liegt im Archiv |
-| Duplikat `Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf` | aktive Referenz ist `Berufsschule/Religion/1_LJ/Reli Notizen.pdf`; Duplikatnotiz liegt im Archiv |
+| Duplikat `Berufsschule/AE/1_LJ/Anwendugse.pdf` | 87/87 Seiten zu 100 % pixelidentisch mit `01_Algorithmus_Programm_Software_EVA.pdf`; nach Verifikation gelöscht |
+| Duplikat `Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf` | 4/4 Seiten zu 100 % pixelidentisch mit `Aufgabe 1.pdf`; nach Verifikation gelöscht |
+| Duplikat `Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf` | 6/6 Seiten zu 100 % pixelidentisch mit `Reli Notizen.pdf`; nach Verifikation gelöscht |
 
 ## OCR-kritische Quellen
 

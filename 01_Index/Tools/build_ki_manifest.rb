@@ -62,26 +62,17 @@ class FileClassifier
     return item("agent_customization", "operational", "Projekt-spezifische Agent-Anweisungen und Skills") if path.start_with?(".agents/")
     return item("obsidian_configuration", "excluded", "Lokale Konfiguration oder Plugin-Code") if path.start_with?(".obsidian/")
     return item("copilot_prompt", "excluded", "Arbeitsanweisung, kein Lernwissen") if path.start_with?("copilot/")
-    return item("template", "excluded", "Unausgefüllter Platzhalter") if path.start_with?("05_Templates/")
-    return item("topic_alias", "excluded", "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt") if path.start_with?("03_Themen/Weiterleitungen/")
     return item("duplicate_pdf", "excluded", "Vollständig gerendert und visuell pixelidentisch mit einer aktiven kanonischen PDF") if DUPLICATE_PDFS_NFC.include?(VaultSupport.nfc(path))
     return item("original_pdf", "verify_only", "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen") if path.start_with?("99_Originale/") && File.extname(path).downcase == ".pdf"
     return item("excluded_source_note", "excluded", "Quellnotiz ist als visuell unbrauchbar oder exakt doppelt technisch ausgeschlossen") if metadata["ki_exclude"] == "true"
     return item("source_note", "primary", "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten") if path.match?(%r{\A02_Faecher/[^/]+/Quellen/[^/]+\.md\z})
     return item("topic_index", "navigation", "Einstieg in die vollständig visuell geprüften Themen") if path == "03_Themen/00_Kuratierte_Themen.md"
     return item("curated_topic", "primary", "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz") if path.start_with?("03_Themen/Visuell_geprueft/") && metadata["status"] == "visuell_geprueft"
-    return item("legacy_topic", "excluded", "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung") if path.start_with?("03_Themen/")
     return item("unverified_exam_material", "excluded", "Planungs- oder Prüfungsschicht ohne gleichwertige seitenweise Quellenprüfung") if path.start_with?("04_Pruefung/")
-    return item("generated_learning_index", "excluded", "Automatisch erzeugter Themenordner-Index mit historisch zu breiten Zuordnungen") if path.include?("/10_Lernordner/") && metadata["typ"] == "index"
-    return item("generated_learning_module", "excluded", "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen") if path.include?("/10_Lernordner/") && File.extname(path).downcase == ".md"
-    return item("topic_hub", "navigation", "Verweisknoten ohne eigene Quelle") if metadata["typ"] == "themen_hub"
-    return item("generated_vault_index", "navigation", "Großer Generierungsstand; nur zum Auffinden") if path == "00_Vault_Index_Vollständig.md"
     return item("entrypoint", "primary", "Kanonischer Einstieg und Quellenregeln") if path == "00_START.md" || path == "00_KI_QUELLENSTART.md"
     return item("workflow_guide", "navigation", "Leitfaden zur Integration neuer GoodNotes-Mitschriften") if path == "00_WORKFLOW_NEUE_MITSCHRIFTEN.md"
-    return item("working_note", "excluded", "Lokale Tagesnotiz oder Canvas; kein kanonischer KI-Beleg") if path.match?(/\A\d{4}-\d{2}-\d{2}\.md\z/) || File.extname(path).downcase == ".canvas"
     return item("flashcard_index", "excluded", "Nicht gleichwertig visuell geprüfte Wiederholungsschicht") if path.start_with?("05_Karteikarten/")
     return item("exam_archive", "excluded", "Nicht gleichwertig visuell geprüfte Altklausurstruktur") if path.start_with?("06_Altklausuren/")
-    return item("navigation_index", "navigation", "Fach- oder Gesamtübersicht") if path.start_with?("07_Lernordner/")
     return item("learner_state", "excluded", "Lokaler FSRS-Lernfortschritt und Denkfehler-Historie; keine Weitergabe an Cloud-RAG") if path == "01_Index/Lernstand.json"
     return item("maintenance_tool", "operational", "Lokales Prüf- oder Wartungswerkzeug") if path.start_with?("01_Index/Tools/")
     return item("quality_or_navigation", "navigation", "Index, Audit oder Qualitätsbericht") if path.start_with?("01_Index/")
@@ -102,9 +93,7 @@ class ManifestBuilder
     "01_Index/KI_Quellenmanifest.md"
   ].freeze
   IGNORED_PREFIXES = [
-    ".git/",
-    "Obsidian_Berufsschule/",
-    ".import_review/"
+    ".git/"
   ].freeze
 
   def initialize(root, reader: FrontmatterReader.new, classifier: FileClassifier.new)

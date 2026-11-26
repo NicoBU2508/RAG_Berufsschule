@@ -19,49 +19,40 @@ Dieses Manifest klassifiziert jede Projektdatei nach ihrer Rolle für GPT-, RAG-
 
 ## Abdeckung
 
-- Dateien insgesamt: **921**
+- Dateien insgesamt: **538**
 - Stand: **2026-11-26**
 - Generator: `ruby 01_Index/Tools/build_ki_manifest.rb`
 
 | KI-Nutzung | Dateien |
 |---|---:|
-| `excluded` | 531 |
-| `navigation` | 117 |
-| `operational` | 29 |
+| `excluded` | 190 |
+| `navigation` | 79 |
+| `operational` | 25 |
 | `primary` | 191 |
 | `verify_only` | 53 |
 
 | Rolle | Dateien |
 |---|---:|
-| `agent_customization` | 11 |
-| `copilot_prompt` | 17 |
+| `agent_customization` | 10 |
+| `copilot_prompt` | 1 |
 | `curated_topic` | 140 |
-| `duplicate_pdf` | 3 |
 | `entrypoint` | 2 |
 | `exam_archive` | 1 |
 | `excluded_source_note` | 4 |
-| `flashcard_index` | 140 |
-| `generated_learning_index` | 9 |
-| `generated_learning_module` | 129 |
-| `generated_vault_index` | 1 |
+| `flashcard_index` | 141 |
 | `import_inbox` | 2 |
 | `learner_state` | 1 |
-| `legacy_topic` | 30 |
-| `maintenance_tool` | 18 |
-| `navigation_index` | 10 |
+| `maintenance_tool` | 15 |
 | `obsidian_configuration` | 16 |
 | `original_pdf` | 53 |
-| `private_or_archive` | 5 |
+| `private_or_archive` | 2 |
 | `project_metadata` | 3 |
-| `quality_or_navigation` | 86 |
+| `quality_or_navigation` | 68 |
 | `source_note` | 49 |
-| `subject_index` | 18 |
-| `template` | 3 |
-| `topic_alias` | 146 |
+| `subject_index` | 9 |
 | `topic_index` | 1 |
-| `unverified_exam_material` | 20 |
+| `unverified_exam_material` | 19 |
 | `workflow_guide` | 1 |
-| `working_note` | 2 |
 
 ## Retrieval-Profile
 

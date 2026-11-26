@@ -54,55 +54,44 @@
     ]
   },
   "totals": {
-    "files": 921,
+    "files": 538,
     "by_extension": {
-      "canvas": 1,
       "css": 2,
       "js": 2,
-      "json": 77,
+      "json": 76,
       "m": 1,
-      "md": 760,
+      "md": 386,
       "none": 1,
-      "pdf": 57,
-      "rb": 16,
-      "swift": 3,
-      "zip": 1
+      "pdf": 54,
+      "rb": 15,
+      "swift": 1
     },
     "by_role": {
-      "agent_customization": 11,
-      "copilot_prompt": 17,
+      "agent_customization": 10,
+      "copilot_prompt": 1,
       "curated_topic": 140,
-      "duplicate_pdf": 3,
       "entrypoint": 2,
       "exam_archive": 1,
       "excluded_source_note": 4,
-      "flashcard_index": 140,
-      "generated_learning_index": 9,
-      "generated_learning_module": 129,
-      "generated_vault_index": 1,
+      "flashcard_index": 141,
       "import_inbox": 2,
       "learner_state": 1,
-      "legacy_topic": 30,
-      "maintenance_tool": 18,
-      "navigation_index": 10,
+      "maintenance_tool": 15,
       "obsidian_configuration": 16,
       "original_pdf": 53,
-      "private_or_archive": 5,
+      "private_or_archive": 2,
       "project_metadata": 3,
-      "quality_or_navigation": 86,
+      "quality_or_navigation": 68,
       "source_note": 49,
-      "subject_index": 18,
-      "template": 3,
-      "topic_alias": 146,
+      "subject_index": 9,
       "topic_index": 1,
-      "unverified_exam_material": 20,
-      "workflow_guide": 1,
-      "working_note": 2
+      "unverified_exam_material": 19,
+      "workflow_guide": 1
     },
     "by_ai_use": {
-      "excluded": 531,
-      "navigation": 117,
-      "operational": 29,
+      "excluded": 190,
+      "navigation": 79,
+      "operational": 25,
       "primary": 191,
       "verify_only": 53
     }
@@ -112,14 +101,6 @@
       "path": ".agents/skills/altklausur-import/SKILL.md",
       "extension": "md",
       "bytes": 5624,
-      "role": "agent_customization",
-      "ai_use": "operational",
-      "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
-    },
-    {
-      "path": ".agents/skills/ap-lerncoach.zip",
-      "extension": "zip",
-      "bytes": 64459,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -143,7 +124,7 @@
     {
       "path": ".agents/skills/ap-lerncoach/references/gemini-gem-prompt.md",
       "extension": "md",
-      "bytes": 11180,
+      "bytes": 11235,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -199,7 +180,7 @@
     {
       "path": ".gitignore",
       "extension": "none",
-      "bytes": 684,
+      "bytes": 522,
       "role": "project_metadata",
       "ai_use": "excluded",
       "reason": "Projekt-, Git- und Auditmetadaten; kein fachlicher Lernbeleg"
@@ -287,7 +268,7 @@
     {
       "path": ".obsidian/plugins/copilot/data.json",
       "extension": "json",
-      "bytes": 27945,
+      "bytes": 27749,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -327,7 +308,7 @@
     {
       "path": ".obsidian/workspace.json",
       "extension": "json",
-      "bytes": 8686,
+      "bytes": 8639,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -335,7 +316,7 @@
     {
       "path": "00_KI_QUELLENSTART.md",
       "extension": "md",
-      "bytes": 5229,
+      "bytes": 4985,
       "role": "entrypoint",
       "ai_use": "primary",
       "reason": "Kanonischer Einstieg und Quellenregeln",
@@ -355,22 +336,12 @@
     {
       "path": "00_START.md",
       "extension": "md",
-      "bytes": 3284,
+      "bytes": 2461,
       "role": "entrypoint",
       "ai_use": "primary",
       "reason": "Kanonischer Einstieg und Quellenregeln",
       "typ": "start",
       "status": "ap_lernhelfer"
-    },
-    {
-      "path": "00_Vault_Index_Vollständig.md",
-      "extension": "md",
-      "bytes": 920513,
-      "role": "generated_vault_index",
-      "ai_use": "navigation",
-      "reason": "Großer Generierungsstand; nur zum Auffinden",
-      "typ": "vault_index",
-      "status": "generiert_nur_navigation"
     },
     {
       "path": "00_WORKFLOW_NEUE_MITSCHRIFTEN.md",
@@ -381,16 +352,6 @@
       "reason": "Leitfaden zur Integration neuer GoodNotes-Mitschriften",
       "typ": "workflow",
       "status": "aktiv"
-    },
-    {
-      "path": "01_Index/00_Gesamtindex.md",
-      "extension": "md",
-      "bytes": 1583,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "start",
-      "status": "ap_lernhelfer"
     },
     {
       "path": "01_Index/Abschlussvalidierung_Visuelle_Quellen.json",
@@ -771,7 +732,7 @@
     {
       "path": "01_Index/Auditdaten/PDF_Duplikatnachweis.json",
       "extension": "json",
-      "bytes": 1330,
+      "bytes": 1438,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -809,15 +770,6 @@
       "reason": "Index, Audit oder Qualitätsbericht"
     },
     {
-      "path": "01_Index/Build_Report_Themenordner.md",
-      "extension": "md",
-      "bytes": 1184,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "build_report"
-    },
-    {
       "path": "01_Index/Copilot_Allowlist.json",
       "extension": "json",
       "bytes": 16352,
@@ -828,49 +780,11 @@
     {
       "path": "01_Index/Duplikate und OCR.md",
       "extension": "md",
-      "bytes": 1852,
+      "bytes": 1821,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
       "typ": "qualitaetsbericht"
-    },
-    {
-      "path": "01_Index/Fachweiser_Referenzaudit_2026-06-18.md",
-      "extension": "md",
-      "bytes": 2788,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "referenzaudit",
-      "status": "fachweise-geprueft"
-    },
-    {
-      "path": "01_Index/Faecher.md",
-      "extension": "md",
-      "bytes": 751,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "faecher_index"
-    },
-    {
-      "path": "01_Index/Finaler_Linkcheck_GraphCoverage.md",
-      "extension": "md",
-      "bytes": 744,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "linkcheck",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "01_Index/Finaler_Linkcheck_OCRplus.md",
-      "extension": "md",
-      "bytes": 975,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "finaler_linkcheck"
     },
     {
       "path": "01_Index/Gesamtaudit_Themen_Referenzen_GPT_2026-07-13.md",
@@ -883,31 +797,11 @@
       "status": "abgeschlossen"
     },
     {
-      "path": "01_Index/Graph_Coverage_Reparaturbericht.md",
-      "extension": "md",
-      "bytes": 3537,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "bericht",
-      "status": "graph-coverage-repariert"
-    },
-    {
       "path": "01_Index/KI_Dateiinventar.json",
       "extension": "json",
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
-    },
-    {
-      "path": "01_Index/KI_Lernschicht_Projektweiter_Durchlauf_2026-06-19.md",
-      "extension": "md",
-      "bytes": 21939,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "ki_lernschicht_report",
-      "status": "projektweit-ergaenzt"
     },
     {
       "path": "01_Index/KI_Quellenmanifest.md",
@@ -921,7 +815,7 @@
     {
       "path": "01_Index/KI_Quellenqualitaet.md",
       "extension": "md",
-      "bytes": 6720,
+      "bytes": 6719,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -931,15 +825,7 @@
     {
       "path": "01_Index/Karteikarten_Status.json",
       "extension": "json",
-      "bytes": 87402,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht"
-    },
-    {
-      "path": "01_Index/Lernstand 2.json",
-      "extension": "json",
-      "bytes": 158,
+      "bytes": 88059,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -953,25 +839,6 @@
       "reason": "Lokaler FSRS-Lernfortschritt und Denkfehler-Historie; keine Weitergabe an Cloud-RAG"
     },
     {
-      "path": "01_Index/Linkcheck Themenordner.md",
-      "extension": "md",
-      "bytes": 783,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "linkcheck",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "01_Index/Linkcheck.md",
-      "extension": "md",
-      "bytes": 597,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "linkcheck"
-    },
-    {
       "path": "01_Index/Linkvalidierung_Nichtprivat.json",
       "extension": "json",
       "bytes": 281,
@@ -980,28 +847,9 @@
       "reason": "Index, Audit oder Qualitätsbericht"
     },
     {
-      "path": "01_Index/OCR_Karteikarten_Qualitaetslauf_2026-06-19.md",
-      "extension": "md",
-      "bytes": 1369,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "qualitaetsbericht",
-      "status": "karteikarten_und_ocr_bereinigt"
-    },
-    {
-      "path": "01_Index/OCRplus_Integrationsbericht.md",
-      "extension": "md",
-      "bytes": 21203,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "ocrplus_report"
-    },
-    {
       "path": "01_Index/PDF_Seitenaudit.json",
       "extension": "json",
-      "bytes": 2024931,
+      "bytes": 1883160,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -1009,7 +857,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit.md",
       "extension": "md",
-      "bytes": 11266,
+      "bytes": 11265,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -1019,19 +867,10 @@
     {
       "path": "01_Index/PDF_Seitenaudit_Worklist.json",
       "extension": "json",
-      "bytes": 4040581,
+      "bytes": 3208555,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
-    },
-    {
-      "path": "01_Index/PDF_Vollstaendigkeitspruefung.md",
-      "extension": "md",
-      "bytes": 7607,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "pdf_vollstaendigkeitspruefung"
     },
     {
       "path": "01_Index/Pruefungskatalog_Mapping.json",
@@ -1040,15 +879,6 @@
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
-    },
-    {
-      "path": "01_Index/Qualitaetsbericht.md",
-      "extension": "md",
-      "bytes": 1852,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "qualitaetsbericht"
     },
     {
       "path": "01_Index/Quellenmatrix.md",
@@ -1061,26 +891,6 @@
       "status": "generiert_aus_aktiven_quellnotizen"
     },
     {
-      "path": "01_Index/Semantischer_Referenzcheck_2026-06-18.md",
-      "extension": "md",
-      "bytes": 2760,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "referenzcheck",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "01_Index/Suchindex Themen und Begriffe.md",
-      "extension": "md",
-      "bytes": 31943,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "suchindex",
-      "status": "semantisch-geprueft"
-    },
-    {
       "path": "01_Index/Themen_Kategorien.json",
       "extension": "json",
       "bytes": 2981,
@@ -1091,25 +901,15 @@
     {
       "path": "01_Index/Themenreferenzen_Visuell_Geprueft.json",
       "extension": "json",
-      "bytes": 745833,
+      "bytes": 745832,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
     },
     {
-      "path": "01_Index/Themenuebersicht.md",
-      "extension": "md",
-      "bytes": 25170,
-      "role": "quality_or_navigation",
-      "ai_use": "navigation",
-      "reason": "Index, Audit oder Qualitätsbericht",
-      "typ": "themenuebersicht",
-      "status": "semantisch-geprueft"
-    },
-    {
       "path": "01_Index/Tools/build_copilot_allowlist.rb",
       "extension": "rb",
-      "bytes": 2888,
+      "bytes": 3616,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1117,7 +917,7 @@
     {
       "path": "01_Index/Tools/build_ki_manifest.rb",
       "extension": "rb",
-      "bytes": 13279,
+      "bytes": 11822,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1125,7 +925,7 @@
     {
       "path": "01_Index/Tools/build_pdf_page_audit.rb",
       "extension": "rb",
-      "bytes": 6400,
+      "bytes": 6154,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1133,7 +933,7 @@
     {
       "path": "01_Index/Tools/build_quellenmatrix.rb",
       "extension": "rb",
-      "bytes": 3763,
+      "bytes": 5200,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1203,30 +1003,6 @@
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
     },
     {
-      "path": "01_Index/Tools/merge_verified_ocr_appendices.rb",
-      "extension": "rb",
-      "bytes": 5860,
-      "role": "maintenance_tool",
-      "ai_use": "operational",
-      "reason": "Lokales Prüf- oder Wartungswerkzeug"
-    },
-    {
-      "path": "01_Index/Tools/ocr_pdf_pages.swift",
-      "extension": "swift",
-      "bytes": 3523,
-      "role": "maintenance_tool",
-      "ai_use": "operational",
-      "reason": "Lokales Prüf- oder Wartungswerkzeug"
-    },
-    {
-      "path": "01_Index/Tools/render_pdf_contact_sheets.swift",
-      "extension": "swift",
-      "bytes": 4425,
-      "role": "maintenance_tool",
-      "ai_use": "operational",
-      "reason": "Lokales Prüf- oder Wartungswerkzeug"
-    },
-    {
       "path": "01_Index/Tools/sync_karteikarten.rb",
       "extension": "rb",
       "bytes": 40331,
@@ -1237,7 +1013,7 @@
     {
       "path": "01_Index/Tools/validate_nonprivate_links.rb",
       "extension": "rb",
-      "bytes": 4081,
+      "bytes": 4032,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1245,7 +1021,7 @@
     {
       "path": "01_Index/Tools/validate_verified_source_layer.rb",
       "extension": "rb",
-      "bytes": 17763,
+      "bytes": 17786,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1259,313 +1035,15 @@
       "reason": "Index, Audit oder Qualitätsbericht"
     },
     {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/00_AE_Anwendungsentwicklung_Index.md",
-      "extension": "md",
-      "bytes": 14660,
-      "role": "subject_index",
-      "ai_use": "navigation",
-      "reason": "Fachnavigation",
-      "typ": "fach_index",
-      "fach": "AE_Anwendungsentwicklung",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/00_AE Anwendungsentwicklung_Themenordner_Index.md",
-      "extension": "md",
-      "bytes": 6540,
-      "role": "generated_learning_index",
-      "ai_use": "excluded",
-      "reason": "Automatisch erzeugter Themenordner-Index mit historisch zu breiten Zuordnungen",
-      "typ": "index",
-      "fach": "AE_Anwendungsentwicklung",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Algorithmus und Programmablauf/00_Algorithmus und Programmablauf.md",
-      "extension": "md",
-      "bytes": 176502,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Algorithmus und Programmablauf",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Arrays und Sammlungen/00_Arrays und Sammlungen.md",
-      "extension": "md",
-      "bytes": 82273,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Arrays und Sammlungen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md",
-      "extension": "md",
-      "bytes": 178132,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Aufgaben Übungen und Lösungen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Dokumentation Installation und Anpassung/00_Dokumentation Installation und Anpassung.md",
-      "extension": "md",
-      "bytes": 54069,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Dokumentation Installation und Anpassung",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/EVA Prinzip/00_EVA Prinzip.md",
-      "extension": "md",
-      "bytes": 217771,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "EVA Prinzip",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/IPv4 Subnetting und Binaerzahlen/00_IPv4 Subnetting und Binaerzahlen.md",
-      "extension": "md",
-      "bytes": 1927,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "themen_hub",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "IPv4 Subnetting und Binärzahlen",
-      "status": "verweisknoten_semantisch_korrigiert"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Java Grundlagen und IDE/00_Java Grundlagen und IDE.md",
-      "extension": "md",
-      "bytes": 534421,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Java Grundlagen und IDE",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Klassen Objekte Attribute/00_Klassen Objekte Attribute.md",
-      "extension": "md",
-      "bytes": 364193,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Klassen Objekte Attribute",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Methoden Parameter Rueckgabewerte/00_Methoden Parameter Rueckgabewerte.md",
-      "extension": "md",
-      "bytes": 303353,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Methoden Parameter Rückgabewerte",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Netzplan und Netzwerktechnik/00_Netzplan und Netzwerktechnik.md",
-      "extension": "md",
-      "bytes": 4916,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "themen_hub",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Netzplan und Netzwerktechnik",
-      "status": "verweisknoten_ohne_eigene_quelle"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Operatoren und Bedingungen/00_Operatoren und Bedingungen.md",
-      "extension": "md",
-      "bytes": 260173,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Operatoren und Bedingungen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Programm und Software/00_Programm und Software.md",
-      "extension": "md",
-      "bytes": 427418,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Programm und Software",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Programmiersprachen und Uebersetzer/00_Programmiersprachen und Uebersetzer.md",
-      "extension": "md",
-      "bytes": 258804,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Programmiersprachen und Übersetzer",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md",
-      "extension": "md",
-      "bytes": 11885,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Restseiten Originalbelege",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Scanner Random Benutzereingaben/00_Scanner Random Benutzereingaben.md",
-      "extension": "md",
-      "bytes": 81676,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Scanner Random Benutzereingaben",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Schleifen/00_Schleifen.md",
-      "extension": "md",
-      "bytes": 155322,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Schleifen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Softwareentwicklung Vorgehensmodelle Scrum V-Modell/00_Softwareentwicklung Vorgehensmodelle Scrum V-Modell.md",
-      "extension": "md",
-      "bytes": 168409,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Softwareentwicklung Vorgehensmodelle Scrum V-Modell",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Softwarequalitaet Wartbarkeit Usability/00_Softwarequalitaet Wartbarkeit Usability.md",
-      "extension": "md",
-      "bytes": 32227,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Softwarequalität Wartbarkeit Usability",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Syntax und Code-Struktur/00_Syntax und Code-Struktur.md",
-      "extension": "md",
-      "bytes": 455564,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Syntax und Code-Struktur",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Unternehmenswiki Projektaufgaben/00_Unternehmenswiki Projektaufgaben.md",
-      "extension": "md",
-      "bytes": 471178,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Unternehmenswiki Projektaufgaben",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Unternehmenswiki/00_Unternehmenswiki.md",
-      "extension": "md",
-      "bytes": 178023,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Unternehmenswiki",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Variablen und Datentypen/00_Variablen und Datentypen.md",
-      "extension": "md",
-      "bytes": 438815,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Variablen und Datentypen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/AE_Anwendungsentwicklung/10_Lernordner/Werkzeuge Debugging und IDE/00_Werkzeuge Debugging und IDE.md",
-      "extension": "md",
-      "bytes": 413329,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "AE_Anwendungsentwicklung",
-      "thema": "Werkzeuge Debugging und IDE",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
       "path": "02_Faecher/AE_Anwendungsentwicklung/AE_Anwendungsentwicklung.md",
       "extension": "md",
-      "bytes": 14660,
+      "bytes": 13765,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
       "typ": "fach_index",
       "fach": "AE_Anwendungsentwicklung",
-      "status": "semantisch-geprueft"
+      "status": "visuell_geprueft"
     },
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
@@ -1708,97 +1186,15 @@
       "fach": "AE_Anwendungsentwicklung"
     },
     {
-      "path": "02_Faecher/Allgemein_Berufsschule/00_Allgemein_Berufsschule_Index.md",
-      "extension": "md",
-      "bytes": 907,
-      "role": "subject_index",
-      "ai_use": "navigation",
-      "reason": "Fachnavigation",
-      "typ": "fach_index",
-      "fach": "Allgemein_Berufsschule",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/Allgemein_Berufsschule/10_Lernordner/00_Allgemein Berufsschule_Themenordner_Index.md",
-      "extension": "md",
-      "bytes": 1616,
-      "role": "generated_learning_index",
-      "ai_use": "excluded",
-      "reason": "Automatisch erzeugter Themenordner-Index mit historisch zu breiten Zuordnungen",
-      "typ": "index",
-      "fach": "Allgemein_Berufsschule",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/Allgemein_Berufsschule/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md",
-      "extension": "md",
-      "bytes": 4978,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "themen_hub",
-      "fach": "Allgemein_Berufsschule",
-      "thema": "Aufgaben Übungen und Lösungen",
-      "status": "verweisknoten_ohne_eigene_quelle"
-    },
-    {
-      "path": "02_Faecher/Allgemein_Berufsschule/10_Lernordner/Hochverfuegbarkeit und Redundanz/00_Hochverfuegbarkeit und Redundanz.md",
-      "extension": "md",
-      "bytes": 6883,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Allgemein_Berufsschule",
-      "thema": "Hochverfügbarkeit und Redundanz",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Allgemein_Berufsschule/10_Lernordner/IT Sicherheit Ueberblick/00_IT Sicherheit Ueberblick.md",
-      "extension": "md",
-      "bytes": 13540,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Allgemein_Berufsschule",
-      "thema": "IT Sicherheit Überblick",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Allgemein_Berufsschule/10_Lernordner/Ransomware und Malware/00_Ransomware und Malware.md",
-      "extension": "md",
-      "bytes": 10752,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Allgemein_Berufsschule",
-      "thema": "Ransomware und Malware",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Allgemein_Berufsschule/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md",
-      "extension": "md",
-      "bytes": 4679,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "themen_hub",
-      "fach": "Allgemein_Berufsschule",
-      "thema": "Restseiten Originalbelege",
-      "status": "verweisknoten_ohne_eigene_quelle"
-    },
-    {
       "path": "02_Faecher/Allgemein_Berufsschule/Allgemein_Berufsschule.md",
       "extension": "md",
-      "bytes": 907,
+      "bytes": 1070,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
       "typ": "fach_index",
       "fach": "Allgemein_Berufsschule",
-      "status": "semantisch-geprueft"
+      "status": "visuell_geprueft"
     },
     {
       "path": "02_Faecher/Allgemein_Berufsschule/Quellen/Gescanntes_Dokument_16_09_25_um_11_21_41.md",
@@ -1811,265 +1207,15 @@
       "fach": "Allgemein_Berufsschule"
     },
     {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/00_BGWP_Betriebswirtschaft_Index.md",
-      "extension": "md",
-      "bytes": 8144,
-      "role": "subject_index",
-      "ai_use": "navigation",
-      "reason": "Fachnavigation",
-      "typ": "fach_index",
-      "fach": "BGWP_Betriebswirtschaft",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/00_BGWP Betriebswirtschaft_Themenordner_Index.md",
-      "extension": "md",
-      "bytes": 5441,
-      "role": "generated_learning_index",
-      "ai_use": "excluded",
-      "reason": "Automatisch erzeugter Themenordner-Index mit historisch zu breiten Zuordnungen",
-      "typ": "index",
-      "fach": "BGWP_Betriebswirtschaft",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Angebotsvergleich und Bezugskalkulation/00_Angebotsvergleich und Bezugskalkulation.md",
-      "extension": "md",
-      "bytes": 62004,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Angebotsvergleich und Bezugskalkulation",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md",
-      "extension": "md",
-      "bytes": 158858,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Aufgaben Übungen und Lösungen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen.md",
-      "extension": "md",
-      "bytes": 109476,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Betrieb und Unternehmen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Betriebswirtschaft BGWP/00_Betriebswirtschaft BGWP.md",
-      "extension": "md",
-      "bytes": 137748,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Betriebswirtschaft BGWP",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot.md",
-      "extension": "md",
-      "bytes": 62090,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Geschäftsbrief Anfrage Angebot",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Kaufvertrag und Rechtsgeschaefte/00_Kaufvertrag und Rechtsgeschaefte.md",
-      "extension": "md",
-      "bytes": 83237,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Kaufvertrag und Rechtsgeschäfte",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Marktumfeld und Marktformen/00_Marktumfeld und Marktformen.md",
-      "extension": "md",
-      "bytes": 63555,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Marktumfeld und Marktformen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Materialwirtschaft und Beschaffung/00_Materialwirtschaft und Beschaffung.md",
-      "extension": "md",
-      "bytes": 98406,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Materialwirtschaft und Beschaffung",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Organigramm und Liniensysteme/00_Organigramm und Liniensysteme.md",
-      "extension": "md",
-      "bytes": 44544,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Organigramm und Liniensysteme",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Organisation im Betrieb/00_Organisation im Betrieb.md",
-      "extension": "md",
-      "bytes": 176060,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Organisation im Betrieb",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Personalwirtschaft/00_Personalwirtschaft.md",
-      "extension": "md",
-      "bytes": 120299,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Personalwirtschaft",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Produktionsfaktoren/00_Produktionsfaktoren.md",
-      "extension": "md",
-      "bytes": 212510,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Produktionsfaktoren",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Projektplanung und Netzplanmethode/00_Projektplanung und Netzplanmethode.md",
-      "extension": "md",
-      "bytes": 98573,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Projektplanung und Netzplanmethode",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Rechtsformen/00_Rechtsformen.md",
-      "extension": "md",
-      "bytes": 72972,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Rechtsformen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Unternehmen und betriebliche Funktionen/00_Unternehmen und betriebliche Funktionen.md",
-      "extension": "md",
-      "bytes": 233800,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Unternehmen und betriebliche Funktionen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Unternehmensrecht Handelsregister Vollmachten/00_Unternehmensrecht Handelsregister Vollmachten.md",
-      "extension": "md",
-      "bytes": 85636,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Unternehmensrecht Handelsregister Vollmachten",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Unternehmensziele/00_Unternehmensziele.md",
-      "extension": "md",
-      "bytes": 74168,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Unternehmensziele",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Wirtschaftlichkeit und Rechnungswesen/00_Wirtschaftlichkeit und Rechnungswesen.md",
-      "extension": "md",
-      "bytes": 103698,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Wirtschaftlichkeit und Rechnungswesen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/BGWP_Betriebswirtschaft/10_Lernordner/Wirtschaftssektoren/00_Wirtschaftssektoren.md",
-      "extension": "md",
-      "bytes": 32143,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "BGWP_Betriebswirtschaft",
-      "thema": "Wirtschaftssektoren",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/BGWP_Betriebswirtschaft.md",
       "extension": "md",
-      "bytes": 8144,
+      "bytes": 4032,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
       "typ": "fach_index",
       "fach": "BGWP_Betriebswirtschaft",
-      "status": "semantisch-geprueft"
+      "status": "visuell_geprueft"
     },
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP.md",
@@ -2122,193 +1268,15 @@
       "fach": "BGWP_Betriebswirtschaft"
     },
     {
-      "path": "02_Faecher/Deutsch/00_Deutsch_Index.md",
-      "extension": "md",
-      "bytes": 2723,
-      "role": "subject_index",
-      "ai_use": "navigation",
-      "reason": "Fachnavigation",
-      "typ": "fach_index",
-      "fach": "Deutsch",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/Deutsch/10_Lernordner/00_Deutsch_Themenordner_Index.md",
-      "extension": "md",
-      "bytes": 3209,
-      "role": "generated_learning_index",
-      "ai_use": "excluded",
-      "reason": "Automatisch erzeugter Themenordner-Index mit historisch zu breiten Zuordnungen",
-      "typ": "index",
-      "fach": "Deutsch",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/Deutsch/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md",
-      "extension": "md",
-      "bytes": 99269,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Deutsch",
-      "thema": "Aufgaben Übungen und Lösungen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Deutsch/10_Lernordner/Ausbildung und Beruf/00_Ausbildung und Beruf.md",
-      "extension": "md",
-      "bytes": 4978,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "themen_hub",
-      "fach": "Deutsch",
-      "thema": "Ausbildung und Beruf",
-      "status": "verweisknoten_ohne_eigene_quelle"
-    },
-    {
-      "path": "02_Faecher/Deutsch/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen.md",
-      "extension": "md",
-      "bytes": 41060,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Deutsch",
-      "thema": "Betrieb und Unternehmen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Deutsch/10_Lernordner/Das oder Dass/00_Das oder Dass.md",
-      "extension": "md",
-      "bytes": 18713,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Deutsch",
-      "thema": "Das oder Dass",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Deutsch/10_Lernordner/Fremdwoerter/00_Fremdwoerter.md",
-      "extension": "md",
-      "bytes": 14097,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Deutsch",
-      "thema": "Fremdwörter",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Deutsch/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot.md",
-      "extension": "md",
-      "bytes": 103774,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Deutsch",
-      "thema": "Geschäftsbrief Anfrage Angebot",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Deutsch/10_Lernordner/Kommasetzung/00_Kommasetzung.md",
-      "extension": "md",
-      "bytes": 13970,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Deutsch",
-      "thema": "Kommasetzung",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Deutsch/10_Lernordner/Kommunikation Modelle/00_Kommunikation Modelle.md",
-      "extension": "md",
-      "bytes": 54377,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Deutsch",
-      "thema": "Kommunikation Modelle",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Deutsch/10_Lernordner/Projektmanagement Lastenheft Pflichtenheft/00_Projektmanagement Lastenheft Pflichtenheft.md",
-      "extension": "md",
-      "bytes": 90238,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Deutsch",
-      "thema": "Projektmanagement Lastenheft Pflichtenheft",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Deutsch/10_Lernordner/Rechtschreibung Gross und Klein/00_Rechtschreibung Gross und Klein.md",
-      "extension": "md",
-      "bytes": 45335,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Deutsch",
-      "thema": "Rechtschreibung Gross und Klein",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Deutsch/10_Lernordner/Rechtschreibung und Grammatik/00_Rechtschreibung und Grammatik.md",
-      "extension": "md",
-      "bytes": 46557,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Deutsch",
-      "thema": "Rechtschreibung und Grammatik",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Deutsch/10_Lernordner/Sprachtraining und Grammatik/00_Sprachtraining und Grammatik.md",
-      "extension": "md",
-      "bytes": 24923,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Deutsch",
-      "thema": "Sprachtraining und Grammatik",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Deutsch/10_Lernordner/Unternehmensleitbild Corporate Identity/00_Unternehmensleitbild Corporate Identity.md",
-      "extension": "md",
-      "bytes": 18325,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Deutsch",
-      "thema": "Unternehmensleitbild Corporate Identity",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
       "path": "02_Faecher/Deutsch/Deutsch.md",
       "extension": "md",
-      "bytes": 2723,
+      "bytes": 2799,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
       "typ": "fach_index",
       "fach": "Deutsch",
-      "status": "semantisch-geprueft"
+      "status": "visuell_geprueft"
     },
     {
       "path": "02_Faecher/Deutsch/Quellen/Deutsch.md",
@@ -2351,217 +1319,15 @@
       "fach": "Deutsch"
     },
     {
-      "path": "02_Faecher/Englisch/00_Englisch_Index.md",
-      "extension": "md",
-      "bytes": 2299,
-      "role": "subject_index",
-      "ai_use": "navigation",
-      "reason": "Fachnavigation",
-      "typ": "fach_index",
-      "fach": "Englisch",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/00_Englisch_Themenordner_Index.md",
-      "extension": "md",
-      "bytes": 3813,
-      "role": "generated_learning_index",
-      "ai_use": "excluded",
-      "reason": "Automatisch erzeugter Themenordner-Index mit historisch zu breiten Zuordnungen",
-      "typ": "index",
-      "fach": "Englisch",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/Applying for a Position/00_Applying for a Position.md",
-      "extension": "md",
-      "bytes": 30551,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Englisch",
-      "thema": "Applying for a Position",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md",
-      "extension": "md",
-      "bytes": 20719,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Englisch",
-      "thema": "Aufgaben Übungen und Lösungen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/Business Communication English/00_Business Communication English.md",
-      "extension": "md",
-      "bytes": 51883,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Englisch",
-      "thema": "Business Communication English",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/Company Structure and Departments/00_Company Structure and Departments.md",
-      "extension": "md",
-      "bytes": 34377,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Englisch",
-      "thema": "Company Structure and Departments",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/Company Websites and Web Design/00_Company Websites and Web Design.md",
-      "extension": "md",
-      "bytes": 27591,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Englisch",
-      "thema": "Company Websites and Web Design",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/Englisch IT Jobs/00_Englisch IT Jobs.md",
-      "extension": "md",
-      "bytes": 40226,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Englisch",
-      "thema": "Englisch IT Jobs",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot.md",
-      "extension": "md",
-      "bytes": 16107,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Englisch",
-      "thema": "Geschäftsbrief Anfrage Angebot",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/IT Jobs and Roles/00_IT Jobs and Roles.md",
-      "extension": "md",
-      "bytes": 48713,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Englisch",
-      "thema": "IT Jobs and Roles",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/IT Vocabulary and Hardware/00_IT Vocabulary and Hardware.md",
-      "extension": "md",
-      "bytes": 46801,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Englisch",
-      "thema": "IT Vocabulary and Hardware",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/Introducing a Company/00_Introducing a Company.md",
-      "extension": "md",
-      "bytes": 44471,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Englisch",
-      "thema": "Introducing a Company",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/Making Phone Calls and Voicemail/00_Making Phone Calls and Voicemail.md",
-      "extension": "md",
-      "bytes": 31244,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Englisch",
-      "thema": "Making Phone Calls and Voicemail",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/Ordering Technical Products/00_Ordering Technical Products.md",
-      "extension": "md",
-      "bytes": 54924,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Englisch",
-      "thema": "Ordering Technical Products",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/Reading Comprehension and Case Studies/00_Reading Comprehension and Case Studies.md",
-      "extension": "md",
-      "bytes": 32488,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Englisch",
-      "thema": "Reading Comprehension and Case Studies",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md",
-      "extension": "md",
-      "bytes": 8611,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Englisch",
-      "thema": "Restseiten Originalbelege",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Englisch/10_Lernordner/Useful Phrases and Grammar/00_Useful Phrases and Grammar.md",
-      "extension": "md",
-      "bytes": 39649,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Englisch",
-      "thema": "Useful Phrases and Grammar",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
       "path": "02_Faecher/Englisch/Englisch.md",
       "extension": "md",
-      "bytes": 2299,
+      "bytes": 2730,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
       "typ": "fach_index",
       "fach": "Englisch",
-      "status": "semantisch-geprueft"
+      "status": "visuell_geprueft"
     },
     {
       "path": "02_Faecher/Englisch/Quellen/Englisch.md",
@@ -2584,373 +1350,15 @@
       "fach": "Englisch"
     },
     {
-      "path": "02_Faecher/ITT_IT_Technik/00_ITT_IT_Technik_Index.md",
-      "extension": "md",
-      "bytes": 14510,
-      "role": "subject_index",
-      "ai_use": "navigation",
-      "reason": "Fachnavigation",
-      "typ": "fach_index",
-      "fach": "ITT_IT_Technik",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/00_ITT IT-Technik_Themenordner_Index.md",
-      "extension": "md",
-      "bytes": 7323,
-      "role": "generated_learning_index",
-      "ai_use": "excluded",
-      "reason": "Automatisch erzeugter Themenordner-Index mit historisch zu breiten Zuordnungen",
-      "typ": "index",
-      "fach": "ITT_IT_Technik",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md",
-      "extension": "md",
-      "bytes": 368855,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Aufgaben Übungen und Lösungen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Backup und Datensicherung/00_Backup und Datensicherung.md",
-      "extension": "md",
-      "bytes": 95133,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Backup und Datensicherung",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Begriffe Computerwelt Gitterraetsel/00_Begriffe Computerwelt Gitterraetsel.md",
-      "extension": "md",
-      "bytes": 8228,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Begriffe Computerwelt Gitterraetsel",
-      "status": "manuell kuratiert; Quelle nach OCR/Bildkontext geprüft; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Beschaffung Angebot und Kalkulation/00_Beschaffung Angebot und Kalkulation.md",
-      "extension": "md",
-      "bytes": 84444,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Beschaffung Angebot und Kalkulation",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen.md",
-      "extension": "md",
-      "bytes": 48220,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Betrieb und Unternehmen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Betriebswirtschaft BGWP/00_Betriebswirtschaft BGWP.md",
-      "extension": "md",
-      "bytes": 66578,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Betriebswirtschaft BGWP",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Computergrundbegriffe/00_Computergrundbegriffe.md",
-      "extension": "md",
-      "bytes": 202747,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Computergrundbegriffe",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Datenschutz und Rollen/00_Datenschutz und Rollen.md",
-      "extension": "md",
-      "bytes": 90516,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Datenschutz und Rollen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Elektrische Ladung/00_Elektrische Ladung.md",
-      "extension": "md",
-      "bytes": 52655,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Elektrische Ladung",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Elektrische Leistung und Netzteil/00_Elektrische Leistung und Netzteil.md",
-      "extension": "md",
-      "bytes": 144176,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Elektrische Leistung und Netzteil",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Elektrotechnik Aufgaben und Loesungen/00_Elektrotechnik Aufgaben und Loesungen.md",
-      "extension": "md",
-      "bytes": 184601,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Elektrotechnik Aufgaben und Lösungen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Elektrotechnik Grundlagen Mathematik/00_Elektrotechnik Grundlagen Mathematik.md",
-      "extension": "md",
-      "bytes": 253846,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Elektrotechnik Grundlagen Mathematik",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Geschaeftsbrief Anfrage Angebot/00_Geschaeftsbrief Anfrage Angebot.md",
-      "extension": "md",
-      "bytes": 27853,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Geschäftsbrief Anfrage Angebot",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Hochverfuegbarkeit und Redundanz/00_Hochverfuegbarkeit und Redundanz.md",
-      "extension": "md",
-      "bytes": 45350,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Hochverfügbarkeit und Redundanz",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/IPv4 Subnetting und Binaerzahlen/00_IPv4 Subnetting und Binaerzahlen.md",
-      "extension": "md",
-      "bytes": 39237,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "IPv4 Subnetting und Binaerzahlen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/IT Sicherheit Grundlagen/00_IT Sicherheit Grundlagen.md",
-      "extension": "md",
-      "bytes": 434432,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "IT Sicherheit Grundlagen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Kryptografie Verschluesselung Hash Signatur/00_Kryptografie Verschluesselung Hash Signatur.md",
-      "extension": "md",
-      "bytes": 152382,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Kryptografie Verschlüsselung Hash Signatur",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Malware und Angriffe/00_Malware und Angriffe.md",
-      "extension": "md",
-      "bytes": 140367,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Malware und Angriffe",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Netzplan und Netzwerktechnik/00_Netzplan und Netzwerktechnik.md",
-      "extension": "md",
-      "bytes": 180052,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Netzplan und Netzwerktechnik",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Netzteil/00_Netzteil.md",
-      "extension": "md",
-      "bytes": 70687,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Netzteil",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Recht Kaufvertrag Geschaeftsfaehigkeit/00_Recht Kaufvertrag Geschaeftsfaehigkeit.md",
-      "extension": "md",
-      "bytes": 47071,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Recht Kaufvertrag Geschäftsfähigkeit",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md",
-      "extension": "md",
-      "bytes": 7506,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Restseiten Originalbelege",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Risikoanalyse und Schutzbedarf/00_Risikoanalyse und Schutzbedarf.md",
-      "extension": "md",
-      "bytes": 230983,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Risikoanalyse und Schutzbedarf",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Risikoanalyse/00_Risikoanalyse.md",
-      "extension": "md",
-      "bytes": 3410,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Risikoanalyse",
-      "status": "kuratiert_nach_semantischem_audit"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Sicherheitsmanagement und Massnahmen/00_Sicherheitsmanagement und Massnahmen.md",
-      "extension": "md",
-      "bytes": 260215,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Sicherheitsmanagement und Maßnahmen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Sicherheitsprozess PDCA und ISMS/00_Sicherheitsprozess PDCA und ISMS.md",
-      "extension": "md",
-      "bytes": 63603,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Sicherheitsprozess PDCA und ISMS",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Sicherheitsprozess PDCA/00_Sicherheitsprozess PDCA.md",
-      "extension": "md",
-      "bytes": 35980,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Sicherheitsprozess PDCA",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/ITT_IT_Technik/10_Lernordner/Spannung Strom Widerstand/00_Spannung Strom Widerstand.md",
-      "extension": "md",
-      "bytes": 57260,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "ITT_IT_Technik",
-      "thema": "Spannung Strom Widerstand",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
       "path": "02_Faecher/ITT_IT_Technik/ITT_IT_Technik.md",
       "extension": "md",
-      "bytes": 14510,
+      "bytes": 18270,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
       "typ": "fach_index",
       "fach": "ITT_IT_Technik",
-      "status": "semantisch-geprueft"
+      "status": "visuell_geprueft"
     },
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/Begriffe_Computerwelt_Gitterratsel.md",
@@ -3173,205 +1581,15 @@
       "fach": "ITT_IT_Technik"
     },
     {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/00_PuG_Politik_und_Gesellschaft_Index.md",
-      "extension": "md",
-      "bytes": 2352,
-      "role": "subject_index",
-      "ai_use": "navigation",
-      "reason": "Fachnavigation",
-      "typ": "fach_index",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/00_PuG Politik und Gesellschaft_Themenordner_Index.md",
-      "extension": "md",
-      "bytes": 3924,
-      "role": "generated_learning_index",
-      "ai_use": "excluded",
-      "reason": "Automatisch erzeugter Themenordner-Index mit historisch zu breiten Zuordnungen",
-      "typ": "index",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Aufgaben Uebungen und Loesungen/00_Aufgaben Uebungen und Loesungen.md",
-      "extension": "md",
-      "bytes": 18158,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "thema": "Aufgaben Übungen und Lösungen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Ausbildung und Beruf/00_Ausbildung und Beruf.md",
-      "extension": "md",
-      "bytes": 58997,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "thema": "Ausbildung und Beruf",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Ausbildungsvertrag und BBiG/00_Ausbildungsvertrag und BBiG.md",
-      "extension": "md",
-      "bytes": 56953,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "thema": "Ausbildungsvertrag und BBiG",
-      "status": "graph-coverage-repariert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Betrieb und Unternehmen/00_Betrieb und Unternehmen.md",
-      "extension": "md",
-      "bytes": 61709,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "thema": "Betrieb und Unternehmen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Betriebsrat und Betriebsverfassung/00_Betriebsrat und Betriebsverfassung.md",
-      "extension": "md",
-      "bytes": 35642,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "thema": "Betriebsrat und Betriebsverfassung",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Bundesurlaubsgesetz/00_Bundesurlaubsgesetz.md",
-      "extension": "md",
-      "bytes": 35546,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "thema": "Bundesurlaubsgesetz",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Elterngeld und Elternzeit/00_Elterngeld und Elternzeit.md",
-      "extension": "md",
-      "bytes": 7469,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "thema": "Elterngeld und Elternzeit",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Jugendarbeitsschutz/00_Jugendarbeitsschutz.md",
-      "extension": "md",
-      "bytes": 25342,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "thema": "Jugendarbeitsschutz",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Kuendigung und Arbeitsrecht/00_Kuendigung und Arbeitsrecht.md",
-      "extension": "md",
-      "bytes": 57152,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "thema": "Kündigung und Arbeitsrecht",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Mutterschutz/00_Mutterschutz.md",
-      "extension": "md",
-      "bytes": 30482,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "thema": "Mutterschutz",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Recht und Vertraege/00_Recht und Vertraege.md",
-      "extension": "md",
-      "bytes": 90808,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "thema": "Recht und Verträge",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md",
-      "extension": "md",
-      "bytes": 3878,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "thema": "Restseiten Originalbelege",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Schwerbehinderung/00_Schwerbehinderung.md",
-      "extension": "md",
-      "bytes": 30268,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "thema": "Schwerbehinderung",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/PuG_Politik_und_Gesellschaft/10_Lernordner/Tarifvertrag und Koalitionsrecht/00_Tarifvertrag und Koalitionsrecht.md",
-      "extension": "md",
-      "bytes": 28379,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "PuG_Politik_und_Gesellschaft",
-      "thema": "Tarifvertrag und Koalitionsrecht",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/PuG_Politik_und_Gesellschaft.md",
       "extension": "md",
-      "bytes": 2352,
+      "bytes": 2374,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
       "typ": "fach_index",
       "fach": "PuG_Politik_und_Gesellschaft",
-      "status": "semantisch-geprueft"
+      "status": "visuell_geprueft"
     },
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
@@ -3392,136 +1610,6 @@
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
       "typ": "quelle",
       "fach": "PuG_Politik_und_Gesellschaft"
-    },
-    {
-      "path": "02_Faecher/Religion/00_Religion_Index.md",
-      "extension": "md",
-      "bytes": 1399,
-      "role": "subject_index",
-      "ai_use": "navigation",
-      "reason": "Fachnavigation",
-      "typ": "fach_index",
-      "fach": "Religion",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/Religion/10_Lernordner/00_Religion_Themenordner_Index.md",
-      "extension": "md",
-      "bytes": 2329,
-      "role": "generated_learning_index",
-      "ai_use": "excluded",
-      "reason": "Automatisch erzeugter Themenordner-Index mit historisch zu breiten Zuordnungen",
-      "typ": "index",
-      "fach": "Religion",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/Religion/10_Lernordner/Freiheit und Selbstbestimmung/00_Freiheit und Selbstbestimmung.md",
-      "extension": "md",
-      "bytes": 16431,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Religion",
-      "thema": "Freiheit und Selbstbestimmung",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Religion/10_Lernordner/Gewissen und Verantwortung/00_Gewissen und Verantwortung.md",
-      "extension": "md",
-      "bytes": 11429,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Religion",
-      "thema": "Gewissen und Verantwortung",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Religion/10_Lernordner/Karwoche und Kirchenjahr/00_Karwoche und Kirchenjahr.md",
-      "extension": "md",
-      "bytes": 5892,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Religion",
-      "thema": "Karwoche und Kirchenjahr",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Religion/10_Lernordner/Nelson Mandela und Vorbilder/00_Nelson Mandela und Vorbilder.md",
-      "extension": "md",
-      "bytes": 4757,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Religion",
-      "thema": "Nelson Mandela und Vorbilder",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Religion/10_Lernordner/Paulus und christliche Freiheit/00_Paulus und christliche Freiheit.md",
-      "extension": "md",
-      "bytes": 6825,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Religion",
-      "thema": "Paulus und christliche Freiheit",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Religion/10_Lernordner/Recht und Vertraege/00_Recht und Vertraege.md",
-      "extension": "md",
-      "bytes": 4950,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "themen_hub",
-      "fach": "Religion",
-      "thema": "Recht und Verträge",
-      "status": "verweisknoten_ohne_eigene_quelle"
-    },
-    {
-      "path": "02_Faecher/Religion/10_Lernordner/Religion Ethik und Menschenbild/00_Religion Ethik und Menschenbild.md",
-      "extension": "md",
-      "bytes": 17897,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Religion",
-      "thema": "Religion Ethik und Menschenbild",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Religion/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md",
-      "extension": "md",
-      "bytes": 3760,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Religion",
-      "thema": "Restseiten Originalbelege",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Religion/10_Lernordner/Symbole und Glaube/00_Symbole und Glaube.md",
-      "extension": "md",
-      "bytes": 6148,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Religion",
-      "thema": "Symbole und Glaube",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
     },
     {
       "path": "02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen.md",
@@ -3546,71 +1634,13 @@
     {
       "path": "02_Faecher/Religion/Religion.md",
       "extension": "md",
-      "bytes": 1399,
+      "bytes": 1402,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
       "typ": "fach_index",
       "fach": "Religion",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/Vertretung/00_Vertretung_Index.md",
-      "extension": "md",
-      "bytes": 756,
-      "role": "subject_index",
-      "ai_use": "navigation",
-      "reason": "Fachnavigation",
-      "typ": "fach_index",
-      "fach": "Vertretung",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/Vertretung/10_Lernordner/00_Vertretung_Themenordner_Index.md",
-      "extension": "md",
-      "bytes": 961,
-      "role": "generated_learning_index",
-      "ai_use": "excluded",
-      "reason": "Automatisch erzeugter Themenordner-Index mit historisch zu breiten Zuordnungen",
-      "typ": "index",
-      "fach": "Vertretung",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "02_Faecher/Vertretung/10_Lernordner/Einheiten Umrechnen/00_Einheiten Umrechnen.md",
-      "extension": "md",
-      "bytes": 7958,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Vertretung",
-      "thema": "Einheiten Umrechnen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Vertretung/10_Lernordner/Elektrotechnik Rechenuebungen/00_Elektrotechnik Rechenuebungen.md",
-      "extension": "md",
-      "bytes": 9844,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Vertretung",
-      "thema": "Elektrotechnik Rechenübungen",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
-    },
-    {
-      "path": "02_Faecher/Vertretung/10_Lernordner/Restseiten Originalbelege/00_Restseiten Originalbelege.md",
-      "extension": "md",
-      "bytes": 3721,
-      "role": "generated_learning_module",
-      "ai_use": "excluded",
-      "reason": "Automatisch aggregierte Lernschicht mit historisch zu breiten Seitenzuordnungen",
-      "typ": "lernmodul",
-      "fach": "Vertretung",
-      "thema": "Restseiten Originalbelege",
-      "status": "graph-coverage-repariert; alle passenden Quellseiten erneut integriert; KI-Komprimat, OCR-Hinweise und Karteikarten ergänzt"
+      "status": "visuell_geprueft"
     },
     {
       "path": "02_Faecher/Vertretung/Quellen/Untitled.md",
@@ -3625,13 +1655,13 @@
     {
       "path": "02_Faecher/Vertretung/Vertretung.md",
       "extension": "md",
-      "bytes": 756,
+      "bytes": 744,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
       "typ": "fach_index",
       "fach": "Vertretung",
-      "status": "semantisch-geprueft"
+      "status": "visuell_geprueft"
     },
     {
       "path": "03_Themen/00_Kuratierte_Themen.md",
@@ -3642,246 +1672,6 @@
       "reason": "Einstieg in die vollständig visuell geprüften Themen",
       "typ": "themenindex",
       "status": "visuell_geprueft"
-    },
-    {
-      "path": "03_Themen/Allgemein/Religion Ethik.md",
-      "extension": "md",
-      "bytes": 2409,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Anwendungsentwicklung/Algorithmus.md",
-      "extension": "md",
-      "bytes": 5845,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Anwendungsentwicklung/EVA Prinzip.md",
-      "extension": "md",
-      "bytes": 7434,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Anwendungsentwicklung/Java Grundlagen.md",
-      "extension": "md",
-      "bytes": 10541,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Anwendungsentwicklung/Operatoren und Bedingungen.md",
-      "extension": "md",
-      "bytes": 7119,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Anwendungsentwicklung/Programm und Software.md",
-      "extension": "md",
-      "bytes": 7927,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Anwendungsentwicklung/Schleifen.md",
-      "extension": "md",
-      "bytes": 3712,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Anwendungsentwicklung/Unternehmenswiki.md",
-      "extension": "md",
-      "bytes": 6095,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Anwendungsentwicklung/Variablen und Datentypen.md",
-      "extension": "md",
-      "bytes": 9100,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Deutsch_Englisch_Kommunikation/Englisch IT Jobs.md",
-      "extension": "md",
-      "bytes": 2788,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Deutsch_Englisch_Kommunikation/Geschäftsbrief.md",
-      "extension": "md",
-      "bytes": 6819,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Deutsch_Englisch_Kommunikation/Listening Comprehension.md",
-      "extension": "md",
-      "bytes": 1234,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "neu_kuratiert_aus_quellseite"
-    },
-    {
-      "path": "03_Themen/Deutsch_Englisch_Kommunikation/Rechtschreibung und Grammatik.md",
-      "extension": "md",
-      "bytes": 3734,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Elektrotechnik/Elektrische Ladung.md",
-      "extension": "md",
-      "bytes": 2952,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Elektrotechnik/Elektrische Leistung.md",
-      "extension": "md",
-      "bytes": 4113,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Elektrotechnik/Netzteil.md",
-      "extension": "md",
-      "bytes": 4633,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Elektrotechnik/Spannung Strom Widerstand.md",
-      "extension": "md",
-      "bytes": 2639,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/IT_Technik_und_Sicherheit/Binärzahlen.md",
-      "extension": "md",
-      "bytes": 1641,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_nach_semantischem_audit"
-    },
-    {
-      "path": "03_Themen/IT_Technik_und_Sicherheit/IT Sicherheit.md",
-      "extension": "md",
-      "bytes": 5559,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/IT_Technik_und_Sicherheit/Malware und Angriffe.md",
-      "extension": "md",
-      "bytes": 5195,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/IT_Technik_und_Sicherheit/Netzwerkgrundlagen.md",
-      "extension": "md",
-      "bytes": 10689,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/IT_Technik_und_Sicherheit/Risikoanalyse.md",
-      "extension": "md",
-      "bytes": 2039,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_nach_semantischem_audit"
-    },
-    {
-      "path": "03_Themen/IT_Technik_und_Sicherheit/SI- und IEC-Dateneinheiten.md",
-      "extension": "md",
-      "bytes": 1447,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "neu_kuratiert_aus_quellseiten"
-    },
-    {
-      "path": "03_Themen/IT_Technik_und_Sicherheit/Sicherheitsprozess PDCA.md",
-      "extension": "md",
-      "bytes": 3210,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
     },
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Algorithmus.md",
@@ -5162,7 +2952,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/IT-Servicearten und Service-Management.md",
       "extension": "md",
-      "bytes": 1686,
+      "bytes": 1817,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -5424,1526 +3214,6 @@
       "status": "visuell_geprueft"
     },
     {
-      "path": "03_Themen/Weiterleitungen/00_Bezugsquellen und Beschaffung.md",
-      "extension": "md",
-      "bytes": 236,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_IT Vocabulary.md",
-      "extension": "md",
-      "bytes": 220,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Java Aufgaben und Uebungen.md",
-      "extension": "md",
-      "bytes": 233,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_OCR noetig - Nur Originalseite vorhanden.md",
-      "extension": "md",
-      "bytes": 247,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Projektmanagement.md",
-      "extension": "md",
-      "bytes": 224,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - . Jaeh.md",
-      "extension": "md",
-      "bytes": 225,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - . Methode.md",
-      "extension": "md",
-      "bytes": 228,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - . Pufferberechnung.md",
-      "extension": "md",
-      "bytes": 237,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - 10 Tib.md",
-      "extension": "md",
-      "bytes": 225,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - 7. Wartbarkeit (Maintainability).md",
-      "extension": "md",
-      "bytes": 251,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Advanced Encryption Standard.md",
-      "extension": "md",
-      "bytes": 247,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Asymmetrisches Verschluesselungsverfahren.md",
-      "extension": "md",
-      "bytes": 260,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Asymmetrisches kryptographisches Verfahren, d.md",
-      "extension": "md",
-      "bytes": 264,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Aufgabe 3.md",
-      "extension": "md",
-      "bytes": 228,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Aufloesungsgruende.md",
-      "extension": "md",
-      "bytes": 237,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Authentizitaet.md",
-      "extension": "md",
-      "bytes": 233,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Beispiel.md",
-      "extension": "md",
-      "bytes": 227,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Case.md",
-      "extension": "md",
-      "bytes": 223,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Differenzielle Sicherung.md",
-      "extension": "md",
-      "bytes": 243,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Elektrotechnik Klasse.md",
-      "extension": "md",
-      "bytes": 240,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Englisch Seite 26.md",
-      "extension": "md",
-      "bytes": 236,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Entscheidungstabelle - Regeln.md",
-      "extension": "md",
-      "bytes": 248,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Fallauswahl.md",
-      "extension": "md",
-      "bytes": 230,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Folien.md",
-      "extension": "md",
-      "bytes": 225,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - FortsetzungAufgabe2 Leseverstehen(Reception).md",
-      "extension": "md",
-      "bytes": 263,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Grundlagen Elektrotechnik (Wild).md",
-      "extension": "md",
-      "bytes": 251,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Grundsaetzlich.md",
-      "extension": "md",
-      "bytes": 233,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Hash-Verfahren.md",
-      "extension": "md",
-      "bytes": 233,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Hybride Verschluesselungsverfahren.md",
-      "extension": "md",
-      "bytes": 253,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Inkrementelle Sicherung.md",
-      "extension": "md",
-      "bytes": 242,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Klasse.md",
-      "extension": "md",
-      "bytes": 225,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Otma_Netzwerkt Seite 4.md",
-      "extension": "md",
-      "bytes": 241,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Phishin.md",
-      "extension": "md",
-      "bytes": 226,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Secure Hash Algorithm bezeichnet eine Gruppe.md",
-      "extension": "md",
-      "bytes": 263,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Seite 9 von 11.md",
-      "extension": "md",
-      "bytes": 233,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Sonstige Inhalte aus den Originalquellen.md",
-      "extension": "md",
-      "bytes": 259,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Urheber ist.md",
-      "extension": "md",
-      "bytes": 230,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Vorgang 1.md",
-      "extension": "md",
-      "bytes": 228,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Vorteile.md",
-      "extension": "md",
-      "bytes": 227,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Wie erstellt man einen Netzplan.md",
-      "extension": "md",
-      "bytes": 250,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Wittmann.md",
-      "extension": "md",
-      "bytes": 227,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - Zugangs und.md",
-      "extension": "md",
-      "bytes": 230,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - class.md",
-      "extension": "md",
-      "bytes": 224,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/00_Sonstiges - https.md",
-      "extension": "md",
-      "bytes": 224,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Algorithmus und Programmablauf.md",
-      "extension": "md",
-      "bytes": 227,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Angebotsvergleich und Bezugskalkulation.md",
-      "extension": "md",
-      "bytes": 254,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Applying for a Position.md",
-      "extension": "md",
-      "bytes": 206,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Arrays und Sammlungen.md",
-      "extension": "md",
-      "bytes": 200,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Aufgaben Uebungen und Loesungen.md",
-      "extension": "md",
-      "bytes": 1424,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Aufgaben Übungen und Lösungen.md",
-      "extension": "md",
-      "bytes": 1424,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Ausbildungsvertrag und BBiG.md",
-      "extension": "md",
-      "bytes": 218,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Backup und Datensicherung.md",
-      "extension": "md",
-      "bytes": 212,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Beschaffung Angebot und Kalkulation.md",
-      "extension": "md",
-      "bytes": 242,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Betriebsrat und Betriebsverfassung.md",
-      "extension": "md",
-      "bytes": 239,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Bundesurlaubsgesetz.md",
-      "extension": "md",
-      "bytes": 194,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Business Communication English.md",
-      "extension": "md",
-      "bytes": 227,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Company Structure and Departments.md",
-      "extension": "md",
-      "bytes": 236,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Company Websites and Web Design.md",
-      "extension": "md",
-      "bytes": 230,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Computergrundbegriffe.md",
-      "extension": "md",
-      "bytes": 200,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Das oder Dass.md",
-      "extension": "md",
-      "bytes": 176,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Datenschutz und Rollen.md",
-      "extension": "md",
-      "bytes": 203,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Dokumentation Installation und Anpassung.md",
-      "extension": "md",
-      "bytes": 257,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Einheiten Umrechnen.md",
-      "extension": "md",
-      "bytes": 194,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Elektrische Leistung und Netzteil.md",
-      "extension": "md",
-      "bytes": 236,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Elektrotechnik Aufgaben und Loesungen.md",
-      "extension": "md",
-      "bytes": 248,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Elektrotechnik Aufgaben und Lösungen.md",
-      "extension": "md",
-      "bytes": 251,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "graph-coverage-alias"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Elektrotechnik Grundlagen Mathematik.md",
-      "extension": "md",
-      "bytes": 245,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Elektrotechnik Rechenuebungen.md",
-      "extension": "md",
-      "bytes": 224,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Elektrotechnik Rechenübungen.md",
-      "extension": "md",
-      "bytes": 227,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "graph-coverage-alias"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Elterngeld und Elternzeit.md",
-      "extension": "md",
-      "bytes": 212,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Freiheit und Selbstbestimmung.md",
-      "extension": "md",
-      "bytes": 224,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Fremdwoerter.md",
-      "extension": "md",
-      "bytes": 173,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Fremdwörter.md",
-      "extension": "md",
-      "bytes": 176,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "graph-coverage-alias"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Geschaeftsbrief Anfrage Angebot.md",
-      "extension": "md",
-      "bytes": 877,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Geschäftsbrief Anfrage Angebot.md",
-      "extension": "md",
-      "bytes": 877,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Gewissen und Verantwortung.md",
-      "extension": "md",
-      "bytes": 215,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Hochverfuegbarkeit und Redundanz.md",
-      "extension": "md",
-      "bytes": 586,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Hochverfügbarkeit und Redundanz.md",
-      "extension": "md",
-      "bytes": 586,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/IPv4 Subnetting und Binaerzahlen.md",
-      "extension": "md",
-      "bytes": 406,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/IT Jobs and Roles.md",
-      "extension": "md",
-      "bytes": 188,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/IT Sicherheit Grundlagen.md",
-      "extension": "md",
-      "bytes": 209,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/IT Sicherheit Ueberblick.md",
-      "extension": "md",
-      "bytes": 209,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/IT Sicherheit Überblick.md",
-      "extension": "md",
-      "bytes": 212,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "graph-coverage-alias"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/IT Vocabulary and Hardware.md",
-      "extension": "md",
-      "bytes": 215,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Introducing a Company.md",
-      "extension": "md",
-      "bytes": 200,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Java Grundlagen und IDE.md",
-      "extension": "md",
-      "bytes": 206,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Jugendarbeitsschutz.md",
-      "extension": "md",
-      "bytes": 194,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Karwoche und Kirchenjahr.md",
-      "extension": "md",
-      "bytes": 209,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Kaufvertrag und Rechtsgeschaefte.md",
-      "extension": "md",
-      "bytes": 233,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Kaufvertrag und Rechtsgeschäfte.md",
-      "extension": "md",
-      "bytes": 236,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "graph-coverage-alias"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Klassen Objekte Attribute.md",
-      "extension": "md",
-      "bytes": 212,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Kommasetzung.md",
-      "extension": "md",
-      "bytes": 173,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Kommunikation Modelle.md",
-      "extension": "md",
-      "bytes": 200,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Kryptografie Verschluesselung Hash Signatur.md",
-      "extension": "md",
-      "bytes": 266,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Kryptografie Verschlüsselung Hash Signatur.md",
-      "extension": "md",
-      "bytes": 269,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "graph-coverage-alias"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Kuendigung und Arbeitsrecht.md",
-      "extension": "md",
-      "bytes": 218,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Kündigung und Arbeitsrecht.md",
-      "extension": "md",
-      "bytes": 221,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "graph-coverage-alias"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Making Phone Calls and Voicemail.md",
-      "extension": "md",
-      "bytes": 233,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Marktumfeld und Marktformen.md",
-      "extension": "md",
-      "bytes": 218,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Materialwirtschaft und Beschaffung.md",
-      "extension": "md",
-      "bytes": 239,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Methoden Parameter Rueckgabewerte.md",
-      "extension": "md",
-      "bytes": 236,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Methoden Parameter Rückgabewerte.md",
-      "extension": "md",
-      "bytes": 239,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "graph-coverage-alias"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Mutterschutz.md",
-      "extension": "md",
-      "bytes": 173,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Nelson Mandela und Vorbilder.md",
-      "extension": "md",
-      "bytes": 221,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Netzplan und Netzwerktechnik.md",
-      "extension": "md",
-      "bytes": 562,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Ordering Technical Products.md",
-      "extension": "md",
-      "bytes": 218,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Organigramm und Liniensysteme.md",
-      "extension": "md",
-      "bytes": 224,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Organisation im Betrieb.md",
-      "extension": "md",
-      "bytes": 206,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Paulus und christliche Freiheit.md",
-      "extension": "md",
-      "bytes": 230,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Personalwirtschaft.md",
-      "extension": "md",
-      "bytes": 191,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Produktionsfaktoren.md",
-      "extension": "md",
-      "bytes": 194,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Programmiersprachen und Uebersetzer.md",
-      "extension": "md",
-      "bytes": 242,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Programmiersprachen und Übersetzer.md",
-      "extension": "md",
-      "bytes": 245,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "graph-coverage-alias"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Projektmanagement Lastenheft Pflichtenheft.md",
-      "extension": "md",
-      "bytes": 263,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Projektplanung und Netzplanmethode.md",
-      "extension": "md",
-      "bytes": 239,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Ransomware und Malware.md",
-      "extension": "md",
-      "bytes": 203,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Reading Comprehension and Case Studies.md",
-      "extension": "md",
-      "bytes": 251,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Recht Kaufvertrag Geschaeftsfaehigkeit.md",
-      "extension": "md",
-      "bytes": 251,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Recht Kaufvertrag Geschäftsfähigkeit.md",
-      "extension": "md",
-      "bytes": 254,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "graph-coverage-alias"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Recht und Vertraege.md",
-      "extension": "md",
-      "bytes": 495,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Recht und Verträge.md",
-      "extension": "md",
-      "bytes": 495,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Rechtschreibung Gross und Klein.md",
-      "extension": "md",
-      "bytes": 230,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Rechtsformen.md",
-      "extension": "md",
-      "bytes": 173,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Religion Ethik und Menschenbild.md",
-      "extension": "md",
-      "bytes": 230,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Restseiten Originalbelege.md",
-      "extension": "md",
-      "bytes": 1268,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Risikoanalyse und Schutzbedarf.md",
-      "extension": "md",
-      "bytes": 300,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Scanner Random Benutzereingaben.md",
-      "extension": "md",
-      "bytes": 230,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Schwerbehinderung.md",
-      "extension": "md",
-      "bytes": 188,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Sicherheitsmanagement und Massnahmen.md",
-      "extension": "md",
-      "bytes": 245,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Sicherheitsprozess PDCA und ISMS.md",
-      "extension": "md",
-      "bytes": 215,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Softwareentwicklung Vorgehensmodelle Scrum V-Modell.md",
-      "extension": "md",
-      "bytes": 290,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Softwarequalitaet Wartbarkeit Usability.md",
-      "extension": "md",
-      "bytes": 254,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Softwarequalität Wartbarkeit Usability.md",
-      "extension": "md",
-      "bytes": 257,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "graph-coverage-alias"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Sprachtraining und Grammatik.md",
-      "extension": "md",
-      "bytes": 221,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Symbole und Glaube.md",
-      "extension": "md",
-      "bytes": 191,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Syntax und Code-Struktur.md",
-      "extension": "md",
-      "bytes": 209,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Tarifvertrag und Koalitionsrecht.md",
-      "extension": "md",
-      "bytes": 233,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Unternehmen und betriebliche Funktionen.md",
-      "extension": "md",
-      "bytes": 254,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Unternehmensleitbild Corporate Identity.md",
-      "extension": "md",
-      "bytes": 254,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Unternehmensrecht Handelsregister Vollmachten.md",
-      "extension": "md",
-      "bytes": 272,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Unternehmenswiki Projektaufgaben.md",
-      "extension": "md",
-      "bytes": 201,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Unternehmensziele.md",
-      "extension": "md",
-      "bytes": 188,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Useful Phrases and Grammar.md",
-      "extension": "md",
-      "bytes": 215,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Werkzeuge Debugging und IDE.md",
-      "extension": "md",
-      "bytes": 218,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Wirtschaftlichkeit und Rechnungswesen.md",
-      "extension": "md",
-      "bytes": 248,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Weiterleitungen/Wirtschaftssektoren.md",
-      "extension": "md",
-      "bytes": 194,
-      "role": "topic_alias",
-      "ai_use": "excluded",
-      "reason": "Weiterleitung oder OCR-Fragment ohne kanonischen Inhalt",
-      "typ": "weiterleitung",
-      "status": "automatisch erstellt fuer Linkstabilitaet"
-    },
-    {
-      "path": "03_Themen/Wirtschaft_und_Recht/Arbeitsteilung.md",
-      "extension": "md",
-      "bytes": 1354,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "neu_kuratiert_aus_quellseiten"
-    },
-    {
-      "path": "03_Themen/Wirtschaft_und_Recht/Ausbildung und Beruf.md",
-      "extension": "md",
-      "bytes": 4374,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Wirtschaft_und_Recht/Betrieb und Unternehmen.md",
-      "extension": "md",
-      "bytes": 8150,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Wirtschaft_und_Recht/Betriebswirtschaft BGWP.md",
-      "extension": "md",
-      "bytes": 6545,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Wirtschaft_und_Recht/Recht und Politik PuG.md",
-      "extension": "md",
-      "bytes": 3904,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "kuratiert_aus_quellen"
-    },
-    {
-      "path": "03_Themen/Wirtschaft_und_Recht/Wirtschaftskreislauf.md",
-      "extension": "md",
-      "bytes": 1241,
-      "role": "legacy_topic",
-      "ai_use": "excluded",
-      "reason": "Frühere Themeneinordnung ohne gleichwertige seitenweise Sichtprüfung",
-      "typ": "thema",
-      "status": "neu_kuratiert_aus_quellseiten"
-    },
-    {
       "path": "04_Pruefung/AP1/00_AP1_Lernmatrix.md",
       "extension": "md",
       "bytes": 5686,
@@ -7117,19 +3387,9 @@
       "status": "vorbereitet"
     },
     {
-      "path": "04_Pruefung/Template Altklausur Analyse.md",
-      "extension": "md",
-      "bytes": 683,
-      "role": "unverified_exam_material",
-      "ai_use": "excluded",
-      "reason": "Planungs- oder Prüfungsschicht ohne gleichwertige seitenweise Quellenprüfung",
-      "typ": "aufgabenanalyse",
-      "status": "roh"
-    },
-    {
       "path": "05_Karteikarten/00_Karteikarten_Index.md",
       "extension": "md",
-      "bytes": 22353,
+      "bytes": 22528,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -7408,7 +3668,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/UML-Diagramme.md",
       "extension": "md",
-      "bytes": 8914,
+      "bytes": 9846,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -7538,7 +3798,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/IT Vocabulary and Hardware.md",
       "extension": "md",
-      "bytes": 5226,
+      "bytes": 6413,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -7608,7 +3868,7 @@
     {
       "path": "05_Karteikarten/Deutsch_Englisch_Kommunikation/Reading Comprehension and Case Studies.md",
       "extension": "md",
-      "bytes": 4926,
+      "bytes": 5867,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -7748,7 +4008,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Ohmsches Gesetz und Leiterwiderstand.md",
       "extension": "md",
-      "bytes": 5343,
+      "bytes": 6106,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -7758,7 +4018,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Reihen- Parallel- und Gruppenschaltungen.md",
       "extension": "md",
-      "bytes": 6195,
+      "bytes": 7140,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -7798,7 +4058,7 @@
     {
       "path": "05_Karteikarten/Elektrotechnik/Verstärkung Dämpfung und Pegelrechnung.md",
       "extension": "md",
-      "bytes": 6356,
+      "bytes": 7213,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -7908,7 +4168,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/IPv4-Adressierung und Subnetting.md",
       "extension": "md",
-      "bytes": 9073,
+      "bytes": 8986,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -7948,7 +4208,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Malware und Angriffe.md",
       "extension": "md",
-      "bytes": 7221,
+      "bytes": 9029,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -8288,12 +4548,22 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Grundgesetz Staatsprinzipien und Grundrechte.md",
       "extension": "md",
-      "bytes": 8632,
+      "bytes": 9602,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
       "typ": "karteikarten_deck",
       "thema": "Grundgesetz Staatsprinzipien und Grundrechte"
+    },
+    {
+      "path": "05_Karteikarten/Wirtschaft_und_Recht/IT-Servicearten und Service-Management.md",
+      "extension": "md",
+      "bytes": 6282,
+      "role": "flashcard_index",
+      "ai_use": "excluded",
+      "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
+      "typ": "karteikarten_deck",
+      "thema": "IT-Servicearten und Service-Management"
     },
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Jugendarbeitsschutz.md",
@@ -8358,7 +4628,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Organisation im Betrieb.md",
       "extension": "md",
-      "bytes": 8245,
+      "bytes": 9170,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -8448,7 +4718,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Totalitäre Systeme und Diktatur.md",
       "extension": "md",
-      "bytes": 5556,
+      "bytes": 6217,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -8526,35 +4796,6 @@
       "thema": "Wirtschaftssektoren"
     },
     {
-      "path": "05_Templates/Aufgabe_Template.md",
-      "extension": "md",
-      "bytes": 683,
-      "role": "template",
-      "ai_use": "excluded",
-      "reason": "Unausgefüllter Platzhalter",
-      "typ": "aufgabenanalyse",
-      "status": "roh"
-    },
-    {
-      "path": "05_Templates/Quelle_Template.md",
-      "extension": "md",
-      "bytes": 1590,
-      "role": "template",
-      "ai_use": "excluded",
-      "reason": "Unausgefüllter Platzhalter",
-      "typ": "quelle"
-    },
-    {
-      "path": "05_Templates/Thema_Template.md",
-      "extension": "md",
-      "bytes": 160,
-      "role": "template",
-      "ai_use": "excluded",
-      "reason": "Unausgefüllter Platzhalter",
-      "typ": "thema",
-      "status": "manuell"
-    },
-    {
       "path": "06_Altklausuren/00_Posteingang/README.md",
       "extension": "md",
       "bytes": 1418,
@@ -8574,114 +4815,6 @@
       "typ": "altklausur_bereich"
     },
     {
-      "path": "07_Lernordner/00_Lernordner_Gesamtindex.md",
-      "extension": "md",
-      "bytes": 21902,
-      "role": "navigation_index",
-      "ai_use": "navigation",
-      "reason": "Fach- oder Gesamtübersicht",
-      "typ": "index",
-      "status": "semantisch-geprueft"
-    },
-    {
-      "path": "07_Lernordner/AE Anwendungsentwicklung.md",
-      "extension": "md",
-      "bytes": 3950,
-      "role": "navigation_index",
-      "ai_use": "navigation",
-      "reason": "Fach- oder Gesamtübersicht",
-      "typ": "globaler_fach_lernordner",
-      "fach": "AE_Anwendungsentwicklung"
-    },
-    {
-      "path": "07_Lernordner/Allgemein Berufsschule.md",
-      "extension": "md",
-      "bytes": 999,
-      "role": "navigation_index",
-      "ai_use": "navigation",
-      "reason": "Fach- oder Gesamtübersicht",
-      "typ": "globaler_fach_lernordner",
-      "fach": "Allgemein_Berufsschule"
-    },
-    {
-      "path": "07_Lernordner/BGWP Betriebswirtschaft.md",
-      "extension": "md",
-      "bytes": 3283,
-      "role": "navigation_index",
-      "ai_use": "navigation",
-      "reason": "Fach- oder Gesamtübersicht",
-      "typ": "globaler_fach_lernordner",
-      "fach": "BGWP_Betriebswirtschaft"
-    },
-    {
-      "path": "07_Lernordner/Deutsch.md",
-      "extension": "md",
-      "bytes": 1961,
-      "role": "navigation_index",
-      "ai_use": "navigation",
-      "reason": "Fach- oder Gesamtübersicht",
-      "typ": "globaler_fach_lernordner",
-      "fach": "Deutsch"
-    },
-    {
-      "path": "07_Lernordner/Englisch.md",
-      "extension": "md",
-      "bytes": 2327,
-      "role": "navigation_index",
-      "ai_use": "navigation",
-      "reason": "Fach- oder Gesamtübersicht",
-      "typ": "globaler_fach_lernordner",
-      "fach": "Englisch"
-    },
-    {
-      "path": "07_Lernordner/ITT IT-Technik.md",
-      "extension": "md",
-      "bytes": 4437,
-      "role": "navigation_index",
-      "ai_use": "navigation",
-      "reason": "Fach- oder Gesamtübersicht",
-      "typ": "globaler_fach_lernordner",
-      "fach": "ITT_IT_Technik"
-    },
-    {
-      "path": "07_Lernordner/PuG Politik und Gesellschaft.md",
-      "extension": "md",
-      "bytes": 2370,
-      "role": "navigation_index",
-      "ai_use": "navigation",
-      "reason": "Fach- oder Gesamtübersicht",
-      "typ": "globaler_fach_lernordner",
-      "fach": "PuG_Politik_und_Gesellschaft"
-    },
-    {
-      "path": "07_Lernordner/Religion.md",
-      "extension": "md",
-      "bytes": 1422,
-      "role": "navigation_index",
-      "ai_use": "navigation",
-      "reason": "Fach- oder Gesamtübersicht",
-      "typ": "globaler_fach_lernordner",
-      "fach": "Religion"
-    },
-    {
-      "path": "07_Lernordner/Vertretung.md",
-      "extension": "md",
-      "bytes": 594,
-      "role": "navigation_index",
-      "ai_use": "navigation",
-      "reason": "Fach- oder Gesamtübersicht",
-      "typ": "globaler_fach_lernordner",
-      "fach": "Vertretung"
-    },
-    {
-      "path": "2026-11-23.md",
-      "extension": "md",
-      "bytes": 0,
-      "role": "working_note",
-      "ai_use": "excluded",
-      "reason": "Lokale Tagesnotiz oder Canvas; kein kanonischer KI-Beleg"
-    },
-    {
       "path": "98_Archiv_nicht_lernen/Privat_Noten_nicht_fuer_KI/Noten.pdf",
       "extension": "pdf",
       "bytes": 210295,
@@ -8698,36 +4831,6 @@
       "reason": "Archiv, Duplikat oder ausdrücklich nicht für KI"
     },
     {
-      "path": "98_Archiv_nicht_lernen/Quellen_Duplikate/Anwendugse.md",
-      "extension": "md",
-      "bytes": 186384,
-      "role": "private_or_archive",
-      "ai_use": "excluded",
-      "reason": "Archiv, Duplikat oder ausdrücklich nicht für KI",
-      "typ": "quelle",
-      "fach": "AE_Anwendungsentwicklung"
-    },
-    {
-      "path": "98_Archiv_nicht_lernen/Quellen_Duplikate/IT_Sicherheit_Aufgabe_1_1_2.md",
-      "extension": "md",
-      "bytes": 6360,
-      "role": "private_or_archive",
-      "ai_use": "excluded",
-      "reason": "Archiv, Duplikat oder ausdrücklich nicht für KI",
-      "typ": "quelle",
-      "fach": "ITT_IT_Technik"
-    },
-    {
-      "path": "98_Archiv_nicht_lernen/Quellen_Duplikate/Unbenanntes_Notizbuch.md",
-      "extension": "md",
-      "bytes": 7598,
-      "role": "private_or_archive",
-      "ai_use": "excluded",
-      "reason": "Archiv, Duplikat oder ausdrücklich nicht für KI",
-      "typ": "quelle",
-      "fach": "Religion"
-    },
-    {
       "path": "99_Originale/Basics/JAVA/Java Basics.pdf",
       "extension": "pdf",
       "bytes": 9503355,
@@ -8742,14 +4845,6 @@
       "role": "original_pdf",
       "ai_use": "verify_only",
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
-    },
-    {
-      "path": "99_Originale/Berufsschule/AE/1_LJ/Anwendugse.pdf",
-      "extension": "pdf",
-      "bytes": 26434855,
-      "role": "duplicate_pdf",
-      "ai_use": "excluded",
-      "reason": "Vollständig gerendert und visuell pixelidentisch mit einer aktiven kanonischen PDF"
     },
     {
       "path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-4.Block.pdf",
@@ -8968,14 +5063,6 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1(1).pdf",
-      "extension": "pdf",
-      "bytes": 6285555,
-      "role": "duplicate_pdf",
-      "ai_use": "excluded",
-      "reason": "Vollständig gerendert und visuell pixelidentisch mit einer aktiven kanonischen PDF"
-    },
-    {
       "path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf",
       "extension": "pdf",
       "bytes": 6285555,
@@ -9152,14 +5239,6 @@
       "reason": "Originalbeleg; bei OCR, Zahlen und Layout visuell prüfen"
     },
     {
-      "path": "99_Originale/Berufsschule/Religion/1_LJ/Unbenanntes Notizbuch.pdf",
-      "extension": "pdf",
-      "bytes": 2070629,
-      "role": "duplicate_pdf",
-      "ai_use": "excluded",
-      "reason": "Vollständig gerendert und visuell pixelidentisch mit einer aktiven kanonischen PDF"
-    },
-    {
       "path": "99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf",
       "extension": "pdf",
       "bytes": 6746682,
@@ -9178,146 +5257,10 @@
     {
       "path": "README.md",
       "extension": "md",
-      "bytes": 6044,
+      "bytes": 6002,
       "role": "project_metadata",
       "ai_use": "excluded",
       "reason": "Projekt-, Git- und Auditmetadaten; kein fachlicher Lernbeleg"
-    },
-    {
-      "path": "Unbenannt.canvas",
-      "extension": "canvas",
-      "bytes": 2,
-      "role": "working_note",
-      "ai_use": "excluded",
-      "reason": "Lokale Tagesnotiz oder Canvas; kein kanonischer KI-Beleg"
-    },
-    {
-      "path": "copilot/copilot-conversations/was_ist_ein_Pap@20261124_094052.md",
-      "extension": "md",
-      "bytes": 339,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
-    },
-    {
-      "path": "copilot/copilot-custom-prompts/Clip Web Page.md",
-      "extension": "md",
-      "bytes": 1393,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
-    },
-    {
-      "path": "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-      "extension": "md",
-      "bytes": 1934,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
-    },
-    {
-      "path": "copilot/copilot-custom-prompts/Emojify.md",
-      "extension": "md",
-      "bytes": 470,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
-    },
-    {
-      "path": "copilot/copilot-custom-prompts/Explain like I am 5.md",
-      "extension": "md",
-      "bytes": 388,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
-    },
-    {
-      "path": "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-      "extension": "md",
-      "bytes": 350,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
-    },
-    {
-      "path": "copilot/copilot-custom-prompts/Generate glossary.md",
-      "extension": "md",
-      "bytes": 353,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
-    },
-    {
-      "path": "copilot/copilot-custom-prompts/Generate table of contents.md",
-      "extension": "md",
-      "bytes": 357,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
-    },
-    {
-      "path": "copilot/copilot-custom-prompts/Make longer.md",
-      "extension": "md",
-      "bytes": 379,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
-    },
-    {
-      "path": "copilot/copilot-custom-prompts/Make shorter.md",
-      "extension": "md",
-      "bytes": 373,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
-    },
-    {
-      "path": "copilot/copilot-custom-prompts/Remove URLs.md",
-      "extension": "md",
-      "bytes": 347,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
-    },
-    {
-      "path": "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-      "extension": "md",
-      "bytes": 500,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
-    },
-    {
-      "path": "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-      "extension": "md",
-      "bytes": 376,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
-    },
-    {
-      "path": "copilot/copilot-custom-prompts/Simplify.md",
-      "extension": "md",
-      "bytes": 370,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
-    },
-    {
-      "path": "copilot/copilot-custom-prompts/Summarize.md",
-      "extension": "md",
-      "bytes": 307,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
-    },
-    {
-      "path": "copilot/copilot-custom-prompts/Translate to Chinese.md",
-      "extension": "md",
-      "bytes": 369,
-      "role": "copilot_prompt",
-      "ai_use": "excluded",
-      "reason": "Arbeitsanweisung, kein Lernwissen"
     },
     {
       "path": "copilot/system-prompts/Migrated Custom System Prompt.md",

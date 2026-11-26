@@ -1,6 +1,6 @@
 # Kompakter System-Prompt für Gemini Skills (manuell) & Obsidian Copilot
 
-In **Gemini Web** (`gemini.google.com` → *Anpassen → Skills → Erstellen → Hochladen*) kannst du am besten direkt die **`SKILL.md` / `ap-lerncoach.zip`** hochladen und Google-Drive- oder NotebookLM-Quellen direkt am Skill verknüpfen.
+In **Gemini Web** (`gemini.google.com` → *Anpassen → Skills → Erstellen → Hochladen*) kannst du direkt die **`SKILL.md`** (bzw. bei Bedarf ein frisch gepacktes ZIP des Ordners `.agents/skills/ap-lerncoach/`) hochladen und Google-Drive- oder NotebookLM-Quellen direkt am Skill verknüpfen.
 
 Falls du die Anweisungen stattdessen manuell einfügen möchtest (z. B. als **Custom System Prompt in Obsidian Copilot** oder im manuellen Skill-Editor), kopiere diesen kompakten Block 1-zu-1:
 
