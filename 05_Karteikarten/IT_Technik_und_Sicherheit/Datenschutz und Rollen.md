@@ -1,24 +1,25 @@
 ---
 typ: karteikarten_deck
-thema: "Datenschutz und Rollen"
+thema: Datenschutz und Rollen
 kategorie: IT_Technik_und_Sicherheit
-pruefung: "AP1/AP2"
-thema_quelle: "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Datenschutz und Rollen.md"
-stand_karten: 2026-11-24
-stand_quelle: 2026-11-24
+pruefung: AP1/AP2
+thema_quelle: 03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Datenschutz und
+  Rollen.md
+stand_karten: '2026-11-26'
+stand_quelle: '2026-11-26'
 quellseiten_anzahl: 5
 quellseiten_hash: 5185f4068197
 quellseiten:
-  - "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA#page=100"
-  - "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA#page=99"
-  - "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=12"
-  - "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=13"
-  - "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=14"
+- 02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA#page=100
+- 02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA#page=99
+- 02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=12
+- 02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=13
+- 02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement#page=14
 rag_include: false
 canonical_evidence: false
 tags:
-  - karteikarten
-  - flashcards/it-technik-und-sicherheit/datenschutz-und-rollen
+- karteikarten
+- flashcards/it-technik-und-sicherheit/datenschutz-und-rollen
 ---
 # 🗂️ Karteikarten: Datenschutz und Rollen
 
@@ -67,8 +68,8 @@ Vertraulichkeit stellt sicher, dass nur der befugte Personenkreis Zugriff und Ei
 
 ---
 
-<!-- card-id: datenschutz-und-rollen-06 | typ: anwendung | pruefung: AP1/AP2 -->
-**Wie kombiniert ein hybrides Verschlüsselungsverfahren symmetrische und asymmetrische Kryptografie?**
+<!-- card-id: datenschutz-und-rollen-06 | typ: abgrenzung | pruefung: AP1/AP2 -->
+**Was bedeutet das Schutzziel `Authentizität` und warum zählen IP-Adressen oder Cookie-Kennungen zu mittelbaren personenbezogenen Daten?**
 ?
-Der Sender wählt einen zufälligen symmetrischen Session-Key, verschlüsselt damit schnell die Daten und verschlüsselt anschließend diesen Session-Key asymmetrisch mit dem öffentlichen Schlüssel des Empfängers (löst das Schlüsselverteilungsproblem).
-*Quelle: ITT IT-Technik (1. LJ) · [Sicherheitsmanagement.pdf · S. 13](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=13>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]], OCR/Original prüfen*
+**Authentizität** bedeutet, dass Daten jederzeit eindeutig ihrem Ursprung zugeordnet werden können. **Mittelbare personenbezogene Daten** (z. B. **IP-Adressen**, **Cookie-Kennungen**, Telefon-, Matrikel- oder Sozialversicherungsnummern) erlauben über Zusatzwissen eine Zuordnung zu einer konkreten Person und unterliegen damit dem Datenschutz.
+*Quelle: ITT IT-Technik (1. LJ) · [Sicherheitsmanagement.pdf · S. 12–13](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Sicherheitsmanagement.pdf#page=12>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Sicherheitsmanagement|Quellnotiz]], OCR/Original prüfen*

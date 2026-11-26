@@ -2,8 +2,8 @@
 id: vault.thema.visuell.angebotsvergleich.und.nutzwertanalyse
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-23
-reviewed_on: 2026-11-23
+stand: 2026-11-26
+reviewed_on: 2026-11-26
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
@@ -30,7 +30,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
 | [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Aufgabenblatt_mogliche_Losung\|Stol_Aufgabenblatt_mogliche_Losung]] | [3–4](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Aufgabenblatt - mögliche Lösung.pdf#page=3>) | loesung, theorie | 1 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [20–29, 46–54](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=20>) | beispiel, formular, loesung | 14 Seite(n): OCR/Original prüfen |
+| [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript\|Stol_Skript]] | [20–29, 46–54](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=20>) | beispiel, formular, loesung | 15 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

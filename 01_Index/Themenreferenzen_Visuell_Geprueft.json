@@ -4256,8 +4256,8 @@
         "Algorithmus",
         "Rekursion und Iteration"
       ],
-      "source_text_status": "ok",
-      "quote_safe": true
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA#page=47",
@@ -4268,8 +4268,8 @@
         "Algorithmus",
         "Rekursion und Iteration"
       ],
-      "source_text_status": "ok",
-      "quote_safe": true
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA#page=48",
@@ -5745,7 +5745,7 @@
         "SQL-Datenmanipulation INSERT UPDATE DELETE",
         "SQL-Grundlagen und SELECT-Abfragen"
       ],
-      "source_text_status": "redacted_summary",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -5767,7 +5767,7 @@
       "canonical_topics": [
         "SQL-Grundlagen und SELECT-Abfragen"
       ],
-      "source_text_status": "redacted_summary",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -5910,7 +5910,7 @@
       "canonical_topics": [
         "SQL-Datenmanipulation INSERT UPDATE DELETE"
       ],
-      "source_text_status": "redacted_summary",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -5921,7 +5921,7 @@
       "canonical_topics": [
         "SQL-Datenmanipulation INSERT UPDATE DELETE"
       ],
-      "source_text_status": "redacted_summary",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -5932,7 +5932,7 @@
       "canonical_topics": [
         "SQL-Datenmanipulation INSERT UPDATE DELETE"
       ],
-      "source_text_status": "redacted_summary",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -6201,7 +6201,7 @@
         "SQL-Datenmanipulation INSERT UPDATE DELETE",
         "SQL-Grundlagen und SELECT-Abfragen"
       ],
-      "source_text_status": "redacted_summary",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -6223,7 +6223,7 @@
       "canonical_topics": [
         "SQL-Grundlagen und SELECT-Abfragen"
       ],
-      "source_text_status": "redacted_summary",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -6366,7 +6366,7 @@
       "canonical_topics": [
         "SQL-Datenmanipulation INSERT UPDATE DELETE"
       ],
-      "source_text_status": "redacted_summary",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -6377,7 +6377,7 @@
       "canonical_topics": [
         "SQL-Datenmanipulation INSERT UPDATE DELETE"
       ],
-      "source_text_status": "redacted_summary",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -6388,7 +6388,7 @@
       "canonical_topics": [
         "SQL-Datenmanipulation INSERT UPDATE DELETE"
       ],
-      "source_text_status": "redacted_summary",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -6520,7 +6520,7 @@
       "canonical_topics": [
         "SQL-Datenmanipulation INSERT UPDATE DELETE"
       ],
-      "source_text_status": "redacted_summary",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -8809,13 +8809,13 @@
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol#page=1",
       "status": "evidence",
       "content_type": "aufgabe",
-      "primary_topic": "Java Grundlagen",
+      "primary_topic": "Java-Grundlagen",
       "canonical_topics": [
         "Java-Grundlagen",
         "Variablen und Datentypen"
       ],
-      "source_text_status": "ok",
-      "quote_safe": true
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol#page=2",
@@ -8872,8 +8872,8 @@
         "Methoden, Parameter und Rückgabewerte",
         "Objektorientierung"
       ],
-      "source_text_status": "ok",
-      "quote_safe": true
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol#page=7",
@@ -8884,8 +8884,8 @@
         "Methoden, Parameter und Rückgabewerte",
         "Objektorientierung"
       ],
-      "source_text_status": "ok",
-      "quote_safe": true
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol#page=8",
@@ -8896,8 +8896,8 @@
         "Methoden, Parameter und Rückgabewerte",
         "Objektorientierung"
       ],
-      "source_text_status": "ok",
-      "quote_safe": true
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
     },
     {
       "id": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki#page=1",
@@ -15561,8 +15561,8 @@
       "canonical_topics": [
         "Risikoanalyse"
       ],
-      "source_text_status": "ok",
-      "quote_safe": true
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
     },
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=54",
@@ -15572,8 +15572,8 @@
       "canonical_topics": [
         "Risikoanalyse"
       ],
-      "source_text_status": "ok",
-      "quote_safe": true
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
     },
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann#page=55",
@@ -17090,12 +17090,12 @@
       "id": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=47",
       "status": "evidence",
       "content_type": "loesung",
-      "primary_topic": "Elektrotechnik-Prüfungstraining",
+      "primary_topic": "Elektrische Arbeit und Energiekosten",
       "canonical_topics": [
         "Elektrische Arbeit und Energiekosten",
         "Elektrische Leistung"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17114,12 +17114,12 @@
       "id": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=49",
       "status": "evidence",
       "content_type": "loesung",
-      "primary_topic": "Elektrotechnik-Prüfungstraining",
+      "primary_topic": "Elektrische Leistung",
       "canonical_topics": [
         "Elektrische Leistung",
         "Netzteil-Wirkungsgrad und 80 PLUS"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17150,22 +17150,22 @@
       "id": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=52",
       "status": "evidence",
       "content_type": "aufgabe",
-      "primary_topic": "Elektrotechnik-Prüfungstraining",
+      "primary_topic": "Netzteil-Wirkungsgrad und 80 PLUS",
       "canonical_topics": [
         "Netzteil-Wirkungsgrad und 80 PLUS"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q#page=53",
       "status": "evidence",
       "content_type": "aufgabe",
-      "primary_topic": "Elektrotechnik-Prüfungstraining",
+      "primary_topic": "Netzteil-Wirkungsgrad und 80 PLUS",
       "canonical_topics": [
         "Netzteil-Wirkungsgrad und 80 PLUS"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17751,7 +17751,7 @@
       "canonical_topics": [
         "Netzteil-Wirkungsgrad und 80 PLUS"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17762,7 +17762,7 @@
       "canonical_topics": [
         "Netzteil-Wirkungsgrad und 80 PLUS"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17773,7 +17773,7 @@
       "canonical_topics": [
         "Netzteil-Wirkungsgrad und 80 PLUS"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -17784,7 +17784,7 @@
       "canonical_topics": [
         "Netzteil-Wirkungsgrad und 80 PLUS"
       ],
-      "source_text_status": "partial",
+      "source_text_status": "ocr_verified",
       "quote_safe": false
     },
     {
@@ -18202,8 +18202,8 @@
       "canonical_topics": [
         "Angebotsvergleich und Nutzwertanalyse"
       ],
-      "source_text_status": "ok",
-      "quote_safe": true
+      "source_text_status": "ocr_verified",
+      "quote_safe": false
     },
     {
       "id": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript#page=22",

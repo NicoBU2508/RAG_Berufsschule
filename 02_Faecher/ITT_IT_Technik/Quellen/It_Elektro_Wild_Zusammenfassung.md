@@ -19,15 +19,15 @@ seiten_mit_kanonischem_thema: 7
 ki_exclude_seiten: [1]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
-textstatus: "eingeschränkt: visuell geprüft (ocr_verified=2, partial=5)"
-textzeichen: 7947
+textstatus: "eingeschränkt: visuell geprüft (ocr_verified=6, partial=1)"
+textzeichen: 6733
 ---
 # 📄 It Elektro Wild Zusammenfassung
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
 > - **Original-PDF:** [Zusammenfassung.pdf](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf>)
 > - **Seiten:** 8
-> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=2, partial=5)
+> - **KI-Lesbarkeit:** eingeschränkt: visuell geprüft (ocr_verified=6, partial=1)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -169,58 +169,28 @@ Wa U-I-t P.,-t K=W,,-T
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=5]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Beratungsprotokoll-Kopf und Aufgaben aus Sichtprüfung bereinigt und vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-FU-IT: Grundlagen Elektrotechnik (Wild) 
- 
-Lernsituation - Netzteil 
-Klasse: 
-Name: 
-Datum: 
- 
-1 
- 
- 
- 
- 
- 
-Sichtet zun‰chst ausf¸hrlich (jeder f¸r sich!) das Produktinformationsblatt des euch 
-zugeordneten Netzteils! Bearbeitet anschlieﬂend gemeinsam in der Gruppe die Aufgaben 
-im nachstehenden Beratungsprotokoll. 
- 
-1. Erg‰nzt die Formel zur Berechnung des Wirkungsgrades eines Netzteils: 
- 
- 
- 
-              
- 
- 
-2. Notiert die Einheit sowie den mˆglichen Wertebereich des Wirkungsgrades η: 
- 
- 
- 
- 
- 
- 
-3. Erkl‰rt kurz, wozu die 80PLUS-Zertifizierung des „Bequiet! PURE POWER 12M“ dient: 
- 
- 
- 
- 
- 
- 
- 
-Aus dem Beratungschat liegt euch das PC-Nutzungsprofil von Rudi vor. Es zeigt die vom 
-Netzteil an die PC-Komponenten abgegebene Leistung Pab sowie die t‰glichen 
-Betriebsstunden t: 
-PC-Netzteil – Wirkungsgrad η („eta“) 
-η = 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+FU-IT: Grundlagen Elektrotechnik (Wild) – Lernsituation - Netzteil (S. 1)
+
+PC-Netzteil – Wirkungsgrad η („eta“)
+
+Sichtet zunächst ausführlich (jeder für sich!) das Produktinformationsblatt des euch zugeordneten Netzteils! Bearbeitet anschließend gemeinsam in der Gruppe die Aufgaben im nachstehenden Beratungsprotokoll.
+
+Protokoll - Technische Kundenberatung (CONRAT ELECTRONIC):
+- Kunde: Rudi | Ticket-ID: 11122024
+- Anliegen: Kunde wünscht Rentabilitätsprüfung für verschiedene 80PLUS-Varianten des Netzgerätes be quiet! 750 W PURE POWER 12M
+
+1. Ergänzt die Formel zur Berechnung des Wirkungsgrades eines Netzteils: η = [ ]
+2. Notiert die Einheit sowie den möglichen Wertebereich des Wirkungsgrades η:
+3. Erklärt kurz, wozu die 80PLUS-Zertifizierung des „Bequiet! PURE POWER 12M“ dient:
+
+Aus dem Beratungschat liegt euch das PC-Nutzungsprofil von Rudi vor. Es zeigt die vom Netzteil an die PC-Komponenten abgegebene Leistung P_ab sowie die täglichen Betriebsstunden t:
+(Diagramm siehe Seite 6)
 ```
 
 ### Seite 6
@@ -232,34 +202,20 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=6]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Nutzungsprofil-Diagramm („Tägliches Nutzungsverhalten“) aus Sichtprüfung vollständig abgelesen.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-FU-IT: Grundlagen Elektrotechnik (Wild) 
- 
-Lernsituation - Netzteil 
-Klasse: 
-Name: 
-Datum: 
- 
-2 
- 
- 
-  
-                                                               
- 
- 
- 
- 
- 
-4. F¸r jede Lastphase getrennt: Lest die Zeitdauer t sowie die benˆtigte Leistung Pab aus 
-dem PC-Nutzungsprofil ab. Berechnet anschlieﬂend die prozentuale Auslastung Load 
-des Netzteils.  
- 
-5. F¸r jede Lastphase getrennt: Ermittelt nun den Wirkungsgrad η (siehe Effizienzkennlinie im 
-Produktblatt eures Netzteils). Berechnet anschlieﬂend die vom Netzteil in der jeweiligen 
-Lastphase aufgenommene Leistung Pzu sowie die benˆtigte elektrische Energie Wel. 
-Tragt eure Ergebnisse aus den Teilaufgaben 4 und 5 in die Tabelle auf Seite 3 ein!
+FU-IT: Grundlagen Elektrotechnik (Wild) – Lernsituation - Netzteil (S. 2)
+
+Tägliches Nutzungsverhalten (Diagramm, Nennleistung P_ab max = 750 W):
+- Lastphase 1 (0–4 h, Zeitdauer t = 4 h): abgegebene Leistung P_ab = 600 W -> Auslastung Load = 80 %
+- Lastphase 2 (4–6 h, Zeitdauer t = 2 h): abgegebene Leistung P_ab = 300 W -> Auslastung Load = 40 %
+
+4. Für jede Lastphase getrennt: Lest die Zeitdauer t sowie die benötigte Leistung P_ab aus dem PC-Nutzungsprofil ab. Berechnet anschließend die prozentuale Auslastung Load des Netzteils.
+5. Für jede Lastphase getrennt: Ermittelt nun den Wirkungsgrad η (siehe Effizienzkennlinie im Produktblatt eures Netzteils). Berechnet anschließend die vom Netzteil in der jeweiligen Lastphase aufgenommene Leistung P_zu sowie die benötigte elektrische Energie W_el. Tragt eure Ergebnisse aus den Teilaufgaben 4 und 5 in die Tabelle auf Seite 3 ein!
 ```
 
 ### Seite 7
@@ -271,401 +227,24 @@ Tragt eure Ergebnisse aus den Teilaufgaben 4 und 5 in die Tabelle auf Seite 3 ei
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=7]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Ergebnistabelle für Lastphase 1 & 2 und Aufgabe 6 aus Sichtprüfung transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-FU-IT: Grundlagen Elektrotechnik (Wild) 
- 
-Lernsituation - Netzteil 
-Klasse: 
-Name: 
-Datum: 
- 
-3 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-6. Im Beratungschat gibt Rudi an, dass er seinen Rechner noch f¸r 3 Jahre nutzen mˆchte. 
-Berechnet die f¸r diese Nutzungsdauer insgesamt aufgenommene elektrische Energie 
-Wel gesamt sowie die entstehenden Energiekosten KEnergie gesamt (T = 40 
-Ct
-kWh). Tragt eure 
-Ergebnisse sowie den Kaufpreis eures Netzteils KNetzteil zusammenfassend in die 
-betreffende Spalte auf Seite 4 ein.  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Lastphase 1 
-Lastphase 2 
-Zeitdauer t 
- 
- 
-Pab 
- 
- 
-Load 
- 
- 
-Wirkungsgrad η 
- 
- 
-Pzu 
- 
- 
-Wel
+FU-IT: Grundlagen Elektrotechnik (Wild) – Lernsituation - Netzteil (S. 3)
+
+Ergebnistabelle (zu Teilaufgaben 4 und 5):
+Kenngröße     | Lastphase 1 | Lastphase 2
+Zeitdauer t   |             |
+P_ab          |             |
+Load          |             |
+Wirkungsgrad η|             |
+P_zu          |             |
+W_el          |             |
+
+6. Im Beratungschat gibt Rudi an, dass er seinen Rechner noch für 3 Jahre nutzen möchte. Berechnet die für diese Nutzungsdauer insgesamt aufgenommene elektrische Energie W_el gesamt sowie die entstehenden Energiekosten K_Energie gesamt (T = 40 Ct/kWh). Tragt eure Ergebnisse sowie den Kaufpreis eures Netzteils K_Netzteil zusammenfassend in die betreffende Spalte auf Seite 4 ein.
 ```
 
 ### Seite 8
@@ -677,326 +256,22 @@ Wel
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf#page=8]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Vergleichstabelle der 80-PLUS-Varianten und Aufgaben 7–8 aus Sichtprüfung transkribiert (OCR-Platzhalter entfernt).
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-FU-IT: Grundlagen Elektrotechnik (Wild) 
- 
-Lernsituation - Netzteil 
-Klasse: 
-Name: 
-Datum: 
- 
-4 
- 
-7. Berechnet nun abschlieﬂend die f¸r Rudi auftretenden Gesamtkosten Kgesamt aus 
-KEnergie gesamt und KNetzteil. Erg‰nzt euer Ergebnis ebenfalls in der Tabelle. 
- 
- 
- 
- 
- 
- 
- 
-Wel gesamt 
- 
- 
- 
- 
- 
-KEnergie gesamt 
- 
- 
- 
- 
- 
-KNetzteil 
- 
- 
- 
- 
- 
-Kgesamt 
- 
- 
- 
- 
- 
-F¸r Rudi am 
-rentabelsten: 
- 
- 
- 
- 
- 
- 
-  
-8.  Formuliert abschlieﬂend eine begr¸ndete Antwort f¸r Rudi: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Ihr seid schon fertig? Hervorragend! Meldet euch bei Herrn Wild! Scannt nebenstehenden QR-Code und 
-bearbeitet die Zusatzaufgaben! 
-Zusammenfassende Erkenntnis: 
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+FU-IT: Grundlagen Elektrotechnik (Wild) – Lernsituation - Netzteil (S. 4)
+
+7. Berechnet nun abschließend die für Rudi auftretenden Gesamtkosten K_gesamt aus K_Energie gesamt und K_Netzteil. Ergänzt euer Ergebnis ebenfalls in der Tabelle.
+
+Vergleichstabelle (be quiet! PURE POWER 12M 750 Watt):
+Spalten: 80 PLUS BRONZE | 80 PLUS SILVER | 80 PLUS GOLD | 80 PLUS PLATINUM | 80 PLUS TITANIUM
+Zeilen: W_el gesamt | K_Energie gesamt | K_Netzteil | K_gesamt | Für Rudi am rentabelsten [ ]
+
+8. Formuliert abschließend eine begründete Antwort für Rudi (CONRAT ELECTRONIC online, Ticket-ID: 11122024).
+Zusatzaufgabe: Ihr seid schon fertig? Hervorragend! Meldet euch bei Herrn Wild! Scannt nebenstehenden QR-Code und bearbeitet die Zusatzaufgaben!
+Zusammenfassende Erkenntnis: [Schreiblinien]
 ```
 

@@ -54,11 +54,11 @@
     ]
   },
   "totals": {
-    "files": 540,
+    "files": 541,
     "by_extension": {
       "css": 2,
       "js": 2,
-      "json": 78,
+      "json": 79,
       "m": 1,
       "md": 386,
       "none": 1,
@@ -81,7 +81,7 @@
       "original_pdf": 53,
       "private_or_archive": 2,
       "project_metadata": 3,
-      "quality_or_navigation": 70,
+      "quality_or_navigation": 71,
       "source_note": 46,
       "subject_index": 9,
       "topic_index": 1,
@@ -90,7 +90,7 @@
     },
     "by_ai_use": {
       "excluded": 193,
-      "navigation": 81,
+      "navigation": 82,
       "operational": 25,
       "primary": 188,
       "verify_only": 53
@@ -124,7 +124,7 @@
     {
       "path": ".agents/skills/ap-lerncoach/references/gemini-gem-prompt.md",
       "extension": "md",
-      "bytes": 11235,
+      "bytes": 11709,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -164,7 +164,7 @@
     {
       "path": ".agents/skills/ap-lerncoach/scripts/vault_lookup.rb",
       "extension": "rb",
-      "bytes": 73596,
+      "bytes": 83858,
       "role": "agent_customization",
       "ai_use": "operational",
       "reason": "Projekt-spezifische Agent-Anweisungen und Skills"
@@ -268,7 +268,7 @@
     {
       "path": ".obsidian/plugins/copilot/data.json",
       "extension": "json",
-      "bytes": 27619,
+      "bytes": 27506,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -308,7 +308,7 @@
     {
       "path": ".obsidian/workspace.json",
       "extension": "json",
-      "bytes": 8524,
+      "bytes": 8517,
       "role": "obsidian_configuration",
       "ai_use": "excluded",
       "reason": "Lokale Konfiguration oder Plugin-Code"
@@ -746,6 +746,14 @@
       "reason": "Index, Audit oder Qualitätsbericht"
     },
     {
+      "path": "01_Index/Auditdaten/Import/20261126_round2_fixes.json",
+      "extension": "json",
+      "bytes": 24958,
+      "role": "quality_or_navigation",
+      "ai_use": "navigation",
+      "reason": "Index, Audit oder Qualitätsbericht"
+    },
+    {
       "path": "01_Index/Auditdaten/PDF_Duplikatnachweis.json",
       "extension": "json",
       "bytes": 1438,
@@ -788,7 +796,7 @@
     {
       "path": "01_Index/Copilot_Allowlist.json",
       "extension": "json",
-      "bytes": 16119,
+      "bytes": 15930,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -865,7 +873,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit.json",
       "extension": "json",
-      "bytes": 1893897,
+      "bytes": 1895538,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -873,7 +881,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit.md",
       "extension": "md",
-      "bytes": 11271,
+      "bytes": 11289,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -883,7 +891,7 @@
     {
       "path": "01_Index/PDF_Seitenaudit_Worklist.json",
       "extension": "json",
-      "bytes": 3009877,
+      "bytes": 3012730,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -891,7 +899,7 @@
     {
       "path": "01_Index/Pruefungskatalog_Mapping.json",
       "extension": "json",
-      "bytes": 20226,
+      "bytes": 20351,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -899,7 +907,7 @@
     {
       "path": "01_Index/Quellenmatrix.md",
       "extension": "md",
-      "bytes": 43011,
+      "bytes": 43009,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht",
@@ -917,7 +925,7 @@
     {
       "path": "01_Index/Themenreferenzen_Visuell_Geprueft.json",
       "extension": "json",
-      "bytes": 715135,
+      "bytes": 715224,
       "role": "quality_or_navigation",
       "ai_use": "navigation",
       "reason": "Index, Audit oder Qualitätsbericht"
@@ -925,7 +933,7 @@
     {
       "path": "01_Index/Tools/build_copilot_allowlist.rb",
       "extension": "rb",
-      "bytes": 3716,
+      "bytes": 4269,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1005,7 +1013,7 @@
     {
       "path": "01_Index/Tools/learn_tracker.rb",
       "extension": "rb",
-      "bytes": 43248,
+      "bytes": 43425,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1021,7 +1029,7 @@
     {
       "path": "01_Index/Tools/sync_karteikarten.rb",
       "extension": "rb",
-      "bytes": 40418,
+      "bytes": 40651,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1037,7 +1045,7 @@
     {
       "path": "01_Index/Tools/validate_verified_source_layer.rb",
       "extension": "rb",
-      "bytes": 17786,
+      "bytes": 18212,
       "role": "maintenance_tool",
       "ai_use": "operational",
       "reason": "Lokales Prüf- oder Wartungswerkzeug"
@@ -1053,7 +1061,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/AE_Anwendungsentwicklung.md",
       "extension": "md",
-      "bytes": 11438,
+      "bytes": 11420,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
@@ -1064,7 +1072,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
       "extension": "md",
-      "bytes": 252397,
+      "bytes": 253382,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1104,7 +1112,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift.md",
       "extension": "md",
-      "bytes": 67646,
+      "bytes": 72799,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1114,7 +1122,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
       "extension": "md",
-      "bytes": 86426,
+      "bytes": 92989,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1184,7 +1192,7 @@
     {
       "path": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md",
       "extension": "md",
-      "bytes": 10551,
+      "bytes": 13618,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1266,7 +1274,7 @@
     {
       "path": "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl.md",
       "extension": "md",
-      "bytes": 67835,
+      "bytes": 69075,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1368,7 +1376,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/ITT_IT_Technik.md",
       "extension": "md",
-      "bytes": 18289,
+      "bytes": 18305,
       "role": "subject_index",
       "ai_use": "navigation",
       "reason": "Fachnavigation",
@@ -1489,7 +1497,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
       "extension": "md",
-      "bytes": 304518,
+      "bytes": 304272,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1539,7 +1547,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "extension": "md",
-      "bytes": 193575,
+      "bytes": 188654,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1549,7 +1557,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md",
       "extension": "md",
-      "bytes": 14646,
+      "bytes": 14051,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1579,7 +1587,7 @@
     {
       "path": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
       "extension": "md",
-      "bytes": 92539,
+      "bytes": 92967,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1610,7 +1618,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/PuG_2LJ_Mitschrift.md",
       "extension": "md",
-      "bytes": 40503,
+      "bytes": 40756,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1620,7 +1628,7 @@
     {
       "path": "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug.md",
       "extension": "md",
-      "bytes": 85410,
+      "bytes": 85878,
       "role": "source_note",
       "ai_use": "primary",
       "reason": "Aktive Quellnotiz mit extrahiertem Text und PDF-Seiten",
@@ -1791,7 +1799,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Java-Grundlagen.md",
       "extension": "md",
-      "bytes": 2879,
+      "bytes": 2886,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -1813,7 +1821,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Objektorientierung.md",
       "extension": "md",
-      "bytes": 2831,
+      "bytes": 2838,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -2011,7 +2019,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/Anwendungsentwicklung/Variablen und Datentypen.md",
       "extension": "md",
-      "bytes": 3099,
+      "bytes": 3106,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -2660,7 +2668,7 @@
     {
       "path": "03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Risikoanalyse.md",
       "extension": "md",
-      "bytes": 1722,
+      "bytes": 1729,
       "role": "curated_topic",
       "ai_use": "primary",
       "reason": "Visuell geprüfte Seiteneinordnung; fachlicher Beleg bleibt die Quellnotiz",
@@ -3241,7 +3249,7 @@
     {
       "path": "04_Pruefung/AP1/01_AP1_IHK_Pruefungskatalog_und_Checkliste.md",
       "extension": "md",
-      "bytes": 28847,
+      "bytes": 30262,
       "role": "unverified_exam_material",
       "ai_use": "excluded",
       "reason": "Planungs- oder Prüfungsschicht ohne gleichwertige seitenweise Quellenprüfung",
@@ -3377,7 +3385,7 @@
     {
       "path": "04_Pruefung/Lueckenanalyse.md",
       "extension": "md",
-      "bytes": 1229,
+      "bytes": 2417,
       "role": "unverified_exam_material",
       "ai_use": "excluded",
       "reason": "Planungs- oder Prüfungsschicht ohne gleichwertige seitenweise Quellenprüfung",
@@ -3454,7 +3462,7 @@
     {
       "path": "05_Karteikarten/Anwendungsentwicklung/Datenbankmodellierung und ER-Modell.md",
       "extension": "md",
-      "bytes": 10782,
+      "bytes": 11695,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4134,7 +4142,7 @@
     {
       "path": "05_Karteikarten/IT_Technik_und_Sicherheit/Datenschutz und Rollen.md",
       "extension": "md",
-      "bytes": 5509,
+      "bytes": 5641,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4414,7 +4422,7 @@
     {
       "path": "05_Karteikarten/Religion_Ethik/Religion Ethik und Menschenbild.md",
       "extension": "md",
-      "bytes": 2599,
+      "bytes": 2852,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4604,7 +4612,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Kündigung und Arbeitsrecht.md",
       "extension": "md",
-      "bytes": 6857,
+      "bytes": 7063,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -4674,7 +4682,7 @@
     {
       "path": "05_Karteikarten/Wirtschaft_und_Recht/Projektplanung und Netzplanmethode.md",
       "extension": "md",
-      "bytes": 6833,
+      "bytes": 6933,
       "role": "flashcard_index",
       "ai_use": "excluded",
       "reason": "Nicht gleichwertig visuell geprüfte Wiederholungsschicht",
@@ -5281,7 +5289,7 @@
     {
       "path": "copilot/system-prompts/Migrated Custom System Prompt.md",
       "extension": "md",
-      "bytes": 642,
+      "bytes": 2864,
       "role": "copilot_prompt",
       "ai_use": "excluded",
       "reason": "Arbeitsanweisung, kein Lernwissen"

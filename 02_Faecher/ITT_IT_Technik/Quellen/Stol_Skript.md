@@ -12,28 +12,28 @@ tags:
   - quelle
   - itt_it_technik
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
 kanonische_themen: 10
 seiten_mit_kanonischem_thema: 54
 ki_sensitive_seiten: [17,19,22,23,24,29,47,48,49,50,51,52]
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=29, redacted_summary=12, partial=13)"
-textzeichen: 57234
+textstatus: "gemischt: visuell geprüft (ok=28, ocr_verified=1, redacted_summary=12, partial=13)"
+textzeichen: 57424
 ---
 # 📄 Stol Skript
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
 > - **Original-PDF:** [Skript.pdf](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf>)
 > - **Seiten:** 54
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=29, redacted_summary=12, partial=13)
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=28, ocr_verified=1, redacted_summary=12, partial=13)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
 
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
-| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Angebotsvergleich und Nutzwertanalyse\|Angebotsvergleich und Nutzwertanalyse]] | Prüfungsrahmen der Quelle | 20–29, 46–54 | Visuell bestätigt auf 19 Seite(n); bei 14 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Angebotsvergleich und Nutzwertanalyse\|Angebotsvergleich und Nutzwertanalyse]] | Prüfungsrahmen der Quelle | 20–29, 46–54 | Visuell bestätigt auf 19 Seite(n); bei 15 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Beschaffungsquellen und Stammdaten\|Beschaffungsquellen und Stammdaten]] | Prüfungsrahmen der Quelle | 13–16, 46 | Visuell bestätigt auf 5 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Besitz Eigentum und Rechtssubjekte\|Besitz, Eigentum und Rechtssubjekte]] | Prüfungsrahmen der Quelle | 4–6 | Visuell bestätigt auf 3 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Bezugskalkulation und Verkaufskalkulation\|Bezugskalkulation und Verkaufskalkulation]] | Prüfungsrahmen der Quelle | 30–36, 47–53 | Visuell bestätigt auf 14 Seite(n); bei 13 Seite(n) OCR/Original für exakte Zitate prüfen. |
@@ -1267,132 +1267,35 @@ Berechnung des quantitativen Angebotsvergleiches
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=21]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Bezugskalkulations-Tabelle aus Sichtprüfung vollständig korrigiert und transkribiert (OCR-Zahlendreher behoben).
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Fachbereich IT/Elektrotechnik     Klasse:           
-Datum:             
- 
- 
- 
-Allgemeine Formel der Bezugskalkulation 
- 
-Formel  
-Beschreibung der Bestandteile der Bezugskalkulation 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Vergleich der Angebote der Lieferanten für die Schnellversand GmbH 
- 
- 
-Formel 
- 
- 
-Lieferant: 
- 
- 
- 
-Lieferant: 
- 
-Lieferant: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Listeneinkaufspreis
--Lieferantenrabatt
+Fachbereich IT/Elektrotechnik     Klasse:           Datum:
+
+Allgemeine Formel der Bezugskalkulation
+
+Formel:
+  Listeneinkaufspreis
+- Lieferantenrabatt
 = Zieleinkaufspreis
 - Skonto
 = Bareinkaufspreis
 + Bezugskosten
-=Bezugseinkaufspreis
-Computeprofis
-PL-Kontor
-E-TopShop
-Listeneinkaufspreis
-4
-. 605
-, 30E
-4450
-,604783 ,80E
--Rabatt
-20 %
-O
-10%
-= Zieleinkaufspreis
-3684 , 24 E
-6450
-, 6074305, 42E
-- Skonto
-O
-2 %
-3%
-=Bareinkaufspreis
-3684 , 24E
-4361, 6E
-4170, 26E
-+Bezugskosten
-11,60
-15
-, 80E
-O
-=Bezugseinkaufspreis 3695 ,84
-=)
-6377, 4E
-4776 , 26=)
+= Bezugspreis (Bezugseinkaufspreis)
+
+Vergleich der Angebote der Lieferanten für die Schnellversand GmbH
+
+Position              | Computeprofis | PL-Kontor   | E-TopShop
+Listeneinkaufspreis   | 4.605,30 €    | 4.450,60 €  | 4.783,80 €
+- Lieferantenrabatt   | 20 %          | 0           | 10 %
+= Zieleinkaufspreis   | 3.684,24 €    | 4.450,60 €  | 4.305,42 €
+- Skonto              | 0             | 2 %         | 3 %
+= Bareinkaufspreis    | 3.684,24 €    | 4.361,60 €  | 4.176,26 €
++ Bezugskosten        | 11,60 €       | 15,80 €     | 0
+= Bezugseinkaufspreis | 3.695,84 €    | 4.377,40 €  | 4.176,26 €
 ```
 
 ### Seite 22
@@ -2527,6 +2430,7 @@ d) In der PC-Kontor KG sinken die variablen Stückkosten kv von 30,00 ¤ auf 20,
 den Stückdeckungsbeitrag db und die Gewinnschwelle aus?
 db = 55,00 - 20,00 = 35,00 ¤ (steigt um 10,00 ¤)
 Gewinnschwelle: m* = 20.000 / 35 = 571 Stück (Gewinnschwelle sinkt)
+[Korrekturhinweis zu Aufgabe 2d: m* = 20.000 / 35 = 571,43 Stück. Bei 571 Stück beträgt der Deckungsbeitrag nur 19.985 € (< 20.000 € Fixkosten); für vollständige Kostendeckung ist auf 572 Stück aufzurunden (analog zum Aufrunden in 2e).]
 e) Durch Gehaltserhöhungen steigen die variablen Stückkosten kv von 30,00 ¤ auf 34,00 ¤. Wie wirkt sich das
 auf den Stückdeckungsbeitrag db und die Gewinnschwelle aus?
 db = 55,00 - 34,00 = 21,00 ¤ (sinkt um 4,00 ¤)

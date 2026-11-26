@@ -2,8 +2,8 @@
 id: vault.thema.visuell.risikoanalyse
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-07-13
-reviewed_on: 2026-07-13
+stand: 2026-11-26
+reviewed_on: 2026-11-26
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
@@ -29,7 +29,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 
 | Aktive Quellnotiz | PDF-Seiten | Inhaltstyp | Text-/Zitatstatus |
 |---|---:|---|---|
-| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [48–57](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=48>) | aufgabe, beispiel, theorie | Text für Zitate geeignet |
+| [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann\|IT_Sicherheit_Skript_Wittmann]] | [48–57](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=48>) | aufgabe, beispiel, theorie | 2 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT
 

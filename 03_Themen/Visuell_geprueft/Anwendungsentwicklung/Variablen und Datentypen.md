@@ -2,8 +2,8 @@
 id: vault.thema.visuell.variablen.und.datentypen
 typ: visuell_geprueftes_thema
 status: visuell_geprueft
-stand: 2026-11-23
-reviewed_on: 2026-11-23
+stand: 2026-11-26
+reviewed_on: 2026-11-26
 generated_by: build_verified_topics.rb
 rag_include: true
 canonical_evidence: false
@@ -34,7 +34,7 @@ Diese Themenseite wurde ausschließlich aus der vollständigen visuellen PDF-Sei
 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block\|Stol_02_Unternehmenswiki_7_Block]] | [18–33, 63](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=18>) | theorie | Text für Zitate geeignet |
 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_260210_092824\|Stol_Lernzettel_260210_092824]] | [2–3](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel_260210_092824.pdf#page=2>) | theorie | Text für Zitate geeignet |
 | [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_AEuP_Stol\|Stol_Lernzettel_AEuP_Stol]] | [3](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf#page=3>) | beispiel | 1 Seite(n): OCR/Original prüfen |
-| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [1](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=1>) | aufgabe | Text für Zitate geeignet |
+| [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol\|Stol_Stol]] | [1](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf#page=1>) | aufgabe | 1 Seite(n): OCR/Original prüfen |
 | [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT\|Grundausbildung_IT]] | [2, 8–9, 15](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=2>) | theorie | 4 Seite(n): OCR/Original prüfen |
 
 ## Belegregel für GPT

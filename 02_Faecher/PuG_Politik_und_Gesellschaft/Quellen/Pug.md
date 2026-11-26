@@ -21,7 +21,7 @@ ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperr
 ki_support_seiten: [45]
 lernstatus: "aktiv"
 textstatus: "gemischt: visuell geprüft (ok=28, ocr_verified=5, partial=16)"
-textzeichen: 59112
+textzeichen: 59562
 ---
 # 📄 Pug
 > [!quelle] Quellenstatus
@@ -1194,6 +1194,7 @@ müssen 3 Voraussetzungen erfüllt sein
 Johne Unterbrechung)
 - Mehr als 10 AN im Betrieb beschäftigt (Azubis
 zählen nicht dazu)
+[Korrekturhinweis zur Mitschrift: „Volljährigkeit“ ist gesetzlich KEINE Voraussetzung für den allgemeinen Kündigungsschutz nach § 1, § 23 KSchG. Maßgeblich sind (1) Bestehen des Arbeitsverhältnisses länger als 6 Monate ohne Unterbrechung im selben Betrieb/Unternehmen (§ 1 Abs. 1 KSchG) sowie (2) Betriebsgröße in der Regel mehr als 10 Vollzeit-Arbeitnehmer ausschließlich der Auszubildenden (§ 23 Abs. 1 KSchG; ggf. > 5 AN bei Altfällen vor 2004).]
 Wenn diese Voraussetzungen vorliegen
 kann der AG
 nur

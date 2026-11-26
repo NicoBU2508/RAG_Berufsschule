@@ -20,7 +20,7 @@ ki_exclude_seiten: [16,20]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
 textstatus: "gemischt: visuell geprüft (ok=40, ocr_verified=3)"
-textzeichen: 45694
+textzeichen: 46928
 ---
 # 📄 Bgwp schredl
 > [!quelle] Quellenstatus
@@ -3031,6 +3031,10 @@ Installationsarbeiten
 44 
 0 
 0 
+
+[Korrekturhinweis zur gedruckten Musterlösung S. 38 vs. S. 41:
+1. Bei Vorgang F (Dauer 10, Vorgänger A FEZ=20 -> FAZ=20, FEZ=30, Nachfolger I mit FAZ=SAZ=33) druckt S. 38 fälschlich GP=0, FP=0, obwohl SAZ=23 und SEZ=33 korrekt sind -> richtig ist GP = 3, FP = 3 (wie auf S. 41 im Knoten F dargestellt).
+2. Für G und H gibt die Vorgangsliste den Nachfolger H -> J (FAZ=40, SAZ=40) an; S. 38 und S. 41 rechnen jedoch fälschlich mit dem früheren Endknoten I (SAZ=33) statt J (SAZ=40). Bei konsequenter Rechnung nach der dokumentierten Struktur H -> J gilt: H (FAZ=22, FEZ=27, SAZ=35, SEZ=40, GP=13, FP=13) und G (FAZ=20, FEZ=22, SAZ=33, SEZ=35, GP=13, FP=0).]
  
  
  
@@ -3404,6 +3408,10 @@ Leitungsverlegung
 6 
 28 
 33
+[Korrekturhinweis zur gedruckten Netzplan-Grafik S. 41:
+- Kritischer Pfad: A -> B -> C -> D -> E -> I -> J (Gesamtdauer = 44 Arbeitstage).
+- Knoten F zeigt hier korrekt FAZ=20, FEZ=30, SAZ=23, SEZ=33, GP=3, FP=3 (abweichend von der Tabelle auf S. 38).
+- Wie auf S. 38 rechnet die gedruckte Grafik bei H (SAZ=28, SEZ=33, GP=6, FP=6) und G (SAZ=26, SEZ=28, GP=6, FP=0) noch gegen Vorgang I (SAZ=33) statt gegen den laut Tabelle/Pfeil angegebenen Nachfolger J (FAZ=40, SAZ=40); mit Nachfolger J ergeben sich H (SAZ=35, SEZ=40, GP=13, FP=13) und G (SAZ=33, SEZ=35, GP=13, FP=0).]
 ```
 
 ### Seite 42

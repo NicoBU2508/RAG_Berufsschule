@@ -20,22 +20,22 @@ ki_exclude_seiten: [37]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 ki_support_seiten: [11]
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=88, ocr_verified=10, ocr_error=1)"
-textzeichen: 187729
+textstatus: "gemischt: visuell geprüft (ok=86, ocr_verified=12, ocr_error=1)"
+textzeichen: 188418
 ---
 # 📄 01 Algorithmus Programm Software EVA
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/AE_Anwendungsentwicklung/AE_Anwendungsentwicklung|AE Anwendungsentwicklung]]
 > - **Original-PDF:** [01_Algorithmus_Programm_Software_EVA.pdf](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf>)
 > - **Seiten:** 100
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=88, ocr_verified=10, ocr_error=1)
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=86, ocr_verified=12, ocr_error=1)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
 
 | Thema | Prüfung | Seiten | Warum die Referenz sinnvoll ist |
 |---|---|---:|---|
-| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Algorithmus\|Algorithmus]] | Prüfungsrahmen der Quelle | 1, 4–11, 17–25, 31, 42–43, 46–49 | Visuell bestätigt auf 25 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Algorithmus\|Algorithmus]] | Prüfungsrahmen der Quelle | 1, 4–11, 17–25, 31, 42–43, 46–49 | Visuell bestätigt auf 25 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 5 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Arrays und Datenstrukturen\|Arrays und Datenstrukturen]] | Prüfungsrahmen der Quelle | 30–36, 38–41, 44–45 | Visuell bestätigt auf 13 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Barrierefreies Arbeiten und digitale Barrierefreiheit\|Barrierefreies Arbeiten und digitale Barrierefreiheit]] | Prüfungsrahmen der Quelle | 94–98 | Visuell bestätigt auf 5 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Datenherkunft und Informationsbeschaffung\|Datenherkunft und Informationsbeschaffung]] | Prüfungsrahmen der Quelle | 99–100 | Visuell bestätigt auf 2 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
@@ -48,7 +48,7 @@ textzeichen: 187729
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programm und Software\|Programm und Software]] | Prüfungsrahmen der Quelle | 1–3, 82–87 | Visuell bestätigt auf 9 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programmablaufdarstellungen\|Programmablaufdarstellungen]] | Prüfungsrahmen der Quelle | 4–16, 29, 42–43 | Visuell bestätigt auf 16 Seite(n); 1 Fragmentseite(n) nur unterstützend; bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Programmiersprachen und Übersetzer\|Programmiersprachen und Übersetzer]] | Prüfungsrahmen der Quelle | 50–61 | Visuell bestätigt auf 12 Seite(n). |
-| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Rekursion und Iteration\|Rekursion und Iteration]] | Prüfungsrahmen der Quelle | 46–49 | Visuell bestätigt auf 4 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
+| [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Rekursion und Iteration\|Rekursion und Iteration]] | Prüfungsrahmen der Quelle | 46–49 | Visuell bestätigt auf 4 Seite(n); bei 3 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Schleifen\|Schleifen]] | Prüfungsrahmen der Quelle | 17–23, 29, 31–36, 40–41 | Visuell bestätigt auf 16 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Schwerbehinderung\|Schwerbehinderung]] | Prüfungsrahmen der Quelle | 94, 97 | Visuell bestätigt auf 2 Seite(n). |
 | [[03_Themen/Visuell_geprueft/Anwendungsentwicklung/Softwareanpassung und Dokumentation\|Softwareanpassung und Dokumentation]] | Prüfungsrahmen der Quelle | 82–87, 91 | Visuell bestätigt auf 7 Seite(n). |
@@ -3111,81 +3111,38 @@ um das vierte Feldelement!
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=46]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Code, Tabelle und Handschrift aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-____________________________________________ 
- 
-Er löst eine Aufgabe / ein Problem mit Hilfe von  _____________________________.  
- 
-Gegeben ist folgender Java-Code: 
- 
- 
- 
-Deine Aufgabe: Unterziehe diesen in Java-Code vorliegenden Algorithmus einem Schreibtischtest! 
-Startwert: ___________ 
-x 
-while (x > 1) 
-result = result * x 
-x = x - 1 
-return result 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Der Aufruf dieser Methode erfolgt 
-mittels „compFact(5)“ 
-Iterativer Algorithmus 
-Schleifendurchläufen 
-x = 5 
-5
-true
-5
-4
-i
-true
-20
-3
-Hive
-60
-true
-120
-1
-1
-false
-12
+Iterativer Algorithmus: Darunter versteht man einen Algorithmus mit Schleifendurchläufen.
+Er löst eine Aufgabe / ein Problem mit Hilfe von Wiederholungen (Schleifen).
+
+Gegeben ist folgender Java-Code:
+
+int compFact(int x) {
+    int result = 1;
+    while (x > 1) {
+        result = result * x;
+        x = x - 1;
+    }
+    return result;
+}
+
+Der Aufruf dieser Methode erfolgt mittels „compFact(5)“.
+Deine Aufgabe: Unterziehe diesen in Java-Code vorliegenden Algorithmus einem Schreibtischtest!
+
+Startwert: x = 5
+
+Schreibtischtest-Tabelle:
+x | x > 1 | result | x (neu) | Ausgabe / Rückgabewert
+5 | true  | 5      | 4       |
+4 | true  | 20     | 3       |
+3 | true  | 60     | 2       |
+2 | true  | 120    | 1       |
+1 | false |        |         | 120
 ```
 
 ### Seite 47
@@ -3197,20 +3154,44 @@ false
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=47]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Mathematische Definition, Java-/Pseudocode- und VB.Net-Darstellung aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-_____________________________________________
-_____________________________________________
-_____________________________________________
-_____________________________________________
+Rekursiver Algorithmus:
+Darunter versteht man eine Funktion, die sich immer wieder selbst aufruft, bis die Abbruchbedingung erfüllt ist.
+
+Beispiel: Summe aller ganzen Zahlen von 0 bis n (sum : N0 -> N0):
+sum(n) = 0             falls n = 0   (Rekursionsanfang / Auch: Abbruchbedingung)
+sum(n) = sum(n-1) + n  falls n >= 1  (Rekursionsschritt)
+
+Beispielrechnung:
+sum(3) = sum(2) + 3 = (sum(1) + 2) + 3 = ((sum(0) + 1) + 2) + 3 = 0 + 1 + 2 + 3 = 6
+
+Pseudocode / Java-nahe Darstellung:
+int sum(int n) {
+    if (n > 0)
+        return n + sum(n - 1);
+    else // n == 0
+        return 0;
+}
+
 So sieht der zugehörige rekursive Algorithmus in VB.Net aus:
+Module Module1
+    Public Function summe(ByVal x As Integer) As Integer
+        Dim ergebnis As Integer
+        If x > 0 Then
+            ergebnis = summe(x - 1) + x
+        Else
+            ergebnis = 0
+        End If
+        Return ergebnis
+    End Function
+End Module
+
 Deine Aufgabe: Unterziehe nun diesen Algorithmus einem Schreibtischtest!
-Darunter versteht man eine 
-Funktion, die sich immer wieder 
-selbst aufruft, bis die Abbruch-
-bedingung erfüllt ist.
-Auch: Abbruchbedingung
 ```
 
 ### Seite 48

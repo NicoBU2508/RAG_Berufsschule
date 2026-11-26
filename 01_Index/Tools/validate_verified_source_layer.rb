@@ -220,7 +220,11 @@ validation.assert("keine widersprüchlichen OCR-Hinweise auf sensibler S.17", !s
 required_exclusions = [
   "98_Archiv_nicht_lernen", "99_Originale", "00_Posteingang_GoodNotes", "04_Pruefung",
   "05_Karteikarten", "06_Altklausuren", ".agents",
-  "IT_Sicherheit_Aufgabe_1_1.md", "IT_Sicherheit_Lernziele.md"
+  "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1_1.md",
+  "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Lernziele.md",
+  "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block.md",
+  "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block.md",
+  "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki.md"
 ]
 active_canonical_sources = mapping.fetch("sources").each_with_object([]) do |(path, source), selected|
   selected << path.delete_suffix(".md") if source.fetch("canonical_pages").positive?
@@ -228,17 +232,19 @@ end.sort
 excluded_source_count = mapping.fetch("sources").length - active_canonical_sources.length
 expected_allowlist = (["00_KI_QUELLENSTART", "00_START", "03_Themen/00_Kuratierte_Themen"] +
   topic_paths.map { |path| path.delete_suffix(".md") }.sort +
-  active_canonical_sources).map { |path| "[[#{path}]]" }
+  active_canonical_sources).map { |path| "#{path}.md" }
 actual_allowlist = copilot.fetch("qaInclusions").split(",").map(&:strip)
 allowlist_audit = JSON.parse(File.read(ALLOWLIST_AUDIT_PATH, encoding: "UTF-8"))
 decoded_qa_exclusions = URI.decode_www_form_component(copilot.fetch("qaExclusions", ""))
 missing_exclusions = required_exclusions.reject { |item| decoded_qa_exclusions.include?(item) }
 prompt_ok = copilot_has_active_system_prompt?(copilot)
+no_broken_path_wikilinks = actual_allowlist.none? { |item| item.match?(/\A\[\[.*\/.*\]\]\z/) }
 
 copilot_safety = copilot["autoAddActiveContentToContext"] == false &&
   copilot["passMarkdownImages"] == false && copilot["enableAutonomousAgent"] == false &&
   copilot["enableRecentConversations"] == false && copilot["enableSavedMemory"] == false &&
   copilot["autoAcceptEdits"] == false && missing_exclusions.empty? &&
+  no_broken_path_wikilinks &&
   actual_allowlist == expected_allowlist &&
   allowlist_audit.fetch("entries") == expected_allowlist &&
   allowlist_audit.fetch("count") == expected_allowlist.length &&

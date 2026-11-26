@@ -85,7 +85,7 @@
     "Binärzahlen": { "pruefung": "AP1", "ap1_ref": "2.2", "hinweis": "Dualsystem für IPv4-Subnetting & Datenmengen" },
     "Computergrundbegriffe": { "pruefung": "AP1", "ap1_ref": "2.1", "hinweis": "PC-Hardware & Systemgrundlagen" },
     "Cyberphysische Systeme und Automatisierungspyramide": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "Lernfeld 7 (2. LJ) -> AP2" },
-    "Datenschutz und Rollen": { "pruefung": "AP1/AP2", "ap1_ref": "3.7", "hinweis": "DSGVO am Arbeitsplatz, TOMs, AVV, Betroffenenrechte & 72h-Meldepflicht" },
+    "Datenschutz und Rollen": { "pruefung": "AP1/AP2", "ap1_ref": "3.7", "hinweis": "Im Vault belegt: Datenschutz vs. Datensicherheit, personenbezogene Daten, DSB-Aufgaben, Schutzziele/Authentizität (TOMs, AVV, Art. 5/6 DSGVO, Betroffenenrechte & 72h-Meldepflicht noch ergänzen)" },
     "Digitaltechnik und Logikschaltungen": { "pruefung": "BS", "ap1_ref": null, "hinweis": "Logikgatter im ITT-Unterricht" },
     "Exchange- und Outlook-Sicherheit": { "pruefung": "AP1", "ap1_ref": "3.6", "hinweis": "E-Mail-Verschlüsselung & Signatur am Arbeitsplatz" },
     "Hexadezimalsystem": { "pruefung": "AP1", "ap1_ref": "3.4", "hinweis": "Basis für IPv6- und MAC-Adressen" },

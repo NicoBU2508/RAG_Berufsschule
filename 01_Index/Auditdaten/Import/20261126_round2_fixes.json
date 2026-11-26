@@ -1,0 +1,879 @@
+{
+  "schema_version": 1,
+  "scope": "Runde-2-Transkriptionen (EVA, Stol_Stol, Wild, Wittmann, Stol_Skript S.21) sowie Freischaltung überredigierter Kislik-SQL-Seiten (11 Seiten)",
+  "replaces_existing": true,
+  "topic_categories": {
+  },
+  "pages": [
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 46,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Rekursion und Iteration",
+        "secondary_topics": [
+          "Fakultät",
+          "Schreibtischtest",
+          "Algorithmus"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Algorithmus",
+          "Rekursion und Iteration"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
+      "page": 47,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Rekursion und Iteration",
+        "secondary_topics": [
+          "Rekursiver Algorithmus"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Algorithmus",
+          "Rekursion und Iteration"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf",
+      "page": 1,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Java-Grundlagen",
+        "secondary_topics": [
+          "Variablen",
+          "Flächenberechnung"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Java-Grundlagen",
+          "Variablen und Datentypen"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Objektorientierung",
+        "secondary_topics": [
+          "Methoden",
+          "Klassen",
+          "Objekte"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Methoden, Parameter und Rückgabewerte",
+          "Objektorientierung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf",
+      "page": 7,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Objektorientierung",
+        "secondary_topics": [
+          "Methoden",
+          "Klassen",
+          "Objekte"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Methoden, Parameter und Rückgabewerte",
+          "Objektorientierung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf",
+      "page": 8,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Objektorientierung",
+        "secondary_topics": [
+          "Methoden",
+          "Klassen",
+          "Objekte"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Methoden, Parameter und Rückgabewerte",
+          "Objektorientierung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 47,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrische Arbeit und Energiekosten",
+        "secondary_topics": [
+          "Elektrische Arbeit und Energiekosten",
+          "Elektrische Leistung"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Elektrische Arbeit und Energiekosten",
+          "Elektrische Leistung"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 49,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Elektrische Leistung",
+        "secondary_topics": [
+          "Elektrische Leistung",
+          "Netzteil-Wirkungsgrad und 80 PLUS"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Elektrische Leistung",
+          "Netzteil-Wirkungsgrad und 80 PLUS"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 52,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Netzteil-Wirkungsgrad und 80 PLUS",
+        "secondary_topics": [
+          "Netzteil-Wirkungsgrad und 80 PLUS"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Netzteil-Wirkungsgrad und 80 PLUS"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
+      "page": 53,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Netzteil-Wirkungsgrad und 80 PLUS",
+        "secondary_topics": [
+          "Netzteil-Wirkungsgrad und 80 PLUS"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Netzteil-Wirkungsgrad und 80 PLUS"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf",
+      "page": 5,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Netzteil-Wirkungsgrad und 80 PLUS",
+        "secondary_topics": [
+          "Elektrische Arbeit und Energiekosten",
+          "Netzteil"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Netzteil-Wirkungsgrad und 80 PLUS"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf",
+      "page": 6,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Netzteil-Wirkungsgrad und 80 PLUS",
+        "secondary_topics": [
+          "Elektrische Arbeit und Energiekosten",
+          "Netzteil"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Netzteil-Wirkungsgrad und 80 PLUS"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf",
+      "page": 7,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Netzteil-Wirkungsgrad und 80 PLUS",
+        "secondary_topics": [
+          "Elektrische Arbeit und Energiekosten",
+          "Netzteil"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Netzteil-Wirkungsgrad und 80 PLUS"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf",
+      "page": 8,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Netzteil-Wirkungsgrad und 80 PLUS",
+        "secondary_topics": [
+          "Elektrische Arbeit und Energiekosten",
+          "Netzteil"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Netzteil-Wirkungsgrad und 80 PLUS"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "partial",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 53,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Risikoanalyse",
+        "secondary_topics": [
+          "Gefährdungen",
+          "Risikomatrix",
+          "Risikobehandlung"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Risikoanalyse"
+        ],
+        "content_type": "aufgabe",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
+      "page": 54,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Risikoanalyse",
+        "secondary_topics": [
+          "Gefährdungen",
+          "Risikomatrix",
+          "Risikobehandlung"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Risikoanalyse"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
+      "page": 21,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "Angebotsvergleich und Nutzwertanalyse",
+        "secondary_topics": [
+          "Quantitativer Angebotsvergleich",
+          "Bezugskalkulation"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "Angebotsvergleich und Nutzwertanalyse"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
+      "page": 23,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "SQL-Datenmanipulation INSERT UPDATE DELETE",
+        "secondary_topics": [
+          "SQL-Grundlagen und SELECT-Abfragen"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "SQL-Datenmanipulation INSERT UPDATE DELETE",
+          "SQL-Grundlagen und SELECT-Abfragen"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
+      "page": 25,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "SQL-Grundlagen und SELECT-Abfragen",
+        "secondary_topics": [
+
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "SQL-Grundlagen und SELECT-Abfragen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
+      "page": 38,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "SQL-Datenmanipulation INSERT UPDATE DELETE",
+        "secondary_topics": [
+
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "SQL-Datenmanipulation INSERT UPDATE DELETE"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
+      "page": 39,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "SQL-Datenmanipulation INSERT UPDATE DELETE",
+        "secondary_topics": [
+
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "SQL-Datenmanipulation INSERT UPDATE DELETE"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
+      "page": 40,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "SQL-Datenmanipulation INSERT UPDATE DELETE",
+        "secondary_topics": [
+
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "SQL-Datenmanipulation INSERT UPDATE DELETE"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
+      "page": 52,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "SQL-Datenmanipulation INSERT UPDATE DELETE",
+        "secondary_topics": [
+
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "SQL-Datenmanipulation INSERT UPDATE DELETE"
+        ],
+        "content_type": "loesung",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf",
+      "page": 27,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "SQL-Datenmanipulation INSERT UPDATE DELETE",
+        "secondary_topics": [
+          "SQL-Grundlagen und SELECT-Abfragen"
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "SQL-Datenmanipulation INSERT UPDATE DELETE",
+          "SQL-Grundlagen und SELECT-Abfragen"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf",
+      "page": 29,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "SQL-Grundlagen und SELECT-Abfragen",
+        "secondary_topics": [
+
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "SQL-Grundlagen und SELECT-Abfragen"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf",
+      "page": 42,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "SQL-Datenmanipulation INSERT UPDATE DELETE",
+        "secondary_topics": [
+
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "SQL-Datenmanipulation INSERT UPDATE DELETE"
+        ],
+        "content_type": "beispiel",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf",
+      "page": 43,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "SQL-Datenmanipulation INSERT UPDATE DELETE",
+        "secondary_topics": [
+
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "SQL-Datenmanipulation INSERT UPDATE DELETE"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    },
+    {
+      "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift.md",
+      "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf",
+      "page": 44,
+      "audit": {
+        "visual_checked": true,
+        "audit_date": "2026-11-26",
+        "primary_topic": "SQL-Datenmanipulation INSERT UPDATE DELETE",
+        "secondary_topics": [
+
+        ],
+        "recommended_modules": [
+
+        ],
+        "recommended_topics": [
+          "SQL-Datenmanipulation INSERT UPDATE DELETE"
+        ],
+        "content_type": "theorie",
+        "source_text_match": "ok",
+        "mapping_status": "ok",
+        "confidence": "high",
+        "issues": [
+
+        ],
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true
+      }
+    }
+  ]
+}

@@ -23,11 +23,11 @@ EXTRA_EXCLUSIONS = [
   "05_Karteikarten",
   "06_Altklausuren",
   ".agents",
-  "IT_Sicherheit_Aufgabe_1_1.md",
-  "IT_Sicherheit_Lernziele.md",
-  "Stol_02_Unternehmenswiki_4_Block.md",
-  "Stol_02_Unternehmenswiki_5_Block.md",
-  "Stol_Wiki.md"
+  "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1_1.md",
+  "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Lernziele.md",
+  "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_4_Block.md",
+  "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_5_Block.md",
+  "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Wiki.md"
 ].freeze
 OBSOLETE_EXCLUSIONS = [
   "03_Themen/Weiterleitungen",
@@ -39,7 +39,12 @@ OBSOLETE_EXCLUSIONS = [
   "03_Themen/Wirtschaft_und_Recht",
   "05_Templates",
   "07_Lernordner",
-  "10_Lernordner"
+  "10_Lernordner",
+  "IT_Sicherheit_Aufgabe_1_1.md",
+  "IT_Sicherheit_Lernziele.md",
+  "Stol_02_Unternehmenswiki_4_Block.md",
+  "Stol_02_Unternehmenswiki_5_Block.md",
+  "Stol_Wiki.md"
 ].freeze
 BASELINE_MINIMUM_FILES = 134
 
@@ -59,7 +64,9 @@ raise "Komma im Pfad ist mit dem Copilot-Listenformat nicht sicher" if paths.any
 missing = paths.reject { |path| ROOT.join("#{path}.md").file? }
 raise "Allowlist-Ziele fehlen: #{missing.join(', ')}" unless missing.empty?
 
-entries = paths.map { |path| "[[#{path}]]" }
+# Exakte relative .md-Pfade landen in Copilots folderPatterns (D2t: startsWith && exakt gleiche Länge)
+# statt kaputter [[Pfad/Datei]]-notePatterns ($2t prüft nur n.basename ohne Pfad).
+entries = paths.map { |path| "#{path}.md" }
 new_inclusions = entries.join(", ")
 
 copilot_raw = File.read(COPILOT_PATH, encoding: "UTF-8")

@@ -1,31 +1,31 @@
 ---
 typ: karteikarten_deck
-thema: "Kündigung und Arbeitsrecht"
+thema: Kündigung und Arbeitsrecht
 kategorie: Wirtschaft_und_Recht
-pruefung: "AP2"
-thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Kündigung und Arbeitsrecht.md"
-stand_karten: 2026-11-24
-stand_quelle: 2026-11-24
+pruefung: AP2
+thema_quelle: 03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Kündigung und Arbeitsrecht.md
+stand_karten: '2026-11-26'
+stand_quelle: '2026-11-26'
 quellseiten_anzahl: 12
 quellseiten_hash: c9478d35409c
 quellseiten:
-  - "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=11"
-  - "02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=5"
-  - "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=18"
-  - "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=19"
-  - "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=20"
-  - "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=21"
-  - "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=22"
-  - "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=23"
-  - "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=24"
-  - "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=25"
-  - "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=26"
-  - "02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=27"
+- 02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=11
+- 02_Faecher/Deutsch/Quellen/Deutsch_2LJ_Skript#page=5
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=18
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=19
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=20
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=21
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=22
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=23
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=24
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=25
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=26
+- 02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug#page=27
 rag_include: false
 canonical_evidence: false
 tags:
-  - karteikarten
-  - flashcards/wirtschaft-und-recht/kuendigung-und-arbeitsrecht
+- karteikarten
+- flashcards/wirtschaft-und-recht/kuendigung-und-arbeitsrecht
 ---
 # 🗂️ Karteikarten: Kündigung und Arbeitsrecht
 
@@ -60,9 +60,9 @@ Die Kündigung muss **innerhalb von 2 Wochen** nach Bekanntwerden des wichtigen 
 ---
 
 <!-- card-id: kuendigung-und-arbeitsrecht-04 | typ: definition | pruefung: AP2 -->
-**Welche drei Voraussetzungen müssen erfüllt sein, damit das Kündigungsschutzgesetz (KSchG) greift, und welche Kündigungsgründe sind dann zulässig?**
+**Welche Voraussetzungen müssen erfüllt sein, damit das Kündigungsschutzgesetz (KSchG) greift, und welche Kündigungsgründe sind dann zulässig?**
 ?
-Voraussetzungen: **Volljährigkeit**, Betriebszugehörigkeit **länger als 6 Monate** ohne Unterbrechung und **mehr als 10 Arbeitnehmer** im Betrieb (Azubis zählen nicht mit).
+Voraussetzungen nach KSchG: Betriebszugehörigkeit **länger als 6 Monate** ohne Unterbrechung im selben Betrieb/Unternehmen (§ 1 Abs. 1 KSchG) und **mehr als 10 Arbeitnehmer** im Betrieb (Azubis zählen nicht mit; Altregelung vor 2004: > 5 Arbeitnehmer; *Hinweis: Volljährigkeit ist gesetzlich keine KSchG-Voraussetzung, auch wenn sie im Unterrichtsskript irrtümlich notiert wurde*).
 Zulässige Kündigungsgründe sind dann nur **personenbedingte** (z. B. längere Krankheit), **betriebsbedingte** (z. B. Rationalisierung mit Sozialauswahl) oder **verhaltensbedingte** Gründe (z. B. unerlaubtes Fernbleiben, i. d. R. nach Abmahnung).
 *Quelle: PuG Politik und Gesellschaft (1. LJ) · [Pug.pdf · S. 21–22](<99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf#page=21>) (von 51) · [[02_Faecher/PuG_Politik_und_Gesellschaft/Quellen/Pug|Quellnotiz]], OCR/Original prüfen*
 ---

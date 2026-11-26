@@ -19,12 +19,12 @@
       "partial": 415
     },
     "mapping_status_before_correction": {
-      "correct": 88,
+      "correct": 86,
       "excluded": 23,
-      "missing": 317,
-      "mixed": 422,
-      "ok": 311,
-      "overbroad": 235,
+      "missing": 306,
+      "mixed": 413,
+      "ok": 339,
+      "overbroad": 229,
       "verified": 7
     },
     "content_type": {
@@ -94,8 +94,8 @@
       },
       "mapping_status_before_correction": {
         "missing": 18,
-        "mixed": 71,
-        "ok": 9,
+        "mixed": 69,
+        "ok": 11,
         "overbroad": 2
       }
     },
@@ -146,7 +146,8 @@
         "partial": 6
       },
       "mapping_status_before_correction": {
-        "missing": 45
+        "missing": 40,
+        "ok": 5
       }
     },
     {
@@ -159,8 +160,8 @@
         "partial": 10
       },
       "mapping_status_before_correction": {
-        "missing": 61,
-        "ok": 1
+        "missing": 55,
+        "ok": 7
       }
     },
     {
@@ -254,8 +255,8 @@
       },
       "mapping_status_before_correction": {
         "correct": 1,
-        "mixed": 6,
-        "overbroad": 1
+        "mixed": 3,
+        "ok": 4
       }
     },
     {
@@ -600,10 +601,11 @@
         "partial": 18
       },
       "mapping_status_before_correction": {
-        "correct": 43,
+        "correct": 41,
         "excluded": 9,
         "missing": 25,
         "mixed": 8,
+        "ok": 2,
         "overbroad": 18
       }
     },
@@ -673,8 +675,8 @@
       "mapping_status_before_correction": {
         "correct": 11,
         "missing": 21,
-        "ok": 39,
-        "overbroad": 30
+        "ok": 43,
+        "overbroad": 26
       }
     },
     {
@@ -687,8 +689,8 @@
         "partial": 7
       },
       "mapping_status_before_correction": {
-        "mixed": 5,
-        "ok": 2,
+        "mixed": 1,
+        "ok": 6,
         "overbroad": 1
       }
     },
@@ -732,7 +734,8 @@
       },
       "mapping_status_before_correction": {
         "missing": 18,
-        "overbroad": 36
+        "ok": 1,
+        "overbroad": 35
       }
     },
     {
@@ -9546,6 +9549,25 @@
       "canonical_topic_candidates": [
 
       ]
+    },
+    {
+      "report": "01_Index/Auditdaten/Import/20261126_round2_fixes.json",
+      "scope": "Runde-2-Transkriptionen (EVA, Stol_Stol, Wild, Wittmann, Stol_Skript S.21) sowie Freischaltung überredigierter Kislik-SQL-Seiten (11 Seiten)",
+      "coverage": null,
+      "counts": null,
+      "validation": null,
+      "critical_findings": [
+
+      ],
+      "text_issues": [
+
+      ],
+      "mapping_issues": [
+
+      ],
+      "canonical_topic_candidates": [
+
+      ]
     }
   ],
   "pages": [
@@ -11295,8 +11317,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
       "page": 46,
-      "source_text_status": "text",
-      "source_section_chars": 1098,
+      "source_text_status": "ocr",
+      "source_section_chars": 1380,
       "previous_modules": [
 
       ],
@@ -11312,11 +11334,10 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ok",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Algorithmus und Programmablauf",
-          "Aufgaben Übungen und Lösungen"
+
         ],
         "recommended_topics": [
           "Algorithmus",
@@ -11325,6 +11346,11 @@
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -11334,8 +11360,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA.md",
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf",
       "page": 47,
-      "source_text_status": "text",
-      "source_section_chars": 962,
+      "source_text_status": "ocr",
+      "source_section_chars": 1658,
       "previous_modules": [
 
       ],
@@ -11349,11 +11375,10 @@
         ],
         "content_type": "aufgabe",
         "source_text_match": "ok",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Algorithmus und Programmablauf",
-          "Aufgaben Übungen und Lösungen"
+
         ],
         "recommended_topics": [
           "Algorithmus",
@@ -11362,6 +11387,11 @@
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -16484,8 +16514,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift.md",
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf",
       "page": 27,
-      "source_text_status": "text",
-      "source_section_chars": 1018,
+      "source_text_status": "ocr",
+      "source_section_chars": 2772,
       "previous_modules": [
 
       ],
@@ -16499,7 +16529,7 @@
         ],
         "content_type": "beispiel",
         "source_text_match": "ok",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
@@ -16509,12 +16539,13 @@
           "SQL-Grundlagen und SELECT-Abfragen"
         ],
         "issues": [
-          "Beispielhafte Personen- und Kontaktdaten (E-Mail, Telefon, Adresse, Geburtsdatum) im SQL-Skript; datenschutzsicher abstrahieren."
+
         ],
-        "audit_date": "2026-11-23",
+        "audit_date": "2026-11-26",
         "support_only": false,
-        "sensitive": true,
-        "ocr_verified": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -16563,8 +16594,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift.md",
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf",
       "page": 29,
-      "source_text_status": "text",
-      "source_section_chars": 936,
+      "source_text_status": "ocr",
+      "source_section_chars": 1712,
       "previous_modules": [
 
       ],
@@ -16578,7 +16609,7 @@
         ],
         "content_type": "theorie",
         "source_text_match": "ok",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
@@ -16587,12 +16618,13 @@
           "SQL-Grundlagen und SELECT-Abfragen"
         ],
         "issues": [
-          "Beispieltabelle enthält realistische E-Mail-Adressen; datenschutzsicher abstrahieren."
+
         ],
-        "audit_date": "2026-11-23",
+        "audit_date": "2026-11-26",
         "support_only": false,
-        "sensitive": true,
-        "ocr_verified": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -17070,8 +17102,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift.md",
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf",
       "page": 42,
-      "source_text_status": "text",
-      "source_section_chars": 953,
+      "source_text_status": "ocr",
+      "source_section_chars": 1799,
       "previous_modules": [
 
       ],
@@ -17085,7 +17117,7 @@
         ],
         "content_type": "beispiel",
         "source_text_match": "ok",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
@@ -17094,12 +17126,13 @@
           "SQL-Datenmanipulation INSERT UPDATE DELETE"
         ],
         "issues": [
-          "Beispielaufgabe enthält realistische Personen- und Kontaktdaten (Telefon, E-Mail, Adresse, Geburtsdatum); datenschutzsicher abstrahieren."
+
         ],
-        "audit_date": "2026-11-23",
+        "audit_date": "2026-11-26",
         "support_only": false,
-        "sensitive": true,
-        "ocr_verified": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -17109,8 +17142,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift.md",
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf",
       "page": 43,
-      "source_text_status": "text",
-      "source_section_chars": 952,
+      "source_text_status": "ocr",
+      "source_section_chars": 2065,
       "previous_modules": [
 
       ],
@@ -17124,7 +17157,7 @@
         ],
         "content_type": "theorie",
         "source_text_match": "ok",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
@@ -17133,12 +17166,13 @@
           "SQL-Datenmanipulation INSERT UPDATE DELETE"
         ],
         "issues": [
-          "Beispielsyntax enthält realistische Personen- und Kontaktdaten (Telefon, E-Mail, Adresse, Geburtsdatum); datenschutzsicher abstrahieren."
+
         ],
-        "audit_date": "2026-11-23",
+        "audit_date": "2026-11-26",
         "support_only": false,
-        "sensitive": true,
-        "ocr_verified": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -17148,8 +17182,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift.md",
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf",
       "page": 44,
-      "source_text_status": "text",
-      "source_section_chars": 952,
+      "source_text_status": "ocr",
+      "source_section_chars": 1619,
       "previous_modules": [
 
       ],
@@ -17163,7 +17197,7 @@
         ],
         "content_type": "theorie",
         "source_text_match": "ok",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
@@ -17172,12 +17206,13 @@
           "SQL-Datenmanipulation INSERT UPDATE DELETE"
         ],
         "issues": [
-          "Beispielsyntax enthält realistische E-Mail-Adresse und Geburtsdatum; datenschutzsicher abstrahieren."
+
         ],
-        "audit_date": "2026-11-23",
+        "audit_date": "2026-11-26",
         "support_only": false,
-        "sensitive": true,
-        "ocr_verified": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -18090,8 +18125,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
       "page": 23,
-      "source_text_status": "text",
-      "source_section_chars": 986,
+      "source_text_status": "ocr",
+      "source_section_chars": 2740,
       "previous_modules": [
 
       ],
@@ -18105,7 +18140,7 @@
         ],
         "content_type": "beispiel",
         "source_text_match": "ok",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
@@ -18115,12 +18150,13 @@
           "SQL-Grundlagen und SELECT-Abfragen"
         ],
         "issues": [
-          "Beispielhafte Personen- und Kontaktdaten (E-Mail, Telefon, Adresse, Geburtsdatum) im SQL-Skript; datenschutzsicher abstrahieren."
+
         ],
-        "audit_date": "2026-11-23",
+        "audit_date": "2026-11-26",
         "support_only": false,
-        "sensitive": true,
-        "ocr_verified": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -18169,8 +18205,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
       "page": 25,
-      "source_text_status": "text",
-      "source_section_chars": 904,
+      "source_text_status": "ocr",
+      "source_section_chars": 1680,
       "previous_modules": [
 
       ],
@@ -18184,7 +18220,7 @@
         ],
         "content_type": "theorie",
         "source_text_match": "ok",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
@@ -18193,12 +18229,13 @@
           "SQL-Grundlagen und SELECT-Abfragen"
         ],
         "issues": [
-          "Beispieltabelle enthält realistische E-Mail-Adressen; datenschutzsicher abstrahieren."
+
         ],
-        "audit_date": "2026-11-23",
+        "audit_date": "2026-11-26",
         "support_only": false,
-        "sensitive": true,
-        "ocr_verified": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -18676,8 +18713,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
       "page": 38,
-      "source_text_status": "text",
-      "source_section_chars": 921,
+      "source_text_status": "ocr",
+      "source_section_chars": 1767,
       "previous_modules": [
 
       ],
@@ -18691,7 +18728,7 @@
         ],
         "content_type": "beispiel",
         "source_text_match": "ok",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
@@ -18700,12 +18737,13 @@
           "SQL-Datenmanipulation INSERT UPDATE DELETE"
         ],
         "issues": [
-          "Beispielaufgabe enthält realistische Personen- und Kontaktdaten (Telefon, E-Mail, Adresse, Geburtsdatum); datenschutzsicher abstrahieren."
+
         ],
-        "audit_date": "2026-11-23",
+        "audit_date": "2026-11-26",
         "support_only": false,
-        "sensitive": true,
-        "ocr_verified": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -18715,8 +18753,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
       "page": 39,
-      "source_text_status": "text",
-      "source_section_chars": 920,
+      "source_text_status": "ocr",
+      "source_section_chars": 2033,
       "previous_modules": [
 
       ],
@@ -18730,7 +18768,7 @@
         ],
         "content_type": "theorie",
         "source_text_match": "ok",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
@@ -18739,12 +18777,13 @@
           "SQL-Datenmanipulation INSERT UPDATE DELETE"
         ],
         "issues": [
-          "Beispielsyntax enthält realistische Personen- und Kontaktdaten (Telefon, E-Mail, Adresse, Geburtsdatum); datenschutzsicher abstrahieren."
+
         ],
-        "audit_date": "2026-11-23",
+        "audit_date": "2026-11-26",
         "support_only": false,
-        "sensitive": true,
-        "ocr_verified": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -18754,8 +18793,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
       "page": 40,
-      "source_text_status": "text",
-      "source_section_chars": 920,
+      "source_text_status": "ocr",
+      "source_section_chars": 1587,
       "previous_modules": [
 
       ],
@@ -18769,7 +18808,7 @@
         ],
         "content_type": "theorie",
         "source_text_match": "ok",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
@@ -18778,12 +18817,13 @@
           "SQL-Datenmanipulation INSERT UPDATE DELETE"
         ],
         "issues": [
-          "Beispielsyntax enthält realistische E-Mail-Adresse und Geburtsdatum; datenschutzsicher abstrahieren."
+
         ],
-        "audit_date": "2026-11-23",
+        "audit_date": "2026-11-26",
         "support_only": false,
-        "sensitive": true,
-        "ocr_verified": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -19222,8 +19262,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript.md",
       "pdf_path": "99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf",
       "page": 52,
-      "source_text_status": "text",
-      "source_section_chars": 920,
+      "source_text_status": "ocr",
+      "source_section_chars": 2300,
       "previous_modules": [
 
       ],
@@ -19237,7 +19277,7 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ok",
-        "mapping_status": "missing",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
@@ -19246,12 +19286,13 @@
           "SQL-Datenmanipulation INSERT UPDATE DELETE"
         ],
         "issues": [
-          "Übungsaufgaben und Auftragsbestätigung enthalten realistische Kontakt-, E-Mail-, Telefon- und Bankdaten; datenschutzsicher abstrahieren."
+
         ],
-        "audit_date": "2026-11-23",
+        "audit_date": "2026-11-26",
         "support_only": false,
-        "sensitive": true,
-        "ocr_verified": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -27373,8 +27414,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md",
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf",
       "page": 1,
-      "source_text_status": "text",
-      "source_section_chars": 1115,
+      "source_text_status": "ocr",
+      "source_section_chars": 1531,
       "previous_modules": [
 
       ],
@@ -27383,27 +27424,30 @@
         "Variablen und Datentypen"
       ],
       "audit": {
-        "primary_topic": "Java Grundlagen",
+        "primary_topic": "Java-Grundlagen",
         "secondary_topics": [
           "Variablen",
           "Flächenberechnung"
         ],
         "content_type": "aufgabe",
         "source_text_match": "ok",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Aufgaben Übungen und Lösungen",
-          "Java Grundlagen und IDE",
-          "Variablen und Datentypen"
+
         ],
         "recommended_topics": [
-          "Java Grundlagen",
+          "Java-Grundlagen",
           "Variablen und Datentypen"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -27566,8 +27610,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md",
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf",
       "page": 6,
-      "source_text_status": "text",
-      "source_section_chars": 1189,
+      "source_text_status": "ocr",
+      "source_section_chars": 2027,
       "previous_modules": [
 
       ],
@@ -27583,12 +27627,10 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ok",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Aufgaben Übungen und Lösungen",
-          "Klassen Objekte Attribute",
-          "Methoden Parameter Rückgabewerte"
+
         ],
         "recommended_topics": [
           "Methoden, Parameter und Rückgabewerte",
@@ -27597,6 +27639,11 @@
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -27606,8 +27653,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md",
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf",
       "page": 7,
-      "source_text_status": "text",
-      "source_section_chars": 1219,
+      "source_text_status": "ocr",
+      "source_section_chars": 2242,
       "previous_modules": [
 
       ],
@@ -27623,12 +27670,10 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ok",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Aufgaben Übungen und Lösungen",
-          "Klassen Objekte Attribute",
-          "Methoden Parameter Rückgabewerte"
+
         ],
         "recommended_topics": [
           "Methoden, Parameter und Rückgabewerte",
@@ -27637,6 +27682,11 @@
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -27646,8 +27696,8 @@
       "source_note": "02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Stol.md",
       "pdf_path": "99_Originale/Berufsschule/AE/1_LJ/Stößl/Stößl.pdf",
       "page": 8,
-      "source_text_status": "text",
-      "source_section_chars": 796,
+      "source_text_status": "ocr",
+      "source_section_chars": 1347,
       "previous_modules": [
 
       ],
@@ -27663,12 +27713,10 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ok",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Aufgaben Übungen und Lösungen",
-          "Klassen Objekte Attribute",
-          "Methoden Parameter Rückgabewerte"
+
         ],
         "recommended_topics": [
           "Methoden, Parameter und Rückgabewerte",
@@ -27677,6 +27725,11 @@
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -35824,7 +35877,7 @@
       "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf",
       "page": 38,
       "source_text_status": "text",
-      "source_section_chars": 2188,
+      "source_section_chars": 2846,
       "previous_modules": [
 
       ],
@@ -35937,7 +35990,7 @@
       "pdf_path": "99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf",
       "page": 41,
       "source_text_status": "text",
-      "source_section_chars": 1156,
+      "source_section_chars": 1732,
       "previous_modules": [
 
       ],
@@ -50492,8 +50545,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 53,
-      "source_text_status": "text",
-      "source_section_chars": 1950,
+      "source_text_status": "ocr",
+      "source_section_chars": 1753,
       "previous_modules": [
 
       ],
@@ -50509,17 +50562,22 @@
         ],
         "content_type": "aufgabe",
         "source_text_match": "ok",
-        "mapping_status": "correct",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Risikoanalyse"
-        ],
-        "recommended_topics": [
 
         ],
-        "issues": [
-          "Exakter Risikoanalysebereich; PDF-Seite 57 ist die letzte Risikoanalyse-Seite"
+        "recommended_topics": [
+          "Risikoanalyse"
         ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -50529,8 +50587,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf",
       "page": 54,
-      "source_text_status": "text",
-      "source_section_chars": 2475,
+      "source_text_status": "ocr",
+      "source_section_chars": 2375,
       "previous_modules": [
 
       ],
@@ -50546,17 +50604,22 @@
         ],
         "content_type": "beispiel",
         "source_text_match": "ok",
-        "mapping_status": "correct",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
-          "Risikoanalyse"
-        ],
-        "recommended_topics": [
 
         ],
-        "issues": [
-          "Exakter Risikoanalysebereich; PDF-Seite 57 ist die letzte Risikoanalyse-Seite"
+        "recommended_topics": [
+          "Risikoanalyse"
         ],
+        "issues": [
+
+        ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -55241,7 +55304,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 28,
       "source_text_status": "text",
-      "source_section_chars": 2145,
+      "source_section_chars": 1874,
       "previous_modules": [
 
       ],
@@ -55277,7 +55340,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 29,
       "source_text_status": "text",
-      "source_section_chars": 2657,
+      "source_section_chars": 2557,
       "previous_modules": [
 
       ],
@@ -55313,7 +55376,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 30,
       "source_text_status": "text",
-      "source_section_chars": 2522,
+      "source_section_chars": 2465,
       "previous_modules": [
 
       ],
@@ -55349,7 +55412,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 31,
       "source_text_status": "text",
-      "source_section_chars": 2291,
+      "source_section_chars": 2023,
       "previous_modules": [
 
       ],
@@ -55492,7 +55555,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 35,
       "source_text_status": "text",
-      "source_section_chars": 2413,
+      "source_section_chars": 2365,
       "previous_modules": [
 
       ],
@@ -55597,7 +55660,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 38,
       "source_text_status": "text",
-      "source_section_chars": 1636,
+      "source_section_chars": 1392,
       "previous_modules": [
 
       ],
@@ -55702,7 +55765,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 41,
       "source_text_status": "text",
-      "source_section_chars": 2492,
+      "source_section_chars": 2130,
       "previous_modules": [
 
       ],
@@ -55938,8 +56001,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 47,
-      "source_text_status": "text",
-      "source_section_chars": 3275,
+      "source_text_status": "ocr",
+      "source_section_chars": 1686,
       "previous_modules": [
 
       ],
@@ -55947,24 +56010,30 @@
 
       ],
       "audit": {
-        "primary_topic": "Elektrotechnik-Prüfungstraining",
+        "primary_topic": "Elektrische Arbeit und Energiekosten",
         "secondary_topics": [
           "Elektrische Arbeit und Energiekosten",
           "Elektrische Leistung"
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrische Arbeit und Energiekosten",
+          "Elektrische Leistung"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -56010,8 +56079,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 49,
-      "source_text_status": "text",
-      "source_section_chars": 1343,
+      "source_text_status": "ocr",
+      "source_section_chars": 2014,
       "previous_modules": [
 
       ],
@@ -56019,24 +56088,30 @@
 
       ],
       "audit": {
-        "primary_topic": "Elektrotechnik-Prüfungstraining",
+        "primary_topic": "Elektrische Leistung",
         "secondary_topics": [
           "Elektrische Leistung",
           "Netzteil-Wirkungsgrad und 80 PLUS"
         ],
         "content_type": "loesung",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Elektrische Leistung",
+          "Netzteil-Wirkungsgrad und 80 PLUS"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -56130,8 +56205,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 52,
-      "source_text_status": "text",
-      "source_section_chars": 800,
+      "source_text_status": "ocr",
+      "source_section_chars": 1341,
       "previous_modules": [
 
       ],
@@ -56139,23 +56214,28 @@
 
       ],
       "audit": {
-        "primary_topic": "Elektrotechnik-Prüfungstraining",
+        "primary_topic": "Netzteil-Wirkungsgrad und 80 PLUS",
         "secondary_topics": [
           "Netzteil-Wirkungsgrad und 80 PLUS"
         ],
         "content_type": "aufgabe",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Netzteil-Wirkungsgrad und 80 PLUS"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -56165,8 +56245,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 53,
-      "source_text_status": "text",
-      "source_section_chars": 2754,
+      "source_text_status": "ocr",
+      "source_section_chars": 1272,
       "previous_modules": [
 
       ],
@@ -56174,23 +56254,28 @@
 
       ],
       "audit": {
-        "primary_topic": "Elektrotechnik-Prüfungstraining",
+        "primary_topic": "Netzteil-Wirkungsgrad und 80 PLUS",
         "secondary_topics": [
           "Netzteil-Wirkungsgrad und 80 PLUS"
         ],
         "content_type": "aufgabe",
         "source_text_match": "partial",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Netzteil-Wirkungsgrad und 80 PLUS"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -56306,7 +56391,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 57,
       "source_text_status": "text",
-      "source_section_chars": 2163,
+      "source_section_chars": 2028,
       "previous_modules": [
 
       ],
@@ -56341,7 +56426,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 58,
       "source_text_status": "text",
-      "source_section_chars": 2421,
+      "source_section_chars": 2243,
       "previous_modules": [
 
       ],
@@ -56376,7 +56461,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 59,
       "source_text_status": "text",
-      "source_section_chars": 2470,
+      "source_section_chars": 2327,
       "previous_modules": [
 
       ],
@@ -56551,7 +56636,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 64,
       "source_text_status": "text",
-      "source_section_chars": 1772,
+      "source_section_chars": 1675,
       "previous_modules": [
 
       ],
@@ -56586,7 +56671,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 65,
       "source_text_status": "text",
-      "source_section_chars": 2104,
+      "source_section_chars": 2007,
       "previous_modules": [
 
       ],
@@ -56656,7 +56741,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 67,
       "source_text_status": "text",
-      "source_section_chars": 1796,
+      "source_section_chars": 1501,
       "previous_modules": [
 
       ],
@@ -56691,7 +56776,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 68,
       "source_text_status": "text",
-      "source_section_chars": 1849,
+      "source_section_chars": 1467,
       "previous_modules": [
 
       ],
@@ -56726,7 +56811,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf",
       "page": 69,
       "source_text_status": "text",
-      "source_section_chars": 2037,
+      "source_section_chars": 1699,
       "previous_modules": [
 
       ],
@@ -58174,8 +58259,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf",
       "page": 5,
-      "source_text_status": "text",
-      "source_section_chars": 1546,
+      "source_text_status": "ocr",
+      "source_section_chars": 1610,
       "previous_modules": [
 
       ],
@@ -58190,17 +58275,22 @@
         ],
         "content_type": "aufgabe",
         "source_text_match": "partial",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Netzteil-Wirkungsgrad und 80 PLUS"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -58210,8 +58300,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf",
       "page": 6,
-      "source_text_status": "text",
-      "source_section_chars": 1188,
+      "source_text_status": "ocr",
+      "source_section_chars": 1500,
       "previous_modules": [
 
       ],
@@ -58226,17 +58316,22 @@
         ],
         "content_type": "aufgabe",
         "source_text_match": "partial",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Netzteil-Wirkungsgrad und 80 PLUS"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -58246,8 +58341,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf",
       "page": 7,
-      "source_text_status": "text",
-      "source_section_chars": 1763,
+      "source_text_status": "ocr",
+      "source_section_chars": 1323,
       "previous_modules": [
 
       ],
@@ -58262,17 +58357,22 @@
         ],
         "content_type": "aufgabe",
         "source_text_match": "partial",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Netzteil-Wirkungsgrad und 80 PLUS"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -58282,8 +58382,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_Zusammenfassung.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/Zusammenfassung.pdf",
       "page": 8,
-      "source_text_status": "text",
-      "source_section_chars": 1970,
+      "source_text_status": "ocr",
+      "source_section_chars": 1417,
       "previous_modules": [
 
       ],
@@ -58298,17 +58398,22 @@
         ],
         "content_type": "aufgabe",
         "source_text_match": "partial",
-        "mapping_status": "mixed",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Netzteil-Wirkungsgrad und 80 PLUS"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -59639,8 +59744,8 @@
       "source_note": "02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript.md",
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
       "page": 21,
-      "source_text_status": "text",
-      "source_section_chars": 1268,
+      "source_text_status": "ocr",
+      "source_section_chars": 1386,
       "previous_modules": [
 
       ],
@@ -59655,17 +59760,22 @@
         ],
         "content_type": "loesung",
         "source_text_match": "ok",
-        "mapping_status": "overbroad",
+        "mapping_status": "ok",
         "confidence": "high",
         "recommended_modules": [
 
         ],
         "recommended_topics": [
-
+          "Angebotsvergleich und Nutzwertanalyse"
         ],
         "issues": [
 
         ],
+        "audit_date": "2026-11-26",
+        "support_only": false,
+        "sensitive": false,
+        "ocr_verified": true,
+        "replaces_existing": true,
         "visual_checked": true
       }
     },
@@ -60497,7 +60607,7 @@
       "pdf_path": "99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf",
       "page": 44,
       "source_text_status": "text",
-      "source_section_chars": 2018,
+      "source_section_chars": 2255,
       "previous_modules": [
 
       ],
@@ -61250,7 +61360,7 @@
       "pdf_path": "99_Originale/Berufsschule/PUG/2_LJ/PUG_Mitschrift.pdf",
       "page": 5,
       "source_text_status": "ocr",
-      "source_section_chars": 2124,
+      "source_section_chars": 2376,
       "previous_modules": [
 
       ],
@@ -62609,7 +62719,7 @@
       "pdf_path": "99_Originale/Berufsschule/PUG/1_LJ/Pug.pdf",
       "page": 21,
       "source_text_status": "text",
-      "source_section_chars": 1313,
+      "source_section_chars": 1763,
       "previous_modules": [
 
       ],

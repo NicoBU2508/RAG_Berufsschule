@@ -135,7 +135,7 @@
     {
       "name": "datenschutzsichere Seitenzusammenfassungen vollständig",
       "status": "pass",
-      "details": "Ist: 28; Soll: 28"
+      "details": "Ist: 17; Soll: 17"
     },
     {
       "name": "keine widersprüchlichen OCR-Hinweise auf sensibler S.17",
@@ -186,7 +186,7 @@
     {
       "name": "alle nicht-privaten lokalen Referenzen auflösbar",
       "status": "pass",
-      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-11-26\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>385, \"wiki_links\"=>4388, \"local_markdown_links\"=>2394, \"unresolved\"=>0, \"failures\"=>[]}"
+      "details": "{\"schema_version\"=>1, \"validated_on\"=>\"2026-11-26\", \"scope\"=>\"Alle nicht-privaten Markdown-Dateien; private Pfade wurden weder geöffnet noch gelesen\", \"markdown_files\"=>385, \"wiki_links\"=>4398, \"local_markdown_links\"=>2394, \"unresolved\"=>0, \"failures\"=>[]}"
     }
   ]
 }

@@ -19,14 +19,14 @@ Dieses Manifest klassifiziert jede Projektdatei nach ihrer Rolle für GPT-, RAG-
 
 ## Abdeckung
 
-- Dateien insgesamt: **540**
+- Dateien insgesamt: **541**
 - Stand: **2026-11-26**
 - Generator: `ruby 01_Index/Tools/build_ki_manifest.rb`
 
 | KI-Nutzung | Dateien |
 |---|---:|
 | `excluded` | 193 |
-| `navigation` | 81 |
+| `navigation` | 82 |
 | `operational` | 25 |
 | `primary` | 188 |
 | `verify_only` | 53 |
@@ -47,7 +47,7 @@ Dieses Manifest klassifiziert jede Projektdatei nach ihrer Rolle für GPT-, RAG-
 | `original_pdf` | 53 |
 | `private_or_archive` | 2 |
 | `project_metadata` | 3 |
-| `quality_or_navigation` | 70 |
+| `quality_or_navigation` | 71 |
 | `source_note` | 46 |
 | `subject_index` | 9 |
 | `topic_index` | 1 |

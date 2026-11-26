@@ -12,23 +12,22 @@ tags:
   - quelle
   - ae_anwendungsentwicklung
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
 kanonische_themen: 5
 seiten_mit_kanonischem_thema: 42
 ki_exclude_seiten: [1,2,3]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
-ki_sensitive_seiten: [27,29,42,43,44]
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=31, ocr_verified=6, redacted_summary=5)"
-textzeichen: 39452
+textstatus: "gemischt: visuell geprüft (ok=31, ocr_verified=11)"
+textzeichen: 46408
 ---
 # 📄 AE Kis Mitschrift
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/AE_Anwendungsentwicklung/AE_Anwendungsentwicklung|AE Anwendungsentwicklung]]
 > - **Original-PDF:** [AE_Kis_Mitschrift.pdf](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf>)
 > - **Seiten:** 45
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=31, ocr_verified=6, redacted_summary=5)
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=31, ocr_verified=11)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -956,15 +955,40 @@ Erläuterungstabelle aus Abbildung:
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=27]]
 
-#### Datenschutzsichere Inhaltszusammenfassung
+> [!ocr] Visuell transkribiert
+> Unterrichts-SQL-Beispiel (synthetische Fahrschul-Übungsdatenbank) aus Sichtprüfung vollständig transkribiert.
 
-> [!privacy] Rohdaten aus diesem Seitenblock entfernt
-> Personen-, Firmen-, Kontakt-, Bank-, Register- und vergleichbare Identifikationsdaten sowie problematische unkontextualisierte Formulierungen werden nicht an KI-Systeme weitergegeben. Für Zahlen oder Layout ist die lokale Originalseite maßgeblich.
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
-- Visuell bestätigtes Hauptthema: **SQL-Datenmanipulation INSERT UPDATE DELETE**
-- Kanonische Themen: **SQL-Datenmanipulation INSERT UPDATE DELETE, SQL-Grundlagen und SELECT-Abfragen**
-- Ergänzende Einordnung: SQL-Grundlagen und SELECT-Abfragen
-- Inhaltstyp: beispiel
+```text
+5.1.4.1 Daten per SQL-Script einfügen und mit SQL anzeigen lassen
+
+Die bisherige Datenbanktabelle fahrschueler enthält noch keine Datensätze. Mit Hilfe eines vorgegebenen SQL-Scripts können Fahrschülerdaten in die Tabelle geschrieben werden.
+
+Vorgehensweise:
+a) Das Script L1_4_fahrschule_1_Tabelle_Daten_einfügen.sql öffnen (MySQL Workbench -> Open SQL Script...)
+
+Das Script hat u.a. folgenden Inhalt:
+INSERT INTO `fahrschueler` VALUES
+(1,'Abele','Andreas','0159787383','andreas@abele.de','Ahornweg','3','73614','Schorndorf','1999-12-02',2),
+(2,'Beutel','Barbara','016673344','babsib@mail.de','Bahnhofstraße','52','73642','Welzheim','1998-06-20',12),
+(3,'Cramer','Conradt','01785521221','cc@cramer.info','Cäcilienweg','34 A','73614','Schorndorf','1995-07-15',3),
+(4,'Deiß','Dagmar','0166876434','d.deiss@gmx.de','Hauptstraße','44','73655','Plüderhausen','1998-11-23',14),
+(5,'Emmrich','Anton','0155494521','toni.e@yahoo.com','Ginsterweg','11','73099','Adelberg','1997-03-24',6),
+(6,'Dressel','Dagmar','0161745119','dagi99@web.de','Drosselweg','2','73614','Schorndorf','1999-02-04',1),
+(7,'Fernandes','Enrico','01778855','fernandes.enrico@t-online.de','Konrad-Adenauer-Straße','123','73547','Lorch','1997-05-03',1),
+(8,'Lutz','Frederik','016788913','lutze@gmail.com','Mozartstraße','88','73614','Schorndorf','1998-12-24',25),
+(9,'Grund','Dietmar','015545785','dgrund@web.de','Meisenweg','1','73655','Plüderhausen','1997-09-20',13),
+(10,'Demürel','Ali','016323382','alibaba99@yahoo.com','Webergasse','14','73642','Welzheim','1998-12-23',23),
+(11,'Dressel','Andreas','015526372','andidressel@gmail.com','Drosselweg','4','73614','Schorndorf','1997-10-22',3),
+(12,'Schmidt','Alex','01563723','aschmidt@yahoo.com','Bahnhofstraße','34','73642','Welzheim','1998-07-30',22);
+
+Erläuterung:
+- INSERT INTO `fahrschueler` VALUES (1,'Abele','Andreas','0159787383','andreas@abele.de','Ahornweg','3','73614','Schorndorf','1999-12-02',2 )
+- Füge einen Datensatz ein in der Tabelle fahrschueler mit den angegebenen Werten.
+
+b) Das Script ausführen durch einen Klick auf den „Blitz“ (Execute the selected portion of the script or everything, if there is no selection).
+```
 
 ### Seite 28
 
@@ -1009,15 +1033,38 @@ von der Tabelle fahrschueler aus der Datenbank Fahrschule
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=29]]
 
-#### Datenschutzsichere Inhaltszusammenfassung
+> [!ocr] Visuell transkribiert
+> SELECT-Syntaxdiagramm und Beispiel aus Sichtprüfung vollständig transkribiert.
 
-> [!privacy] Rohdaten aus diesem Seitenblock entfernt
-> Personen-, Firmen-, Kontakt-, Bank-, Register- und vergleichbare Identifikationsdaten sowie problematische unkontextualisierte Formulierungen werden nicht an KI-Systeme weitergegeben. Für Zahlen oder Layout ist die lokale Originalseite maßgeblich.
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
-- Visuell bestätigtes Hauptthema: **SQL-Grundlagen und SELECT-Abfragen**
-- Kanonische Themen: **SQL-Grundlagen und SELECT-Abfragen**
-- Ergänzende Einordnung: keine
-- Inhaltstyp: theorie
+```text
+Per Doppelklick auf den Namen der Datenbank fahrschule wird diese zur aktuellen Datenbank erklärt – man erkennt dies daran, dass der Name nun fettgeschrieben erscheint.
+
+In der Folge kann man den o.g. SQL-Befehl auch so schreiben – nämlich ohne Nennung der Datenbank:
+SELECT *
+FROM fahrschueler;
+
+Ein SQL-Befehl wird grundsätzlich mit einem Semikolon abgeschlossen!
+
+5.1.4.2 Daten mit SQL abfragen - Befehlssyntax der Auswahlanweisung SELECT
+SELECT <attributsbezeichnung1>, <attributsbezeichnung2> ...   -> Projektion (* = Alle Felder)
+FROM <tabelle>                                                -> Herkunftstabelle
+[WHERE <bedingung>]
+[ORDER BY <attributsbezeichnung1>, <attributsbezeichnung2> ... [ASC|DESC]..] -> Sortieren (ASC bzw. DESC)
+
+Beispiel:
+SELECT nachname, vorname, email, ort
+FROM fahrschueler
+WHERE ort = "Welzheim"
+ORDER BY nachname DESC;  <- Wichtig! Semikolon am Ende.
+
+Ergebnistabelle fahrschueler:
+nachname | vorname | email               | ort
+Schmidt  | Alex    | aschmidt@yahoo.com  | Welzheim
+Demürel  | Ali     | alibaba99@yahoo.com | Welzheim
+Beutel   | Barbara | babsib@mail.de      | Welzheim
+```
 
 ### Seite 30
 
@@ -1521,15 +1568,30 @@ HAVING fahrstundenzahl>2;
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=42]]
 
-#### Datenschutzsichere Inhaltszusammenfassung
+> [!ocr] Visuell transkribiert
+> INSERT-Beispiel und SQL-Konventionen aus Sichtprüfung vollständig transkribiert.
 
-> [!privacy] Rohdaten aus diesem Seitenblock entfernt
-> Personen-, Firmen-, Kontakt-, Bank-, Register- und vergleichbare Identifikationsdaten sowie problematische unkontextualisierte Formulierungen werden nicht an KI-Systeme weitergegeben. Für Zahlen oder Layout ist die lokale Originalseite maßgeblich.
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
-- Visuell bestätigtes Hauptthema: **SQL-Datenmanipulation INSERT UPDATE DELETE**
-- Kanonische Themen: **SQL-Datenmanipulation INSERT UPDATE DELETE**
-- Ergänzende Einordnung: keine
-- Inhaltstyp: beispiel
+```text
+5.1.5.1 Daten mit SQL verwalten - Daten einfügen
+
+In der Zwischenzeit hat sich die Fahrschule Blechle einen guten Ruf erworben, und es melden sich neue Fahrschüler an.
+Folgende neue Fahrschülerin soll in der Tabelle fahrschueler erfasst werden:
+- Susanne Cramer, wohnhaft in 73614 Schorndorf, Buchenweg 8, Telefon: 01763734572, E-Mail: susi.cramer@web.de, geboren am 18.02.1999
+
+Die neue Fahrschülerin wird an die Liste angefügt, die aufgrund des SQL-Befehles erscheint:
+Select * from fahrschueler;
+
+Im nächsten Fenster wird der SQL-Befehl angezeigt, welcher aufgrund der Dateneingabe für die Fahrschülerin Susanne Cramer automatisch erzeugt wurde:
+INSERT INTO `fahrschule`.`fahrschueler`
+(`schuelernr`, `nachname`, `vorname`, `telefon`, `email`, `strasse`, `hausnr`, `plz`, `ort`, `geburtsdatum`)
+VALUES ('13', 'Cramer', 'Susanne', '01763734572', 'susi.cramer@web.de', 'Buchenweg', '8', '73614', 'Schorndorf', '1999-02-18');
+
+Hinweise:
+- Wir lassen den Namen der aktuellen Datenbank weg, und wir lassen die Hochkommata bei den Datenbanknamen, Tabellennamen und Attributnamen weg.
+- Wir lassen die Hochkommata bei Attributwerten mit numerischem Datentyp (INT bei schuelernr, DOUBLE bei fahrstundenzahl) weg.
+```
 
 ### Seite 43
 
@@ -1540,15 +1602,32 @@ HAVING fahrstundenzahl>2;
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=43]]
 
-#### Datenschutzsichere Inhaltszusammenfassung
+> [!ocr] Visuell transkribiert
+> INSERT-Spaltenzuordnung und UPDATE-Beispiel aus Sichtprüfung vollständig transkribiert.
 
-> [!privacy] Rohdaten aus diesem Seitenblock entfernt
-> Personen-, Firmen-, Kontakt-, Bank-, Register- und vergleichbare Identifikationsdaten sowie problematische unkontextualisierte Formulierungen werden nicht an KI-Systeme weitergegeben. Für Zahlen oder Layout ist die lokale Originalseite maßgeblich.
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
-- Visuell bestätigtes Hauptthema: **SQL-Datenmanipulation INSERT UPDATE DELETE**
-- Kanonische Themen: **SQL-Datenmanipulation INSERT UPDATE DELETE**
-- Ergänzende Einordnung: keine
-- Inhaltstyp: theorie
+```text
+Erläuterung:
+INSERT INTO fahrschueler
+(schuelernr, nachname, vorname, telefon, email, strasse, hausnr, plz, ort, geburtsdatum)
+VALUES (13, 'Cramer', 'Susanne', '01763734572', 'susi.cramer@web.de', 'Buchenweg', '8', '73614', 'Schorndorf', '1999-02-18');
+-> Füge einen Datensatz ein in der Tabelle fahrschueler in die folgenden Attribute (...) mit den Werten (...).
+Achtung: Reihenfolge der Attribute muss gleich der Reihenfolge der Werte sein!
+
+5.1.5.2 Daten mit SQL verwalten - Daten ändern
+
+Von Hakan Öztürk sind bisher nur Nachname, Vorname, Telefon, Straße, Hausnummer, PLZ und der Ort bekannt (siehe Tabelle). In deiner Datenbank fehlt der Datensatz von Hakan aber noch. Füge nun Hakans Datensatz, aber lediglich mit den oben aufgezählten Daten, hinzu. Im Laufe der Zeit teilt dir Hakan dann noch seine Emailadresse und sein Geburtsdatum mit: hakan.oeztuerk@web.de, 21.Mai 1998. Mittlerweile hat er 3 Fahrstunden absolviert.
+
+Tabelle fahrschueler:
+13 | Cramer  | Susanne | 01763734572 | susi.cramer@web.de    | Buchenweg    | 8  | 73614 | Schorndorf   | 1999-02-18 | NULL
+14 | Öztürk  | Hakan   | 0552368992  | hakan.oeztuerk@web.de | Sperbergasse | 19 | 73655 | Plüderhausen | 1998-05-21 | 3
+15 | Bellino | Luigi   | 01672747893 | l.bellino@gmx.de      | Goethestraße | 33 | 73547 | Lorch        | NULL       | 2
+
+UPDATE `fahrschule`.`fahrschueler`
+SET `email`='hakan.oeztuerk@web.de', `geburtsdatum`='1998-05-21', `fahrstundenzahl`='3'
+WHERE `schuelernr`='14';
+```
 
 ### Seite 44
 
@@ -1559,15 +1638,32 @@ HAVING fahrstundenzahl>2;
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=44]]
 
-#### Datenschutzsichere Inhaltszusammenfassung
+> [!ocr] Visuell transkribiert
+> UPDATE- und DELETE-Syntax mit Primärschlüssel-Hinweis aus Sichtprüfung vollständig transkribiert.
 
-> [!privacy] Rohdaten aus diesem Seitenblock entfernt
-> Personen-, Firmen-, Kontakt-, Bank-, Register- und vergleichbare Identifikationsdaten sowie problematische unkontextualisierte Formulierungen werden nicht an KI-Systeme weitergegeben. Für Zahlen oder Layout ist die lokale Originalseite maßgeblich.
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
-- Visuell bestätigtes Hauptthema: **SQL-Datenmanipulation INSERT UPDATE DELETE**
-- Kanonische Themen: **SQL-Datenmanipulation INSERT UPDATE DELETE**
-- Ergänzende Einordnung: keine
-- Inhaltstyp: theorie
+```text
+Erläuterung:
+UPDATE fahrschule.fahrschueler
+SET email = 'hakan.oeztuerk@web.de', geburtsdatum = '1998-05-21', fahrstundenzahl = 3
+WHERE schuelernr = 14;
+-> Aktualisiere die Tabelle fahrschueler, setze email = 'hakan.oeztuerk@web.de', geburtsdatum = '1998-05-21', fahrstundenzahl = 3 bei dem Datensatz mit der schuelernr 14;
+
+Hinweis:
+Aus Sicherheitsgründen ist die Workbench standardmäßig so konfiguriert, dass UPDATE-Befehle nur mit dem Primärschlüssel in der WHERE-Klausel durchgeführt werden.
+
+5.1.5.3 Daten mit SQL verwalten - Daten löschen
+
+Luigi Bellino möchte nun doch lieber eine Fahrschule in seinem Wohnort besuchen. Deshalb wird dieser Datensatz nicht mehr benötigt und soll gelöscht werden.
+
+DELETE FROM fahrschule.fahrschueler
+WHERE schuelernr = 15;
+-> Lösche aus der Tabelle fahrschueler den Datensatz mit der schuelernr 15;
+
+Hinweis:
+Aus Sicherheitsgründen ist die Workbench standardmäßig so konfiguriert, dass DELETE-Befehle nur mit dem Primärschlüssel in der WHERE-Klausel durchgeführt werden.
+```
 
 ### Seite 45
 

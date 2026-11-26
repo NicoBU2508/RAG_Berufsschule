@@ -918,7 +918,12 @@ class KarteikartenManager
     exact_ci = @topics.find { |name, _| name.downcase == q }
     return exact_ci if exact_ci
 
-    partial = @topics.select { |name, _| name.downcase.include?(q) }
+    partial = if q.length <= 4
+                pat = /(?:\A|[^a-zäöüß0-9])#{Regexp.escape(q)}(?:\z|[^a-zäöüß0-9])/
+                @topics.select { |name, _| name.downcase.match?(pat) }
+              else
+                @topics.select { |name, _| name.downcase.include?(q) }
+              end
     return partial.first if partial.length == 1
 
     if partial.length > 1

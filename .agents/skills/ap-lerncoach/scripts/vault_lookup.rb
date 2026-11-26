@@ -12,6 +12,7 @@ require "json"
 require "open3"
 require "optparse"
 require "pathname"
+require "uri"
 
 ROOT = Pathname.new(__dir__).join("../../../..").cleanpath.realpath
 MAPPING_PATH = ROOT.join("01_Index/Themenreferenzen_Visuell_Geprueft.json")
@@ -19,7 +20,120 @@ AUDIT_PATH = ROOT.join("01_Index/PDF_Seitenaudit.json")
 EXAM_MAPPING_PATH = ROOT.join("01_Index/Pruefungskatalog_Mapping.json")
 CONFUSION_PAIRS_PATH = ROOT.join("01_Index/Verwechslungspaare.json")
 ALTKLAUSUREN_INDEX_PATH = ROOT.join("01_Index/Altklausuren_Index.json")
-MAX_PAGE_CHARS_DEFAULT = 2600
+MAX_PAGE_CHARS_DEFAULT = 6000
+
+EXACT_TOPIC_ALIASES = {
+  "db" => "Datenbankgrundlagen und Datenbankentwicklung",
+  "dbms" => "Datenbankgrundlagen und Datenbankentwicklung",
+  "rdbms" => "Datenbankgrundlagen und Datenbankentwicklung",
+  "datenbank" => "Datenbankgrundlagen und Datenbankentwicklung",
+  "datenbanken" => "Datenbankgrundlagen und Datenbankentwicklung",
+  "pk" => "Datenbankgrundlagen und Datenbankentwicklung",
+  "primaerschluessel" => "Datenbankgrundlagen und Datenbankentwicklung",
+  "fk" => "Datenbankgrundlagen und Datenbankentwicklung",
+  "fremdschluessel" => "Datenbankgrundlagen und Datenbankentwicklung",
+  "er" => "Datenbankmodellierung und ER-Modell",
+  "erm" => "Datenbankmodellierung und ER-Modell",
+  "er modell" => "Datenbankmodellierung und ER-Modell",
+  "normalisierung" => "Datenbankmodellierung und ER-Modell",
+  "1nf" => "Datenbankmodellierung und ER-Modell",
+  "2nf" => "Datenbankmodellierung und ER-Modell",
+  "3nf" => "Datenbankmodellierung und ER-Modell",
+  "sql" => "SQL-Grundlagen und SELECT-Abfragen",
+  "select" => "SQL-Grundlagen und SELECT-Abfragen",
+  "join" => "SQL-Grundlagen und SELECT-Abfragen",
+  "having" => "SQL-Aggregatfunktionen und Gruppierung",
+  "group by" => "SQL-Aggregatfunktionen und Gruppierung",
+  "insert" => "SQL-Datenmanipulation INSERT UPDATE DELETE",
+  "update" => "SQL-Datenmanipulation INSERT UPDATE DELETE",
+  "delete" => "SQL-Datenmanipulation INSERT UPDATE DELETE",
+  "mac" => "OSI-Schichtenmodell",
+  "mac adresse" => "OSI-Schichtenmodell",
+  "osi" => "OSI-Schichtenmodell",
+  "tcp" => "OSI-Schichtenmodell",
+  "udp" => "OSI-Schichtenmodell",
+  "ipv4" => "IPv4-Adressierung und Subnetting",
+  "subnetting" => "IPv4-Adressierung und Subnetting",
+  "subnet" => "IPv4-Adressierung und Subnetting",
+  "cidr" => "IPv4-Adressierung und Subnetting",
+  "dns" => "Netzwerktechnik und Netzplan",
+  "dhcp" => "Netzwerktechnik und Netzplan",
+  "cpu" => "Computergrundbegriffe",
+  "usb" => "Computergrundbegriffe",
+  "hardware" => "Computergrundbegriffe",
+  "cia" => "IT-Sicherheit Grundlagen",
+  "schutzziele" => "IT-Sicherheit Grundlagen",
+  "2fa" => "Sicherheitsmanagement und Maßnahmen",
+  "mfa" => "Sicherheitsmanagement und Maßnahmen",
+  "pdca" => "Sicherheitsmanagement und ISMS",
+  "isms" => "Sicherheitsmanagement und ISMS",
+  "tom" => "Datenschutz und Rollen",
+  "toms" => "Datenschutz und Rollen",
+  "dsgvo" => "Datenschutz und Rollen",
+  "avv" => "Datenschutz und Rollen",
+  "sla" => "IT-Servicearten und Service-Management",
+  "helpdesk" => "IT-Servicearten und Service-Management",
+  "spoc" => "IT-Servicearten und Service-Management",
+  "itil" => "IT-Servicearten und Service-Management",
+  "break even" => "Deckungsbeitrag und Gewinnschwelle",
+  "breakeven" => "Deckungsbeitrag und Gewinnschwelle",
+  "break even point" => "Deckungsbeitrag und Gewinnschwelle",
+  "bep" => "Deckungsbeitrag und Gewinnschwelle",
+  "smart" => "Unternehmensziele",
+  "smart prinzip" => "Unternehmensziele",
+  "suche" => "Suchalgorithmen",
+  "lineare suche" => "Suchalgorithmen",
+  "binaere suche" => "Suchalgorithmen",
+  "unicode" => "Zeichencodierung und ASCII",
+  "utf 8" => "Zeichencodierung und ASCII",
+  "utf8" => "Zeichencodierung und ASCII",
+  "ascii" => "Zeichencodierung und ASCII",
+  "kschg" => "Kündigung und Arbeitsrecht",
+  "kuendigungsschutz" => "Kündigung und Arbeitsrecht",
+  "burlg" => "Bundesurlaubsgesetz",
+  "urlaub" => "Bundesurlaubsgesetz",
+  "bbig" => "Ausbildungsvertrag und BBiG",
+  "jarbschg" => "Jugendarbeitsschutz",
+  "betrvg" => "Betriebsrat und Betriebsverfassung",
+  "muschg" => "Mutterschutz",
+  "epk" => "Ereignisgesteuerte Prozessketten EPK",
+  "bpmn" => "Business Process Model and Notation BPMN",
+  "usv" => "USV-Anlagen",
+  "raid" => "RAID-Systeme",
+  "nwa" => "Angebotsvergleich und Nutzwertanalyse",
+  "pap" => "Programmablaufdarstellungen",
+  "struktogramm" => "Programmablaufdarstellungen",
+  "eva" => "EVA-Prinzip",
+  "oop" => "Objektorientierung",
+  "uml" => "UML-Diagramme",
+  "gvs" => "Backup und Datensicherung"
+}.freeze
+
+NOT_IN_VAULT_HINTS = {
+  "vlan" => "VLAN (Virtual LAN / Trunking / IEEE 802.1Q) hat aktuell keine verifizierten Quellseiten im Vault (verwandt: Netzwerktechnik und Netzplan, OSI-Schichtenmodell).",
+  "nat" => "NAT / PAT (Network Address Translation) hat aktuell keine verifizierten Quellseiten im Vault (verwandt: IPv4-Adressierung und Subnetting, Netzwerktechnik und Netzplan).",
+  "dmz" => "DMZ (Demilitarisierte Zone / Firewall-Zonenkonzept) hat aktuell keine verifizierten Quellseiten im Vault (verwandt: Netzwerktechnik und Netzplan, Sicherheitsmanagement und Maßnahmen).",
+  "cloud" => "Cloud Computing (Public/Private/Hybrid, IaaS/PaaS/SaaS) ist laut AP1-Checkliste 2.5 noch eine Vault-Lücke ohne eigene kanonische Themenseite.",
+  "cloud computing" => "Cloud Computing (Public/Private/Hybrid, IaaS/PaaS/SaaS) ist laut AP1-Checkliste 2.5 noch eine Vault-Lücke ohne eigene kanonische Themenseite.",
+  "iaas" => "IaaS / PaaS / SaaS (Cloud-Servicemodelle) ist laut AP1-Checkliste 2.5 noch eine Vault-Lücke ohne eigene kanonische Themenseite.",
+  "paas" => "IaaS / PaaS / SaaS (Cloud-Servicemodelle) ist laut AP1-Checkliste 2.5 noch eine Vault-Lücke ohne eigene kanonische Themenseite.",
+  "saas" => "IaaS / PaaS / SaaS (Cloud-Servicemodelle) ist laut AP1-Checkliste 2.5 noch eine Vault-Lücke ohne eigene kanonische Themenseite.",
+  "virtualisierung" => "Virtualisierung / Hypervisor / Container ist laut AP1-Checkliste 2.5 noch eine Vault-Lücke ohne eigene kanonische Themenseite.",
+  "hypervisor" => "Virtualisierung / Hypervisor (Typ 1/2) ist laut AP1-Checkliste 2.5 noch eine Vault-Lücke ohne eigene kanonische Themenseite.",
+  "docker" => "Container / Docker ist noch nicht als kanonisches Thema im Vault abgedeckt.",
+  "container" => "Container / Virtualisierung ist laut AP1-Checkliste 2.5 noch nicht als kanonisches Thema im Vault abgedeckt.",
+  "git" => "Git / Versionsverwaltung hat aktuell keine verifizierten Quellseiten im Vault.",
+  "versionsverwaltung" => "Git / Versionsverwaltung hat aktuell keine verifizierten Quellseiten im Vault.",
+  "flipflop" => "Flipflops / Schaltwerke sind aktuell nicht im Vault abgedeckt (vorhanden: Digitaltechnik und Logikschaltungen für Kombinatorik).",
+  "flip flop" => "Flipflops / Schaltwerke sind aktuell nicht im Vault abgedeckt (vorhanden: Digitaltechnik und Logikschaltungen).",
+  "kv diagramm" => "KV-Diagramme (Karnaugh-Veitch) sind aktuell nicht im Vault abgedeckt.",
+  "kv" => "KV-Diagramme sind aktuell nicht im Vault abgedeckt.",
+  "ipv6" => "IPv6-Adressierung & Protokolle (fe80::/10, 2000::/3, SLAAC vs. DHCPv6) ist laut AP1-Checkliste 3.4 noch eine Vault-Lücke (bisher existiert nur Hexadezimalsystem als Zahlenbasis).",
+  "slaac" => "IPv6 / SLAAC vs. DHCPv6 ist laut AP1-Checkliste 3.4 noch eine Vault-Lücke.",
+  "nachkalkulation" => "Nachkalkulation & Abweichungsanalyse ist laut AP1-Checkliste 5.3 aktuell nicht eigenständig im Vault abgedeckt.",
+  "active directory" => "Client-Domänenintegration / Active Directory / GPO ist laut AP1-Checkliste 3.1 noch eine Vault-Lücke.",
+  "gpo" => "Active Directory / Gruppenrichtlinien (GPO) ist laut AP1-Checkliste 3.1 noch eine Vault-Lücke."
+}.freeze
 
 STOPWORDS = %w[
   der die das ein eine einer eines einem einen und oder aber als wie von vom zu zum zur
@@ -259,8 +373,10 @@ class VaultLookup
 
   def file_url_for(rel_path, page: nil)
     return "" if rel_path.to_s.strip.empty?
-    abs = ROOT.join(rel_path).to_s
-    encoded = abs.split("/").map { |seg| seg.gsub(" ", "%20") }.join("/")
+    abs = ROOT.join(rel_path).to_s.unicode_normalize(:nfc)
+    encoded = abs.split("/", -1).map do |seg|
+      seg.b.gsub(/[^A-Za-z0-9\-._~]/) { |ch| format("%%%02X", ch.ord) }
+    end.join("/")
     suffix = page ? "#page=#{page}" : ""
     "file://#{encoded}#{suffix}"
   end
@@ -552,7 +668,7 @@ class VaultLookup
   end
 
   def fuzzy_correct_token(tok, idx)
-    return nil if tok.length < 4 || idx[:vocab][tok] || SYNONYMS.key?(tok) || SUBJECT_HINTS.key?(tok)
+    return nil if tok.length < 6 || idx[:vocab][tok] || SYNONYMS.key?(tok) || SUBJECT_HINTS.key?(tok) || EXACT_TOPIC_ALIASES.key?(tok) || NOT_IN_VAULT_HINTS.key?(tok)
 
     q_tris = trigrams_for(tok)
     cand_hits = Hash.new(0)
@@ -606,7 +722,7 @@ class VaultLookup
 
     corrections = {}
     key_tokens.each do |tok|
-      in_topic_substring = tok.length >= 4 && @topics.keys.any? { |k| normalize(k).include?(tok) }
+      in_topic_substring = tok.length >= 5 && @topics.keys.any? { |k| normalize(k).include?(tok) }
       next if in_topic_substring
 
       fixed = fuzzy_correct_token(tok, idx)
@@ -631,19 +747,20 @@ class VaultLookup
       name_tokens = n_name.split(" ")
       score = 0.0
       score += 100.0 if n_name == phrase
-      score += 55.0 if phrase.length >= 3 && n_name.include?(phrase)
+      score += 100.0 if EXACT_TOPIC_ALIASES[phrase] == name || EXACT_TOPIC_ALIASES[normalize(query)] == name
+      score += 55.0 if phrase.length >= 5 && n_name.include?(phrase)
       effective_tokens.each do |t|
         if name_tokens.include?(t)
           score += 36.0
-        elsif t.length >= 3 && n_name.include?(t)
+        elsif t.length >= 5 && n_name.include?(t)
           score += 20.0
         end
       end
       synonym_tokens.each do |t|
         if name_tokens.include?(t)
-          score += 14.0
-        elsif t.length >= 3 && n_name.include?(t)
-          score += 9.0
+          score += 18.0
+        elsif t.length >= 5 && n_name.include?(t)
+          score += 10.0
         end
       end
 
@@ -681,7 +798,7 @@ class VaultLookup
 
       term_weights.each do |term, weight|
         tf = doc[:tf][term] || 0
-        if tf.zero? && term.length >= 4 && doc[:norm_text].include?(term)
+        if tf.zero? && term.length >= 5 && doc[:norm_text].include?(term)
           bm25 += 1.6 * weight
           matched_any += 1
           matched_primary += 1 if weight >= 0.85
@@ -842,6 +959,27 @@ class VaultLookup
     chosen.length > max_len ? "#{chosen[0, max_len - 1]}…" : chosen
   end
 
+  def token_boundary_match?(normalized_haystack, needle)
+    return false if needle.empty?
+    if needle.length <= 4
+      normalized_haystack.match?(/(?:\A|\s)#{Regexp.escape(needle)}(?:\s|\z)/)
+    else
+      normalized_haystack.include?(needle)
+    end
+  end
+
+  def not_in_vault_hint_for(query, core_tokens)
+    q_norm = normalize(query)
+    clean_phrase = normalize(core_tokens.join(" "))
+    return NOT_IN_VAULT_HINTS[q_norm] if NOT_IN_VAULT_HINTS.key?(q_norm)
+    return NOT_IN_VAULT_HINTS[clean_phrase] if !clean_phrase.empty? && NOT_IN_VAULT_HINTS.key?(clean_phrase)
+
+    if !core_tokens.empty? && core_tokens.all? { |t| NOT_IN_VAULT_HINTS.key?(t) }
+      return NOT_IN_VAULT_HINTS[core_tokens.first]
+    end
+    nil
+  end
+
   def resolve_topic(query, best_match: false)
     return [query, @topics[query], []] if @topics.key?(query)
 
@@ -853,18 +991,27 @@ class VaultLookup
     clean_phrase = normalize(analyzed[:core_tokens].join(" "))
     hint_cats = analyzed[:subject_hints].map { |h| h[:category] }.compact.uniq
 
+    if (alias_target = EXACT_TOPIC_ALIASES[q_norm] || EXACT_TOPIC_ALIASES[clean_phrase])
+      return [alias_target, @topics[alias_target], []] if @topics.key?(alias_target)
+    end
+
+    if (missing_hint = not_in_vault_hint_for(query, analyzed[:core_tokens]))
+      puts "NICHT IM VAULT: #{missing_hint}"
+      exit 2
+    end
+
     if !clean_phrase.empty?
       exact_clean = @topics.keys.find { |k| normalize(k) == clean_phrase }
       return [exact_clean, @topics[exact_clean], []] if exact_clean
 
       sub_matches = @topics.keys.select do |k|
         nk = normalize(k)
-        nk.include?(clean_phrase) && (hint_cats.empty? || hint_cats.include?(@topics[k]["category"]))
+        token_boundary_match?(nk, clean_phrase) && (hint_cats.empty? || hint_cats.include?(@topics[k]["category"]))
       end
       return [sub_matches.first, @topics[sub_matches.first], []] if sub_matches.length == 1
     end
 
-    matches = @topics.keys.select { |k| normalize(k).include?(q_norm) }
+    matches = @topics.keys.select { |k| token_boundary_match?(normalize(k), q_norm) }
     return [matches.first, @topics[matches.first], []] if matches.length == 1
 
     res = rank_search(query)
@@ -1262,6 +1409,46 @@ class VaultLookup
     score
   end
 
+  def select_balanced_task_entries(entries, topic_name, max_pages)
+    ranked = entries.sort_by { |e| [-exercise_priority_score(e, topic_name), e[:source_rel], e[:page_num]] }
+    return ranked.first(max_pages).sort_by { |e| [e[:source_rel], e[:page_num]] } if max_pages < 4
+
+    loesungen = ranked.select { |e| e[:meta]["content_type"] == "loesung" }
+    return ranked.first(max_pages).sort_by { |e| [e[:source_rel], e[:page_num]] } if loesungen.empty?
+
+    sol_quota = [[(max_pages / 3.0).ceil, 2].max, max_pages / 2, loesungen.length].min
+    non_loesungen = ranked.reject { |e| e[:meta]["content_type"] == "loesung" }
+
+    selected = non_loesungen.first(max_pages - sol_quota)
+    chosen_ids = selected.each_with_object({}) { |e, h| h[e[:page_id]] = true }
+
+    remaining_sols = sol_quota
+    loesungen.sort_by do |sol|
+      adjacent_bonus = selected.any? do |sel|
+        sel[:source_rel] == sol[:source_rel] && (sol[:page_num] - sel[:page_num]).between?(0, 3)
+      end ? 60 : 0
+      same_source_bonus = selected.any? { |sel| sel[:source_rel] == sol[:source_rel] } ? 15 : 0
+      [-(exercise_priority_score(sol, topic_name) + adjacent_bonus + same_source_bonus), sol[:source_rel], sol[:page_num]]
+    end.each do |sol|
+      break if remaining_sols <= 0
+      next if chosen_ids[sol[:page_id]]
+      selected << sol
+      chosen_ids[sol[:page_id]] = true
+      remaining_sols -= 1
+    end
+
+    if selected.length < max_pages
+      ranked.each do |e|
+        break if selected.length >= max_pages
+        next if chosen_ids[e[:page_id]]
+        selected << e
+        chosen_ids[e[:page_id]] = true
+      end
+    end
+
+    selected.sort_by { |e| [e[:source_rel], e[:page_num]] }
+  end
+
   def cmd_tasks(query, exam_filter: nil, max_pages: 8, max_chars: MAX_PAGE_CHARS_DEFAULT)
     topic_name, info, related_search_topics = resolve_topic(query, best_match: true)
     entries = filter_task_entries(collect_topic_entries(info, include_support: false), topic_name, info)
@@ -1273,7 +1460,10 @@ class VaultLookup
         coupled_counts[ct] += 1 unless ct == topic_name
       end
     end
-    coupled_topics = (coupled_counts.sort_by { |t, cnt| [-cnt, t] }.map(&:first) + related_search_topics).uniq.first(6)
+    coupled_topics = (coupled_counts.sort_by { |t, cnt| [-cnt, t] }.map(&:first) + related_search_topics)
+                     .select { |t| @topics.key?(t) && topic_matches_exam?(t, exam_filter) }
+                     .uniq
+                     .first(6)
 
     puts "# 🎯 Aufgaben- & Prüfungspaket: #{topic_name}"
     puts "- **Prüfungsstatus:** #{exam_badge(topic_name)}#{exam_entry['ap1_ref'] ? " (AkA-AP1-Katalog Ref. #{exam_entry['ap1_ref']})" : ''}#{exam_entry['hinweis'] ? " — #{exam_entry['hinweis']}" : ''}"
@@ -1350,9 +1540,8 @@ class VaultLookup
       end
     end
 
-    # 4. Priorisierte Skript-Uebungs-, Loesungs- und Beispielseiten im Volltext
-    ranked_entries = entries.sort_by { |e| [-exercise_priority_score(e, topic_name), e[:source_rel], e[:page_num]] }
-    selected = ranked_entries.first(max_pages).sort_by { |e| [e[:source_rel], e[:page_num]] }
+    # 4. Priorisierte Skript-Uebungs-, Loesungs- und Beispielseiten im Volltext (balanciert Aufgaben & Loesungen)
+    selected = select_balanced_task_entries(entries, topic_name, max_pages)
 
     puts "\n## 4. Konkrete Aufgaben-, Lösungs- & Beispielseiten aus dem Skript (#{selected.length} von #{entries.length} Seiten geladen)"
     if entries.length > selected.length
@@ -1610,7 +1799,7 @@ def usage
       tasks "<thema_oder_anfrage>"     Aufgaben- & Pruefungspaket laden (Skript-Regeln + Uebungen + IHK-Altklausuren!)
         --exam <AP1|AP2|BS>            IHK-Aufgaben auf Pruefungsphase filtern
         --max-pages <n>                Max. geladene Uebungs-/Beispielseiten (Standard: 8)
-        --max-chars <n>                Max. Zeichen je Seite (Standard: 2600, 0 = unbegrenzt)
+        --max-chars <n>                Max. Zeichen je Seite (Standard: 6000, 0 = unbegrenzt)
       exams [suchbegriff]              Importierte Original-IHK-Altklausuren & Aufgaben durchsuchen
         --exam <AP1|AP2>               Auf AP1 oder AP2 eingrenzen
       list [kategorie]                 Alle kanonischen Themen (optional nach Kategorie & Pruefung)
@@ -1627,10 +1816,10 @@ def usage
         --pages "10-12,26"             Nur bestimmte Seitennummern laden
         --source "<name>"              Auf eine bestimmte Quellnotiz filtern
         --max-pages <n>                Max. Volltext-Seiten (Standard: 6)
-        --max-chars <n>                Max. Zeichen je Seite (Standard: 2600, 0 = unbegrenzt)
+        --max-chars <n>                Max. Zeichen je Seite (Standard: 6000, 0 = unbegrenzt)
         --include-support              Auch support_only-Seiten einbeziehen
       pages "<quelle>" "<bereich>"     Exakte Seiten aus einer aktiven Quellnotiz lesen
-        --max-chars <n>                Max. Zeichen je Seite (Standard: 2600, 0 = unbegrenzt)
+        --max-chars <n>                Max. Zeichen je Seite (Standard: 6000, 0 = unbegrenzt)
       render "<quelle>" "<seiten>"     Freigegebene Originalseiten als PNG rendern (Pruefungsnotation zeigen)
         --out <ordner>                 Zielordner fuer PNGs (Standard: /tmp/ap_lerncoach_render/pages)
         --width <px>                   Bildbreite (Standard: 1400)

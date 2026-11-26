@@ -18,7 +18,7 @@ kanonische_themen: 3
 seiten_mit_kanonischem_thema: 19
 lernstatus: "aktiv"
 textstatus: "gemischt: visuell geprüft (ok=5, ocr_verified=14)"
-textzeichen: 26934
+textzeichen: 27186
 ---
 # 📄 PUG Mitschrift
 > [!quelle] Quellenstatus
@@ -229,6 +229,7 @@ Das Rechtsstaatsprinzip fordert eine geschriebene Verfassung, in der die Staatsg
 Die wichtigsten Prinzipien des Rechtsstaatsprinzips sind im GG zu finden:
 - Art. 1 Abs. 3 GG: Bindung an die Grundrechte
   -> Niemand darf wegen seines Geschlechtes, seiner Abstammung, seiner Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens, seiner religiösen oder politischen Anschauungen benachteiligt oder bevorzugt werden.
+  [Korrekturhinweis: Art. 1 Abs. 3 GG normiert die unmittelbare Bindung von Gesetzgebung, vollziehender Gewalt und Rechtsprechung an die Grundrechte; der hier handschriftlich notierte Satz ist wörtlich das Diskriminierungsverbot aus Art. 3 Abs. 3 GG.]
 - Art. 20 Abs. 2 S. 2 GG: Gewaltenteilung
 - Art. 20 Abs. 3 GG: Bindung an Recht und Gesetz
   -> Jeder muss sich an die geltenden Gesetze halten.

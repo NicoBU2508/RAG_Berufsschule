@@ -12,22 +12,22 @@ tags:
   - quelle
   - itt_it_technik
 seitenaudit: "visuell_vollstaendig"
-seitenaudit_datum: "2026-11-23"
+seitenaudit_datum: "2026-11-26"
 kanonische_referenzen: true
 kanonische_themen: 17
 seiten_mit_kanonischem_thema: 89
 ki_exclude_seiten: [1,2,63,64,65,68,69,73,74,75,76,84,85,86]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=74, ocr_verified=12, partial=3)"
-textzeichen: 245376
+textstatus: "gemischt: visuell geprüft (ok=72, ocr_verified=14, partial=3)"
+textzeichen: 244763
 ---
 # 📄 IT Sicherheit Skript Wittmann
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
 > - **Original-PDF:** [Skript_Wittmann.pdf](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf>)
 > - **Seiten:** 103
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=74, ocr_verified=12, partial=3)
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=72, ocr_verified=14, partial=3)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -44,7 +44,7 @@ textzeichen: 245376
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Mobile Sicherheit\|Mobile Sicherheit]] | Prüfungsrahmen der Quelle | 40–42 | Visuell bestätigt auf 3 Seite(n). |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Netzwerktechnik und Netzplan\|Netzwerktechnik und Netzplan]] | Prüfungsrahmen der Quelle | 8–16 | Visuell bestätigt auf 9 Seite(n); bei 1 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Physische Sicherheit und Infrastruktur\|Physische Sicherheit und Infrastruktur]] | Prüfungsrahmen der Quelle | 4, 24–39 | Visuell bestätigt auf 17 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
-| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Risikoanalyse\|Risikoanalyse]] | Prüfungsrahmen der Quelle | 48–57 | Visuell bestätigt auf 10 Seite(n). |
+| [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Risikoanalyse\|Risikoanalyse]] | Prüfungsrahmen der Quelle | 48–57 | Visuell bestätigt auf 10 Seite(n); bei 2 Seite(n) OCR/Original für exakte Zitate prüfen. |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Schutzbedarfsfeststellung\|Schutzbedarfsfeststellung]] | Prüfungsrahmen der Quelle | 17–23 | Visuell bestätigt auf 7 Seite(n). |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Sicherheitsmanagement und ISMS\|Sicherheitsmanagement und ISMS]] | Prüfungsrahmen der Quelle | 3, 62 | Visuell bestätigt auf 2 Seite(n). |
 | [[03_Themen/Visuell_geprueft/IT_Technik_und_Sicherheit/Sicherheitsmanagement und Maßnahmen\|Sicherheitsmanagement und Maßnahmen]] | Prüfungsrahmen der Quelle | 3 | Visuell bestätigt auf 1 Seite(n). |
@@ -4462,60 +4462,29 @@ Risiko.
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=53]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschriftliche Antworten und Tabelle zur Risikobewertung aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Wittmann 
- 
-Datum:_________ 
-Fragen/Notizen: __________________________________________ 
-  
-50 
-Aufgabe 1a: Warum verwendet man eine Risikomatrix? 
-Man kann damit eine begründete Entscheidung zum Umgang mit Risiken treffen. 
-Aufgabe 1b: Nenne zwei Möglichkeiten, um eine Gefährdung zu reduzieren. 
-Die Eintrittshäufigkeit verringern und/oder die Eintrittshäufigkeit verringern. 
-Aufgabe 2: Vervollständige die Tabelle: 
-Risikobewertung für die Gefährdung G 0.25 Ausfall von Geräten oder Systemen 
-Da oftmals eine Vielzahl an Gefährdungen zu berücksichtigen sind, kann dies auch tabellarisch ausgeführt werden. Die folgende 
-Tabelle zeigt anhand der Gefährdung G 0.25 eine hinreichende Dokumentation der Risikobewertung. 
-Risikobewertung 
-Virtualisierungsserver S007 
-Vertraulichkeit: hoch; Integrität: hoch; Verfügbarkeit: hoch 
-Gefährdung 
-G 0.25 Ausfall von Geräten oder Systemen 
-Beeinträchtigte Grundwerte: 
-Verfügbarkeit 
-Eintrittshäufigkeit ohne 
-zusätzliche Maßnahmen:  
-mittel 
-Auswirkungen ohne 
-zusätzliche Maßnahmen:  
-beträchtlich 
-Risiko ohne zusätzliche 
-Maßnahmen: 
- mittel 
-Begründung Eintrittshäufigkeit: 
-In der Vergangenheit kam es durchschnittlich alle 2 Jahre zu einem Serverausfall.  
-Begründung Auswirkungen: 
-Die Abläufe bei RECPLAST werden erheblich beeinträchtigt. 
- 
- 
- 
-begründete Entscheidung
-zum Umgang mit Risiken
-- Eintrittshäutigkeit veringen
--Auswirkungen reduzieren
-A
-Mittel
-beträchtlich
-mittel
-können
-trote Wartung
-versagen
-ein Ausfall
-stoppt
-alles
+Wittmann 50
+
+Aufgabe 1a: Warum verwendet man eine Risikomatrix?
+Man kann damit eine begründete Entscheidung zum Umgang mit Risiken treffen.
+
+Aufgabe 1b: Nenne zwei Möglichkeiten, um eine Gefährdung zu reduzieren.
+Die Eintrittshäufigkeit verringern und/oder die Auswirkungen reduzieren.
+
+Aufgabe 2: Vervollständige die Tabelle:
+Risikobewertung für die Gefährdung G 0.25 Ausfall von Geräten oder Systemen
+
+Virtualisierungsserver S007 (Schutzbedarf: Vertraulichkeit hoch; Integrität hoch; Verfügbarkeit hoch)
+- Gefährdung: G 0.25 Ausfall von Geräten oder Systemen
+- Beeinträchtigte Grundwerte: A [Verfügbarkeit; Hinweis laut Originaltabelle V/I/A: gedruckt „Verfügbarkeit“, handschriftlich „A“ eingetragen; inhaltlich bezieht sich G 0.25 primär auf Verfügbarkeit (A)]
+- Eintrittshäufigkeit ohne zusätzliche Maßnahmen: mittel (Begründung: können trotz Wartung versagen; im Textbeispiel durchschnittlich alle 2 Jahre ein Serverausfall)
+- Auswirkungen ohne zusätzliche Maßnahmen: beträchtlich (Begründung: ein Ausfall stoppt alles; im Textbeispiel Abläufe bei RECPLAST erheblich beeinträchtigt)
+- Risiko ohne zusätzliche Maßnahmen: mittel
 ```
 
 ### Seite 54
@@ -4527,109 +4496,40 @@ alles
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=54]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Handschriftliche Zeilen (G 0.40, G 0.37, G 0.46) ohne PDF-Formular-Artefakte aus Sichtprüfung transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-Wittmann 
- 
-Datum:_________ 
-Fragen/Notizen: __________________________________________ 
-  
-51 
-Risikobewertung 
-Virtualisierungsserver S007 
-Vertraulichkeit: hoch; Integrität: hoch; Verfügbarkeit: hoch 
-Gefährdung 
-asdf 
-Beeinträchtigte Grundwerte: 
- 
-Eintrittshäufigkeit ohne 
-zusätzliche Maßnahmen:  
- 
-Auswirkungen ohne 
-zusätzliche Maßnahmen:  
- 
-Risiko ohne zusätzliche 
-Maßnahmen: 
-  
-Begründung Eintrittshäufigkeit: 
- 
-Begründung Auswirkungen: 
- 
- 
-Risikobewertung 
-Virtualisierungsserver S007 
-Vertraulichkeit: hoch; Integrität: hoch; Verfügbarkeit: hoch 
-Gefährdung 
-Dasd 
-Beeinträchtigte Grundwerte: 
- 
-Eintrittshäufigkeit ohne 
-zusätzliche Maßnahmen:  
- 
-Auswirkungen ohne 
-zusätzliche Maßnahmen:  
- 
-Risiko ohne zusätzliche 
-Maßnahmen: 
-  
-Begründung Eintrittshäufigkeit: 
- 
-Begründung Auswirkungen: 
- 
- 
-Risikobewertung 
-Virtualisie 
-rungsserver S007Vertraulichkeit: hoch; Integrität: hoch; Verfügbarkeit: hoch 
-Gefährdung 
-asdfsdf 
-Beeinträchtigte Grundwerte: 
- 
-Eintrittshäufigkeit ohne 
-zusätzliche Maßnahmen:  
- 
-Auswirkungen ohne 
-zusätzliche Maßnahmen:  
- 
-Risiko ohne zusätzliche 
-Maßnahmen: 
-  
-Begründung Eintrittshäufigkeit: 
- 
-Begründung Auswirkungen: 
- 
-gering
-Da der Virtualisierungsserver über Netzwerkschnittstellen erreichbar sein muss, um 
-die virtuellen Maschinen zu bedienen, ist er potenziellen DoS-Angriffen ausgesetzt, 
-die in modernen Netzwerken eine häufige Bedrohung darstellen.
-Die Auswirkungen werden als begrenzt eingestuft, da durch die vorhandene 
-Netzsegmentierung und Konfiguration in abgetrennten Teilnetzen verhindert wird, dass 
-ein Angreifer die Kontrolle übernimmt oder Daten dauerhaft beschädigt; lediglich die 
-kurzzeitige Verfügbarkeit der Dienste wäre beeinträchtigt.
-6
-.0
-. 40
-Dos
-A
-mittel
-Hoch
-Hoch
-Häufig da
-Dos angriffe oft auch automatisiert
-vorkommen
-massive Betriebsunterbrechungen
-6 0. FehlerhafteNutzung
-selten
-existenzbedrohend
-mittel
-außschleißt
-vertrauenswürdiges
-Personal
-Aufall aller dienste
-4 .0
-.40 Verhinderung um Dienste
-mittel
-begrenzt
+Wittmann 51
+
+Risikobewertung – Virtualisierungsserver S007 (Vertraulichkeit: hoch; Integrität: hoch; Verfügbarkeit: hoch)
+
+1. Zeile (gedruckte Musterbewertung für G 0.40):
+- Gefährdung: G 0.40 Verhinderung von Diensten (DoS)
+- Eintrittshäufigkeit ohne zusätzliche Maßnahmen: gering (Da der Virtualisierungsserver über Netzwerkschnittstellen erreichbar sein muss, um die virtuellen Maschinen zu bedienen, ist er potenziellen DoS-Angriffen ausgesetzt, die in modernen Netzwerken eine häufige Bedrohung darstellen.)
+- Auswirkungen ohne zusätzliche Maßnahmen: begrenzt (Durch vorhandene Netzsegmentierung und Konfiguration in abgetrennten Teilnetzen wird verhindert, dass ein Angreifer die Kontrolle übernimmt oder Daten dauerhaft beschädigt; lediglich die kurzzeitige Verfügbarkeit der Dienste wäre beeinträchtigt.)
+
+2. Handschriftliche Zeile 1:
+- Gefährdung: G 0.40 DoS
+- Beeinträchtigte Grundwerte: A [Auszug/Availability; primär Verfügbarkeit (V)]
+- Eintrittshäufigkeit: mittel | Auswirkungen: hoch | Risiko: hoch
+- Begründung Eintrittshäufigkeit: Häufig, da DoS-Angriffe oft auch automatisiert vorkommen.
+- Begründung Auswirkungen: massive Betriebsunterbrechungen
+
+3. Handschriftliche Zeile 2:
+- Gefährdung: G 0.37 Fehlerhafte Nutzung
+- Beeinträchtigte Grundwerte: [leer]
+- Eintrittshäufigkeit: selten | Auswirkungen: existenzbedrohend | Risiko: mittel
+- Begründung Eintrittshäufigkeit: ausschließlich vertrauenswürdiges Personal
+- Begründung Auswirkungen: Ausfall aller Dienste
+
+4. Handschriftliche Zeile 3:
+- Gefährdung: G 0.46 Verhinderung von Diensten
+- Beeinträchtigte Grundwerte: [leer]
+- Eintrittshäufigkeit: mittel | Auswirkungen: begrenzt | Risiko: gering
+- Begründung Eintrittshäufigkeit / Auswirkungen: [gedruckte Begründungen wie oben]
 ```
 
 ### Seite 55

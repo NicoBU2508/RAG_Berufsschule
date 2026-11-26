@@ -7,7 +7,7 @@ stand: 2026-11-26
 # 🎓 Obsidian AP-Lernhelfer Fachinformatiker
 
 > [!ap1] Ziel
-> Dieser Vault ist als AP-Lernbasis strukturiert. Alle **1.402 aktiven PDF-Seiten** (53 Quellen) wurden visuell geprüft; 3 pixelidentische PDF-Dubletten (97 Seiten) wurden nach Prüfung bereinigt. Kanonisch sind ausschließlich die daraus erzeugten **140 Themenbezüge** und die ausdrücklich zugelassenen Seiten der Quellnotizen.
+> Dieser Vault ist als AP-Lernbasis strukturiert. Alle **1.403 aktiven PDF-Seiten** (53 Quellen) wurden visuell geprüft; 3 pixelidentische PDF-Dubletten (97 Seiten) wurden nach Prüfung bereinigt. Kanonisch sind ausschließlich die daraus erzeugten **140 Themenbezüge** und die ausdrücklich zugelassenen Seiten der Quellnotizen.
 
 > [!important] Einstieg für GPT und Obsidian-Copilot
 > KI-Systeme beginnen bei [[00_KI_QUELLENSTART|KI-Quellenstart]]. Dort stehen Quellenpriorität, Ausschlüsse, Belegregeln und bekannte Qualitätsgrenzen.

@@ -2,8 +2,8 @@
 id: vault.ki.quellenstart
 typ: ki_quellenstart
 status: aktiv
-stand: 2026-11-23
-reviewed_on: 2026-11-23
+stand: 2026-11-26
+reviewed_on: 2026-11-26
 ki_prioritaet: 1
 aliases:
   - KI Quellenstart
@@ -33,7 +33,7 @@ Diese Datei ist der kanonische Einstieg für GPT-, RAG- und Obsidian-Copilot-Abf
 - Quellnotizen mit `ki_exclude: true` sowie alle Seiten aus `ki_exclude_seiten` — leer, privat, doppelt, fachfremd, zu schwach oder visuell nicht belastbar.
 - historische Qualitätsberichte — nur als damaligen Prüfstand lesen; bei Widersprüchen gilt der aktuelle Auditstand.
 
-Eine positive, fail-closed Dateiallowlist und ergänzende Ausschlüsse sind im lokalen Obsidian-Copilot hinterlegt. Indexiert werden exakt **192 geprüfte Markdown-Dateien**: die beiden Einstiegsnotizen, der geprüfte Themenindex, **140 visuell geprüfte Themenseiten** und **49 aktive bereinigte Quellnotizen**. Ganze Ordner sind nicht freigegeben; neue Dateien bleiben deshalb bis zur ausdrücklichen Prüfung draußen. Vier ganze Quellnotizen sind technisch ausgeschlossen (visuell nicht belastbar, exakte Dublette oder reine Lernziel-/Indexnotiz ohne fachliche Evidenz). Ausgeschlossene Seitenblöcke enthalten keine PDF-Einbettung und keinen extrahierten Inhalt mehr. Nach Änderungen an diesen Regeln muss der Copilot-Index vollständig neu aufgebaut werden.
+Eine positive, fail-closed Dateiallowlist und ergänzende Ausschlüsse sind im lokalen Obsidian-Copilot hinterlegt. Indexiert werden exakt **189 geprüfte Markdown-Dateien**: die beiden Einstiegsnotizen, der geprüfte Themenindex, **140 visuell geprüfte Themenseiten** und **46 aktive bereinigte Quellnotizen**. Ganze Ordner sind nicht freigegeben; neue Dateien bleiben deshalb bis zur ausdrücklichen Prüfung draußen. Sieben ganze Quellnotizen sind technisch ausgeschlossen (visuell nicht belastbar, exakte Dublette oder reine Lernziel-/Indexnotiz ohne fachliche Evidenz). Ausgeschlossene Seitenblöcke enthalten keine PDF-Einbettung und keinen extrahierten Inhalt mehr. Nach Änderungen an diesen Regeln muss der Copilot-Index vollständig neu aufgebaut werden.
 
 > [!privacy] Externer KI-Dienst
 > Das aktuell konfigurierte Sprach- und Embedding-Routing nutzt OpenRouter. Indexierte Inhalte können daher den lokalen Rechner verlassen. Keine private Datei hinzufügen; Bilder werden nicht an das Modell übergeben.

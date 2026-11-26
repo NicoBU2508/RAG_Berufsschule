@@ -1,42 +1,42 @@
 ---
 typ: karteikarten_deck
-thema: "Projektplanung und Netzplanmethode"
+thema: Projektplanung und Netzplanmethode
 kategorie: Wirtschaft_und_Recht
-pruefung: "AP1/AP2"
-thema_quelle: "03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Projektplanung und Netzplanmethode.md"
-stand_karten: 2026-11-24
-stand_quelle: 2026-11-24
+pruefung: AP1/AP2
+thema_quelle: 03_Themen/Visuell_geprueft/Wirtschaft_und_Recht/Projektplanung und Netzplanmethode.md
+stand_karten: '2026-11-26'
+stand_quelle: '2026-11-26'
 quellseiten_anzahl: 23
 quellseiten_hash: 6af61cc3988a
 quellseiten:
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=17"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=18"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=19"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=21"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=22"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=23"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=24"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=25"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=26"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=27"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=28"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=29"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=30"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=37"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=38"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=39"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=40"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=41"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=42"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=43"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=44"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=45"
-  - "02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP#page=4"
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=17
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=18
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=19
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=21
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=22
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=23
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=24
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=25
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=26
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=27
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=28
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=29
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=30
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=37
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=38
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=39
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=40
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=41
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=42
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=43
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=44
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl#page=45
+- 02_Faecher/BGWP_Betriebswirtschaft/Quellen/ZusammenfassungBGWP#page=4
 rag_include: false
 canonical_evidence: false
 tags:
-  - karteikarten
-  - flashcards/wirtschaft-und-recht/projektplanung-und-netzplanmethode
+- karteikarten
+- flashcards/wirtschaft-und-recht/projektplanung-und-netzplanmethode
 ---
 # 🗂️ Karteikarten: Projektplanung und Netzplanmethode
 
@@ -72,7 +72,7 @@ Das Balkendiagramm stellt parallele und aufeinanderfolgende Arbeitsabläufe im Z
 <!-- card-id: projektplanung-und-netzplanmethode-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
 **Wie unterscheiden sich Gesamtpuffer (`GP`) und Freier Puffer (`FP`) nach Bedeutung und Formel?**
 ?
-Der Gesamtpuffer (`GP = SAZ − FAZ` bzw. `SEZ − FEZ`) gibt an, wie sich eine Verspätung eines Vorgangs auf das gesamte Projektende auswirkt. Der Freie Puffer (`FP = FAZ_Nachfolger − FEZ_Vorgang`, bei Start ab 0) zeigt an, wie viel Zeitspielraum besteht, bevor sich eine Verspätung auf den direkt nachfolgenden Knoten auswirkt.
+Der Gesamtpuffer (`GP = SAZ − FAZ` bzw. `SEZ − FEZ`) gibt an, wie sich eine Verspätung eines Vorgangs auf das gesamte Projektende auswirkt. Der Freie Puffer (`FP = min(FAZ_Nachfolger) − FEZ_Vorgang`, bei Start ab 0; bei mehreren direkten Nachfolgern ist das Minimum deren `FAZ` maßgeblich) zeigt an, wie viel Zeitspielraum besteht, bevor sich eine Verspätung auf den frühestbeginnenden direkt nachfolgenden Knoten auswirkt.
 *Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 37, 40](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=37>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
 
 ---

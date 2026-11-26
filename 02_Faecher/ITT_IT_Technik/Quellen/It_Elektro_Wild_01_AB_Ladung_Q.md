@@ -19,15 +19,15 @@ seiten_mit_kanonischem_thema: 99
 ki_exclude_seiten: [7,77]
 ki_exclude_grund: "Siehe vollständigen visuellen Seitenaudit und neutrale Sperrnotizen in den betroffenen Seitenabschnitten"
 lernstatus: "aktiv"
-textstatus: "gemischt: visuell geprüft (ok=1, ocr_verified=49, partial=49)"
-textzeichen: 131379
+textstatus: "gemischt: visuell geprüft (ok=1, ocr_verified=53, partial=45)"
+textzeichen: 125859
 ---
 # 📄 It Elektro Wild 01 AB Ladung Q
 > [!quelle] Quellenstatus
 > - **Fach:** [[02_Faecher/ITT_IT_Technik/ITT_IT_Technik|ITT IT-Technik]]
 > - **Original-PDF:** [01_AB_Ladung Q.pdf](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf>)
 > - **Seiten:** 101
-> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=1, ocr_verified=49, partial=49)
+> - **KI-Lesbarkeit:** gemischt: visuell geprüft (ok=1, ocr_verified=53, partial=45)
 > - **Aktive Lernquelle:** ja
 
 ## 🎯 Geprüfte und sinnvolle Referenzen
@@ -1730,20 +1730,20 @@ Datum:
  
  
  
-Sichtet in der Gruppe zun‰chst ausf¸hrlich das Datenblatt des euch zugeordneten 
-Grafikspeichers! Bearbeitet anschlieﬂend die nachstehenden Aufgaben! 
+Sichtet in der Gruppe zunächst ausführlich das Datenblatt des euch zugeordneten 
+Grafikspeichers! Bearbeitet anschließend die nachstehenden Aufgaben! 
  
-Die elektrische Leistung Pel ist die entscheidende Bemessungsgrˆﬂe, um PC-Komponenten 
+Die elektrische Leistung Pel ist die entscheidende Bemessungsgröße, um PC-Komponenten 
 bzw. eine Grafikkarte und ein Netzteil aufeinander abzustimmen! 
  
-1. Erg‰nzt die Formel sowie die Einheit der elektrischen Leistung: 
+1. Ergänzt die Formel sowie die Einheit der elektrischen Leistung: 
  
  
  
  
  
  
-2. Unter welcher Einschr‰nkung gilt obige Formel zur Berechnung der Leistung Pel?  
+2. Unter welcher Einschränkung gilt obige Formel zur Berechnung der Leistung Pel?  
  
  
  
@@ -1753,7 +1753,7 @@ bzw. eine Grafikkarte und ein Netzteil aufeinander abzustimmen!
 von Rudi?  
  
  
-4. Wie kˆnnen Strom, Spannung und Leistung in der Praxis ermittelt werden, wenn diese 
+4. Wie können Strom, Spannung und Leistung in der Praxis ermittelt werden, wenn diese 
 nicht angegeben sind?  
  
  
@@ -1761,27 +1761,20 @@ nicht angegeben sind?
  
  
 5. ‹bertragt die Werte der Stromaufnahme IGK eurer Grafikkarte aus dem Datenblatt in 
-die nachstehende Tabelle und berechnet die zugehˆrigen Leistungen PGK (Formel, 
+die nachstehende Tabelle und berechnet die zugehörigen Leistungen PGK (Formel, 
 eingesetzte Werte mit Einheiten angeben!): 
  
  
 PC-Netzteil – Elektrische Leistung Pel  
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
 Pel = 
 CHIEFTEC A-80 500W 
  
 Welche Grafikkarte kann 
 ich mit meinem Netzteil 
 betreiben? Bitte gebt mir 
-so schnell wie mˆglich 
-R¸ckmeldung! 
+so schnell wie möglich 
+Rückmeldung! 
 [Pel] = 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-AAAAAAAAAAA
-AAAAAAAAAAA
 U .
 V
 . A = W
@@ -1823,7 +1816,7 @@ Datum:
  
 Strom  
 Spannung(konstant) 
-Benˆtigte Leistung der Grafikkarte PGK  
+Benötigte Leistung der Grafikkarte PGK  
 IGK min    = 
 U =  
 PGK min = 
@@ -1834,7 +1827,7 @@ IGK max   =
 U = 
 PGK max = 
  
-6. Welcher Leistungswert der Grafikkarte ist f¸r den Abgleich mit Rudis Netzteil relevant 
+6. Welcher Leistungswert der Grafikkarte ist für den Abgleich mit Rudis Netzteil relevant 
 und warum?  
  
  
@@ -1843,7 +1836,7 @@ und warum?
 7. Nebenstehend ist die Tabelle „Output data“ aus dem Datenblatt von Rudis Netzteil 
 gegeben. Informiert euch im Internet (siehe QR-Code) über den Begriff „Max. 
 Combined Power“. Welche maximale Leistung stellt Rudis Netzteil demnach insgesamt 
-f¸r alle PC-Komponenten dauerhaft zur Verf¸gung? 
+für alle PC-Komponenten dauerhaft zur Verfügung? 
   
  
  
@@ -2294,8 +2287,6 @@ Komponenten (ohne Grafikkarte)!
  
  
  
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
 PNetzteil max =  AAAAA 
 CHIEFTEC 
 A-80 500W 
@@ -2362,7 +2353,7 @@ Datum:
 3 
  
  
-9. Berechnet die f¸r den Betrieb der Grafikkarte demnach noch zur Verf¸gung stehende 
+9. Berechnet die für den Betrieb der Grafikkarte demnach noch zur Verfügung stehende 
 Leistung PNetzteil GK aus PNetzteil max und PKomp.ges . 
  
 10. ‹bertragt eure Ergebnisse als ‹bersicht in die betreffende Spalte. Kann Rudi die von 
@@ -2390,7 +2381,7 @@ PGK max =
  
  
  
-F¸r Grafikkarte verf¸gbare 
+Für Grafikkarte verfügbare 
 Leistung 
 PNetzteil GK = 
  
@@ -2405,7 +2396,7 @@ Kann die Grafikkarte verwendet werden?
  
  
  
-Begr¸ndung: 
+Begründung: 
  
  
  
@@ -2818,13 +2809,11 @@ Begr¸ndung:
  
  
  
-• AAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAA 
 •  
 Ihr seid schon fertig? Hervorragend! Meldet euch bei Herr Wild! Scannt den 
-nebenstehenden QR-Code, um auf weitere Datenbl‰tter zuzugreifen. Bearbeitet die 
-Aufgaben 5 und 10 analog f¸r die Werte der anderen Grafikkarten! Solltet ihr damit auch 
-schon fr¸her fertig werden, findet ihr auf Seite 4 noch eine Doppelrakete 😉 
+nebenstehenden QR-Code, um auf weitere Datenblätter zuzugreifen. Bearbeitet die 
+Aufgaben 5 und 10 analog für die Werte der anderen Grafikkarten! Solltet ihr damit auch 
+schon früher fertig werden, findet ihr auf Seite 4 noch eine Doppelrakete 😉 
 5000
 - 363 , 84V
 = 136 , 16
@@ -2866,7 +2855,7 @@ Datum:
  
 4 
  
-11. Formuliert abschlieﬂend eine begr¸ndete Antwort f¸r Rudi: 
+11. Formuliert abschließend eine begründete Antwort für Rudi: 
  
  
  
@@ -2897,11 +2886,11 @@ Datum:
  
  
  
-12. Rudi entscheidet sich in ein leistungsst‰rkeres Netzteil zu investieren. Berechnet die 
+12. Rudi entscheidet sich in ein leistungsstärkeres Netzteil zu investieren. Berechnet die 
 erforderliche Gesamtleistung des Netzteils, wenn Rudi alle bisherigen Komponenten 
 und eine Grafikeinheit vom Typ „ASRock Radeon RX 7900 XT Phantom“ betreiben will. 
-Rechnet f¸r k¸nftige Upgrades zus‰tzlich einen Leistungspuffer von 20% ein! Sucht 
-bei Conrad Electronic nach einem passenden Netzteil mit n‰chstgrˆﬂerer Leistung! 
+Rechnet für künftige Upgrades zusätzlich einen Leistungspuffer von 20% ein! Sucht 
+bei Conrad Electronic nach einem passenden Netzteil mit nächstgrößerer Leistung! 
  
  
  
@@ -3176,16 +3165,6 @@ bei Conrad Electronic nach einem passenden Netzteil mit n‰chstgrˆﬂerer Leis
  
  
  
-• AAAAAAAAAAAAAAAAAAAAAAAAA 
-• AAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAA 
-• AAAAAAAAAAAAAAAAAAAAAAAAA
 14:45 
 Bearbeitet vertiefend noch die Aufgabe 12 😉 
 Inter-Tech BPS-850 Netzteil 80PLUS® Bronze
@@ -3231,13 +3210,13 @@ P= 814,52W
 
 ```text
 Version 2010.4
-Erlebe Gaming auf einem vˆllig neuen Level mit unserer MSI GeForce RTX 4060!
-Fl¸ssige Bildraten, kristallklare Details und lebendige Farben, egal ob Du in epischen
-K‰mpfen k‰mpfst, riesige offene Welten erkundest oder komplexe Projekte in 3D
-bearbeitest, die GeForce RTX 4060 bietet Dir die nˆtige Leistung! Damit Du auch
-mˆglichst lange Freude an deiner neuen Grafikkarte hast, hier noch ein paar Hinweise:
-Bevor es losgeht, solltest Du ¸berpr¸fen, ob dein Netzteil auch die erforderliche
-Leistung f¸r deine neue RTX 4060 bereitstellen kann! Richtig, die entscheidende Grˆﬂe
+Erlebe Gaming auf einem völlig neuen Level mit unserer MSI GeForce RTX 4060!
+Flüssige Bildraten, kristallklare Details und lebendige Farben, egal ob Du in epischen
+Kämpfen kämpfst, riesige offene Welten erkundest oder komplexe Projekte in 3D
+bearbeitest, die GeForce RTX 4060 bietet Dir die nötige Leistung! Damit Du auch
+möglichst lange Freude an deiner neuen Grafikkarte hast, hier noch ein paar Hinweise:
+Bevor es losgeht, solltest Du überprüfen, ob dein Netzteil auch die erforderliche
+Leistung für deine neue RTX 4060 bereitstellen kann! Richtig, die entscheidende Größe
 ist die sogenannte elektrische Leistung Pel. Diese kannst du ganz einfach aus dem
 Produkt von Strom I und Spannung U berechnen! In der Regel sind die Spannung U, der
 Strom I oder die Leistung Pel im Datenblatt oder auf dem Typenschild von elektrischen
@@ -3251,20 +3230,20 @@ du
 beispielsweise
 die
 Stromaufnahmen deiner GeForce RTX 4060 im Bereich „Technische Daten“ auf Seite 2.
-Solltest du diese Daten einmal nicht zur Hand haben, kannst du die Leistung auch ¸ber
+Solltest du diese Daten einmal nicht zur Hand haben, kannst du die Leistung auch über
 ein
-Leistungsmessger‰t
+Leistungsmessgerät
 ermitteln
 („Direkte
 Leistungsmessung“).
 Eine
 weitere
-Mˆglichkeit ist die indirekte Leistungsmessung. Hierzu ermittelst du I und U ¸ber eine
+Möglichkeit ist die indirekte Leistungsmessung. Hierzu ermittelst du I und U über eine
 einfache Strom- bzw. Spannungsmessung und wendest nebenstehende Formel an!
 •
 Verbesserte Leistung - Boost-Takt bis zu 2450MHz!
 •
-Phantom Gaming 3X K¸hlsystem f¸r ger‰uschlosen Betrieb!
+Phantom Gaming 3X Kühlsystem für geräuschlosen Betrieb!
 1
 - Anwendungshinweise -
 MSI GeForce RTX 4060 8GB
@@ -3298,7 +3277,7 @@ Versorgungsspannung:           U = 12 V
 Hinweis:
 Die Strom- bzw. Leistungsaufnahme deiner
 RTX 4060 ist vom Betriebszustand deines
-PC‘s abh‰ngig! W‰hrend des Bootvorgangs
+PC‘s abhängig! Während des Bootvorgangs
 kommt sie mit schlappen 4 Ampere aus.
 Hast
 du
@@ -3317,7 +3296,7 @@ Auslastung
 betrieben werden kann, solltest du stets
 diesen
 Wert
-f¸r
+für
 Leistungsberechnungen
 deines Netzteils heranziehen!
 - Technische Daten -
@@ -3606,13 +3585,9 @@ Wie hoch sind
 meine jährlichen 
 Energiekosten?  
 [Wel] = 
-AAAAAAAAAAA
-AAAAAAAAAAA
 €
  K = 
    [K] = 
-AAAAAAAAAAA
-AAAAAAAAAAA
 U
 .I
 . +
@@ -6171,25 +6146,25 @@ Datum:
  
  
  
-Sichtet zun‰chst ausf¸hrlich (jeder f¸r sich!) das Produktinformationsblatt des euch 
-zugeordneten Netzteils! Bearbeitet anschlieﬂend gemeinsam in der Gruppe die Aufgaben 
+Sichtet zunächst ausführlich (jeder für sich!) das Produktinformationsblatt des euch 
+zugeordneten Netzteils! Bearbeitet anschließend gemeinsam in der Gruppe die Aufgaben 
 im nachstehenden Beratungsprotokoll. 
  
-1. Erg‰nzt die Formel zur Berechnung des Wirkungsgrades eines Netzteils: 
+1. Ergänzt die Formel zur Berechnung des Wirkungsgrades eines Netzteils: 
  
  
  
               
  
  
-2. Notiert die Einheit sowie den mˆglichen Wertebereich des Wirkungsgrades η: 
+2. Notiert die Einheit sowie den möglichen Wertebereich des Wirkungsgrades η: 
  
  
  
  
  
  
-3. Erkl‰rt kurz, wozu die 80PLUS-Zertifizierung des „Bequiet! PURE POWER 12M“ dient: 
+3. Erklärt kurz, wozu die 80PLUS-Zertifizierung des „Bequiet! PURE POWER 12M“ dient: 
  
  
  
@@ -6198,15 +6173,10 @@ im nachstehenden Beratungsprotokoll.
  
  
 Aus dem Beratungschat liegt euch das PC-Nutzungsprofil von Rudi vor. Es zeigt die vom 
-Netzteil an die PC-Komponenten abgegebene Leistung Pab sowie die t‰glichen 
+Netzteil an die PC-Komponenten abgegebene Leistung Pab sowie die täglichen 
 Betriebsstunden t: 
 PC-Netzteil – Wirkungsgrad η („eta“) 
 η = 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
 PAB
 Pza
 0
@@ -6249,13 +6219,13 @@ Datum:
  
  
  
-4. F¸r jede Lastphase getrennt: Lest die Zeitdauer t sowie die benˆtigte Leistung Pab aus 
-dem PC-Nutzungsprofil ab. Berechnet anschlieﬂend die prozentuale Auslastung Load 
+4. Für jede Lastphase getrennt: Lest die Zeitdauer t sowie die benötigte Leistung Pab aus 
+dem PC-Nutzungsprofil ab. Berechnet anschließend die prozentuale Auslastung Load 
 des Netzteils.  
  
-5. F¸r jede Lastphase getrennt: Ermittelt nun den Wirkungsgrad η (siehe Effizienzkennlinie im 
-Produktblatt eures Netzteils). Berechnet anschlieﬂend die vom Netzteil in der jeweiligen 
-Lastphase aufgenommene Leistung Pzu sowie die benˆtigte elektrische Energie Wel. 
+5. Für jede Lastphase getrennt: Ermittelt nun den Wirkungsgrad η (siehe Effizienzkennlinie im 
+Produktblatt eures Netzteils). Berechnet anschließend die vom Netzteil in der jeweiligen 
+Lastphase aufgenommene Leistung Pzu sowie die benötigte elektrische Energie Wel. 
 Tragt eure Ergebnisse aus den Teilaufgaben 4 und 5 in die Tabelle auf Seite 3 ein!  
  
  
@@ -7290,8 +7260,8 @@ Datum:
  
  
  
-6. Im Beratungschat gibt Rudi an, dass er seinen Rechner noch f¸r 3 Jahre nutzen mˆchte. 
-Berechnet die f¸r diese Nutzungsdauer insgesamt aufgenommene elektrische Energie 
+6. Im Beratungschat gibt Rudi an, dass er seinen Rechner noch für 3 Jahre nutzen möchte. 
+Berechnet die für diese Nutzungsdauer insgesamt aufgenommene elektrische Energie 
 Wel gesamt sowie die entstehenden Energiekosten KEnergie gesamt (T = 40 
 Ct
 kWh). Tragt eure 
@@ -8152,8 +8122,8 @@ Datum:
  
 4 
  
-7. Berechnet nun abschlieﬂend die f¸r Rudi auftretenden Gesamtkosten Kgesamt aus 
-KEnergie gesamt und KNetzteil. Erg‰nzt euer Ergebnis ebenfalls in der Tabelle. 
+7. Berechnet nun abschließend die für Rudi auftretenden Gesamtkosten Kgesamt aus 
+KEnergie gesamt und KNetzteil. Ergänzt euer Ergebnis ebenfalls in der Tabelle. 
  
  
  
@@ -8185,7 +8155,7 @@ Kgesamt
  
  
  
-F¸r Rudi am 
+Für Rudi am 
 rentabelsten: 
  
  
@@ -8194,7 +8164,7 @@ rentabelsten:
  
  
   
-8.  Formuliert abschlieﬂend eine begr¸ndete Antwort f¸r Rudi: 
+8.  Formuliert abschließend eine begründete Antwort für Rudi: 
  
  
  
@@ -8452,15 +8422,6 @@ rentabelsten:
 Ihr seid schon fertig? Hervorragend! Meldet euch bei Herrn Wild! Scannt nebenstehenden QR-Code und 
 bearbeitet die Zusatzaufgaben! 
 Zusammenfassende Erkenntnis: 
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 1581,81E + 60
 =
 1647, 87E
@@ -8527,14 +8488,14 @@ Version 2014.6
 1
 UVP 60,-€
 CONRAT ELECTRONIC
-750 Watt 80PLUSÆ BRONZE
+750 Watt 80PLUS® BRONZE
 Das PURE POWER 12M 750 Watt in der BRONZE-Edition! Was steckt dahinter?
 Sicherlich haben Sie beim Betrieb Ihres Rechners festgestellt, dass sich das Netzteil mit der Zeit
-erw‰rmt. Hierbei handelt es sich um eine unerw¸nschte Nebenwirkung des elektrischen Stroms.
+erwärmt. Hierbei handelt es sich um eine unerwünschte Nebenwirkung des elektrischen Stroms.
 Ein Netzteil nimmt deshalb stets mehr Leistung aus der Steckdose auf (Pzu = aufgenommene
-Leistung), als es tats‰chlich an seinen Ausg‰ngen an die PC-Komponenten abgibt (Pab =
+Leistung), als es tatsächlich an seinen Ausgängen an die PC-Komponenten abgibt (Pab =
 abgegebene Leistung). Die Differenz aus aufgenommener Leistung Pzu und abgegebener Leistung
-Pab, ist die sogenannte Verlustleistung PV. Diese geht, wie bereits erw‰hnt, in Form von W‰rme
+Pab, ist die sogenannte Verlustleistung PV. Diese geht, wie bereits erwähnt, in Form von Wärme
 verloren (siehe Schaubild).
 Die
 auf
@@ -8546,7 +8507,7 @@ Combined Power“) entspricht der
 maximalen Leistung
 Pab, die
 das
-Netzteil f¸r den PC zur Verf¸gung
+Netzteil für den PC zur Verfügung
 stellen kann!
 ```
 
@@ -8563,31 +8524,31 @@ stellen kann!
 
 ```text
 2
-Die Verlustleistung bzw. W‰rme verursacht unnˆtige Kosten und reduziert
-die Lebensdauer Ihres Netzteils! Ein wesentliches Qualit‰tsmerkmal von
+Die Verlustleistung bzw. Wärme verursacht unnötige Kosten und reduziert
+die Lebensdauer Ihres Netzteils! Ein wesentliches Qualitätsmerkmal von
 Netzteilen ist deshalb der sogenannte Wirkungsgrad η („eta“). Dieser
-berechnet sich aus dem Verh‰ltnis von abgegebener Leistung Pab und
+berechnet sich aus dem Verhältnis von abgegebener Leistung Pab und
 aufgenommener Leistung Pzu:
-750 Watt 80PLUSÆ BRONZE
+750 Watt 80PLUS® BRONZE
 η = Pab
 Pzu
 Der Wirkungsgrad η wird als Dezimalzahl
 ohne Einheit oder in Prozent angegeben!
 Er nimmt Werte zwischen 0 und 1 bzw.
-0 % und 100 % an. Je hˆher, umso
+0 % und 100 % an. Je höher, umso
 effizienter ist das Netzteil
 80 PLUS-Zertifizierung von Netzteilen
-Je hˆher der Wirkungsgrad Ihres Netzteils ist, desto weniger Leistung geht in Form von W‰rme verloren.
-Kurzum: Sie sparen Geld und tun gleichzeitig etwas Gutes f¸r die Umwelt!
-Doch wie kˆnnen Sie die Effizienz Ihres Netzteils bewerten? Schlieﬂlich findet man im Datenblatt lediglich die
+Je höher der Wirkungsgrad Ihres Netzteils ist, desto weniger Leistung geht in Form von Wärme verloren.
+Kurzum: Sie sparen Geld und tun gleichzeitig etwas Gutes für die Umwelt!
+Doch wie können Sie die Effizienz Ihres Netzteils bewerten? Schließlich findet man im Datenblatt lediglich die
 Ausgangsleistung Pab des Netzteils…
-Hierf¸r wurde 2005 die 80 PLUS-Zertifizierung eingef¸hrt. Ein 80 PLUS-Zertifikat erhalten grunds‰tzlich nur Netzteile, die
-f¸r die Auslastungsstufen 20 %, 50 % und 100 % einen Wirkungsgrad η von 80 % oder hˆher erreichen. Richtig, der
-Wirkungsgrad eines Netzteils ist nicht konstant, sondern von der Auslastung des Ger‰tes abh‰ngig! So auch bei unserem
+Hierfür wurde 2005 die 80 PLUS-Zertifizierung eingeführt. Ein 80 PLUS-Zertifikat erhalten grundsätzlich nur Netzteile, die
+für die Auslastungsstufen 20 %, 50 % und 100 % einen Wirkungsgrad η von 80 % oder höher erreichen. Richtig, der
+Wirkungsgrad eines Netzteils ist nicht konstant, sondern von der Auslastung des Gerätes abhängig! So auch bei unserem
 Modell PURE POWER 12M 750 Watt in der BRONZE-Edition (siehe Effizienzkennlinie oben rechts).
 Innerhalb der 80 PLUS-Zertifizierung werden folgende Effizienzstufen mit aufsteigendem Wirkungsgrad unterschieden:
-Je hˆher der Wirkungsgrad bzw. die 80PLUS Zertifizierung, desto hˆher ist auch der Kaufpreis
-des Netzteils! Welches Netzteil f¸r Sie das Richtige ist, h‰ngt von Ihrem Nutzungsverhalten ab!
+Je höher der Wirkungsgrad bzw. die 80PLUS Zertifizierung, desto höher ist auch der Kaufpreis
+des Netzteils! Welches Netzteil für Sie das Richtige ist, hängt von Ihrem Nutzungsverhalten ab!
 ```
 
 ### Seite 44
@@ -8689,1135 +8650,33 @@ g) Heizlüfter zuschalten: Berechne die Stromaufnahmen der beiden Heizstufen (10
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=47]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Nutzungsprofil-Diagramm und handschriftliche Musterlösung aus Sichtprüfung vollständig transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-FU-IT: Grundlagen Elektrotechnik (Wild) 
- 
-Schulaufgabenvorbereitung 
-Klasse: 
-Name: 
-Datum: 
- 
-4 
- 
- 
-h) Um die Hütte zu heizen, lässt Rudi den Heizlüfter den ganzen Abend gemäß nachstehendem 
-Profil laufen. Berechne die in dieser Zeitspanne aufgenommene elektrische Energie  
-Wel Heizlüfter sowie die entstehenden Energiekosten KHeizlüfter, wenn der Tarif T weiterhin bei 
-35,49 Ct/kWh liegt. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-P =
-U
-. I
-P
-= THOW
-Pc
-= zow
-4 = 2300
-1
-= 7
-In
-= 100
-=
-4
-, 35 A
-In= 7
-Wa
-= U
-.
-1
-. +
-Wer Waln+ Welz
-Wel
-= U
-. In ty
-= 230V.
-4,35A
-. 5h
-= 5003
-Wh
-Weiz = U
-. 12. +z
-=
-230V. 8,7A. 7h
-= 14
-. 007Wh
-Wel = 5003 Wh + 14 . 007 Wh
-= 19
-.010 Uh
-k =
-We
-.
-T
-I
-Kel = 13
-.01
-kWh
-· 35, 49 c+ /kWh
-=
-6
-, 747
+FU-IT: Grundlagen Elektrotechnik (Wild) – Schulaufgabenvorbereitung (S. 4)
+
+h) Um die Hütte zu heizen, lässt Rudi den Heizlüfter den ganzen Abend gemäß nachstehendem Profil laufen. Berechne die in dieser Zeitspanne aufgenommene elektrische Energie W_el Heizlüfter sowie die entstehenden Energiekosten K_Heizlüfter, wenn der Tarif T weiterhin bei 35,49 Ct/kWh liegt.
+
+Abgelesenes Heizlüfter-Nutzungsprofil:
+- 16:00–18:30: Stufe 1 (1.000 W) -> 2,5 h
+- 18:30–20:30: Stufe 2 (2.000 W) -> 2,0 h
+- 20:30–23:00: Stufe 1 (1.000 W) -> 2,5 h
+- 23:00–04:00: Stufe 2 (2.000 W) -> 5,0 h
+Gesamtbetriebsdauer: t_1 = 5 h (Stufe 1), t_2 = 7 h (Stufe 2)
+
+Handschriftlicher Lösungsweg:
+P = U · I | P_1 = 1000 W | P_2 = 2000 W | U = 230 V
+I_1 = 1000 W / 230 V = 4,35 A
+I_2 = 2000 W / 230 V = 8,7 A
+
+W_el = U · I · t | W_el = W_el1 + W_el2
+W_el1 = 230 V · 4,35 A · 5 h = 5.003 Wh (exakt 5.002,5 Wh)
+W_el2 = 230 V · 8,7 A · 7 h = 14.007 Wh
+W_el = 5.003 Wh + 14.007 Wh = 19.010 Wh = 19,01 kWh
+K_el = W_el · T = 19,01 kWh · 35,49 Ct/kWh = 6,747 € (ca. 6,75 €; Handschrift: 6,74 € / 6,747)
 ```
 
 ### Seite 48
@@ -10874,51 +9733,35 @@ Ci
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=49]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Typenschild der Mehrfachsteckdose und Kenndaten-Tabelle des Bluetooth-Lautsprechers aus Sichtprüfung transkribiert.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-FU-IT: Grundlagen Elektrotechnik (Wild) 
- 
-Schulaufgabenvorbereitung 
-Klasse: 
-Name: 
-Datum: 
- 
-6 
- 
-k) Rudi versorgt die Herdplatte, den Heizlüfter und die Lichterkette zusammen über 
-nebenstehende Mehrfachsteckdose.  
-Prüfe durch Rechnung, ob der gleichzeitige Betrieb aller Verbraucher bei voller Leistung 
-zulässig ist. 
- 
- 
-Aufgabe 2: Rudi und der Zocker-Abend (Fortsetzung 1) 
- 
-Um für besinnliche Stimmung zu 
-sorgen, lässt Rudi zwischendrin etwas 
-Weihnachtsmusik laufen. Hierfür hat er 
-seinen 
-akkubetriebenen 
-Bluetooth-
-Lautsprecher 
-mit 
-nebenstehenden 
-Kenndaten mit in die Hütte gebracht. 
-   
- 
- 
- 
- 
-a) Die 
-Akkuversorgungsspannung 
-des 
-Lautsprechers 
-beträgt 
-11,1 
-Volt. 
-Gemäß 
-Herstellerangaben gibt der Lautsprecher bei halber bzw. voller Lautstärke 7 bzw. 15 Watt 
-Sinus-Schallleistung ab. Berechne den Wirkungsgrad η bei halber und voller Lautstärke.
+FU-IT: Grundlagen Elektrotechnik (Wild) – Schulaufgabenvorbereitung (S. 6)
+
+k) Rudi versorgt die Herdplatte, den Heizlüfter und die Lichterkette zusammen über nebenstehende Mehrfachsteckdose. Prüfe durch Rechnung, ob der gleichzeitige Betrieb aller Verbraucher bei voller Leistung zulässig ist.
+
+Abgebildete Mehrfachsteckdose (Typenschild):
+- wipo EUROLEISTE Typ: 60040/V S
+- Nennspannung: 230 V~ | Maximalstrom: 16 A | Frequenz: 50 Hz
+- (Maximale Anschlussleistung: P_max = 230 V · 16 A = 3.680 W)
+
+Aufgabe 2: Rudi und der Zocker-Abend (Fortsetzung 1)
+Um für besinnliche Stimmung zu sorgen, lässt Rudi zwischendrin etwas Weihnachtsmusik laufen. Hierfür hat er seinen akkubetriebenen Bluetooth-Lautsprecher mit nebenstehenden Kenndaten mit in die Hütte gebracht.
+
+Kenndaten des Bluetooth-Lautsprechers:
+- Frequenzbereich: 60 Hz – 20 kHz
+- Signal-Rausch-Verhältnis: > 85 dB
+- Nennleistung: 2 × 10 W
+- Sinusleistung (RMS): Halbe Lautstärke 7 W | Volle Lautstärke 15 W
+- Versorgungsspannung: 11,1 V
+- Stromverbrauch Standby: < 0,05 A
+- Stromverbrauch Halbe Lautstärke (50 %): 0,8 A
+- Stromverbrauch Volle Lautstärke (100 %): 1,7 A
+
+a) Die Akkuversorgungsspannung des Lautsprechers beträgt 11,1 Volt. Gemäß Herstellerangaben gibt der Lautsprecher bei halber bzw. voller Lautstärke 7 bzw. 15 Watt Sinus-Schallleistung ab. Berechne den Wirkungsgrad η bei halber und voller Lautstärke.
 ```
 
 ### Seite 50
@@ -10994,22 +9837,28 @@ Gehäuselüfter | 8 | 2
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=52]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Effizienzkennlinien (Auslastung vs. Wirkungsgrad η) aus den Diagrammen durch Sichtprüfung abgelesen.
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-FU-IT: Grundlagen Elektrotechnik (Wild) 
- 
-Schulaufgabenvorbereitung 
-Klasse: 
-Name: 
-Datum: 
- 
-9 
- 
- 
-Nachfolgend sind die beiden Effizienzkennlinien von Schorschis zuvor verwendetem Netzteil 
-BeQuiet Pure Power 750 Watt 80PLUS® GOLD und dem nun verwendeten Netzgerät 
-Chieftec A-80 500 Watt ohne 80PLUS-Zertifizierung dargestellt.
+FU-IT: Grundlagen Elektrotechnik (Wild) – Schulaufgabenvorbereitung (S. 9)
+
+Nachfolgend sind die beiden Effizienzkennlinien von Schorschis zuvor verwendetem Netzteil BeQuiet Pure Power 750 Watt 80PLUS® GOLD und dem nun verwendeten Netzgerät Chieftec A-80 500 Watt ohne 80PLUS-Zertifizierung dargestellt.
+
+Kennlinie 1: BeQuiet Pure Power 750 W (80PLUS® GOLD) – Auslastung -> Wirkungsgrad η:
+- 20 % Auslastung: 87 %
+- 50 % Auslastung: 90 %
+- 80 % bis 100 % Auslastung: 87 %
+
+Kennlinie 2: Chieftec A-80 500 W (ohne 80PLUS-Zertifizierung) – Auslastung -> Wirkungsgrad η:
+- 20 % Auslastung: 72 %
+- 30 % Auslastung: 76 %
+- 40 % Auslastung: 80 %
+- 50 % Auslastung: 81 %
+- 60 % Auslastung: 79 %
+- 70 % bis 100 % Auslastung: 78 %
 ```
 
 ### Seite 53
@@ -11021,801 +9870,20 @@ Chieftec A-80 500 Watt ohne 80PLUS-Zertifizierung dargestellt.
 > [!example]- Originalseite im PDF-Layout anzeigen
 > ![[99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=53]]
 
-#### Extrahierter Originaltext für Suche und KI
+> [!ocr] Visuell transkribiert
+> Aufgabentext bereinigt (leere Rechenkästchen im Original ohne handschriftlichen Eintrag; Kennlinienwerte siehe S. 52).
+
+#### Verifizierte Transkription aus Sichtprüfung für Suche und KI
 
 ```text
-FU-IT: Grundlagen Elektrotechnik (Wild) 
- 
-Schulaufgabenvorbereitung 
-Klasse: 
-Name: 
-Datum: 
- 
-10 
- 
- 
-c) Wozu dient die sogenannte 80PLUS-Zertifizierung und welche Netzteile erhalten diese? 
- 
- 
- 
- 
- 
- 
- 
-d) Nenne vier 80PLUS-Zertifizierungen in aufsteigender Reihenfolge. 
- 
- 
- 
- 
-e) Berechne die durch die Verlustleistung PV verursachten Energiekosten KVerluste (T = 35,49 
-Ct/kWh) der beiden Netzteile, wenn Schorschi seinen Rechner für 8 Stunden mit maximaler 
-Leistung betreibt. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+FU-IT: Grundlagen Elektrotechnik (Wild) – Schulaufgabenvorbereitung (S. 10)
+
+c) Wozu dient die sogenannte 80PLUS-Zertifizierung und welche Netzteile erhalten diese?
+
+d) Nenne vier 80PLUS-Zertifizierungen in aufsteigender Reihenfolge.
+
+e) Berechne die durch die Verlustleistung P_V verursachten Energiekosten K_Verluste (T = 35,49 Ct/kWh) der beiden Netzteile, wenn Schorschi seinen Rechner für 8 Stunden mit maximaler Leistung betreibt.
+(Bezugswerte bei 100 % Volllast laut Effizienzkennlinien auf S. 52: BeQuiet Pure Power 750 W mit η = 87 %, Chieftec A-80 500 W mit η = 78 %; im Original keine handschriftliche Lösung eingetragen.)
 ```
 
 ### Seite 54
@@ -12258,13 +10326,10 @@ Voltmeter und Amperemeter. Tragt außerdem alle Strom und Spannungspfeile ein.
  
  
  
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
 •  
  
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
 •  
  
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
 •  
 größe ist
 Leiter widerstand
@@ -12736,15 +10801,7 @@ I [A]
 Abbildung  2: QR-Code 
 DC-Labor 
  
-AAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAA 
  
-AAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAA 
 R
 ↓u
 ①
@@ -13364,9 +11421,6 @@ Stromstärke I.
  
  
  
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
 Die Stromstärke I ist
 umso grüer , je grüße
 die Spannung U
@@ -13416,14 +11470,14 @@ Datum:
  
  
  
-1. In einem Stromkreis mit einem Widerstand von 230  wird ein Strom von 2,5 A 
+1. In einem Stromkreis mit einem Widerstand von 230 Ω wird ein Strom von 2,5 A 
 gemessen. Berechne die Versorgungsspannung. 
  
  
 2. Ein Widerstand liegt an einer Spannung von 1 kV und wird von einem Strom von 100 mA 
 durchflossen. Berechne den Widerstandswert R sowie den Leitwert G. 
  
-3. Eine Relaisspule weist einen Widerstand von 18  auf und ist für 133 mA geeignet. 
+3. Eine Relaisspule weist einen Widerstand von 18 Ω auf und ist für 133 mA geeignet. 
 Berechne die zulässige Versorgungsspannung. 
  
  
@@ -14489,7 +12543,7 @@ Datum:
  
 2 
  
-4. Der Spannungsabfall an einem 4,7 k Widerstand beträgt 12 V. Berechne die 
+4. Der Spannungsabfall an einem 4,7 kΩ Widerstand beträgt 12 V. Berechne die 
 Stromstärke! Ermittle den Wert, auf den der Widerstand geändert werden müsste, damit 
 bei gleicher Stromstärke die Spannung auf 14 V ansteigt. 
  
@@ -17981,8 +16035,6 @@ schwach. Wo liegt denn
 der Fehler? 
 Abbildung  1: QR-DC-Labor 
 Abbildung  2: Messaufbau 1 „Lichterkette kurz“ 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
 040.40.41248
 In
 Reihenschaltung fließt überall der
@@ -18325,8 +16377,6 @@ entsprechenden Bauteilwerte sowie die Versorgungsspannung ein.
  
  
  
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
 Abbildung  3: Messaufbau 2 „Lichterkette lang" 
 In Reihenschaltung ist die
 Gesamtspannung die
@@ -18986,17 +17036,6 @@ Formelsammlung Reihenschaltung:
  
  
  
-• AAAAAAAAAAAAAAAAAAAAAAAAA 
-• AAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAA 
-• AAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAA 
 Stromstärke: 
 Spannung: 
 Widerstand: 
@@ -19104,14 +17143,6 @@ Tabelle 1: Messwerte Strom und Spannung
 Parallelschaltung von Widerständen 
 Abbildung  1: Messaufbau Parallelschaltung 
 Abbildung  2: QR-DC-Labor 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
 Erkenntnisse: 
 22A
 1 , 2 A 08 A
@@ -19419,13 +17450,6 @@ Formelsammlung Parallelschaltung:
  
  
  
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
-• AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 
 Erkenntnis: 
 Stromstärke: 
 Spannung: 
@@ -20082,12 +18106,12 @@ Datum:
  
  
  
-1. Die Widerstände R1 = 25  und R2 = 35  liegen in Reihe an 220 V. Berechne den 
+1. Die Widerstände R1 = 25 Ω und R2 = 35 Ω liegen in Reihe an 220 V. Berechne den 
 Ersatzwiderstand (= Gesamtwiderstand), die Stromstärke I sowie die Teilspannungen U1 
 und U2 an beiden Widerständen. 
  
  
-2. Die Widerstände R1 = 1,5 k, R2 = 2,2 k sowie R3 = 6,8 k liegen in Reihe an 220 V. 
+2. Die Widerstände R1 = 1,5 kΩ, R2 = 2,2 kΩ sowie R3 = 6,8 kΩ liegen in Reihe an 220 V. 
 Berechne den Ersatzwiderstand (= Gesamtwiderstand), die Stromstärke I sowie alle 
 Teilspannungen. 
  
@@ -21248,7 +19272,7 @@ Datum:
 2 
  
  
-3. Die Widerstände R1 = 50 , R2 = 150  und R3 = 200  sind in Reihe geschaltet. Über 
+3. Die Widerstände R1 = 50 Ω, R2 = 150 Ω und R3 = 200 Ω sind in Reihe geschaltet. Über 
 dem Widerstand R2 wird eine Spannung von 75 V gemessen. 
 a) Zeichne die Schaltung auf und bezeichne alle Spannungen und Ströme. 
 b) Berechne die Stromstärke I. 
@@ -22485,7 +20509,7 @@ Datum:
 3 
  
  
-4. Die Widerstände R1 = 10 k, R2 = 20 k,, R3 = 30 k und R4 = 40 k sind parallel 
+4. Die Widerstände R1 = 10 kΩ, R2 = 20 kΩ,, R3 = 30 kΩ und R4 = 40 kΩ sind parallel 
 geschalten und liegen an einer Versorgungsspannung von 230 V. 
 a) Zeichne die Schaltung auf und bezeichne alle Spannungen und Ströme. 
 b) Berechne alle Teilströme sowie die Gesamtstromstärke. 

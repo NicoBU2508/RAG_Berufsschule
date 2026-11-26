@@ -993,7 +993,11 @@ class LearnTracker
     exact = @topics.keys.find { |k| normalize(k) == qn }
     return exact if exact
 
-    partial = @topics.keys.select { |k| normalize(k).include?(qn) }
+    partial = if qn.length <= 4
+                @topics.keys.select { |k| normalize(k).match?(/(?:\A|\s)#{Regexp.escape(qn)}(?:\s|\z)/) }
+              else
+                @topics.keys.select { |k| normalize(k).include?(qn) }
+              end
     return partial.first if partial.length == 1
 
     nil
