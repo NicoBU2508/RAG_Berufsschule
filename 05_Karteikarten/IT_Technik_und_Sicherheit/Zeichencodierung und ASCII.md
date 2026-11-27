@@ -71,3 +71,12 @@ Ein 8-Bit-Byte lässt sich über die Stellenwerte zweier 4-Bit-Gruppen (`8, 4, 2
 ?
 Jeder Dezimalwert (0–255) wird einzeln in der ASCII-Tabelle nachgeschlagen und dem zugehörigen Buchstaben, Satz- oder Steuerzeichen (z. B. `32` = Leerzeichen, `33` = `!`) zugeordnet, bis der vollständige Text entsteht.
 *Quelle: ITT IT-Technik (1. LJ) · [Netzwerkt.pdf · S. 13](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=13>) (von 13) · [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: zeichencodierung-und-ascii-07 | typ: berechnung | pruefung: AP1 -->
+**ASCII-Stützwerte: `'A'` hat Code `65`, `'a'` hat `97`, `'0'` hat `48`. Welcher dezimale und hexadezimale ASCII-Code gehört zu `"C3"`?**
+?
+- `'C'` = $65 + 2 = \mathbf{67}$ (`0x43`)
+- `'3'` = $48 + 3 = \mathbf{51}$ (`0x33`) → Hex: **`43 33`**.
+*Quelle: ITT IT-Technik (1. LJ) · [Netzwerkt.pdf · S. 13](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=13>) (von 13) · [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Quellnotiz]], OCR/Original prüfen*

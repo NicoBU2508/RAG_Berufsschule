@@ -105,3 +105,19 @@ Man startet bei `int i = 0`, prüft **`i < arrayEins.length`** (echt kleiner, we
 ?
 **`break`** beendet die Schleifenausführung sofort komplett, **`continue`** springt unmittelbar zur nächsten Iteration der Schleife und **`pass`** führt keine Aktion aus (leerer Platzhalter).
 *Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 10](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=10>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: schleifen-08 | typ: code_trace | pruefung: AP1/AP2 -->
+**Schreibtischtest: Welche Ausgabe erzeugt folgender Code? `sum = 0; for (i = 1; i <= 4; i++) { if (i == 3) continue; sum += i; } Ausgabe(sum)`**
+?
+**`7`** (`1 + 2 + 4`; bei `i == 3` überspringt `continue` das `sum += i`, beendet aber die Schleife *nicht*).
+*Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 10](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=10>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: schleifen-09 | typ: code_trace | pruefung: AP1/AP2 -->
+**Welche Werte gibt `for i in range(2, 7, 2): print(i)` in Python aus?**
+?
+**`2`, `4`, `6`** (`range(start, stop, step)` schließt `start` ein, bricht aber *vor* `stop = 7` ab).
+*Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 10](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=10>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*

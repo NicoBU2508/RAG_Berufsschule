@@ -67,10 +67,10 @@ Zwei gleichwertige Rechenwege (mit einheitlichen Einheiten in Bit oder Byte):
 
 ---
 
-<!-- card-id: si-und-iec-dateneinheiten-05 | typ: pruefungsfalle | pruefung: AP1 -->
-**Welcher Rechenfehler entsteht, wenn man $2.160\text{ GiB}$ einfach durch $1.000$ statt durch $1.024$ in $\text{TiB}$ umrechnet?**
+<!-- card-id: si-und-iec-dateneinheiten-05 | typ: berechnung | pruefung: AP1 -->
+**Rechne $2.160\text{ GiB}$ exakt in $\text{TiB}$ um (auf 3 Nachkommastellen)!**
 ?
-Bei dezimaler Näherung ($/ 1.000$) erhält man $2{,}16\text{ TiB}$; binär exakt ($2.160 / 1.024$) sind es jedoch nur **$2{,}109\text{ TiB}$** (da $1\text{ TiB} = 2^{10}\text{ GiB} = 1.024\text{ GiB}$).
+Da $1\text{ TiB} = 2^{10}\text{ GiB} = 1.024\text{ GiB}$ gilt: $\frac{2.160}{1.024} = \mathbf{2{,}109\text{ TiB}}$ (Falle: Durch $1.000$ zu teilen ergäbe fälschlich $2{,}16\text{ TiB}$).
 *Quelle: ITT IT-Technik (2. LJ) · [Mitschriften_Abde.pdf · S. 7](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=7>) (von 7), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften|Quellnotiz]]*
 
 ---
@@ -81,3 +81,23 @@ Bei dezimaler Näherung ($/ 1.000$) erhält man $2{,}16\text{ TiB}$; binär exak
 - Bit -> Byte (durch 8 teilen): $704\text{ Bit} / 8 = \mathbf{88\text{ Byte}}$.
 - MB/s -> Mbit/s (mit 8 multiplizieren): $100\text{ MB/s} \cdot 8 = \mathbf{800\text{ Mbit/s}}$.
 *Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 9](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=9>) (von 29), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]]*
+
+---
+
+<!-- card-id: si-und-iec-dateneinheiten-07 | typ: berechnung | pruefung: AP1 -->
+**Berechne die reine Übertragungsdauer für eine $500\text{-MiB}$-Datei über eine $10\text{-Mbit/s}$-Leitung (ohne Overhead, Ergebnis in Minuten & Sekunden)!**
+?
+1. Dateigröße in Bit: $500 \cdot 1.024^2 \cdot 8\text{ Bit} = 4.194.304.000\text{ Bit}$
+2. Rate in Bit/s: $10 \cdot 10^6\text{ Bit/s} = 10.000.000\text{ Bit/s}$
+3. Dauer: $t = \frac{4.194.304.000}{10.000.000} \approx \mathbf{419{,}43\text{ s}} \approx \mathbf{6\text{ min } 59\text{ s}}$.
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 6–7](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=6>) (von 37), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]]*
+
+---
+
+<!-- card-id: si-und-iec-dateneinheiten-08 | typ: berechnung | pruefung: AP1 -->
+**Ein Ethernet-Frame (1.518 Byte gesamt) trägt 1.460 Byte Nutzdaten. Wie lange dauert die Übertragung von $146\text{ MB}$ ($10^6\text{ B}$) Nutzdaten über $100\text{ Mbit/s}$?**
+?
+1. Frame-Anzahl: $\frac{146 \cdot 10^6\text{ B}}{1.460\text{ B}} = 100.000\text{ Frames}$
+2. Gesamtvolumen in Bit: $100.000 \cdot 1.518\text{ B} \cdot 8 = 1{,}2144 \cdot 10^9\text{ Bit}$
+3. Dauer: $\frac{1{,}2144 \cdot 10^9\text{ Bit}}{100 \cdot 10^6\text{ Bit/s}} = \mathbf{12{,}144\text{ s}}$.
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 7](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=7>) (von 37), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]]*

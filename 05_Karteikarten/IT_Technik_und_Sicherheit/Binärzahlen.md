@@ -80,3 +80,20 @@ Beispiel: `0001 1011 0110 1110` ergibt `1` (1), `1011` (`8+2+1=11` -> `B`), `011
 Eine IPv4-Adresse ist eine **32-stellige Binärzahl**, unterteilt in **4 Oktette zu je 8 Bit** (dezimal je Oktett dargestellt) sowie in Netz- und Hostteil.
 Die **Präfixlänge** gibt die Anzahl der Bits in der Subnetzmaske an, die auf **`1`** gesetzt sind.
 *Quelle: ITT IT-Technik (2. LJ) · [00_IPv4_Wiederholung.pdf · S. 1](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=1>) (von 13), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung|Quellnotiz]]*
+
+---
+
+<!-- card-id: binaerzahlen-07 | typ: berechnung | pruefung: AP1 -->
+**Wandle die Dezimalzahl `197` ins Binärsystem (8 Bit) und das Bitmuster `1010 1101` ins Dezimalsystem um!**
+?
+- `197` = $128 + 64 + 4 + 1$ = **`1100 0101`**
+- `1010 1101` = $128 + 32 + 8 + 4 + 1$ = **`173`**
+*Quelle: ITT IT-Technik (1. LJ) · [Netzwerkt.pdf · S. 3](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=3>) (von 13), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Quellnotiz]]*
+
+---
+
+<!-- card-id: binaerzahlen-08 | typ: berechnung | pruefung: AP1 -->
+**Addiere die beiden 4-Bit-Binärzahlen `1011` + `0110` binär (mit Übertrag)!**
+?
+Von rechts nach links: `1+0=1`, `1+1=0 (Ü 1)`, `0+1+1=0 (Ü 1)`, `1+0+1=0 (Ü 1)` → **`1 0001`** (dezimal $11 + 6 = 17$).
+*Quelle: ITT IT-Technik (1. LJ) · [Netzwerkt.pdf · S. 2](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=2>) (von 13), OCR/Original prüfen · [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Quellnotiz]]*

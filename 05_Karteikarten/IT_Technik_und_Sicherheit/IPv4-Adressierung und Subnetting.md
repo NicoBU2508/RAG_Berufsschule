@@ -95,7 +95,7 @@ Gegenüber `/16` ergibt `/18` genau 2 zusätzliche Netzbits (`2^2 = 4` Subnetze)
 <!-- card-id: ipv4-adressierung-und-subnetting-07 | typ: pruefungsfalle | pruefung: AP1 -->
 **Welche privaten und reservierten IPv4-Adressbereiche werden nicht im öffentlichen Internet geroutet?**
 ?
-Private Bereiche nur fürs LAN sind `10.0.0.0/8` (Klasse A), `172.16.0.0/16` bis `172.31.0.0/16` (16 Klasse-B-Netze) sowie `192.168.0.0/24` bis `192.168.255.0/24` (256 Klasse-C-Netze). Zudem sind `127.0.0.1/8` (Loopback/Localhost) und `169.254.0.0/16` (APIPA) reserviert.
+Private Bereiche (RFC 1918) nur fürs LAN: `10.0.0.0/8` (Klasse A), **`172.16.0.0/12`** (`172.16.0.0`–`172.31.255.255`, 16 Klasse-B-Netze) sowie **`192.168.0.0/16`** (`192.168.0.0`–`192.168.255.255`, 256 Klasse-C-Netze). Reserviert sind außerdem **`127.0.0.0/8`** (Loopback-Netz, Host `127.0.0.1` = Localhost) und `169.254.0.0/16` (APIPA).
 *Quelle: ITT IT-Technik (1. LJ) · [Netzwerkt.pdf · S. 9](<99_Originale/Berufsschule/ITT/1_LJ/Otma/Netzwerkt.pdf#page=9>) (von 13) · [[02_Faecher/ITT_IT_Technik/Quellen/Otma_Netzwerkt|Quellnotiz]], OCR/Original prüfen*
 
 ---
@@ -121,3 +121,21 @@ Man zählt alle `1`-Bits der Subnetzmaske zusammen: Jedes Oktett mit `255` liefe
 ?
 **Präfixlänge:** `/13` (`255` = 8 Bit, `248` = 5 Bit). Mit der Schrittweite `256 - 248 = 8` im 2. Oktett liegt `98` zwischen `96` und `104`: **Netzadresse** `10.96.0.0`, **Broadcastadresse** `10.103.255.255`, **Hosts:** `2^(32 - 13) - 2 = 524.286`.
 *Quelle: ITT IT-Technik (2. LJ) · [00_IPv4_Wiederholung.pdf · S. 14](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=14>) (von 14) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: ipv4-adressierung-und-subnetting-11 | typ: berechnung | pruefung: AP1 -->
+**Ermittle für die Host-IP `192.168.10.75/26` Netzadresse, Broadcastadresse, ersten/letzten nutzbaren Host und Anzahl nutzbarer Hosts!**
+?
+- Schrittweite bei `/26` (`255.255.255.192`): $256 - 192 = \mathbf{64}$ (Blöcke: `0, 64, 128, 192`)
+- **Netzadresse:** `192.168.10.64` · **Broadcast:** `192.168.10.127`
+- **Nutzbare Hosts:** `192.168.10.65` bis `192.168.10.126` (`2^6 - 2 = 62` Hosts).
+*Quelle: ITT IT-Technik (2. LJ) · [00_IPv4_Wiederholung.pdf · S. 11, 14](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=11>) (von 14) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: ipv4-adressierung-und-subnetting-12 | typ: berechnung | pruefung: AP1 -->
+**Ein Subnetz muss mindestens 50 Hosts (inkl. Router-Gateway) adressieren. Welche kleinste Präfixlänge `/x` und dezimale Subnetzmaske wählst du?**
+?
+Benötigt werden **6 Hostbits** ($2^6 - 2 = 62 \ge 50$; 5 Bits ergäben nur $30$). Daraus folgt $32 - 6 = \mathbf{/26}$ bzw. **`255.255.255.192`**.
+*Quelle: ITT IT-Technik (2. LJ) · [00_IPv4_Wiederholung.pdf · S. 11, 14](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=11>) (von 14) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung|Quellnotiz]], OCR/Original prüfen*

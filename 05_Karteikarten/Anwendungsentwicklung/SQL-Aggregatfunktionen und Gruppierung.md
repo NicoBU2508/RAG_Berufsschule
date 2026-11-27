@@ -59,8 +59,8 @@ Man kombiniert `FORMAT(Ausdruck, 2)` und setzt den Alias (`AS`) mit Leerzeichen 
 <!-- card-id: sql-aggregatfunktionen-und-gruppierung-03 | typ: abgrenzung | pruefung: AP2 -->
 **Worin unterscheiden sich `GROUP BY` (ohne Funktion) und `SELECT DISTINCT` beim Entfernen von Mehrfachnennungen?**
 ?
-Beide fassen Datensätze mit identischen Werten zu einer Zeile zusammen. `GROUP BY` sortiert dabei automatisch **aufsteigend** nach dem gruppierten Attribut, während bei `SELECT DISTINCT` die Reihenfolge durch die Anordnung in der Ausgangstabelle bestimmt wird.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 40](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=40>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+Beide fassen Datensätze mit identischen Werten zu einer Zeile zusammen. **Wichtig (ANSI-SQL, MySQL 8.0+ `ONLY_FULL_GROUP_BY`, Kislik S. 51):** Bei `GROUP BY` müssen alle nicht-aggregierten `SELECT`-Attribute im `GROUP BY` stehen (z. B. `GROUP BY ort, plz` statt nur `GROUP BY ort`). Zudem garantiert `GROUP BY` im aktuellen SQL-Standard **keine automatische Sortierung** — für garantierte Sortierreihenfolge in IHK-Prüfungen stets `ORDER BY` angeben!
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 40](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=40>) (von 45) · [AE_Kislik.pdf · S. 51](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=51>) (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
 
 ---
 
@@ -94,3 +94,18 @@ Man extrahiert das Jahr mit `YEAR(kaufdatum)` und gruppiert sowie sortiert danac
 ?
 Einzelzeilen-Filter stehen vor `GROUP BY` in der `WHERE`-Klausel, damit nur relevante Datensätze in die Gruppenbildung eingehen; `HAVING` wird erst nach `GROUP BY` auf die gebildeten Gruppen angewendet.
 *Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 50–51](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=50>) (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
+
+---
+
+<!-- card-id: sql-aggregatfunktionen-und-gruppierung-08 | typ: code_trace | pruefung: AP2 -->
+**Tabelle `vermietung(id, ort, preis, jahr)`. Schreibe eine SQL-Abfrage für alle Orte mit mindestens 5 Vermietungen im Jahr `2025`, absteigend nach der Anzahl sortiert!**
+?
+```sql
+SELECT ort, COUNT(*) AS anzahl
+FROM vermietung
+WHERE jahr = 2025
+GROUP BY ort
+HAVING COUNT(*) >= 5
+ORDER BY anzahl DESC;
+```
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 50–51](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=50>) (von 62) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*

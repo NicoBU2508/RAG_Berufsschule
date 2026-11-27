@@ -74,9 +74,10 @@ $S_{\text{Server}} = \frac{600\,\text{W}}{0{,}8} = 750\,\text{VA}$, $S_{\text{Fi
 ---
 
 <!-- card-id: usv-anlagen-06 | typ: anwendung | pruefung: AP1 -->
-**Mit welcher Formel berechnet man die Autonomiezeit t_A einer USV bei vorgegebener Restladung der Akkus?**
+**Mit welcher Formel berechnet man die Autonomiezeit $t_A$ einer USV bei vorgegebener Restladung der Akkus?**
 ?
-$t_A = \frac{n_{\text{Akku}} \cdot U_{\text{Akku}} \cdot Q_{\text{Akku}} \cdot \text{Nutzanteil}}{S_{\text{gesamt}}}$ (Ergebnis in Stunden). Soll z. B. eine Restladung von 35 % verbleiben, beträgt der Nutzanteil $100\,\% - 35\,\% = 0{,}65$.
+- **Schulformel (Wild, vereinfacht mit Scheinleistung):** $t_A = \frac{n_{\text{Akku}} \cdot U_{\text{Akku}} \cdot Q_{\text{Akku}} \cdot \text{Nutzanteil}}{S_{\text{gesamt}}}$ (in $\text{h}$; bei 35 % Restladung ist $\text{Nutzanteil} = 0{,}65$).
+- **IHK-AP1-Prüfungsformel (physikalisch exakt mit Wirkleistung $P_{\text{Last}}$ in $\text{W}$ und Wechselrichter-Wirkungsgrad $\eta$):** $t_A = \frac{n_{\text{Akku}} \cdot U_{\text{Akku}} \cdot Q_{\text{Akku}} \cdot \text{Nutzanteil} \cdot \eta}{P_{\text{Last}}}$.
 *Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 97–98](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=97>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---

@@ -6356,6 +6356,7 @@ heit und Informationssicherheit. Was unterscheidet jetzt diese Begriffe voneinan
 Der Datenschutz kümmert sich um den Schutz der Privatsphäre eines Menschen. In diesem Zusammen-
 hang hört man immer wieder vom „Recht auf informationelle Selbstbestimmung“ - Die entsprechen-
 den Vorgaben und Regeln finden sich im Bundesdatenschutzgesetz „BDSG“. Beim Datenschutz gilt es
+[Prüfungshinweis: In IHK-Prüfungen (AP1/AP2) ist seit 2018 primär die EU-Datenschutz-Grundverordnung (**DSGVO**) i. V. m. dem BDSG (neu) als Rechtsgrundlage zu nennen.]
 auch grundsätzlich zu klären, ob personenbezogene Daten überhaupt verarbeitet werden dürfen.
 Die Datensicherheit kümmert sich um den Schutz von Daten, und zwar unabhängig, ob bei den Daten
 ein Personenbezug vorhanden ist oder nicht. Während beim Datenschutz zu klären ist, ob und welche

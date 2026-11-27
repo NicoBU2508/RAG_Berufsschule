@@ -38,7 +38,7 @@ Die internationale Norm **ISO/IEC 25010** definiert ein Qualitätsmodell mit **a
 
 ---
 
-<!-- card-id: softwarequalitaet-und-wartbarkeit-02 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: softwarequalitaet-und-wartbarkeit-02 | typ: definition | pruefung: AP2 -->
 **Welche fünf Teilmerkmale gehören nach ISO/IEC 25010 zur „Wartbarkeit“ (Maintainability)?**
 ?
 1. **Modularität** (Aufbau aus unabhängigen Komponenten), 2. **Wiederverwendbarkeit**, 3. **Analysierbarkeit** (Leichtigkeit der Fehlersuche), 4. **Modifizierbarkeit** (Änderungsaufwand) und 5. **Testbarkeit** (Effizienz der Prüfung).
@@ -46,7 +46,7 @@ Die internationale Norm **ISO/IEC 25010** definiert ein Qualitätsmodell mit **a
 
 ---
 
-<!-- card-id: softwarequalitaet-und-wartbarkeit-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: softwarequalitaet-und-wartbarkeit-03 | typ: abgrenzung | pruefung: AP2 -->
 **Wie unterscheiden sich die ISO/IEC-25010-Merkmale „Kompatibilität“ und „Übertragbarkeit“?**
 ?
 **Kompatibilität** beschreibt die Zusammenarbeit mit anderen Systemen im Betrieb (Koexistenz und Interoperabilität/Datenaustausch). **Übertragbarkeit** beschreibt, wie leicht Software auf eine andere Hardware- oder Softwareplattform überführt werden kann (Anpassungsfähigkeit, Installierbarkeit, Austauschbarkeit).
@@ -54,7 +54,7 @@ Die internationale Norm **ISO/IEC 25010** definiert ein Qualitätsmodell mit **a
 
 ---
 
-<!-- card-id: softwarequalitaet-und-wartbarkeit-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: softwarequalitaet-und-wartbarkeit-04 | typ: abgrenzung | pruefung: AP2 -->
 **Wie unterscheiden sich „Verfügbarkeit“, „Fehlertoleranz“ und „Wiederherstellbarkeit“ unter Zuverlässigkeit (ISO/IEC 25010)?**
 ?
 - **Verfügbarkeit:** Zeitanteil, in dem das System betriebsbereit ist.
@@ -64,7 +64,7 @@ Die internationale Norm **ISO/IEC 25010** definiert ein Qualitätsmodell mit **a
 
 ---
 
-<!-- card-id: softwarequalitaet-und-wartbarkeit-05 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: softwarequalitaet-und-wartbarkeit-05 | typ: anwendung | pruefung: AP2 -->
 **Wie werden die vier Schutzziele der „Sicherheit“ (Security) nach ISO/IEC 25010 voneinander abgegrenzt?**
 ?
 - **Vertraulichkeit:** Zugriff nur für autorisierte Personen.

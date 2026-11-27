@@ -87,3 +87,19 @@ BPMN ist eine standardisierte, **grafische Modellierungssprache** zur Darstellun
 - **Beschriftung von Aktivitäten:** Immer im Format **„Substantiv + Verb“** (z. B. *„Antrag prüfen“*, *„Bestellung erfassen“*).
 - **Datenobjekte (Pfeil oben links):** Weißer Pfeil = **Data Input** (Eingangsdaten), schwarzer Pfeil = **Data Output** (Ausgangsdaten); Übergaben zwischen Bereichen/Pools als **Nachrichtenfluss** vom reinen **Sequenzfluss** trennen.
 *Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 24–28](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=24>) (von 30) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: business-process-model-and-notation-bpmn-07 | typ: modellierung | pruefung: AP1/AP2 -->
+**Fehlercheck im BPMN-Diagramm: Zwei Lanes desselben Pools („Vertrieb“ und „Lager“) sind durch eine gestrichelte Linie mit leerem Kreis am Start und Pfeil am Ende verbunden. Was ist falsch?**
+?
+Innerhalb **desselben Pools** (über Lane-Grenzen hinweg) wird ein **Sequenzfluss (durchgezogene Linie)** verwendet — der **Nachrichtenfluss (gestrichelt)** ist ausschließlich zwischen *verschiedenen Pools* erlaubt!
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 24–28](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=24>) (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: business-process-model-and-notation-bpmn-08 | typ: modellierung | pruefung: AP1/AP2 -->
+**In BPMN startet nach „Auftrag annehmen“ entweder „Sofortversand“ (wenn Bestand > 0) oder „Nachbestellen“ — niemals beides. Welches Gateway nutzt du?**
+?
+Ein **Exclusive Gateway (`X`, XOR)** mit expliziten Bedingungen (`[Bestand > 0]` / `[Bestand == 0]`) an den ausgehenden Sequenzflüssen sowie demselben `X`-Gateway zur Zusammenführung.
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 26–28](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=26>) (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*

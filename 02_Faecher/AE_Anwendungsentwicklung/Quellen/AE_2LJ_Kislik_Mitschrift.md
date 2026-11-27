@@ -1458,6 +1458,7 @@ GROUP BY ohne Funktionen
 SELECT ort, plz
 FROM fahrschueler
 GROUP BY ort;
+[Korrekturhinweis (vgl. Kislik S. 51 / ANSI-SQL & MySQL 8.0+): Bei `GROUP BY` müssen aktuell alle nicht-aggregierten `SELECT`-Attribute im `GROUP BY` stehen (`GROUP BY ort, plz` bzw. `SELECT DISTINCT ort, plz`); außerdem garantiert `GROUP BY` keine Sortierung — für garantierte Sortierung in IHK-Prüfungen stets `ORDER BY` ergänzen.]
 ￼
 ￼
 ￼

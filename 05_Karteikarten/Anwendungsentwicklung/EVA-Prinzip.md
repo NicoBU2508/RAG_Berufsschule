@@ -45,9 +45,9 @@ tags:
 ---
 
 <!-- card-id: eva-prinzip-03 | typ: pruefungsfalle | pruefung: AP1 -->
-**Warum verstößt `print(i_stimmenKand1 + i_stimmenKand2)` in Python gegen das EVA-Prinzip – und wie lautet die saubere Lösung?**
+**Entspricht `print(i_stimmenKand1 + i_stimmenKand2)` in Python dem EVA-Prinzip? Begründe und korrigiere ggf.!**
 ?
-**Grund:** Verarbeitung (`+`) und Ausgabe (`print(...)`) sind vermischt statt sauber getrennt.
+**Nein.** Verarbeitung (`+`) und Ausgabe (`print(...)`) sind vermischt statt sauber getrennt.
 **Saubere EVA-Lösung:** Zuerst Ergebnis in eigener Variable berechnen (`i_ges = i_stimmenKand1 + i_stimmenKand2`) und danach getrennt ausgeben (`print(i_ges)`).
 *Quelle: AE Anwendungsentwicklung (2. LJ) · [Mitschrift_AE_Eix.pdf · S. 17](<99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf#page=17>) (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]]*
 

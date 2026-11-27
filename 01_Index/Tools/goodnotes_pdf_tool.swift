@@ -70,6 +70,19 @@ func render(_ page: PDFPage, width: CGFloat) -> CGImage? {
     return context.makeImage() ?? image
 }
 
+func downscaleCGImage(_ image: CGImage, width: Int) -> CGImage? {
+    let targetW = max(width, 1)
+    let ratio = Double(targetW) / Double(image.width)
+    let targetH = max(Int((Double(image.height) * ratio).rounded()), 1)
+    guard let cs = CGColorSpace(name: CGColorSpace.sRGB),
+          let ctx = CGContext(data: nil, width: targetW, height: targetH, bitsPerComponent: 8, bytesPerRow: 0, space: cs, bitmapInfo: CGImageAlphaInfo.premultipliedLast.rawValue) else {
+        return nil
+    }
+    ctx.interpolationQuality = .high
+    ctx.draw(image, in: CGRect(x: 0, y: 0, width: targetW, height: targetH))
+    return ctx.makeImage()
+}
+
 func writePNG(_ image: CGImage, to path: String) {
     let rep = NSBitmapImageRep(cgImage: image)
     guard let data = rep.representation(using: .png, properties: [:]) else { fail("PNG-Export fehlgeschlagen: \(path)") }
@@ -141,17 +154,26 @@ case "extract":
     } catch { fail("Bild-Ordner nicht anlegbar: \(error)") }
     var records: [PageRecord] = []
     if firstPage <= document.pageCount {
-        for index in (firstPage - 1)..<document.pageCount {
-            guard let page = document.page(at: index) else { continue }
+        let indices = Array((firstPage - 1)..<document.pageCount)
+        var slots = Array<PageRecord?>(repeating: nil, count: indices.count)
+        let lock = NSLock()
+        DispatchQueue.concurrentPerform(iterations: indices.count) { pos in
+            let index = indices[pos]
+            guard let localDoc = PDFDocument(url: URL(fileURLWithPath: pdfPath)),
+                  let page = localDoc.page(at: index) else { return }
             let number = index + 1
             let imagePath = (outputDirectory as NSString).appendingPathComponent(String(format: "seite-%03d.png", number))
-            guard let image = render(page, width: 1600) else { fail("Seite \(number) nicht renderbar") }
-            writePNG(image, to: imagePath)
-            let ocrImage = render(page, width: 2400) ?? image
+            guard let ocrImage = render(page, width: 2200) else { fail("Seite \(number) nicht renderbar") }
+            let reviewImage = downscaleCGImage(ocrImage, width: 1500) ?? ocrImage
+            writePNG(reviewImage, to: imagePath)
             let (ocrText, confidence, ocrError) = recognize(ocrImage)
             let layer = (page.string ?? "").trimmingCharacters(in: .whitespacesAndNewlines)
-            records.append(PageRecord(page: number, image: imagePath, textLayer: layer, ocrText: ocrText, ocrConfidence: confidence, ocrError: ocrError))
+            let rec = PageRecord(page: number, image: imagePath, textLayer: layer, ocrText: ocrText, ocrConfidence: confidence, ocrError: ocrError)
+            lock.lock()
+            slots[pos] = rec
+            lock.unlock()
         }
+        records = slots.compactMap { $0 }
     }
     emit(ExtractResult(pdf: pdfPath, pageCount: document.pageCount, pages: records))
 default:

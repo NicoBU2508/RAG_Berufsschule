@@ -55,7 +55,7 @@ Ein **Algorithmus** ist eine Bearbeitungsvorschrift (Lösungsweg) für eine Aufg
 
 ---
 
-<!-- card-id: algorithmus-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: algorithmus-02 | typ: abgrenzung | pruefung: BS -->
 **Wodurch unterscheiden sich Struktogramm (STG), Programmablaufplan (PAP) und Pseudocode?**
 ?
 Das **Struktogramm** (Nassi-Shneiderman-Diagramm) stellt den Ablauf als geschlossenen Block dar, der **PAP** nutzt genormte Flusssymbole mit Ablaufpfeilen (DIN 66001) und **Pseudocode** beschreibt ihn halbformal textuell (nicht genormt, Anweisungen mit `:=` und `;`, inkl. Variablen-/Konstantendeklarationen).
@@ -87,7 +87,7 @@ Das **Modularitätsprinzip** zerlegt die Gesamtaufgabe in einzeln programmier-, 
 
 ---
 
-<!-- card-id: algorithmus-06 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+<!-- card-id: algorithmus-06 | typ: pruefungsfalle | pruefung: BS -->
 **Was stellt ein Datenflussplan (DFP) nach DIN 66001 im Unterschied zu einem PAP dar?**
 ?
 Während der PAP den logischen Kontrollfluss eines Programms abbildet, zeigt der **Datenflussplan (data flow chart)** grafisch den **Verlauf der Daten** über Eingabeeinheiten, (manuelle/allgemeine) Verarbeitungsvorgänge, Ausgaben sowie Speicher mit sequenziellem oder direktem Zugriff.
@@ -96,7 +96,7 @@ Während der PAP den logischen Kontrollfluss eines Programms abbildet, zeigt der
 ---
 
 <!-- card-id: algorithmus-07 | typ: anwendung | pruefung: AP1/AP2 -->
-**Wie funktioniert ein Schreibtischtest und was wird dabei anhand eines Struktogramms geprüft?**
+**Wie funktioniert ein Schreibtischtest und was wird dabei anhand eines Pseudocodes / Ablaufplans geprüft?**
 ?
 Beim **Schreibtischtest** werden alle beteiligten Variablen (z. B. Laufvariable, Merker wie `Position` und Vergleichswerte) Durchlauf für Durchlauf tabellarisch mit konkreten Testdaten nachvollzogen. So lassen sich Ablaufstrukturen, Zwischenwerte und die finale Ausgabe manuell verifizieren.
 *Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 19](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=19>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*

@@ -82,3 +82,22 @@ Ein Netzteil sollte so dimensioniert werden, dass es im Betrieb mit einer Auslas
 ?
 Für die Wirtschaftlichkeit zählen die Gesamtkosten $K_{\text{gesamt}} = K_{\text{Netzteil}} + K_{\text{Energie gesamt}}$ über die Nutzungsdauer. Ein höherer Wirkungsgrad (z. B. 80 PLUS Platinum) senkt die jährliche Verlustwärme und Stromrechnung so stark, dass der höhere Kaufpreis überkompensiert wird.
 *Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 41, 53](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=41>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: netzteil-wirkungsgrad-und-80-plus-07 | typ: berechnung | pruefung: AP1 -->
+**Ein PC benötigt $P_{ab} = 340\text{ W}$ an einem 85-%-Netzteil ($\eta = 0{,}85$). Berechne die Aufnahmeleistung $P_{zu}$ und die Verlustleistung $P_V$!**
+?
+- $P_{zu} = \frac{P_{ab}}{\eta} = \frac{340\text{ W}}{0{,}85} = \mathbf{400\text{ W}}$
+- $P_V = P_{zu} - P_{ab} = 400\text{ W} - 340\text{ W} = \mathbf{60\text{ W}}$ (Wärme).
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 38–43](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=38>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: netzteil-wirkungsgrad-und-80-plus-08 | typ: berechnung | pruefung: AP1 -->
+**Ein Büro-PC ($P_{ab} = 180\text{ W}$) läuft 2.000 h/Jahr zu 0,40 €/kWh. Wie viel € Stromkosten spart ein Netzteil mit $\eta_2 = 90\,\%$ gegenüber $\eta_1 = 75\,\%$ pro Jahr?**
+?
+1. $P_{zu,1} = \frac{180}{0{,}75} = 240\text{ W}$; $P_{zu,2} = \frac{180}{0{,}90} = 200\text{ W}$ → Differenz $\Delta P = 40\text{ W}$
+2. Energieersparnis: $40\text{ W} \cdot 2.000\text{ h} = 80.000\text{ Wh} = 80\text{ kWh}$
+3. Kostenersparnis: $80\text{ kWh} \cdot 0{,}40\text{ €/kWh} = \mathbf{32{,}00\text{ €/Jahr}}$.
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 41, 53](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=41>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*

@@ -62,7 +62,7 @@ Die elektrische Leistung $P_{el} = U \cdot I$ (in $\text{W}$) beschreibt die mom
 <!-- card-id: elektrische-arbeit-und-energiekosten-04 | typ: anwendung | pruefung: AP1 -->
 **Eine SPS-Komponente nimmt über ein Netzteil ($\eta = 80\,\%$) bei $P_{ab} = 0{,}51\text{ W}$ dauerhaft ($24\text{ h} \cdot 365\text{ Tage}$) Strom auf. Wie hoch sind Arbeit $W$ und Jahreskosten bei $0{,}38\text{ €/kWh}$?**
 ?
-Aufnahmeleistung des Netzteils: $P_{zu} = \frac{0{,}51\text{ W}}{0{,}80} = 0{,}64\text{ W}$. Jahresarbeit: $W = 0{,}64\text{ W} \cdot 24\text{ h/Tag} \cdot 365\text{ Tage} \approx 5\,606\text{ Wh} \approx 5{,}61\text{ kWh}$. Jahreskosten: $5{,}61\text{ kWh} \cdot 0{,}38\text{ €/kWh} = 2{,}13\text{ €}$.
+Aufnahmeleistung des Netzteils: $P_{zu} = \frac{0{,}51\text{ W}}{0{,}80} = 0{,}6375\text{ W} \approx 0{,}64\text{ W}$ (mit dieser Zwischenrundung aus der Mitschrift: $W = 0{,}64\text{ W} \cdot 8\,760\text{ h} \approx 5{,}61\text{ kWh} \Rightarrow 2{,}13\text{ €}$; ungerundet: $5{,}5845\text{ kWh} \Rightarrow 2{,}12\text{ €}$).
 *Quelle: ITT IT-Technik (2. LJ) · [20261005_145426.pdf · S. 16](<99_Originale/Berufsschule/ITT/2_LJ/IT_Tech_Liebscher/20261005_145426.pdf#page=16>) (von 18) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Tech_2LJ_Liebscher_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---

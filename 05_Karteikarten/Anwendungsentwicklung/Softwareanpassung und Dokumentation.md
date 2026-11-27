@@ -73,7 +73,7 @@ Sie darf nicht erst am Projektende entstehen, sondern muss **den gesamten Entwic
 
 ---
 
-<!-- card-id: softwareanpassung-und-dokumentation-06 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: softwareanpassung-und-dokumentation-06 | typ: anwendung | pruefung: AP2 -->
 **Welche drei zentralen Dokumente zur Testdokumentation beschreibt der Standard ISO/IEC/IEEE 29119?**
 ?
 1. **Testkonzept** (Übersicht über Vorgehensweise, Rahmenbedingungen und Ablauf), 2. **Test-Spezifikation** (detailliertes Vorgehen, Bestehens-/Fehlerkriterien, Ein- und Ausgabewerte) und 3. **Testbericht** (inkl. Testprotokoll, Testabweichungsbericht und Testabschlussbericht).

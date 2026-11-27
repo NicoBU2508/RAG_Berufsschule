@@ -87,7 +87,9 @@ Methoden mit der Vorsilbe **`get`** (z. B. `getPreis()`) lesen lediglich den Wer
 <!-- card-id: methoden-parameter-und-rueckgabewerte-06 | typ: abgrenzung | pruefung: AP1/AP2 -->
 **Wie unterscheidet sich das Übergabeverhalten mutabler und immutabler Datentypen in Python?**
 ?
-Veränderliche (**mutable**) Datentypen (z. B. `list`, `dict`) werden per **call by reference** übergeben. Unveränderliche (**immutable**) Datentypen (z. B. `string`, primitive Typen) werden hingegen per **call by value** übergeben.
+Python übergibt technisch **Objektreferenzen (Call-by-Sharing)** (alle Datentypen inkl. `int`/`bool` sind Objekte, keine primitiven Typen; das Skript spricht vereinfachend von „call by reference“ / „call by value“):
+- **Mutable** (`list`, `dict`): In-Place-Änderungen (z. B. `lst.append(1)`) wirken nach außen; eine komplette Neuzuweisung (`lst = [9]`) hingegen **nicht**.
+- **Immutable** (`int`, `str`, `tuple`): Inhalt kann nicht in-place geändert werden, eine Neuzuweisung bleibt lokal.
 *Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 15](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=15>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
 
 ---
@@ -95,5 +97,5 @@ Veränderliche (**mutable**) Datentypen (z. B. `list`, `dict`) werden per **call
 <!-- card-id: methoden-parameter-und-rueckgabewerte-07 | typ: pruefungsfalle | pruefung: AP2 -->
 **Warum ist `def func(a=[]):` in Python fehleranfällig und wie vermeidet man diese Falle?**
 ?
-Ein veränderliches Standardargument (`a=[]`) ist eine Falle (Mutable-Default-Argument-Falle). Korrekt setzt man `def func(a=None):` und initialisiert erst im Funktionsrumpf bei `if a == None:` eine leere Liste `a = []`.
+Das Standardlisten-Objekt `[]` wird **einmalig beim Einlesen von `def` erzeugt** und über alle Aufrufe ohne Argument hinweg geteilt (Werte akkumulieren sich unbeabsichtigt). Korrekt setzt man `def func(a=None):` und initialisiert erst im Funktionsrumpf bei `if a is None:` (Skript auch `== None`) eine neue Liste `a = []`.
 *Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 15](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=15>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*

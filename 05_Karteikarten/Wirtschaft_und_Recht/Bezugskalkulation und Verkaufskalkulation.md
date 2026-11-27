@@ -84,3 +84,32 @@ Die Differenz zwischen Barverkaufspreis und Selbstkosten zeigt den **Gewinn oder
 ?
 Ausgehend vom vorgegebenen **Brutto- bzw. Nettoverkaufspreis** werden schrittweise Kundenrabatt, Kundenskonto, Gewinnzuschlag, Handlungskostenzuschlag und Bezugskosten abgezogen (bzw. Zuschläge **auf Hundert** herausgerechnet: z. B. `Selbstkosten = Barverkaufspreis / (100 + Gewinn %) × 100`), bis über Bareinkaufs- und Zieleinkaufspreis der maximal zulässige **Listeneinkaufspreis** feststeht.
 *Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 34, 36](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=34>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: bezugskalkulation-und-verkaufskalkulation-07 | typ: berechnung | pruefung: AP1/AP2 -->
+**Berechne den Bezugspreis: Listeneinkaufspreis 1.200,00 €, Liefererrabatt 10 %, Liefererskonto 2 %, Bezugskosten 40,00 €.**
+?
+1. Zieleinkaufspreis: $1.200{,}00\text{ €} \cdot 0{,}90 = \mathbf{1.080{,}00\text{ €}}$
+2. Bareinkaufspreis: $1.080{,}00\text{ €} \cdot 0{,}98 = \mathbf{1.058{,}40\text{ €}}$
+3. Bezugspreis: $1.058{,}40\text{ €} + 40{,}00\text{ €} = \mathbf{1.098{,}40\text{ €}}$
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 30, 53](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=30>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: bezugskalkulation-und-verkaufskalkulation-08 | typ: berechnung | pruefung: AP1/AP2 -->
+**Der Barverkaufspreis beträgt 882,00 €. Wie hoch ist der Zielverkaufspreis bei 2 % Kundenskonto, und wie hoch der Nettoverkaufspreis bei 10 % Kundenrabatt? (Vorwärtskalkulation)**
+?
+- Zielverkaufspreis („im Hundert“): $\frac{882{,}00\text{ €}}{100 - 2} \cdot 100 = \mathbf{900{,}00\text{ €}}$
+- Nettoverkaufspreis („im Hundert“): $\frac{900{,}00\text{ €}}{100 - 10} \cdot 100 = \mathbf{1.000{,}00\text{ €}}$
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 30, 34, 36](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=30>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: bezugskalkulation-und-verkaufskalkulation-09 | typ: berechnung | pruefung: AP1/AP2 -->
+**Rückwärtskalkulation: Ein Mitbewerber verkauft für 1.190,00 € brutto (19 % USt). Wie hoch ist der Barverkaufspreis bei 10 % Kundenrabatt und 2 % Kundenskonto?**
+?
+1. Nettoverkaufspreis: $1.190{,}00\text{ €} / 1{,}19 = \mathbf{1.000{,}00\text{ €}}$
+2. Zielverkaufspreis: $1.000{,}00\text{ €} \cdot 0{,}90 = \mathbf{900{,}00\text{ €}}$
+3. Barverkaufspreis: $900{,}00\text{ €} \cdot 0{,}98 = \mathbf{882{,}00\text{ €}}$
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 34, 36](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=34>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]], OCR/Original prüfen*

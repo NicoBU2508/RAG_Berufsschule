@@ -90,3 +90,21 @@ Bei `db < 0` wird er **abgelehnt**; bei `db = 0` (`p = kv`) ist er **neutral** (
 Mehrstufige DB-Rechnung: `Umsatzerlöse - variable Kosten = DB I`, `DB I - erzeugnisfixe Kosten = DB II`.
 Der Betriebserfolg pro Periode ergibt sich aus: `Summe der Deckungsbeiträge aller Kostenträger - Fixkosten = Betriebsgewinn/Betriebsverlust`.
 *Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 38](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=38>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+
+---
+
+<!-- card-id: deckungsbeitrag-und-gewinnschwelle-08 | typ: berechnung | pruefung: AP1/AP2 -->
+**Eine Software-Lizenz kostet im Verkauf 120,00 €, variable Kosten pro Lizenz betragen 45,00 €, Fixkosten 15.000,00 €. Wie hoch ist der Betriebsgewinn bei 300 verkauften Lizenzen?**
+?
+- Stückdeckungsbeitrag: $db = 120{,}00\text{ €} - 45{,}00\text{ €} = \mathbf{75{,}00\text{ €}}$
+- Gesamtdeckungsbeitrag: $DB = 75{,}00\text{ €} \cdot 300 = \mathbf{22.500{,}00\text{ €}}$
+- Betriebsgewinn: $22.500{,}00\text{ €} - 15.000{,}00\text{ €} = \mathbf{+7.500{,}00\text{ €}}$
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 37–38, 40](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=37>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*
+
+---
+
+<!-- card-id: deckungsbeitrag-und-gewinnschwelle-09 | typ: fallentscheidung | pruefung: AP1/AP2 -->
+**Ein IT-Systemhaus hat freie Kapazitäten. Ein Kunde bietet für 50 Wartungspakete je 32,00 € bei variablen Stückkosten von 35,00 € und Fixkosten von 4.000 €. Annehmen oder ablehnen?**
+?
+**Ablehnen!** Der Stückdeckungsbeitrag ist negativ ($db = 32{,}00\text{ €} - 35{,}00\text{ €} = -3{,}00\text{ €}$); der Auftrag liegt unter der **kurzfristigen Preisuntergrenze** und erhöht den Verlust um $150{,}00\text{ €}$.
+*Quelle: ITT IT-Technik (1. LJ) · [Skript.pdf · S. 37–38, 44](<99_Originale/Berufsschule/ITT/1_LJ/Stößl/Skript.pdf#page=37>) (von 54) · [[02_Faecher/ITT_IT_Technik/Quellen/Stol_Skript|Quellnotiz]]*

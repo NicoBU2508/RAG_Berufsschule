@@ -106,9 +106,9 @@ module VaultSupport
     when "AP1-ONLY", "AP1_ONLY"
       val == "AP1"
     when "AP2"
-      val == "AP2" || val == "AP1/AP2"
+      val == "AP2" || val == "AP1/AP2" || val.start_with?("AP2_")
     when "AP2-ONLY", "AP2_ONLY"
-      val == "AP2"
+      val == "AP2" || val.start_with?("AP2_")
     when "BS", "BERUFSSCHULE"
       val == "BS"
     else

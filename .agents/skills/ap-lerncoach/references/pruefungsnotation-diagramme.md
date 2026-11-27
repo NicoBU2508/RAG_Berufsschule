@@ -8,13 +8,15 @@ Gilt für: PAP, Struktogramm, Datenflussplan, EPK/eEPK, BPMN, UML (Aktivität, Z
 
 ## 1. Ablauf bei jedem Diagramm (immer in dieser Reihenfolge)
 
-1. **Notation im Vault belegen:** Die Seite mit der Symbol-/Normdarstellung per `vault_lookup.rb` laden (Tabelle unten nennt die Belegseiten). Wenn der Text nur „Symbol für …“ ohne Formen zeigt (OCR), die **Originalseite rendern** und ansehen:
+1. **Notation im Vault belegen & bei Notations-/Überblicksfragen sofort rendern:**
+   Die Belegseite per `vault_lookup.rb` laden (Tabelle unten nennt die Belegseiten). Handelt es sich um ein **neues Diagramm-Thema, einen Symbol-Überblick oder eine Notationsfrage** (*„Was ist ein ER-Diagramm / PAP / EPK …?“*), **immer** die Originalseite rendern:
    ```bash
    ruby .agents/skills/ap-lerncoach/scripts/vault_lookup.rb render "<quelle>" "<seite(n)>" --out "<Artefakt-Ordner>/notation"
    ```
+   *(Token-Sparregel: Das gerenderte PNG direkt per `![...](pfad.png)` einbetten, aber **nicht** mit `read_file` in den KI-Kontext laden, solange Text/Spickzettel die Symbole bereits belegen — das spart 100 % der Bild-Input-Tokens! Nur bei echten OCR-Unklarheiten `partial`/`ocr_error`/`missing` oder fehlendem Spickzettel auch selbst ansehen.)*
 2. **Originalseite ODER Diagramm-Nachbau (keine Doppelung!):**
-   - **Wenn die gerenderte Originalseite bereits das passende Diagramm zeigt** (z. B. bei neuem Thema, Symbol-Überblick oder Notationsfrage): **Nur** die Originalseite als Bild einbetten (`![... S. X](/absoluter/pfad/pX.png)`) — **kein** zusätzliches Mermaid-/HTML-Diagramm darunter!
-   - **Wenn ein eigenes/neues Beispiel gezeichnet wird** (ohne fertiges Originalbild zu genau dieser Aufgabe): Notationsgetreues Diagramm per Mermaid (nur Formen aus der Tabelle unten) oder ASCII-Vorlage (Abschnitt 3) erstellen — und auf ein zusätzliches HTML-Diagramm verzichten.
+   - **Neues Thema / Symbol-Überblick / Notationsfrage:** **Immer und ausschließlich** die gerenderte Originalseite als Bild einbetten (`![... S. X](/absoluter/pfad/pX.png)`) — **kein** zusätzliches Mermaid-/HTML-Diagramm darunter!
+   - **Eigenes/neues Beispiel ohne passendes Originalbild** (z. B. frische Übungsaufgabe): Notationsgetreues Diagramm per Mermaid (nur Formen aus der Tabelle unten) oder ASCII-Vorlage (Abschnitt 3) erstellen — ohne `render` und ohne HTML-Diagramm.
 3. **Symbol-Legende direkt darunter:** Kurze Tabelle `Symbol → Bedeutung → Beschriftungsregel` (z. B. EPK-Ereignis = Sechseck, *Substantiv + Verb im Perfekt*).
 4. **Kennzeichnung:** Unter das Bild bzw. Diagramm: `✍️ Prüfungsnotation nach <Norm/Schulquelle, S. X>` – und bei bewusster Vereinfachung (z. B. Mermaid kann Form nicht exakt) ehrlich: `⚠️ In der Prüfung zeichnest du: <echte Form>`.
 
@@ -88,7 +90,9 @@ Beleg: **BGWP (2. LJ)** `BGWP_2LJ_Mitschrift` **S. 7–11** (Grundlagen, Konnekt
 | abgerundetes Rechteck | **Funktion** (aktiv, „Was soll jetzt gemacht werden?“) | Substantiv + Verb im **Infinitiv** („Ware vorbereiten“) | `F1(Ware vorbereiten)` |
 | Kreis mit `XOR` / `∧` / `∨` | Verknüpfungsoperator | – | `K1((XOR))` |
 
-Regeln (S. 8–9): Leserichtung **oben → unten**; jede EPK **beginnt und endet mit mind. einem Ereignis**; alle Symbole mit Linien verbunden. Organisationseinheiten/Informationsobjekte der eEPK vor dem Zeichnen auf **S. 11** prüfen (Formen dort ablesen, nicht raten).
+Regeln (`BGWP_2LJ_Mitschrift` S. 7–9): Leserichtung **oben → unten**; jede EPK **beginnt und endet mit mind. einem Ereignis**; Ereignis und Funktion wechseln sich grundsätzlich ab; alle Symbole mit Linien verbunden.
+- **Verzweigungsverbot nach Ereignis (Prüfungsfalle #1):** Da Ereignisse passiv sind, dürfen nach einem Ereignis **niemals `XOR`- oder `OR` (`∨`)-Gabelungen** folgen (`BGWP_2LJ_Mitschrift` S. 8) — Entscheidungen stehen ausschließlich nach einer **Funktion** (`AND` / `∧` nach Ereignis ist zulässig).
+- **eEPK-Zuordnungsregel (S. 7–8, 11):** **Organisationseinheiten** (gestrichelte Linie) und **Informationsobjekte** (Datenflusspfeil: `IO → Funktion` = Lesen, `Funktion → IO` = Schreiben) dürfen **nur an Funktionen**, niemals an Ereignisse angebunden werden. Formen vor dem Zeichnen auf **S. 11** prüfen (nicht raten).
 
 ### 2.5 UML-Zustandsdiagramm
 Beleg: **AE (2. LJ)** `AE_2LJ_Jac_Mitschrift` **S. 10–14** (Notation inkl. beschriftetem Geldautomat-Beispiel), Fehlerregeln **S. 18–19** (u. a. „nur 1 Startpunkt“).
@@ -134,11 +138,15 @@ flowchart LR
 ```
 
 ### 2.8 Netzplan (Vorgangsknoten-Netzplan)
-Beleg: **BGWP (1. LJ)** `Bgwp_schredl` **S. 37–45** (S. 41 fertiger Netzplan, S. 45 Prüfungsaufgabe).
-Knoten-Layout exakt nach S. 41 (Vorlage 3.2): **über** dem Knoten links `FAZ`, rechts `FEZ`; **im** Knoten oben `Nr | Vorgangsbezeichnung`, unten `Dauer | GP | FP`; **unter** dem Knoten links `SAZ`, rechts `SEZ`. Pfeile links → rechts, **kritischer Weg rot** (GP = 0).
+Beleg: **BGWP (1. LJ)** `Bgwp_schredl` **S. 37–45** (S. 41 fertiger Netzplan, S. 42 Knotenraster, S. 43 „2. Methode“, S. 45 Prüfungsaufgabe).
+Knoten-Layout exakt nach S. 41–42 (Vorlage 3.2): **über** dem Knoten links `FAZ`, rechts `FEZ`; **im** Knoten oben `Nr | Vorgangsbezeichnung`, unten `Dauer | GP | FP`; **unter** dem Knoten links `SAZ`, rechts `SEZ`. Pfeile links → rechts, **kritischer Weg rot** (GP = 0).
+
+**Zwei Rechenkonventionen sauber trennen:**
+- **IHK-Standard / Methode 1 (`Start = 0`, `Bgwp_schredl` S. 38–42, 45):** `FEZ = FAZ + D`, `SAZ = SEZ - D`, `GP = SAZ - FAZ`, `FP = min(FAZ_Nachfolger) - FEZ`.
+- **BGWP-Schulvariante „2. Methode“ (`Start = Tag 1`, `Bgwp_schredl` S. 43):** `FEZ = FAZ + D - 1`, `SAZ = SEZ - D + 1`, `GP = SAZ - FAZ`, `FP = min(FAZ_Nachfolger) - FEZ - 1`. Bei Aufgaben immer angeben, welche Methode gilt (für IHK-Prüfungen gilt Standard `Start = 0`).
 
 ### 2.9 Weitere feste Darstellungen
-- **BPMN 2.0** (AP1 neu): Beleg `BGWP_2LJ_Mitschrift` – vor dem Zeichnen Symbolseiten per `vault_lookup.rb topic "Business Process Model and Notation BPMN" --compact` laden und Formen (Start/Ende, Task, Gateway XOR/AND/OR, Pool/Lane) **aus der Quelle** übernehmen.
+- **BPMN 2.0** (AP1 neu): Beleg `BGWP_2LJ_Mitschrift` **S. 24–25** – vor dem Zeichnen Symbolseiten per `vault_lookup.rb topic "Business Process Model and Notation BPMN" --compact` laden und Formen (Start/Ende, Task, Gateway XOR/AND/OR, Pool/Lane) **aus der Quelle** übernehmen. **BGWP-Unterrichtskonvention:** Jedes BPMN-Diagramm erhält mindestens einen **Pool mit einer Lane**; Aktivitäten im Format *Substantiv + Verb* (in OMG-BPMN 2.0 / IHK-Einzelprozessen ist der Pool bei nur einem Teilnehmer optional).
 - **Entscheidungstabelle**: `Bgwp_schredl` **S. 24–27** → Markdown-Tabelle im Schul-Layout (Bedingungen/Aktionen × Regeln R1…Rn, `J`/`N`/`X`).
 - **Logikschaltungen**: `Grundausbildung_IT` **S. 1** → Wahrheitstabelle mit Spalten `E1 | E2 | A`.
 - **UML-Use-Case/Klasse, Gantt**: nur nach Laden der Belegseiten; Formen aus der Quelle übernehmen.

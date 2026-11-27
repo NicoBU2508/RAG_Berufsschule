@@ -104,3 +104,19 @@ Eine **implizite Typkonversion** erfolgt automatisch bei kompatiblen, größeren
 ?
 In **Python** müssen Variablen nicht vorab deklariert werden, sondern entstehen automatisch bei der ersten Wertzuweisung. Da `input()` immer eine Zeichenkette (`str`) zurückgibt, müssen eingelesene Zahlen vor Berechnungen explizit konvertiert werden (z. B. `int(input())`).
 *Quelle: AE Anwendungsentwicklung (2. LJ) · [Mitschrift_AE_Eix.pdf · S. 14, 16](<99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf#page=14>) (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]]*
+
+---
+
+<!-- card-id: variablen-und-datentypen-07 | typ: code_trace | pruefung: AP1/AP2 -->
+**Welchen Wert hat `erg` in Java nach: `int a = 7; int b = 2; double erg = a / b;`?**
+?
+**`3.0`**! Da `a` und `b` beide `int` sind, führt Java zuerst eine ganzzahlige Division (`7 / 2 = 3`) aus und wandelt erst danach implizit in `double` (`3.0`) um (für `3.5` wäre `(double) a / b` nötig).
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [02_Unternehmenswiki-7.Block.pdf · S. 29–30](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=29>) (von 71) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block|Quellnotiz]]*
+
+---
+
+<!-- card-id: variablen-und-datentypen-08 | typ: code_trace | pruefung: AP1/AP2 -->
+**Was passiert beim Kompilieren bzw. Ausführen dieses Java-Codes: `int x; System.out.println(x + 1);`?**
+?
+**Compiler-Fehler!** Die lokale Variable `x` wurde zwar deklariert, aber **nicht initialisiert** — sie darf in Java vor der ersten Wertzuweisung nicht ausgelesen werden.
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [02_Unternehmenswiki-7.Block.pdf · S. 20–21](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=20>) (von 71) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block|Quellnotiz]]*

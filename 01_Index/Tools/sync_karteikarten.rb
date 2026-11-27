@@ -88,6 +88,8 @@ class KarteikartenManager
       cmd_refresh_meta(argv)
     when "drill"
       cmd_drill(argv)
+    when "card"
+      cmd_card(argv)
     when "export-anki"
       cmd_export_anki(argv)
     when "export-notebooklm"
@@ -102,6 +104,7 @@ class KarteikartenManager
   # ---------- Subcommands ----------
 
   def cmd_sync
+    repaired_files = repair_all_source_page_totals!
     state = analyze_state
     status_written = VaultSupport.write_json_if_changed(STATUS_JSON_PATH, state)
     index_written = VaultSupport.write_if_changed(INDEX_PATH, build_index_markdown(state))
@@ -112,6 +115,7 @@ class KarteikartenManager
     puts "  Decks vorhanden: #{t['decks_total']} / #{t['canonical_topics']} Themen (#{t['cards_total']} Karten)"
     puts "  Prüfungsfokus: AP1-relevant=#{t['ap1_focus_cards']} (AP1=#{by_ex['AP1'] || 0}, AP1/AP2=#{by_ex['AP1/AP2'] || 0}) | AP2=#{by_ex['AP2'] || 0} | BS=#{by_ex['BS'] || 0}"
     puts "  Aktuell: #{t['decks_aktuell']} | Update nötig: #{t['decks_update_noetig']} | Fehlend: #{t['topics_ohne_deck']}"
+    puts "  Quell-Seitenzahlen `(von N)` aktualisiert: #{repaired_files} Deck(s)" if repaired_files.positive?
     if t["decks_update_noetig"].positive?
       puts "  ⚠️  Update nötig für:"
       state["decks_update_noetig"].each do |entry|
@@ -313,6 +317,7 @@ class KarteikartenManager
     fm["canonical_evidence"] = false
 
     updated_body = body.sub(/\(\*\*\d+ visuell geprüfte Seiten\*\*\)/, "(**#{pages.length} visuell geprüfte Seiten**)")
+    updated_body = refresh_source_page_totals(updated_body)
     rebuilt = dump_frontmatter(fm) + updated_body
     VaultSupport.write_if_changed(deck_abs, rebuilt)
     puts "Metadaten aktualisiert: #{deck_rel} (#{pages.length} Seiten, Hash #{hash}, Prüfung #{pruefung})"
@@ -320,8 +325,8 @@ class KarteikartenManager
   end
 
   def cmd_drill(argv)
-    shuffle = false
-    limit = nil
+    shuffle = nil
+    limit = 20
     exam_filter = nil
     due_only = false
     as_of = Date.today
@@ -334,24 +339,21 @@ class KarteikartenManager
       o.on("--as-of DATE", "Referenzdatum für --due (YYYY-MM-DD)") { |v| as_of = Date.parse(v) }
       o.on("--front-only", "Nur Vorderseiten ausgeben (ohne Antwort-Spoiler)") { front_only = true }
       o.on("--shuffle", "Karten zufällig mischen") { shuffle = true }
-      o.on("--limit N", Integer, "Maximal N Karten ausgeben") { |v| limit = v }
+      o.on("--no-shuffle", "Reihenfolge nicht mischen") { shuffle = false }
+      o.on("--limit N", Integer, "Maximal N Karten ausgeben (0 = alle, Standard: 20)") { |v| limit = v }
       o.on("--json", "Strukturiertes JSON ausgeben") { as_json = true }
     end.parse!(argv)
 
     target = argv.join(" ").strip
     abort "Bitte Thema, Kategorie oder 'all' angeben." if target.empty?
 
-    decks = collect_all_decks
-    matched = if target.casecmp("all").zero?
-                decks
+    is_all = target.casecmp("all").zero?
+    shuffle = is_all if shuffle.nil?
+
+    matched = if is_all
+                collect_all_decks
               else
-                q = target.downcase
-                decks.select do |d|
-                  d[:thema].downcase == q ||
-                    d[:kategorie].downcase == q ||
-                    d[:thema].downcase.include?(q) ||
-                    d[:kategorie].downcase.include?(q)
-                end
+                collect_matching_decks(target)
               end
 
     if matched.empty?
@@ -628,25 +630,114 @@ class KarteikartenManager
     cards_total = (decks_aktuell + decks_update_noetig).sum { |d| d["karten_anzahl"] } +
                   verwaiste_decks.sum { |d| d["karten_anzahl"] }
 
-    {
-      "schema_version" => 2,
-      "stand_quelle" => @audit_date,
-      "totals" => {
-        "canonical_topics" => @topics.length,
-        "decks_total" => decks_aktuell.length + decks_update_noetig.length,
-        "decks_aktuell" => decks_aktuell.length,
-        "decks_update_noetig" => decks_update_noetig.length,
-        "topics_ohne_deck" => topics_ohne_deck.length,
-        "verwaiste_decks" => verwaiste_decks.length,
-        "cards_total" => cards_total,
-        "ap1_focus_cards" => ap1_focus_cards,
-        "cards_by_exam" => cards_by_exam
-      },
-      "decks_update_noetig" => decks_update_noetig,
-      "decks_aktuell" => decks_aktuell,
-      "topics_ohne_deck" => topics_ohne_deck,
-      "verwaiste_decks" => verwaiste_decks
-    }
+      cards_index = all_cards.each_with_object({}) do |c, h|
+        h[c[:id]] = { "thema" => c[:thema], "pruefung" => c[:pruefung], "deck_path" => c[:deck_path] }
+      end
+
+      {
+        "schema_version" => 2,
+        "stand_quelle" => @audit_date,
+        "totals" => {
+          "canonical_topics" => @topics.length,
+          "decks_total" => decks_aktuell.length + decks_update_noetig.length,
+          "decks_aktuell" => decks_aktuell.length,
+          "decks_update_noetig" => decks_update_noetig.length,
+          "topics_ohne_deck" => topics_ohne_deck.length,
+          "verwaiste_decks" => verwaiste_decks.length,
+          "cards_total" => cards_total,
+          "ap1_focus_cards" => ap1_focus_cards,
+          "cards_by_exam" => cards_by_exam
+        },
+        "decks_update_noetig" => decks_update_noetig,
+        "decks_aktuell" => decks_aktuell,
+        "topics_ohne_deck" => topics_ohne_deck,
+        "verwaiste_decks" => verwaiste_decks,
+        "cards_index" => cards_index
+      }
+  end
+
+  def collect_matching_decks(target)
+    return [] unless CARDS_ROOT.directory?
+
+    q = target.downcase
+    candidate_paths = @topics.values.select do |info|
+      t_name = info["title"].to_s.downcase
+      cat = info["category"].to_s.downcase
+      t_name == q || cat == q || t_name.include?(q) || cat.include?(q)
+    end.map { |info| ROOT.join(deck_rel_for(info)) }.select(&:file?).uniq
+
+    if candidate_paths.any?
+      return candidate_paths.sort.map { |abs| parse_deck(abs, VaultSupport.relative(abs)) }.compact
+    end
+
+    collect_all_decks.select do |d|
+      d[:thema].downcase == q || d[:kategorie].downcase == q || d[:thema].downcase.include?(q) || d[:kategorie].downcase.include?(q)
+    end
+  end
+
+  def cmd_card(argv)
+    as_json = false
+    OptionParser.new { |o| o.on("--json", "JSON ausgeben") { as_json = true } }.parse!(argv)
+    cid = argv.join(" ").strip
+    abort "Bitte card-id angeben: card \"<card-id>\"" if cid.empty?
+
+    deck_rel = if STATUS_JSON_PATH.file?
+                 VaultSupport.read_json(STATUS_JSON_PATH).dig("cards_index", cid, "deck_path")
+               end
+    card = if deck_rel && ROOT.join(deck_rel).file?
+             parse_deck(ROOT.join(deck_rel), deck_rel)&.dig(:cards)&.find { |c| c[:id] == cid }
+           end
+    card ||= collect_all_decks.lazy.flat_map { |d| d[:cards] }.find { |c| c[:id] == cid }
+    abort "Karte nicht gefunden: #{cid}" unless card
+
+    if as_json
+      puts JSON.pretty_generate(card)
+    else
+      puts "## [#{card[:id]}] · #{card[:thema]} (#{card[:typ]} | #{card[:pruefung]})"
+      puts "**Q:** #{card[:front]}"
+      puts "**A:** #{card[:back]}"
+      puts "**Quelle:** #{card[:source]}" unless card[:source].empty?
+    end
+  end
+
+  def source_pages_by_pdf
+    @source_pages_by_pdf ||= begin
+      map = {}
+      @mapping.fetch("sources", {}).each_value do |src|
+        pdf = src["original_pdf"].to_s
+        pages = src["pages"].to_i
+        map[pdf] = pages if !pdf.empty? && pages.positive?
+      end
+      map
+    end
+  end
+
+  def refresh_source_page_totals(body)
+    by_pdf = source_pages_by_pdf
+    body.gsub(/(\[[^\]]+\.pdf\s*·\s*S\.\s*[0-9,\s–-]+\]\(<(99_Originale\/[^>]+)>\)\s*\(von\s+)\d+(\))/) do
+      prefix = Regexp.last_match(1)
+      pdf_rel = Regexp.last_match(2).split("#").first
+      suffix = Regexp.last_match(3)
+      actual = by_pdf[pdf_rel]
+      actual ? "#{prefix}#{actual}#{suffix}" : Regexp.last_match(0)
+    end
+  end
+
+  def repair_all_source_page_totals!
+    return 0 unless CARDS_ROOT.directory?
+
+    repaired = 0
+    Dir.glob(CARDS_ROOT.join("**/*.md").to_s).sort.each do |abs_path|
+      next if VaultSupport.relative(abs_path) == "05_Karteikarten/00_Karteikarten_Index.md"
+
+      raw = File.read(abs_path, encoding: "UTF-8")
+      updated = refresh_source_page_totals(raw)
+      if updated != raw
+        VaultSupport.write_if_changed(Pathname.new(abs_path), updated)
+        repaired += 1
+      end
+    end
+    repaired
   end
 
   def collect_all_decks

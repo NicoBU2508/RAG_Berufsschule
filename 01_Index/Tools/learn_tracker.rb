@@ -25,8 +25,8 @@ require "pathname"
 require "yaml"
 require_relative "lib/vault_support"
 
-module FSRS45
-  # Offizielle Open-Source-Standardgewichte (FSRS-4.5 / FSRS-5 Kurzzeit-Erweiterung), Ziel-Retention R = 0.90
+module FSRS5
+  # Offizielle Open-Source-Standardgewichte (FSRS-5, 19 Parameter W[0..18]), Ziel-Retention R = 0.90
   W = [
     0.4072, 1.1829, 3.1262, 15.4722,
     7.2102, 0.5316, 1.0651, 0.0234,
@@ -65,15 +65,16 @@ module FSRS45
     clamp_d(W[7] * d0_easy + (1.0 - W[7]) * d_prime)
   end
 
-  def review(prev_state, grade, today_date)
+  def review(prev_state, grade, today_date, exam_date: nil)
     g = [[grade.to_i, 1].max, 4].min
     reps = (prev_state && prev_state["reps"]).to_i
     lapses = (prev_state && prev_state["lapses"]).to_i
+    today_str = today_date.strftime("%Y-%m-%d")
+    same_day_boosts = (prev_state && prev_state["last_review"] == today_str) ? prev_state["same_day_boosts"].to_i : 0
 
     if reps.zero? || prev_state.nil? || prev_state["stability"].to_f <= 0
       s = init_stability(g)
       d = init_difficulty(g)
-      lapses += 1 if g == 1
       interval = initial_interval_days(g, s)
     else
       s_old = prev_state["stability"].to_f
@@ -83,28 +84,44 @@ module FSRS45
       r = retrievability(elapsed, s_old)
       d = next_difficulty(d_old, g)
 
-      if g == 1
+      if elapsed.zero?
+        # Gleicher Tag (FSRS-5 Kurzzeitformel + Cap auf max. 1 Stabilitaets-Boost pro Tag)
+        if g == 1
+          s = s_old * Math.exp(W[17] * (1.0 - 3.0 + W[18]))
+          s = [[s, 0.4].max, s_old * 0.8].min
+          interval = 1
+        elsif same_day_boosts >= 1 && g >= 3
+          s = s_old
+          interval = [s.round, 1].max
+        else
+          s = s_old * Math.exp(W[17] * (g - 3 + W[18]))
+          s = [s, 0.5].max
+          same_day_boosts += 1 if g >= 3
+          interval = g == 2 ? 1 : [s.round, 1].max
+        end
+      elsif g == 1
         lapses += 1
         s = W[11] * (d**-W[12]) * (((s_old + 1.0)**W[13]) - 1.0) * Math.exp(W[14] * (1.0 - r))
         s = [[s, 0.4].max, s_old * 0.7].min
         interval = 1
-      elsif elapsed.zero?
-        # Gleicher Tag (Kurzzeit-Wiederholung ohne kuenstliche Stabilitaetsexplosion)
-        s = s_old * Math.exp(W[17] * (g - 3 + W[18]))
-        s = [s, 0.5].max
-        interval = g == 2 ? 1 : [s.round, 1].max
       else
         hard_penalty = g == 2 ? W[15] : 1.0
         easy_bonus = g == 4 ? W[16] : 1.0
         inc = Math.exp(W[8]) * (11.0 - d) * (s_old**-W[9]) * (Math.exp(W[10] * (1.0 - r)) - 1.0) * hard_penalty * easy_bonus
         s = s_old * (1.0 + inc)
         interval = case g
-                   when 2 then [1, (s * 0.85).round].max
+                   when 2 then [1, s.round].max
                    when 3 then [2, s.round].max
                    when 4 then [4, s.round].max
                    else 1
                    end
       end
+    end
+
+    if exam_date && exam_date > today_date
+      days_left = (exam_date - today_date).to_i
+      max_pre_exam = [1, (days_left * 0.7).floor].max
+      interval = [interval, max_pre_exam].min if days_left <= 60 && interval > max_pre_exam
     end
 
     due = today_date + interval
@@ -114,9 +131,10 @@ module FSRS45
       "reps" => reps + 1,
       "lapses" => lapses,
       "interval_days" => interval,
-      "last_review" => today_date.strftime("%Y-%m-%d"),
+      "last_review" => today_str,
       "due_date" => due.strftime("%Y-%m-%d"),
-      "last_grade" => g
+      "last_grade" => g,
+      "same_day_boosts" => same_day_boosts
     }
   end
 
@@ -132,12 +150,13 @@ module FSRS45
 
   def parse_date(str)
     return nil if str.to_s.strip.empty?
-
     Date.parse(str.to_s)
   rescue ArgumentError
     nil
   end
 end
+
+FSRS45 = FSRS5 unless defined?(FSRS45)
 
 class LearnTracker
   ROOT = VaultSupport::ROOT
@@ -280,7 +299,7 @@ class LearnTracker
     if report[:pending_deck_updates].positive?
       puts "\n- ⚠️ **Karteikarten-Hinweis:** #{report[:pending_deck_updates]} Deck(s) haben neue PDF-Seiten (`sync_karteikarten.rb status --pending`)."
     end
-    puts "\n- **Fällige Karten abfragen:** `ruby 01_Index/Tools/sync_karteikarten.rb drill all --exam #{target_exam} --due --front-only --limit 10`"
+    puts "\n- **Fällige Karten abfragen:** `ruby 01_Index/Tools/sync_karteikarten.rb drill all --exam #{target_exam} --due --front-only --shuffle --limit 10`"
   end
 
   def cmd_record(argv)
@@ -528,7 +547,8 @@ class LearnTracker
 
   def update_card_fsrs!(state, card_id, canonical_topic, grade, confidence, today_date)
     prev = state["cards"][card_id]
-    updated = FSRS45.review(prev, grade, today_date)
+    exam_date = FSRS5.parse_date(state["exam_date"])
+    updated = FSRS5.review(prev, grade, today_date, exam_date: exam_date)
     updated["thema"] = canonical_topic
     updated["last_confidence"] = confidence if confidence
     state["cards"][card_id] = updated
@@ -537,6 +557,8 @@ class LearnTracker
 
   def update_topic_fsrs!(state, canonical_topic, grade, confidence, bloom, today_date, from_single_card: false)
     prev = state["topics"][canonical_topic]
+    today_str = today_date.strftime("%Y-%m-%d")
+    exam_date = FSRS5.parse_date(state["exam_date"])
     # Wenn bereits am selben Tag ueber eine andere Karte desselben Themas aktualisiert wurde,
     # mitteln wir sanft ueber die Karten des Themas statt die Themen-Reps 10x hochzuzaehlen.
     if from_single_card
@@ -549,9 +571,10 @@ class LearnTracker
         entry = (prev || {}).dup
         entry["stability"] = avg_s
         entry["difficulty"] = avg_d
-        entry["reps"] = [entry["reps"].to_i, 1].max
+        prev_reps = prev ? prev["reps"].to_i : 0
+        entry["reps"] = prev && prev["last_review"] == today_str ? [prev_reps, 1].max : prev_reps + 1
         entry["lapses"] = total_lapses
-        entry["last_review"] = today_date.strftime("%Y-%m-%d")
+        entry["last_review"] = today_str
         entry["due_date"] = earliest_due || (today_date + 1).strftime("%Y-%m-%d")
         entry["last_grade"] = grade
         entry["cards_practiced"] = topic_cards.length
@@ -561,7 +584,7 @@ class LearnTracker
       end
     end
 
-    updated = FSRS45.review(prev, grade, today_date)
+    updated = FSRS5.review(prev, grade, today_date, exam_date: exam_date)
     updated["mastery_bloom_max"] = prev["mastery_bloom_max"] if prev && prev["mastery_bloom_max"]
     updated["confidence_checks"] = prev["confidence_checks"].to_i if prev
     updated["high_conf_errors"] = prev["high_conf_errors"].to_i if prev
@@ -697,17 +720,27 @@ class LearnTracker
       ts = state["topics"][t_name]
       next unless ts
 
-      due_d = FSRS45.parse_date(ts["due_date"]) || today
-      last_d = FSRS45.parse_date(ts["last_review"]) || today
-      elapsed = [(today - last_d).to_i, 0].max
-      r_now = FSRS45.retrievability(elapsed, ts["stability"])
+      due_d = FSRS5.parse_date(ts["due_date"]) || today
+      last_d = FSRS5.parse_date(ts["last_review"]) || today
+      topic_cards = state["cards"].values.select { |c| c["thema"] == t_name }
+      r_now = if topic_cards.any?
+                topic_cards.sum do |c|
+                  c_last = FSRS5.parse_date(c["last_review"]) || last_d
+                  c_el = [(today - c_last).to_i, 0].max
+                  FSRS5.retrievability(c_el, c["stability"])
+                end / topic_cards.length
+              else
+                elapsed = [(today - last_d).to_i, 0].max
+                FSRS5.retrievability(elapsed, ts["stability"])
+              end
       pruefung = VaultSupport.exam_for_topic(t_name, @exam_registry)
 
       if due_d <= today
         overdue = (today - due_d).to_i
         # AP1-Kernthemen leicht vor AP1/AP2 priorisieren
         prio_bonus = pruefung == "AP1" ? 0.05 : 0.0
-        urgency = (1.0 - r_now) + (overdue * 0.04) + (ts["lapses"].to_i * 0.06) + prio_bonus
+        avg_lapses = topic_cards.any? ? (ts["lapses"].to_f / topic_cards.length) : ts["lapses"].to_f
+        urgency = (1.0 - r_now) + (overdue * 0.04) + (avg_lapses * 0.06) + prio_bonus
         due_topics << {
           topic: t_name,
           badge: VaultSupport.exam_badge(pruefung),
@@ -722,8 +755,16 @@ class LearnTracker
       end
 
       if days_until_exam
-        elapsed_at_exam = [(exam_date - last_d).to_i, 0].max
-        r_exam = FSRS45.retrievability(elapsed_at_exam, ts["stability"])
+        r_exam = if topic_cards.any?
+                   topic_cards.sum do |c|
+                     c_last = FSRS5.parse_date(c["last_review"]) || last_d
+                     c_el = [(exam_date - c_last).to_i, 0].max
+                     FSRS5.retrievability(c_el, c["stability"])
+                   end / topic_cards.length
+                 else
+                   elapsed_at_exam = [(exam_date - last_d).to_i, 0].max
+                   FSRS5.retrievability(elapsed_at_exam, ts["stability"])
+                 end
         if r_exam < 0.85
           exam_risk_topics << { topic: t_name, exam_r: r_exam.round(3), stability: ts["stability"] }
         end
@@ -816,7 +857,7 @@ class LearnTracker
     lines << "## 🔴 Aktive Denkfehler (Wiederholungs-Queue Tag +1 / Tag +7)"
     lines << ""
     if open_errs.empty?
-      lines << "_Aktuell keine offenen Denkfehler eingetragen. Sobald im Quiz, Rechentraining oder Karteikarten-Drill ein Denkfehler auftritt, trägt der `ap-lerncoach` ihn hier automatisch für deinen Tag-+1- und Tag-+7-Pretest ein._"
+      lines << "_Aktuell keine offenen Denkfehler eingetragen. Sobald im Karteikarten-Modus (bei aktiviertem Speichern) ein Denkfehler protokolliert wird, erscheint er hier für deinen Tag-+1- und Tag-+7-Pretest._"
       lines << ""
     else
       lines << "| ID | Thema | Typ | Sicherheit | Mein Denkfehler (*„Ich dachte …“*) | Korrektes Prinzip (*„Es gilt …“*) | Stufe & Nächster Check |"
@@ -912,7 +953,7 @@ class LearnTracker
     lines << "## 🧠 Gelernte Themen im FSRS-Gedächtnis (#{practiced_rows.length})"
     lines << ""
     if practiced_rows.empty?
-      lines << "_Noch keine Lernsession aufgezeichnet. Starte im Chat einfach ein Quiz, eine Übung oder den Karteikarten-Modus – der `ap-lerncoach` speichert deinen Fortschritt hier automatisch._"
+      lines << "_Noch keine Lernsession aufgezeichnet. Starte im Chat den Karteikarten-Modus und aktiviere bei Bedarf das Speichern, um deinen FSRS-Fortschritt hier zu verfolgen._"
       lines << ""
     else
       lines << "| Thema | Prüfung | Stabilität (S) | Schwierigkeit (D) | Durchgänge | Bloom-Max | Nächste Fälligkeit |"
@@ -937,6 +978,20 @@ class LearnTracker
     return @card_lookup if @card_lookup
 
     @card_lookup = {}
+    if CARDS_STATUS_PATH.file?
+      status_data = VaultSupport.read_json(CARDS_STATUS_PATH)
+      if status_data["cards_index"].is_a?(Hash) && !status_data["cards_index"].empty?
+        status_data["cards_index"].each do |cid, info|
+          @card_lookup[cid] = {
+            id: cid,
+            thema: info["thema"].to_s,
+            pruefung: info["pruefung"].to_s,
+            deck_path: info["deck_path"].to_s
+          }
+        end
+        return @card_lookup
+      end
+    end
     return @card_lookup unless CARDS_ROOT.directory?
 
     Dir.glob(CARDS_ROOT.join("**/*.md").to_s).sort.each do |abs_path|

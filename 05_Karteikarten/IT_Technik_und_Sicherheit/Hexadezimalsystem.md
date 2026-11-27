@@ -70,3 +70,12 @@ Zur Übertragung werden Informationen (z. B. Zeichen über den **ASCII-Code**) i
 ?
 Bildet man keine vollständigen **4er-Blöcke** mit führenden Nullen (z. B. `0001` für `1`) oder verwechselt die Buchstabenwerte (`A=10` bis `F=15`), entstehen falsche Stellenwerte (z. B. `1011` = `11` = `B`, nicht `11` als zwei Ziffern).
 *Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 3–4](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=3>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: hexadezimalsystem-07 | typ: berechnung | pruefung: AP1 -->
+**Wandle `0x3FA` direkt ins Binär- und ins Dezimalsystem um!**
+?
+- **Binär** (4er-Blöcke `8-4-2-1`): `3` = `0011`, `F (15)` = `1111`, `A (10)` = `1010` → **`0011 1111 1010`**
+- **Dezimal**: $3 \cdot 256 + 15 \cdot 16 + 10 \cdot 1 = 768 + 240 + 10 = \mathbf{1018}$.
+*Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 3–4](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=3>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*

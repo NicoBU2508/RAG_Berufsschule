@@ -39,7 +39,7 @@ tags:
 **Welche drei Bestandteile muss jede elektrotechnische Rechnung in Leistungsnachweisen zwingend enthalten?**
 ?
 1. Formel mit Formelbuchstaben (ggf. umgestellte Formel), 2. eingesetzte Zahlenwerte mit ihren Einheiten und 3. das unterstrichene Endergebnis (mit korrekter Einheit).
-*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 1, 44](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
+*Quelle: ITT IT-Technik (1. LJ) · [01_AB_Ladung Q.pdf · S. 1](<99_Originale/Berufsschule/ITT/1_LJ/It Elektro Wild/01_AB_Ladung Q.pdf#page=1>) (von 101) · [[02_Faecher/ITT_IT_Technik/Quellen/It_Elektro_Wild_01_AB_Ladung_Q|Quellnotiz]], OCR/Original prüfen*
 
 ---
 

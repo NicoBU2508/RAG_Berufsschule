@@ -112,3 +112,19 @@ Eine **einseitige** Verzweigung (`if`) führt Code nur bei `true` aus. Bei der *
 ?
 `break` muss jeden `case` zwingend beenden, damit der `switch`-Block verlassen wird und keine nachfolgenden Cases fälschlich ausgeführt werden. `default` greift als Standardfall, wenn kein definierter `case` zutrifft.
 *Quelle: AE Anwendungsentwicklung (1. LJ) · [Lernzettel _AEuP_Stößl.pdf · S. 1](<99_Originale/Berufsschule/AE/1_LJ/Stößl/Lernzettel _AEuP_Stößl.pdf#page=1>) (von 3) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_Lernzettel_AEuP_Stol|Quellnotiz]]*
+
+---
+
+<!-- card-id: operatoren-und-bedingungen-08 | typ: code_trace | pruefung: AP1/AP2 -->
+**Welchen Wahrheitswert liefert in Java/Pseudocode der Ausdruck `true || false && false`?**
+?
+**`true`**! Da **`&&` stärker bindet als `||`**, wird zuerst `false && false` (= `false`) ausgewertet, danach `true || false` (= `true`).
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [02_Unternehmenswiki-7.Block.pdf · S. 53](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=53>) (von 71) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block|Quellnotiz]]*
+
+---
+
+<!-- card-id: operatoren-und-bedingungen-09 | typ: code_trace | pruefung: AP1/AP2 -->
+**Welchen Wert hat `y` in Java nach: `int x = 5; int y = x++ * 2;`?**
+?
+**`y = 10`** (und `x` ist danach `6`), da Postinkrement `x++` den alten Wert `5` für die Multiplikation verwendet und `x` erst danach um 1 erhöht.
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [02_Unternehmenswiki-7.Block.pdf · S. 33](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=33>) (von 71) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block|Quellnotiz]]*

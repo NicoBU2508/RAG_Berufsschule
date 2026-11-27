@@ -32,7 +32,7 @@ WORK_TMP = Pathname.new("/tmp/ap_lernhelfer_import")
 BINARY_PATH = WORK_TMP.join("bin/goodnotes_pdf_tool")
 MODCACHE_PATH = WORK_TMP.join("modcache")
 REVIEW_ROOT = WORK_TMP.join("review")
-FP_CACHE_PATH = WORK_TMP.join("original_fingerprints.json")
+FP_CACHE_PATH = ROOT.join("01_Index/Auditdaten/PDF_Fingerprints.json")
 MANIFEST_PATH = ROOT.join("manifest.json")
 DUPLICATES_PATH = ROOT.join("01_Index/Auditdaten/PDF_Duplikatnachweis.json")
 

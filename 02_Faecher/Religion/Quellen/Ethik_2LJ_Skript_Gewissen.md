@@ -178,6 +178,7 @@ Psychologie:
   2. Es: Es beschreibt die Triebe, die wir als Mensch von Natur ausleben möchten.
   3. Ich: Was gesunde Menschen für sich selbst definieren und wodurch dann Schuldgefühle, schlechtes Gewissen entstehen.
   => Das Gewissen gehört damit zum Ich
+  [Korrekturhinweis zur Schüler-Mitschrift: In Sigmund Freuds klassischem Instanzenmodell ist das **Über-Ich** Sitz des moralischen Gewissens und der Schuldgefühle, während das **Ich** nach dem Realitätsprinzip zwischen Es, Über-Ich und Außenwelt vermittelt.]
 
 Religion:
 - Vertreter: Thomas von Aquin (roter Pfeil zum Porträt)

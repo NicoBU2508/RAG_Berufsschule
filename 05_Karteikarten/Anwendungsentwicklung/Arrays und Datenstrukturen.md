@@ -87,8 +87,16 @@ Ein **zweidimensionales Array** bildet eine **Tabelle** mit `m · n` Elementen �
 
 ---
 
-<!-- card-id: arrays-und-datenstrukturen-06 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: arrays-und-datenstrukturen-06 | typ: abgrenzung | pruefung: AP2 -->
 **Wann nutzt man die lineare (sequentielle) Suche und welche Voraussetzung erfordert die binäre Suche?**
 ?
 Die **lineare Suche** prüft ein Array Element für Element und funktioniert auch bei **unsortierten Arrays** (Suchaufwand steigt mit `n`). Die effizientere **binäre Suche** halbiert in jedem Schritt den Suchbereich über das mittlere Element, setzt aber zwingend ein **sortiertes Array** voraus.
 *Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 44](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+
+---
+
+<!-- card-id: arrays-und-datenstrukturen-07 | typ: code_trace | pruefung: AP1/AP2 -->
+**Schreibtischtest (1D-Array): `int[] a = {4, 8, 2, 10}; int s = 0; for (int i = 1; i < a.length; i++) { s += a[i]; }`. Welchen Wert hat `s` am Ende?**
+?
+**`20`**! Die Schleife startet bei Index `i = 1` (`a[1]=8`, `a[2]=2`, `a[3]=10`) und überspringt `a[0] = 4`: $8 + 2 + 10 = 20$.
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [02_Unternehmenswiki-7.Block.pdf · S. 66, 69](<99_Originale/Berufsschule/AE/1_LJ/Stößl/02_Unternehmenswiki-7.Block.pdf#page=66>) (von 71) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/Stol_02_Unternehmenswiki_7_Block|Quellnotiz]]*

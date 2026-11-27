@@ -45,59 +45,26 @@ Hochverfügbarkeit ist eine Weiterführung der Fehlertoleranz, bei der Systeme a
 
 ---
 
-<!-- card-id: hochverfuegbarkeit-und-redundanz-02 | typ: definition | pruefung: AP1/AP2 -->
-**Was ist ein RAID-System und welches Grundziel verfolgt es?**
+<!-- card-id: hochverfuegbarkeit-und-redundanz-02 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
+**Warum ersetzt Redundanz (z. B. RAID oder zweites Netzteil) kein Backup?**
 ?
-RAID (*Redundant Array of Independent Disks*) kombiniert mehrere Festplatten zu einem logischen Laufwerk und verteilt oder spiegelt Daten mit gezielten Redundanzinformationen. So behält das System bei Ausfall einzelner Speichermedien seine Funktionalität und Integrität, sodass Daten rekonstruiert werden können.
-*Quelle: ITT IT-Technik (2. LJ) · [Mitschriften_Abde.pdf · S. 3](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=3>) (von 7) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften|Quellnotiz]], OCR/Original prüfen*
-
----
-
-<!-- card-id: hochverfuegbarkeit-und-redundanz-03 | typ: abgrenzung | pruefung: AP1/AP2 -->
-**Wie unterscheiden sich RAID 0, RAID 1 und RAID 10 hinsichtlich Mindestplattenanzahl, Ausfalltoleranz und Nettokapazität (bei `n` gleichen Platten der Größe `S`)?**
-?
-- **RAID 0 (Striping):** mind. 2 Platten, Ausfalltoleranz 0 (Totalverlust bei Ausfall), Kapazität `K = n * S`.
-- **RAID 1 (Mirroring):** mind. 2 Platten, Ausfalltoleranz 1 Platte, Kapazität `K = 0,5 * n * S` (50 % Nutzung).
-- **RAID 10 (RAID 1+0):** mind. 4 Platten, Ausfalltoleranz mind. 1 Platte (max. `n/2`, falls nicht beide Platten eines Spiegels ausfallen), Kapazität `K = 0,5 * n * S`.
-*Quelle: ITT IT-Technik (2. LJ) · [Mitschriften_Abde.pdf · S. 3](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=3>) (von 7) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften|Quellnotiz]], OCR/Original prüfen*
-
----
-
-<!-- card-id: hochverfuegbarkeit-und-redundanz-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
-**Worin unterscheiden sich RAID 5 und RAID 6 bei Parität, Mindestanzahl der Platten, Ausfalltoleranz und Nettokapazität?**
-?
-- **RAID 5:** Striping mit einfacher verteilter Parität; mind. 3 Platten, Ausfalltoleranz 1 Platte, Nettokapazität `K = (n - 1) * S`.
-- **RAID 6:** Striping mit doppelter verteilter Parität; mind. 4 Platten, Ausfalltoleranz 2 Platten gleichzeitig, Nettokapazität `K = (n - 2) * S` (dafür sehr langsames Schreiben und lange Rebuilds).
+Redundanz erhöht nur die **Ausfallsicherheit** bei Hardware-Defekten, sodass der Betrieb weiterläuft. Logische Fehler, Ransomware oder versehentliches Löschen werden sofort auf alle redundanten Medien gespiegelt — nur ein **getrenntes Backup** stellt frühere Datenstände wieder her.
 *Quelle: ITT IT-Technik (2. LJ) · [Mitschriften_Abde.pdf · S. 4](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=4>) (von 7) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
-<!-- card-id: hochverfuegbarkeit-und-redundanz-05 | typ: anwendung | pruefung: AP1/AP2 -->
-**Ein NAS mit 4 Festplatten soll 12 TiByte Nettokapazität bereitstellen. Welche Plattengröße (aus 4, 6 oder 8 TiByte) ist nötig und wie viele Platten dürfen bei RAID 10 bzw. RAID 5 maximal gleichzeitig ausfallen?**
+<!-- card-id: hochverfuegbarkeit-und-redundanz-03 | typ: fallentscheidung | pruefung: AP1/AP2 -->
+**Ein Webserver hat ein redundantes Netzteil (N+1), aber nur einen einzigen Uplink-Switch zum Router. Ist der Netzwerkpfad hochverfügbar?**
 ?
-Bei RAID 5 (`K = (4 - 1) * S`) reichen 4-TiByte-Platten (3 × 4 = 12 TiByte), bei RAID 10 (`K = 0,5 * 4 * S`) sind 6-TiByte-Platten nötig (2 × 6 = 12 TiByte). Ohne Datenverlust dürfen bei RAID 5 maximal 1 Platte und bei RAID 10 bis zu 2 Platten aus unterschiedlichen Spiegelpaaren gleichzeitig ausfallen.
-*Quelle: ITT IT-Technik (2. LJ) · [Mitschriften_Abde.pdf · S. 5](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=5>) (von 7) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften|Quellnotiz]], OCR/Original prüfen*
+**Nein.** Der einzelne Uplink-Switch ist ein **Single Point of Failure (SPOF)**: Fällt er aus, ist der gesamte Server nicht mehr erreichbar. Für echte Hochverfügbarkeit müssen alle kritischen Komponenten der Kette (Netzteil, Switch, Firewall, Storage) redundant ausgelegt sein.
+*Quelle: ITT IT-Technik (1. LJ) · [Aufgabe 1.pdf · S. 3](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3>) (von 4) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1|Quellnotiz]]*
 
 ---
 
-<!-- card-id: hochverfuegbarkeit-und-redundanz-06 | typ: definition | pruefung: AP1/AP2 -->
-**Welche Funktion hat eine Hot-Spare-Festplatte in einem RAID-Verbund und was leistet die Parität?**
+<!-- card-id: hochverfuegbarkeit-und-redundanz-04 | typ: fallentscheidung | pruefung: AP1/AP2 -->
+**In einem Krankenhaus-Rechenzentrum darf ein Ausfall des Patientendaten-Servers maximal wenige Sekunden dauern. Welches Standby-Konzept (Bare Metal, Cold Standby, Hot Standby) ist erforderlich?**
 ?
-Eine **Hot-Spare-Festplatte** ist eine eingebaute, betriebsbereite Reserveplatte, die im Normalbetrieb ungenutzt bleibt und bei Ausfall einer aktiven Platte automatisch einspringt. Die **Parität** ist eine aus den Datenblöcken berechnete Prüfinformation, mit der ein verlorener Datenblock wiederhergestellt werden kann.
-*Quelle: ITT IT-Technik (2. LJ) · [Mitschriften_Abde.pdf · S. 4–5](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=4>) (von 7) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften|Quellnotiz]], OCR/Original prüfen*
+**Hot Standby**, da das Ersatzsystem permanent mitläuft (synchronisiert) und bei Ausfall des Primärsystems automatisch und nahezu unterbrechungsfrei übernimmt (Cold Standby müsste erst hochgefahren, Bare Metal erst bespielt werden).
+*Quelle: ITT IT-Technik (1. LJ) · [Aufgabe 1.pdf · S. 3](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Aufgabe 1.pdf#page=3>) (von 4) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Aufgabe_1|Quellnotiz]]*
 
----
-
-<!-- card-id: hochverfuegbarkeit-und-redundanz-07 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
-**Warum ersetzt ein RAID-System (z. B. RAID 1, 5 oder 6) kein Backup?**
-?
-Ein RAID erhöht nur die Ausfallsicherheit beim Defekt einzelner Festplatten, sodass das System weiterläuft und Daten rekonstruiert werden können. Logische Schäden oder ungewollte Änderungen/Löschungen werden sofort auf alle Platten gespiegelt – für die Wiederherstellung früherer Stände bleiben eigenständige Backups (z. B. inkrementell oder differenziell) unverzichtbar.
-*Quelle: ITT IT-Technik (2. LJ) · [Mitschriften_Abde.pdf · S. 4](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=4>) (von 7) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften|Quellnotiz]], OCR/Original prüfen*
-
----
-
-<!-- card-id: hochverfuegbarkeit-und-redundanz-08 | typ: anwendung | pruefung: AP1/AP2 -->
-**Für einen Datenbankserver werden 26 TiB Nettokapazität (10 TiB Datenbank + 6 TiB Nutzdaten + 10 TiB Puffer) auf 4-TiB-Festplatten benötigt. Wie viele Festplatten sind bei RAID 6 mit einer Hot-Spare-Festplatte mindestens erforderlich?**
-?
-Mindestens **10 Festplatten** (`40 TiB` brutto): `26 TiB / 4 TiB = 6,5` → aufgerundet **7 Datenplatten** (`28 TiB` netto ≥ `26 TiB`), plus **2 Paritätsplatten** für RAID 6 (`K = (n - 2) * S`) sowie **1 Hot-Spare-Festplatte** als Reserve.
-*Quelle: ITT IT-Technik (2. LJ) · [Mitschriften_Abde.pdf · S. 7](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Abded/Mitschriften_Abde.pdf#page=7>) (von 7) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Abded_Mitschriften|Quellnotiz]], OCR/Original prüfen*
+*(Hinweis: Spezifische RAID-Level 0/1/5/6/10 und Kapazitätsberechnungen befinden sich im AP2-Deck [[05_Karteikarten/IT_Technik_und_Sicherheit/RAID-Systeme|RAID-Systeme]].)*

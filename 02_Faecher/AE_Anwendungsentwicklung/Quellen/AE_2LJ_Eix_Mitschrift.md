@@ -408,6 +408,7 @@ matischer Zeilenumbruch
 eingefügt – dafür können
 Sie u. A. \n in den Ausga-
 bestream einfügen.
+[Korrekturhinweis zur Druckvorlage: In Python 3 fügt `print()` standardmäßig `end="\n"` (automatischen Zeilenumbruch) an; `end=""` unterdrückt ihn.]
 ￼
 entsprechende Konsolenausgabe
 ￼
@@ -940,6 +941,7 @@ ergebnis = f_zahl2 + c_zahl3 // Ergebnis: Typ:
 Erzwungene Typumwandlung
 Wenn man einen bestimmten Datentyp erzwingen möchte, schreibt man diesen Typ in Klammern vor
 den Ausdruck, der berechnet wird. (=explizites Casting)
+[Korrekturhinweis zur Druckvorlage (C/Java-Vorlagenfehler): In Python erfolgt explizites Casting über Konstruktor-Funktionen `int(ausdruck)`, `float(ausdruck)`, `str(ausdruck)` — die Schreibweise `(int) ausdruck` führt in Python zu einem `SyntaxError`.]
 Beispiel:
 i_zahl1 = 5
 i_zahl2 = 6

@@ -20,7 +20,8 @@ AUDIT_PATH = ROOT.join("01_Index/PDF_Seitenaudit.json")
 EXAM_MAPPING_PATH = ROOT.join("01_Index/Pruefungskatalog_Mapping.json")
 CONFUSION_PAIRS_PATH = ROOT.join("01_Index/Verwechslungspaare.json")
 ALTKLAUSUREN_INDEX_PATH = ROOT.join("01_Index/Altklausuren_Index.json")
-MAX_PAGE_CHARS_DEFAULT = 6000
+BM25_CACHE_PATH = ROOT.join("01_Index/BM25_Seitenindex.json")
+MAX_PAGE_CHARS_DEFAULT = 7000
 
 EXACT_TOPIC_ALIASES = {
   "db" => "Datenbankgrundlagen und Datenbankentwicklung",
@@ -35,13 +36,8 @@ EXACT_TOPIC_ALIASES = {
   "er" => "Datenbankmodellierung und ER-Modell",
   "erm" => "Datenbankmodellierung und ER-Modell",
   "er modell" => "Datenbankmodellierung und ER-Modell",
-  "normalisierung" => "Datenbankmodellierung und ER-Modell",
-  "1nf" => "Datenbankmodellierung und ER-Modell",
-  "2nf" => "Datenbankmodellierung und ER-Modell",
-  "3nf" => "Datenbankmodellierung und ER-Modell",
   "sql" => "SQL-Grundlagen und SELECT-Abfragen",
   "select" => "SQL-Grundlagen und SELECT-Abfragen",
-  "join" => "SQL-Grundlagen und SELECT-Abfragen",
   "having" => "SQL-Aggregatfunktionen und Gruppierung",
   "group by" => "SQL-Aggregatfunktionen und Gruppierung",
   "insert" => "SQL-Datenmanipulation INSERT UPDATE DELETE",
@@ -67,10 +63,7 @@ EXACT_TOPIC_ALIASES = {
   "mfa" => "Sicherheitsmanagement und Maßnahmen",
   "pdca" => "Sicherheitsmanagement und ISMS",
   "isms" => "Sicherheitsmanagement und ISMS",
-  "tom" => "Datenschutz und Rollen",
-  "toms" => "Datenschutz und Rollen",
   "dsgvo" => "Datenschutz und Rollen",
-  "avv" => "Datenschutz und Rollen",
   "sla" => "IT-Servicearten und Service-Management",
   "helpdesk" => "IT-Servicearten und Service-Management",
   "spoc" => "IT-Servicearten und Service-Management",
@@ -132,7 +125,21 @@ NOT_IN_VAULT_HINTS = {
   "slaac" => "IPv6 / SLAAC vs. DHCPv6 ist laut AP1-Checkliste 3.4 noch eine Vault-Lücke.",
   "nachkalkulation" => "Nachkalkulation & Abweichungsanalyse ist laut AP1-Checkliste 5.3 aktuell nicht eigenständig im Vault abgedeckt.",
   "active directory" => "Client-Domänenintegration / Active Directory / GPO ist laut AP1-Checkliste 3.1 noch eine Vault-Lücke.",
-  "gpo" => "Active Directory / Gruppenrichtlinien (GPO) ist laut AP1-Checkliste 3.1 noch eine Vault-Lücke."
+  "gpo" => "Active Directory / Gruppenrichtlinien (GPO) ist laut AP1-Checkliste 3.1 noch eine Vault-Lücke.",
+  "1nf" => "Normalisierung (1NF/2NF/3NF) ist laut Lückenanalyse (AP2-Ausbau) noch nicht im Vault belegt (verwandte Basis: Datenbankmodellierung und ER-Modell).",
+  "2nf" => "Normalisierung (1NF/2NF/3NF) ist laut Lückenanalyse (AP2-Ausbau) noch nicht im Vault belegt (verwandte Basis: Datenbankmodellierung und ER-Modell).",
+  "3nf" => "Normalisierung (1NF/2NF/3NF) ist laut Lückenanalyse (AP2-Ausbau) noch nicht im Vault belegt (verwandte Basis: Datenbankmodellierung und ER-Modell).",
+  "normalisierung" => "Normalisierung (1NF/2NF/3NF) ist laut Lückenanalyse (AP2-Ausbau) noch nicht im Vault belegt (verwandte Basis: Datenbankmodellierung und ER-Modell).",
+  "join" => "SQL-JOINs (INNER/LEFT/RIGHT JOIN) sind laut Lückenanalyse (AP2-Ausbau) noch nicht im Vault belegt (vorhanden: Ein-Tabellen-Abfragen unter SQL-Grundlagen und SELECT-Abfragen).",
+  "sql join" => "SQL-JOINs (INNER/LEFT/RIGHT JOIN) sind laut Lückenanalyse (AP2-Ausbau) noch nicht im Vault belegt (vorhanden: SQL-Grundlagen und SELECT-Abfragen).",
+  "tom" => "TOMs (Technische und organisatorische Maßnahmen nach Art. 32 DSGVO) sind laut Lückenanalyse noch nicht im Vault belegt (verwandt: Datenschutz und Rollen).",
+  "toms" => "TOMs (Technische und organisatorische Maßnahmen nach Art. 32 DSGVO) sind laut Lückenanalyse noch nicht im Vault belegt (verwandt: Datenschutz und Rollen).",
+  "avv" => "AVV (Auftragsverarbeitungsvertrag nach Art. 28 DSGVO) ist laut Lückenanalyse noch nicht im Vault belegt (verwandt: Datenschutz und Rollen).",
+  "werkvertrag" => "Werkvertrag vs. Dienstvertrag hat aktuell keine verifizierten Quellseiten im Vault (vorhanden: Kaufvertrag und Geschäftsfähigkeit).",
+  "dienstvertrag" => "Werkvertrag vs. Dienstvertrag hat aktuell keine verifizierten Quellseiten im Vault (vorhanden: Kaufvertrag und Geschäftsfähigkeit).",
+  "sortieralgorithmen" => "Sortieralgorithmen (Bubblesort, Quicksort, Mergesort) sind laut AP2-Ausbauplan noch eine Vault-Lücke (vorhanden: Suchalgorithmen).",
+  "bubblesort" => "Sortieralgorithmen (Bubblesort etc.) sind laut AP2-Ausbauplan noch eine Vault-Lücke (vorhanden: Suchalgorithmen).",
+  "quicksort" => "Sortieralgorithmen (Quicksort etc.) sind laut AP2-Ausbauplan noch eine Vault-Lücke (vorhanden: Suchalgorithmen)."
 }.freeze
 
 STOPWORDS = %w[
@@ -238,7 +245,9 @@ SYNONYMS = {
   "leasing" => %w[wirtschaftlichkeit kaufvertrag finanzierung],
   "faz" => %w[projektplanung netzplanmethode fez saz sez gesamtpuffer],
   "gp" => %w[gesamtpuffer freier puffer kritischer pfad netzplanmethode],
-  "netzplan" => %w[projektplanung netzplanmethode kritischer pfad puffer],
+  "netzplan" => %w[projektplanung netzplanmethode kritischer pfad puffer netzwerktechnik topologie],
+  "vertragsrecht" => %w[kaufvertrag willenserklaerung geschaeftsfaehigkeit formvorschriften antrag annahme],
+  "vertragsarten" => %w[kaufvertrag handelskauf stueckkauf gattungskauf],
   "smart" => %w[unternehmensziele projektmanagement spezifisch messbar],
   "bgb" => %w[kaufvertrag rechtsgeschaefte besitz eigentum maengel],
   "lohn" => %w[lohn- gehaltsabrechnung sozialversicherung steuerklasse],
@@ -409,9 +418,9 @@ class VaultLookup
     when "AP1-ONLY", "AP1_ONLY"
       val == "AP1"
     when "AP2"
-      val == "AP2" || val == "AP1/AP2"
+      val == "AP2" || val == "AP1/AP2" || val.start_with?("AP2_")
     when "AP2-ONLY", "AP2_ONLY"
-      val == "AP2"
+      val == "AP2" || val.start_with?("AP2_")
     when "BS", "BERUFSSCHULE"
       val == "BS"
     else
@@ -557,8 +566,52 @@ class VaultLookup
 
   # ---------- BM25 & Fuzzy Index ----------
 
+  def bm25_source_mtime_max
+    times = [MAPPING_PATH, AUDIT_PATH, Pathname.new(__FILE__)].select(&:file?).map { |p| File.mtime(p).to_f }
+    @sources.each_key do |srel|
+      p = ROOT.join(srel)
+      times << File.mtime(p).to_f if p.file?
+    end
+    times.max || 0.0
+  end
+
   def ensure_bm25_index!
     return @bm25_index if @bm25_index
+
+    expected_mtime = bm25_source_mtime_max
+    if BM25_CACHE_PATH.file?
+      begin
+        cached = JSON.parse(File.read(BM25_CACHE_PATH, encoding: "UTF-8"))
+        if cached["version"] == 1 && cached["source_mtime"].to_f >= expected_mtime && cached["docs"].is_a?(Array)
+          docs = cached["docs"].map do |d|
+            {
+              page_id: d["pid"],
+              source_rel: d["sr"],
+              page_num: d["pn"],
+              original_pdf: d["pdf"],
+              meta: @pages_by_id[d["pid"]] || {},
+              text: d["txt"],
+              heading_preview: d["hp"],
+              heading_norm: d["hn"],
+              tf: d["tf"],
+              dl: d["dl"]
+            }
+          end
+          @bm25_index = {
+            docs: docs,
+            df: cached["df"],
+            n_docs: docs.length,
+            avg_dl: cached["avg_dl"].to_f,
+            vocab: cached["vocab"],
+            trigram_map: nil,
+            tri_len: nil
+          }
+          return @bm25_index
+        end
+      rescue StandardError
+        # Fallback auf Neuaufbau bei defektem Cache
+      end
+    end
 
     docs = []
     df = Hash.new(0)
@@ -605,7 +658,6 @@ class VaultLookup
           original_pdf: src[:original_pdf],
           meta: meta,
           text: text,
-          norm_text: norm_text,
           heading_preview: heading_preview,
           heading_norm: heading_norm,
           tf: tf,
@@ -615,9 +667,31 @@ class VaultLookup
     end
 
     avg_dl = docs.empty? ? 1.0 : docs.sum { |d| d[:dl] }.to_f / docs.length
-    trigram_map = Hash.new { |h, k| h[k] = [] }
-    vocab.each_key do |word|
-      trigrams_for(word).each { |tri| trigram_map[tri] << word }
+
+    begin
+      payload = {
+        "version" => 1,
+        "source_mtime" => expected_mtime,
+        "avg_dl" => avg_dl,
+        "df" => df,
+        "vocab" => vocab,
+        "docs" => docs.map do |d|
+          {
+            "pid" => d[:page_id],
+            "sr" => d[:source_rel],
+            "pn" => d[:page_num],
+            "pdf" => d[:original_pdf],
+            "hp" => d[:heading_preview],
+            "hn" => d[:heading_norm],
+            "dl" => d[:dl],
+            "tf" => d[:tf],
+            "txt" => d[:text]
+          }
+        end
+      }
+      File.write(BM25_CACHE_PATH, JSON.generate(payload), encoding: "UTF-8")
+    rescue StandardError
+      # Read-only Dateisystem tolerieren
     end
 
     @bm25_index = {
@@ -626,8 +700,23 @@ class VaultLookup
       n_docs: docs.length,
       avg_dl: avg_dl,
       vocab: vocab,
-      trigram_map: trigram_map
+      trigram_map: nil,
+      tri_len: nil
     }
+  end
+
+  def ensure_trigrams!(idx)
+    return if idx[:trigram_map]
+
+    trigram_map = Hash.new { |h, k| h[k] = [] }
+    tri_len = {}
+    idx[:vocab].each_key do |word|
+      tris = trigrams_for(word)
+      tri_len[word] = tris.length
+      tris.each { |tri| trigram_map[tri] << word }
+    end
+    idx[:trigram_map] = trigram_map
+    idx[:tri_len] = tri_len
   end
 
   def trigrams_for(word)
@@ -670,19 +759,29 @@ class VaultLookup
   def fuzzy_correct_token(tok, idx)
     return nil if tok.length < 6 || idx[:vocab][tok] || SYNONYMS.key?(tok) || SUBJECT_HINTS.key?(tok) || EXACT_TOPIC_ALIASES.key?(tok) || NOT_IN_VAULT_HINTS.key?(tok)
 
+    ensure_trigrams!(idx)
     q_tris = trigrams_for(tok)
+    max_dist = tok.length >= 7 ? 2 : 1
+    min_shared = [q_tris.length - (3 * max_dist), 1].max
+    min_len = tok.length - max_dist
+    max_len = tok.length + max_dist
+
     cand_hits = Hash.new(0)
     q_tris.each do |tri|
-      idx[:trigram_map][tri].each { |w| cand_hits[w] += 1 }
+      list = idx[:trigram_map][tri]
+      next if list.empty?
+      list.each do |w|
+        wl = w.length
+        cand_hits[w] += 1 if wl >= min_len && wl <= max_len
+      end
     end
 
-    max_dist = tok.length >= 7 ? 2 : 1
     best_word = nil
     best_score = -1.0
 
     cand_hits.each do |word, shared|
-      next if (word.length - tok.length).abs > max_dist
-      union_len = q_tris.length + trigrams_for(word).length - shared
+      next if shared < min_shared
+      union_len = q_tris.length + (idx[:tri_len][word] || trigrams_for(word).length) - shared
       jaccard = union_len.positive? ? shared.to_f / union_len : 0.0
       next if jaccard < 0.28
 
@@ -798,7 +897,7 @@ class VaultLookup
 
       term_weights.each do |term, weight|
         tf = doc[:tf][term] || 0
-        if tf.zero? && term.length >= 5 && doc[:norm_text].include?(term)
+        if tf.zero? && term.length >= 5 && doc[:tf].each_key.any? { |k| k.include?(term) }
           bm25 += 1.6 * weight
           matched_any += 1
           matched_primary += 1 if weight >= 0.85
@@ -814,7 +913,7 @@ class VaultLookup
         matched_primary += 1 if weight >= 0.85
       end
 
-      phrase_hit = phrase.length >= 3 && doc[:norm_text].include?(phrase)
+      phrase_hit = phrase.length >= 3 && matched_any >= [effective_tokens.length - 1, 1].max && normalize(doc[:text]).include?(phrase)
       next if matched_any.zero? && !phrase_hit
 
       if effective_tokens.length >= 2 && matched_primary.zero? && matched_any < 2 && !phrase_hit
@@ -904,6 +1003,9 @@ class VaultLookup
   end
 
   def cmd_find(query, category_filter: nil, exam_filter: nil, type_filter: nil, limit: 8)
+    analyzed_pre = analyze_query_tokens(tokenize(query))
+    vault_gap_hint = not_in_vault_hint_for(query, analyzed_pre[:core_tokens])
+
     res = rank_search(query, category_filter: category_filter, exam_filter: exam_filter, type_filter: type_filter)
     ranked_topics = res[:ranked_topics].first(limit)
     ranked_pages = res[:page_hits].first(limit)
@@ -911,6 +1013,7 @@ class VaultLookup
     exam_suffix = exam_filter ? " · Pruefungsfilter: #{exam_filter.upcase}" : ""
     type_suffix = type_filter ? " · Typfilter: #{type_filter}" : ""
     puts "# Schnellsuche: \"#{query}\"#{exam_suffix}#{type_suffix}"
+    puts "> [!warning] VAULT-LÜCKE: #{vault_gap_hint}" if vault_gap_hint
     unless res[:corrections].empty?
       corr_str = res[:corrections].map { |orig, fix| "\"#{orig}\" → \"#{fix}\"" }.join(", ")
       puts "> Fuzzy-Autokorrektur aktiv: #{corr_str}"
@@ -926,9 +1029,8 @@ class VaultLookup
     else
       ranked_topics.each do |sc, name, info|
         puts "- **#{name}** [#{exam_badge(name)} | #{info['category']}] · #{info['pages'].length} S. · Score #{sc.round(1)}"
-        puts "  - Seiten: `ruby .agents/skills/ap-lerncoach/scripts/vault_lookup.rb topic \"#{name}\" --compact`"
-        puts "  - Aufgaben-Paket: `ruby .agents/skills/ap-lerncoach/scripts/vault_lookup.rb tasks \"#{name}\"`"
       end
+      puts "  *Abruf:* `vault_lookup.rb topic \"<Thema>\" --compact` · *Aufgaben:* `vault_lookup.rb tasks \"<Thema>\"`"
     end
 
     puts "\n## Konkrete Belegseiten (#{ranked_pages.length} von #{res[:page_hits].length} Treffern)"
@@ -1021,6 +1123,9 @@ class VaultLookup
     elsif best_match || (ranked.length >= 2 && ranked[0][0] >= ranked[1][0] * 1.45) || ranked.length == 1
       top_name = ranked[0][1]
       others = ranked[1, 5].to_a.map { |_, n, _| n }
+      if q_norm == "netzplan" && top_name != "Netzwerktechnik und Netzplan"
+        warn "HINWEIS (Homonym 'netzplan'): Gewaehlt '#{top_name}' [#{exam_badge(top_name)}]. Fuer IT-Netzplaene nutze: topic \"Netzwerktechnik und Netzplan\""
+      end
       [top_name, @topics[top_name], others]
     else
       puts "Mehrere passende Themen fuer '#{query}':"
@@ -1322,7 +1427,7 @@ class VaultLookup
     seen = {}
 
     candidate_entries = entries.reject do |e|
-      %w[ocr_error missing redacted_summary].include?(e[:meta]["source_text_status"].to_s) || install_boilerplate?(e)
+      %w[ocr_error missing redacted_summary partial].include?(e[:meta]["source_text_status"].to_s) || install_boilerplate?(e)
     end
     candidate_entries = entries.reject { |e| install_boilerplate?(e) } if candidate_entries.empty?
     candidate_entries = entries if candidate_entries.empty?
@@ -1335,9 +1440,11 @@ class VaultLookup
       lines.each_with_index do |line, idx|
         next if idx <= last_taken_idx + 2
         next unless RULE_SIGNAL_PATTERNS.any? { |pat| line.match?(pat) }
+        next if line.match?(/schreibt man diesen Typ in Klammern vor den Ausdruck/i)
 
         window = complete_rule_sentence(lines, idx)
         next if window.nil? || window.length < 25
+        next if window.match?(/schreibt man diesen Typ in Klammern vor den Ausdruck/i)
         sig = normalize(window)[0, 80]
         next if sig.empty? || seen[sig]
         seen[sig] = true
@@ -1405,6 +1512,7 @@ class VaultLookup
     score += 22 if EXERCISE_SIGNAL_PATTERNS.any? { |pat| entry[:text].match?(pat) }
     score += 10 if RULE_SIGNAL_PATTERNS.any? { |pat| entry[:text].match?(pat) }
     score -= 35 if entry[:text].match?(INSTALL_BOILERPLATE_PATTERNS.first)
+    score -= 25 if entry[:meta]["source_text_status"] == "partial"
     score -= 75 if entry[:meta]["source_text_status"] == "redacted_summary"
     score
   end
@@ -1460,10 +1568,28 @@ class VaultLookup
         coupled_counts[ct] += 1 unless ct == topic_name
       end
     end
-    coupled_topics = (coupled_counts.sort_by { |t, cnt| [-cnt, t] }.map(&:first) + related_search_topics)
+    query_tokens = tokenize(query).reject { |t| STOPWORDS.include?(t) }
+    direct_topic_hits = @topics.keys.select do |t_name|
+      next false if t_name == topic_name
+      t_norm = normalize(t_name)
+      query_tokens.any? { |tok| tok.length >= 4 && token_boundary_match?(t_norm, tok) }
+    end
+
+    coupled_topics = (direct_topic_hits + coupled_counts.sort_by { |t, cnt| [-cnt, t] }.map(&:first) + related_search_topics)
                      .select { |t| @topics.key?(t) && topic_matches_exam?(t, exam_filter) }
                      .uniq
                      .first(6)
+
+    if direct_topic_hits.any?
+      direct_topic_hits.each do |dt|
+        dt_entries = filter_task_entries(collect_topic_entries(@topics[dt], include_support: false), dt, @topics[dt])
+        matching_dt = dt_entries.select do |de|
+          norm_d = normalize(de[:text])
+          query_tokens.all? { |tok| norm_d.include?(tok) }
+        end
+        matching_dt.each { |me| entries << me unless entries.any? { |x| x[:page_id] == me[:page_id] } }
+      end
+    end
 
     puts "# 🎯 Aufgaben- & Prüfungspaket: #{topic_name}"
     puts "- **Prüfungsstatus:** #{exam_badge(topic_name)}#{exam_entry['ap1_ref'] ? " (AkA-AP1-Katalog Ref. #{exam_entry['ap1_ref']})" : ''}#{exam_entry['hinweis'] ? " — #{exam_entry['hinweis']}" : ''}"
@@ -1531,7 +1657,9 @@ class VaultLookup
     else
       puts "- Aktuell noch **0 Original-IHK-Aufgaben** zu `#{topic_name}` in `01_Index/Altklausuren_Index.json` hinterlegt *(Gesamtbestand im Vault: #{total_indexed_tasks} Aufgaben aus #{total_indexed_exams} Prüfungen)*."
       puts "- **Hybrid-IHK-Konstruktionsregel (aktiv nutzen!):**"
-      if info["category"] == "Anwendungsentwicklung"
+      if topic_exam(topic_name) == "BS"
+        puts "  1. Hinweis: Dieses Thema ist reiner **Berufsschulstoff (⚪ BS)** und nicht im aktuellen IHK-AP1-Katalog. Baue eine **komplexe Berufsschul-Klausuraufgabe** (statt einer fiktiven IHK-Aufgabe zu gestrichenem Stoff)."
+      elsif info["category"] == "Anwendungsentwicklung"
         puts "  1. Baue für IHK-Stufen eine realistische **IT-Betriebs-Handlungssituation** mit explizitem **IHK-Operator** (*Ermitteln, Entwickeln, Überprüfen, Begründen, Ergänzen*) und realistischer **Punktzahl (6–10 Punkte)**."
         puts "  2. Verbinde den Stoff aus dem Skript mit dem **AkA-Prüfungsformat** (Schreibtischtest / Trace-Tabelle, Fehlersuche in Code-Snippet, Algorithmus nach EVA/Bedingung/Schleife) und erlaube ausdrücklich die Lösung **in der Unterrichtssprache (z. B. Python mit Skript-Konventionen) ODER im sprachneutralen IHK-Pseudocode**."
       else
@@ -1699,17 +1827,19 @@ class VaultLookup
     end
 
     remaining = [limit - curated_partners.length, 2].max
-    ranked = candidates.sort_by { |sc, name, _, _| [-sc, name] }.first(remaining)
-    unless ranked.empty?
-      puts "## Weitere verwandte Themen im selben Kontext"
-      ranked.each do |sc, name, o_info, shared_src|
-        hint = shared_src > 0 ? " · #{shared_src} gemeinsame Quelle(n)" : ""
-        puts "- **#{name}** [#{exam_badge(name)} | #{o_info['category']}] (#{o_info['pages'].length} S.#{hint}) · Relevanz #{sc}"
+    if curated_partners.empty?
+      ranked = candidates.sort_by { |sc, name, _, _| [-sc, name] }.first(remaining)
+      unless ranked.empty?
+        puts "## Thematisch verwandt (kein kuratiertes Verwechslungspaar)"
+        ranked.each do |sc, name, o_info, shared_src|
+          hint = shared_src > 0 ? " · #{shared_src} gemeinsame Quelle(n)" : ""
+          puts "- **#{name}** [#{exam_badge(name)} | #{o_info['category']}] (#{o_info['pages'].length} S.#{hint}) · Relevanz #{sc}"
+        end
       end
     end
   end
 
-  def cmd_render(source_query, range_spec, out_dir:, width: 1400)
+  def cmd_render(source_query, range_spec, out_dir:, width: 1500)
     source_rel = resolve_source(source_query)
     src = load_source(source_rel)
     abort "Quellnotiz nicht lesbar: #{source_rel}" unless src
@@ -1733,7 +1863,8 @@ class VaultLookup
 
     binary = ensure_render_binary!
     out = File.expand_path(out_dir)
-    stdout, stderr, status = Open3.capture3(binary, pdf_path.to_s, out, allowed.join(","), width.to_s)
+    source_slug = File.basename(source_rel, ".md")
+    stdout, stderr, status = Open3.capture3(binary, pdf_path.to_s, out, allowed.join(","), width.to_s, source_slug)
     abort "Rendern fehlgeschlagen:\n#{stderr}" unless status.success?
 
     pdf_bn = File.basename(src[:original_pdf])
@@ -1756,8 +1887,8 @@ class VaultLookup
     return RENDER_BIN.to_s if RENDER_BIN.executable? && File.mtime(RENDER_BIN) >= File.mtime(RENDER_SOURCE)
 
     FileUtils.mkdir_p(RENDER_BIN.dirname)
-    cmd = ["clang", "-fobjc-arc", "-framework", "Foundation", "-framework", "AppKit",
-           "-framework", "PDFKit", RENDER_SOURCE.to_s, "-o", RENDER_BIN.to_s]
+    cmd = ["clang", "-O2", "-fobjc-arc", "-framework", "Foundation", "-framework", "CoreGraphics",
+           "-framework", "ImageIO", "-framework", "PDFKit", RENDER_SOURCE.to_s, "-o", RENDER_BIN.to_s]
     _out, err, st = Open3.capture3(*cmd)
     abort "Kompilieren von render_pdf_page.m fehlgeschlagen:\n#{err}" unless st.success?
     RENDER_BIN.to_s
@@ -1768,7 +1899,10 @@ class VaultLookup
     text = entry[:text].to_s
     truncated = false
     if max_chars > 0 && text.length > max_chars
-      text = text[0, max_chars].rstrip + "\n[... gekuerzt bei #{max_chars} Zeichen; mit --max-chars 0 vollstaendig laden ...]"
+      head = text[0, max_chars].rstrip
+      tail_match = text[max_chars..].match(/(\[(?:Korrekturhinweis|Prüfungshinweis|Hinweis)[^\]]*\].*)\z/m)
+      tail_block = tail_match ? "\n\n#{tail_match[1].strip}" : ""
+      text = head + "\n[... gekuerzt bei #{max_chars} Zeichen; mit --max-chars 0 vollstaendig laden ...]" + tail_block
       truncated = true
     end
 
@@ -1784,6 +1918,9 @@ class VaultLookup
     puts "- Fach: **#{fach_lbl}** | PDF: [#{pdf_bn}](#{file_url_for(entry[:original_pdf], page: entry[:page_num])}) (#{page_of})#{ctype_badge}"
     puts "- Quellnotiz: `#{entry[:source_rel]}` | Status: `#{m['status']}` | Text: `#{quote_badge}`#{sup_badge}"
     puts "- Themen: #{m.fetch('canonical_topics', []).join(', ')}"
+    if m["source_text_status"] == "partial"
+      puts "> ⚠️ ACHTUNG (unbereinigter Handschrift-/Scan-OCR): Zahlen, Indizes und Formeln NICHT ungeprüft übernehmen — per `vault_lookup.rb render` am Original-PDF prüfen!"
+    end
     puts "```text"
     puts text.empty? ? "(Kein extrahierter Text — bitte Original-PDF pruefen)" : text
     puts "```"
@@ -1848,7 +1985,7 @@ opts = {
   include_support: false,
   max_chars: MAX_PAGE_CHARS_DEFAULT,
   out: "/tmp/ap_lerncoach_render/pages",
-  width: 1400
+  width: 1500
 }
 
 parser = OptionParser.new do |o|
@@ -1856,6 +1993,7 @@ parser = OptionParser.new do |o|
   o.on("--exam EXAM") { |v| opts[:exam] = v }
   o.on("--type TYPES") { |v| opts[:type] = v }
   o.on("--limit N", Integer) { |v| opts[:limit] = v }
+  o.on("--count N", Integer) { |v| opts[:limit] = v }
   o.on("--compact") { opts[:compact] = true }
   o.on("--max-pages N", Integer) { |v| opts[:max_pages] = v }
   o.on("--pages SPEC") { |v| opts[:pages] = v }

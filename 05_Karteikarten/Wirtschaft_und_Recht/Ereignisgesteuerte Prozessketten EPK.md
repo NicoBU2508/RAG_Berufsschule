@@ -89,3 +89,12 @@ Beide dürfen **ausschließlich mit Funktionen** verbunden werden (nicht mit Ere
 - **`IO ← Funktion`:** Ausgangsdatenfluss (**Schreiben**) – die Funktion schreibt/erzeugt Daten im Informationsobjekt.
 - **`IO ↔ Funktion`:** **Lesen – Schreiben** – Daten werden eingelesen, bearbeitet und zurückgeschrieben (z. B. beim Buchhaltungssystem).
 *Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 8, 16](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=8>) (von 22) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: ereignisgesteuerte-prozessketten-epk-07 | typ: modellierung | pruefung: AP2 -->
+**Fehlercheck in einer eEPK: `Ereignis: "Rechnung ist geprüft" → XOR → (F1: "Freigeben" / F2: "Ablehnen")` und an `"Rechnung ist geprüft"` hängt die Org-Einheit `"Buchhaltung"`. Nenne beide Fehler!**
+?
+1. **Verbotene `XOR`-Aufspaltung nach Ereignis:** Ereignisse sind passiv — `XOR` darf erst nach einer **Funktion** (*„Rechnung prüfen“*) stehen.
+2. **Falsche eEPK-Anbindung:** Organisationseinheiten dürfen **nur an Funktionen**, niemals an Ereignisse angebunden werden.
+*Quelle: BGWP Betriebswirtschaft (2. LJ) · [BGWP mitschickt.pdf · S. 7–8, 13](<99_Originale/Berufsschule/BGWP/2_LJ/BGWP mitschickt.pdf#page=7>) (von 35) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/BGWP_2LJ_Mitschrift|Quellnotiz]]*

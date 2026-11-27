@@ -30,7 +30,7 @@
     "Rekursion und Iteration": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "Vertiefte Algorithmen für AP2 FIAE Teil 2" },
     "SQL-Aggregatfunktionen und Gruppierung": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "SQL-Abfragen (GROUP BY / HAVING) ab 2025 in AP2 verschoben" },
     "SQL-Datenmanipulation INSERT UPDATE DELETE": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "SQL-DML ab 2025 in AP2 verschoben" },
-    "SQL-Grundlagen und SELECT-Abfragen": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "SQL-SELECT/JOIN ab 2025 in AP2 verschoben" },
+    "SQL-Grundlagen und SELECT-Abfragen": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "SQL-SELECT (Ein-Tabellen-Abfragen im Vault; JOIN folgt im AP2-Ausbau) ab 2025 in AP2 verschoben" },
     "Schleifen": { "pruefung": "AP1/AP2", "ap1_ref": "3.8", "hinweis": "Trace-Tabellen & Off-by-One-Fehlersuche in AP1; Algorithmen in AP2" },
     "Softwareanpassung und Dokumentation": { "pruefung": "AP1/AP2", "ap1_ref": "4.1", "hinweis": "Benutzer- vs. Systemdoku & Übergabe in AP1; Projektdoku in AP2" },
     "Softwarelebenszyklus und Vorgehensmodelle": { "pruefung": "AP1/AP2", "ap1_ref": "1.3", "hinweis": "Wasserfallmodell vs. Scrum in AP1; Softwareengineering in AP2" },
@@ -117,7 +117,7 @@
     "Religion Ethik und Menschenbild": { "pruefung": "BS", "ap1_ref": null, "hinweis": "Religion / Ethik Berufsschule" },
     "Symbole und Glaube": { "pruefung": "BS", "ap1_ref": null, "hinweis": "Religion Berufsschule" },
 
-    "Angebotsvergleich und Nutzwertanalyse": { "pruefung": "AP1", "ap1_ref": "2.7", "hinweis": "Top-10-Punktegarant AP1: Quantitativer & qualitativer Vergleich (NWA)" },
+    "Angebotsvergleich und Nutzwertanalyse": { "pruefung": "AP1/AP2", "ap1_ref": "2.7", "hinweis": "Top-10-Punktegarant AP1: Quantitativer & qualitativer Vergleich (NWA) sowie Make-or-Buy/Auswahl in der AP2-Projektarbeit" },
     "Ausbildungsvertrag und BBiG": { "pruefung": "AP2", "ap1_ref": null, "hinweis": "Klassiker für AP2 WiSo" },
     "Beschaffungsquellen und Stammdaten": { "pruefung": "AP1", "ap1_ref": "2.7", "hinweis": "Beschaffungsprozess vorbereiten" },
     "Besitz, Eigentum und Rechtssubjekte": { "pruefung": "AP1/AP2", "ap1_ref": "2.8", "hinweis": "Eigentumsvorbehalt bei Beschaffung (AP1) & Rechtsgrundlagen (AP2 WiSo)" },

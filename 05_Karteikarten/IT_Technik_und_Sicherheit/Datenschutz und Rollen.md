@@ -31,7 +31,7 @@ tags:
 <!-- card-id: datenschutz-und-rollen-01 | typ: abgrenzung | pruefung: AP1/AP2 -->
 **Wie unterscheiden sich Datenschutz, Datensicherheit und Informationssicherheit?**
 ?
-Datenschutz schützt die Privatsphäre (Recht auf informationelle Selbstbestimmung, BDSG) und klärt, ob personenbezogene Daten verarbeitet werden dürfen. Datensicherheit schützt alle Daten vor Verlust, Manipulation und unbefugtem Einblick; Informationssicherheit schützt digitale wie analoge Informationen unabhängig vom Personenbezug.
+Datenschutz schützt die Privatsphäre (Recht auf informationelle Selbstbestimmung; **IHK-Standard seit 2018: primär DSGVO i. V. m. BDSG**) und klärt, ob personenbezogene Daten verarbeitet werden dürfen. Datensicherheit schützt alle Daten vor Verlust, Manipulation und unbefugtem Einblick; Informationssicherheit schützt digitale wie analoge Informationen unabhängig vom Personenbezug.
 *Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 99](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=99>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
 
 ---

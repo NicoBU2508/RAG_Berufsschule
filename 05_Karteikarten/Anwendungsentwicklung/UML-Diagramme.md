@@ -52,7 +52,7 @@ UML-Diagramme werden dabei in OOA und OOD eingesetzt.
 
 ---
 
-<!-- card-id: uml-diagramme-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: uml-diagramme-02 | typ: abgrenzung | pruefung: AP2 -->
 **Welche sechs UML-Strukturdiagramme gibt es und wie grenzen sich Klassen- und Objektdiagramm ab?**
 ?
 Zu den Strukturdiagrammen (statische Diagramme) zählen Klassen-, Objekt-, Kompositionsstruktur-, Komponenten-, Verteilungs- und Paketdiagramm.
@@ -111,7 +111,31 @@ Ein **Endzustand** markiert das reguläre Ende und darf **keine ausgehende Trans
 ?
 Beides führt zu **Nichtdeterminismus**: Überlappende Guards (z. B. `[PIN falsch && versuch >= 3]` neben `[PIN falsch]`) verdecken den spezielleren Zweig – Guards müssen **disjunkt** sein (oder `[else]` nutzen).
 Ebenso dürfen aus demselben Zustand nicht zwei Transitionen mit **demselben Ereignis** ohne unterscheidende Guards zu verschiedenen Zielen führen.
-*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_jac_Mitschrift.pdf · S. 18–19](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=18>) (von 19) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_jac_Mitschrift.pdf · S. 18–19](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=18>) (von 20) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: uml-diagramme-11 | typ: definition | pruefung: AP1 -->
+**Wozu dient das UML-Aktivitätsdiagramm (AP1-Schwerpunkt) und welche Grundsymbole nutzt es für Start, Aktion, Verzweigung, Parallelität und Ende?**
+?
+Das **Aktivitätsdiagramm** modelliert Kontroll- und Datenflüsse eines Ablaufs (Verhaltensdiagramm). Grundsymbole: gefüllter Kreis = **Startknoten**, abgerundetes Rechteck = **Aktion**, leere Raute = **Entscheidung/Zusammenführung** (mit Guards `[Bedingung]`), dicker schwarzer Balken = **Parallelisierung (Fork/Join)**, Kreis mit Punkt = **Endknoten**.
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_jac_Mitschrift.pdf · S. 6](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=6>) (von 20) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: uml-diagramme-12 | typ: modellierung | pruefung: AP1 -->
+**In einem UML-Aktivitätsdiagramm soll nach „Bestellung prüfen“ parallel (gleichzeitig) „Rechnung erstellen“ UND „Ware verpacken“ ablaufen. Welches Symbol ist nötig?**
+?
+Ein **dicker schwarzer Balken** als **Aufspaltung (Fork)** vor den beiden parallelen Aktionen und ein zweiter **dicker schwarzer Balken** als **Synchronisation (Join)** danach — eine leere Raute wäre falsch, da diese nur eine *Entweder-oder*-Entscheidung (`XOR`) modelliert.
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_jac_Mitschrift.pdf · S. 6](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=6>) (von 20) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: uml-diagramme-13 | typ: abgrenzung | pruefung: AP1 -->
+**Was zeigt ein UML-Anwendungsfalldiagramm (Use-Case-Diagramm) und was bedeuten Akteur, Systemgrenze und `<<include>>` vs. `<<extend>>`?**
+?
+Es zeigt **was** ein System aus Sicht der Nutzer leisten soll (Funktionsumfang, nicht den Ablauf): **Akteur** (Strichmännchen außerhalb), **Systemgrenze** (Rechteck), **Use Case** (Ellipse). `<<include>>` = zwingend enthaltener Teil-Use-Case; `<<extend>>` = optionale Erweiterung unter einer Bedingung.
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_jac_Mitschrift.pdf · S. 6](<99_Originale/Berufsschule/AE/2_LJ/AE_jac/AE_jac_Mitschrift.pdf#page=6>) (von 20) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Jac_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
 

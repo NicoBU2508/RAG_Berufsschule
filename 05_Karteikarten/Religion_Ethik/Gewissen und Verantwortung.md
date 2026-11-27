@@ -53,9 +53,9 @@ Das **kindliche Gehorsamsgewissen** entwickelt sich durch Gebote und Verbote der
 ---
 
 <!-- card-id: gewissen-und-verantwortung-03 | typ: definition | pruefung: BS -->
-**Welche drei Bereiche der Seele unterscheidet Sigmund Freud und welchem ordnet das Skript das Gewissen zu?**
+**Welche drei Instanzen der Seele unterscheidet Sigmund Freud und welche ist der eigentliche Sitz des Gewissens?**
 ?
-Freud unterscheidet das **Über-Ich** (anerzogene, nicht hinterfragte Kindheitsnormen), das **Es** (natürliche Triebe) und das **Ich** (eigene Definition gesunder Menschen, woraus Schuldgefühle entstehen). Laut Skript gehört das Gewissen zum **Ich**.
+Freud unterscheidet das **Über-Ich** (verinnerlichte Moral/Normen), das **Es** (Triebe) und das **Ich** (vermittelt nach dem Realitätsprinzip). **Fachliche Korrektur zur Mitschrift:** In Freuds Modell ist das **Über-Ich** Sitz des moralischen Gewissens und der Schuldgefühle (nicht das Ich, wie fälschlich in der Gruppenmitschrift notiert).
 *Quelle: Religion (2. LJ) · [01_Skript_Gewissen.pdf · S. 6](<99_Originale/Berufsschule/Religion/2_LJ/01_Skript_Gewissen.pdf#page=6>) (von 14) · [[02_Faecher/Religion/Quellen/Ethik_2LJ_Skript_Gewissen|Quellnotiz]], OCR/Original prüfen*
 
 ---

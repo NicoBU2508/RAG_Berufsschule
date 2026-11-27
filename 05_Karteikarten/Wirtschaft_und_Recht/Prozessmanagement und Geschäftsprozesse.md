@@ -83,7 +83,7 @@ Zwischen allen drei Eckpunkten bestehen **Zielkonflikte** – die optimale Gesta
 
 ---
 
-<!-- card-id: prozessmanagement-und-geschaeftsprozesse-07 | typ: anwendung | pruefung: AP1/AP2 -->
+<!-- card-id: prozessmanagement-und-geschaeftsprozesse-07 | typ: anwendung | pruefung: AP2 -->
 **Welche Regeln gelten in einer Ereignisgesteuerten Prozesskette (EPK) für Ereignis, Funktion, Organisationseinheit und Operatoren?**
 ?
 Jeder Prozess beginnt mit einem **Start-/Auslöseereignis** und endet mit einem **End-/Ergebnisereignis**; **Funktionen** (Verben, verbrauchen Zeit/Ressourcen) folgen auf Ereignisse.

@@ -41,7 +41,8 @@ REVIEW_ROOT = WORK_TMP.join("review")
 PRIVACY_PATH_PATTERN = /(^|[\/_\-\s.])(noten|zeugnis|zeugnisse|privat|gehalt|kontoauszug|passwort|pin|tan)([\/_\-\s.]|$)/i
 SOLUTION_NAME_PATTERN = /(loesung|lösung|loesungshinweis|lösungshinweis|musterloesung|musterlösung|erwartungshorizont|korrektur|bewertung)/i
 
-VALID_PRUEFUNGEN = %w[AP1 AP2_GA1 AP2_GA2 AP2_WiSo AP2].freeze
+VALID_PRUEFUNGEN = %w[AP1 AP2_Planen AP2_Algorithmen AP2_GA1 AP2_GA2 AP2_WiSo AP2].freeze
+TERM_ORDER = { "Fruehjahr" => 1, "Sommer" => 2, "Herbst" => 3, "Winter" => 4 }.freeze
 VALID_TERMINE = %w[Fruehjahr Sommer Herbst Winter].freeze
 VALID_AUFGABENTYPEN = %w[
   code_trace
@@ -107,6 +108,8 @@ module ExamHelpers
     s = raw.to_s.strip.upcase.gsub(/[\s\-]+/, "_")
     case s
     when "AP1" then "AP1"
+    when "AP2_PLANEN", "PLANEN" then "AP2_Planen"
+    when "AP2_ALGORITHMEN", "ALGORITHMEN" then "AP2_Algorithmen"
     when "AP2_GA1", "GA1", "AP2_TEIL1" then "AP2_GA1"
     when "AP2_GA2", "GA2", "AP2_TEIL2" then "AP2_GA2"
     when "AP2_WISO", "WISO" then "AP2_WiSo"
@@ -362,7 +365,9 @@ class AltklausurPipeline
 
     mapping = VaultSupport.read_json(VaultSupport::MAPPING_PATH)
     valid_topics = mapping.fetch("topics").keys
-    valid_sources = mapping.fetch("sources").keys
+    sources_map = mapping.fetch("sources")
+    active_sources = sources_map.reject { |_, s| s["status"].to_s == "excluded" }
+    seen_task_ids = {}
 
     exam_files = Dir.glob(AUDIT_EXAM_DIR.join("*.json").to_s).sort
     exams_out = []
@@ -400,8 +405,17 @@ class AltklausurPipeline
 
         Array(t["quell_belege"]).each do |qb|
           sn = qb["source_note"].to_s
-          errors << "#{t_label}: unbekannte source_note '#{sn}'" unless valid_sources.include?(sn)
+          unless active_sources.key?(sn)
+            errors << "#{t_label}: unbekannte oder ausgeschlossene source_note '#{sn}'"
+            next
+          end
+          excluded_pages = Array(active_sources[sn]["ki_exclude_seiten"]).map(&:to_i)
+          bad_pages = Array(qb["pages"]).map(&:to_i) & excluded_pages
+          errors << "#{t_label}: quell_belege enthaelt ausgeschlossene Seiten #{bad_pages.join(', ')} in '#{sn}'" unless bad_pages.empty?
         end
+        tid = ExamHelpers.sanitize_id("#{eid}_#{t['aufgabe']}")
+        errors << "#{t_label}: doppelte task_id '#{tid}'" if seen_task_ids[tid]
+        seen_task_ids[tid] = true
       end
     end
 
@@ -607,15 +621,21 @@ class AltklausurPipeline
   end
 
   def update_haeufigkeitsanalyse(tasks, mapping)
-    stats = Hash.new { |h, k| h[k] = { ap1: 0, ap2: 0, punkte: 0.0, last_seen: "" } }
+    stats = Hash.new { |h, k| h[k] = { ap1: 0, ap2: 0, punkte: 0.0, last_sort: [0, 0], last_seen: "" } }
     tasks.each do |t|
       is_ap1 = t["pruefung"] == "AP1"
       label = "#{t['jahr']} (#{t['termin']})"
-      Array(t["canonical_topics"]).each do |ct|
+      sort_key = [t["jahr"].to_i, TERM_ORDER.fetch(t["termin"].to_s, 0)]
+      ctopics = Array(t["canonical_topics"])
+      share = ctopics.empty? ? 0.0 : (t["punkte"].to_f / ctopics.length)
+      ctopics.each do |ct|
         s = stats[ct]
         is_ap1 ? s[:ap1] += 1 : s[:ap2] += 1
-        s[:punkte] += t["punkte"].to_f
-        s[:last_seen] = [s[:last_seen], label].max
+        s[:punkte] += share
+        if (sort_key <=> s[:last_sort]) > 0
+          s[:last_sort] = sort_key
+          s[:last_seen] = label
+        end
       end
     end
 

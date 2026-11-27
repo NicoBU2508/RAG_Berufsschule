@@ -52,11 +52,10 @@ Bei `x = 1` ist `x > 1` gleich `false`, die Schleife bricht ab und der Algorithm
 
 ---
 
-<!-- card-id: rekursion-und-iteration-04 | typ: anwendung | pruefung: AP2 -->
-**Wie berechnet der rekursive Algorithmus `summe(4)` (bzw. `sum(4)`) im Schreibtischtest das Ergebnis `10`?**
+<!-- card-id: rekursion-und-iteration-04 | typ: code_trace | pruefung: AP2 -->
+**Welchen Rückgabewert liefert der rekursive Algorithmus `summe(4)` (`wenn x > 0 dann return x + summe(x - 1) sonst return 0`) – inklusive Aufruf- und Rückkehrfolge?**
 ?
-Ausgehend von `x = 4` ruft sich das Unterprogramm jeweils mit `x - 1` selbst auf (`4 -> 3 -> 2 -> 1 -> 0`), bis bei `x = 0` die Bedingung `x > 0` nicht mehr erfüllt ist.
-Beim schrittweisen Zurückkehren aus den Unterprogrammaufrufen werden die Werte aufaddiert (`0 + 1 + 2 + 3 + 4`), sodass `10` zurückgegeben wird.
+Abstieg: `4 -> 3 -> 2 -> 1 -> 0` (Abbruch bei `x = 0` liefert `0`). Aufstieg/Addition: `0 + 1 + 2 + 3 + 4` → Rückgabewert **`10`**.
 *Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 48–49](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=48>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]], OCR/Original prüfen*
 
 ---

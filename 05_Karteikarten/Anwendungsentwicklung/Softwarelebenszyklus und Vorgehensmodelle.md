@@ -46,7 +46,7 @@ Die Phasen 5 (Einsatz/Installation) und 6 (Wartung) gehören nicht mehr zum eige
 
 ---
 
-<!-- card-id: softwarelebenszyklus-und-vorgehensmodelle-02 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: softwarelebenszyklus-und-vorgehensmodelle-02 | typ: abgrenzung | pruefung: AP2 -->
 **Wann ist das Wasserfall-Modell geeignet, und wodurch erweitert das V-Modell diesen Ansatz?**
 ?
 Das Wasserfall-Modell eignet sich für kleine Projekte mit frühzeitig präzisen, kaum veränderlichen Anforderungen, da jede Phase sequenziell abgeschlossen wird (Rückkopplung nur zur vorherigen Phase).
@@ -55,7 +55,7 @@ Das V-Modell erweitert es u. a. um Qualitätssicherung (QM), Konfigurations- und
 
 ---
 
-<!-- card-id: softwarelebenszyklus-und-vorgehensmodelle-03 | typ: definition | pruefung: AP1/AP2 -->
+<!-- card-id: softwarelebenszyklus-und-vorgehensmodelle-03 | typ: definition | pruefung: AP2 -->
 **Wie ist das Spiral-Modell aufgebaut und welches Hauptziel verfolgt es?**
 ?
 Das Spiral-Modell ist ein iteratives Modell, das in wiederholten Zyklen aus vier Phasen abläuft (Ziele/Alternativen festlegen, Risiken erkennen/reduzieren, Zwischenprodukt entwickeln/prüfen, nächsten Zyklus planen und Rückblick halten).
@@ -64,7 +64,7 @@ Im Vordergrund steht die Risikominimierung; Fehler sollen möglichst auf der Stu
 
 ---
 
-<!-- card-id: softwarelebenszyklus-und-vorgehensmodelle-04 | typ: abgrenzung | pruefung: AP1/AP2 -->
+<!-- card-id: softwarelebenszyklus-und-vorgehensmodelle-04 | typ: abgrenzung | pruefung: AP2 -->
 **Wie unterscheiden sich horizontaler, vertikaler und Pilot-Prototyp im Prototyping-Modell?**
 ?
 Ein horizontaler Prototyp (Demonstrations-Prototyp) bildet nur eine Ebene ab (z. B. die Benutzeroberfläche) und dient der Auftragsakquisition.

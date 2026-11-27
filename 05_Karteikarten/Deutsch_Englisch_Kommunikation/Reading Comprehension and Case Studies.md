@@ -93,4 +93,4 @@ Beim Design setzen Hersteller auf vielfältige Materialien/Rahmenformen oder Koo
 **Welche Kernaussagen enthält der englische Fachtextabschnitt zu *Botnets* und wie überträgt man die Schlüsselbegriffe ins Deutsche?**
 ?
 Malware kann einen PC ohne sichtbare Symptome (*no obvious symptoms*) zusammen mit vielen weiteren Rechnern zu einem **Botnetz** (*botnet*) zusammenschließen. Cyberkriminelle steuern es für **Spam-Versand** (*spam delivery*) und **DDoS-Angriffe** (*launching DDoS-attacks*), um nicht direkt zurückverfolgt zu werden (*tracked back to them*).
-*Quelle: Englisch (2. LJ) · [01_Conditionals.pdf · S. 16, 19–20](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=16>) (von 20) · [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals|Quellnotiz]]*
+*Quelle: Englisch (2. LJ) · [01_Conditionals.pdf · S. 16, 19](<99_Originale/Berufsschule/Englisch/2_LJ/01_Conditionals.pdf#page=16>) (von 20) · [[02_Faecher/Englisch/Quellen/Englisch_2LJ_Conditionals|Quellnotiz]]*

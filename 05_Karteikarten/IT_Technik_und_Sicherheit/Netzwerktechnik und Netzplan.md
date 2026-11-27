@@ -129,38 +129,18 @@ Ohne Router wird kein Datenverkehr zwischen Subnetzen weitergeleitet. Endgeräte
 
 ---
 
-<!-- card-id: netzwerktechnik-und-netzplan-08 | typ: definition | pruefung: AP1 -->
-**Wie läuft der DHCP-Prozess (DORA) beim Einschalten eines Clients ab, und welche Netzwerkkonfiguration weist ein DHCP-Server zu?**
+<!-- card-id: netzwerktechnik-und-netzplan-08 | typ: fallentscheidung | pruefung: AP1 -->
+**Fall: Ein Client `192.168.10.25/24` kann den lokalen Drucker `192.168.10.50` anpingen, aber keinen Server im Netz `192.168.20.0/24` erreichen. Wo liegt die wahrscheinlichste Fehlkonfiguration?**
 ?
-- **4 Phasen (DORA):** 1. `DHCPDISCOVER` (Client → Broadcast) · 2. `DHCPOFFER` (Server → Angebot, Unicast/Broadcast) · 3. `DHCPREQUEST` (Client → Broadcast, Annahme) · 4. `DHCPACK` (Server → Bestätigung & Lease, Unicast/Broadcast).
-- **Zugewiesene Daten:** IP-Adresse, Subnetzmaske, Standardgateway und DNS-Server.
-*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 34, 36](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=34>) (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+Fehlendes oder falsch eingetragenes **Standardgateway (Default Gateway)** auf dem Client (oder fehlende Route auf dem Router), da Kommunikation *innerhalb* desselben Subnetzes über Layer-2-Switching ohne Gateway funktioniert, *zwischen* Subnetzen aber zwingend über den Router laufen muss.
+*Quelle: ITT IT-Technik (2. LJ) · [00_IPv4_Wiederholung.pdf · S. 5](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Zielske/00_IPv4_Wiederholung.pdf#page=5>) (von 14) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Zielske_IPv4_Wiederholung|Quellnotiz]]*
 
 ---
 
-<!-- card-id: netzwerktechnik-und-netzplan-09 | typ: anwendung | pruefung: AP1 -->
-**Welche Aufgabe hat ein DNS-Server, was bedeuten die Record-Typen `A`, `AAAA`, `NS`, `CNAME` und `MX`, und wie fragt man sie in der Konsole ab?**
+<!-- card-id: netzwerktechnik-und-netzplan-09 | typ: fallentscheidung | pruefung: AP1 -->
+**Zwei Werkshallen liegen 350 m auseinander (starke elektromagnetische Störungen durch Maschinen). Welches Übertragungsmedium wählst du für die Kopplung?**
 ?
-- **Aufgabe:** Löst Domainnamen in IP-Adressen auf und umgekehrt.
-- **Records:** `A` (IPv4) · `AAAA` (IPv6) · `NS` (autoritativer Nameserver) · `CNAME` (Alias auf anderen Domainnamen) · `MX` (Mailserver inkl. Priorität).
-- **Konsole:** `nslookup <Domain>` bzw. gezielt `nslookup -type=MX beispiel.de`.
-*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 34, 37](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=34>) (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+**Glasfaser / Lichtwellenleiter (LWL)** statt Kupfer (Cat): Kupfer ist bei Ethernet auf **100 m** begrenzt und anfällig für elektromagnetische Störungen, während LWL große Distanzen störungsfrei und abhörsicher überbrückt.
+*Quelle: ITT IT-Technik (1. LJ) · [Skript_Wittmann.pdf · S. 14](<99_Originale/Berufsschule/ITT/1_LJ/IT Sicherheit/Skript_Wittmann.pdf#page=14>) (von 103) · [[02_Faecher/ITT_IT_Technik/Quellen/IT_Sicherheit_Skript_Wittmann|Quellnotiz]]*
 
----
-
-<!-- card-id: netzwerktechnik-und-netzplan-10 | typ: abgrenzung | pruefung: AP1 -->
-**Wie unterscheiden sich `SMTP`, `POP3` und `IMAP4` beim E-Mail-Verkehr, und welche Aufgaben haben `MUA`, `MTA` und `MDA`?**
-?
-- **Protokolle:** **SMTP** (`TCP 25/587`) versendet und leitet weiter · **POP3** (`TCP 110/995`) lädt Mails lokal herunter (Standard: Löschen auf dem Server) · **IMAP4** (`TCP 143/993`) verwaltet und synchronisiert Mails direkt auf dem Server.
-- **Rollen:** **MUA** (E-Mail-Client) → SMTP → **MTA** (Mailserver-Weiterleitung) → **MDA** (Zustellung ins Postfach) → Abruf durch Empfänger-MUA.
-*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 35–36](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=35>) (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
-
----
-
-<!-- card-id: netzwerktechnik-und-netzplan-11 | typ: abgrenzung | pruefung: AP1 -->
-**Wofür werden `SMB/CIFS`, `SFTP` vs. `FTPS` und `SSH` eingesetzt, und welche Verbesserungen führt `HTTP/2` ein?**
-?
-- **SMB/CIFS:** Datei-, Ordner- und Druckerfreigabe im lokalen Netz (unter Linux über Samba).
-- **SSH / SFTP vs. FTPS:** **SSH** (`TCP 22`) für verschlüsselten Fernzugriff; **SFTP** überträgt Dateien verschlüsselt über SSH (Port 22), **FTPS** nutzt FTP mit TLS/SSL.
-- **HTTP/2:** Binäres Protokoll, **Multiplexing** (mehrere parallele Anfragen über eine TCP-Verbindung ohne HTTP-Head-of-Line-Blocking), Header-Komprimierung (**HPACK**), Server Push und Stream-Priorisierung.
-*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 34–35, 37](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=34>) (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+*(Hinweis: Spezifische Anwendungsprotokolle DHCP, DNS, Mail, HTTP/2 und SFTP befinden sich im Deck [[05_Karteikarten/IT_Technik_und_Sicherheit/OSI-Schichtenmodell|OSI-Schichtenmodell]].)*

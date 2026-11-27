@@ -43,9 +43,9 @@ Externe Quellen (z. B. Internet, Messen, Fachzeitschriften, Kunden-/Lieferantenb
 ---
 
 <!-- card-id: datenherkunft-und-informationsbeschaffung-03 | typ: pruefungsfalle | pruefung: AP1 -->
-**Worin liegt der Unterschied zwischen Datenschutz (z. B. BDSG) und Datensicherheit?**
+**Worin liegt der Unterschied zwischen Datenschutz (DSGVO / BDSG) und Datensicherheit?**
 ?
-Der Datenschutz schützt die Privatsphäre eines Menschen (Recht auf informationelle Selbstbestimmung, u. a. geregelt im Bundesdatenschutzgesetz BDSG) und klärt, ob personenbezogene Daten überhaupt erhoben und verarbeitet werden dürfen.
+Der Datenschutz schützt die Privatsphäre eines Menschen (Recht auf informationelle Selbstbestimmung; **primär DSGVO i. V. m. BDSG**) und klärt, ob personenbezogene Daten überhaupt erhoben und verarbeitet werden dürfen.
 Die Datensicherheit schützt alle Daten – unabhängig vom Personenbezug – durch Maßnahmen vor Datenverlust, Manipulation und unberechtigten Einblicken.
 *Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 99–100](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=99>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]], OCR/Original prüfen*
 

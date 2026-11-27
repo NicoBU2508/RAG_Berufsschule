@@ -72,7 +72,7 @@ tags:
 ---
 
 <!-- card-id: sql-grundlagen-und-select-abfragen-03 | typ: anwendung | pruefung: AP2 -->
-**Wie sortiert `ORDER BY` standardmäßig und wie realisiert man eine absteigende bzw. mehrstufige Sortierung?**
+**Wie sortiert `ORDER BY` in SQL standardmäßig und wie realisiert man eine absteigende bzw. mehrstufige Sortierung?**
 ?
 Ohne Zusatz sortiert `ORDER BY` **aufsteigend (`ASC`)**; für eine absteigende Sortierung muss **`DESC`** angegeben werden. Bei mehreren Sortierkriterien werden diese durch Komma getrennt (z. B. `ORDER BY spalte1 DESC, spalte2;`).
 *Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 30](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=30>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
@@ -88,7 +88,7 @@ Mit **`LIKE`** filtert die `WHERE`-Klausel nach Zeichenkettenmustern (Suchmuster
 ---
 
 <!-- card-id: sql-grundlagen-und-select-abfragen-05 | typ: pruefungsfalle | pruefung: AP2 -->
-**Warum sind Klammern bei kombinierten `AND`- und `OR`-Bedingungen in der `WHERE`-Klausel entscheidend?**
+**Warum sind Klammern bei kombinierten `AND`- und `OR`-Bedingungen in der SQL-`WHERE`-Klausel entscheidend?**
 ?
 **`AND` bindet stärker als `OR`**. Sollen etwa nur Mountainbikes angezeigt werden, die unter 13 € oder über 20 € kosten, muss geklammert werden: `WHERE fahrradart = "Mountainbike" AND (tagesmietpreis < 13 OR tagesmietpreis > 20);` — sonst liefert `OR` auch andere Räder über 20 €.
 *Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 47](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=47>) (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
@@ -96,7 +96,7 @@ Mit **`LIKE`** filtert die `WHERE`-Klausel nach Zeichenkettenmustern (Suchmuster
 ---
 
 <!-- card-id: sql-grundlagen-und-select-abfragen-06 | typ: anwendung | pruefung: AP2 -->
-**Wie prüft man in der `WHERE`-Klausel einen Bereich einschließlich der Grenzen (z. B. das gesamte Jahr 2015)?**
+**Wie prüft man in der SQL-`WHERE`-Klausel einen Bereich einschließlich der Grenzen (z. B. das gesamte Jahr 2015)?**
 ?
 Mit **`BETWEEN`**, da beide Grenzen eingeschlossen sind: `WHERE kaufdatum BETWEEN "2015-1-1" AND "2015-12-31";`. Alternativ lässt sich derselbe Bereich über `>=` und `<=` verknüpft mit `AND` abfragen.
 *Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kislik.pdf · S. 45](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=45>) (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Skript|Quellnotiz]]*
@@ -104,7 +104,30 @@ Mit **`BETWEEN`**, da beide Grenzen eingeschlossen sind: `WHERE kaufdatum BETWEE
 ---
 
 <!-- card-id: sql-grundlagen-und-select-abfragen-07 | typ: abgrenzung | pruefung: AP2 -->
-**Welche Vergleichs- und logischen Operatoren stehen in der `WHERE`-Klausel zur Verfügung und was gilt für Textwerte?**
+**Welche Vergleichs- und logischen Operatoren stehen in der SQL-`WHERE`-Klausel zur Verfügung und was gilt für Textwerte?**
 ?
 Vergleichsoperatoren sind **`=`**, **`!=` bzw. `<>`** (ungleich), **`<`**, **`>`**, **`<=`** und **`>=`**; Textwerte müssen in **Anführungszeichen** stehen. Mehrere Bedingungen werden mit **`AND`** (`&&`), **`OR`** (`||`) und **`NOT`** verknüpft.
 *Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 32, 34](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=32>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+
+---
+
+<!-- card-id: sql-grundlagen-und-select-abfragen-08 | typ: code_trace | pruefung: AP2 -->
+**Tabelle `fahrer(id, nachname, ort, fahrstunden)`. Schreibe eine SQL-Abfrage für alle Fahrer aus `"München"` mit mindestens 10 Fahrstunden, absteigend nach `nachname` sortiert!**
+?
+```sql
+SELECT * FROM fahrer
+WHERE ort = 'München' AND fahrstunden >= 10
+ORDER BY nachname DESC;
+```
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 28, 30, 32](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=28>) (von 45) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*
+
+---
+
+<!-- card-id: sql-grundlagen-und-select-abfragen-09 | typ: code_trace | pruefung: AP2 -->
+**Tabelle `artikel(id, bezeichnung, preis)`. Schreibe eine SQL-Abfrage für alle Artikel, deren Bezeichnung mit `"USB"` beginnt und die zwischen `10` und `50` € kosten!**
+?
+```sql
+SELECT id, bezeichnung, preis FROM artikel
+WHERE bezeichnung LIKE 'USB%' AND preis BETWEEN 10 AND 50;
+```
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [AE_Kis_Mitschrift.pdf · S. 34](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kis_Mitschrift.pdf#page=34>) (von 45) · [AE_Kislik.pdf · S. 45](<99_Originale/Berufsschule/AE/2_LJ/AE_Kislik/AE_Kislik.pdf#page=45>) (von 57) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Kislik_Mitschrift|Quellnotiz]]*

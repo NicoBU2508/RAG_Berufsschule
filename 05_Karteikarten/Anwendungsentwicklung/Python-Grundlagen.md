@@ -72,10 +72,11 @@ In Python müssen Variablen vorab nicht deklariert werden und es muss kein Speic
 
 ---
 
-<!-- card-id: python-grundlagen-03 | typ: definition | pruefung: AP2 -->
-**Was besagt das EVA-Prinzip in der Programmierung und warum verstößt `print(a + b)` dagegen?**
+<!-- card-id: python-grundlagen-03 | typ: pruefungsfalle | pruefung: AP2 -->
+**Entspricht die Python-Zeile `print(i_a + i_b)` den AE-Unterrichtsrichtlinien zum EVA-Prinzip? Begründe und korrigiere ggf.!**
 ?
-Jeder Informationsverarbeitungsprozess gliedert sich getrennt in **Eingabe** (z. B. `input()`), **Verarbeitung** (Berechnung in eine Variable) und **Ausgabe** (z. B. `print()`). Bei `print(a + b)` werden Verarbeitung und Ausgabe unzulässig vermischt.
+**Nein.** Bei `print(i_a + i_b)` werden Verarbeitung (`+`) und Ausgabe (`print(...)`) unzulässig vermischt.
+**Saubere EVA-Lösung:** Zuerst Ergebnis in eigener Variable berechnen (`i_ergebnis = i_a + i_b`) und danach getrennt ausgeben (`print(i_ergebnis)`).
 *Quelle: AE Anwendungsentwicklung (2. LJ) · [Mitschrift_AE_Eix.pdf · S. 17](<99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf#page=17>) (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]]*
 
 ---
@@ -89,9 +90,9 @@ Beim **impliziten Casting** wandelt Python bei gemischten Datentypen das Ergebni
 ---
 
 <!-- card-id: python-grundlagen-05 | typ: pruefungsfalle | pruefung: AP2 -->
-**Warum führt `wahr = false` in Python zu einem `NameError`, und welchen Wert liefert `bool(0)`?**
+**Was passiert bei der Ausführung von `b_wahr = false` in Python – und welchen Wert liefert `bool(0)`?**
 ?
-Boolesche Werte müssen in Python großgeschrieben werden (`True` bzw. `False`); kleingeschriebenes `false` wird als unbekannter Bezeichner interpretiert. `bool(0)` wird zum booleschen Wert `False` ausgewertet.
+`b_wahr = false` wirft einen **`NameError`**, da boolesche Literale in Python großgeschrieben werden müssen (`True` bzw. `False`); kleingeschriebenes `false` gilt als unbekannter Bezeichner. `bool(0)` ergibt **`False`**.
 *Quelle: AE Anwendungsentwicklung (2. LJ) · [Mitschrift_AE_Eix.pdf · S. 20](<99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf#page=20>) (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]], OCR/Original prüfen*
 
 ---
@@ -101,3 +102,56 @@ Boolesche Werte müssen in Python großgeschrieben werden (`True` bzw. `False`);
 ?
 Der eingerückte Codeblock wird nur ausgeführt, wenn die `.py`-Datei direkt gestartet wird (`__name__ == "__main__"`). Wird die Datei hingegen über `import` als Modul geladen, entspricht `__name__` dem Modulnamen und der Block läuft nicht automatisch.
 *Quelle: ITT IT-Technik (1. LJ) · [Grudausbildumg.pdf · S. 13](<99_Originale/Berufsschule/ITT/1_LJ/Grudausbildumg.pdf#page=13>) (von 16) · [[02_Faecher/ITT_IT_Technik/Quellen/Grundausbildung_IT|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: python-grundlagen-07 | typ: definition | pruefung: AP2 -->
+**Welche Variablen-Typ-Präfixe verlangt die AE-Unterrichtskonvention in Python für Ganzzahl, Gleitkommazahl, Zeichenkette und Wahrheitswert?**
+?
+- `i_` → Ganzzahl (`int`, z. B. `i_alter`)
+- `f_` → Gleitkommazahl (`float`, z. B. `f_preis`)
+- `s_` → Zeichenkette (`str`, z. B. `s_name`)
+- `b_` → Wahrheitswert (`bool`, z. B. `b_aktiv`)
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [Mitschrift_AE_Eix.pdf · S. 16–19](<99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf#page=16>) (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]]*
+
+---
+
+<!-- card-id: python-grundlagen-08 | typ: anwendung | pruefung: AP2 -->
+**Welche Funktion wandelt in Python ein Zeichen in seinen ASCII-/Unicode-Codepoint um, und welche macht die Umkehrung? (Beispiel `'A'` = `65`)**
+?
+- **`ord('A')`** → liefert den Zahlenwert `65`
+- **`chr(65)`** → liefert das Zeichen `'A'` (ASCII-Stützwerte: `'0'` = 48, `'A'` = 65, `'a'` = 97).
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [Mitschrift_AE_Eix.pdf · S. 12, 24](<99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf#page=12>) (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]]*
+
+---
+
+<!-- card-id: python-grundlagen-09 | typ: code_trace | pruefung: AP2 -->
+**Was gibt Python exakt auf der Konsole aus bei: `print("Zeile1\n\tZeile2\\Ende")`?**
+?
+```text
+Zeile1
+	Zeile2\Ende
+```
+`\n` erzeugt einen Zeilenumbruch, `\t` einen Tabulator und `\\` gibt einen einzelnen Backslash aus.
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [Mitschrift_AE_Eix.pdf · S. 11–12, 25](<99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf#page=11>) (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]]*
+
+---
+
+<!-- card-id: python-grundlagen-10 | typ: code_trace | pruefung: AP2 -->
+**Welchen Datentyp und Wert hat `x` in Python nach: `i_a = 5; i_b = 2; f_c = i_a / i_b; i_d = int(f_c)`?**
+?
+- `f_c` hat Typ **`float`** und Wert **`2.5`** (normale Division `/` liefert in Python 3 immer `float`).
+- `i_d` hat Typ **`int`** und Wert **`2`** (`int(...)` schneidet Nachkommastellen ab, rundet nicht!).
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [Mitschrift_AE_Eix.pdf · S. 19](<99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf#page=19>) (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: python-grundlagen-11 | typ: code_trace | pruefung: AP2 -->
+**Schreibe nach AE-Skriptkonvention (EVA + Präfixe) ein kurzes Python-Programm, das eine Ganzzahl einliest, verdoppelt und ausgibt!**
+?
+```python
+i_zahl = int(input("Zahl: "))
+i_ergebnis = i_zahl * 2
+print(i_ergebnis)
+```
+*Quelle: AE Anwendungsentwicklung (2. LJ) · [Mitschrift_AE_Eix.pdf · S. 16–17, 26](<99_Originale/Berufsschule/AE/2_LJ/AE_Eix/Mitschrift_AE_Eix.pdf#page=16>) (von 26) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/AE_2LJ_Eix_Mitschrift|Quellnotiz]]*

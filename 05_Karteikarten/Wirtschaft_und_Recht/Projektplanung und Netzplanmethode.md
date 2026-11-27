@@ -88,5 +88,23 @@ Die Methode des Kritischen Weges (CPM) berechnet die Gesamtdauer eines Projekts 
 <!-- card-id: projektplanung-und-netzplanmethode-06 | typ: pruefungsfalle | pruefung: AP1/AP2 -->
 **Wie ändern sich die Netzplanformeln bei der „2. Methode“ (Zählung ab Tag 1 statt Tag 0)?**
 ?
-Beginnt der Startknoten mit `FAZ = 1`, verschieben sich die Zeitformeln jeweils um 1: `FEZ = FAZ + Dauer − 1`, `SAZ = SEZ − Dauer + 1` und `FP = FAZ_Nachfolger − FEZ_Vorgang − 1`. Werden Formeln der 0- und der 1-Methode gemischt, stimmen Projektdauer und freie Puffer nicht mehr.
+Beginnt der Startknoten mit `FAZ = 1`, verschieben sich die Zeitformeln jeweils um 1: `FEZ = FAZ + Dauer − 1`, `SAZ = SEZ − Dauer + 1` und `FP = min(FAZ_Nachfolger) − FEZ_Vorgang − 1`. Werden Formeln der 0- und der 1-Methode gemischt, stimmen Projektdauer und freie Puffer nicht mehr.
 *Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 43](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=43>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
+
+---
+
+<!-- card-id: projektplanung-und-netzplanmethode-07 | typ: berechnung | pruefung: AP1/AP2 -->
+**Netzplan (Start = 0): Vorgang A (`D=4`) → Vorgang B (`D=5`) und parallel A → Vorgang C (`D=2`), beide (B und C) → Vorgang D (`D=3`). Berechne `FEZ` von D und `GP` / `FP` von C!**
+?
+- Vorwärts: `A (0..4)`, `B (4..9)`, `C (4..6)`, `D (max(9,6)=9 .. 12)` → **`FEZ_D = 12`**
+- Rückwärts: `D (9..12)`, `B (4..9)`, `C (SAZ=7, SEZ=9)`
+- Puffer von C: **`GP_C = 7 - 4 = 3`**, **`FP_C = FAZ_D - FEZ_C = 9 - 6 = 3`**.
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 37–41](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=37>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*
+
+---
+
+<!-- card-id: projektplanung-und-netzplanmethode-08 | typ: modellierung | pruefung: AP1/AP2 -->
+**Wozu dient eine Entscheidungstabelle im Projekt-/Prozessdesign und wie viele Regeln ($R$) hat sie bei 3 binären Bedingungen (`J`/`N`)?**
+?
+Sie bildet komplexe Bedingungskombinationen übersichtlich und widerspruchsfrei auf Aktionen (`X`) ab. Bei $k = 3$ binären Bedingungen gibt es vollständig $2^3 = \mathbf{8\text{ Regeln}}$ (`R1`..`R8`).
+*Quelle: BGWP Betriebswirtschaft (1. LJ) · [Bgwp schredl.pdf · S. 24–27](<99_Originale/Berufsschule/BGWP/1_LJ/Bgwp schredl.pdf#page=24>) (von 45) · [[02_Faecher/BGWP_Betriebswirtschaft/Quellen/Bgwp_schredl|Quellnotiz]]*

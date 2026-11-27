@@ -190,6 +190,146 @@
       ],
       "contrast_focus": "Fristen in Probezeit vs. nach Probezeit (BBiG vs. BGB § 622), Anhörungspflicht des Betriebsrats (§ 102 BetrVG) und besondere Kündigungsverbote",
       "discrimination_question": "Handelt es sich um ein Ausbildungsverhältnis (BBiG!) oder ein reguläres Arbeitsverhältnis – und greift ein besonderer Kündigungsschutz?"
+    },
+    {
+      "id": "datenschutz-vs-datensicherheit-vs-infosicherheit",
+      "title": "Datenschutz (DSGVO/BDSG) vs. Datensicherheit vs. Informationssicherheit",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "Datenschutz und Rollen",
+        "IT-Sicherheit Grundlagen",
+        "Datenherkunft und Informationsbeschaffung"
+      ],
+      "contrast_focus": "Rechtmäßigkeit der Verarbeitung personenbezogener Daten (Datenschutz) vs. technischer Schutz beliebiger Daten (Datensicherheit) vs. Schutz digitaler & analoger Informationen über CIA (Informationssicherheit)",
+      "discrimination_question": "Geht es um das Dürfen bei personenbezogenen Daten (Datenschutz) oder um den Schutz von Daten/Informationen unabhängig vom Personenbezug (Datensicherheit / Informationssicherheit)?"
+    },
+    {
+      "id": "malware-und-angriffsarten",
+      "title": "Phishing vs. Spear-Phishing vs. Ransomware vs. Trojaner vs. Wurm vs. Virus vs. MitM/DDoS",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "Malware und Angriffe",
+        "Mobile Sicherheit"
+      ],
+      "contrast_focus": "Selbstverbreitung (Wurm ohne Wirtsdatei vs. Virus mit Wirtsdatei), Tarnung (Trojaner), Erpressungsverschlüsselung (Ransomware) und Social Engineering (Phishing/Quishing)",
+      "discrimination_question": "Braucht der Schädling eine Wirtsdatei (Virus), verbreitet er sich eigenständig übers Netz (Wurm), tarnt er sich als nützliches Programm (Trojaner) oder täuscht er den Menschen (Phishing)?"
+    },
+    {
+      "id": "doku-und-lasten-pflichtenheft",
+      "title": "Benutzer- vs. Systemdokumentation & Lastenheft vs. Pflichtenheft",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "Softwareanpassung und Dokumentation",
+        "Projektmanagement Lastenheft Pflichtenheft"
+      ],
+      "contrast_focus": "Zielgruppe Endanwender (Bedienung) vs. Entwickler/Admin (Code, Architektur, Wartung); WAS & WOFÜR vom Auftraggeber (Lastenheft) vs. WIE & WOMIT vom Auftragnehmer (Pflichtenheft)",
+      "discrimination_question": "Wer schreibt bzw. liest das Dokument – Auftraggeber/Endanwender (Lastenheft / Benutzerdoku) oder Auftragnehmer/Entwickler (Pflichtenheft / Systemdoku)?"
+    },
+    {
+      "id": "softwarearten-und-lizenzen",
+      "title": "System- vs. Anwendungssoftware, Standard- vs. Individualsoftware & Open Source vs. Proprietär",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "Programm und Software",
+        "Urheberrecht"
+      ],
+      "contrast_focus": "Betriebssystem/Treiber vs. Fachanwendung; sofort verfügbar/günstig (Standard) vs. maßgeschneidert/teuer (Individual); Quellcode offen & Copyleft/Permissive vs. geschlossener Quellcode",
+      "discrimination_question": "Zielt die Anforderung auf allgemeine Betriebsprozesse (Standardsoftware) oder auf einzigartige Wettbewerbsprozesse (Individualsoftware)?"
+    },
+    {
+      "id": "elektrotechnik-reihen-vs-parallel",
+      "title": "Reihenschaltung vs. Parallelschaltung & Spannung vs. Strom vs. Widerstand",
+      "pruefung": "AP1",
+      "topics": [
+        "Ohmsches Gesetz und Leiterwiderstand",
+        "Spannung, Strom und Widerstand",
+        "Reihen-, Parallel- und Gruppenschaltungen"
+      ],
+      "contrast_focus": "Reihe: I konstant, U teilt sich, R_ges = R1+R2; Parallel: U konstant, I teilt sich, 1/R_ges = 1/R1 + 1/R2 (R_ges immer kleiner als kleinster Einzelwiderstand!)",
+      "discrimination_question": "Bleibt in der Schaltung die Stromstärke I gleich (Reihe) oder die Spannung U (Parallel)?"
+    },
+    {
+      "id": "zahlensysteme-und-zeichencodierung",
+      "title": "Binär- vs. Dezimal- vs. Hexadezimalsystem & ASCII vs. UTF-8 Speicherbedarf",
+      "pruefung": "AP1",
+      "topics": [
+        "Binärzahlen",
+        "Hexadezimalsystem",
+        "Zeichencodierung und ASCII"
+      ],
+      "contrast_focus": "Basis 2 (Bit), Basis 16 (4 Bit = 1 Hex-Ziffer/Nibble), ASCII (7 Bit / 1 Byte, 128 Zeichen) vs. UTF-8 (variabel 1–4 Byte je Zeichen, abwärtskompatibel zu ASCII)",
+      "discrimination_question": "Wie viele Bytes benötigt das Zeichen in ASCII (1 Byte) bzw. ein deutsches Sonderzeichen/Emoji in UTF-8 (2–4 Bytes)?"
+    },
+    {
+      "id": "vorgehensmodelle-wasserfall-vs-scrum",
+      "title": "Wasserfallmodell vs. Scrum (Rollen, Artefakte & Events)",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "Softwarelebenszyklus und Vorgehensmodelle"
+      ],
+      "contrast_focus": "Sequenzielle Phasen mit stabilen Anforderungen (Wasserfall) vs. iterative Sprints mit Product Owner (WAS), Scrum Master (Prozess) und Developers (WIE)",
+      "discrimination_question": "Verantwortet die Rolle das Produkt/Backlog (Product Owner) oder beseitigt sie Hindernisse für das Team (Scrum Master)?"
+    },
+    {
+      "id": "programmierung-typen-casting-rekursion",
+      "title": "Implizites vs. Explizites Casting, `=` vs. `==`, Call-by-Sharing & Iteration vs. Rekursion",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "Variablen und Datentypen",
+        "Python-Grundlagen",
+        "Java-Grundlagen",
+        "Rekursion und Iteration"
+      ],
+      "contrast_focus": "Zuweisung (=) vs. Vergleich (==), Informationsverlust beim Narrowing/Casting, Schleife (Iteration) vs. Selbstaufruf mit Abbruchbedingung (Rekursion)",
+      "discrimination_question": "Fehlt bei der Rekursion die Abbruchbedingung (StackOverflow/RecursionError) – und erfolgt die Typumwandlung implizit oder explizit?"
+    },
+    {
+      "id": "suche-und-arrays",
+      "title": "Lineare Suche vs. Binäre Suche & 1D- vs. 2D-Array-Indizierung",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "Suchalgorithmen",
+        "Arrays und Datenstrukturen"
+      ],
+      "contrast_focus": "Lineare Suche (unsortiert, O(n)) vs. Binäre Suche (zwingend sortiert!, O(log n)); 2D-Array [Zeile][Spalte]",
+      "discrimination_question": "Ist das Array zwingend vorsortiert (Voraussetzung für binäre Suche!) oder unsortiert (lineare Suche)?"
+    },
+    {
+      "id": "support-level-und-sla",
+      "title": "1st- vs. 2nd- vs. 3rd-Level-Support & SLA vs. OLA / Reaktions- vs. Wiederherstellungszeit",
+      "pruefung": "AP1/AP2",
+      "topics": [
+        "IT-Servicearten und Service-Management",
+        "Hochverfügbarkeit und Redundanz"
+      ],
+      "contrast_focus": "SPOC/Standardfälle (1st) vs. Fachabteilung/tiefe Analyse (2nd) vs. Hersteller/Entwicklung (3rd); SLA (extern mit Kunde) vs. OLA (intern)",
+      "discrimination_question": "Gilt die Vereinbarung mit einem externen Kunden (SLA) oder zwischen internen IT-Teams (OLA) – und ist die Zeit bis zur ersten Antwort (Reaktion) oder bis zur Lösung (Wiederherstellung) gemeint?"
+    },
+    {
+      "id": "kommunikation-und-geschaeftskorrespondenz",
+      "title": "4-Ohren-Modell (Schulz von Thun) & Geschäftsbrief vs. Geschäftsmail",
+      "pruefung": "AP1",
+      "topics": [
+        "Kommunikation Modelle",
+        "Geschäftsbrief",
+        "Geschäftsmail"
+      ],
+      "contrast_focus": "Sachinhalt, Selbstkundgabe, Beziehung, Appell (4 Ebenen); DIN 5008 Formvorschriften Brief vs. E-Mail (Betreff, Anrede, Signatur, CC/BCC)",
+      "discrimination_question": "Auf welcher der 4 Ebenen sendet/empfängt die Aussage (Fakt vs. Beziehungshinweis vs. Handlungsaufforderung)?"
+    },
+    {
+      "id": "wiso-rechtsformen-vollmachten-markt",
+      "title": "Rechtsformen (OHG/KG/GmbH/UG/AG), Vollmachten (Prokura/HV), Aufbauorganisation & Marktformen (AP2 WiSo)",
+      "pruefung": "AP2",
+      "topics": [
+        "Rechtsformen",
+        "Unternehmensrecht Handelsregister Vollmachten",
+        "Organisation im Betrieb",
+        "Marktumfeld und Marktformen",
+        "Wettbewerbsrecht und Unternehmenszusammenschlüsse"
+      ],
+      "contrast_focus": "Unbeschränkte vs. beschränkte Haftung, Handelsregister Abt. A (Einzel/PersG) vs. Abt. B (KapG), Prokura (§ 49 HGB) vs. Handlungsvollmacht, Einlinien vs. Stablinien vs. Matrix, Polypol/Oligopol/Monopol, Kartell vs. Konzern",
+      "discrimination_question": "Haften die Gesellschafter persönlich mit Privatvermögen (OHG / Komplementär) oder beschränkt auf Einlage/Gesellschaftsvermögen (GmbH / AG / Kommanditist)?"
     }
   ]
 }

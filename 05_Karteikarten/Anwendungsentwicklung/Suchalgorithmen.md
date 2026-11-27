@@ -51,9 +51,18 @@ Bei unsortierten Arrays kann sie nicht angewendet werden; dort nutzt man die lin
 
 ---
 
-<!-- card-id: suchalgorithmen-04 | typ: pruefungsfalle | pruefung: AP2 -->
-**Warum liefert die Maximumsuche im nullindizierten Array `[10, 11, 12, 15, 13, 14]` für das vierte Element die Position `3`?**
+<!-- card-id: suchalgorithmen-04 | typ: code_trace | pruefung: AP2 -->
+**Welchen Index liefert eine Maximumsuche im nullindizierten Array `[10, 11, 12, 15, 13, 14]` – und warum ist das eine typische Stolperstelle?**
 ?
-Bei nullindizierten Feldern startet der Index bei `0` (`feld[0] = 10`, `feld[1] = 11`, `feld[2] = 12`, `feld[3] = 15`).
-Der ausgegebene Index `max = 3` entspricht daher dem vierten Feldelement – eine typische Stolperstelle beim Schreibtischtest.
+Sie liefert **`max = 3`** (nicht `4`!), weil nullindizierte Felder bei `0` starten (`feld[0]=10`, `feld[1]=11`, `feld[2]=12`, `feld[3]=15` = viertes Element).
 *Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 45](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=45>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*
+
+---
+
+<!-- card-id: suchalgorithmen-05 | typ: code_trace | pruefung: AP2 -->
+**Binäre Suche im sortierten Array `[3, 7, 12, 18, 25, 31, 40]` (Indizes `0..6`) nach Zielwert `25`: Welche Indizes werden als Mitte (`(links + rechts) / 2` abgerundet) geprüft?**
+?
+1. `links=0, rechts=6` → `mitte=3` (`18 < 25` → rechts weitersuchen)
+2. `links=4, rechts=6` → `mitte=5` (`31 > 25` → links weitersuchen)
+3. `links=4, rechts=4` → `mitte=4` (`25 == 25` → Treffer an **Index 4** nach 3 Vergleichen!).
+*Quelle: AE Anwendungsentwicklung (1. LJ) · [01_Algorithmus_Programm_Software_EVA.pdf · S. 44](<99_Originale/Berufsschule/AE/1_LJ/01_Algorithmus_Programm_Software_EVA.pdf#page=44>) (von 100) · [[02_Faecher/AE_Anwendungsentwicklung/Quellen/01_Algorithmus_Programm_Software_EVA|Quellnotiz]]*

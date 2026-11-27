@@ -50,15 +50,23 @@ tags:
 
 ---
 
-<!-- card-id: osi-schichtenmodell-01 | typ: definition | pruefung: AP1 -->
-**Wie heißen die 7 Schichten des OSI-Modells (von 7 nach 1), und welche PDUs gehören zu den Schichten 1–4?**
+<!-- card-id: osi-schichtenmodell-01a | typ: definition | pruefung: AP1 -->
+**Wie heißen die 7 Schichten des ISO/OSI-Referenzmodells von Schicht 7 (oben) bis Schicht 1 (unten)?**
 ?
-7. Anwendungsschicht (Application) · 6. Darstellungsschicht (Presentation) · 5. Sitzungsschicht (Session) *(5–7: Data)*
-4. Transportschicht (Transport → **Segments**)
-3. Vermittlungsschicht (Network → **Packets**)
-2. Sicherungsschicht (Data Link → **Frames**)
-1. Bitübertragungsschicht (Physical → **Bits**)
-*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 23–24](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=23>) (von 29) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+7. **Anwendungsschicht** (Application) · 6. **Darstellungsschicht** (Presentation) · 5. **Sitzungsschicht** (Session) · 4. **Transportschicht** (Transport) · 3. **Vermittlungsschicht** (Network) · 2. **Sicherungsschicht** (Data Link) · 1. **Bitübertragungsschicht** (Physical).
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 23–24](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=23>) (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
+
+---
+
+<!-- card-id: osi-schichtenmodell-01b | typ: definition | pruefung: AP1 -->
+**Welche Dateneinheiten (PDUs) gehören zu den OSI-Schichten 1 bis 4 (und 5–7)?**
+?
+- Schicht 5–7: **Data**
+- Schicht 4 (Transport): **Segments**
+- Schicht 3 (Network): **Packets**
+- Schicht 2 (Data Link): **Frames**
+- Schicht 1 (Physical): **Bits**
+*Quelle: ITT IT-Technik (2. LJ) · [Einf Funktsw OSI 23-3.pdf · S. 23–24](<99_Originale/Berufsschule/ITT/2_LJ/FU_IT_Ott/Einf Funktsw OSI 23-3.pdf#page=23>) (von 37) · [[02_Faecher/ITT_IT_Technik/Quellen/FU_IT_2LJ_Ott_OSI_Modell|Quellnotiz]], OCR/Original prüfen*
 
 ---
 
